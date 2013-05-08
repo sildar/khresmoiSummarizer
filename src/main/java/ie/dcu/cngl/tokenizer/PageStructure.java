@@ -49,6 +49,9 @@ public class PageStructure {
 	
 	private ArrayList<SectionInfo> getParagraphsPriv() {
 		//Prior to calling getSectionInfo we need all tokens of each paragraph in one array
+		
+		//!!seems buggy to me
+		
 		ArrayList<TokenInfo> individualParagraphTokens;
 		ArrayList<ArrayList<TokenInfo>> allParagraphTokens = new ArrayList<ArrayList<TokenInfo>>();
 		for(ArrayList<ArrayList<TokenInfo>> paragraph : structure) {
@@ -60,8 +63,19 @@ public class PageStructure {
 			}
 			allParagraphTokens.add(individualParagraphTokens);
 		}
+		
 		ArrayList<ArrayList<ArrayList<TokenInfo>>> paragraphsHolder = new ArrayList<ArrayList<ArrayList<TokenInfo>>>();
+		/*
+		for(ArrayList<ArrayList<TokenInfo>> paragraph : structure) {
+			paragraphsHolder.add(paragraph);
+		}
+		*/
+		
 		paragraphsHolder.add(allParagraphTokens);
+		
+		System.out.println(paragraphsHolder.toString());
+		
+				
 		
 		return getSectionInfo(paragraphsHolder);
 	}

@@ -98,8 +98,13 @@ public class Summarizer {
 		return summary;
 	}
 
+	/**
+	 * Delete the whitespace before some punctuation marks (,?.)
+	 * @param summary the string to process
+	 * @return the processed string, without spaces before punctuation mark
+	 */
 	private String beautifulString(String summary) {
-		String result = summary.replaceAll("\\s[,?.]", ",");
+		String result = summary.replaceAll("\\s([,?.])", "$1");
 		return result;
 	}
 

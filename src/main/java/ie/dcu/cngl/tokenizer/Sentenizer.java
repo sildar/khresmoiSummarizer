@@ -28,7 +28,7 @@ public class Sentenizer implements ISentenizer {
     	SentenceModel model = new SentenceModel(modelIn);
     	sentenceDetector = new SentenceDetectorME(model);
 
-    	
+
     	}
     	catch(IOException e){
     		System.err.println("Impossible to read the model");
@@ -55,7 +55,7 @@ public class Sentenizer implements ISentenizer {
      * Tokenize the content, and divide the tokens by sentence.
      * @return A 2-dimensional array of each sentence and its tokens.
      */  
-    public synchronized ArrayList<ArrayList<TokenInfo>> sentenize(String s) {
+    public ArrayList<ArrayList<TokenInfo>> sentenize(String s) {
     	
     	ArrayList<String> sentences = new ArrayList<String>(Arrays.asList(sentenceDetector.sentDetect(s)));
     	ArrayList<ArrayList<TokenInfo>> result = new ArrayList<ArrayList<TokenInfo>>();

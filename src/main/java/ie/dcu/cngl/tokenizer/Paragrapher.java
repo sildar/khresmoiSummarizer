@@ -31,7 +31,7 @@ public class Paragrapher implements IParagrapher {
      * Tokenize the content, and divide the tokens by paragraph.
      * @return A 2-dimensional array of each paragraph and its tokens.
      */
-    public synchronized ArrayList<String> paragraph(String s) {
+    public ArrayList<String> paragraph(String s) {
     	
     	ArrayList<String> paragraphs = new ArrayList<String>();
     	String newline = "\\r?\\n";

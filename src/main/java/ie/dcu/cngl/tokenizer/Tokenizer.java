@@ -26,6 +26,7 @@ public class Tokenizer implements ITokenizer {
 			modelIn = new FileInputStream("./en-token.bin");
 			TokenizerModel model = new TokenizerModel(modelIn);
 			tokenizer = new TokenizerME(model);
+	    	
 			
 		} catch (IOException e) {
 			System.err.println("Couldn't load the tokenizer model");
@@ -48,7 +49,7 @@ public class Tokenizer implements ITokenizer {
     }
 
 
-    public synchronized ArrayList<TokenInfo> tokenize(String s) {
+    public ArrayList<TokenInfo> tokenize(String s) {
         
         
         ArrayList<String> tokens = new ArrayList<String>(Arrays.asList(tokenizer.tokenize(s)));

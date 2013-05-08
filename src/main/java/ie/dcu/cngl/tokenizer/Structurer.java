@@ -28,12 +28,14 @@ public class Structurer implements IStructurer {
 	 * @return PageStructure of provided String
 	 */
 	public PageStructure getStructure(String content) {
+		
 		ArrayList<ArrayList<ArrayList<TokenInfo>>> structure = new ArrayList<ArrayList<ArrayList<TokenInfo>>>();
 		ArrayList<String> paragraphs = paragrapher.paragraph(content);
+		
 		for(String paragraph : paragraphs) {
-			ArrayList<ArrayList<TokenInfo>> sentences = sentenizer.sentenize(paragraph);
-			structure.add(sentences);
+			structure.add(sentenizer.sentenize(paragraph));
 		}
+		
 		return new PageStructure(structure);
 	}
 }

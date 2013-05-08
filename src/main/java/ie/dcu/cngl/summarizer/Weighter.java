@@ -42,6 +42,7 @@ public class Weighter implements IWeighter {
         this.features = new ArrayList<Feature>();
     }
 
+
     public void calculateWeights(ArrayList<Double[]> weights) {
         addFeatures();
         for (Feature feature : features) {
