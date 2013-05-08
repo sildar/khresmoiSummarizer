@@ -68,7 +68,7 @@ public class PageStructure extends ArrayList<Paragraph>{
 	 * @param paragraphNumber The paragraph number containing the desired sentence.
 	 * @return The tokens of the desired sentence, or null if it doesn't exist.
 	 */
-	public ArrayList<TokenInfo> getSentenceFromParagraphTokens(int sentenceNumber, int paragraphNumber) {
+	public Sentence getSentenceFromParagraphTokens(int sentenceNumber, int paragraphNumber) {
 		try {
 			return this.get(paragraphNumber).get(sentenceNumber);
 		} catch(Exception e) {
@@ -81,7 +81,7 @@ public class PageStructure extends ArrayList<Paragraph>{
 	 * @param sentenceNumber The absolute sentence number of the desired sentence.
 	 * @return
 	 */
-	public ArrayList<TokenInfo> getSentenceTokens(int sentenceNumber) {
+	public Sentence getSentenceTokens(int sentenceNumber) {
 		return getSentenceFromParagraphTokens(sentenceNumber-sentenceToRelativePosition.get(sentenceNumber), sentenceToParagraph.get(sentenceNumber));
 	}
 	

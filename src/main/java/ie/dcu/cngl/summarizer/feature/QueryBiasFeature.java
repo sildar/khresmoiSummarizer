@@ -2,6 +2,7 @@ package ie.dcu.cngl.summarizer.feature;
 
 import ie.dcu.cngl.summarizer.SummarizerUtils;
 import ie.dcu.cngl.tokenizer.Paragraph;
+import ie.dcu.cngl.tokenizer.Sentence;
 import ie.dcu.cngl.tokenizer.TokenInfo;
 
 import java.io.IOException;
@@ -25,12 +26,12 @@ public class QueryBiasFeature extends Feature {
     public Double[] calculateRawWeights(Double[] weights) {
         final double numQueryTerms = numberOfTerms(query);
         int sentenceNumber = 0;
-        ArrayList<TokenInfo> tokenHolder;
+        Sentence tokenHolder;
         for (Paragraph paragraph : structure.getStructure()) {
-            for (ArrayList<TokenInfo> sentence : paragraph) {
+            for (Sentence sentence : paragraph) {
                 double numOccurences = 0;
                 for (TokenInfo queryToken : query) {
-                    tokenHolder = new ArrayList<TokenInfo>();
+                    tokenHolder = new Sentence();
                     tokenHolder.add(queryToken);
                     numOccurences += getNumOccurrences(tokenHolder, sentence);
                 }

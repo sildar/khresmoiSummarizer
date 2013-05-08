@@ -2,6 +2,7 @@ package ie.dcu.cngl.summarizer.feature;
 
 import ie.dcu.cngl.summarizer.SummarizerUtils;
 import ie.dcu.cngl.tokenizer.Paragraph;
+import ie.dcu.cngl.tokenizer.Sentence;
 import ie.dcu.cngl.tokenizer.TokenInfo;
 
 import java.io.IOException;
@@ -16,9 +17,9 @@ import java.util.ArrayList;
  */
 public class TitleTermFeature extends Feature {
 
-	private ArrayList<TokenInfo> titleTokens;
+	private Sentence titleTokens;
 
-	public TitleTermFeature(ArrayList<TokenInfo> titleTokens) throws IOException {
+	public TitleTermFeature(Sentence titleTokens) throws IOException {
 		this.titleTokens = titleTokens;
 	}
 
@@ -26,12 +27,12 @@ public class TitleTermFeature extends Feature {
 	public Double[] calculateRawWeights(Double[] weights) {
 		final double numTitleTerms = numberOfTerms(titleTokens);
 		int sentenceNumber = 0;
-		ArrayList<TokenInfo> tokenHolder;
+		Sentence tokenHolder;
 		for(Paragraph paragraph : structure.getStructure()) {
-			for(ArrayList<TokenInfo> sentence : paragraph) {
+			for(Sentence sentence : paragraph) {
 				double numOccurences = 0;
 				for(TokenInfo titleToken : titleTokens) {
-					tokenHolder = new ArrayList<TokenInfo>();
+					tokenHolder = new Sentence();
 					tokenHolder.add(titleToken);
 					numOccurences+=getNumOccurrences(tokenHolder, sentence);
 				}

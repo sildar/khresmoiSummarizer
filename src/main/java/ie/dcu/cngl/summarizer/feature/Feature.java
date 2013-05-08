@@ -1,6 +1,7 @@
 package ie.dcu.cngl.summarizer.feature;
 
 import ie.dcu.cngl.tokenizer.PageStructure;
+import ie.dcu.cngl.tokenizer.Sentence;
 import ie.dcu.cngl.tokenizer.TokenInfo;
 import ie.dcu.cngl.tokenizer.TokenizerUtils;
 
@@ -69,7 +70,7 @@ public abstract class Feature {
      * @param longerStr String being searched
      * @return the number of occurrences
      */
-    protected int getNumOccurrences(ArrayList<TokenInfo> searchStr, ArrayList<TokenInfo> longerStr) {
+    protected int getNumOccurrences(Sentence searchStr, Sentence longerStr) {
         int numOccurences = 0;
         final String firstSearchStrToken = searchStr.get(0).getValue();
         final int numLongStrTokens = longerStr.size(), numSearchStrTokens = searchStr.size();
@@ -165,12 +166,12 @@ public abstract class Feature {
 
     /**
      * Counts the number of important terms in a sentence (ignores punctuation, stopwords, numbers etc)
-     * @param sentence
+     * @param query
      * @return
      */
-    protected double numberOfTerms(ArrayList<TokenInfo> sentence) {
+    protected double numberOfTerms(ArrayList<TokenInfo> query) {
         double numTerms = 0;
-        StringReader reader = new StringReader(TokenizerUtils.recombineTokens1d(sentence));
+        StringReader reader = new StringReader(TokenizerUtils.recombineTokens1d(query));
         TokenStream tokenStream = analyzer.tokenStream(null, reader);
 
         try {

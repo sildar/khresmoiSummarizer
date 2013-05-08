@@ -17,6 +17,7 @@ import ie.dcu.cngl.summarizer.feature.SkimmingFeature;
 import ie.dcu.cngl.summarizer.feature.TFISFFeature;
 import ie.dcu.cngl.summarizer.feature.TitleTermFeature;
 import ie.dcu.cngl.tokenizer.PageStructure;
+import ie.dcu.cngl.tokenizer.Sentence;
 import ie.dcu.cngl.tokenizer.TokenInfo;
 
 import java.io.IOException;
@@ -32,7 +33,7 @@ public class Weighter implements IWeighter {
 
     private PageStructure structure;
     ArrayList<Feature> features;
-    private ArrayList<TokenInfo> title;
+    private Sentence title;
     private ArrayList<TokenInfo> query;
 
     /**
@@ -190,7 +191,7 @@ public class Weighter implements IWeighter {
         this.structure = structure;
     }
 
-    public void setTitle(ArrayList<TokenInfo> titleTokens) {
+    public void setTitle(Sentence titleTokens) {
         this.title = titleTokens;
     }
 

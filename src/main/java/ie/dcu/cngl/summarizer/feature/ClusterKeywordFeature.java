@@ -2,6 +2,7 @@ package ie.dcu.cngl.summarizer.feature;
 
 import ie.dcu.cngl.summarizer.SummarizerUtils;
 import ie.dcu.cngl.tokenizer.Paragraph;
+import ie.dcu.cngl.tokenizer.Sentence;
 import ie.dcu.cngl.tokenizer.TokenInfo;
 
 import java.io.IOException;
@@ -43,7 +44,7 @@ public class ClusterKeywordFeature extends LuceneFeature {
 			
 			int sentenceNumber = 0;
 			for(Paragraph paragraph : structure.getStructure()) {
-				for(ArrayList<TokenInfo> sentence : paragraph) {
+				for(Sentence sentence : paragraph) {
 					weights[sentenceNumber++]+=keywordClusterScore(topTermsAndRank, sentence);
 				}
 			}
@@ -55,7 +56,7 @@ public class ClusterKeywordFeature extends LuceneFeature {
 		return weights;
 	}
 
-	private Double keywordClusterScore(HashMap<String, Integer> topTerms, ArrayList<TokenInfo> sentence) {
+	private Double keywordClusterScore(HashMap<String, Integer> topTerms, Sentence sentence) {
 		boolean[] significanceRecord = new boolean[sentence.size()];
 		int tokenNum = 0;
 		for(TokenInfo token : sentence) {

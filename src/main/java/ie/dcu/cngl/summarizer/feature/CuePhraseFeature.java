@@ -2,6 +2,7 @@ package ie.dcu.cngl.summarizer.feature;
 
 import ie.dcu.cngl.summarizer.SummarizerUtils;
 import ie.dcu.cngl.tokenizer.Paragraph;
+import ie.dcu.cngl.tokenizer.Sentence;
 import ie.dcu.cngl.tokenizer.TokenInfo;
 import ie.dcu.cngl.tokenizer.Tokenizer;
 
@@ -18,10 +19,10 @@ import java.util.HashMap;
  */
 public class CuePhraseFeature extends TermCheckingFeature {
 	
-	private HashMap<ArrayList<TokenInfo>, Integer> cuePhrases;
+	private HashMap<Sentence, Integer> cuePhrases;
 
 	public CuePhraseFeature() throws IOException {
-		this.cuePhrases = new HashMap<ArrayList<TokenInfo>, Integer>();
+		this.cuePhrases = new HashMap<Sentence, Integer>();
         Tokenizer tokenizer = Tokenizer.getInstance();
 		for(String line : terms) {
 		    line = line.toLowerCase();
@@ -34,8 +35,8 @@ public class CuePhraseFeature extends TermCheckingFeature {
 	public Double[] calculateRawWeights(Double[] weights) {
 		int sentenceNumber = 0;
 		for(Paragraph paragraph : structure.getStructure()) {
-			for(ArrayList<TokenInfo> sentence : paragraph) {
-				for(ArrayList<TokenInfo> cuePhrase : cuePhrases.keySet()) {
+			for(Sentence sentence : paragraph) {
+				for(Sentence cuePhrase : cuePhrases.keySet()) {
 					weights[sentenceNumber]+=(getNumOccurrences(cuePhrase, sentence)*cuePhrases.get(cuePhrase));
 				}
 				sentenceNumber++;

@@ -8,12 +8,11 @@ import ie.dcu.cngl.WordNetUtils.DepthFinder;
 import ie.dcu.cngl.WordNetUtils.ICFinder;
 import ie.dcu.cngl.summarizer.SummarizerUtils;
 import ie.dcu.cngl.tokenizer.Paragraph;
-import ie.dcu.cngl.tokenizer.TokenInfo;
+import ie.dcu.cngl.tokenizer.Sentence;
 
 import java.io.IOException;
 import java.net.MalformedURLException;
 import java.net.URL;
-import java.util.ArrayList;
 
 import edu.mit.jwi.Dictionary;
 import edu.mit.jwi.IDictionary;
@@ -57,7 +56,7 @@ public class ConceptHierarchyFeature extends Feature {
     	//!!Useless
         int sentenceNumber = 0;
         for (Paragraph paragraph : structure.getStructure()) {
-            for (ArrayList<TokenInfo> sentence : paragraph) {
+            for (Sentence sentence : paragraph) {
                 double heirarchy_depth = 0;
                 double numTerms = numberOfTerms(sentence);
                 for (int i = 0; i < sentence.size(); i++) {

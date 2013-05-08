@@ -3,7 +3,9 @@ package ie.dcu.cngl.summarizer.feature;
 import ie.dcu.cngl.summarizer.SummarizerUtils;
 import ie.dcu.cngl.summarizer.feature.Affix.AffixType;
 import ie.dcu.cngl.tokenizer.Paragraph;
+import ie.dcu.cngl.tokenizer.Sentence;
 import ie.dcu.cngl.tokenizer.TokenInfo;
+
 import java.util.ArrayList;
 
 /**
@@ -54,7 +56,7 @@ public class AffixPresenceFeature extends TermCheckingFeature {
 	public Double[] calculateRawWeights(Double[] weights) {
 		int sentenceNum = 0;
 		for(Paragraph paragraph : structure.getStructure()) {
-			for(ArrayList<TokenInfo> sentence : paragraph) {
+			for(Sentence sentence : paragraph) {
 				double numOccurences = 0, numTerms = numberOfTerms(sentence);
 				for(Affix affix : affixes) {
 					if(affix.getAffix().length() > 2) {
@@ -67,7 +69,7 @@ public class AffixPresenceFeature extends TermCheckingFeature {
 		return weights;
 	}
 	
-	private Double getNumAffixOccurences(Affix affix, ArrayList<TokenInfo> sentence) {
+	private Double getNumAffixOccurences(Affix affix, Sentence sentence) {
 		final String affixStr = affix.getAffix();
 		final int affixLength = affixStr.length();
 		double numOccurences = 0;

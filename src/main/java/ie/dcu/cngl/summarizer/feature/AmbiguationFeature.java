@@ -6,10 +6,9 @@ package ie.dcu.cngl.summarizer.feature;
 
 import ie.dcu.cngl.summarizer.SummarizerUtils;
 import ie.dcu.cngl.tokenizer.Paragraph;
-import ie.dcu.cngl.tokenizer.TokenInfo;
+import ie.dcu.cngl.tokenizer.Sentence;
 
 import java.io.IOException;
-import java.util.ArrayList;
 
 import edu.smu.tspell.wordnet.WordNetDatabase;
 
@@ -26,7 +25,7 @@ public class AmbiguationFeature extends Feature {
         super();
         numberTermsOfDocument = 0;
         for (Paragraph paragraph : structure.getStructure()) {
-            for (ArrayList<TokenInfo> sentence : paragraph) {
+            for (Sentence sentence : paragraph) {
                 numberTermsOfDocument += numberOfTerms(sentence);
             }
         }
@@ -36,7 +35,7 @@ public class AmbiguationFeature extends Feature {
     public Double[] calculateRawWeights(Double[] weights) {
         int sentenceNumber = 0;
         for (Paragraph paragraph : structure.getStructure()) {
-            for (ArrayList<TokenInfo> sentence : paragraph) {
+            for (Sentence sentence : paragraph) {
                 int numSynset = 0;
                 for (int i = 0; i < sentence.size(); i++) {
                     String token = sentence.get(i).getValue();

@@ -2,6 +2,7 @@ package ie.dcu.cngl.summarizer;
 
 import ie.dcu.cngl.summarizer.feature.Feature;
 import ie.dcu.cngl.tokenizer.PageStructure;
+import ie.dcu.cngl.tokenizer.Sentence;
 import ie.dcu.cngl.tokenizer.TokenInfo;
 
 import java.util.ArrayList;
@@ -29,7 +30,7 @@ public interface IWeighter {
 	 * Sets title tokens for features that require it.
 	 * @param title Title tokens
 	 */
-	public void setTitle(ArrayList<TokenInfo> title);
+	public void setTitle(Sentence title);
 
 	/**
 	 * Sets query tokens for features that require it.
