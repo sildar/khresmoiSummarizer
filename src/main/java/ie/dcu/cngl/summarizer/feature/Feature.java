@@ -83,6 +83,7 @@ public abstract class Feature {
 	 */
 	protected int getCrossoverCount(HashMap<String, ArrayList<ArrayList<TokenInfo>>> searchTerms, ArrayList<TokenInfo> longerStr) {
 		int numOccurences = 0, tokenIndex = 0;
+		
 
 		for (TokenInfo token : longerStr) {
 			ArrayList<ArrayList<TokenInfo>> possibleMatches = searchTerms.get(token.getValue().toLowerCase());
@@ -103,6 +104,16 @@ public abstract class Feature {
 			}
 			tokenIndex++;
 		}
+		
+//		for (TokenInfo token : longerStr) {
+//			for (HashSet<TokenInfo> terms : searchTerms.values()){
+//				if (terms.contains(token)){
+//					numOccurences++;
+//					break;
+//				}
+//			}
+//			
+//		}
 
 		return numOccurences;
 	}
