@@ -14,6 +14,6 @@ public interface IParagrapher {
 	 * @param content Content to be tokenized
 	 * @return 2-dimensional array of each paragraph, with each token.  
 	 */
-	public ArrayList<ArrayList<TokenInfo>> paragraph(String content);
+	public ArrayList<String> paragraph(String content);
 	
 }

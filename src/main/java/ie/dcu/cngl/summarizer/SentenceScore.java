@@ -1,7 +1,7 @@
 package ie.dcu.cngl.summarizer;
 
 /**
- * Simple tuple containing sentence and its score.
+ * Simple tuple containing a sentence and its score.
  * @author Shane
  *
  */
@@ -37,5 +37,12 @@ public class SentenceScore implements Comparable<SentenceScore> {
 	public void setScore(double score) {
 		this.score = score;
 	}
+
+	@Override
+	public String toString() {
+		return "["+sentence+"] " + score;
+	}
+	
+	
 	
 }

@@ -17,7 +17,7 @@ public interface IAggregator {
 	 * @param allWeights 2d array of all weights
 	 * @return Sentence and overall score
 	 */
-	public SentenceScore[] aggregate(ArrayList<Double[]> allWeights);
+	public ArrayList<SentenceScore> aggregate(ArrayList<Double[]> allWeights);
 
 	/**
 	 * Set sentences

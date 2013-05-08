@@ -29,7 +29,7 @@ public class Structurer implements IStructurer {
 	 */
 	public PageStructure getStructure(String content) {
 		ArrayList<ArrayList<ArrayList<TokenInfo>>> structure = new ArrayList<ArrayList<ArrayList<TokenInfo>>>();
-		ArrayList<String> paragraphs = TokenizerUtils.recombineTokens2d(paragrapher.paragraph(content));
+		ArrayList<String> paragraphs = paragrapher.paragraph(content);
 		for(String paragraph : paragraphs) {
 			ArrayList<ArrayList<TokenInfo>> sentences = sentenizer.sentenize(paragraph);
 			structure.add(sentences);

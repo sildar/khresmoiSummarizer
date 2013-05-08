@@ -28,18 +28,18 @@ import ie.dcu.cngl.tokenizer.Tokenizer;
  *
  */
 public class Summarizer {
-	
+
 	private Tokenizer tokenizer;
 	private IStructurer structurer;	
 	private IWeighter weighter;
 	private IAggregator aggregator;
-	
+
 	private int numSentences;
 	private String title;
 	private String query;
-	
+
 	private ArrayList<Double[]> weights;
-	
+
 	/**
 	 * Creates new summarizer with provided components.
 	 * @param structurer Extracts content structure
@@ -54,7 +54,7 @@ public class Summarizer {
 		this.numSentences = 2;	//Default number of sentences
 		this.weights = new ArrayList<Double[]>();
 	}
-	
+
 	/**
 	 * Sets the number sentences to be returned by the summarizer.
 	 * @param numSentences
@@ -62,7 +62,7 @@ public class Summarizer {
 	public void setNumSentences(int numSentences) {
 		this.numSentences = numSentences;
 	}
-	
+
 	/**
 	 * Provides sentence extracted summary of provided content.
 	 * @param content to be summarized
@@ -72,31 +72,37 @@ public class Summarizer {
 		if(StringUtils.isEmpty(content)) {
 			return StringUtils.EMPTY;
 		}
-		
+
 		PageStructure structure = structurer.getStructure(content);	
 		weighter.setStructure(structure);
 		weighter.setTitle(StringUtils.isNotEmpty(title) ? tokenizer.tokenize(title) : null);
 		weighter.setQuery(StringUtils.isNotEmpty(query) ? tokenizer.tokenize(query) : null);
 		aggregator.setSentences(structure.getSentences());
 
-                if(weights.isEmpty()){ //If weights is Empty, re-calculate weights else weights loaded to aggregate
-                    weighter.calculateWeights(weights);
-                    for(Double [] featureWeight : weights) {	//Correct internal state?
-			assert(featureWeight.length == structure.getNumSentences());
-                    }
-                }
-
-		SentenceScore [] scores = aggregator.aggregate(weights);
-            
-		String summary = StringUtils.EMPTY;
-		for(int i = 0; i < scores.length; i++) {
-			if(scores[i].getScore() < numSentences)
-				summary+=(scores[i].getSentence() + "\n");
+		if(weights.isEmpty()){ //If weights is Empty, re-calculate weights else weights loaded to aggregate
+			weighter.calculateWeights(weights);
+			for(Double [] featureWeight : weights) {	//Correct internal state?
+				assert(featureWeight.length == structure.getNumSentences());
+			}
 		}
-		
+
+		ArrayList<SentenceScore> scores = aggregator.aggregate(weights);
+
+		String summary = StringUtils.EMPTY;
+		for(int i = 0; i < numSentences; i++) {
+				summary+=(scores.get(i).getSentence() + "\n");
+		}
+
+		summary = beautifulString(summary);
+
 		return summary;
 	}
-	
+
+	private String beautifulString(String summary) {
+		String result = summary.replaceAll("\\s[,?.]", ",");
+		return result;
+	}
+
 	/**
 	 * Set content title
 	 * @param title
@@ -112,7 +118,7 @@ public class Summarizer {
 	public void setQuery(String query) {
 		this.query = query;
 	}
-	
+
 	/** 
 	 * Provide pre-calculated weights that will be combined with
 	 * weights calculated on new run.
@@ -121,5 +127,5 @@ public class Summarizer {
 	public void setWeights(ArrayList<Double[]> weights) {	
 		this.weights = weights;
 	}
-	
+
 }
