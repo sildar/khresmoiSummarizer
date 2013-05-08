@@ -29,11 +29,11 @@ public class Structurer implements IStructurer {
 	 */
 	public PageStructure getStructure(String content) {
 		
-		ArrayList<ArrayList<ArrayList<TokenInfo>>> structure = new ArrayList<ArrayList<ArrayList<TokenInfo>>>();
+		PageStructure structure = new PageStructure();
 		ArrayList<String> paragraphs = paragrapher.paragraph(content);
 		
 		for(String paragraph : paragraphs) {
-			structure.add(sentenizer.sentenize(paragraph));
+			structure.add(new Paragraph(sentenizer.sentenize(paragraph)));
 		}
 		
 		return new PageStructure(structure);

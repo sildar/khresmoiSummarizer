@@ -1,8 +1,10 @@
 package ie.dcu.cngl.summarizer.feature;
 
 import ie.dcu.cngl.summarizer.SummarizerUtils;
+import ie.dcu.cngl.tokenizer.Paragraph;
 import ie.dcu.cngl.tokenizer.TokenInfo;
 import ie.dcu.cngl.tokenizer.Tokenizer;
+
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -31,7 +33,7 @@ public class ImportantTermsFeature extends TermCheckingFeature {
 	@Override
 	public Double[] calculateRawWeights(Double[] weights) {
 		int sentenceNumber = 0;
-		for(ArrayList<ArrayList<TokenInfo>> paragraph : structure.getStructure()) {
+		for(Paragraph paragraph : structure.getStructure()) {
 			for(ArrayList<TokenInfo> sentence : paragraph) {
 				weights[sentenceNumber++]+=getCrossoverCount(importantTerms, sentence);
 			}

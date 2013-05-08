@@ -55,10 +55,10 @@ public class Sentenizer implements ISentenizer {
      * Tokenize the content, and divide the tokens by sentence.
      * @return A 2-dimensional array of each sentence and its tokens.
      */  
-    public ArrayList<ArrayList<TokenInfo>> sentenize(String s) {
+    public Paragraph sentenize(String s) {
     	
     	ArrayList<String> sentences = new ArrayList<String>(Arrays.asList(sentenceDetector.sentDetect(s)));
-    	ArrayList<ArrayList<TokenInfo>> result = new ArrayList<ArrayList<TokenInfo>>();
+    	Paragraph result = new Paragraph();
     	
     	for (String sentence : sentences){
     		result.add(tokenizer.tokenize(sentence));

@@ -4,25 +4,19 @@
  */
 package ie.dcu.cngl.summarizer.feature;
 
-import ie.dcu.cngl.WordNetUtils.ICFinder;
 import ie.dcu.cngl.WordNetUtils.DepthFinder;
+import ie.dcu.cngl.WordNetUtils.ICFinder;
 import ie.dcu.cngl.summarizer.SummarizerUtils;
+import ie.dcu.cngl.tokenizer.Paragraph;
 import ie.dcu.cngl.tokenizer.TokenInfo;
+
 import java.io.IOException;
+import java.net.MalformedURLException;
+import java.net.URL;
 import java.util.ArrayList;
 
-import edu.mit.jwi.IDictionary;
-import edu.mit.jwi.item.*;
-import java.net.*;
 import edu.mit.jwi.Dictionary;
-import java.util.HashSet;
-import java.util.TreeMap;
-import java.util.Hashtable;
-import java.util.List;
-import java.io.*;
-import java.util.regex.*;
-import java.util.ArrayList;
-import java.util.Map;
+import edu.mit.jwi.IDictionary;
 
 /**
  *
@@ -60,9 +54,9 @@ public class ConceptHierarchyFeature extends Feature {
 
     @Override
     public Double[] calculateRawWeights(Double[] weights) {
-
+    	//!!Useless
         int sentenceNumber = 0;
-        for (ArrayList<ArrayList<TokenInfo>> paragraph : structure.getStructure()) {
+        for (Paragraph paragraph : structure.getStructure()) {
             for (ArrayList<TokenInfo> sentence : paragraph) {
                 double heirarchy_depth = 0;
                 double numTerms = numberOfTerms(sentence);

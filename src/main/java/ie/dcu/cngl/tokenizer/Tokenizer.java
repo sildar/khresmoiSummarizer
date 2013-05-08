@@ -49,12 +49,12 @@ public class Tokenizer implements ITokenizer {
     }
 
 
-    public ArrayList<TokenInfo> tokenize(String s) {
+    public Sentence tokenize(String s) {
         
         
         ArrayList<String> tokens = new ArrayList<String>(Arrays.asList(tokenizer.tokenize(s)));
         
-        ArrayList<TokenInfo> tokenInfos = new ArrayList<TokenInfo>();
+        Sentence tokenInfos = new Sentence();
         
         for (String token : tokens){
         	tokenInfos.add(new TokenInfo(token));

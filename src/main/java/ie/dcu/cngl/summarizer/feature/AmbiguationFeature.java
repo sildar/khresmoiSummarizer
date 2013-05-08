@@ -5,6 +5,7 @@
 package ie.dcu.cngl.summarizer.feature;
 
 import ie.dcu.cngl.summarizer.SummarizerUtils;
+import ie.dcu.cngl.tokenizer.Paragraph;
 import ie.dcu.cngl.tokenizer.TokenInfo;
 
 import java.io.IOException;
@@ -24,7 +25,7 @@ public class AmbiguationFeature extends Feature {
     public AmbiguationFeature() throws IOException {
         super();
         numberTermsOfDocument = 0;
-        for (ArrayList<ArrayList<TokenInfo>> paragraph : structure.getStructure()) {
+        for (Paragraph paragraph : structure.getStructure()) {
             for (ArrayList<TokenInfo> sentence : paragraph) {
                 numberTermsOfDocument += numberOfTerms(sentence);
             }
@@ -34,7 +35,7 @@ public class AmbiguationFeature extends Feature {
     @Override
     public Double[] calculateRawWeights(Double[] weights) {
         int sentenceNumber = 0;
-        for (ArrayList<ArrayList<TokenInfo>> paragraph : structure.getStructure()) {
+        for (Paragraph paragraph : structure.getStructure()) {
             for (ArrayList<TokenInfo> sentence : paragraph) {
                 int numSynset = 0;
                 for (int i = 0; i < sentence.size(); i++) {

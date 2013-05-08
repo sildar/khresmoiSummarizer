@@ -14,6 +14,6 @@ public interface ISentenizer {
 	 * @param content Content to be tokenized
 	 * @return 2-dimensional array of each sentence with each token.  
 	 */	
-    public ArrayList<ArrayList<TokenInfo>> sentenize(String content);
+    public ArrayList<Sentence> sentenize(String content);
     
 }

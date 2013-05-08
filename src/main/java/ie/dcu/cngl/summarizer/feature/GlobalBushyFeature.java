@@ -120,7 +120,9 @@ public class GlobalBushyFeature extends LuceneFeature {
 					}
 				}
 				sentenceNumber++;
+				searcher.close();
 			} catch(Exception ignore) {}
+
 		}
 
 //	Calling my own cosine similarity formula
@@ -138,7 +140,6 @@ public class GlobalBushyFeature extends LuceneFeature {
 //				weights[j]+=score;
 //			}
 //		}
-
 
 		return weights;
 	}

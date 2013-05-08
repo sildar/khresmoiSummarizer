@@ -1,11 +1,9 @@
 package ie.dcu.cngl.summarizer.feature;
 
 import ie.dcu.cngl.summarizer.SummarizerUtils;
-import ie.dcu.cngl.tokenizer.SectionInfo;
-
 import ie.dcu.cngl.tokenizer.PageStructure;
-import ie.dcu.cngl.tokenizer.TokenInfo;
-import ie.dcu.cngl.tokenizer.TokenizerUtils;
+import ie.dcu.cngl.tokenizer.Paragraph;
+import ie.dcu.cngl.tokenizer.SectionInfo;
 
 import java.io.IOException;
 import java.util.ArrayList;
@@ -26,13 +24,13 @@ import org.apache.lucene.index.IndexWriter;
 import org.apache.lucene.index.IndexWriterConfig;
 import org.apache.lucene.index.Term;
 import org.apache.lucene.index.TermEnum;
+import org.apache.lucene.search.BooleanClause.Occur;
 import org.apache.lucene.search.BooleanQuery;
 import org.apache.lucene.search.IndexSearcher;
 import org.apache.lucene.search.Query;
 import org.apache.lucene.search.ScoreDoc;
 import org.apache.lucene.search.TermQuery;
 import org.apache.lucene.search.TopDocs;
-import org.apache.lucene.search.BooleanClause.Occur;
 import org.apache.lucene.store.RAMDirectory;
 import org.apache.lucene.util.Version;
 
@@ -108,8 +106,8 @@ public abstract class LuceneFeature extends Feature {
 		IndexWriter writer = new IndexWriter(ramdir, config);
 
 		int pno = 0;
-		for(ArrayList<ArrayList<TokenInfo>> paragraph : structure.getStructure()) {
-			ArrayList<String> strSentences = TokenizerUtils.recombineTokens2d(paragraph);
+		for(Paragraph paragraph : structure.getStructure()) {
+			ArrayList<String> strSentences = paragraph.getSentences();
 			int sno = 0;
 			for(String sentence : strSentences) {
 				Document doc = new Document();

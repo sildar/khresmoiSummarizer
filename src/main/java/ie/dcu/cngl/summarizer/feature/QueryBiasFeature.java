@@ -1,6 +1,7 @@
 package ie.dcu.cngl.summarizer.feature;
 
 import ie.dcu.cngl.summarizer.SummarizerUtils;
+import ie.dcu.cngl.tokenizer.Paragraph;
 import ie.dcu.cngl.tokenizer.TokenInfo;
 
 import java.io.IOException;
@@ -25,7 +26,7 @@ public class QueryBiasFeature extends Feature {
         final double numQueryTerms = numberOfTerms(query);
         int sentenceNumber = 0;
         ArrayList<TokenInfo> tokenHolder;
-        for (ArrayList<ArrayList<TokenInfo>> paragraph : structure.getStructure()) {
+        for (Paragraph paragraph : structure.getStructure()) {
             for (ArrayList<TokenInfo> sentence : paragraph) {
                 double numOccurences = 0;
                 for (TokenInfo queryToken : query) {

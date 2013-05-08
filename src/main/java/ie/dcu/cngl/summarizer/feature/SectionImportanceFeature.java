@@ -2,7 +2,7 @@ package ie.dcu.cngl.summarizer.feature;
 
 import ie.dcu.cngl.summarizer.SentenceScore;
 import ie.dcu.cngl.summarizer.SummarizerUtils;
-import ie.dcu.cngl.tokenizer.TokenInfo;
+import ie.dcu.cngl.tokenizer.Paragraph;
 import ie.dcu.cngl.tokenizer.TokenizerUtils;
 
 import java.util.ArrayList;
@@ -42,7 +42,7 @@ public class SectionImportanceFeature extends TermCheckingFeature {
 	@Override
 	public Double[] calculateRawWeights(Double[] weights) {
 		int paragraphNumber = 0, sentenceNumber = 0;
-		for(ArrayList<ArrayList<TokenInfo>> paragraph : structure.getStructure()) {
+		for(Paragraph paragraph : structure.getStructure()) {
 			for(SentenceScore section : sections) {
 				if(TokenizerUtils.recombineTokens1d(paragraph.get(0)).equalsIgnoreCase(section.getSentence())) {
 					//Give weight to any sentences (except the first) that are in the same paragraph

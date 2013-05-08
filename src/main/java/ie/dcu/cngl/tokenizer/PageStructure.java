@@ -9,16 +9,19 @@ import java.util.HashMap;
  * @author Shane
  *
  */
-public class PageStructure {
+public class PageStructure extends ArrayList<Paragraph>{
 	
-	private ArrayList<ArrayList<ArrayList<TokenInfo>>> structure;
 	private ArrayList<SectionInfo> sentences;
 	private ArrayList<SectionInfo> paragraphs;
 	private HashMap<Integer, Integer> sentenceToParagraph;
 	private HashMap<Integer, Integer> sentenceToRelativePosition;
+	
+	public PageStructure(){
+		
+	}
 
-	public PageStructure(ArrayList<ArrayList<ArrayList<TokenInfo>>> structure) {
-		this.structure = structure;
+	public PageStructure(ArrayList<? extends Paragraph> structure) {
+		this.addAll(structure);
 		this.sentences = getSentencesPriv();
 		this.paragraphs = getParagraphsPriv();
 		this.sentenceToParagraph = new HashMap<Integer, Integer>();
@@ -31,7 +34,7 @@ public class PageStructure {
 	 */
 	private void mapSentencesToParagraphs() {
 		int sentenceNumber = 0, paragraphNumber = 0, sentenceParagraphStarter = 0;
-		for(ArrayList<ArrayList<TokenInfo>> paragraph : structure) {
+		for(Paragraph paragraph : this) {
 			int numSentences = paragraph.size();
 			for(int i = 0; i < numSentences; i++) {
 				sentenceToParagraph.put(sentenceNumber, paragraphNumber);
@@ -44,38 +47,17 @@ public class PageStructure {
 	}
 
 	private ArrayList<SectionInfo> getSentencesPriv() {
-		return getSectionInfo(structure);
+		return getSectionInfo(this);
 	}
 	
 	private ArrayList<SectionInfo> getParagraphsPriv() {
 		//Prior to calling getSectionInfo we need all tokens of each paragraph in one array
 		
-		//!!seems buggy to me
+		ArrayList<Paragraph> paragraphsHolder = new ArrayList<Paragraph>();
 		
-		ArrayList<TokenInfo> individualParagraphTokens;
-		ArrayList<ArrayList<TokenInfo>> allParagraphTokens = new ArrayList<ArrayList<TokenInfo>>();
-		for(ArrayList<ArrayList<TokenInfo>> paragraph : structure) {
-			individualParagraphTokens = new ArrayList<TokenInfo>();
-			for(ArrayList<TokenInfo> sentence : paragraph) {
-				for(TokenInfo token : sentence) {
-					individualParagraphTokens.add(token);
-				}
-			}
-			allParagraphTokens.add(individualParagraphTokens);
-		}
-		
-		ArrayList<ArrayList<ArrayList<TokenInfo>>> paragraphsHolder = new ArrayList<ArrayList<ArrayList<TokenInfo>>>();
-		/*
-		for(ArrayList<ArrayList<TokenInfo>> paragraph : structure) {
+		for(Paragraph paragraph : this) {
 			paragraphsHolder.add(paragraph);
 		}
-		*/
-		
-		paragraphsHolder.add(allParagraphTokens);
-		
-		System.out.println(paragraphsHolder.toString());
-		
-				
 		
 		return getSectionInfo(paragraphsHolder);
 	}
@@ -88,7 +70,7 @@ public class PageStructure {
 	 */
 	public ArrayList<TokenInfo> getSentenceFromParagraphTokens(int sentenceNumber, int paragraphNumber) {
 		try {
-			return structure.get(paragraphNumber).get(sentenceNumber);
+			return this.get(paragraphNumber).get(sentenceNumber);
 		} catch(Exception e) {
 			return null;
 		}
@@ -107,8 +89,8 @@ public class PageStructure {
 	 * Get the raw 3-demensional page structure.
 	 * @return The 3-dimensional page structure.
 	 */
-	public ArrayList<ArrayList<ArrayList<TokenInfo>>> getStructure() {
-		return this.structure;
+	public PageStructure getStructure() {
+		return this;
 	}
 	
 	/**
@@ -141,11 +123,11 @@ public class PageStructure {
 		return this.paragraphs.size();
 	}
 	
-	private ArrayList<SectionInfo> getSectionInfo(ArrayList<ArrayList<ArrayList<TokenInfo>>> rawSections) {
+	private ArrayList<SectionInfo> getSectionInfo(ArrayList<Paragraph> paragraphsHolder) {
 		ArrayList<SectionInfo> sections = new ArrayList<SectionInfo>();
 		int sectionCount = 0;
-		for(ArrayList<ArrayList<TokenInfo>> paragraph : rawSections) {
-			ArrayList<String> strSentences = TokenizerUtils.recombineTokens2d(paragraph);
+		for(Paragraph paragraph : paragraphsHolder) {
+			ArrayList<String> strSentences = paragraph.getSentences();
 			for(String sentence : strSentences) {
 				SectionInfo sentenceInfo = new SectionInfo(sentence, sectionCount);
 				sections.add(sentenceInfo);
