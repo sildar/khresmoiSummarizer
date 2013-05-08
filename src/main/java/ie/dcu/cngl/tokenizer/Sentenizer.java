@@ -1,12 +1,15 @@
 package ie.dcu.cngl.tokenizer;
 
-import java.io.BufferedReader;
+import java.io.File;
+import java.io.FileInputStream;
 import java.io.IOException;
-import java.io.InputStreamReader;
+import java.io.InputStream;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.HashSet;
 
-import org.apache.commons.lang.StringUtils;
+import opennlp.tools.sentdetect.SentenceDetectorME;
+import opennlp.tools.sentdetect.SentenceModel;
 
 /**
  * Separates the tokenized content into sentences.
@@ -19,8 +22,23 @@ public class Sentenizer implements ISentenizer {
 	
     private HashSet<String> bss, pse, bse;
     private Tokenizer tokenizer = null;
+    private SentenceDetectorME sentenceDetector;
     
     private Sentenizer(Tokenizer tokenizer) {
+    	try{
+    	this.tokenizer = tokenizer;
+
+    	InputStream modelIn = new FileInputStream("./en-sent.bin");
+    	SentenceModel model = new SentenceModel(modelIn);
+    	sentenceDetector = new SentenceDetectorME(model);
+
+    	
+    	}
+    	catch(IOException e){
+    		System.err.println("Impossible to read the model");
+    		e.printStackTrace();
+    	}
+    	/*
 		this.tokenizer = tokenizer;
 		String line;
 		bss = new HashSet<String>();
@@ -83,6 +101,7 @@ public class Sentenizer implements ISentenizer {
 	    } catch (IOException e) {
 	        System.out.println("ERROR: " + e);
 	    }
+	    */
     }
 
     /**
@@ -116,6 +135,17 @@ public class Sentenizer implements ISentenizer {
      * @return A 2-dimensional array of each sentence and its tokens.
      */  
     public synchronized ArrayList<ArrayList<TokenInfo>> sentenize(String s) {
+    	
+    	ArrayList<String> sentences = new ArrayList<String>(Arrays.asList(sentenceDetector.sentDetect(s)));
+    	ArrayList<ArrayList<TokenInfo>> result = new ArrayList<ArrayList<TokenInfo>>();
+    	
+    	for (String sentence : sentences){
+    		result.add(tokenizer.tokenize(sentence));
+    	}
+    	
+    	return result;
+    	
+    	/*
 		ArrayList<TokenInfo> tokens = tokenizer.tokenize(s);
 		if (tokens == null)
 		    return null;
@@ -181,6 +211,7 @@ public class Sentenizer implements ISentenizer {
 		}
 	    
 	    return sentences;
+	    */
     }
 
 }

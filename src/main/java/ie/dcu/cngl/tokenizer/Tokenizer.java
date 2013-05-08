@@ -1,11 +1,17 @@
 package ie.dcu.cngl.tokenizer;
 
 import java.io.BufferedReader;
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.HashMap;
+
+import opennlp.tools.tokenize.TokenizerME;
+import opennlp.tools.tokenize.TokenizerModel;
 
 import org.apache.commons.lang.StringUtils;
 
@@ -36,12 +42,28 @@ public class Tokenizer implements ITokenizer {
     
     private int mLastTokenStartPosition = -1;
     private int mLastTokenEndPosition = -1;
+    
+    private TokenizerME tokenizer;
 
     private static HashMap<String, ArrayList<ArrayList<String>>> abbrevs;
 
     private Tokenizer() {
+    	/*
 		abbrevs = new HashMap<String, ArrayList<ArrayList<String>>>();
 		loadAbbreviations(TokenizerUtils.abbreviations);
+		*/
+
+    	InputStream modelIn;
+		try {
+			modelIn = new FileInputStream("./en-token.bin");
+			TokenizerModel model = new TokenizerModel(modelIn);
+			tokenizer = new TokenizerME(model);
+			
+		} catch (IOException e) {
+			System.err.println("Couldn't load the tokenizer model");
+			e.printStackTrace();
+		}
+
     }
 
     /**
@@ -210,12 +232,25 @@ public class Tokenizer implements ITokenizer {
     }
 
     public synchronized ArrayList<TokenInfo> tokenize(String s, boolean postprocess) {
+    	
         mChars = s.toCharArray();
         mPosition = 0;
         mLastPosition = s.length();
         mTokenStart = -1;
         mLastTokenIndex = -1;
         mStartPosition = 0;
+        
+        
+        ArrayList<String> tokens = new ArrayList<String>(Arrays.asList(tokenizer.tokenize(s)));
+        
+        ArrayList<TokenInfo> tokenInfos = new ArrayList<TokenInfo>();
+        
+        for (String token : tokens){
+        	tokenInfos.add(new TokenInfo(token));
+        }
+        return tokenInfos;
+        
+        /*
         ArrayList<TokenInfo> tokens = new ArrayList<TokenInfo>();
         String token;
         while ((token = getValue()) != null) {
@@ -230,6 +265,7 @@ public class Tokenizer implements ITokenizer {
 		    tokens = deHyphenate(tokens, s);
 		}
         return tokens;
+        */
     }
 
     public ArrayList<TokenInfo> tokenize(String s) {
