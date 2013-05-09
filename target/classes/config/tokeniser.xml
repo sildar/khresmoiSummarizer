@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <config>
 	<word>
-		<abbreviations>/data/ENabbreviations.txt</abbreviations>
+		<abbreviations>ENabbreviations.txt</abbreviations>
 	</word>
 	<sentence>
-		<badStart>/data/bad_sent_start.txt</badStart>
-		<possibleEnd>/data/poss_sent_end.txt</possibleEnd>
-		<badEnd>/data/bad_sent_end.txt</badEnd>
+		<badStart>bad_sent_start.txt</badStart>
+		<possibleEnd>poss_sent_end.txt</possibleEnd>
+		<badEnd>bad_sent_end.txt</badEnd>
 	</sentence>
+	<models>
+	    <token>tokenModel.bin</token>
+	    <sentence>sentenceModel.bin</sentence>
+	</models>
 </config>

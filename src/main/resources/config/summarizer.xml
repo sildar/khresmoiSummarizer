@@ -1,13 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <config>
+    <languages>
+        <language>eng</language>
+    </languages>
 	<files>
-		<stopwords>/data/stopwords.txt</stopwords>
-		<cuephrases>/data/test_cue_phrases.txt</cuephrases>
-		<affixes>/data/medical_dict.txt</affixes>
-		<basicWords>/data/SpacheWordList.txt</basicWords>
-		<sections>/data/sections.txt</sections>
-		<importantTerms>/data/medical_terms.txt</importantTerms>
-                <datetimeTerms>/data/datetime_terms.txt</datetimeTerms>
+		<stopwords>stopwords.txt</stopwords>
+		<cuephrases>test_cue_phrases.txt</cuephrases>
+		<affixes>medical_dict.txt</affixes>
+		<basicWords>SpacheWordList.txt</basicWords>
+		<sections>sections.txt</sections>
+		<importantTerms>medical_terms.txt</importantTerms>
+        <datetimeTerms>datetime_terms.txt</datetimeTerms>
 	</files>
 	<multipliers>
 		<skimming>1</skimming>

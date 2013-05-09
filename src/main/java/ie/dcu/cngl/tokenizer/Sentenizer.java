@@ -23,8 +23,7 @@ public class Sentenizer implements ISentenizer {
     private Sentenizer(Tokenizer tokenizer) {
     	try{
     	this.tokenizer = tokenizer;
-
-    	InputStream modelIn = new FileInputStream("./en-sent.bin");
+    	InputStream modelIn = new FileInputStream(this.getClass().getResource(TokenizerUtils.sentenceModelFile).getFile());
     	SentenceModel model = new SentenceModel(modelIn);
     	sentenceDetector = new SentenceDetectorME(model);
 

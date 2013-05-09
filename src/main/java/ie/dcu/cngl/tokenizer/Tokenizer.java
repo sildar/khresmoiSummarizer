@@ -23,7 +23,7 @@ public class Tokenizer implements ITokenizer {
     	
     	InputStream modelIn;
 		try {
-			modelIn = new FileInputStream("./en-token.bin");
+			modelIn = new FileInputStream(this.getClass().getResource(TokenizerUtils.tokenModelFile).getFile());
 			TokenizerModel model = new TokenizerModel(modelIn);
 			tokenizer = new TokenizerME(model);
 	    	

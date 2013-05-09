@@ -1,5 +1,9 @@
 package ie.dcu.cngl.summarizer;
 
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Locale;
+
 import org.apache.commons.configuration.ConfigurationException;
 import org.apache.commons.configuration.XMLConfiguration;
 
@@ -52,14 +56,20 @@ public class SummarizerUtils {
 	static {
 		try {
             XMLConfiguration config = new XMLConfiguration(SummarizerUtils.class.getResource("/config/summarizer.xml"));
+            
+            List<Object> supportedLanguages = config.getList("languages.language");
+            
+			String langISO3 = Locale.getDefault().getLanguage();
+			//set to english if the language is not supported
+			langISO3 = supportedLanguages.contains(langISO3) ? langISO3 : "en";
 			
-			stopwords = config.getString("files.stopwords");
-			cuePhrasesFile = config.getString("files.cuephrases");
-			affixesFile = config.getString("files.affixes");
-			basicWordsFile = config.getString("files.basicWords");
-			sectionsFile = config.getString("files.sections");
-			importantTermsFile = config.getString("files.importantTerms");
-			datetimeTermFile = config.getString("files.datetimeTerms");
+			stopwords = "/data/" + langISO3 + "/" + config.getString("files.stopwords");
+			cuePhrasesFile = "/data/" + langISO3 + "/" + config.getString("files.cuephrases");
+			affixesFile = "/data/" + langISO3 + "/" + config.getString("files.affixes");
+			basicWordsFile = "/data/" + langISO3 + "/" + config.getString("files.basicWords");
+			sectionsFile = "/data/" + langISO3 + "/" + config.getString("files.sections");
+			importantTermsFile = "/data/" + langISO3 + "/" + config.getString("files.importantTerms");
+			datetimeTermFile = "/data/" + langISO3 + "/" + config.getString("files.datetimeTerms");
 
 			skimmingMultiplier = config.getDouble("multipliers.skimming");
 			namedEntityMultiplier = config.getDouble("multipliers.namedEntity");
