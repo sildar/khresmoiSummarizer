@@ -26,10 +26,11 @@ public class TokenizerUtils {
 	static{
 		try{
 			XMLConfiguration config = new XMLConfiguration(SummarizerUtils.class.getResource("/config/tokeniser.xml"));
-
+			
+			
 			List<Object> supportedLanguages = config.getList("languages.language");
-
-			String langISO3 = Locale.getDefault().getLanguage();
+			String langISO3 = Locale.getDefault().getLanguage(); //this is ISO 639-1 with two letters code
+			
 			//set to english if the language is not supported
 			langISO3 = supportedLanguages.contains(langISO3) ? langISO3 : "en";
 			
