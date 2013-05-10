@@ -107,7 +107,8 @@ public class Summarizer {
 	 * @return the processed string, without spaces before punctuation mark
 	 */
 	private String beautifulString(String summary) {
-		String result = summary.replaceAll("\\s([,?.;])", "$1");
+		String result = summary.replaceAll("\\s([,?.;)])", "$1");
+		result = result.replaceAll("([(])\\s", "$1");
 		return result;
 	}
 

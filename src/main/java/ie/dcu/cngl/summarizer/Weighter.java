@@ -1,6 +1,7 @@
 package ie.dcu.cngl.summarizer;
 
 import ie.dcu.cngl.summarizer.feature.AffixPresenceFeature;
+import ie.dcu.cngl.summarizer.feature.AmbiguationFeature;
 import ie.dcu.cngl.summarizer.feature.BasicWordsFeature;
 import ie.dcu.cngl.summarizer.feature.ClusterKeywordFeature;
 import ie.dcu.cngl.summarizer.feature.CuePhraseFeature;
@@ -114,14 +115,14 @@ public class Weighter implements IWeighter {
                 e.printStackTrace();
             }
         }
-/*
+
         try {
             features.add(new GlobalBushyFeature());
         } catch (Exception e) {
             System.err.println("Global busy feature failed.");
             e.printStackTrace();
         }
-*/
+
         try {
             features.add(new PunctuationFeature());
         } catch (Exception e) {
@@ -156,19 +157,18 @@ public class Weighter implements IWeighter {
             System.err.println("Important terms feature failed.");
             e.printStackTrace();
         }
-/*
+
         try {
             features.add(new ClusterKeywordFeature());
         } catch (Exception e) {
             System.err.println("Cluster keyword feature failed.");
             e.printStackTrace();
         }
-*/
-        /*
-         * try { features.add(new AmbiguationFeature()); } catch (Exception e) {
-         * System.err.println("Synset count feature failed.");
-         * e.printStackTrace(); }
-         */
+
+         try { features.add(new AmbiguationFeature()); } catch (Exception e) {
+         System.err.println("Synset count feature failed.");
+         e.printStackTrace(); }
+
 /*
         try {
         features.add(new ConceptHierarchyFeature());

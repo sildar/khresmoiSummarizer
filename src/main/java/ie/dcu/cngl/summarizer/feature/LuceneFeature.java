@@ -44,6 +44,9 @@ import org.apache.lucene.util.Version;
 public abstract class LuceneFeature extends Feature {
 
 	protected RAMDirectory ramdir;
+	/**
+	 * Maps a sentence to its location
+	 */
 	protected HashMap<String, Integer> sentenceMap;
 
 	private double topTermCutoff;
@@ -78,7 +81,7 @@ public abstract class LuceneFeature extends Feature {
 	public void setTopTermCutoff(double topTermCutoff) {
 		if (topTermCutoff < 0.0F || topTermCutoff > 1.0F) {
 			throw new IllegalArgumentException(
-			"Invalid value: 0.0F <= topTermCutoff <= 1.0F");
+					"Invalid value: 0.0F <= topTermCutoff <= 1.0F");
 		}
 		this.topTermCutoff = topTermCutoff;
 	}
@@ -104,6 +107,9 @@ public abstract class LuceneFeature extends Feature {
 	protected void buildIndex() throws Exception {
 		IndexWriterConfig config = new IndexWriterConfig(Version.LUCENE_36, analyzer);
 		IndexWriter writer = new IndexWriter(ramdir, config);
+		//!!carefull here, I added this line. Seems to resolve the bug
+		writer.deleteAll();
+		writer.commit();
 
 		int pno = 0;
 		for(Paragraph paragraph : structure.getStructure()) {
@@ -217,22 +223,22 @@ public abstract class LuceneFeature extends Feature {
 		for (ScoreDoc scoreDoc : topDocs.scoreDocs) {
 			Document doc = searcher.doc(scoreDoc.doc);
 			String sentence = StringUtils.chomp(doc.get("text"));
-			System.out.println(sentence);
-			System.out.println(sentenceMap.size());
+
 			weights[sentenceMap.get(sentence)] = (double)scoreDoc.score;
-		}
 
-		searcher.close();
-		return weights;
-	}
-
-	@Override
-	public void setStructure(PageStructure structure) {
-		this.structure = structure;
-		this.sentenceMap = new HashMap<String, Integer>();
-		for(SectionInfo sentence : structure.getSentences()) {
-			sentenceMap.put(sentence.getValue(), sentence.getLocation());
 		}
+		
+	searcher.close();
+	return weights;
+}
+
+@Override
+public void setStructure(PageStructure structure) {
+	this.structure = structure;
+	this.sentenceMap = new HashMap<String, Integer>();
+	for(SectionInfo sentence : structure.getSentences()) {
+		sentenceMap.put(sentence.getValue(), sentence.getLocation());
 	}
+}
 
 }

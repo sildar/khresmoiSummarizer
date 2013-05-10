@@ -23,23 +23,19 @@ public class AmbiguationFeature extends Feature {
 
     public AmbiguationFeature() throws IOException {
         super();
-        numberTermsOfDocument = 0;
-        for (Paragraph paragraph : structure.getStructure()) {
-            for (Sentence sentence : paragraph) {
-                numberTermsOfDocument += numberOfTerms(sentence);
-            }
-        }
     }
 
     @Override
     public Double[] calculateRawWeights(Double[] weights) {
         int sentenceNumber = 0;
+        numberTermsOfDocument = 0;
         for (Paragraph paragraph : structure.getStructure()) {
             for (Sentence sentence : paragraph) {
                 int numSynset = 0;
                 for (int i = 0; i < sentence.size(); i++) {
+                	numberTermsOfDocument += numberOfTerms(sentence);
                     String token = sentence.get(i).getValue();
-                    System.setProperty("wordnet.database.dir", "C:\\Program Files\\WordNet\\3.0\\dict\\");
+                    System.setProperty("wordnet.database.dir", "./libs/WordNet-3.0/dict");
                     WordNetDatabase database = WordNetDatabase.getFileInstance();
                     numSynset += database.getSynsets(token.toLowerCase()).length;
                 }
