@@ -75,7 +75,9 @@ public class Summarizer {
 
 		PageStructure structure = structurer.getStructure(content);	
 		weighter.setStructure(structure);
-		weighter.setTitle(StringUtils.isNotEmpty(title) ? tokenizer.tokenize(title) : null);
+		weighter.setTitle(structure.getSentenceTokens(0));
+		
+		//weighter.setTitle(StringUtils.isNotEmpty(title) ? tokenizer.tokenize(title) : null);
 		weighter.setQuery(StringUtils.isNotEmpty(query) ? tokenizer.tokenize(query) : null);
 		aggregator.setSentences(structure.getSentences());
 

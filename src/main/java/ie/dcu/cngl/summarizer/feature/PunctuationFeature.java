@@ -44,7 +44,8 @@ public class PunctuationFeature extends Feature {
 		double numPunctuationTokens = 0;
 		
 		for(TokenInfo token : tokens) {
-			if(!StringUtils.isAlphanumeric(token.getValue())) {
+			if(token.getValue().matches("\\p{P}+")){
+				System.out.println(token.getValue());
 				numPunctuationTokens++;
 			}
 		}

@@ -28,7 +28,7 @@ public class Test {
 		ArrayList<String> texts = new ArrayList<String>();
 
 		for (final File fileEntry : folder.listFiles()) {
-			if (fileEntry.getName().startsWith("scrt")){
+			if (fileEntry.getName().compareToIgnoreCase("article.dtd") != 0){
 				fileList.add(fileEntry.getAbsolutePath());
 			}
 		}
@@ -58,10 +58,8 @@ public class Test {
 		weighter.addAllFeatures();
 		Aggregator aggregator = new Aggregator();
 
-		int count = 1;
 
 		for (String text : texts){
-			//System.out.println(count);
 
 			Summarizer summarizer = new Summarizer(structurer, weighter, aggregator);
 			summarizer.setNumSentences(5);
@@ -69,7 +67,7 @@ public class Test {
 			String summary = summarizer.summarize(text);
 			System.out.println("****** Print summary after ******");
 			System.out.println(summary);
-			count++;
+			
 		}
 		long endTime = System.nanoTime();
 
