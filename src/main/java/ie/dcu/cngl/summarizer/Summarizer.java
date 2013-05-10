@@ -87,6 +87,7 @@ public class Summarizer {
 			}
 		}
 		*/
+		weights.clear();
 		weighter.calculateWeights(weights);
 
 		ArrayList<SentenceScore> scores = aggregator.aggregate(weights);

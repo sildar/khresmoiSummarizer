@@ -16,7 +16,7 @@ import java.util.ArrayList;
  *
  */
 public class SectionImportanceFeature extends TermCheckingFeature {
-	
+
 	private ArrayList<SentenceScore> sections;
 
 	public SectionImportanceFeature() throws Exception {
@@ -24,14 +24,14 @@ public class SectionImportanceFeature extends TermCheckingFeature {
 		this.sections = new ArrayList<SentenceScore>();
 		try {
 			for(String line : terms) {
-			    line = line.toLowerCase();
-			    String [] sectionAndWeight = line.split(",");
-			    SentenceScore section = new SentenceScore(sectionAndWeight[0].trim(), Integer.parseInt(sectionAndWeight[1].trim()));
-			    sections.add(section);
+				line = line.toLowerCase();
+				String [] sectionAndWeight = line.split(",");
+				SentenceScore section = new SentenceScore(sectionAndWeight[0].trim(), Integer.parseInt(sectionAndWeight[1].trim()));
+				sections.add(section);
 			}
-        } catch (IndexOutOfBoundsException e) {
-        	throw new Exception("Incorrect data format. Should be \"<name>,<weight>\" eg. \"introduction,5\"");
-        }
+		} catch (IndexOutOfBoundsException e) {
+			throw new Exception("Incorrect data format. Should be \"<name>,<weight>\" eg. \"introduction,5\"");
+		}
 	}
 
 	@Override
@@ -46,10 +46,12 @@ public class SectionImportanceFeature extends TermCheckingFeature {
 			for(SentenceScore section : sections) {
 				if(TokenizerUtils.recombineTokens1d(paragraph.get(0)).equalsIgnoreCase(section.getSentence())) {
 					//Give weight to any sentences (except the first) that are in the same paragraph
-					//And to those that are in the next paragraph
+					//And to those that are in the next paragraph (because section title should be one paragraph by itself
 					int paragraphEnd = sentenceNumber + paragraph.size();
+
 					int numSentencesInNextParagraph = structure.getStructure().get(paragraphNumber+1).size();
 					for(int i = sentenceNumber+1; i < paragraphEnd+numSentencesInNextParagraph; i++) {
+
 						weights[i] = section.getScore();
 					}
 				}

@@ -26,10 +26,12 @@ public class Aggregator implements IAggregator {
 		double[] totalWeights = new double[numSentences];
 		ArrayList<SentenceScore> scores = new ArrayList<SentenceScore>();
 		
+		/*//!!BAD puts all sentences to 0 after a bad sentence
 		//Calculating all weights
 		for(Double[] featureWeights : allWeights) {
 			boolean flaggedAsBad=false;
 			for(int i = 0; i < featureWeights.length; i++) {
+
 				if(featureWeights[i] >= 0 && !flaggedAsBad) {
 					totalWeights[i]+=featureWeights[i];
 				} else {
@@ -38,6 +40,18 @@ public class Aggregator implements IAggregator {
 				}
 			}
 		}
+		*/
+		for(Double[] featureWeights : allWeights) {
+			for(int i = 0; i < featureWeights.length; i++) {
+
+				if(featureWeights[i] >= 0) {
+					totalWeights[i]+=featureWeights[i];
+				} else {
+					totalWeights[i] = Double.NEGATIVE_INFINITY;
+				}
+			}
+		}
+		
 
 		//Pairing weights with sentences for ranking
 		for(int i = 0; i < numSentences; i++) {
