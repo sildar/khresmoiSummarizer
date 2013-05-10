@@ -5,8 +5,6 @@ import ie.dcu.cngl.tokenizer.TokenInfo;
 import java.io.IOException;
 import java.util.ArrayList;
 
-import org.apache.commons.lang.StringUtils;
-
 /**
  * Calculates what proportion of the sentence contains punctuation. If this is above
  * a specified threshold the sentence is negatively marked.

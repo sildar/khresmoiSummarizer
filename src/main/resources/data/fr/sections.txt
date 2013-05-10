@@ -1,0 +1,13 @@
+introduction,4
+objectif,4
+conclusion,4
+résumé,5
+abstract,5
+remerciements,-1
+bibliographie,-1
+index,-1
+annexe,-1
+symptômes,4
+traitement,3
+prévention,3
+abréviations,-1
