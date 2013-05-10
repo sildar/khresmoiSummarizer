@@ -10,3 +10,4 @@ appendix,-1
 signs and symptoms,4
 treatment,3
 prevention,3
+abbreviations,-1

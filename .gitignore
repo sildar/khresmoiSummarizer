@@ -9,6 +9,10 @@
 target/javadoc*
 target/site*
 
+# Resources should be added to target via mvn resources:resources
+
+target/classes*
+
 # Eclipse stuff #
 .classpath
 .project
