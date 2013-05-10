@@ -25,6 +25,12 @@ public interface IWeighter {
 	 * @param feature Feature to be executed
 	 */
 	public void addFeature(Feature feature);
+	
+	/**
+	 * Adds a set of predefined features
+	 */
+	public void addAllFeatures();
+
 
 	/**
 	 * Sets title tokens for features that require it.

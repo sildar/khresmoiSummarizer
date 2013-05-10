@@ -1,0 +1,1966 @@
+<!DOCTYPE art SYSTEM "article.dtd">
+<art>
+   <ui>scrt43</ui>
+   <ji>1757-6512</ji>
+   <fm>
+      <dochead>Research</dochead>
+      <bibl>
+         <title>
+            <p>Characterization of the radioresponse of human apical papilla-derived cells</p>
+         </title>
+         <aug>
+            <au id="A1">
+               <snm>Abe</snm>
+               <fnm>Shigehiro</fnm>
+               <insr iid="I1"/>
+               <insr iid="I2"/>
+               <email>sabe.mfs@tmd.ac.jp</email>
+            </au>
+            <au id="A2">
+               <snm>Hamada</snm>
+               <fnm>Keiichi</fnm>
+               <insr iid="I2"/>
+               <email>hamaji.mfs@tmd.ac.jp</email>
+            </au>
+            <au id="A3">
+               <snm>Yamaguchi</snm>
+               <fnm>Satoshi</fnm>
+               <insr iid="I2"/>
+               <email>yamachan.mfs@tmd.ac.jp</email>
+            </au>
+            <au id="A4">
+               <snm>Amagasa</snm>
+               <fnm>Teruo</fnm>
+               <insr iid="I2"/>
+               <email>t-amagasa.mfs@tmd.ac.jp</email>
+            </au>
+            <au ca="yes" id="A5">
+               <snm>Miura</snm>
+               <fnm>Masahiko</fnm>
+               <insr iid="I1"/>
+               <email>masadrad@tmd.ac.jp</email>
+            </au>
+         </aug>
+         <insg>
+            <ins id="I1">
+               <p>Oral Radiation Oncology, Department of Oral Restitution, Tokyo Medical and Dental University, 1-5-45 Yushima, Bunkyo-ku, Tokyo 113-8549, Japan</p>
+            </ins>
+            <ins id="I2">
+               <p>Maxillofacial Surgery, Department of Maxillofacial Reconstruction and Function, Graduate School of Medical and Dental Sciences, Tokyo Medical and Dental University, 1-5-45 Yushima, Bunkyo-ku, Tokyo 113-8549, Japan</p>
+            </ins>
+         </insg>
+         <source>Stem Cell Research &amp; Therapy</source>
+         <issn>1757-6512</issn>
+         <pubdate>2011</pubdate>
+         <volume>2</volume>
+         <issue>1</issue>
+         <fpage>2</fpage>
+         <url>http://stemcellres.com/content/2/1/2</url>
+         <xrefbib>
+            <pubidlist>
+               <pubid idtype="doi">10.1186/scrt43</pubid>
+               <pubid idtype="pmpid">21251334</pubid>
+            </pubidlist>
+         </xrefbib>
+      </bibl>
+      <history>
+         <rec>
+            <date>
+               <day>6</day>
+               <month>9</month>
+               <year>2010</year>
+            </date>
+         </rec>
+         <revrec>
+            <date>
+               <day>20</day>
+               <month>12</month>
+               <year>2010</year>
+            </date>
+         </revrec>
+         <acc>
+            <date>
+               <day>20</day>
+               <month>1</month>
+               <year>2011</year>
+            </date>
+         </acc>
+         <pub>
+            <date>
+               <day>20</day>
+               <month>1</month>
+               <year>2011</year>
+            </date>
+         </pub>
+      </history>
+      <cpyrt>
+         <year>2011</year>
+         <collab>Abe et al.; licensee BioMed Central Ltd.</collab>
+         <note>This is an open access article distributed under the terms of the Creative Commons Attribution License (<url>http://creativecommons.org/licenses/by/2.0</url>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</note>
+      </cpyrt>
+      <abs>
+         <sec>
+            <st>
+               <p>Abstract</p>
+            </st>
+            <sec>
+               <st>
+                  <p>Background</p>
+               </st>
+               <p>The purpose of this study was to characterize the radiobiological properties of stem/progenitor cells derived from apical papilla-derived cells (APDCs) compared to bulk APDCs.</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>Methods</p>
+               </st>
+               <p>APDCs were isolated from freshly extracted human third molars with immature apices. Multipotent spheres, which are thought to contain an enriched population of stem/progenitor cells, were formed from the APDCs, using a neurosphere culture technique. After &#947;-irradiation, papillary sphere-forming cells (PSFCs) and bulk APDCs were subjected to radiosensitivity and hard tissue-forming assays.</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>Results</p>
+               </st>
+               <p>Compared to bulk APDCs, the PSFCs exhibited a radioresistant phenotype and a higher capacity for DNA double strand break repair. Irradiation induced a significant increase in a senescence-like phenotype in both cell types. Neither type of cells exhibited a significant induction of apoptotic changes after 8 Gy of irradiation. Ability to form hard tissue <it>in vivo </it>was significantly decreased in PSFCs, but not in APDCs following 4 Gy of irradiation.</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>Conclusions</p>
+               </st>
+               <p>We demonstrated for the first time that stem/progenitor cells derived from APDCs exhibit a radioresistant phenotype; however, the hard tissue forming ability <it>in vivo</it>, but not bulk APDCs, was significantly reduced after irradiation.</p>
+            </sec>
+         </sec>
+      </abs>
+   </fm>
+   <bdy>
+      <sec>
+         <st>
+            <p>Introduction</p>
+         </st>
+         <p>Since the discovery of the dental pulp stem cells (DPSCs) about 10 years ago, several studies have reported various types of DPSCs in mature permanent teeth, developing teeth, and tooth germs <abbrgrp><abbr bid="B1">1</abbr><abbr bid="B2">2</abbr><abbr bid="B3">3</abbr><abbr bid="B4">4</abbr><abbr bid="B5">5</abbr></abbrgrp>. It is now a widely held view that DPSCs play a central role in forming structures of teeth <abbrgrp><abbr bid="B1">1</abbr><abbr bid="B2">2</abbr></abbrgrp>. We previously reported that apical papilla-derived cells (APDCs) derived from the tip of the apical papilla of human developing third molars with immature apices exhibit high proliferation activity and multilineage differentiation potential, and could, therefore, be an effective source of cells for hard tissue regeneration <it>in vivo </it><abbrgrp><abbr bid="B6">6</abbr><abbr bid="B7">7</abbr><abbr bid="B8">8</abbr></abbrgrp>. DPSCs are implied to originate from the cranial neural crest and differentiate not only into the mesenchymal lineage, but also into other lineages <abbrgrp><abbr bid="B4">4</abbr><abbr bid="B6">6</abbr><abbr bid="B9">9</abbr></abbrgrp>. Neural crest-derived multipotent stem cells have been isolated from many tissues including the skin <abbrgrp><abbr bid="B10">10</abbr></abbrgrp> and bone marrow <abbrgrp><abbr bid="B11">11</abbr></abbrgrp> in rodent models using a sphere formation technique, which enables enrichment of stem/progenitor cells. Lombaert <it>et al</it>. succeeded in rescuing salivary gland function by the transplantation of stem cell-like cells, derived from the salispheres formed <it>in vitro</it>, into irradiated glands <abbrgrp><abbr bid="B12">12</abbr></abbrgrp>.</p>
+         <p>Dental development is often disturbed (root hypoplasia, etc), for instance after leukemia therapy for children when total body irradiation is combined <abbrgrp><abbr bid="B13">13</abbr><abbr bid="B14">14</abbr><abbr bid="B15">15</abbr></abbrgrp>. To the best of our knowledge, the effects of ionizing radiation on human APDCs have never been reported thus far. Therefore, we applied the sphere formation technique to APDCs and eventually identified papillary sphere-forming cells (PSFCs) in human APDCs. We thought that analyzing the radiobiological properties and effects of irradiation would be important on mineralized cell linage differentiation in PSFCs, using the bulk APDCs as a control. We show here that PSFCs are more radioresistant than bulk APDCs and that PSFCs exhibit a significant reduction of the hard tissue formation ability <it>in vivo</it>, but not bulk APDCs, following irradiation.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Materials and methods</p>
+         </st>
+         <sec>
+            <st>
+               <p>Cell culture</p>
+            </st>
+            <p>This study was approved by the Institutional Review Board of the Faculty of Dentistry, Tokyo Medical and Dental University. Written informed consent was obtained from all donors. Human impacted third molars freshly extracted for orthodontic or other treatments were obtained from the oral and maxillofacial surgery clinic of Tokyo Medical and Dental University. The APDCs were isolated as previously described <abbrgrp><abbr bid="B6">6</abbr></abbrgrp>. Cryopreserved cells from the second to sixth passages were used for each experiment.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Papillary sphere culture</p>
+            </st>
+            <p>We followed a previously reported method with some modifications <abbrgrp><abbr bid="B16">16</abbr></abbrgrp>. Trypsinized APDCs (5 &#215; 10<sup>4 </sup>cells) were grown in 24-well super-hydrophilic plates (Cellseed, Tokyo, Japan) in serum-free Dulbecco's Minimum Essential Medium (MEM)/F12 (1:1) containing 20 ng/ml of basic fibroblasts growth factor (bFGF) and 20 ng/ml epidermal growth factor (EGF). Primary sphere-forming cells that had been cultured for seven days were used for all experiments. Papillary spheres were fixed in 4% paraformaldehyde, embedded in Optical Cutting Temperature (O.C.T) compound (Sakura Finetechnical Co., Tokyo, Japan), and histologically processed, followed by immunohistochemical analysis.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Immunofluorescence</p>
+            </st>
+            <p>Cells were fixed with 4% paraformaldehyde at 4&#176;C and washed twice with Tris-buffered saline with Tween 20 (TBST). The cells and cryosections were incubated in TBST/5% skim milk solution for 30 minutes to prevent non-specific binding of the antibodies. The sides were incubated with an antibody specific for Nestin (1:100) (R&amp;D Systems, Minneapolis, MN, USA), Musashi-1 (1:50) (R&amp;D Systems), osteocalcin (OCN) (1:200) (Takara Bio, Shiga, Japan), &#945; smooth muscle actin (&#945;SMA) (1:200) (Sigma-Aldrich, St. Louis, MO, USA), Tuj-1(&#946;&#8546; tubulin) (1:100) (Chemicon, Temecula, CA, USA), microtubule-associated protein-2 (MAP-2) (1:100) (Sigma), or &#947;H2AX (1:500) (Upstate Cell Signaling, Lake Placid, NY, USA) at 37&#176;C for one hour. After washing in phosphate-buffered saline (PBS), the cells were incubated with anti-mouse IgG conjugated with Alexa Fluor 488 (Invitrogen, Carlsbad, CA, USA) and anti-goat IgG conjugated Alexa 594 (Invitrogen) at room temperature for 30 minutes.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Differentiation of PSFCs</p>
+            </st>
+            <p>For mineralized cell differentiation, several spheres were plated in chamber slides (BD Bioscience, San Diego, CA) and cultured in condition medium, &#945;MEM supplemented with 10% fetal bovine serum (FBS), for seven days. The medium was changed to &#945;MEM supplemented with 10% FBS, 0.2 mM ascorbic acid, 5 mM &#946;-glycerophosphate and 100 nM dexametasone, and cultured for two weeks, followed by another one-week culture with the same medium plus 10 mM &#946;-glycerophosphate. To evaluate the mineralized matrix, cells were fixed in methanol for 10 minutes and stained with 1% Alizarin red S (Wako Pure Chemical Industries, Osaka, Japan). For adipogenic differentiation, several spheres were cultured as described above. The medium was then changed to adipogenic promoting medium <abbrgrp><abbr bid="B17">17</abbr></abbrgrp> and cultured for three weeks. To identify the adipocytes, cells were stained with Oil red O (Sigma Aldrich, St. Louis, MO, USA). For myogenic differentiation, several spheres were cultured as described above, followed by culture in high-glucose DMEM supplemented with 10% FBS and 10 ng/ml of transforming growth factor-&#946;1 (TGF-&#946;1) (R&amp;D Systems, Minneapolis, MN, USA) for 10 days. Cells were then immunostained with anti-&#945;SMA antibody as described below.</p>
+         </sec>
+         <sec>
+            <st>
+               <p><it>In vivo</it> hard tissue-forming assay</p>
+            </st>
+            <p>The APDCs and PSFCs were seeded at a density of 5 &#215; 10<sup>4 </sup>cells into porous hydroxyapatite (HA) scaffolds of Cell Yard&#8482; (Pentax, Tokyo, Japan). Cells were irradiated with 0 or 4 Gy and differentiated into mineralized cells using the protocol described above. Previously described transplantation methods were then employed <abbrgrp><abbr bid="B7">7</abbr></abbrgrp> with some modifications. The cells with HA scaffolds were implanted in subcutaneous pouches of the dorsum of four- to seven-week old male KSN nude mice (Sankyo Laboratory, Tokyo, Japan). After 12 weeks, the implanted tissues were removed and histological preparations were made as described previously <abbrgrp><abbr bid="B7">7</abbr></abbrgrp>. For the quantitative analysis of hard tissue formation, five sections were randomly selected from consecutive sections in each sample. The volume of newly formed hard tissue in the porous area was quantified using a Photoshop software (Adobe, San Jose, CA, USA), and the area was calculated as the percentage of regenerated hard tissue in the porous area.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Colony-forming assay and irradiation</p>
+            </st>
+            <p>Cells derived from APDCs or PSFCs were enzymatically dissociated with trypsin-EDTA solution and mechanically dissociated with a Pasteur pipette. An appropriate number of cells were plated in six-well tissue culture dishes. On the day after seeding, cells were exposed to &#947;-rays (0, 2, 4, and 6 Gy) using a <sup>60</sup>Co &#947;-ray therapeutic machine (TOSHIBA, Tokyo, Japan) at a dose rate of 0.62 Gy/minute. After 14 days of incubation, the cells were fixed with 10% formalin, and stained with crystal-violet. Colonies containing more than 50 cells were counted and the surviving fractions were determined. Three independent experiments were performed for each sample.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Double strand break (DSB) repair kinetics of APDCs and PSFCs</p>
+            </st>
+            <p>Cells grown on eight-well chamber slides (BD Bioscience, San Jose, CA, USA) were irradiated as above with 0 or 8 Gy irradiation. &#947;-H2AX immunofluorescence analysis was performed either 30 minutes or 24 hours after irradiation. For the quantitative analysis, we counted &#947;-H2AX foci in the nuclei of the samples. One hundred randomly selected cells were counted for each sample.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Senescence-associated &#946;-galactosidase assay</p>
+            </st>
+            <p>Exponentially growing cells were incubated for three days after 4 Gy of irradiation. The resultant cells were used for senescence-associated &#946;-galactosidase (SA-&#946;-gal) staining, using an SA-&#946;-gal Staining Kit (Sigma) according to the manufacturer's instructions <abbrgrp><abbr bid="B18">18</abbr></abbrgrp>. For quantitative analysis, the percentages of SA-&#946;-gal-positive and enlarged cells were determined by counting at least 200 cells from randomly selected fields in each sample.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Detection of apoptotic cells</p>
+            </st>
+            <p>Cells were irradiated with 0 or 8 Gy and assayed using terminal deoxynucleotidyl transferase-mediated deoxyuridine triphosphate nick-end labeling (TUNEL). Twenty-four hours after irradiation, TUNEL assay was performed using an <it>In Situ </it>Cell Death Detection Kit (Roche Diagnostic/Boehringer Mannheim Co., Indianapolis, IN, USA) according to the manufacturer's instructions and analyzed with a BX51 fluorescence microscope (Olympus, Tokyo, Japan). DNA was simultaneously stained with DAPI. APDCs were treated with 2 mM H<sub>2</sub>O<sub>2 </sub>(Wako Pure Chemical Co., Ltd., Osaka, Japan) for one hour, prepared for TUNEL assay after the treatment, and used as a positive control.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Statistical analysis</p>
+            </st>
+            <p>Mean values were compared using a Student's <it>t</it>-test. <it>P-</it>values &lt; 0.05 were considered statistically significant.</p>
+         </sec>
+      </sec>
+      <sec>
+         <st>
+            <p>Results</p>
+         </st>
+         <sec>
+            <st>
+               <p>Macroscopic appearance of human apical pulp tissues and characteristics of PSFCs derived from APDCs</p>
+            </st>
+            <p>The human tooth with an immature apex is a developing organ. The stem cells near the root apex contribute to the formation of the complete root <abbrgrp><abbr bid="B5">5</abbr><abbr bid="B6">6</abbr></abbrgrp>. The APDCs were derived from the soft tissue of the tip of the apical papilla (Figure <figr fid="F1">1Ac, d</figr>), which consists of a mixture of cell types, including active odontoblasts and fibroblasts. PSFCs were further isolated from APDCs using a neurosphere technique, as described in the Introduction section (Figure <figr fid="F1">1B</figr>). The isolated PSFCs expressed neural stem cell or neural crest stem cell-specific markers, such as Nestin and Musashi-1, but did not express lineage markers such as osteocalcin (OCN) (mineralized cell marker), &#945;SMA (smooth muscle cells marker), Tuj-1, or MAP-2 (neural cell marker) (Figure <figr fid="F2">2A</figr>). The cells also exhibited multipotency: they were capable of differentiating into mineralized cells (stained with Alizarin red), adipocytes (stained with Oil red O), and myocytes (immunostained with anti-&#945; SMA antibody) under the appropriate culture conditions (Figure <figr fid="F2">2B</figr>). These findings suggested that PSFCs consist of a population that is enriched in stem/progenitor cells and that the majority of PSFCs are in an undifferentiated state. We thus took advantage of this technique to analyze the radiobiological properties of stem/progenitor cells derived from APDCs, by comparing them with those of bulk APDCs.</p>
+            <fig id="F1">
+               <title>
+                  <p>Figure 1</p>
+               </title>
+               <caption>
+                  <p>Macroscopic appearance of human apical papilla tissues and characteristics of papillary sphere-forming cells (PSFCs)</p>
+               </caption>
+               <text>
+                  <p><b>Macroscopic appearance of human apical papilla tissues and characteristics of papillary sphere-forming cells (PSFCs)</b>. <b>(a) </b>Photographs of human apical papilla tissues attaching to the teeth. (a, b) Human tooth with mature apex. Arrowhead indicates mature root apex. (c, d) Human tooth with immature apex. Arrow indicates apical papilla tissue not framed in by dentin. Arrowhead indicates formation of the root with immature apex. <b>(b) </b>Morphology of cultured apical papilla-derived cells (APDCs) <it>in vitro</it>. (a) Exponentially growing APDCs under monolayer culture. (b) Papillary sphere-forming cells (PSFCs).</p>
+               </text>
+               <graphic file="scrt43-1"/>
+            </fig>
+            <fig id="F2">
+               <title>
+                  <p>Figure 2</p>
+               </title>
+               <caption>
+                  <p>Differentiation markers and multipotent differentiation capacity in PSFCs</p>
+               </caption>
+               <text>
+                  <p><b>Differentiation markers and multipotent differentiation capacity in PSFCs</b>. <b>(a) </b>Differentiation markers of PSFCs. Negative control was incubated with only secondary antibodies (a-c). Nestin (d), Musashi-1 (f), osteocalcin (OCN)(g), &#945;SMA (h), Tuj-1 (i) and MAP-2 (j). Scale: 100 &#956;m. <b>(b) </b>Multipotent differentiation capacity of PSFCs. PSFCs were differentiated under specific culture conditions suitable for differentiation into each cell type. Identification of differentiation: Alizarin red staining for mineralized cells; Oil red O staining for adipocytes; &#945;SMA immunostaining for myocytes. Cont, before differentiation; Diff,: after differentiation. Scale: 100 &#956;m.</p>
+               </text>
+               <graphic file="scrt43-2"/>
+            </fig>
+         </sec>
+         <sec>
+            <st>
+               <p>PSFCs exhibit a radioresistant phenotype compared to APDCs</p>
+            </st>
+            <p>We first examined the intrinsic radiosensitivity of exponentially growing APDCs and PSFCs by colony-forming assay (Figure <figr fid="F3">3</figr>). To avoid complications from sphere formation-associated factors that may influence radiosensitivity <abbrgrp><abbr bid="B19">19</abbr></abbrgrp>, cells were irradiated after trypsinization of spheres. The results clearly showed that PSFCs are more radioresistant than bulk APDCs.</p>
+            <fig id="F3">
+               <title>
+                  <p>Figure 3</p>
+               </title>
+               <caption>
+                  <p>Dose-cell survival curves following &#947;-irradiation obtained by colony-forming assay</p>
+               </caption>
+               <text>
+                  <p><b>Dose-cell survival curves following &#947;-irradiation obtained by colony-forming assay</b>. Results are expressed as means &#177; SE of four different samples.</p>
+               </text>
+               <graphic file="scrt43-3"/>
+            </fig>
+            <p>We next examined the kinetics of DSB repair, a pathway that is of critical importance in determining cellular radiosensitivity <abbrgrp><abbr bid="B20">20</abbr></abbrgrp>. For this purpose, we quantified the number of immunofluorescent foci of histone H2AX phosphorylated at Ser 139 (&#947;-H2AX), which are formed in close proximity to DSB sites. Because &#947;-H2AX disappears after DSB repair is completed, the rate at which &#947;-H2AX disappears following irradiation reflects DSB repair activity. Therefore, we compared DSB repair activity in APDCs and PSFCs using an immunohistochemical method specific for &#947;-H2AX. Thirty minutes after irradiation, many &#947;-H2AX foci were detected in the nuclei of both APDCs and PSFCs; 24 h after irradiation, fewer &#947;-H2AX foci were detected in both cell types (Figure <figr fid="F4">4A</figr>). We quantitatively analyzed the DSB repair by counting the &#947;-H2AX foci 24 h after irradiation and the histograms are shown in Figure <figr fid="F4">4B</figr>. The histogram in APDCs shifted to the right side compared to that in PSFCs, indicating that the DSB repair capacity is higher in PSFCs than in APDCs. The results are thus consistent with intrinsic radiosensitivity determined by colony-forming assay.</p>
+            <fig id="F4">
+               <title>
+                  <p>Figure 4</p>
+               </title>
+               <caption>
+                  <p>Double strand break (DSB) repair kinetics in APDCs and PSFCs following irradiation</p>
+               </caption>
+               <text>
+                  <p><b>Double strand break (DSB) repair kinetics in APDCs and PSFCs following irradiation</b>. <b>(a) </b>Immunofluorescent foci of &#947;-H2AX. At the indicated times after 8 Gy of irradiation, cells were fixed and prepared for immunofluorescence staining. <b>(b) </b>Histograms of the number of &#947;-H2AX foci per nucleus 24 h after irradiation. Results are expressed as means &#177; SE of three different samples. *P &lt; 0.05, **<it>P </it>&lt; 0.001. Scale: 20 &#956;m.</p>
+               </text>
+               <graphic file="scrt43-4"/>
+            </fig>
+         </sec>
+         <sec>
+            <st>
+               <p>Irradiation significantly induces senescence-like phenotype, but not apoptotic changes in PSFCs</p>
+            </st>
+            <p>We next performed senescence-associated &#946;-galactosidase (SA-&#946;-gal) staining after irradiation. In some normal cells, a senescence-like phenotype, rather than apoptosis, is associated with radiosensitivity <abbrgrp><abbr bid="B21">21</abbr><abbr bid="B22">22</abbr><abbr bid="B23">23</abbr></abbrgrp>. We found that the percentages of characteristic phenotypes of senescence (SA-&#946;-gal-positive, flattened and enlarged morphology; (Figure <figr fid="F5">5A</figr>), significantly increased in both APDCs and PSFCs following 4 Gy irradiation (Figure <figr fid="F5">5B</figr>). The induction was significantly lower in PSFCs. Similar results were also obtained when cells were irradiated at 8 Gy (data not shown). On the other hand, irradiation caused a negligible level of apoptotic changes in both cell types, as determined by immunohistochemical analysis using TUNEL method, even after 8 Gy of irradiation (Figure <figr fid="F6">6A</figr>). Neither nuclear fragmentation nor apoptotic bodies were observed 24 h after irradiation (Figure <figr fid="F7">7B</figr>).</p>
+            <fig id="F5">
+               <title>
+                  <p>Figure 5</p>
+               </title>
+               <caption>
+                  <p>Induction of the senescence-like phenotype in APDCs and PSFCs after irradiation</p>
+               </caption>
+               <text>
+                  <p><b>Induction of the senescence-like phenotype in APDCs and PSFCs after irradiation</b>. <b>(a) </b>A typical example of senescence-like cells. <b>(b) </b>Quantitative analysis of the induction of the senescence-like phenotype in APDCs and PSFCs after irradiation. For quantitative analysis, senescence-associated -&#946;-galactosidase-positive and enlarged cells were considered to be senescent cells. The percentages of senescent cells three days after 4 Gy of irradiation were determined in APDCs and PSFCs. At least 200 cells were counted in each group. Results are expressed as means &#177; SE of three independent samples. *, <it>P </it>&lt; 0.05. Scale: 100 &#956;m.</p>
+               </text>
+               <graphic file="scrt43-5"/>
+            </fig>
+            <fig id="F6">
+               <title>
+                  <p>Figure 6</p>
+               </title>
+               <caption>
+                  <p>Apoptotic changes in APDCs and PSFCs following irradiation</p>
+               </caption>
+               <text>
+                  <p><b>Apoptotic changes in APDCs and PSFCs following irradiation</b>. <b>(a) </b>A typical example of apoptosis in APDCs. As a positive control (a), APDCs were treated with 2 mM H<sub>2</sub>O<sub>2 </sub>and terminal deoxynucleotidyl transferase-mediated deoxyuridine triphosphate nick-end labeling (TUNEL) assay was performed one hour after the treatment. (b) A magnified field of the square within panel a: the arrow indicates nuclear fragmentation. <b>(b) </b>Apoptotic changes in APDCs and PSFCs following irradiation. TUNEL assay was performed 24 h after 8 Gy of irradiation. Nuclear staining was done with DAPI. Scale: 100 &#956;m.</p>
+               </text>
+               <graphic file="scrt43-6"/>
+            </fig>
+            <fig id="F7">
+               <title>
+                  <p>Figure 7</p>
+               </title>
+               <caption>
+                  <p>Effect of irradiation on hard tissue-forming capacity <it>in vivo </it>in APDCs and PSFCs</p>
+               </caption>
+               <text>
+                  <p><b>Effect of irradiation on hard tissue-forming capacity <it>in vivo </it>in APDCs and PSFCs</b>. <b>(a) </b>A typical example of hard tissue generation <it>in vivo</it>. (a) Generated bone-like hard tissue. Osteocyte-like cells (OC) embedded in the mineralized matrix and osteoblastic cells (OB) lining the surface of the hard tissue. HA, hydroxyapatite. (b) Immunofluorescence staining for osteocalcin (OCN). green: OCN; blue: nuclei. Scale: 100 &#956;m. <b>(b) </b>A typical example of hard tissue generation <it>in vivo </it>in non-irradiated and irradiated cells. HA, hydroxyapatite. <b>(c) </b>Quantitative analysis of the generated hard tissue area in three independent samples. Results are expressed as means &#177; SE of five pieces of sections in each sample. *<it>P </it>&lt; 0.05.</p>
+               </text>
+               <graphic file="scrt43-7"/>
+            </fig>
+         </sec>
+         <sec>
+            <st>
+               <p><it>In vivo </it>hard tissue generation</p>
+            </st>
+            <p>To investigate the effects of irradiation on the potential capacity of PSFCs to form hard tissue <it>in vivo</it>, composites of cells and HA were implanted subcutaneously into immunocompromised mice. By 12 weeks after implantation, APDCs and PSFCs had formed ectopic hard tissues on the border of the porous HA. The hard tissues contained osteocyte-like cells embedded within a calcified matrix, and osteoblast-like cells were observed along the surface of the lining on the bone surface (Figure <figr fid="F7">7Aa</figr>). Furthermore, hard tissues generated by the implants expressed osteocalcin (OCN), which is a mature mineralized cell marker (Figure <figr fid="F7">7Ab</figr>). Quantitative analysis revealed that PSFCs tended to possess a greater ability to form mineralized tissues than APDCs, and that this ability was significantly inhibited after irradiation; this could be owing to a reduced stem cell-associated activity (Figures <figr fid="F7">7B, C</figr>).</p>
+         </sec>
+      </sec>
+      <sec>
+         <st>
+            <p>Discussion</p>
+         </st>
+         <p>The stem/progenitor cells that are present in APDCs derived from the tip of the apical papilla play an essential role in root formation of developing teeth <abbrgrp><abbr bid="B13">13</abbr><abbr bid="B14">14</abbr><abbr bid="B15">15</abbr><abbr bid="B16">16</abbr></abbrgrp>. We, therefore, reasoned that the radiobiological properties of the PSFCs derived from APDCs would help us to understand the disturbance of dental development such as root hypoplasia that occurs in pediatric patients for instance after leukemia therapy combined with total body irradiation <abbrgrp><abbr bid="B13">13</abbr><abbr bid="B14">14</abbr><abbr bid="B15">15</abbr></abbrgrp>.</p>
+         <p>Tissue regeneration is impaired after DNA damage; the shrinkage of the stem cell pool has been implicated as a mechanism underlying this diminished capacity <abbrgrp><abbr bid="B24">24</abbr><abbr bid="B25">25</abbr><abbr bid="B26">26</abbr></abbrgrp>. This mechanism could operate by induction of apoptosis, senescence, or abnormal differentiation by stressed stem cells. Irradiation can lead to apoptosis or cellular senescence in hematopoietic stem cells and mesenchymal stem cells, resulting in compromised self-renewal of stem cells and shrinkage of the pool <abbrgrp><abbr bid="B27">27</abbr><abbr bid="B28">28</abbr></abbrgrp>. Inhibition of differentiation after DNA damage has also been observed in mouse satellite cells derived from C2C12 myoblasts <abbrgrp><abbr bid="B29">29</abbr><abbr bid="B30">30</abbr></abbrgrp>. Sch&#246;nmeyr <it>et al</it>. found that irradiation reduced alkaline phosphatase (ALP) activity and the expression of osteocalcin in differentiating MSCs and inhibited differentiation into osteoblasts <abbrgrp><abbr bid="B28">28</abbr></abbrgrp>. Recently, Inomata <it>et al</it>. reported that the DNA-damage response triggers melanocyte stem cell differentiation into premature melanocytes in the niche, rather than inducing their apoptosis or senescence <abbrgrp><abbr bid="B31">31</abbr></abbrgrp>. The idea that enhancement of differentiation contributes to the stem cell depletion is an interesting concept.</p>
+         <p>In general, active mineralized cells have high expression of ALP and only fully mature mineralized cells can produce a matrix that can be subsequently mineralized <it>in vitro </it>and <it>in vivo </it><abbrgrp><abbr bid="B32">32</abbr></abbrgrp>. We found no evidence that irradiation enhances ALP activity <it>in vitro </it>in an appropriate differentiating condition (data not shown). Therefore, our findings that PSFCs exhibited a significant reduction of the hard tissue generation capacity <it>in vivo </it>raise two possibilities: 1) irradiation alters the mineralized cell linage differentiation program, leading to the inhibition of differentiation in stem/progenitor cells; and/or 2) irradiation induces massive stem/progenitor cell killing, resulting in a reduction in the number of functional differentiated cells without affecting the differentiation process. Considering that PSFCs were more radioresistant than APDCs, and that apoptosis induction was negligible in both cell types, the current findings favor the former possibility. Compared to PSFCs, APDCs are thought to contain larger numbers of differentiated cells before irradiation, ensuring that the mineralizing process by itself is not much affected, at least by irradiation at doses used in this study.</p>
+         <p>During the <it>in vivo </it>development of dental roots, additional environmental complexities exist. Root dentin is normally formed during the root development via interactions of epithelial cells (Hertwig's epithelial root sheath cells: HERSCs) and dental papilla cells <abbrgrp><abbr bid="B33">33</abbr></abbrgrp>; therefore, dentin is unlikely to develop under conditions in which only APDCs are present. However, other groups reported <abbrgrp><abbr bid="B3">3</abbr><abbr bid="B34">34</abbr></abbrgrp> that stem-like cells derived from dental pulp have a bone-like hard tissue-forming ability <it>in vivo</it>, even in the absence of HERSCs. We assumed that this ability of APDCs, determined using the relatively simple and widely used differentiation method for hard tissue formation, would correlate with the <it>in vivo </it>dentin-forming ability. To maintain and regulate the stem cells, the tissue microenvironment (niche) also plays an important role <it>in vivo</it>; however, the niche of dental papilla stem cells has not yet been carefully characterized, and the important interactions are not yet known in detail. <it>In vivo </it>studies including such factors will be required in order for us to understand the effects of irradiation on root dysplasia.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Conclusions</p>
+         </st>
+         <p>We demonstrated for the first time that stem/progenitor cells derived from APDCs exhibit a radioresistant phenotype and a significant reduction of hard tissue forming ability <it>in vivo </it>but not bulk APDCs, following irradiation.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Abbreviations</p>
+         </st>
+         <p>&#945;SMA: &#945; smooth muscle actin; &#947;-H2AX: phosphorylated histone H2AX; ALP: alkaline phosphatase; APDCs: apical papilla-derived cells; DPSCs: dental pulp stem cells; DSB: double strand break; FBS: fetal bovine serum; HA: hydroxyapatirte; MAP-2: microtubule-associated protein-2; OCN: ostecalcin; PBS: phosphate buffered saline; PSFCs: papillary sphere-forming cells; SA-&#946;-Gal: senescence-associated &#946; galactosidase; TBST: Tris-buffered saline with Tween 20; TUNEL: terminal deoxynucleotidyl transferase-mediated deoxyuridine triphosphate nick-end labeling.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Competing interests</p>
+         </st>
+         <p>The authors declare that they have no competing interests.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Authors' contributions</p>
+         </st>
+         <p>SA carried out most of the study and participated in its design. KH, SY, and TA participated in the study design and data discussion. MM jointly conceived of the study and participated in its design and drafted the manuscript. All authors read and approved the final manuscript.</p>
+      </sec>
+   </bdy>
+   <bm>
+      <ack>
+         <sec>
+            <st>
+               <p>Acknowledgements</p>
+            </st>
+            <p>This work was supported by a Grant-in-Aid for Scientific Research 20890065 from the Ministry of Education, Culture, Sports, Science and Technology of Japan.</p>
+         </sec>
+      </ack>
+      <refgrp>
+         <bibl id="B1">
+            <title>
+               <p>Postnatal human dental pulp stem cells (DPSCs) <it>in vitro </it>and <it>in vivo</it></p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Gronthos</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Mankani</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Brahim</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Robey</snm>
+                  <fnm>PG</fnm>
+               </au>
+               <au>
+                  <snm>Shi</snm>
+                  <fnm>S</fnm>
+               </au>
+            </aug>
+            <source>Proc Natl Acad Sci U S A</source>
+            <pubdate>2000</pubdate>
+            <volume>97</volume>
+            <fpage>13625</fpage>
+            <lpage>13630</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1073/pnas.240309797</pubid>
+                  <pubid idtype="pmcid">17626</pubid>
+                  <pubid idtype="pmpid">11087820</pubid>
+                  <pubid idtype="pubmed">11087820 </pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B2">
+            <title>
+               <p>Stem cell properties of human dental pulp stem cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Gronthos</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Brahim</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Li</snm>
+                  <fnm>W</fnm>
+               </au>
+               <au>
+                  <snm>Fisher</snm>
+                  <fnm>LW</fnm>
+               </au>
+               <au>
+                  <snm>Cherman</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Boyde</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>DenBesten</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Robey</snm>
+                  <fnm>PG</fnm>
+               </au>
+               <au>
+                  <snm>Shi</snm>
+                  <fnm>S</fnm>
+               </au>
+            </aug>
+            <source>J Dent Res</source>
+            <pubdate>2002</pubdate>
+            <volume>81</volume>
+            <fpage>531</fpage>
+            <lpage>535</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1177/154405910208100806</pubid>
+                  <pubid idtype="pmpid" link="fulltext">12147742</pubid>
+                  <pubid idtype="pubmed">12147742 </pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B3">
+            <title>
+               <p>A new population of human adult dental pulp stem cells: a useful source of living autologous fibrous bone tissue (LAB)</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Laino</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>d'Aquino</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Graziano</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Lanza</snm>
+                  <fnm>V</fnm>
+               </au>
+               <au>
+                  <snm>Carinci</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Naro</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Pirozzi</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Papaccio</snm>
+                  <fnm>G</fnm>
+               </au>
+            </aug>
+            <source>J Bone Miner Res</source>
+            <pubdate>2005</pubdate>
+            <volume>20</volume>
+            <fpage>1394</fpage>
+            <lpage>1402</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1359/JBMR.050325</pubid>
+                  <pubid idtype="pmpid" link="fulltext">16007337</pubid>
+                  <pubid idtype="pubmed">16007337 </pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B4">
+            <title>
+               <p>Multipotent cells from the human third molar: feasibility of cell-based therapy for liver disease</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Ikeda</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Yagi</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Kojima</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Yagyuu</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Ohshima</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Sobajima</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Tadokoro</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Katsube</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Isoda</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Kondoh</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Kawase</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Go</snm>
+                  <fnm>MJ</fnm>
+               </au>
+               <au>
+                  <snm>Adachi</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Yokota</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Kirita</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Ohgushi</snm>
+                  <fnm>H</fnm>
+               </au>
+            </aug>
+            <source>Differentiation</source>
+            <pubdate>2007</pubdate>
+            <volume>76</volume>
+            <fpage>495</fpage>
+            <lpage>505</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1111/j.1432-0436.2007.00245.x</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18093227</pubid>
+                  <pubid idtype="pubmed">18093227 </pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B5">
+            <title>
+               <p>Mesenchymal stem cell-mediated functional tooth regeneration in swine</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Sonoyama</snm>
+                  <fnm>W</fnm>
+               </au>
+               <au>
+                  <snm>Liu</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Fang</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Yamaza</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Seo</snm>
+                  <fnm>BM</fnm>
+               </au>
+               <au>
+                  <snm>Zhang</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Liu</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Gronthos</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Wang</snm>
+                  <fnm>CY</fnm>
+               </au>
+               <au>
+                  <snm>Wang</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Shi</snm>
+                  <fnm>S</fnm>
+               </au>
+            </aug>
+            <source>PLoS ONE</source>
+            <pubdate>2006</pubdate>
+            <volume>1</volume>
+            <fpage>e79</fpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1371/journal.pone.0000079</pubid>
+                  <pubid idtype="pmcid">1762318</pubid>
+                  <pubid idtype="pmpid">17183711</pubid>
+                  <pubid idtype="pubmed">17183711 </pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B6">
+            <title>
+               <p>Multilineage cells from apical pulp of human tooth with immature apex</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Abe</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Yamaguchi</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Amagasa</snm>
+                  <fnm>T</fnm>
+               </au>
+            </aug>
+            <source>Oral Sci Int</source>
+            <pubdate>2007</pubdate>
+            <volume>4</volume>
+            <fpage>45</fpage>
+            <lpage>58</lpage>
+         </bibl>
+         <bibl id="B7">
+            <title>
+               <p>Hard tissue regeneration capacity of apical pulp derived cells (APDCs) from human tooth with immature apex</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Abe</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Yamaguchi</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Watanabe</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Hamada</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Amagasa</snm>
+                  <fnm>T</fnm>
+               </au>
+            </aug>
+            <source>Biochm Biophys Res Commun</source>
+            <pubdate>2008</pubdate>
+            <volume>371</volume>
+            <fpage>90</fpage>
+            <lpage>93</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.bbrc.2008.04.016</pubid>
+                  <pubid idtype="pubmed">18407827 </pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B8">
+            <title>
+               <p><it>In vivo </it>bone formation by human dental pulp cells cultured without cell sorting and osteogenic differentiation induction</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Hamada</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Yamaguchi</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Abe</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Ichinose</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Abe</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Yamashita</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Amagasa</snm>
+                  <fnm>T</fnm>
+               </au>
+            </aug>
+            <source>J Oral Tissue Eng</source>
+            <pubdate>2009</pubdate>
+            <volume>7</volume>
+            <fpage>15</fpage>
+            <lpage>25</lpage>
+         </bibl>
+         <bibl id="B9">
+            <title>
+               <p>Fate of the mammalian cranial neural crest during tooth and mandibular morphogenesis</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Chai</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Jiang</snm>
+                  <fnm>XB</fnm>
+               </au>
+               <au>
+                  <snm>Ito</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Bringas</snm>
+                  <fnm>P</fnm>
+                  <suf>Jr</suf>
+               </au>
+               <au>
+                  <snm>Han</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Rowitch</snm>
+                  <fnm>DH</fnm>
+               </au>
+               <au>
+                  <snm>Soriano</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>McMahon</snm>
+                  <fnm>AP</fnm>
+               </au>
+               <au>
+                  <snm>Sucov</snm>
+                  <fnm>HM</fnm>
+               </au>
+            </aug>
+            <source>Development</source>
+            <pubdate>2000</pubdate>
+            <volume>127</volume>
+            <fpage>1671</fpage>
+            <lpage>1679</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="pmpid" link="fulltext">10725243</pubid>
+                  <pubid idtype="pubmed">10725243 </pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B10">
+            <title>
+               <p>Neural crest-derived cells with stem cell features can be traced back to multiple lineages in the adult skin</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Wong</snm>
+                  <fnm>CE</fnm>
+               </au>
+               <au>
+                  <snm>Paratore</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Dours-Zimmermann</snm>
+                  <fnm>MT</fnm>
+               </au>
+               <au>
+                  <snm>Rochat</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Pietri</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Suter</snm>
+                  <fnm>U</fnm>
+               </au>
+               <au>
+                  <snm>Zimmermann</snm>
+                  <fnm>DR</fnm>
+               </au>
+               <au>
+                  <snm>Dufour</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Thiery</snm>
+                  <fnm>JP</fnm>
+               </au>
+               <au>
+                  <snm>Meijer</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Beermann</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Barrandon</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Sommer</snm>
+                  <fnm>L</fnm>
+               </au>
+            </aug>
+            <source>J Cell Biol</source>
+            <pubdate>2006</pubdate>
+            <volume>175</volume>
+            <fpage>1005</fpage>
+            <lpage>1015</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1083/jcb.200606062</pubid>
+                  <pubid idtype="pmcid">2064709</pubid>
+                  <pubid idtype="pmpid">17158956</pubid>
+                  <pubid idtype="pubmed">17158956 </pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B11">
+            <title>
+               <p>Ontogeny and multipotency of neural crest-derived stem cells in mouse bone marrow, dorsal root ganglia, and whisker pad</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Nagoshi</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Shibata</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Kubota</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Nakamura</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Nagai</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Satoh</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Morikawa</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Okada</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Mabuchi</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Katoh</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Okada</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Fukuda</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Suda</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Matsuzaki</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Toyama</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Okano</snm>
+                  <fnm>H</fnm>
+               </au>
+            </aug>
+            <source>Cell Stem Cells</source>
+            <pubdate>2008</pubdate>
+            <volume>2</volume>
+            <fpage>392</fpage>
+            <lpage>403</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.stem.2008.03.005</pubid>
+                  <pubid idtype="pubmed">18397758 </pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B12">
+            <title>
+               <p>Rescue of salivary gland function after stem cell transplantation in irradiated gland</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Lombaert</snm>
+                  <fnm>IM</fnm>
+               </au>
+               <au>
+                  <snm>Brunsting</snm>
+                  <fnm>JF</fnm>
+               </au>
+               <au>
+                  <snm>Wierenga</snm>
+                  <fnm>PK</fnm>
+               </au>
+               <au>
+                  <snm>Faber</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Stokman</snm>
+                  <fnm>MA</fnm>
+               </au>
+               <au>
+                  <snm>Kok</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Visser</snm>
+                  <fnm>WH</fnm>
+               </au>
+               <au>
+                  <snm>Kampinga</snm>
+                  <fnm>HH</fnm>
+               </au>
+               <au>
+                  <snm>de Haan</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Coppes</snm>
+                  <fnm>RP</fnm>
+               </au>
+            </aug>
+            <source>PloS One</source>
+            <pubdate>2008</pubdate>
+            <volume>3</volume>
+            <fpage>e2063</fpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1371/journal.pone.0002063</pubid>
+                  <pubid idtype="pmcid">2329592</pubid>
+                  <pubid idtype="pmpid">18446241</pubid>
+                  <pubid idtype="pubmed">18446241 </pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B13">
+            <title>
+               <p>Agenesis and microdontia of permanent teeth as late adverse effects after stem cell transplantation in young children</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>H&#246;ltt&#228;</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Alaluusua</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Saarinen-Pihkala</snm>
+                  <fnm>UM</fnm>
+               </au>
+               <au>
+                  <snm>Peltola</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Hovi</snm>
+                  <fnm>L</fnm>
+               </au>
+            </aug>
+            <source>Cancer</source>
+            <pubdate>2005</pubdate>
+            <volume>103</volume>
+            <fpage>181</fpage>
+            <lpage>190</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="pmpid" link="fulltext">15540242</pubid>
+                  <pubid idtype="pubmed">15540242 </pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B14">
+            <title>
+               <p>Disturbed root development of permanent teeth after pediatric stem cell transplantation. Dental root development after SCT</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>H&#246;ltt&#228;</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Hovi</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Saarinen-Pihkala</snm>
+                  <fnm>UM</fnm>
+               </au>
+               <au>
+                  <snm>Peltola</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Alaluusua</snm>
+                  <fnm>S</fnm>
+               </au>
+            </aug>
+            <source>Cancer</source>
+            <pubdate>2005</pubdate>
+            <volume>103</volume>
+            <fpage>1489</fpage>
+            <lpage>1493</lpage>
+            <xrefbib>
+               <pubid idtype="pubmed">15739206 </pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B15">
+            <title>
+               <p>Disturbances in dental development after total body irradiation in bone marrow transplant recipients</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Dahll&#246;f</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Barr</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Bolme</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Mod&#233;er</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>L&#246;nnqvist</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Ringd&#233;n</snm>
+                  <fnm>O</fnm>
+               </au>
+               <au>
+                  <snm>Heimdahl</snm>
+                  <fnm>A</fnm>
+               </au>
+            </aug>
+            <source>Oral Surg Oral Med Oral Pathol</source>
+            <pubdate>1988</pubdate>
+            <volume>65</volume>
+            <fpage>41</fpage>
+            <lpage>44</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="pmpid">2963247</pubid>
+                  <pubid idtype="pubmed">2963247 </pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B16">
+            <title>
+               <p>Neurosphere generation from dental pulp of adult rat incisor</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Sasaki</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Aoki</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Yamato</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Uchiyama</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Wada</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Okano</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Ogiuchi</snm>
+                  <fnm>H</fnm>
+               </au>
+            </aug>
+            <source>Eur J Neurosci</source>
+            <pubdate>2008</pubdate>
+            <volume>27</volume>
+            <fpage>538</fpage>
+            <lpage>548</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1111/j.1460-9568.2008.06026.x</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18279307</pubid>
+                  <pubid idtype="pubmed">18279307 </pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B17">
+            <title>
+               <p>Multilineage cells from human adipose tissue: implications for cell-based therapies</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Zuk</snm>
+                  <fnm>PA</fnm>
+               </au>
+               <au>
+                  <snm>Zhu</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Mizuno</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Huang</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Futrell</snm>
+                  <fnm>JW</fnm>
+               </au>
+               <au>
+                  <snm>Katz</snm>
+                  <fnm>AJ</fnm>
+               </au>
+               <au>
+                  <snm>Benhaim</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Lorenz</snm>
+                  <fnm>HP</fnm>
+               </au>
+               <au>
+                  <snm>Hedrick</snm>
+                  <fnm>MH</fnm>
+               </au>
+            </aug>
+            <source>Tissue Eng</source>
+            <pubdate>2001</pubdate>
+            <volume>7</volume>
+            <fpage>211</fpage>
+            <lpage>228</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1089/107632701300062859</pubid>
+                  <pubid idtype="pmpid" link="fulltext">11304456</pubid>
+                  <pubid idtype="pubmed">11304456 </pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B18">
+            <title>
+               <p>A biomarker that identifies senescent human cells in culture and in aging skin <it>in vivo</it></p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Dimri</snm>
+                  <fnm>GP</fnm>
+               </au>
+               <au>
+                  <snm>Lee</snm>
+                  <fnm>X</fnm>
+               </au>
+               <au>
+                  <snm>Basile</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Acosta</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Scott</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Roskelley</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Medrano</snm>
+                  <fnm>EE</fnm>
+               </au>
+               <au>
+                  <snm>Linskens</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Rubelj</snm>
+                  <fnm>I</fnm>
+               </au>
+               <au>
+                  <snm>Pereira-Smith</snm>
+                  <fnm>O</fnm>
+               </au>
+               <au>
+                  <snm>Peacocke</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Campisi</snm>
+                  <fnm>J</fnm>
+               </au>
+            </aug>
+            <source>Proc Natl Acad Sci U S A</source>
+            <pubdate>1995</pubdate>
+            <volume>92</volume>
+            <fpage>9363</fpage>
+            <lpage>9367</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1073/pnas.92.20.9363</pubid>
+                  <pubid idtype="pmcid">40985</pubid>
+                  <pubid idtype="pmpid">7568133</pubid>
+                  <pubid idtype="pubmed">7568133 </pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B19">
+            <title>
+               <p>Differential effects of the insulin-like growth factor I receptor on radiosensitivity and spontaneous necrosis formation of human glioblastoma cells grown in multicellular spheroids</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Watanabe</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Miura</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Sasaki</snm>
+                  <fnm>T</fnm>
+               </au>
+            </aug>
+            <source>Exp Cell Res</source>
+            <pubdate>1999</pubdate>
+            <volume>250</volume>
+            <fpage>99</fpage>
+            <lpage>111</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1006/excr.1999.4498</pubid>
+                  <pubid idtype="pmpid" link="fulltext">10388524</pubid>
+                  <pubid idtype="pubmed">10388524 </pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B20">
+            <title>
+               <p>Glioma stem cells promote radioresistance by preferential activation of the DNA damage response</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Bao</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Wu</snm>
+                  <fnm>Q</fnm>
+               </au>
+               <au>
+                  <snm>McLendon</snm>
+                  <fnm>RE</fnm>
+               </au>
+               <au>
+                  <snm>Hao</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Hao</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Shi</snm>
+                  <fnm>Q</fnm>
+               </au>
+               <au>
+                  <snm>Hjelmeland</snm>
+                  <fnm>AB</fnm>
+               </au>
+               <au>
+                  <snm>Dewhirst</snm>
+                  <fnm>MW</fnm>
+               </au>
+               <au>
+                  <snm>Bigner</snm>
+                  <fnm>DD</fnm>
+               </au>
+               <au>
+                  <snm>Rich</snm>
+                  <fnm>JN</fnm>
+               </au>
+            </aug>
+            <source>Nature</source>
+            <pubdate>2006</pubdate>
+            <volume>444</volume>
+            <fpage>756</fpage>
+            <lpage>760</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/nature05236</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17051156</pubid>
+                  <pubid idtype="pubmed">17051156 </pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B21">
+            <title>
+               <p>Radiation-induced senescence-like growth arrest requires TP53 function but not telomere shortening</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Suzuki</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Mori</snm>
+                  <fnm>I</fnm>
+               </au>
+               <au>
+                  <snm>Nakayama</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Miyakoda</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Kodama</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Watanabe</snm>
+                  <fnm>M</fnm>
+               </au>
+            </aug>
+            <source>Radiat Res</source>
+            <pubdate>2001</pubdate>
+            <volume>155</volume>
+            <fpage>248</fpage>
+            <lpage>253</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1667/0033-7587(2001)155[0248:RISLGA]2.0.CO;2</pubid>
+                  <pubid idtype="pmpid">11121242</pubid>
+                  <pubid idtype="pubmed">11121242 </pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B22">
+            <title>
+               <p>Radiation-induced senescence-like phenotype in proliferating and plateau-phase vascular endothelial cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Igarashi</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Sakimoto</snm>
+                  <fnm>I</fnm>
+               </au>
+               <au>
+                  <snm>Kataoka</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Ohta</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Miura</snm>
+                  <fnm>M</fnm>
+               </au>
+            </aug>
+            <source>Exp Cell Res</source>
+            <pubdate>2007</pubdate>
+            <volume>313</volume>
+            <fpage>3326</fpage>
+            <lpage>3336</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.yexcr.2007.06.001</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17662979</pubid>
+                  <pubid idtype="pubmed">17662979 </pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B23">
+            <title>
+               <p>Inhibition of a radiation-induced senescence-like phebotype: a possible mechanism for potentially lethal damage repair in vascular endothelial cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Igarashi</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Miura</snm>
+                  <fnm>M</fnm>
+               </au>
+            </aug>
+            <source>Radiat Res</source>
+            <pubdate>2008</pubdate>
+            <volume>170</volume>
+            <fpage>534</fpage>
+            <lpage>539</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1667/RR1423.1</pubid>
+                  <pubid idtype="pmpid">19024660</pubid>
+                  <pubid idtype="pubmed">19024660 </pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B24">
+            <title>
+               <p>How stem cells age and why this makes us grow old</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Sharpless</snm>
+                  <fnm>NE</fnm>
+               </au>
+               <au>
+                  <snm>DePinho</snm>
+                  <fnm>RA</fnm>
+               </au>
+            </aug>
+            <source>Nat Rev Mol Cell Biol</source>
+            <pubdate>2007</pubdate>
+            <volume>8</volume>
+            <fpage>703</fpage>
+            <lpage>713</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/nrm2241</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17717515</pubid>
+                  <pubid idtype="pubmed">17717515 </pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B25">
+            <title>
+               <p>Deletion of the developmentally essential gene ATR in adult mice leads to age-related phenotypes and stem cell loss</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Ruzankina</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Pinzon-Guzman</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Asare</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Ong</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Pontano</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Cotsarelis</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Zediak</snm>
+                  <fnm>VP</fnm>
+               </au>
+               <au>
+                  <snm>Velez</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Bhandoola</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Brown</snm>
+                  <fnm>EJ</fnm>
+               </au>
+            </aug>
+            <source>Cell Stem Cell</source>
+            <pubdate>2007</pubdate>
+            <volume>1</volume>
+            <fpage>113</fpage>
+            <lpage>126</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.stem.2007.03.002</pubid>
+                  <pubid idtype="pmcid">2920603</pubid>
+                  <pubid idtype="pmpid">18371340</pubid>
+                  <pubid idtype="pubmed">18371340 </pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B26">
+            <title>
+               <p>Replicative stress, stem cells and aging</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Ruzankina</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Asare</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Brown</snm>
+                  <fnm>EJ</fnm>
+               </au>
+            </aug>
+            <source>Mech Ageing Dev</source>
+            <pubdate>2008</pubdate>
+            <volume>129</volume>
+            <fpage>460</fpage>
+            <lpage>466</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.mad.2008.03.009</pubid>
+                  <pubid idtype="pmcid">2505188</pubid>
+                  <pubid idtype="pmpid">18462780</pubid>
+                  <pubid idtype="pubmed">18462780 </pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B27">
+            <title>
+               <p>Total body irradiation selectively induces murine hematopoietic stem cell senescence</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Wang</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Sculte</snm>
+                  <fnm>BA</fnm>
+               </au>
+               <au>
+                  <snm>LaRue</snm>
+                  <fnm>AC</fnm>
+               </au>
+               <au>
+                  <snm>Ogawa</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Zhou</snm>
+                  <fnm>D</fnm>
+               </au>
+            </aug>
+            <source>Blood</source>
+            <pubdate>2006</pubdate>
+            <volume>107</volume>
+            <fpage>358</fpage>
+            <lpage>366</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1182/blood-2005-04-1418</pubid>
+                  <pubid idtype="pmcid">1895367</pubid>
+                  <pubid idtype="pmpid">16150936</pubid>
+                  <pubid idtype="pubmed">16150936 </pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B28">
+            <title>
+               <p>Ionizing radiation of mesenchymal stem cells results in diminution of the precursor pool and limits potential for multilineage differentiation</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Sch&#246;nmeyr</snm>
+                  <fnm>BH</fnm>
+               </au>
+               <au>
+                  <snm>Wong</snm>
+                  <fnm>AK</fnm>
+               </au>
+               <au>
+                  <snm>Soares</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Fernandez</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Clavin</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Mehrara</snm>
+                  <fnm>BJ</fnm>
+               </au>
+            </aug>
+            <source>Plast Reconstr Surg</source>
+            <pubdate>2008</pubdate>
+            <volume>122</volume>
+            <fpage>64</fpage>
+            <lpage>76</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="pmpid" link="fulltext">18594388</pubid>
+                  <pubid idtype="pubmed">18594388 </pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B29">
+            <title>
+               <p>DNA damage and cellular differentiation: more questions than responses</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Simonatto</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Latella</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Puri</snm>
+                  <fnm>PL</fnm>
+               </au>
+            </aug>
+            <source>J Cell Physiol</source>
+            <pubdate>2007</pubdate>
+            <volume>213</volume>
+            <fpage>642</fpage>
+            <lpage>648</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1002/jcp.21275</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17894406</pubid>
+                  <pubid idtype="pubmed">17894406 </pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B30">
+            <title>
+               <p>A myogenic differentiation checkpoint activated by genotoxic stress</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Puri</snm>
+                  <fnm>PL</fnm>
+               </au>
+               <au>
+                  <snm>Bhakta</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Wood</snm>
+                  <fnm>LD</fnm>
+               </au>
+               <au>
+                  <snm>Costanzo</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Zhu</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Wang</snm>
+                  <fnm>JY</fnm>
+               </au>
+            </aug>
+            <source>Nat Genet</source>
+            <pubdate>2002</pubdate>
+            <volume>32</volume>
+            <fpage>585</fpage>
+            <lpage>593</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/ng1023</pubid>
+                  <pubid idtype="pmpid" link="fulltext">12415271</pubid>
+                  <pubid idtype="pubmed">12415271 </pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B31">
+            <title>
+               <p>Genotoxic stress abrogates renewal of melanocyte stem cells by triggering their differentiation</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Inomata</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Aoto</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Binh</snm>
+                  <fnm>NT</fnm>
+               </au>
+               <au>
+                  <snm>Okamoto</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Tanimura</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Wakayama</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Iseki</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Hara</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Masunaga</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Shimizu</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Nishimura</snm>
+                  <fnm>EK</fnm>
+               </au>
+            </aug>
+            <source>Cell</source>
+            <pubdate>2009</pubdate>
+            <volume>137</volume>
+            <fpage>1088</fpage>
+            <lpage>1099</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.cell.2009.03.037</pubid>
+                  <pubid idtype="pmpid" link="fulltext">19524511</pubid>
+                  <pubid idtype="pubmed">19524511 </pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B32">
+            <title>
+               <p>Multilineage potential of adult human mesenchymal stem cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Pittenger</snm>
+                  <fnm>MF</fnm>
+               </au>
+               <au>
+                  <snm>Mackay</snm>
+                  <fnm>AM</fnm>
+               </au>
+               <au>
+                  <snm>Beck</snm>
+                  <fnm>SC</fnm>
+               </au>
+               <au>
+                  <snm>Jaiswal</snm>
+                  <fnm>RK</fnm>
+               </au>
+               <au>
+                  <snm>Douglas</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Mosca</snm>
+                  <fnm>JD</fnm>
+               </au>
+               <au>
+                  <snm>Moorman</snm>
+                  <fnm>MA</fnm>
+               </au>
+               <au>
+                  <snm>Simonetti</snm>
+                  <fnm>DW</fnm>
+               </au>
+               <au>
+                  <snm>Craig</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Marshak</snm>
+                  <fnm>DR</fnm>
+               </au>
+            </aug>
+            <source>Science</source>
+            <pubdate>1999</pubdate>
+            <volume>284</volume>
+            <fpage>143</fpage>
+            <lpage>147</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1126/science.284.5411.143</pubid>
+                  <pubid idtype="pmpid" link="fulltext">10102814</pubid>
+                  <pubid idtype="pubmed">10102814 </pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B33">
+            <title>
+               <p>Root formation</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Thomas</snm>
+                  <fnm>HF</fnm>
+               </au>
+            </aug>
+            <source>Int J Dev Biol</source>
+            <pubdate>1995</pubdate>
+            <volume>39</volume>
+            <fpage>231</fpage>
+            <lpage>237</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="pmpid" link="fulltext">7626411</pubid>
+                  <pubid idtype="pubmed">7626411 </pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B34">
+            <title>
+               <p>Osteogenic differentiation of human dental papilla mesenchymal cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Ikeda</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Hirose</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Kotobuki</snm>
+                  <fnm>H</fnm>
+               </au>
+               <etal/>
+            </aug>
+            <source>Biochm Biophys Res Commun</source>
+            <pubdate>2006</pubdate>
+            <volume>342</volume>
+            <fpage>1257</fpage>
+            <lpage>1262</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.bbrc.2006.02.101</pubid>
+                  <pubid idtype="pubmed">16516858 </pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+      </refgrp>
+   </bm>
+</art>

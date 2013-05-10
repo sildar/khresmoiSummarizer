@@ -1,0 +1,1867 @@
+<!DOCTYPE art SYSTEM "article.dtd">
+<art>
+   <ui>scrt168</ui>
+   <ji>1757-6512</ji>
+   <fm>
+      <dochead>Research</dochead>
+      <bibl>
+         <title>
+            <p>Identification of mouse colony-forming endothelial progenitor cells for postnatal neovascularization: a novel insight highlighted by new mouse colony-forming assay</p>
+         </title>
+         <aug>
+            <au id="A1" ce="yes">
+               <snm>Tsukada</snm>
+               <fnm>Shizu</fnm>
+               <insr iid="I1"/>
+               <email>shizu0-8@ezweb.ne.jp</email>
+            </au>
+            <au id="A2" ce="yes">
+               <snm>Kwon</snm>
+               <fnm>Sang-Mo</fnm>
+               <insr iid="I2"/>
+               <email>smkwon323@hotmail.com</email>
+            </au>
+            <au id="A3">
+               <snm>Matsuda</snm>
+               <fnm>Takenori</fnm>
+               <insr iid="I3"/>
+               <email>tmatsu@tissue.med.osaka-u.ac.jp</email>
+            </au>
+            <au id="A4">
+               <snm>Jung</snm>
+               <fnm>Seok-Yun</fnm>
+               <insr iid="I2"/>
+               <email>tjrbsl15@nate.com</email>
+            </au>
+            <au id="A5">
+               <snm>Lee</snm>
+               <fnm>Jun-Hee</fnm>
+               <insr iid="I2"/>
+               <email>j-school@hanmail.net</email>
+            </au>
+            <au id="A6">
+               <snm>Lee</snm>
+               <fnm>Sang-Hun</fnm>
+               <insr iid="I2"/>
+               <email>ykckss1114@nate.com</email>
+            </au>
+            <au id="A7">
+               <snm>Masuda</snm>
+               <fnm>Haruchika</fnm>
+               <insr iid="I1"/>
+               <email>masu3510@is.icc.u-tokai.ac.jp</email>
+            </au>
+            <au id="A8" ca="yes">
+               <snm>Asahara</snm>
+               <fnm>Takayuki</fnm>
+               <insr iid="I1"/>
+               <insr iid="I3"/>
+               <email>asa777@is.icc.u-tokai.ac.jp</email>
+            </au>
+         </aug>
+         <insg>
+            <ins id="I1">
+               <p>Department Regenerative Medicine, Tokai University of Medicine, Kanagawa, 259-1193, Japan</p>
+            </ins>
+            <ins id="I2">
+               <p>Department of Physiology, School of Medicine, Medical Research Institute, Pusan National University Beomeo-ri, Mulgeum-eup, Yangsan, Gyeongsangnam-do, 626-870, Republic of Korea</p>
+            </ins>
+            <ins id="I3">
+               <p>Kobe Institute of Biomedical Research and Innovation, 2-2 Minatojima-minamimachi, Chuo-ku, Kobe, Hyogo, 650-0047, Japan</p>
+            </ins>
+         </insg>
+         <source>Stem Cell Research &amp; Therapy</source>
+         <issn>1757-6512</issn>
+         <pubdate>2013</pubdate>
+         <volume>4</volume>
+         <issue>1</issue>
+         <fpage>20</fpage>
+         <url>http://stemcellres.com/content/4/1/20</url>
+         <xrefbib>
+            <pubidlist>
+               <pubid idtype="doi">10.1186/scrt168</pubid>
+               <pubid idtype="pmpid">23448126</pubid>
+            </pubidlist>
+         </xrefbib>
+      </bibl>
+      <history>
+         <rec>
+            <date>
+               <day>14</day>
+               <month>6</month>
+               <year>2012</year>
+            </date>
+         </rec>
+         <revrec>
+            <date>
+               <day>24</day>
+               <month>10</month>
+               <year>2012</year>
+            </date>
+         </revrec>
+         <acc>
+            <date>
+               <day>9</day>
+               <month>1</month>
+               <year>2013</year>
+            </date>
+         </acc>
+         <pub>
+            <date>
+               <day>28</day>
+               <month>2</month>
+               <year>2013</year>
+            </date>
+         </pub>
+      </history>
+      <cpyrt>
+         <year>2013</year>
+         <collab>Tsukada et al.; licensee BioMed Central Ltd.</collab>
+         <note>This is an open access article distributed under the terms of the Creative Commons Attribution License (<url>http://creativecommons.org/licenses/by/2.0</url>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</note>
+      </cpyrt>
+      <abs>
+         <sec>
+            <st>
+               <p>Abstract</p>
+            </st>
+            <sec>
+               <st>
+                  <p>Introduction</p>
+               </st>
+               <p>Endothelial progenitor cells (EPCs) play a critical role in restoration of ischemic diseases. However, the actual status of EPC development and the mechanisms of EPC dysfunctions in patients with various ischemic diseases remain unknown.</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>Methods</p>
+               </st>
+               <p>To investigate the detailed function of EPCs in experimental murine models, we have established an EPC colony forming assay (EPC-CFA) in murine EPCs. The abilities of murine EPCs in differentiation, adhesive capacity, proliferative potency, and transplantation <it>in vitro </it>and <it>in vivo </it>were then examined.</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>Results</p>
+               </st>
+               <p>Peripheral blood mononuclear cells (PB-MNCs), bone marrow mononuclear cells (BM-MNCs) or bone marrow c-Kit<sup>+</sup>/Sca-1<sup>+ </sup>lineage negative (BM-KSL) cells differentiated into two types of EPC colony forming units (EPC-CFUs), large sized EPC (large-EPC)-CFUs and small sized EPC (small-EPC)-CFUs. Gene expression analysis demonstrated that both EPC-CFU-derived cells expressed eNOS, Flk-1 and VE-cadherin, markers of endothelial cells (ECs), although the small-EPCs derived from small-EPC-CFU were higher in number and showed more immature features (higher population of KSL cells). Functionally, the large-EPCs derived from large-EPC-CFU had higher adhesive capacity but lower proliferative potency than small-EPCs, showing improved tubular forming capacity and incorporation potency into primary EC-derived tube formation. Importantly, hindlimb ischemia increased the frequencies of large-EPC-CFUs differentiated from PB-MNCs and bone marrow. Actually, transplantation of large-EPCs into ischemic hindlimb enhanced neovascularization in hindlimb ischemia model, although small-EPCs or murine ECs did not, suggesting that large-EPC-CFUs might play an important role in restoration of ischemic diseases.</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>Conclusions</p>
+               </st>
+               <p>We demonstrated, using a murine ischemia model, that the EPC-CFA could be a useful way to investigate the differentiation levels of murine EPCs, further providing a crucial clue that large-EPC-CFU status may be more functional or effective EPCs to promote neovascularization.</p>
+            </sec>
+         </sec>
+      </abs>
+   </fm>
+   <meta>
+      <classifications>
+         <classification id="asiapacific" subtype="theme_series_title" type="BMC">Stem cell research in the Asia-Pacific</classification>
+         <classification id="asiapacific" subtype="theme_series_editor" type="BMC"/>
+      </classifications>
+   </meta>
+   <bdy>
+      <sec>
+         <st>
+            <p>Introduction</p>
+         </st>
+         <p>Endothelial progenitor cells (EPCs) <abbrgrp><abbr bid="B1">1</abbr><abbr bid="B2">2</abbr><abbr bid="B3">3</abbr></abbrgrp> play an important role in the restoration of ischemic vascular diseases <abbrgrp><abbr bid="B2">2</abbr><abbr bid="B3">3</abbr><abbr bid="B4">4</abbr><abbr bid="B5">5</abbr></abbrgrp>. Recently, several independent groups have shown that transplantation of EPCs into ischemic hindlimb or myocardial tissue improves organ function following the growth of new vessels <abbrgrp><abbr bid="B6">6</abbr><abbr bid="B7">7</abbr><abbr bid="B8">8</abbr><abbr bid="B9">9</abbr><abbr bid="B10">10</abbr><abbr bid="B11">11</abbr></abbrgrp>. In clinical aspects, the frequency of circulating EPCs may also serve as a biomarker for vascular function, and the number of circulating EPCs has been reported to be reduced in patients with diabetes mellitus or risk factors for coronary artery disease and to negatively correlate with the Framingham cardiovascular risk score <abbrgrp><abbr bid="B12">12</abbr><abbr bid="B13">13</abbr><abbr bid="B14">14</abbr><abbr bid="B15">15</abbr></abbrgrp>. However, the actual mechanical status of EPC development and the 'evaluation system' for EPC dysfunctions in patients with various ischemic diseases remain to be disclosed.</p>
+         <p>Because EPCs accumulate in ischemic injured tissues and repair injured tissue following cluster formation <abbrgrp><abbr bid="B1">1</abbr><abbr bid="B2">2</abbr><abbr bid="B9">9</abbr></abbrgrp>, not only the number of EPCs identified by uptake of acetylated-low density lipoprotein (acLDL) and lectin reactivity but also the colony-forming potential of EPCs is important for angiogenic therapy. Thus, the assay system in which colony-forming potential of EPCs can be assessed is important. EPCs should encompass a group of cells existing in a variety of stages, ranging from hemangioblastic hematopoietic stem cells to fully differentiated endothelial cells (ECs), and EPCs can be classified into stages according to differentiation levels in each circulating EPC and tissue EPC <abbrgrp><abbr bid="B16">16</abbr></abbrgrp>. Recently, the methods to culture colony-forming unit-endothelial cells (CFU-ECs) <abbrgrp><abbr bid="B14">14</abbr></abbrgrp> or to culture endothelial colony-forming cells (ECFCs) were established on mononuclear cells from peripheral blood or cord blood <abbrgrp><abbr bid="B17">17</abbr><abbr bid="B18">18</abbr><abbr bid="B19">19</abbr><abbr bid="B20">20</abbr></abbrgrp>. However, it was reported that CFU-ECs were not EPCs but were myeloid cells that differentiate into phagocytic macrophages and that T cells could mimic the morphology of CFU-ECs <abbrgrp><abbr bid="B19">19</abbr><abbr bid="B21">21</abbr></abbrgrp>. Besides, the culture of ECFCs enables us to evaluate the EPC colony-forming potential change as EPCs differentiated during culture <it>in vitro</it>. In these assay systems, each EPC at different differentiation levels could not be discriminated at the same time, and the differentiation capacities of immature stem cells could not be tested. In our laboratory, EPC-CFA, a novel method to assess the colony-forming potential of EPCs at different differentiation levels, was recently established and enables us to investigate the commitment of each cell <abbrgrp><abbr bid="B22">22</abbr><abbr bid="B23">23</abbr><abbr bid="B24">24</abbr></abbrgrp>.</p>
+         <p>In the present study, we aimed to methodologically establish the murine EPC-CFA on PB-MNCs, BM-MNCs, or BM-KSL cells by analyzing the functions of each EPC-CFU at different differentiation levels and to clarify the roles of each EPC-CFU at different differentiation levels <it>in vivo </it>by using hindlimb ischemic mice. By EPC-CFA, we investigated the status of EPC differentiation in response to ischemic signals and the effects of two types of EPC-CFUs - small-EPC-CFUs or large-EPC-CFUs - in a hindlimb ischemia model on <it>in vivo </it>neovascularization.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Materials and methods</p>
+         </st>
+         <sec>
+            <st>
+               <p>Animals</p>
+            </st>
+            <p>Experiments were performed on male 8- to 10-week-old C57BL/6J mice and BALB/CA-nu/nu mice (Japan Clea, Tokyo, Japan) maintained under a 12-hour light/dark cycle and in accordance with the regulations of Tokai University. Standard laboratory chow and water were available <it>ad libitum</it>. The protocols were approved by guidelines of the Institutional Animal Care and Use Committee of the Isehara Campus, Tokai University School of Medicine, based on the Guide for the Care and Use of Laboratory Animals (National Research Council) (Institutional Review Board ID number 083005).</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Preparation</p>
+            </st>
+            <p>Peripheral blood was obtained from the heart immediately before sacrifice and was separated by Histopaque-1083 (Sigma-Aldrich, St. Louis, MO, USA) density gradient centrifugation, as previously described <abbrgrp><abbr bid="B25">25</abbr></abbrgrp>. Briefly, low-density mononuclear cells were harvested and washed twice with Dulbecco's phosphate-buffered saline (PBS) supplemented with 2 mmol/L ethylenediaminetetraacetic acid (EDTA). Contaminated red blood cells were hemolyzed by using ammonium chloride solution. BM-MNCs were obtained by flushing the femurs and tibias and reacted with a mixture of biotinylated monoclonal antibodies against B220 (RA3-6B2), CD3 (145-2C11), CD11b (M1/70), TER-119 (Ly-76), and Gr-1 (RB6-8C5) (all from BD Pharmingen, San Diego, CA, USA) as lineage markers to deplete lineage-positive cells from BM-MNCs by using AutoMACS (Becton Dickinson, Franklin Lakes, NJ, USA). Lineage-negative bone marrow cells (BM-LNneg) were incubated with saturating concentrations of directly labeled anti-c-Kit (at 1:25 dilution) (BD Biosciences, Franklin Lakes, NJ, USA) and anti-Sca-1 antibodies (at 1:25 dilution) (BD Biosciences) for 30 minutes on ice, and then the c-Kit<sup>+</sup>/Sca-1<sup>+ </sup>lineage-negative cells (BM-KSL) were isolated with live sterile cell sorting (FACSVantage SE; Becton Dickinson).</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Endothelial progenitor cell colony-forming assay</p>
+            </st>
+            <p>Various cells were cultured in methylcellulose-containing medium M3236 (StemCell Technologies, Vancouver, BC, Canada) with 20 ng/mL stem cell-derived factor (Kirin, Tokyo, Japan), 50 ng/mL vascular endothelial (VE) growth factor (R&amp;D Systems, Minneapolis, MN, USA), 20 ng/mL interleukin-3 (Kirin), 50 ng/mL basic fibroblast growth factor (Wako, Osaka, Japan), 50 ng/mL epidermal growth factor receptor (Wako), 50 ng/mL insulin-like growth factor-1 (Wako), 2 U/mL heparin (Ajinomoto, Tokyo, Japan), and 10% fetal bovine serum (FBS) on a 35-mm dish for 8 days. Cell densities for each sample were as follows: PB-MNCs 7 &#215; 10<sup>5 </sup>cells per dish, BM-MNCs 1 &#215; 10<sup>4 </sup>cells per dish, BM-LNneg 2.5 &#215; 10<sup>3 </sup>cells per dish, and BM-KSL 500 cells per dish. The EPC-CFUs were identified as large-EPC-CFUs or small-EPC-CFUs by visual inspection with an inverted microscope under 40&#215; magnification. Large-EPC-CFUs were composed of spindle-shaped cells, and small-EPC-CFUs were composed of round adhesive cells.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Endothelial progenitor cell-colony-forming unit staining</p>
+            </st>
+            <p>After 8 days in culture, the EPC-CFU cultures were treated with 0.4 &#956;g/mL 1,1'-dioctadecyl-3,3,3',3-tetramethyl-indocarbocyanine perchlorate-labeled acLDL (acLDL-DiI; Biomedical Technologies Inc., Stoughton, MA, USA) for 1 hour and fixed by application of 1 mL of 2% paraformaldehyde (PFA) for 1 hour at room temperature. After a wash of the methylcellulose-containing medium with PBS, the cultures were reacted with fluorescein isothiocyanate (FITC)-conjugated BS-1 lectin (Sigma-Aldrich) for 1 hour at room temperature. After a wash with PBS, the cultures were observed under a fluorescence microscope (IX70; Olympus, Tokyo, Japan).</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Large-endothelial progenitor cell or small-endothelial progenitor cell isolation</p>
+            </st>
+            <p>Cells composed of small-EPC-CFUs were collected with a pipette under a microscope as small-EPCs. Then the cultures were washed with PBS, and large-EPCs were harvested after treatment with 2 mmol/L EDTA/PBS. For the purpose of cell transplantation into a hindlimb ischemia model, non-attached cells were isolated as small-EPCs by washing with PBS, whereas attached cells were harvested as large-EPCs by treatment with EDTA/PBS (5 mmol/L) for 5 minutes at 37&#176;C.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Adhesive assay</p>
+            </st>
+            <p>Culture plates (24-well) were coated with human fibronectin (100 &#956;g/mL; Gibco, now part of Invitrogen Corporation, Carlsbad, CA, USA). Large-EPCs or small-EPCs (2 &#215; 10<sup>4 </sup>cells per well) were allowed to attach in EGM-2 (Cambrex Bio Science Walkersville, Walkersville, MD, USA) for 20 minutes at 37&#176;C, and the non-adherent cells were aspirated. The adherent population was fixed with 1% PFA for 20 minutes and stored in PBS. The numbers of adherent cells were quantified from counts in six random microscopic fields per well.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Proliferation assay</p>
+            </st>
+            <p>At day 7, EPC-CFU cultures were treated with 10 &#956;mol/L bromodeoxyuridine (BrdU) (Sigma-Aldrich) and incubated for 24 hours. BrdU positivities of large-EPCs or small-EPCs were analyzed by using BrdU flow kits (BD Pharmingen) and a fluorescence-activated cell sorter, as previously described <abbrgrp><abbr bid="B26">26</abbr></abbrgrp>.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Tubular formation assay</p>
+            </st>
+            <p>Two-week derived CD133<sup>- </sup>mononuclear cells of human cord blood were used as ECs. These cells were confirmed to be ECs by tubular formation and immunocytochemistry of endothelial nitric oxide synthase (eNOS), kinase insert domain receptor (KDR), and VE-cadherin (data not shown) <abbrgrp><abbr bid="B5">5</abbr></abbrgrp>. Each small-EPC or large EPC was labeled with acLDL-DiI for 1 hour. After washing of the labeled small-EPCs or large-EPCs with PBS, the 1 &#215; 10<sup>3 </sup>cells were mixed together with 1.2 &#215; 10<sup>4 </sup>ECs in 50 &#956;L of 2% FBS/EBM-2. Cell suspension (50 &#956;L) was applied onto 50 &#956;L of Matrigel (BD, Franklin Lakes, NJ, USA) per well of a 96-well plate (BD Falcon, Franklin Lakes, NJ, USA) and then incubated for 8 hours. After incubation, the numbers of tubular formation were counted on a display of Photoshop software (Adobe, San Jose, CA, USA) after a picture per well was taken at 40&#215; magnification under a light microscope (Eclipse TE300; Nikon, Tokyo, Japan). The numbers of incorporated labeled cells into tubes were also counted on a display of Photoshop software after a picture per well was taken at 100&#215; magnification under a fluorescence microscope.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Secondary culture</p>
+            </st>
+            <p>Isolated small-EPCs (5 &#215; 10<sup>4</sup>) were suspended in 50 &#956;L of Iscove's modified Dulbecco's medium (IMDM) (Gibco) and applied onto 100 &#956;L of methylcellulose-containing medium per well of a 96-well plate (BD Falcon). After 2 days of incubation, methylcellulose-containing medium was changed to IMDM containing acLDL-DiI and BS-1 lectin-conjugated FITC and then incubated for 1 hour. After a wash with PBS, cultures were observed under a fluorescence microscope.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Reverse transcription-polymerase chain reaction</p>
+            </st>
+            <p>Total RNA of small-EPCs or large-EPCs was prepared with an RNeasy Micro/Mini kit (Qiagen, Valencia, CA, USA). Reverse transcription-polymerase chain reaction (RT-PCR) was performed by using Superscript III Reverse Transcriptase (Invitrogen Corporation) with 1 &#956;g of total RNA. PCR amplification was then performed with synthetic gene-specific primers for eNOS (forward primer, 5'-GGATTGTGTCACTTCGTTCGGT-3'; reverse primer, 5'-CAGCAGGATGCCCTAACTACCA-3'; product length, 183 base pairs (bp)), Flk-1 (forward primer, 5'-AAAGAGAGGAACGTCGGCAGA-3'; reverse primer, 5'-AAGCACACAGGCAGAAACCAGT-3'; product length, 376 bp), VE-cadherin (forward primer, 5'-AGATTCACGAGCAGTTGGTCA-3'; reverse primer, 5'-GATGTCAGAGTCGGAGGAATT-3'; product length, 355 bp), and &#946;-actin (forward primer, 5'-AACACCCCAGCCATGTACGTA-3'; reverse primer, 5'-AAGGAAGGCTGGAAAAGAGCC-3'; product length, 416 bp) by using exTaq polymerase (Takara, Kyoto, Japan). To quantify transcripts, semi-quantitative RT-PCRs were performed and normalized to Actb, which encodes &#946;-actin. PCRs were performed at 94&#176;C for 45 seconds, 64&#176;C for 1 minute, and 72&#176;C for 1 minute for 35 or 33 or 22 cycles and analyzed on 2% agarose gels.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Flow cytometry</p>
+            </st>
+            <p>For flow cytometry analysis, we used monoclonal antibodies specific to Sca-1 and c-Kit. BM-LNneg- or EPC-CFU-derived cells were incubated with directly labeled anti-Sca-1 (at 1:100 dilution) and anti-c-Kit (at 1:100 dilution) antibodies for 30 minutes on ice. The cells were analyzed by two-color flow cytometry by using a FACS caliber (Becton Dickinson).</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Animal model of ischemic hindlimb</p>
+            </st>
+            <p>Unilateral hindlimb ischemia was created in C57BL/6J mice or BALB/CA-nu/nu as previously described <abbrgrp><abbr bid="B27">27</abbr></abbrgrp>. Briefly, the animals were anesthetized with Nembutal (60 mg/kg intraperitoneally; Dainippon Sumitomo Pharma Co., Osaka, Japan) and then an incision in the skin overlying the middle portion of the left hindlimb was performed. After ligation of the proximal end of the femoral artery, the distal portion of the saphenous artery was ligated and the artery, as well as all side branches, was dissected free and excised. The skin was closed by using a surgical stapler.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Monitoring of hindlimb blood flow</p>
+            </st>
+            <p>After anesthesia, hindlimb perfusion was measured by using a laser Doppler perfusion imaging system (LDPI; Moor Instruments, Wilmington, DE, USA). The stored perfusion values behind the color-coded pixels representing the microvascular blood flow distribution are available for analysis. Color photographs were recorded and analysis performed by calculating the average perfusion of the ischemic and non-ischemic foot. To account for variables such as ambient light and temperature, the results are expressed as the ratio of perfusion in the left (ischemic) versus right (normal) limb. In the EPC transplantation experiment, isolated small-EPCs, large-EPCs, or murine ECs (2.5 &#215; 10<sup>5</sup>) derived from the aorta of C57BL/6J were transplanted into hindlimb induced nude mice by intramuscular injection, respectively (<it>n </it>= 8).</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Measuring of capillary density</p>
+            </st>
+            <p>Twenty-eight days after ischemia, capillary density was determined in tissue sections from the lower calf muscles of ischemic and healthy limbs by expressed as number of CD31<sup>+ </sup>cells as ECs per myocyte. To stain the capillary, we performed a staining procedure with rat anti-mouse CD31 antibodies (BD Biosciences) or Alexa-fluor 594 (Molecular Probes, now part of Invitrogen Corporation) anti-iso-lectin B4 reagents (Sigma-Aldrich).</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Statistical analysis</p>
+            </st>
+            <p>All data were presented as mean &#177; standard deviation. <it>P </it>values were calculated by using the unpaired Student <it>t </it>test. For the analysis of <it>in vivo </it>ischemia experiments, the Scheffe's test was performed for the multiple comparisons after analysis of variance between each group. A <it>P </it>value of less than 0.05 was considered statistically significant.</p>
+         </sec>
+      </sec>
+      <sec>
+         <st>
+            <p>Results</p>
+         </st>
+         <sec>
+            <st>
+               <p>Development of murine endothelial progenitor cell colony-forming assay</p>
+            </st>
+            <p>To address the detail functions and actual status of <it>in vivo </it>EPCs, we have first established a novel EPC-CFA in murine EPCs. After culture of PB-MNCs, BM-MNCs, or BM-KSL of C57BL/6J mice in growth factor-containing methylcellulose medium, these primitive cells differentiated into two types of EPC colony clusters: large-EPC-CFUs and small-EPC-CFUs (Figure <figr fid="F1">1a</figr>, data not shown). Morphologically, these cells are large-EPC-CFUs, which were composed mainly of spindle/round-shaped cells, whereas cells composed of small-EPC-CFUs were round. Both EPC-CFUs differentiated from primary PB-MNCs or primary BM-derived cells were identified as EPCs by acLDL uptake and BS-1 lectin reactivity, a typical feature of characterization of endothelial lineage cells (Figure <figr fid="F1">1b-d</figr>, data not shown). The frequencies of large-EPC-CFUs or small-EPC-CFUs differentiated from 7 &#215; 10<sup>5 </sup>PB-MNCs were 2.8 &#177; 1.3 and 6.0 &#177; 2.0 per dish, respectively. The normalized frequencies of large-EPC-CFUs or small-EPC-CFUs differentiated from 7 &#215; 10<sup>5 </sup>BM-MNCs were 665 &#177; 309 and 852 &#177; 82 per dish, respectively (Figure <figr fid="F1">1e</figr>). These results revealed that BM-MNCs had higher EPC colony-forming capacity than PB-MNCs. In this EPC-CFA, EPCs from primary murine cells could be classified into two types of EPC-CFUs and the colony-forming potential could be assessed by the frequency of EPC-CFUs. To check the commitment of each EPC-CFU-derived cell, eNOS, Flk-1, and VE-cadherin, markers of ECs, were examined. Gene expression profiles revealed that large-EPCs and small-EPCs expressed eNOS, Flk-1, and VE-cadherin gene in both PB-MNCs and BM-MNCs (Figure <figr fid="F1">1f</figr>), showing that large-EPCs strongly expressed VE-cadherin, a typical EC marker, although small-EPCs also expressed eNOS or Flk-1, each of which is a committed marker of endothelial lineage cells.</p>
+            <fig id="F1">
+               <title>
+                  <p>Figure 1</p>
+               </title>
+               <caption>
+                  <p>Murine endothelial progenitor cell colony-forming units (EPC-CFUs)</p>
+               </caption>
+               <text>
+                  <p><b>Murine endothelial progenitor cell colony-forming units (EPC-CFUs)</b>. <b>(a) </b>Representative micrographs of large-EPC-CFUs or small-EPC-CFUs cultured from bone marrow mononuclear cells (BM-MNCs) for 8 days. Large-EPC-CFUs and small-EPC-CFUs were defined according to cell morphology as spindle-shaped cells or round cells, respectively. <b>(b-d) </b>EPC-CFUs were identified as double-positive cells due to 1,1'-dioctadecyl-3,3,3',3-tetramethyl-indocarbocyanine perchlorate-labeled acetylated-low density lipoprotein (acLDL-DiI) uptake (red) and BS-1 lectin reactivity (green). Scale bar represents 100 &#956;m. <b>(e) </b>EPC colony-forming assay in murine peripheral blood mononuclear cells (PB-MNCs) or BM-MNCs. The frequencies of large-EPC-CFUs (white columns) or small-EPC-CFUs (black columns) from PB-MNCs or BM-MNCs (7 &#215; 10<sup>5 </sup>cells) were counted after 8 days of culture. *<it>P </it>&lt; 0.05, **<it>P </it>&lt; 0.01 versus PB-MNC-derived EPC-CFUs. <b>(f) </b>Expression patterns of endothelial nitric oxide synthase (eNOS), Flk-1, and vascular endothelial (VE)-cadherin genes in large-EPCs (L) or small-EPCs (S) from PB-MNCs or BM-MNCs. Both EPC-CFU-derived cells expressed markers of endothelial cells.</p>
+               </text>
+               <graphic file="scrt168-1"/>
+            </fig>
+         </sec>
+         <sec>
+            <st>
+               <p>Characterization of large endothelial progenitor cells or small endothelial progenitor cells</p>
+            </st>
+            <p>To characterize these two types of EPC-CFUs (large-EPC-CFUs or small-EPC-CFUs), we separately collected EPC-CFU-derived cells and investigated the functions of both EPC-CFUs. To determine the proliferation potency of each EPC-CFU-derived cell, we performed a proliferation assay. In PB-MNCs-derived EPC-CFUs, 24.5% &#177; 15.6% of large-EPCs and 51.2% &#177; 8.8% of small-EPCs incorporated BrdU. In BM-MNCs-derived EPC-CFUs, 17.1% &#177; 13.9% of large-EPCs and 46.4% &#177; 23.0% of small-EPCs incorporated BrdU (Figure <figr fid="F2">2a</figr>). More small-EPCs incorporated BrdU than large-EPCs, suggesting that large-EPCs have lower proliferation potency than small-EPCs. From observation of EPC-CFUs under a microscope, small-EPC-CFUs were constituted of more cells than large-EPC-CFUs and the areas of small-EPC-CFUs were significantly larger than those of large-EPC-CFUs (data not shown). We next defined an adhesive capacity of these two types of EPC-CFUs. The numbers of adherent large-EPCs or small-EPCs from PB-MNCs were 40.5 &#177; 7.6 and 26.3 &#177; 5.6 per field, respectively, and those from BM-MNCs were 63.7 &#177; 12.0 and 27.2 &#177; 8.0 per field, respectively (Figure <figr fid="F2">2b</figr>), proving that the large-EPCs have higher adhesive capacity than small-EPCs by 1.5-fold in PB-MNCs and 2.3-fold in BM-MNCs. To check tube-forming ability, large-EPCs or small-EPCs derived from BM were labeled with acLDL-DiI and cocultured with ECs, which were 2-week derived CD133<sup>- </sup>mononuclear cells of human cord blood, on Matrigel. Fluorescent tagging of each EPC-CFU-derived cell with DiI enabled delineation from ECs (Figure <figr fid="F2">2c</figr>). The number of tubes in coculture with large-EPCs increased significantly compared with small-EPCs (large-EPCs; 78.3 &#177; 5.8, small-EPCs; 70.7 &#177; 8.4) (Figure <figr fid="F2">2d</figr>, left). Moreover, more large-EPCs were incorporated into tubes compared with small-EPCs (large-EPCs; 8.3 &#177; 2.7, small-EPCs; 4.2 &#177; 1.7) (Figure <figr fid="F2">2d</figr>, right), implying that large-EPCs made a substantial contribution to tubular networks with ECs, although small-EPCs showed minimal incorporation into the developing vascular network. Taken together, three independent results strongly indicated that large-EPCs and small-EPCs had different functions and that large-EPCs might be more mature EPCs with respect to adhesion ability and functional contribution of tubule networks of ECs.</p>
+            <fig id="F2">
+               <title>
+                  <p>Figure 2</p>
+               </title>
+               <caption>
+                  <p>Characterization of large-EPCs or small-EPCs</p>
+               </caption>
+               <text>
+                  <p><b>Characterization of large-EPCs or small-EPCs</b>. <b>(a) </b>Proliferation assay of large-EPCs or small-EPCs from peripheral blood mononuclear cells (PB-MNCs) (upper) or bone marrow mononuclear cells (BM-MNCs) (bottom). After 7 days of culture, large-EPC-CFUs or small-EPC-CFUs were allowed to incorporate bromodeoxyuridine (BrdU) for 24 hours and analyzed by flow cytometry. Large-EPCs had significantly lower proliferative potency than small-EPCs in both PB-MNCs and BM-MNCs (*<it>P </it>&lt; 0.05 versus large-EPCs). <b>(b) </b>Adhesion assay of large-EPCs or small-EPCs from PB-MNCs or BM-MNCs. Large-EPCs (white columns) or small-EPCs (black columns) were allowed to adhere to a fibronectin-coated plate for 20 minutes. More large-EPCs had adhesive capacity than small-EPCs. *<it>P </it>&lt; 0.05, **<it>P </it>&lt; 0.01 versus small-EPCs. <b>(c) </b>Tubular formation assay of large-EPCs or small-EPCs from BM-MNCs. Large-EPCs or small-EPCs labeled with 1,1'-dioctadecyl-3,3,3',3-tetramethyl-indocarbocyanine perchlorate-labeled acetylated-low density lipoprotein (acLDL-DiI) (red) were cocultured with endothelial cells (ECs) to form tubular structures within Matrigel. Representative light and fluorescent micrographs of ECs cocultured with large-EPCs (upper) and small-EPCs (bottom) are shown. Scale bar represents 500 &#956;m. <b>(d) </b>Quantification of the number of tubes (left). Large-EPCs made a substantial contribution to tubular networks with ECs. *<it>P </it>&lt; 0.05 versus small-EPCs. (d) Quantification of the number of cells incorporated into tubes (right). Small-EPCs showed minimal incorporation into the developing vascular network. **<it>P </it>&lt; 0.01 versus small-EPCs. EPC, endothelial progenitor cell.</p>
+               </text>
+               <graphic file="scrt168-2"/>
+            </fig>
+         </sec>
+         <sec>
+            <st>
+               <p>Importance of small-endothelial progenitor cells as large-endothelial progenitor cell-colony-forming unit sprouting cells</p>
+            </st>
+            <p>To determine whether small-EPCs are real immature cells, we performed FACS analysis on EPC-CFU-derived cells, which developed from fresh isolated BM-KSL (c-Kit<sup>+</sup>/Sca-1<sup>+</sup>/LNneg, purity of greater than 99.5%) cells. As shown in Figure <figr fid="F3">3a</figr>, we observed the higher population of KSL cells in small-EPCs, providing us a clue that small-EPCs contained actual progenitors. Therefore, to check whether small-EPCs can differentiate into large-EPCs, isolated small-EPCs were reseeded in methylcellulose-containing medium. PB-MNC-, BM-MNC-, or BM-KSL cell-derived-small-EPCs could differentiate into spindle-shaped cells, large-EPCs and could represent positivity of acLDL uptake and BS-1 lectin binding (Figure <figr fid="F3">3b</figr>, data not shown). To characterize small-EPCs-derived large-EPCs, we examined the gene expression of VE-cadherin, Flk-1, and eNOS; adhesion capacity; and incorporation potential of small-EPC-derived large-EPCs (large EPCs-1) compared with small-EPCs and large-EPCs (large EPCs-2). Gene expression profiles by RT-PCR revealed that large EPCs-1 strongly expressed VE-cadherin and Flk-1 compared with small-EPCs (Figure <figr fid="F3">3c</figr>). In the adhesion assay, the numbers of adherent small-EPCs, large EPCs-1, and large EPCs-2 were 23.2 &#177; 5.1, 52 &#177; 5.3, and 61.5 &#177; 8.3 per field, respectively (Figure <figr fid="F3">3d</figr>). In the tubular formation assay, more large EPCs-1 were incorporated into tubes compared with small-EPCs (Figure <figr fid="F3">3e</figr>). These results revealed that the large-EPCs derived from small-EPCs showed a higher potential of VE-cadherin expression, adhesion, and tube formation compared with those of small-EPCs, suggesting that small-EPCs might be more immature EPCs and be early EPCs, which could differentiate into large-EPCs.</p>
+            <fig id="F3">
+               <title>
+                  <p>Figure 3</p>
+               </title>
+               <caption>
+                  <p>Importance of small-EPCs as large-EPC-CFU-sprouting cells</p>
+               </caption>
+               <text>
+                  <p><b>Importance of small-EPCs as large-EPC-CFU-sprouting cells</b>. <b>(a) </b>Flow cytometry analysis of small-EPCs or large-EPCs after culturing for 10 days from freshly isolated bone marrow c-Kit<sup>+</sup>/Sca-1<sup>+ </sup>lineage-negative cells (BM-KSL). <b>(b) </b>Secondary culture assay of small-EPC-CFUs from bone marrow mononuclear cells (BM-MNCs). Representative micrographs of small-EPC-CFUs from BM-MNCs before reseeding are shown on the left, and representative light and fluorescent micrographs of small-EPCs cultured secondarily in methylcellulose-containing medium are shown on the right. Secondary cultured cells were identified as double-positive cells due to 1,1'-dioctadecyl-3,3,3',3-tetramethyl-indocarbocyanine perchlorate-labeled acetylated-low density lipoprotein (acLDL-DiI) uptake (red) and BS-1 lectin reactivity (green). Small-EPCs could differentiate into large-EPCs. <b>(c) </b>The expression of vascular endothelial (VE)-cadherin, Flk-1, and endothelial nitric oxide synthase (eNOS) was measured in small-EPCs, small-EPCs-derived large-EPCs (Large EPCs-1), and large-EPCs (Large EPCs-2) by reverse transcription-polymerase chain reaction analysis. <b>(d) </b>Adhesion assay of small-EPCs, Large EPCs-1, and Large EPCs-2. *<it>P </it>&lt; 0.05, **<it>P </it>&lt; 0.01 versus small-EPCs. <b>(e) </b>Quantification of the number of cells incorporated into tubes in small-EPCs, Large EPCs-1, and Large EPCs-2. *<it>P </it>&lt; 0.05, **<it>P </it>&lt; 0.01 versus small-EPCs.</p>
+               </text>
+               <graphic file="scrt168-3"/>
+            </fig>
+         </sec>
+         <sec>
+            <st>
+               <p>Kinetics of endothelial progenitor cell-colony-forming units in response to ischemia</p>
+            </st>
+            <p>EPCs play a critical role in restoration of ischemic diseases. To explore the effects of hindlimb ischemia on differentiation of BM into EPC-CFUs, we examined PB-MNCs and BM of hindlimb ischemic mice in EPC-CFA. This experiment could enable us to elucidate the roles of each EPC-CFU <it>in vivo</it>. First, hindlimb perfusion was evaluated by serial LDPI studies at day 5 after surgery. The ratio of blood flow between the ischemic and the normal limb was 0.19 &#177; 0.16, which was a significant difference compared with 0.98 &#177; 0.21 in the normal mice (data not shown). To explore the <it>in vivo </it>change in BM, we estimated the percentage of KSL population in BM by FACS analysis. The percentage of BM-LNneg did not change, but that of the KSL population in BM-LNneg was 6.6% &#177; 2.0% in ischemic mice, which was significantly increased compared with the normal mice: 3.8% &#177; 1.2% (Figure <figr fid="F4">4a, b</figr>). These data demonstrated that BM-KSL cells, which produced more EPC-CFUs, were induced by hindlimb ischemia. To check the differentiation capacities of EPCs from PB-MNCs and various fractions of BM-MNCs, the frequencies of EPC-CFUs from each population were counted. In all populations, the frequencies of large-EPC-CFUs and the ratios of large-EPC-CFUs were significantly increased in hindlimb ischemic mice (Figure <figr fid="F4">4c</figr>). These results indicated that hindlimb ischemia induced the differentiation of PB-MNCs and various populations of BM, implying that large-EPC-CFUs might play an important role in the restoration of ischemic diseases.</p>
+            <fig id="F4">
+               <title>
+                  <p>Figure 4</p>
+               </title>
+               <caption>
+                  <p>Development of two types of endothelial progenitor cell colony-forming units (EPC-CFUs) in response to ischemia</p>
+               </caption>
+               <text>
+                  <p><b>Development of two types of endothelial progenitor cell colony-forming units (EPC-CFUs) in response to ischemia</b>. <b>(a) </b>Fluorescence-activated cell sorting (FACS) profiles of lineage-negative bone marrow cells (BM-LNneg). FACS analysis of BM-LNneg was performed by using rat IgG antibodies against mouse c-Kit and Sca-1. <b>(b) </b>The percentage of c-Kit<sup>+</sup>/Sca-1<sup>+ </sup>lineage negative (KSL) population of BM-LNneg. Hindlimb ischemia induced KSL population in bone marrow. *<it>P </it>&lt; 0.05 versus normal mice. <b>(c) </b>The frequencies of large-EPC-CFUs (white columns) and small-EPC-CFUs (black columns) from peripheral blood mononuclear cells (PB-MNCs), bone marrow mononuclear cells (BM-MNCs), BM-LNneg, and BM-KSL in normal mice (N) and hindlimb ischemic mice (I). Hindlimb ischemia increased the number of large-EPC-CFUs and total EPC-CFUs differentiated from PB-MNCs and bone marrow. *<it>P </it>&lt; 0.05, **<it>P </it>&lt; 0.01 versus total EPC-CFUs from normal mice. <sup>#</sup><it>P </it>&lt; 0.05, <sup>##</sup><it>P </it>&lt; 0.01 versus large-EPC-CFUs from normal mice. Hindlimb ischemia induced the differentiation of PB-MNCs and bone marrow.</p>
+               </text>
+               <graphic file="scrt168-4"/>
+            </fig>
+         </sec>
+         <sec>
+            <st>
+               <p>Contribution of large-endothelial progenitor cells or small-endothelial progenitor cells to postnatal/adult neovascularization</p>
+            </st>
+            <p>To determine the functional importance of <it>in vivo </it>EPC status in a pathological situation, we transplanted large-EPCs or small-EPCs and murine ECs as controls into hindlimb ischemia models. As shown in Figure <figr fid="F5">5a, b</figr>, we observed limb salvage in large-EPC transplantation groups, although small-EPC, EC, or PBS transplantation groups did not operate as useful limb therapy cells. These macroscopical observations were further supported by monitoring of real blood flow by using a laser Doppler perfusion imaging system because the recovery of limb perfusion was significantly improved in large-EPCs transplantation groups only (Figure <figr fid="F5">5c</figr>) compared with those of small-EPC, EC, or PBS transplantation groups. Moreover, immunohistochemical analysis clearly showed that capillary density in large-EPC transplantation groups was markedly increased (Figure <figr fid="F5">5d, e</figr>), suggesting that large-EPC-CFUs are more functional EPC status for vascular regeneration <it>in vivo</it>.</p>
+            <fig id="F5">
+               <title>
+                  <p>Figure 5</p>
+               </title>
+               <caption>
+                  <p>Effect of two types of endothelial progenitor cell colony-forming units (EPC-CFUs) on neovascularization</p>
+               </caption>
+               <text>
+                  <p><b>Effect of two types of endothelial progenitor cell colony-forming units (EPC-CFUs) on neovascularization</b>. <b>(a) </b>Macroscopical observation of ischemic hindlimb 28 days after transplantation of large-EPCs and small-EPCs, which are derived from bone marrow c-Kit<sup>+</sup>/Sca-1<sup>+ </sup>lineage-negative (BM-KSL) cells, and murine endothelial cells (mECs) into hindlimb ischemia. <b>(b) </b>The ratios of the above outcomes in each group. <b>(c) </b>Laser Doppler perfusion imaging showing reduction of blood flow at day 28 after surgery. Quantification data of blood flow as the ratio of perfusion in ischemic hindlimb to that in normal hindlimb are shown. In hindlimb ischemic mice, blood flow of hindlimb kept to be low in small-EPCs transplanted and other control groups at day 28 after surgery. Transplantation of large-EPCs recovered the limb perfusion in hindlimb ischemic mice. **<it>P </it>&lt; 0.01 versus mice transplanted with large-EPCs (<it>n </it>= 8). <b>(d) </b>Representative images of iso-lectin B4-positive tissue 28 days after transplantation of large-EPCs, small-EPCs, and mECs into hindlimb ischemia. <b>(e) </b>The statistical data of (a). Transplantation of large-EPC-CFUs into hindlimb ischemia model enhanced neovascularization. ***<it>P </it>&lt; 0.001 versus mice transplanted with large-EPCs (<it>n </it>= 8). HPF, high-powered field; PBS, phosphate-buffered saline.</p>
+               </text>
+               <graphic file="scrt168-5"/>
+            </fig>
+         </sec>
+      </sec>
+      <sec>
+         <st>
+            <p>Discussion</p>
+         </st>
+         <p>EPCs can be classified into various differentiation levels in both circulating EPCs and tissue EPCs <abbrgrp><abbr bid="B16">16</abbr></abbrgrp>. Here, we first defined <it>in vivo </it>EPC status by establishing the novel murine EPC-CFA, in which the colony-forming potential of EPCs at different differentiation levels can be assessed. We demonstrated, for the first time, that hindlimb ischemia induced onsets of large-EPCs, which might be the accelerated differential status of EPCs. The observation was further supported by an <it>in vivo </it>experiment in which transplantation of more mature large-EPCs into a hindlimb ischemia model enhanced neovascularization, implying the contribution of large-EPC-CFUs in a pathogenic situation as 'cells ready to operate'.</p>
+         <p>Previously, Hur and colleagues <abbrgrp><abbr bid="B20">20</abbr></abbrgrp> reported that they found two types of EPCs - early EPCs and late EPCs - from a source of adult PB-MNCs; attached cells that appeared after 3 to 5 days of culture were defined as early EPCs, and cells that appeared in 2 to 4 weeks after plating were defined as late EPCs <abbrgrp><abbr bid="B20">20</abbr></abbrgrp>. However, these classifications gave us some limitation for a full understanding of the EPC status. First, as these two types of EPCs were defined by different assays, two types of EPCs could not be assayed synchronously. Second, these assays failed to provide enough information about the differential cascade from immature stem cells, such as BM-KSL, into real EPC status. In our study, we redefined EPC status in response to a pathogenic situation. Small-EPC-CFUs had greater proliferative activity, suggesting that small-EPC-CFUs contained more immature clonogenic cells (KSL cells) derived from hematopoietic stem cells which preserve hemagioblastic potentials. Large-EPC-CFUs are sequentially differentiated from small-EPC-CFUs in response to ischemic signals (Figure <figr fid="F6">6</figr>). That is, small-EPC-CFUs are 'primitive EPCs' and large-EPC-CFUs are 'definitive EPCs'. Importantly, in regard to the vasculogenic potential <it>in vivo</it>, our study clearly demonstrated that transplantation of definitive EPCs (large-EPCs), not primitive EPCs (small-EPCs), markedly increased limb perfusion and capillary density and that small-EPC-CFUs have pro-vasculogenic potential and large-EPC-CFUs have vasculogenic potential, although early and late EPCs were reported to contribute equally to neovasculogenesis in a previous study <abbrgrp><abbr bid="B20">20</abbr></abbrgrp>. Regarding the fact that small-EPCs did not show any therapeutic effect in Figure <figr fid="F5">5</figr>, we speculated three possibilities due to the low adhesion and incorporation potentials of small-EPCs: (a) transplanted small-EPCs could not survive in a hypoxic tissue environment, (b) transplanted small-EPCs could not differentiate into large-EPCs in a hypoxic tissue environment, and (c) transplanted small-EPCs could not show their function as secretion of growth factors in a hypoxic tissue environment.</p>
+         <fig id="F6">
+            <title>
+               <p>Figure 6</p>
+            </title>
+            <caption>
+               <p>Schematic model of endothelial progenitor cell (EPC) development</p>
+            </caption>
+            <text>
+               <p><b>Schematic model of endothelial progenitor cell (EPC) development</b>. In an endothelial progenitor cell colony-forming assay (EPC-CFA), three different stages of EPC development were classified: (1) stem cell stage as EPC-sprouting cells, (2) early stage of EPCs as large-EPC-CFU-sprouting cells, which contained mostly immature small cells, and (3) late stage of EPCs as functional EPCs, which contained mostly big spindle cells. EPC-CFU, endothelial progenitor cell colony-forming unit. EC, endothelial cell; KSL, c-Kit<sup>+</sup>/Sca-1<sup>+ </sup>lineage-negative.</p>
+            </text>
+            <graphic file="scrt168-6"/>
+         </fig>
+         <p>Two types of EPC-CFUs represented distinct functional differences in both <it>in vitro </it>EPC colony study and <it>in vivo </it>EPC transplantation study. The adhesive potential and the incorporation into tubes formed by EC-like cells of large-EPCs were superior to those of small-EPCs, and small-EPCs had higher proliferation capacity than large-EPCs, which was consistent with the data on EPC-CFUs from BM-LNneg and BM-KSL (data not shown). In these points, definitive large-EPCs had similar functions to ECs compared with primitive small-EPCs. Besides, the secondary culture revealed that small-EPCs could differentiate into adherent cell, large-EPCs; in contrast, large-EPCs could not differentiate into round cell, small-EPCs (data not shown). These data showed that definitive large-EPCs are well-differentiated EPCs compared with primitive small-EPCs (Figure <figr fid="F1">1e</figr>). VE-cadherin is specifically expressed in adherent junctions of ECs and exerts important functions in cell-cell adhesion <abbrgrp><abbr bid="B28">28</abbr></abbrgrp>. The different expression level of VE-cadherin between large-EPCs and small-EPCs might explain the better potential of adhesion, incorporation into tubes, and migration (data not shown) of definitive large-EPCs than those of primitive small-EPCs, which were consistent with our recent findings using human cord blood AC133<sup>+ </sup>cells <abbrgrp><abbr bid="B29">29</abbr></abbrgrp>. Gene expression profiles revealed that both EPC-CFUs were committed to endothelial lineage because both definitive large-EPCs and primitive small-EPCs expressed eNOS, Flk-1, and VE-cadherin, which are EC-specific markers <abbrgrp><abbr bid="B5">5</abbr></abbrgrp>. However, both EPC-CFUs would be different from mature ECs in terms of colony formation capacity, tubular formation ability, and contribution of <it>in vivo </it>neovascularization, demonstrated by ischemia model, because ECs could not form colonies and did not have an effect on the restoration of blood vessels, and EPC-CFU-derived cells could not form tubes on Matrigel in a culture without ECs.</p>
+         <p>In this EPC-CFA, to compare the potentials to produce EPC-CFUs of three populations in BM (BM-MNCs, BM-LNneg, and BM-KSL), we calculated the numbers of cells producing one EPC-CFU in BM-MNC, BM-LNneg, and BM-KSL populations. It was revealed that one large-EPC-CFU was derived from 1.1 &#215; 10<sup>3 </sup>&#177; 0.2 &#215; 10<sup>3 </sup>BM-MNCs or 3.6 &#215; 10<sup>2 </sup>&#177; 1.1 &#215; 10<sup>2 </sup>BM-LNneg or 57 &#177; 34 BM-KSL (Figure <figr fid="F1">1b</figr>). One small-EPC-CFU was derived from 5.5 &#215; 10<sup>2 </sup>&#177; 0.7 &#215; 10<sup>2 </sup>BM-MNCs or 1.2 &#215; 10<sup>2 </sup>&#177; 0.2 &#215; 10<sup>2 </sup>BM-LNneg or 28 &#177; 3 BM-KSL (Figure <figr fid="F1">1b</figr>). These data demonstrated that BM-LNneg had 3- or 4.6-fold higher potential to produce large- or small-EPC-CFUs than BM-MNCs, respectively, and this suggested that more immature EPCs were contained mainly in the BM-LNneg population. In addition, it was demonstrated that BM-KSL had the highest potential to produce EPC-CFUs in any other populations in BM, and those potentials to produce large- or small-EPC-CFUs were 6.3- or 4.3-fold higher than BM-LNneg, respectively, and this suggested that immature EPCs were highly enriched in the BM-KSL population. In this study, using EPC-CFA, we determined that BM-KSL was the major population which highly enriched immature EPCs. We concluded, in this paper, that small-EPCs differentiated into large-EPCs because BM-KSL grew into small-EPCs about 5 days after plating and then those small-EPCs derived from BM-KSL could differentiate into large-EPCs in further culture. In our study, it remained unclear which niche component does small- or large-EPC differentiate from'. This should be definitely addressed in further issues.</p>
+         <p>In a clinical setting, the frequency of circulating EPCs serves as a biomarker for vascular function, and the number of circulating EPCs has been reported to be reduced in patients with diabetes mellitus or risk factors for coronary artery disease and to negatively correlate with the Framingham cardiovascular risk score <abbrgrp><abbr bid="B12">12</abbr><abbr bid="B13">13</abbr><abbr bid="B14">14</abbr><abbr bid="B15">15</abbr></abbrgrp>. Transplantation of EPCs into ischemic hindlimb or myocardial tissue improves organ function following new vessel growth <abbrgrp><abbr bid="B6">6</abbr><abbr bid="B7">7</abbr><abbr bid="B8">8</abbr><abbr bid="B9">9</abbr><abbr bid="B10">10</abbr></abbrgrp>. Thus, EPCs play an important role in the restoration of ischemic vascular diseases. But essential molecular events that control the differentiation to EPCs and changes in EPCs in response to ischemia had not been clarified yet. Then we investigated the changes of EPCs in response to hindlimb ischemia in EPC-CFA and revealed that the population of KSL, which enriched immature EPC populations in BM, increased by ischemia. In previous studies, it was demonstrated that BM-derived EPCs were mobilized in response to tissue ischemia <abbrgrp><abbr bid="B26">26</abbr></abbrgrp>. In this study, we showed, for the first time, that the ischemic signals could promote the differentiation of PB-MNCs, BM-MNCs, or BM-KSL cells into mature EPC-CFUs. Ischemia-induced differentiation into large-EPC-CFUs suggested that definitive large-EPC-CFUs as more mature EPCs might play an important role in the restoration of ischemic tissue, and this possibility was supported by the recovery of limb perfusion by transplantation of BM-KSL-derived large-EPCs into a hindlimb ischemia model compared with small-EPCs. In ischemic tissue, the expression of stromal cell-derived factor-1 (SDF-1) was induced by transcription factor hypoxia-inducible factor-1 (HIF-1) according to hypoxic gradients <abbrgrp><abbr bid="B27">27</abbr><abbr bid="B28">28</abbr></abbrgrp>. SDF-1 enhances differentiation of BM-derived c-Kit<sup>+ </sup>stem cells into EPCs <abbrgrp><abbr bid="B29">29</abbr></abbrgrp>. Thus, the EPC differentiation presented above might be promoted by SDF-1, which is induced by HIF-1 after ischemia.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Conclusions</p>
+         </st>
+         <p>Our novel findings highlighted the actual status of EPCs via a redefinition of the differential stages of EPCs through BM-derived stem cells using our established murine EPC-CFA. The understanding of molecular cascades of EPC development from primitive small-EPC-CFUs to definitive large-EPC-CFUs will provide us some useful therapeutic advantages to solve the quantitative or qualitative problems for EPCs therapy.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Abbreviations</p>
+         </st>
+         <p>acLDL: acetylated-low density lipoprotein; acLDL-DiI: 1,1'-dioctadecyl-3,3,3',3-tetramethyl-indocarbocyanine perchlorate-labeled acetylated-low density lipoprotein; BM: bone marrow; BM-KSL: bone marrow c-Kit<sup>+</sup>/Sca-1<sup>+ </sup>lineage-negative; BM-LNneg: lineage-negative bone marrow cell; BM-MNC: bone marrow mononuclear cell; bp: base pairs; BrdU: bromodeoxyuridine; CFU-EC: colony-forming unit-endothelial cell; EC: endothelial cell; ECFC: endothelial colony-forming cell; EDTA: ethylenediaminetetraacetic acid; eNOS: endothelial nitric oxide synthase; EPC: endothelial progenitor cell; EPC-CFA: endothelial progenitor cell colony-forming assay; EPC-CFU: endothelial progenitor cell colony-forming unit; FBS: fetal bovine serum; FITC: fluorescein isothiocyanate; IMDM: Iscove's modified Dulbecco's medium; large EPC-1: large endothelial progenitor cell derived from small endothelial progenitor cell; PB-MNC: peripheral blood mononuclear cell; PBS: phosphate-buffered saline; PCR: polymerase chain reaction; PFA: paraformaldehyde; RT-PCR: reverse transcription-polymerase chain reaction; VE: vascular endothelial.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Competing interests</p>
+         </st>
+         <p>The authors declare that they have no competing interests.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Authors' contributions</p>
+         </st>
+         <p>ST and S-MK participated in study conception and design, collection or assembly of data (or both), data analysis and interpretation, and manuscript writing. TM, S-YJ, S-HL J-HL, and HM participated in collection, assembly, analysis, and interpretation of data. TA drafted and revised the manuscript. All authors read and approved the final manuscript.</p>
+      </sec>
+   </bdy>
+   <bm>
+      <ack>
+         <sec>
+            <st>
+               <p>Acknowledgements</p>
+            </st>
+            <p>We thank Rie Ito and Michiru Kobori for providing technical assistance and Sachie Ota for secretarial assistance. We thank all of our colleagues for helpful discussions and encouragement. This work was supported by the Academic Frontier Promotion Program of the Ministry of Education, Culture, Sports, Science, and Technology in Japan; a National Research Foundation grant funded by the Korean government (MEST) (2010-0020260); and the Basic Science Research Program of the National Research Foundation of Korea (NRF), funded by the Ministry of Education, Science and Technology (2010-0003132).</p>
+         </sec>
+      </ack>
+      <refgrp>
+         <bibl id="B1">
+            <title>
+               <p>Isolation of putative progenitor endothelial cells for angiogenesis</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Asahara</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Murohara</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Sullivan</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Silver</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>van der Zee</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Li</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Witzenbichler</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Schatteman</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Isner</snm>
+                  <fnm>JM</fnm>
+               </au>
+            </aug>
+            <source>Science</source>
+            <pubdate>1997</pubdate>
+            <volume>275</volume>
+            <fpage>964</fpage>
+            <lpage>967</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1126/science.275.5302.964</pubid>
+                  <pubid idtype="pmpid" link="fulltext">9020076</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B2">
+            <title>
+               <p>Bone marrow origin of endothelial progenitor cells responsible for postnatal vasculogenesis in physiological and pathological neovascularization</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Asahara</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Masuda</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Takahashi</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Kalka</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Pastore</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Silver</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Kearne</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Magner</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Isner</snm>
+                  <fnm>JM</fnm>
+               </au>
+            </aug>
+            <source>Circ Res</source>
+            <pubdate>1999</pubdate>
+            <volume>85</volume>
+            <fpage>221</fpage>
+            <lpage>228</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1161/01.RES.85.3.221</pubid>
+                  <pubid idtype="pmpid" link="fulltext">10436164</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B3">
+            <title>
+               <p>Stromal derived factor-1-induced chemokinesis of cord blood CD34(+) cells (long-term culture-initiating cells) through endothelial cells is mediated by E-selectin</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Naiyer</snm>
+                  <fnm>AJ</fnm>
+               </au>
+               <au>
+                  <snm>Jo</snm>
+                  <fnm>DY</fnm>
+               </au>
+               <au>
+                  <snm>Ahn</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Mohle</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Peichev</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Lam</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Silverstein</snm>
+                  <fnm>RL</fnm>
+               </au>
+               <au>
+                  <snm>Moore</snm>
+                  <fnm>MA</fnm>
+               </au>
+               <au>
+                  <snm>Rafii</snm>
+                  <fnm>S</fnm>
+               </au>
+            </aug>
+            <source>Blood</source>
+            <pubdate>1999</pubdate>
+            <volume>94</volume>
+            <fpage>4011</fpage>
+            <lpage>4019</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid" link="fulltext">10590044</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B4">
+            <title>
+               <p>Angiogenesis and vasculogenesis as therapeutic strategies for postnatal neovascularization</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Isner</snm>
+                  <fnm>JM</fnm>
+               </au>
+               <au>
+                  <snm>Asahara</snm>
+                  <fnm>T</fnm>
+               </au>
+            </aug>
+            <source>J Clin Invest</source>
+            <pubdate>1999</pubdate>
+            <volume>103</volume>
+            <fpage>1231</fpage>
+            <lpage>1236</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1172/JCI6889</pubid>
+                  <pubid idtype="pmcid">408362</pubid>
+                  <pubid idtype="pmpid" link="fulltext">10225965</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B5">
+            <title>
+               <p>Therapeutic stem and progenitor cell transplantation for organ vascularization and regeneration</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Rafii</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Lyden</snm>
+                  <fnm>D</fnm>
+               </au>
+            </aug>
+            <source>Nat Med</source>
+            <pubdate>2003</pubdate>
+            <volume>9</volume>
+            <fpage>702</fpage>
+            <lpage>712</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/nm0603-702</pubid>
+                  <pubid idtype="pmpid" link="fulltext">12778169</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B6">
+            <title>
+               <p>Circulating endothelial cells after transplantation</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Gunsilius</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Petzer</snm>
+                  <fnm>AL</fnm>
+               </au>
+               <au>
+                  <snm>Duba</snm>
+                  <fnm>HC</fnm>
+               </au>
+               <au>
+                  <snm>Kahler</snm>
+                  <fnm>CM</fnm>
+               </au>
+               <au>
+                  <snm>Gastl</snm>
+                  <fnm>G</fnm>
+               </au>
+            </aug>
+            <source>Lancet</source>
+            <pubdate>2001</pubdate>
+            <volume>357</volume>
+            <fpage>1449</fpage>
+            <lpage>1450</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid" link="fulltext">11360955</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B7">
+            <title>
+               <p>Mobilized endothelial progenitor cells by granulocyte-macrophage colony-stimulating factor accelerate reendothelialization and reduce vascular inflammation after intravascular radiation</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Cho</snm>
+                  <fnm>HJ</fnm>
+               </au>
+               <au>
+                  <snm>Kim</snm>
+                  <fnm>HS</fnm>
+               </au>
+               <au>
+                  <snm>Lee</snm>
+                  <fnm>MM</fnm>
+               </au>
+               <au>
+                  <snm>Kim</snm>
+                  <fnm>DH</fnm>
+               </au>
+               <au>
+                  <snm>Yang</snm>
+                  <fnm>HJ</fnm>
+               </au>
+               <au>
+                  <snm>Hur</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Hwang</snm>
+                  <fnm>KK</fnm>
+               </au>
+               <au>
+                  <snm>Oh</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Choi</snm>
+                  <fnm>YJ</fnm>
+               </au>
+               <au>
+                  <snm>Chae</snm>
+                  <fnm>IH</fnm>
+               </au>
+               <au>
+                  <snm>Oh</snm>
+                  <fnm>BH</fnm>
+               </au>
+               <au>
+                  <snm>Choi</snm>
+                  <fnm>YS</fnm>
+               </au>
+               <au>
+                  <snm>Walsh</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Park</snm>
+                  <fnm>YB</fnm>
+               </au>
+            </aug>
+            <source>Circulation</source>
+            <pubdate>2003</pubdate>
+            <volume>108</volume>
+            <fpage>2918</fpage>
+            <lpage>2925</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1161/01.CIR.0000097001.79750.78</pubid>
+                  <pubid idtype="pmpid" link="fulltext">14568896</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B8">
+            <title>
+               <p>Transplanted cord blood-derived endothelial precursor cells augment postnatal neovascularization</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Murohara</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Ikeda</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Duan</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Shintani</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Sasaki</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Eguchi</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Onitsuka</snm>
+                  <fnm>I</fnm>
+               </au>
+               <au>
+                  <snm>Matsui</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Imaizumi</snm>
+                  <fnm>T</fnm>
+               </au>
+            </aug>
+            <source>J Clin Invest</source>
+            <pubdate>2000</pubdate>
+            <volume>105</volume>
+            <fpage>1527</fpage>
+            <lpage>1536</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1172/JCI8296</pubid>
+                  <pubid idtype="pmcid">300847</pubid>
+                  <pubid idtype="pmpid" link="fulltext">10841511</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B9">
+            <title>
+               <p>Transplantation of <it>ex vivo </it>expanded endothelial progenitor cells for therapeutic neovascularization</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Kalka</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Masuda</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Takahashi</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Kalka-Moll</snm>
+                  <fnm>WM</fnm>
+               </au>
+               <au>
+                  <snm>Silver</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Kearney</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Li</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Isner</snm>
+                  <fnm>JM</fnm>
+               </au>
+               <au>
+                  <snm>Asahara</snm>
+                  <fnm>T</fnm>
+               </au>
+            </aug>
+            <source>Proc Natl Acad Sci USA</source>
+            <pubdate>2000</pubdate>
+            <volume>97</volume>
+            <fpage>3422</fpage>
+            <lpage>3427</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1073/pnas.97.7.3422</pubid>
+                  <pubid idtype="pmcid">16255</pubid>
+                  <pubid idtype="pmpid" link="fulltext">10725398</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B10">
+            <title>
+               <p>Intramyocardial transplantation of autologous endothelial progenitor cells for therapeutic neovascularization of myocardial ischemia</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Kawamoto</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Tkebuchava</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Yamaguchi</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Nishimura</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Yoon</snm>
+                  <fnm>YS</fnm>
+               </au>
+               <au>
+                  <snm>Milliken</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Uchida</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Masuo</snm>
+                  <fnm>O</fnm>
+               </au>
+               <au>
+                  <snm>Iwaguro</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Ma</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Hanley</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Silver</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Kearney</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Losordo</snm>
+                  <fnm>DW</fnm>
+               </au>
+               <au>
+                  <snm>Isner</snm>
+                  <fnm>JM</fnm>
+               </au>
+               <au>
+                  <snm>Asahara</snm>
+                  <fnm>T</fnm>
+               </au>
+            </aug>
+            <source>Circulation</source>
+            <pubdate>2003</pubdate>
+            <volume>107</volume>
+            <fpage>461</fpage>
+            <lpage>468</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1161/01.CIR.0000046450.89986.50</pubid>
+                  <pubid idtype="pmpid" link="fulltext">12551872</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B11">
+            <title>
+               <p>Therapeutic potential of <it>ex vivo </it>expanded endothelial progenitor cells for myocardial ischemia</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Kawamoto</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Gwon</snm>
+                  <fnm>HC</fnm>
+               </au>
+               <au>
+                  <snm>Iwaguro</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Yamaguchi</snm>
+                  <fnm>JI</fnm>
+               </au>
+               <au>
+                  <snm>Uchida</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Masuda</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Silver</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Ma</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Kearney</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Isner</snm>
+                  <fnm>JM</fnm>
+               </au>
+               <au>
+                  <snm>Asahara</snm>
+                  <fnm>T</fnm>
+               </au>
+            </aug>
+            <source>Circulation</source>
+            <pubdate>2001</pubdate>
+            <volume>103</volume>
+            <fpage>634</fpage>
+            <lpage>637</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1161/01.CIR.103.5.634</pubid>
+                  <pubid idtype="pmpid" link="fulltext">11156872</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B12">
+            <title>
+               <p>Endothelial progenitor cell dysfunction: a novel concept in the pathogenesis of vascular complications of type 1 diabetes</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Loomans</snm>
+                  <fnm>CJ</fnm>
+               </au>
+               <au>
+                  <snm>de Koning</snm>
+                  <fnm>EJ</fnm>
+               </au>
+               <au>
+                  <snm>Staal</snm>
+                  <fnm>FJ</fnm>
+               </au>
+               <au>
+                  <snm>Rookmaaker</snm>
+                  <fnm>MB</fnm>
+               </au>
+               <au>
+                  <snm>Verseyden</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>de Boer</snm>
+                  <fnm>HC</fnm>
+               </au>
+               <au>
+                  <snm>Verhaar</snm>
+                  <fnm>MC</fnm>
+               </au>
+               <au>
+                  <snm>Braam</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Rabelink</snm>
+                  <fnm>TJ</fnm>
+               </au>
+               <au>
+                  <snm>van Zonneveld</snm>
+                  <fnm>AJ</fnm>
+               </au>
+            </aug>
+            <source>Diabetes</source>
+            <pubdate>2004</pubdate>
+            <volume>53</volume>
+            <fpage>195</fpage>
+            <lpage>199</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid" link="fulltext">14693715</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B13">
+            <title>
+               <p>Human endothelial progenitor cells from type II diabetics exhibit impaired proliferation, adhesion, and incorporation into vascular structures</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Tepper</snm>
+                  <fnm>OM</fnm>
+               </au>
+               <au>
+                  <snm>Galiano</snm>
+                  <fnm>RD</fnm>
+               </au>
+               <au>
+                  <snm>Capla</snm>
+                  <fnm>JM</fnm>
+               </au>
+               <au>
+                  <snm>Kalka</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Gagne</snm>
+                  <fnm>PJ</fnm>
+               </au>
+               <au>
+                  <snm>Jacobowitz</snm>
+                  <fnm>GR</fnm>
+               </au>
+               <au>
+                  <snm>Levine</snm>
+                  <fnm>JP</fnm>
+               </au>
+               <au>
+                  <snm>Gurtner</snm>
+                  <fnm>GC</fnm>
+               </au>
+            </aug>
+            <source>Circulation</source>
+            <pubdate>2002</pubdate>
+            <volume>106</volume>
+            <fpage>2781</fpage>
+            <lpage>2786</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1161/01.CIR.0000039526.42991.93</pubid>
+                  <pubid idtype="pmpid" link="fulltext">12451003</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B14">
+            <title>
+               <p>Circulating endothelial progenitor cells, vascular function, and cardiovascular risk</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Hill</snm>
+                  <fnm>JM</fnm>
+               </au>
+               <au>
+                  <snm>Zalos</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Halcox</snm>
+                  <fnm>JP</fnm>
+               </au>
+               <au>
+                  <snm>Schenke</snm>
+                  <fnm>WH</fnm>
+               </au>
+               <au>
+                  <snm>Waclawiw</snm>
+                  <fnm>MA</fnm>
+               </au>
+               <au>
+                  <snm>Quyyumi</snm>
+                  <fnm>AA</fnm>
+               </au>
+               <au>
+                  <snm>Finkel</snm>
+                  <fnm>T</fnm>
+               </au>
+            </aug>
+            <source>N Engl J Med</source>
+            <pubdate>2003</pubdate>
+            <volume>348</volume>
+            <fpage>593</fpage>
+            <lpage>600</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1056/NEJMoa022287</pubid>
+                  <pubid idtype="pmpid" link="fulltext">12584367</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B15">
+            <title>
+               <p>Number and migratory activity of circulating endothelial progenitor cells inversely correlate with risk factors for coronary artery disease</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Vasa</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Fichtlscherer</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Aicher</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Adler</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Urbich</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Martin</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Zeiher</snm>
+                  <fnm>AM</fnm>
+               </au>
+               <au>
+                  <snm>Dimmeler</snm>
+                  <fnm>S</fnm>
+               </au>
+            </aug>
+            <source>Circ Res</source>
+            <pubdate>2001</pubdate>
+            <volume>89</volume>
+            <fpage>E1</fpage>
+            <lpage>7</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1161/hh1301.093953</pubid>
+                  <pubid idtype="pmpid" link="fulltext">11440984</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B16">
+            <title>
+               <p>Endothelial progenitor cells for postnatal vasculogenesis</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Asahara</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Kawamoto</snm>
+                  <fnm>A</fnm>
+               </au>
+            </aug>
+            <source>Am J Physiol Cell Physiol</source>
+            <pubdate>2004</pubdate>
+            <volume>287</volume>
+            <fpage>C572</fpage>
+            <lpage>579</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1152/ajpcell.00330.2003</pubid>
+                  <pubid idtype="pmpid" link="fulltext">15308462</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B17">
+            <title>
+               <p>Origins of circulating endothelial cells and endothelial outgrowth from blood</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Lin</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Weisdorf</snm>
+                  <fnm>DJ</fnm>
+               </au>
+               <au>
+                  <snm>Solovey</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Hebbel</snm>
+                  <fnm>RP</fnm>
+               </au>
+            </aug>
+            <source>J Clin Invest</source>
+            <pubdate>2000</pubdate>
+            <volume>105</volume>
+            <fpage>71</fpage>
+            <lpage>77</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1172/JCI8071</pubid>
+                  <pubid idtype="pmcid">382587</pubid>
+                  <pubid idtype="pmpid" link="fulltext">10619863</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B18">
+            <title>
+               <p>Identification of a novel hierarchy of endothelial progenitor cells using human peripheral and umbilical cord blood</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Ingram</snm>
+                  <fnm>DA</fnm>
+               </au>
+               <au>
+                  <snm>Mead</snm>
+                  <fnm>LE</fnm>
+               </au>
+               <au>
+                  <snm>Tanaka</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Meade</snm>
+                  <fnm>V</fnm>
+               </au>
+               <au>
+                  <snm>Fenoglio</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Mortell</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Pollok</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Ferkowicz</snm>
+                  <fnm>MJ</fnm>
+               </au>
+               <au>
+                  <snm>Gilley</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Yoder</snm>
+                  <fnm>MC</fnm>
+               </au>
+            </aug>
+            <source>Blood</source>
+            <pubdate>2004</pubdate>
+            <volume>104</volume>
+            <fpage>2752</fpage>
+            <lpage>2760</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1182/blood-2004-04-1396</pubid>
+                  <pubid idtype="pmpid" link="fulltext">15226175</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B19">
+            <title>
+               <p>Redefining endothelial progenitor cells via clonal analysis and hematopoietic stem/progenitor cell principals</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Yoder</snm>
+                  <fnm>MC</fnm>
+               </au>
+               <au>
+                  <snm>Mead</snm>
+                  <fnm>LE</fnm>
+               </au>
+               <au>
+                  <snm>Prater</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Krier</snm>
+                  <fnm>TR</fnm>
+               </au>
+               <au>
+                  <snm>Mroueh</snm>
+                  <fnm>KN</fnm>
+               </au>
+               <au>
+                  <snm>Li</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Krasich</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Temm</snm>
+                  <fnm>CJ</fnm>
+               </au>
+               <au>
+                  <snm>Prchal</snm>
+                  <fnm>JT</fnm>
+               </au>
+               <au>
+                  <snm>Ingram</snm>
+                  <fnm>DA</fnm>
+               </au>
+            </aug>
+            <source>Blood</source>
+            <pubdate>2007</pubdate>
+            <volume>109</volume>
+            <fpage>1801</fpage>
+            <lpage>1809</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1182/blood-2006-08-043471</pubid>
+                  <pubid idtype="pmcid">1801067</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17053059</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B20">
+            <title>
+               <p>Characterization of two types of endothelial progenitor cells and their different contributions to neovasculogenesis</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Hur</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Yoon</snm>
+                  <fnm>CH</fnm>
+               </au>
+               <au>
+                  <snm>Kim</snm>
+                  <fnm>HS</fnm>
+               </au>
+               <au>
+                  <snm>Choi</snm>
+                  <fnm>JH</fnm>
+               </au>
+               <au>
+                  <snm>Kang</snm>
+                  <fnm>HJ</fnm>
+               </au>
+               <au>
+                  <snm>Hwang</snm>
+                  <fnm>KK</fnm>
+               </au>
+               <au>
+                  <snm>Oh</snm>
+                  <fnm>BH</fnm>
+               </au>
+               <au>
+                  <snm>Lee</snm>
+                  <fnm>MM</fnm>
+               </au>
+               <au>
+                  <snm>Park</snm>
+                  <fnm>YB</fnm>
+               </au>
+            </aug>
+            <source>Arterioscler Thromb Vasc Biol</source>
+            <pubdate>2004</pubdate>
+            <volume>24</volume>
+            <fpage>288</fpage>
+            <lpage>293</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid" link="fulltext">14699017</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B21">
+            <title>
+               <p>Immune cells mimic the morphology of endothelial progenitor colonies <it>in vitro</it></p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Rohde</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Bartmann</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Schallmoser</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Reinisch</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Lanzer</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Linkesch</snm>
+                  <fnm>W</fnm>
+               </au>
+               <au>
+                  <snm>Guelly</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Strunk</snm>
+                  <fnm>D</fnm>
+               </au>
+            </aug>
+            <source>Stem Cells</source>
+            <pubdate>2007</pubdate>
+            <volume>25</volume>
+            <fpage>1746</fpage>
+            <lpage>1752</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1634/stemcells.2006-0833</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17395771</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B22">
+            <title>
+               <p>VEGF contributes to postnatal neovascularization by mobilizing bone marrow-derived endothelial progenitor cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Asahara</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Takahashi</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Masuda</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Kalka</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Chen</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Iwaguro</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Inai</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Silver</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Isner</snm>
+                  <fnm>JM</fnm>
+               </au>
+            </aug>
+            <source>Embo J</source>
+            <pubdate>1999</pubdate>
+            <volume>18</volume>
+            <fpage>3964</fpage>
+            <lpage>3972</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1093/emboj/18.14.3964</pubid>
+                  <pubid idtype="pmcid">1171472</pubid>
+                  <pubid idtype="pmpid" link="fulltext">10406801</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B23">
+            <title>
+               <p>Essential role of endothelial nitric oxide synthase for mobilization of stem and progenitor cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Aicher</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Heeschen</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Mildner-Rihm</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Urbich</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Ihling</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Technau-Ihling</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Zeiher</snm>
+                  <fnm>AM</fnm>
+               </au>
+               <au>
+                  <snm>Dimmeler</snm>
+                  <fnm>S</fnm>
+               </au>
+            </aug>
+            <source>Nat Med</source>
+            <pubdate>2003</pubdate>
+            <volume>9</volume>
+            <fpage>1370</fpage>
+            <lpage>1376</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/nm948</pubid>
+                  <pubid idtype="pmpid" link="fulltext">14556003</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B24">
+            <title>
+               <p>Mouse model of angiogenesis</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Couffinhal</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Silver</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Zheng</snm>
+                  <fnm>LP</fnm>
+               </au>
+               <au>
+                  <snm>Kearney</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Witzenbichler</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Isner</snm>
+                  <fnm>JM</fnm>
+               </au>
+            </aug>
+            <source>Am J Pathol</source>
+            <pubdate>1998</pubdate>
+            <volume>152</volume>
+            <fpage>1667</fpage>
+            <lpage>1679</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="pmcid">1858441</pubid>
+                  <pubid idtype="pmpid">9626071</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B25">
+            <title>
+               <p>Vasculogenesis in the day 6.5 to 9.5 mouse embryo</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Drake</snm>
+                  <fnm>CJ</fnm>
+               </au>
+               <au>
+                  <snm>Fleming</snm>
+                  <fnm>PA</fnm>
+               </au>
+            </aug>
+            <source>Blood</source>
+            <pubdate>2000</pubdate>
+            <volume>95</volume>
+            <fpage>1671</fpage>
+            <lpage>1679</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid" link="fulltext">10688823</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B26">
+            <title>
+               <p>Ischemia- and cytokine-induced mobilization of bone marrow-derived endothelial progenitor cells for neovascularization</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Takahashi</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Kalka</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Masuda</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Chen</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Silver</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Kearney</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Magner</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Isner</snm>
+                  <fnm>JM</fnm>
+               </au>
+               <au>
+                  <snm>Asahara</snm>
+                  <fnm>T</fnm>
+               </au>
+            </aug>
+            <source>Nat Med</source>
+            <pubdate>1999</pubdate>
+            <volume>5</volume>
+            <fpage>434</fpage>
+            <lpage>438</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/7434</pubid>
+                  <pubid idtype="pmpid" link="fulltext">10202935</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B27">
+            <title>
+               <p>Progenitor cell trafficking is regulated by hypoxic gradients through HIF-1 induction of SDF-1</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Ceradini</snm>
+                  <fnm>DJ</fnm>
+               </au>
+               <au>
+                  <snm>Kulkarni</snm>
+                  <fnm>AR</fnm>
+               </au>
+               <au>
+                  <snm>Callaghan</snm>
+                  <fnm>MJ</fnm>
+               </au>
+               <au>
+                  <snm>Tepper</snm>
+                  <fnm>OM</fnm>
+               </au>
+               <au>
+                  <snm>Bastidas</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Kleinman</snm>
+                  <fnm>ME</fnm>
+               </au>
+               <au>
+                  <snm>Capla</snm>
+                  <fnm>JM</fnm>
+               </au>
+               <au>
+                  <snm>Galiano</snm>
+                  <fnm>RD</fnm>
+               </au>
+               <au>
+                  <snm>Levine</snm>
+                  <fnm>JP</fnm>
+               </au>
+               <au>
+                  <snm>Gurtner</snm>
+                  <fnm>GC</fnm>
+               </au>
+            </aug>
+            <source>Nat Med</source>
+            <pubdate>2004</pubdate>
+            <volume>10</volume>
+            <fpage>858</fpage>
+            <lpage>864</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/nm1075</pubid>
+                  <pubid idtype="pmpid" link="fulltext">15235597</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B28">
+            <title>
+               <p>Diabetes impairs progenitor cell mobilisation after hindlimb ischaemia-reperfusion injury in rats</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Fadini</snm>
+                  <fnm>GP</fnm>
+               </au>
+               <au>
+                  <snm>Sartore</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Schiavon</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Albiero</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Baesso</snm>
+                  <fnm>I</fnm>
+               </au>
+               <au>
+                  <snm>Cabrelle</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Agostini</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Avogaro</snm>
+                  <fnm>A</fnm>
+               </au>
+            </aug>
+            <source>Diabetologia</source>
+            <pubdate>2006</pubdate>
+            <volume>49</volume>
+            <fpage>3075</fpage>
+            <lpage>3084</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1007/s00125-006-0401-6</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17072586</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B29">
+            <title>
+               <p>SDF-1 involvement in endothelial phenotype and ischemia-induced recruitment of bone marrow progenitor cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>De Falco</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Porcelli</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Torella</snm>
+                  <fnm>AR</fnm>
+               </au>
+               <au>
+                  <snm>Straino</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Iachininoto</snm>
+                  <fnm>MG</fnm>
+               </au>
+               <au>
+                  <snm>Orlandi</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Truffa</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Biglioli</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Napolitano</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Capogrossi</snm>
+                  <fnm>MC</fnm>
+               </au>
+               <au>
+                  <snm>Pesce</snm>
+                  <fnm>M</fnm>
+               </au>
+            </aug>
+            <source>Blood</source>
+            <pubdate>2004</pubdate>
+            <volume>104</volume>
+            <fpage>3472</fpage>
+            <lpage>3482</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1182/blood-2003-12-4423</pubid>
+                  <pubid idtype="pmpid" link="fulltext">15284120</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+      </refgrp>
+   </bm>
+</art>

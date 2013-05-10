@@ -25,7 +25,7 @@ public class Aggregator implements IAggregator {
 		final int numSentences = sentences.size();
 		double[] totalWeights = new double[numSentences];
 		ArrayList<SentenceScore> scores = new ArrayList<SentenceScore>();
-
+		
 		//Calculating all weights
 		for(Double[] featureWeights : allWeights) {
 			boolean flaggedAsBad=false;

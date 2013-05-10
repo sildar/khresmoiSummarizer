@@ -1,0 +1,2654 @@
+<!DOCTYPE art SYSTEM "article.dtd">
+<art>
+   <ui>scrt45</ui>
+   <ji>1757-6512</ji>
+   <fm>
+      <dochead>Research</dochead>
+      <bibl>
+         <title>
+            <p>Fetal derived embryonic-like stem cells improve healing in a large animal flexor tendonitis model</p>
+         </title>
+         <aug>
+            <au id="A1">
+               <snm>Watts</snm>
+               <mi>E</mi>
+               <fnm>Ashlee</fnm>
+               <insr iid="I1"/>
+               <email>aew44@cornell.edu</email>
+            </au>
+            <au id="A2">
+               <snm>Yeager</snm>
+               <mi>E</mi>
+               <fnm>Amy</fnm>
+               <insr iid="I1"/>
+               <email>aey1@cornell.edu</email>
+            </au>
+            <au id="A3">
+               <snm>Kopyov</snm>
+               <mi>V</mi>
+               <fnm>Oleg</fnm>
+               <insr iid="I2"/>
+               <email>okopyov@gmail.com</email>
+            </au>
+            <au ca="yes" id="A4">
+               <snm>Nixon</snm>
+               <mi>J</mi>
+               <fnm>Alan</fnm>
+               <insr iid="I1"/>
+               <email>ajn1@cornell.edu</email>
+            </au>
+         </aug>
+         <insg>
+            <ins id="I1">
+               <p>Department of Clinical Sciences, Comparative Orthopaedics Laboratory at Cornell University, Ithaca, NY, 14850 USA</p>
+            </ins>
+            <ins id="I2">
+               <p>Celavet, Inc., Celavie Biosciences, LLC, 2360 Eastman Ave, Suite 101, Oxnard, CA, 93030 USA</p>
+            </ins>
+         </insg>
+         <source>Stem Cell Research &amp; Therapy</source>
+         <issn>1757-6512</issn>
+         <pubdate>2011</pubdate>
+         <volume>2</volume>
+         <issue>1</issue>
+         <fpage>4</fpage>
+         <url>http://stemcellres.com/content/2/1/4</url>
+         <xrefbib>
+            <pubidlist>
+               <pubid idtype="doi">10.1186/scrt45</pubid>
+               <pubid idtype="pmpid">21272343</pubid>
+            </pubidlist>
+         </xrefbib>
+      </bibl>
+      <history>
+         <rec>
+            <date>
+               <day>10</day>
+               <month>9</month>
+               <year>2010</year>
+            </date>
+         </rec>
+         <acc>
+            <date>
+               <day>27</day>
+               <month>1</month>
+               <year>2011</year>
+            </date>
+         </acc>
+         <pub>
+            <date>
+               <day>27</day>
+               <month>1</month>
+               <year>2011</year>
+            </date>
+         </pub>
+      </history>
+      <cpyrt>
+         <year>2011</year>
+         <collab>Watts et al.; licensee BioMed Central Ltd.</collab>
+         <note>This is an open access article distributed under the terms of the Creative Commons Attribution License (<url>http://creativecommons.org/licenses/by/2.0</url>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</note>
+      </cpyrt>
+      <abs>
+         <sec>
+            <st>
+               <p>Abstract</p>
+            </st>
+            <sec>
+               <st>
+                  <p>Introduction</p>
+               </st>
+               <p>Tendon injury is a common problem in athletes, with poor tissue regeneration and a high rate of re-injury. Stem cell therapy is an attractive treatment modality as it may induce tissue regeneration rather than tissue repair. Currently, there are no reports on the use of pluripotent cells in a large animal tendon model <it>in vivo</it>. We report the use of intra-lesional injection of male, fetal derived embryonic-like stem cells (fdESC) that express Oct-4, Nanog, SSEA4, Tra 1-60, Tra 1-81 and telomerase.</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>Methods</p>
+               </st>
+               <p>Tendon injury was induced using a collagenase gel-physical defect model in the mid-metacarpal region of the superficial digital flexor tendon (SDFT) of eight female adult Thoroughbred or Thoroughbred cross horses. Tendon lesions were treated one week later with intra-lesional injection of male derived fdESCs in media or media alone. Therapy was blinded and randomized. Serial ultrasound examinations were performed and final analysis at eight weeks included magnetic resonance imaging (MRI), biochemical assays (total DNA, gylcosaminoglycan, collagen), gene expression (<it>TNC</it>, <it>TNMD</it>, <it>SCX</it>, <it>COL1A1</it>, <it>COL3A1</it>, <it>COMP</it>, <it>DCN</it>, <it>MMP1</it>, <it>MMP3</it>, <it>MMP13, 18S</it>) and histology. Differences between groups were assessed with Wilcoxon's rank sum test.</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>Results</p>
+               </st>
+               <p>Cell survival was demonstrated via the presence of the <it>SRY </it>gene in fdESC treated, but not control treated, female SDFT at the end of the trial. There were no differences in tendon matrix specific gene expression or total proteoglycan, collagen or DNA of tendon lesions between groups. Tissue architecture, tendon size, tendon lesion size, and tendon linear fiber pattern were significantly improved on histologic sections and ultrasound in the fdESC treated tendons.</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>Conclusions</p>
+               </st>
+               <p>Such profound structural effects lend further support to the notion that pluripotent stem cells can effect musculoskeletal regeneration, rather than repair, even without <it>in vitro </it>lineage specific differentiation. Further investigation into the safety of pluripotent cellular therapy as well as the mechanisms by which repair was improved seem warranted.</p>
+            </sec>
+         </sec>
+      </abs>
+   </fm>
+   <bdy>
+      <sec>
+         <st>
+            <p>Introduction</p>
+         </st>
+         <p>Overstrain injuries to weight bearing tendons are common in human <abbrgrp><abbr bid="B1">1</abbr><abbr bid="B2">2</abbr></abbrgrp> and equine <abbrgrp><abbr bid="B3">3</abbr><abbr bid="B4">4</abbr></abbrgrp> athletes with many similarities between the two <abbrgrp><abbr bid="B5">5</abbr><abbr bid="B6">6</abbr></abbrgrp>. Commonly injured tendons include the Achilles tendon in humans and the superficial digital flexor tendon (SDFT) in the horse. These injuries are predominantly degenerative in nature, slow to heal, and rarely regain their original strength and elasticity <abbrgrp><abbr bid="B5">5</abbr><abbr bid="B7">7</abbr></abbrgrp>. This inferior healing leads to prolonged rehabilitation times and a high re-injury rate <abbrgrp><abbr bid="B1">1</abbr><abbr bid="B7">7</abbr></abbrgrp>. Despite improvements in early detection, advances in rehabilitation techniques, and numerous new biologic and cellular therapies, a consistently successful treatment regimen has yet to be developed <abbrgrp><abbr bid="B5">5</abbr><abbr bid="B7">7</abbr><abbr bid="B8">8</abbr><abbr bid="B9">9</abbr></abbrgrp>.</p>
+         <p>Due to the low cellularlity and low mitotic activity of tendons, intrinsic tendon repair is largely performed by cells of the endotenon and epitenon with some proliferation of tenocytes at the perimeter of the lesion <abbrgrp><abbr bid="B10">10</abbr></abbrgrp>. Extrinsic repair may be influenced by microvascular pericytes and endothelial cells associated with blood vessels <abbrgrp><abbr bid="B11">11</abbr></abbrgrp>. The paucity of an appropriate cell for tendon regeneration may explain the prolonged healing times, disorganized scar tissue formation, and inferior mechanical properties of healed tendons <abbrgrp><abbr bid="B12">12</abbr></abbrgrp>. This fact has led to an interest in cellular therapies for tendon injury that may recapitulate tendon development, resulting in tendon regeneration <abbrgrp><abbr bid="B13">13</abbr></abbrgrp>. Adult derived mesenchymal stromal (stem) cells (MSCs), the multipotent precursor cells of connective tissues, have been used toward this goal experimentally in rats <abbrgrp><abbr bid="B14">14</abbr><abbr bid="B15">15</abbr></abbrgrp>, rabbits <abbrgrp><abbr bid="B16">16</abbr></abbrgrp>, horses <abbrgrp><abbr bid="B17">17</abbr><abbr bid="B18">18</abbr><abbr bid="B19">19</abbr></abbrgrp> and sheep <abbrgrp><abbr bid="B20">20</abbr></abbrgrp>, and empirically for clinical tendon injury in horses <abbrgrp><abbr bid="B21">21</abbr><abbr bid="B22">22</abbr></abbrgrp> for the past several years. Despite significant improvements to re-injury rates <abbrgrp><abbr bid="B21">21</abbr></abbrgrp>, and minor improvements to histologic architecture <abbrgrp><abbr bid="B17">17</abbr><abbr bid="B18">18</abbr></abbrgrp>, MSCs have not induced the degree of tendon regeneration that is seen in injured fetal tendon <abbrgrp><abbr bid="B23">23</abbr></abbrgrp>. Utilizing a cell line with greater plasticity and proliferative capacity than adult multipotent MSCs, may better contribute to tendon regeneration <abbrgrp><abbr bid="B24">24</abbr></abbrgrp>. To date, there have been no studies exploring the use of pluripotent cells in the treatment of tendon injury in a large animal model.</p>
+         <p>Currently, there is no successful method for isolation of equine ESCs <abbrgrp><abbr bid="B25">25</abbr></abbrgrp>. In order to avoid necessary genetic manipulations of induced pluripotent stem (iPS) cells <abbrgrp><abbr bid="B26">26</abbr><abbr bid="B27">27</abbr><abbr bid="B28">28</abbr><abbr bid="B29">29</abbr></abbrgrp>, an allogenic cell line (OK-100&#8482;; Celavet, Inc., Oxnard, CA, USA) derived from equine fetal tissue and induced to express markers of pluripotency through culture conditions was utilized. The objective of this study was to examine the effect of a pluripotent cell versus placebo control on tendon healing in a large animal model of experimental tendon injury.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Materials and methods</p>
+         </st>
+         <sec>
+            <st>
+               <p>Animals</p>
+            </st>
+            <p>Eight adult female Thoroughbred (<it>n </it>= 7) or Thoroughbred cross (<it>n </it>= 1) horses, ranging in age from three to seven years, without clinical or ultrasonographic evidence of tendon injury were used. All horses had undergone rigorous athletic training prior to inclusion in the study. Horses were housed separately, in box stalls, and allowed to acclimate to the environment for &#8805;2 weeks prior to study initiation. All invasive procedures were performed by experienced board certified veterinary surgeons. This study was approved by and performed according to guidelines of the university's Institutional Animal Care and Use Committee.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Cell isolation, culture</p>
+            </st>
+            <p>To allow for testing of a pluripotent cell, a commercially available cell line (OK-100&#8482;) was used. Briefly, the cell line was prepared from an equine fetus obtained early in gestation by uterine flushing. Fetal tissue, specifically brain, spinal cord, liver and heart, was dissected and each organ was separately minced with microscissors and then triturated with Pasteur pipettes until a single cell suspension was obtained. Cells were cultured in non-adherent culture flasks in serum free culture medium of Eagle's essential medium (Lonza RR116254, Walkersville, MD, USA) supplemented with B27 (Invitrogen 17504, Carlsbad, CA, USA), calcium chloride (Fisher Scientific, Pittsburgh, PA, USA), Epidermal Growth Factor (Peprotech 100-15, Rocky Hill, NJ, USA), Basic Fibroblast Growth Factor (Peprotech 100-18B, Rocky Hill, NJ, USA), Transforming Growth Factor Alpha (Peprotech 100-16A, Rocky Hill, NJ, USA), Leukemia Inhibitory Factor (Millipore LIF1010, Temecula, CA, USA), L-Glutamine (Invitrogen 25030, Carlsbad, CA, USA), and a nitrogen supplement (Invitrogen 17502, Carlsbad, CA, USA) all added at proprietary concentrations (patent 7632681Celavie Biosciences, LLC, Reading, PA, USA). Cells were passaged approximately weekly by centrifugation for five to six months. Four days after each passage, 4 mL of fresh culture medium was added to culture flasks. Beginning at three months, an aliquot of cells was tested for markers of pluripotency and this was repeated monthly until cells were >70% positive for Oct-4, nanog, telomerase, SSEA4, Tra 1-60 and Tra 1-81 and 100% negative for major histocompatibility complex proteins I and II and p53 (data not shown). Once this was confirmed, chromosomal microarray was used to confirm that genomic deletions or duplications had not occurred during the culture period (data not shown).</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Study design</p>
+            </st>
+            <p>The study consisted of two randomly assigned groups: group A (stem cell treated tendons; <it>n </it>= 4; fdESC) and group B (placebo treated tendons; <it>n </it>= 4; CONT). One week after tendon injury, treatment injections were performed. Ultrasound examinations were performed every two weeks, thereafter. Eight weeks after treatment injection, animals were euthanized, magnetic resonance imaging was performed and tissues were collected (Figure <figr fid="F1">1</figr>). Other than an off-site control officer, all investigators were blinded to treatment group identification until the study was completed and all assays were performed. Treatment group (A or B) was revealed for statistical analysis. Once all analyses were completed, treatment group identification (fdESC or CONT) was disclosed.</p>
+            <fig id="F1">
+               <title>
+                  <p>Figure 1</p>
+               </title>
+               <caption>
+                  <p>Study timeline</p>
+               </caption>
+               <text>
+                  <p><b>Study timeline</b>. CONT, placebo control; fdESC, fetal derived embryonic-like stem cells; MRI, magnetic resonance imaging; U/S, ultrasound.</p>
+               </text>
+               <graphic file="scrt45-1" hint_layout="double"/>
+            </fig>
+         </sec>
+         <sec>
+            <st>
+               <p>Tendon injury induction</p>
+            </st>
+            <p>Collagenase-induced lesions were created in the tensile region of the superficial digital flexor tendon (SDFT) of one randomly selected forelimb using filter sterilized bacterial collagenase type I (Sigma, St. Louis, MO, USA). Forelimb selection (left or right) was made by a coin toss for the first horse and then alternated for each subsequent horse. Thirteen hundred units of collagenase was delivered as a gel to a columnar physical defect centered within the tensile region of the SDFT tendon (16 to 18 cm distal to the accessory carpal bone; DACB) using a 16 gauge 8.89 cm Weiss Epidural needle with a Tuohy tip (BD, Franklin Lakes, NJ, USA) inserted under ultrasonographic guidance, as modified (Watts AE, Yeager AE and Nixon AJ, Submitted) from previous descriptions <abbrgrp><abbr bid="B17">17</abbr><abbr bid="B30">30</abbr><abbr bid="B31">31</abbr></abbrgrp>. The study forelimb was bandaged.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Treatment injections for cell transplant</p>
+            </st>
+            <p>One week post collagenase tendon injury induction (t = 0 weeks), tendon lesions were treated with two ultrasonographically guided intra-lesional treatment injections. The day before treatment injection, three million fdESCs, resuspended in 1.5 mL culture media, or 1.5 ml culture media alone for placebo injection, were packaged in 2 mL coded cryovials and transported overnight to the animal facility. For injection, local anesthesia at the sites of needle insertion was achieved with 1 to 3 ml lidocaine (20 mg/ml) in the subcutaneous tissue and standing sedation (xylazine 0.5 mg/kg IV and butorphanol 0.01 mg/kg IV). Treatment injection to the lesion was performed with 25 gauge needle entry at 16 and 18 cm DACB, directed from palmarolateral to dorsomedial. At the time of treatment injection, horses were given anti-inflammatory medications (phenylbutazone 4.4 mg/kg bwt IV and dexamethasone 0.04 mg/kg bwt IV). Non-steroidal anti-inflammatory medication was continued for two days (phenylbutazone 2.2 mg/kg PO q24 h). Horses were confined individually to box stalls for the duration of the study and their treated forelimb was bandaged for the first five weeks after lesion induction.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Lameness/reaction data</p>
+            </st>
+            <p>Physical examination was performed and vital parameters were recorded every 12 hours, and bandage changes (up to five weeks after lesion induction) and limb examinations were performed daily throughout the study. Lameness at a walk was assessed every six hours for three days following lesion induction (t = -1 weeks) and treatment injection (t = 0 weeks) and every 12 hours throughout the remainder of the study.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Ultrasound</p>
+            </st>
+            <p>Ultrasound examinations were performed prior to admission to the study (baseline) and at t = 0, 2, 4, 6, and 8 weeks after treatment injection. Ultrasound imaging was performed by a board-certified veterinary radiologist (AEY) using a real-time ultrasound machine (iU22, Philips Healthcare, Amsterdam, The Netherlands) equipped with broad-band technology and linear probes of high frequency (5 to 12 MHz). A template was used to ensure accurate repetition of tissue gain settings, focus, and depth of tissue penetration. Longitudinal and transverse ultrasound images were acquired and tendon cross-sectional area (TCSA), lesion cross-sectional area (LCSA), and a longitudinal linear fiber pattern score were measured by the same ultrasonographer at 16 cm DACB. The LCSA as a percentage of TCSA was calculated for relative lesion cross-sectional area (RLCSA).</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Tissue harvest and magnetic resonance imaging</p>
+            </st>
+            <p>Horses were euthanized by pentobarbital overdose at eight weeks post treatment injection and their treated forelimb was collected for immediate magnetic resonance imaging (MRI) with a 0.3 Tesla magnet (Vet MR, Esaote, Genova, Italy). Limbs were positioned in extension for T1 and T2 image acquisition in the sagittal and transverse planes. Measurements of TCSA and LCSA based upon the area of hyperintense signal were made at 16 cm DACB on T1 images. The lesion was also graded for the intensity of increased MR signal on T1 images (0 = normal; 1 = mild increase; 2 = moderate increase; 3 = marked increase; 4 = intense increase, equal to bone marrow signal).</p>
+            <p>Following MRI, limbs were dissected under RNase free conditions and samples were collected from the center of the tendon lesion at 16 cm DACB extending into the surrounding normal tendon. Samples were snap-frozen in liquid nitrogen, pulverized in a freezer-mill and stored at -80&#176;C until use, or fixed in 4% paraformaldehyde at 4&#176;C for 72 hours.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>RNA and DNA isolation and qPCR</p>
+            </st>
+            <p>Total cellular RNA was isolated from pulverized tissue using a commercially available RNA extraction kit (PerfectPure RNA Fibrous Tissue Kit, 5 Prime, Gaithersburg, MD, USA). Genomic DNA was isolated from pulverized tissue using a commercially available genomic DNA extraction kit (PureLink Genomic DNA kit, Invitrogen, Carlsbad, CA, USA). All qPCR probes and primers were designed using equine specific sequences published in Genbank (Additional File <supplr sid="S1">1</supplr> Table S1). Genomic DNA was removed from RNA samples prior to PCR, by DNase I digestion. RNA and genomic DNA quality was assessed by spectrophotometry at 260:280 nm and by 1% agarose gel electrophoresis (data not shown). Total RNA was reverse transcribed and amplified using the One-Step RTPCR technique and the ABI PRISM 7900HT Sequence Detection System (Applied Biosystems, Life Technologies, Carlsbad, CA, USA). All samples for each molecule were assessed at the same time on the same qPCR plate to minimize variation. The qPCR program included reverse transcription at 48&#176;C for 30 minutes and denaturing at 95&#176;C for 10 minutes, followed by 40 cycles of 90&#176;C for 15 seconds and 60&#176;C for 1 minute. For gene expression, each well of the qPCR plate was loaded with 10 ng of RNA in 20 &#956;l. For DNA, several different loading concentrations were utilized, including 10, 25, 50, 100 and 200 ng of DNA per well and the number of melting and annealing cycles was increased from 40 to 55. Other than <it>18S</it>, a standard curve was generated from equine specific plasmid DNA for each gene at known concentrations to allow copy number estimation. The primers and dual-labeled fluorescent probe (6-FAM as the 5' label (reporter dye) and TAMRA as the 3' label (quenching dye)) were designed using Primer Express Software version 2.0b8a (Applied Biosystems) using equine specific sequences published in Genbank. All samples were run in triplicate on the qPCR plate and total copy number per ng of RNA of each gene was obtained from a standard curve and normalized to <it>18 S </it>gene expression for collagen types I and III (<it>COL1A1</it>, <it>COL3A1</it>), decorin (<it>DCN</it>), cartilage oligomeric matrix protein (<it>COMP</it>), tenascin-C (<it>TNC</it>), tenomodulin (<it>TNMD</it>), scleraxis (<it>SCX</it>) and matrix metalloproteinases-1, 3 and 13 (<it>MMP1</it>, <it>MMP3</it>, <it>MMP13</it>).</p>
+            <suppl id="S1">
+               <title>
+                  <p>Additional File 1</p>
+               </title>
+               <text>
+                  <p><b>rt-PCR primer and probe sequences</b>. Sequences (5' to 3') for forward and reverse primers and probes used in quantitative PCR. Sequences were selected from equine specific sequences published in GenBank.</p>
+               </text>
+               <file name="scrt45-S1.DOCX">
+                  <p>Click here for file</p>
+               </file>
+            </suppl>
+         </sec>
+         <sec>
+            <st>
+               <p>Biochemical analysis</p>
+            </st>
+            <p>Pulverized tendon samples were lyophilized for biochemical assays. For total glycosaminoglycan and total DNA assay, samples were digested in papain (1 mL papain (0.5 mg/ml)/10 mg lyophilized tendon) at 65&#176;C for 4 and 24 hours, respectively. The samples were mixed with dimethylmethylene blue dye for glycosaminoglycan quantification by colorimetric assay <abbrgrp><abbr bid="B32">32</abbr></abbrgrp> and bisbenzimide compound for DNA quantification by fluorometric assay <abbrgrp><abbr bid="B33">33</abbr></abbrgrp> in triplicate aliquots. Total soluble collagen content was determined in triplicate aliquots using the Sircol Assay (Biocolor LTD., Carrickfergus, Northern Ireland, UK) according to the manufacturer's directions for pepsin soluble collagens with modifications as previously described <abbrgrp><abbr bid="B34">34</abbr></abbrgrp>.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Histology</p>
+            </st>
+            <p>Fixed longitudinal tissue sections were softened in 4% phenol in 70% alcohol for five days <abbrgrp><abbr bid="B31">31</abbr><abbr bid="B35">35</abbr></abbrgrp> embedded in paraffin, sectioned and stained with hematoxylin and eosin (H&amp;E) or Picrosirius Red and examined under white light and polarized light microscopy. Sections were also prepared for fluorescent <it>in situ </it>hybridization with probes produced using nick translation against genomic SRY, [GenBank: <ext-link ext-link-id="EU599187" ext-link-type="gen">EU599187.1</ext-link>] <abbrgrp><abbr bid="B36">36</abbr></abbrgrp>. All slides were examined by two blinded investigators (AJN and AEW), using a calibrated reticule to sequentially examine across and down the entire tendon section, under low power and high power where appropriate for cell detail, to derive a complete histologic impression. For fluorescent <it>in situ </it>hybridization, slides were characterized as being positive or negative for probe hybridization. For routine histology, scores were assigned for two sections from each tendon (proximal and distal within the lesion, centered at 16 DACB). All tendon parameters were scored from l (normal) to 4 (severe changes) for: tenocyte shape, tenocyte density, free hemorrhage, neovascularization, perivascular cuffing, collagen fiber linearity, collagen fiber uniformity and polarized light crimping. Scores from both segments (proximal and distal) and both observers were averaged. This grading scheme expands on previously described systems which utilize an eight-parameter, four-point score <abbrgrp><abbr bid="B37">37</abbr><abbr bid="B38">38</abbr><abbr bid="B39">39</abbr></abbrgrp>.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Statistical analyses</p>
+            </st>
+            <p>Numerical data were tested for normality. Once a non-normal distribution was confirmed, non-parametric statistics were utilized. Differences between treatment groups were tested using Wilcoxon's rank sum analysis. For ultrasound and MRI data where we expected fdESC treated tendons to be smaller, with higher fiber pattern scores and less tissue signal, a one-sided test was utilized. For all other data, a two-sided test was utilized. Repeated measures analysis was performed within each group on ultrasound data at differing time points using Wilcoxon's signed rank tests. Except for repeated measures analysis, all ultrasound data were normalized as a percent of the baseline measurement prior to lesion induction (baseline) or the score of the lesion on the first day of treatment at t = 0 weeks. Gene expression, histologic scores, MRI measurements, and biochemical data were reported as a median and 95% confidence interval. Ultrasound data from all time points were reported with box plots, as a median and quartiles. To test for differences in post-treatment lameness (yes/no), a Fisher's exact test was used. For all tests, Statistix 9 software (Analytical Software, Tallahassee, FL, USA) was used and significance was set at <it>P </it>&lt; 0.05.</p>
+         </sec>
+      </sec>
+      <sec>
+         <st>
+            <p>Results</p>
+         </st>
+         <sec>
+            <st>
+               <p>Lameness/reaction data</p>
+            </st>
+            <p>The day of treatment injection, two fdESC treated horses had mild lameness at a walk prior to treatment injection and no lameness was appreciable in any of the CONT treated horses. This proportion was not different (one-tailed <it>P </it>= 0.21). In the days following treatment injection, the same two fdESC treated horses that were lame prior to injection, developed increased lameness and required extension of analgesic/anti-inflammatory medication (phenylbutazone) duration by six and seven days beyond routine therapy and two CONT treated horses developed increased lameness, only one of which required extension of analgesic/anti-inflammatory medication (phenylbutazone) duration by five days. No lameness was noted at a walk in either group throughout the remainder of the study (t = 1 to 8 weeks).</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Ultrasound data</p>
+            </st>
+            <p>Normalized lesion CSA was significantly lower in fdESC treated tendons compared to CONT tendons at t = 4 weeks (one-tailed <it>P </it>= 0.02) and showed a trend for smaller CSA at t = 8 weeks (one-tailed <it>P </it>= 0.1; Figure <figr fid="F2">2A</figr>). Normalized tendon CSA was significantly lower in fdESC treated tendons compared to CONT tendons at t = 4 (one-tailed <it>P </it>= 0.02) and eight weeks (one-tailed <it>P </it>= 0.03) and showed a trend for smaller CSA at t = 6 weeks (one-tailed <it>P </it>= 0.06; Figure <figr fid="F2">2B</figr>). Normalized relative lesion CSA was significantly lower in fdESC tendons compared to CONT tendons at t = 4 weeks (one-tailed <it>P </it>= 0.02). Normalized fiber pattern score, was significantly higher (better) for fdESC treated tendons at t = 8 weeks (one-tailed <it>P </it>= 0.02; Figure <figr fid="F2">2C</figr>).</p>
+            <fig id="F2">
+               <title>
+                  <p>Figure 2</p>
+               </title>
+               <caption>
+                  <p>Ultrasound measurements</p>
+               </caption>
+               <text>
+                  <p><b>Ultrasound measurements</b>. Normalized <b>(A) </b>lesion and <b>(B) </b>tendon cross-sectional area (CSA) and <b>(C) </b>linear fiber pattern score for fetal-derived Embryonic-like Stem Cells (fdESC) and placebo control (CONT) treated tendons at time points post treatment injection in weeks. Asterisks mark significantly lower (A, B) or significantly higher (C) values for fdESC than CONT treated tendons (one-tailed <it>P </it>&lt; 0.05).</p>
+               </text>
+               <graphic file="scrt45-2" hint_layout="single"/>
+            </fig>
+            <p>On paired analysis, within the fdESC treated tendons (one-tailed <it>P </it>= 0.05) but not the CONT treated tendons (one-tailed <it>P </it>= 0.1), there was a trend for higher (better) fiber pattern score at t = 8 weeks versus t = 0 weeks.</p>
+            <p>From two weeks after treatment injections (t = 2 weeks) needle tracts were visible ultrasonographically at 16 and 18 cm distal to the accessory carpal bone in all CONT treated tendons at all time-points. During the same period (t = 2 to 8 weeks), needle tracts were visible, but difficult to discern in two fdESC treated tendons. At the completion of the study, needle tracts remained visible in all CONT tendons and only two fdESC tendons (Figure <figr fid="F3">3</figr>). This proportion was not statistically different (one-tailed <it>P </it>= 0.2).</p>
+            <fig id="F3">
+               <title>
+                  <p>Figure 3</p>
+               </title>
+               <caption>
+                  <p>Transverse ultrasound images</p>
+               </caption>
+               <text>
+                  <p><b>Transverse ultrasound images</b>. Images were made 16 cm distal to the accessory carpal bone, eight weeks post treatment with <b>A) </b>fetal-derived Embryonic-like Stem Cells or <b>B) </b>placebo control injections. Lateral is to the right. Dotted lines outline the superficial digital flexor tendon and lesion. Arrowheads identify remaining treatment injection needle tracts.</p>
+               </text>
+               <graphic file="scrt45-3" hint_layout="double"/>
+            </fig>
+         </sec>
+         <sec>
+            <st>
+               <p>Magnetic resonance imaging</p>
+            </st>
+            <p>Tendon lesions were identified by increased signal intensity in all tendons (Figure <figr fid="F4">4</figr>). Tendon CSA made on MR images were not different between groups (Table <tblr tid="T1">1</tblr>). There was a strong trend of reduced relative CSA and reduced lesion CSA of fdESC treated tendons compared to that of CONT tendons (one-tailed <it>P </it>= 0.05 and <it>P </it>= 0.06, respectively; Table <tblr tid="T1">1</tblr>). Lesion signal intensity scores for fdESC tendons were lower (more normal) but this was not statistically significant (Table <tblr tid="T1">1</tblr>).</p>
+            <fig id="F4">
+               <title>
+                  <p>Figure 4</p>
+               </title>
+               <caption>
+                  <p>Transverse T1 MR images</p>
+               </caption>
+               <text>
+                  <p><b>Transverse T1 MR images</b>. Images were made at 16 cm distal to the accessory carpal bone, post mortem, eight weeks after treatment injection with <b>A) </b>fetal derived Embryonic-like Stem Cells and <b>B) </b>placebo control. Lateral is to the right. Arrow-heads outline the treated tendon in the first image of each group.</p>
+               </text>
+               <graphic file="scrt45-4" hint_layout="double"/>
+            </fig>
+            <tbl hint_layout="double" id="T1">
+               <title>
+                  <p>Table 1</p>
+               </title>
+               <caption>
+                  <p>Tendon and lesion measurements based on transverse T1-weighted MRI at eight weeks</p>
+               </caption>
+               <tblbdy cols="6">
+                  <r>
+                     <c>
+                        <p/>
+                     </c>
+                     <c cspan="2" ca="center">
+                        <p><b>Fetal-derived Embryonic-like Stem Cell treated tendon</b></p>
+                     </c>
+                     <c cspan="2" ca="center">
+                        <p><b>Placebo control treated tendon</b></p>
+                     </c>
+                     <c>
+                        <p/>
+                     </c>
+                  </r>
+                  <r>
+                     <c>
+                        <p/>
+                     </c>
+                     <c cspan="2">
+                        <hr/>
+                     </c>
+                     <c cspan="2">
+                        <hr/>
+                     </c>
+                     <c>
+                        <p/>
+                     </c>
+                  </r>
+                  <r>
+                     <c>
+                        <p/>
+                     </c>
+                     <c ca="left">
+                        <p><b>Median</b></p>
+                     </c>
+                     <c ca="left">
+                        <p><b>95% Confidence Interval</b></p>
+                     </c>
+                     <c ca="left">
+                        <p><b>Median</b></p>
+                     </c>
+                     <c ca="left">
+                        <p><b>95% Confidence Interval</b></p>
+                     </c>
+                     <c ca="left">
+                        <p><b>One-tailed <it>P</it></b></p>
+                     </c>
+                  </r>
+                  <r>
+                     <c cspan="6">
+                        <hr/>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>Relative CSA</p>
+                     </c>
+                     <c ca="left">
+                        <p>0.25</p>
+                     </c>
+                     <c ca="left">
+                        <p>0.1566 to 0.3573</p>
+                     </c>
+                     <c ca="left">
+                        <p>0.4</p>
+                     </c>
+                     <c ca="left">
+                        <p>0.1654 to 0.7040</p>
+                     </c>
+                     <c ca="left">
+                        <p>0.06</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>Lesion CSA</p>
+                     </c>
+                     <c ca="left">
+                        <p>0.34</p>
+                     </c>
+                     <c ca="left">
+                        <p>0.1463 to 0.5407</p>
+                     </c>
+                     <c ca="left">
+                        <p>0.53</p>
+                     </c>
+                     <c ca="left">
+                        <p>0.1069 to 1.1942</p>
+                     </c>
+                     <c ca="left">
+                        <p>0.06</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>Tendon CSA</p>
+                     </c>
+                     <c ca="left">
+                        <p>1.28</p>
+                     </c>
+                     <c ca="left">
+                        <p>0.9489 to 1.6776</p>
+                     </c>
+                     <c ca="left">
+                        <p>2.0</p>
+                     </c>
+                     <c ca="left">
+                        <p>1.0088 to 1.9261</p>
+                     </c>
+                     <c ca="left">
+                        <p>0.3</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>Signal Intensity</p>
+                     </c>
+                     <c ca="left">
+                        <p>0.5</p>
+                     </c>
+                     <c ca="left">
+                        <p>-0.7 to 2.3</p>
+                     </c>
+                     <c ca="left">
+                        <p>2.0</p>
+                     </c>
+                     <c ca="left">
+                        <p>0.2 to 4.3</p>
+                     </c>
+                     <c ca="left">
+                        <p>0.07</p>
+                     </c>
+                  </r>
+               </tblbdy>
+               <tblfn>
+                  <p>Measurements of the superficial digital flexor tendon and lesion were made 16 cm distal to the accessory carpal bone. Tendon, lesion and relative lesion cross-sectional area (CSA) and signal intensity were assessed.</p>
+               </tblfn>
+            </tbl>
+         </sec>
+         <sec>
+            <st>
+               <p>Gross dissection</p>
+            </st>
+            <p>No peritendinous adhesions were noted during dissection in either group. Once dissected free, tendons from both groups were visibly enlarged, centered at 16 cm DACB, and had minimal peri-tendinous reaction (Additional File <supplr sid="S2">2</supplr>, Figure S1). Focal pink discoloration was present superficially in all tendons proximally, at the site of needle insertion for tendon injury induction and distolaterally, at the sites for treatment injection (Additional File <supplr sid="S2">2</supplr>, Figure S1). Although no scores were assigned, fdESC treated tendons appeared smaller at 16 cm DACB, had less peri-tendinous reaction and treatment injection sites were less obvious. On cut section, lesions were hemorrhagic, glistened and bulged from the cut surface in all tendons (Additional File <supplr sid="S2">2</supplr>, Figure S1).</p>
+            <suppl id="S2">
+               <title>
+                  <p>Additional File 2</p>
+               </title>
+               <text>
+                  <p><b>Gross morphology</b>. Photographs of the superficial digital flexor tendon (SDFT) in cross-section at 17 cm distal to the accessory carpal bone (lateral is to the right) and of the palmar surface of the mid-metacarpal SDFT. <b>A) </b>fetal-derived Embryonic-like stem cell treated tendons and <b>B) </b>placebo control treated tendons. Asterisks mark proximolateral in images of the palmar surface.</p>
+               </text>
+               <file name="scrt45-S2.TIFF">
+                  <p>Click here for file</p>
+               </file>
+            </suppl>
+         </sec>
+         <sec>
+            <st>
+               <p>Quantitative PCR</p>
+            </st>
+            <p>Good quality RNA and DNA was obtained from all samples (data not shown). RNA concentrations from 80 mg of tissue (wet weight) was not different between groups (2-tailed <it>P-</it>value = 0.2; fdESC median 517 ng/&#956;l, range 318 to 670 ng/&#956;l; CONT median 370 ng/&#956;l, range 293 to 513 ng/&#956;l). DNA concentration from 25 mg of tissue (wet weight) was significantly lower in fdESC versus CONT samples (2-tailed <it>P </it>= 0.04; fdESC median 31 ng/&#956;l; range 27 to 35 ng/&#956;l; CONT median 41 ng/&#956;l; range 34 to 49 ng/&#956;l). There were no significant differences in anabolic (<it>COL1A1</it>, <it>COL3A1</it>, <it>DCN</it>, <it>TNC </it>or <it>COMP</it>), catabolic (<it>MMP1</it>, <it>MMP3 </it>or <it>MMP13</it>) or phenotypic (<it>SCX</it>, <it>TNMD</it>) gene expression between groups (Additional File <supplr sid="S3">3</supplr>, Table S2). There was no amplification of SRY above the level of no template controls, in either group, at any of the tested loading concentrations.</p>
+            <suppl id="S3">
+               <title>
+                  <p>Additional File 3</p>
+               </title>
+               <text>
+                  <p><b>Gene expression and biochemical data</b>. Selected gene expression and total collagen, proteoglycan and DNA content of fetal-derived embryonic-like stem cell versus placebo control treated tendon following collagenase induction of injury. There were no significant differences between either group for any parameter.</p>
+               </text>
+               <file name="scrt45-S3.DOCX">
+                  <p>Click here for file</p>
+               </file>
+            </suppl>
+         </sec>
+         <sec>
+            <st>
+               <p>Biochemical analyses</p>
+            </st>
+            <p>There were no significant differences in DNA (two-tailed <it>P-</it>value = 0.09), glycosaminoglycan, or total collagen content between fdESC tendons and CONT tendons (Additional File <supplr sid="S3">3</supplr>, Table S2).</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Histology</p>
+            </st>
+            <p>Cumulative histology scores were significantly different (more normal) for fdESC treated tendons compared to CONT tendons (Figure <figr fid="F5">5</figr>; Table <tblr tid="T2">2</tblr>). Several individual parameters were significantly different (more normal) in fdESC treated tendons compared to controls (Table <tblr tid="T2">2</tblr>). No individual parameters were higher (less normal) in fdESC treated tendons compared to CONT. <it>In situ </it>hybridization with probes against equine SRY demonstrated the occasional persistence of injected fdESC cells in all fdESC treated tendons but not in the CONT tendons (Figure <figr fid="F6">6</figr>).</p>
+            <fig id="F5">
+               <title>
+                  <p>Figure 5</p>
+               </title>
+               <caption>
+                  <p>Longitudinal histology</p>
+               </caption>
+               <text>
+                  <p><b>Longitudinal histology</b>. This figure shows 50&#215; and 200&#215; magnification of longitudinal sections of superficial digital flexor tendon stained with H&amp;E and Picrosirius Red for <b>A) </b>fetal-derived Embryonic-like stem cell treated tendon and <b>B) </b>placebo control treated tendon. Picrosirius images shown under polarized light. Bars = 200 &#956;m.</p>
+               </text>
+               <graphic file="scrt45-5" hint_layout="double"/>
+            </fig>
+            <tbl hint_layout="double" id="T2">
+               <title>
+                  <p>Table 2</p>
+               </title>
+               <caption>
+                  <p>Histologic scoring</p>
+               </caption>
+               <tblbdy cols="4">
+                  <r>
+                     <c ca="left">
+                        <p><b>Tendon parameter</b></p>
+                     </c>
+                     <c ca="left">
+                        <p><b>Fetal-derived embryonic-like stem cell treated tendon</b></p>
+                     </c>
+                     <c ca="left">
+                        <p><b>Placebo control treated tendon</b></p>
+                     </c>
+                     <c ca="left">
+                        <p><b>Two-tailed <it>P</it></b></p>
+                     </c>
+                  </r>
+                  <r>
+                     <c cspan="4">
+                        <hr/>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>Cell shape</p>
+                     </c>
+                     <c ca="left">
+                        <p>1.0 (0.9 to 1.3)</p>
+                     </c>
+                     <c ca="left">
+                        <p>2.0 (1.8 to 2.3)*</p>
+                     </c>
+                     <c ca="left">
+                        <p>&lt;0.0001</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>Cell density</p>
+                     </c>
+                     <c ca="left">
+                        <p>1.0 (2.0 to 2.0)</p>
+                     </c>
+                     <c ca="left">
+                        <p>2.75 (2.3 to 3.0)*</p>
+                     </c>
+                     <c ca="left">
+                        <p>0.0002</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>Free hemorrhage</p>
+                     </c>
+                     <c ca="left">
+                        <p>1.0 (0.9 to 1.7)</p>
+                     </c>
+                     <c ca="left">
+                        <p>1.75 (1.1 to 2.4)</p>
+                     </c>
+                     <c ca="left">
+                        <p>0.1</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>Neo-vascularization</p>
+                     </c>
+                     <c ca="left">
+                        <p>2.0 (1.4 to 2.2)</p>
+                     </c>
+                     <c ca="left">
+                        <p>2.0 (1.2 to 2.3)</p>
+                     </c>
+                     <c ca="left">
+                        <p>0.7</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>Perivascular cuffing</p>
+                     </c>
+                     <c ca="left">
+                        <p>1.5 (1.1 to 2.0)</p>
+                     </c>
+                     <c ca="left">
+                        <p>1.0 (0.83 to 1.4)</p>
+                     </c>
+                     <c ca="left">
+                        <p>0.1</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>Collagen linearity</p>
+                     </c>
+                     <c ca="left">
+                        <p>2.0 (1.3 to 2.1)</p>
+                     </c>
+                     <c ca="left">
+                        <p>2.75 (2.4 to 3.0)*</p>
+                     </c>
+                     <c ca="left">
+                        <p>&lt;0.0001</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>Collagen uniformity</p>
+                     </c>
+                     <c ca="left">
+                        <p>2.0 (1.4 to 2.1)</p>
+                     </c>
+                     <c ca="left">
+                        <p>3.0 (2.8 to 3.1)*</p>
+                     </c>
+                     <c ca="left">
+                        <p>&lt;0.0001</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>Polarized crimping</p>
+                     </c>
+                     <c ca="left">
+                        <p>1.5 (1.2 to 2.1)</p>
+                     </c>
+                     <c ca="left">
+                        <p>3.0 (2.7 to 3.3)*</p>
+                     </c>
+                     <c ca="left">
+                        <p>&lt;0.0001</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>Epitenon thickening</p>
+                     </c>
+                     <c ca="left">
+                        <p>2.3 (2.0 to 2.6)</p>
+                     </c>
+                     <c ca="left">
+                        <p>3.0 (2.6 to 3.5)*</p>
+                     </c>
+                     <c ca="left">
+                        <p>0.0009</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c cspan="4">
+                        <hr/>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p><b>Cumulative Score</b></p>
+                     </c>
+                     <c ca="left">
+                        <p>15.4 (12.6 to 17.8)</p>
+                     </c>
+                     <c ca="left">
+                        <p>20.8 (19.0 to 23.0)*</p>
+                     </c>
+                     <c ca="left">
+                        <p>&lt;0.0001</p>
+                     </c>
+                  </r>
+               </tblbdy>
+               <tblfn>
+                  <p>Histologic scores for fetal-derived embryonic-like stem cell treated tendon and placebo control treated tendon reported as median (95% confidence interval). Significant differences between treatment groups are marked by an asterisk (two-tailed <it>P </it>&lt; 0.05) and the two-tailed <it>P-</it>values are listed.</p>
+               </tblfn>
+            </tbl>
+            <fig id="F6">
+               <title>
+                  <p>Figure 6</p>
+               </title>
+               <caption>
+                  <p><it>In situ </it>hybridization longitudinal histology</p>
+               </caption>
+               <text>
+                  <p><b><it>In situ </it>hybridization longitudinal histology</b>. 400&#215; magnification of <it>in-situ </it>hybridization against genomic SRY in <b>A) </b>fetal-derived Embryonic-like stem cell treated tendon and <b>B) </b>placebo control treated tendon. Bar = 50 &#956;m.</p>
+               </text>
+               <graphic file="scrt45-6" hint_layout="double"/>
+            </fig>
+         </sec>
+      </sec>
+      <sec>
+         <st>
+            <p>Discussion</p>
+         </st>
+         <p>This blinded, placebo-controlled, large animal, short-term (eight-week) experiment revealed substantial and clinically relevant improvement in the healing of tendon injury after intra-lesional injection of pluripotent stem cells. Such dramatic architectural improvements have not been shown previously with any treatment modality, including the multipotent, autogenous MSC or ADSC <abbrgrp><abbr bid="B17">17</abbr><abbr bid="B19">19</abbr></abbrgrp>.</p>
+         <p>Despite widespread use of the collagenase enzymatic degradation model of tendon injury to test various therapeutics, including fat derived and bone marrow derived autogenous MSCs, no large animal study to date has demonstrated measureable differences in any parameter, other than small improvements in histologic grading <abbrgrp><abbr bid="B17">17</abbr><abbr bid="B19">19</abbr></abbrgrp>. In the study reported here, fdESC treated tendons had significant structural improvement on MRI and ultrasound, compared to CONT treated tendons; fdESC treated tendons were smaller and had smaller lesions with better lesion fill and greater return to more normal linear fiber pattern. In clinical equine tendon injury, other than severity of the initial lesion, the development of normal fiber pattern is the single most predictive measure of successful long term outcome <abbrgrp><abbr bid="B40">40</abbr></abbrgrp>. Therefore, the improved linear fiber pattern scores in fdESC treated tendons demonstrate significant and clinically relevant superior healing in the fdESC group, and suggest at least faster injury resolution, if not an improvement in long term outcome. Although there is little available data on the MRI appearance of healing tendons, it is known experimentally that reduced lesion signal intensity is correlated with tendon mechanical recovery <abbrgrp><abbr bid="B41">41</abbr></abbrgrp> and reduction in pain <abbrgrp><abbr bid="B42">42</abbr></abbrgrp>. Therefore, the trend toward reduced MR signal intensity (one-tailed <it>P </it>= 0.07) and trend for reduced lesion and relative CSA on MRI (one-tailed <it>P </it>= 0.06) in fdESC treated tendons corroborates better tendon injury resolution.</p>
+         <p>In a clinical report of the use of MSCs for flexor tendon injury in horses, lesions resolved following treatment; however, needle tracts from treatment injections remained visible on all follow-up ultrasound examinations <abbrgrp><abbr bid="B21">21</abbr></abbrgrp>. Therefore, the inability to find needle tracts in two fdESC treated tendons and difficulty discerning needle tracts in the other two fdESC treated tendons, although not statistically significant, is remarkable, and may represent a major change in the lesion environment, occurring as soon as two weeks after the treatment date. Additionally, during gross examination at eight weeks, needle insertion sites for the treatment injection were grossly less obvious in fdESC treated tendons (Additional File <supplr sid="S2">2</supplr>, Figure S1).</p>
+         <p>Despite its many similarities, the collagenase model of tendon injury does not totally mimic the insidious and degenerate etiopathogenesis of many forms of naturally occurring flexor tendon injury in man. However, the clinical relevance of this model to the final acute disruption after months or years of chronic tendon injury, is supported by the evaluation of gross, biochemical and histopathological changes, clinical signs, mechanical characteristics, and MRI and ultrasonographic findings following the induction of injury <abbrgrp><abbr bid="B43">43</abbr><abbr bid="B44">44</abbr></abbrgrp>. Additionally, the collagenase gel model allows the generation of a homogenous tendon lesion in a controlled group of animals and, therefore, improved ability to detect differences between treated and control arms of the study. The equine mid-metacarpal SDFT is a large, weight bearing tendon that is easily accessible, is not confined to a synovial sheath, and in the equine athlete is commonly affected by naturally occurring over-stretch tendon injury compounded on previous microfiber disruption, similar to tendinopathies of the human Achilles tendon <abbrgrp><abbr bid="B5">5</abbr><abbr bid="B6">6</abbr></abbrgrp>. Another major benefit of this model in testing cellular therapies for tissue regeneration is the creation of a confined lesion, surrounded by normal tendon, which is a common feature of Achilles tendon (human) and SDFT (equine) injury. This allows the direct and focal application of cellular therapies to a closed environment, where cellular differentiation can occur through naturally occurring biochemical cues, biomechanical forces, growth factors, and adjacent cell signaling. This is in direct contrast to rodent and small animal models where acute surgical transection of flexor tendons is utilized and tendons are of insufficient size to allow confined and directed focal therapy <abbrgrp><abbr bid="B45">45</abbr></abbrgrp>. However, a limitation of this model is the inability to test therapies in a large number of animals, resulting in a study that may be underpowered. This is due to the significant cost of housing, buying and caring for these animals and the strong emotional and ethical considerations in their use and sacrifice <abbrgrp><abbr bid="B46">46</abbr></abbrgrp>.</p>
+         <p>An additional limitation to this study was the short term end-point which was selected to assess the acute effects of the cells on tendon cell population, organization, and behavior. Analysis at eight weeks was selected as it was the earliest time-point that structurally organized tissues, and, therefore, potential differences, were expected to be detectable. Despite the small group sizes (<it>n </it>= 4), several parameters were significantly different between groups and a few parameters were different as early as four weeks after treatment injection, providing strong evidence for improved healing due to fdESC therapy. However, the lack of significant differences in parameters such as total DNA and gene expression should be viewed with caution, as a higher powered study may have better identified differences if they existed. A final limitation of this model was the inability to determine the mechanism by which fdESC injection improved healing, that is, trophic factors, cell replacement or other mechanisms.</p>
+         <p>Both collagen type I and collagen type III are upregulated in tendons following injury, with increased gene expression (<it>COL1A1 </it>and <it>COL3A1</it>) and protein content (type III) <abbrgrp><abbr bid="B47">47</abbr></abbrgrp>. Despite its upregulation in healing tendon, collagen type III content remains low compared to collagen type I <abbrgrp><abbr bid="B48">48</abbr></abbrgrp> and its exact role in tendon healing is largely unknown. Certainly lower collagen type I to collagen type III ratios indicate scar tissue repair rather than tendon regeneration; however, collagen ratios generated during tendon tissue regeneration rather than repair are not strictly known. In this study, there were no differences in total collagen content and ratios of <it>COL1A1:COL3A1 </it>gene expression between fdESC and CONT treated tendons, which may reflect the importance of tissue organization during healing rather than tendon tissue constituents. The improved collagen fiber diameter and alignment seen histologically, as well as improved linear fiber pattern seen ultrasonographically, and reduced MR signal intensity, suggest that although total collagen content is not different, there are improved collagen characteristics in the fdESC treated tendons.</p>
+         <p>While compositional parameters such as gene expression and proteoglycan and collagen content accurately reflect constituents of the healing tendon, they do little to measure the organization of the tendon. Structural assessment data indicated fdESC treated tendons had better histologic scores and improved MRI and ultrasound measurements and scores, compared to CONT treated tendons. These findings, and the lack of significant differences in biochemical parameters (DNA, glycosaminoglycan, and total collagen content) and gene expression data between fdESC and CONT, suggest that the predominant effect of fdESCs on tendon healing is through tendon structural organization rather than cell numbers or anabolic gene expression. Alternatively, localized changes, especially in gene expression, could have been missed due to total homogenization of the tissue samples, leading to incorporation of enough surrounding normal tendon to mask any significant differences between treatment groups <abbrgrp><abbr bid="B49">49</abbr></abbrgrp>. However, this seems unlikely given the size of equine tendons, allowing careful collection of lesion tissue and immediately adjacent tendon tissue. Additionally, tendon healing is a slow process, normally taking up to 18 months to occur. Therefore, this study is likely to have fallen short of the ultimate result, and it is possible that gene expression differences would be apparent in longer term trials.</p>
+         <p>Although there was no statistically significant difference in total DNA content determined by fluorometric assay, there was a trend toward lower total DNA content in fdESC treated tendons (two-sided <it>P </it>= 0.09). This could be interpreted as the failure of injected fdESC cells to persist within the lesion. Alternatively, we suggest that injected fdESC cells induced tendon regeneration leading to fewer cells and the accumulation of more normal, less cellular, tendon matrix, with fewer but more functional tenocytes. Significantly reduced concentrations of DNA isolated during genomic DNA preparations from fdESC tendons compared to CONT tendons, and a trend toward reduced total DNA content during quantitative fluorometric assay, corroborate the histologic findings indicating fdESC tendons were less cellular.</p>
+         <p>Although MSCs modulate immune function <abbrgrp><abbr bid="B50">50</abbr></abbrgrp>, no such effects have been reported for pluripotent stem cells, and the risk of using allogenic pluripotent stem cells is poorly defined. In this study, no adverse effects due to the use of allogenic cells were expected because the cell line did not express major histocompatibility proteins, and none were noted. The reduced cell density, improved cell shape, lack of inflammatory infiltrate or change in vascularity on histologic sections, minimal peri-tendinous reaction grossly, lack of differences in post treatment injection lameness, and reduced MR signal suggest that there was minimal reaction to allogenic fdESCs, despite lack of immunosuppressant therapy. Additionally, the risk for teratoma formation in immune competent animals with transplant of a pluripotent cell line is unknown. A teratoma assay was not performed for the cell line OK100&#8482;. However, teratoma formation was not seen in other fetal-derived cell lines used for human neurodegenerative disease trials <abbrgrp><abbr bid="B51">51</abbr></abbrgrp>. Additionally, the possibility of teratoma formation seems unlikely given that the cells are not true embryonic stem cells as they are negative for alkaline phosphatase staining of colonies and are derived from fetal tissue, rather than embryos (data not shown; Celavet, Inc.). Although there was no evidence of teratoma formation, it is important to note that transplant cell numbers were relatively low and this was a short term experiment using a small number of animals. Given the small number of horses used in this study, safety should be confirmed in a larger number of animals, longer term.</p>
+         <p>The use of male derived fdESCs in female recipient horses was utilized to identify cell transplantation persistence without genetic or cellular modification. Cellular persistence was documented with <it>in situ </it>hybridization on histologic sections, although it was an unusual event, and was not corroborated by PCR amplification of the SRY gene. Low cell survival may be due to the immunogenicity of male cells in female animals with chronic rejection occurring secondary to antibody responses to Y-chromosome encoded minor histocompatibility antigens preventing long-term engraftment <abbrgrp><abbr bid="B52">52</abbr><abbr bid="B53">53</abbr></abbrgrp>. It is possible that injecting genetically or membrane dye labeled same-sex cells would better gauge and allow for cell survival in follow-up studies <abbrgrp><abbr bid="B54">54</abbr></abbrgrp>. Finally, this study does not define whether the fdESCs had an effect through exogenous cell replacement, local cytokine modulation, immune modulation, or the stimulation of trophic factor synthesis. Certainly, the rarity of long term cell survival would suggest that it is less likely exogenous cell replacement, and may be one, or all of the latter factors.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Conclusions</p>
+         </st>
+         <p>In conclusion, these findings support the efficacy of pluripotent stem cells for the treatment of tendon injury. Despite low long term survival of injected cells, intralesional injection with fdESCs resulted in significantly better ultrasonographic measurements and scores, significantly better histological scores and a strong trend for improved MRI parameters. Such profound structural improvements to healing tendon in this short term large animal study lend further support to the notion that pluripotent stem cells can effect musculoskeletal regeneration, rather than repair, even without <it>in vitro </it>lineage specific differentiation. Further investigation into the safety of pluripotent cellular therapy as it relates to karyotypic stability, maintained cellular localization and avoidance of uncontrolled differentiation, as well as the mechanisms by which repair was improved, need to be determined.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Abbreviations</p>
+         </st>
+         <p>ADSC: adipose derived stem cell; <it>COL1A1</it>: collagen type I; <it>COL3A1</it>: collagen type III; <it>COMP</it>: cartilage oligomeric matrix protein; CONT: control; DCN: decorin; DACB: distal to the accessory carpal bone; fdESC: fetal derived embryonic-like stem cells; iPS: induced pluripotent stem; LCSA: lesion cross-sectional area; <it>MMP1</it>: matrix metalloproteinases-1; <it>MMP3</it>: matrix metalloproteinase-3; <it>MMP13</it>: matrix metalloproteinase-13; MRI: magnetic resonance imaging; MSCs: mesenchymal stromal (stem) cells; RLCSA: relative lesion cross-sectional area; <it>SCX</it>: scleraxis; SDFT: superficial digital flexor tendon; TCSA: tendon cross-sectional area; <it>TNC</it>: tenascin-C; <it>TNMD</it>: tenomodulin; <it>SCX</it>: scleraxis.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Competing interests</p>
+         </st>
+         <p>OVK is a full time employee of Celavie Biosciences, LLC, the company that provided the cell line (OK100&#8482;), and a patent holder on the cell line OK-100, studied in this report. OVK also holds stock in the company Celavie Biosciences. LLC. AJN and Cornell University was the recipient of a grant from Celavet, Inc. to fund this study. All other authors declare that they have no competing interests.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Authors' contributions</p>
+         </st>
+         <p>AEW, OVK and AJN designed the study. OVK carried out all the <it>in vitro </it>cell preparation for OK100&#8482;. AEW, AEY and AJN carried out all <it>in vivo </it>work and imaging (ultrasound, MRI). AEW carried out all the post mortem tissue collections and laboratory assays. AEW and AJN carried out all histologic assessments. AEW and AJN were responsible for writing the manuscript and all authors approved the manuscript.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Authors' information</p>
+         </st>
+         <p>AEW is a large-animal surgeon completing a PhD in AJN's lab at Cornell University. The focus of the PhD is on stem cells as they relate to musculoskeletal repair.</p>
+         <p>AEY is a board certified veterinary radiologist with specific expertise in ultrasonography at Cornell University and has extensive experience evaluating tendon injury, both experimental and clinical.</p>
+         <p>OVK is an MD, PhD and is employed by Celavie Biosciences, LLC, as its chief science officer and is interested in fetal-derived stem cells and their ability to influence neurodegenerative and musculoskeletal disorders. OVK has extensive experience in the use of fetal-derived stem cells (similar cells to those described in this manuscript) for the treatment of Parkinson's and Huntington's disease, both experimentally and in clinical patients.</p>
+         <p>AJN is a professor and clinician scientist at Cornell University, and director of a lab interested in stem cells and musculoskeletal injury. AJN has extensive experience with modeling equine tendon injury and in local delivery of cell-based therapies for musculoskeletal injury, both tendon and cartilage.</p>
+      </sec>
+   </bdy>
+   <bm>
+      <ack>
+         <sec>
+            <st>
+               <p>Acknowledgements</p>
+            </st>
+            <p>The authors gratefully acknowledge Celavet, Inc., a wholly owned subsidiary of Celavet Biosciences, LLC., for funding support and for provision of the cell line (OK-100&#8482;), Ashleigh Davis, Aurelia Rus, and Bethany Austin for animal care, and Michael Scimeca and Jeremy Yost for technical support. The funding body, Celavet, Inc., approved the study design submitted by the Institution for this study. Otherwise, the funding body did not have a role in the collection, analysis and interpretation of data, or in the writing of the manuscript. The decision to publish the data was not influenced by the funding body. This study was presented as a podium presentation and abstract at the 56th Annual Meeting of the Orthopedic Research Society in New Orleans, LA, 6 to 10 March 2010; the Annual Symposium of the American College of Veterinary Surgeons in Seattle, WA, 21 to 23 October 2010; and the 56th Annual Convention of the American College of Equine Practitioners in Baltimore, MD, 4 to 8 December 2010.</p>
+         </sec>
+      </ack>
+      <refgrp>
+         <bibl id="B1">
+            <title>
+               <p>Biology of tendon injury: healing, modeling and remodeling</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Sharma</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Maffulli</snm>
+                  <fnm>N</fnm>
+               </au>
+            </aug>
+            <source>J Musculoskelet Neuronal Interact</source>
+            <pubdate>2006</pubdate>
+            <volume>6</volume>
+            <fpage>181</fpage>
+            <lpage>90</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid" link="fulltext">16849830</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B2">
+            <title>
+               <p>Achilles tendinopathy: some aspects of basic science and clinical management</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Kader</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Saxena</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Movin</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Maffulli</snm>
+                  <fnm>N</fnm>
+               </au>
+            </aug>
+            <source>Br J Sports Med</source>
+            <pubdate>2002</pubdate>
+            <volume>36</volume>
+            <fpage>239</fpage>
+            <lpage>249</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1136/bjsm.36.4.239</pubid>
+                  <pubid idtype="pmcid">1724537</pubid>
+                  <pubid idtype="pmpid">12145112</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B3">
+            <title>
+               <p>An assessment of wastage in thoroughbred racing from conception to 4 years of age</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Jeffcott</snm>
+                  <fnm>LB</fnm>
+               </au>
+               <au>
+                  <snm>Rossdale</snm>
+                  <fnm>PD</fnm>
+               </au>
+               <au>
+                  <snm>Freestone</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Frank</snm>
+                  <fnm>CJ</fnm>
+               </au>
+               <au>
+                  <snm>Towers-Clark</snm>
+                  <fnm>PF</fnm>
+               </au>
+            </aug>
+            <source>Equine Vet J</source>
+            <pubdate>1982</pubdate>
+            <volume>14</volume>
+            <fpage>185</fpage>
+            <lpage>198</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1111/j.2042-3306.1982.tb02389.x</pubid>
+                  <pubid idtype="pmpid">7106081</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B4">
+            <title>
+               <p>Epidemiological study of wastage among racehorses 1982 and 1983</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Rossdale</snm>
+                  <fnm>PD</fnm>
+               </au>
+               <au>
+                  <snm>Hopes</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Digby</snm>
+                  <fnm>NJ</fnm>
+               </au>
+               <au>
+                  <snm>Offord</snm>
+                  <fnm>K</fnm>
+               </au>
+            </aug>
+            <source>Vet Rec</source>
+            <pubdate>1985</pubdate>
+            <volume>116</volume>
+            <fpage>66</fpage>
+            <lpage>69</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1136/vr.116.3.66</pubid>
+                  <pubid idtype="pmpid">3976145</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B5">
+            <title>
+               <p>Pathogenesis of tendinopathies: inflammation or degeneration?</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Abate</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Gravare Silbernagel</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Siljeholm</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Di Iorio</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>De Amicis</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Salini</snm>
+                  <fnm>V</fnm>
+               </au>
+               <au>
+                  <snm>Werner</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Paganelli</snm>
+                  <fnm>R</fnm>
+               </au>
+            </aug>
+            <source>Arthritis Res Ther</source>
+            <pubdate>2009</pubdate>
+            <volume>11</volume>
+            <fpage>235</fpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1186/ar2723</pubid>
+                  <pubid idtype="pmcid">2714139</pubid>
+                  <pubid idtype="pmpid">19591655</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B6">
+            <title>
+               <p>Superficial digital flexor tendonitis in the horse</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Dowling</snm>
+                  <fnm>BA</fnm>
+               </au>
+               <au>
+                  <snm>Dart</snm>
+                  <fnm>AJ</fnm>
+               </au>
+               <au>
+                  <snm>Hodgson</snm>
+                  <fnm>DR</fnm>
+               </au>
+               <au>
+                  <snm>Smith</snm>
+                  <fnm>RK</fnm>
+               </au>
+            </aug>
+            <source>Equine Vet J</source>
+            <pubdate>2000</pubdate>
+            <volume>32</volume>
+            <fpage>369</fpage>
+            <lpage>378</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.2746/042516400777591138</pubid>
+                  <pubid idtype="pmpid">11037257</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B7">
+            <title>
+               <p>Tendon injury and tendinopathy: healing and repair</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Sharma</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Maffulli</snm>
+                  <fnm>N</fnm>
+               </au>
+            </aug>
+            <source>J Bone Joint Surg Am</source>
+            <pubdate>2005</pubdate>
+            <volume>87</volume>
+            <fpage>187</fpage>
+            <lpage>202</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.2106/JBJS.D.01850</pubid>
+                  <pubid idtype="pmpid" link="fulltext">15634833</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B8">
+            <title>
+               <p>Interventions for treating acute and chronic Achilles tendinitis</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Mclauchlan</snm>
+                  <fnm>GJ</fnm>
+               </au>
+               <au>
+                  <snm>Handoll</snm>
+                  <fnm>HH</fnm>
+               </au>
+            </aug>
+            <source>Cochrane Database Syst Rev</source>
+            <pubdate>2001</pubdate>
+            <fpage>cd000232</fpage>
+            <xrefbib>
+               <pubid idtype="pmpid" link="fulltext">11405956</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B9">
+            <title>
+               <p>Current treatment options for tendinopathy</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Maffulli</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Longo</snm>
+                  <fnm>Ug</fnm>
+               </au>
+               <au>
+                  <snm>Loppini</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Denaro</snm>
+                  <fnm>V</fnm>
+               </au>
+            </aug>
+            <source>Expert Opin Pharmacother</source>
+            <pubdate>2010</pubdate>
+            <volume>11</volume>
+            <fpage>2177</fpage>
+            <lpage>2186</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1517/14656566.2010.495715</pubid>
+                  <pubid idtype="pmpid" link="fulltext">20569088</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B10">
+            <title>
+               <p>The early surface cell response to flexor tendon injury</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Jones</snm>
+                  <fnm>ME</fnm>
+               </au>
+               <au>
+                  <snm>Mudera</snm>
+                  <fnm>V</fnm>
+               </au>
+               <au>
+                  <snm>Brown</snm>
+                  <fnm>RA</fnm>
+               </au>
+               <au>
+                  <snm>Cambrey</snm>
+                  <fnm>AD</fnm>
+               </au>
+               <au>
+                  <snm>Grobbelaar</snm>
+                  <fnm>AO</fnm>
+               </au>
+               <au>
+                  <snm>McGrouther</snm>
+                  <fnm>DA</fnm>
+               </au>
+            </aug>
+            <source>J Hand Surg Am</source>
+            <pubdate>2003</pubdate>
+            <volume>28</volume>
+            <fpage>221</fpage>
+            <lpage>230</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1053/jhsu.2003.50044</pubid>
+                  <pubid idtype="pmpid" link="fulltext">12671852</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B11">
+            <title>
+               <p>Chondrogenic and adipogenic potential of microvascular pericytes</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Farrington-Rock</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Crofts</snm>
+                  <fnm>NJ</fnm>
+               </au>
+               <au>
+                  <snm>Doherty</snm>
+                  <fnm>MJ</fnm>
+               </au>
+               <au>
+                  <snm>Ashton</snm>
+                  <fnm>BA</fnm>
+               </au>
+               <au>
+                  <snm>Griffin-Jones</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Canfield</snm>
+                  <fnm>AE</fnm>
+               </au>
+            </aug>
+            <source>Circulation</source>
+            <pubdate>2004</pubdate>
+            <volume>110</volume>
+            <fpage>2226</fpage>
+            <lpage>2232</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1161/01.CIR.0000144457.55518.E5</pubid>
+                  <pubid idtype="pmpid" link="fulltext">15466630</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B12">
+            <title>
+               <p>Cell phenotypic variation in normal and damaged tendons</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Clegg</snm>
+                  <fnm>PD</fnm>
+               </au>
+               <au>
+                  <snm>Strassburg</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Smith</snm>
+                  <fnm>RK</fnm>
+               </au>
+            </aug>
+            <source>Int J Exp Pathol</source>
+            <pubdate>2007</pubdate>
+            <volume>88</volume>
+            <fpage>227</fpage>
+            <lpage>235</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1111/j.1365-2613.2007.00549.x</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17696903</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B13">
+            <title>
+               <p>Tissue engineering of ligament and tendon healing</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Woo</snm>
+                  <fnm>SL</fnm>
+               </au>
+               <au>
+                  <snm>Hildebrand</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Watanabe</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Fenwick</snm>
+                  <fnm>JA</fnm>
+               </au>
+               <au>
+                  <snm>Papageorgiou</snm>
+                  <fnm>CD</fnm>
+               </au>
+               <au>
+                  <snm>Wang</snm>
+                  <fnm>JH</fnm>
+               </au>
+            </aug>
+            <source>Clin Orthop Relat Res</source>
+            <pubdate>1999</pubdate>
+            <fpage>s312</fpage>
+            <lpage>323</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1097/00003086-199910001-00030</pubid>
+                  <pubid idtype="pmpid">10546655</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B14">
+            <title>
+               <p>Application of bone marrow-derived mesenchymal stem cells in a rotator cuff repair model</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Gulotta</snm>
+                  <fnm>LV</fnm>
+               </au>
+               <au>
+                  <snm>Kovacevic</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Ehteshami</snm>
+                  <fnm>JR</fnm>
+               </au>
+               <au>
+                  <snm>Dagher</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Packer</snm>
+                  <fnm>JD</fnm>
+               </au>
+               <au>
+                  <snm>Rodeo</snm>
+                  <fnm>SA</fnm>
+               </au>
+            </aug>
+            <source>Am J Sports Med</source>
+            <pubdate>2009</pubdate>
+            <volume>37</volume>
+            <fpage>2126</fpage>
+            <lpage>2133</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1177/0363546509339582</pubid>
+                  <pubid idtype="pmpid" link="fulltext">19684297</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B15">
+            <title>
+               <p>Synovial mesenchymal stem cells accelerate early remodeling of tendon-bone healing</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Ju</snm>
+                  <fnm>YJ</fnm>
+               </au>
+               <au>
+                  <snm>Muneta</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Yoshimura</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Koga</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Sekiya</snm>
+                  <fnm>I</fnm>
+               </au>
+            </aug>
+            <source>Cell Tissue Res</source>
+            <pubdate>2008</pubdate>
+            <volume>332</volume>
+            <fpage>469</fpage>
+            <lpage>478</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1007/s00441-008-0610-z</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18418628</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B16">
+            <title>
+               <p>Bone marrow-derived mesenchymal stem cells influence early tendon-healing in a rabbit achilles tendon model</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Chong</snm>
+                  <fnm>AK</fnm>
+               </au>
+               <au>
+                  <snm>Ang</snm>
+                  <fnm>AD</fnm>
+               </au>
+               <au>
+                  <snm>Goh</snm>
+                  <fnm>JC</fnm>
+               </au>
+               <au>
+                  <snm>Hui</snm>
+                  <fnm>JH</fnm>
+               </au>
+               <au>
+                  <snm>Lim</snm>
+                  <fnm>AY</fnm>
+               </au>
+               <au>
+                  <snm>Lee</snm>
+                  <fnm>EH</fnm>
+               </au>
+               <au>
+                  <snm>Lim</snm>
+                  <fnm>BH</fnm>
+               </au>
+            </aug>
+            <source>J Bone Joint Surg Am</source>
+            <pubdate>2007</pubdate>
+            <volume>89</volume>
+            <fpage>74</fpage>
+            <lpage>81</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.2106/JBJS.E.01396</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17200313</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B17">
+            <title>
+               <p>Mesenchymal stem cells and insulin-like growth factor-i gene-enhanced mesenchymal stem cells improve structural aspects of healing in equine flexor digitorum superficialis tendons</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Schnabel</snm>
+                  <fnm>LV</fnm>
+               </au>
+               <au>
+                  <snm>Lynch</snm>
+                  <fnm>ME</fnm>
+               </au>
+               <au>
+                  <snm>van der Meulen</snm>
+                  <fnm>MC</fnm>
+               </au>
+               <au>
+                  <snm>Yeager</snm>
+                  <fnm>AE</fnm>
+               </au>
+               <au>
+                  <snm>Kornatowski</snm>
+                  <fnm>MA</fnm>
+               </au>
+               <au>
+                  <snm>Nixon</snm>
+                  <fnm>AJ</fnm>
+               </au>
+            </aug>
+            <source>J Orthop Res</source>
+            <pubdate>2009</pubdate>
+            <volume>27</volume>
+            <fpage>1392</fpage>
+            <lpage>1398</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1002/jor.20887</pubid>
+                  <pubid idtype="pmpid" link="fulltext">19350658</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B18">
+            <title>
+               <p>Cell therapy for tendinitis, experimental and clinical report</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Lacitignola</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Crovace</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Rossi</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Francioso</snm>
+                  <fnm>E</fnm>
+               </au>
+            </aug>
+            <source>Vet Res Commun</source>
+            <pubdate>2008</pubdate>
+            <volume>32</volume>
+            <fpage>s33</fpage>
+            <lpage>38</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1007/s11259-008-9085-3</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18686004</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B19">
+            <title>
+               <p>Effect of adipose-derived nucleated cell fractions on tendon repair in horses with collagenase-induced tendinitis</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Nixon</snm>
+                  <fnm>AJ</fnm>
+               </au>
+               <au>
+                  <snm>Dahlgren</snm>
+                  <fnm>LA</fnm>
+               </au>
+               <au>
+                  <snm>Haupt</snm>
+                  <fnm>JL</fnm>
+               </au>
+               <au>
+                  <snm>Yeager</snm>
+                  <fnm>AE</fnm>
+               </au>
+               <au>
+                  <snm>Ward</snm>
+                  <fnm>DL</fnm>
+               </au>
+            </aug>
+            <source>Am J Vet Res</source>
+            <pubdate>2008</pubdate>
+            <volume>69</volume>
+            <fpage>928</fpage>
+            <lpage>937</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.2460/ajvr.69.7.928</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18593247</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B20">
+            <title>
+               <p>Histology and immunohistochemistry study of ovine tendon grafted with cbmscs and bmmncs after collagenase-induced tendinitis</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Crovace</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Lacitignola</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Francioso</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Rossi</snm>
+                  <fnm>G</fnm>
+               </au>
+            </aug>
+            <source>Vet Comp Orthop Traumatol</source>
+            <pubdate>2008</pubdate>
+            <volume>21</volume>
+            <fpage>329</fpage>
+            <lpage>336</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid" link="fulltext">18704239</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B21">
+            <title>
+               <p>Mesenchymal stem cell therapy for equine tendinopathy</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Smith</snm>
+                  <fnm>RK</fnm>
+               </au>
+            </aug>
+            <source>Disabil Rehabil</source>
+            <pubdate>2008</pubdate>
+            <volume>30</volume>
+            <fpage>1752</fpage>
+            <lpage>1758</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1080/09638280701788241</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18608378</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B22">
+            <title>
+               <p>Isolation and implantation of autologous equine mesenchymal stem cells from bone marrow into the superficial digital flexor tendon as a potential novel treatment</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Smith</snm>
+                  <fnm>RK</fnm>
+               </au>
+               <au>
+                  <snm>Korda</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Blunn</snm>
+                  <fnm>GW</fnm>
+               </au>
+               <au>
+                  <snm>Goodship</snm>
+                  <fnm>AE</fnm>
+               </au>
+            </aug>
+            <source>Equine Vet J</source>
+            <pubdate>2003</pubdate>
+            <volume>35</volume>
+            <fpage>99</fpage>
+            <lpage>102</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.2746/042516403775467388</pubid>
+                  <pubid idtype="pmpid">12553472</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B23">
+            <title>
+               <p>Regenerative versus reparative healing in tendon: a study of biomechanical and histological properties in fetal sheep</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Beredjiklian</snm>
+                  <fnm>PK</fnm>
+               </au>
+               <au>
+                  <snm>Favata</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Cartmell</snm>
+                  <fnm>JS</fnm>
+               </au>
+               <au>
+                  <snm>Flanagan</snm>
+                  <fnm>CL</fnm>
+               </au>
+               <au>
+                  <snm>Crombleholme</snm>
+                  <fnm>TM</fnm>
+               </au>
+               <au>
+                  <snm>Soslowsky</snm>
+                  <fnm>LJ</fnm>
+               </au>
+            </aug>
+            <source>Ann Biomed Eng</source>
+            <pubdate>2003</pubdate>
+            <volume>31</volume>
+            <fpage>1143</fpage>
+            <lpage>1152</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1114/1.1616931</pubid>
+                  <pubid idtype="pmpid" link="fulltext">14649488</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B24">
+            <title>
+               <p>Stepwise differentiation of human embryonic stem cells promotes tendon regeneration by secreting fetal tendon matrix and differentiation factors</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Chen</snm>
+                  <fnm>X</fnm>
+               </au>
+               <au>
+                  <snm>Song</snm>
+                  <fnm>XH</fnm>
+               </au>
+               <au>
+                  <snm>Yin</snm>
+                  <fnm>Z</fnm>
+               </au>
+               <au>
+                  <snm>Zou</snm>
+                  <fnm>XH</fnm>
+               </au>
+               <au>
+                  <snm>Wang</snm>
+                  <fnm>LL</fnm>
+               </au>
+               <au>
+                  <snm>Hu</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Cao</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Zheng</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Ouyang</snm>
+                  <fnm>HW</fnm>
+               </au>
+            </aug>
+            <source>Stem Cells</source>
+            <pubdate>2009</pubdate>
+            <volume>27</volume>
+            <fpage>1276</fpage>
+            <lpage>1287</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1002/stem.61</pubid>
+                  <pubid idtype="pmpid" link="fulltext">19489094</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B25">
+            <title>
+               <p>The pursuit of es cell lines of domesticated ungulates</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Talbot</snm>
+                  <fnm>NC</fnm>
+               </au>
+               <au>
+                  <snm>Blomberg Le</snm>
+                  <fnm>A</fnm>
+               </au>
+            </aug>
+            <source>Stem Cell Rev</source>
+            <pubdate>2008</pubdate>
+            <volume>4</volume>
+            <fpage>235</fpage>
+            <lpage>254</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1007/s12015-008-9026-0</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18612851</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B26">
+            <title>
+               <p>Induction of pluripotent stem cells from mouse embryonic and adult fibroblast cultures by defined factors</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Takahashi</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Yamanaka</snm>
+                  <fnm>S</fnm>
+               </au>
+            </aug>
+            <source>Cell</source>
+            <pubdate>2006</pubdate>
+            <volume>126</volume>
+            <fpage>663</fpage>
+            <lpage>676</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.cell.2006.07.024</pubid>
+                  <pubid idtype="pmpid" link="fulltext">16904174</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B27">
+            <title>
+               <p>Induction of pluripotent stem cells from adult human fibroblasts by defined factors</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Takahashi</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Tanabe</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Ohnuki</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Narita</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Ichisaka</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Tomoda</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Yamanaka</snm>
+                  <fnm>S</fnm>
+               </au>
+            </aug>
+            <source>Cell</source>
+            <pubdate>2007</pubdate>
+            <volume>131</volume>
+            <fpage>861</fpage>
+            <lpage>872</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.cell.2007.11.019</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18035408</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B28">
+            <title>
+               <p>Induced pluripotent stem cell lines derived from human somatic cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Yu</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Vodyanik</snm>
+                  <fnm>MA</fnm>
+               </au>
+               <au>
+                  <snm>Smuga-Otto</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Antosiewicz-Bourget</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Frane</snm>
+                  <fnm>JL</fnm>
+               </au>
+               <au>
+                  <snm>Tian</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Nie</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Jonsdottir</snm>
+                  <fnm>GA</fnm>
+               </au>
+               <au>
+                  <snm>Ruotti</snm>
+                  <fnm>V</fnm>
+               </au>
+               <au>
+                  <snm>Stewart</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Slukvin</snm>
+                  <fnm>II</fnm>
+               </au>
+               <au>
+                  <snm>Thomson</snm>
+                  <fnm>JA</fnm>
+               </au>
+            </aug>
+            <source>Science</source>
+            <pubdate>2007</pubdate>
+            <volume>318</volume>
+            <fpage>1917</fpage>
+            <lpage>1920</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1126/science.1151526</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18029452</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B29">
+            <title>
+               <p>Generation of germline-competent induced pluripotent stem cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Okita</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Ichisaka</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Yamanaka</snm>
+                  <fnm>S</fnm>
+               </au>
+            </aug>
+            <source>Nature</source>
+            <pubdate>2007</pubdate>
+            <volume>448</volume>
+            <fpage>313</fpage>
+            <lpage>317</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/nature05934</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17554338</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B30">
+            <title>
+               <p>Expression of insulin-like growth factor binding proteins in healing tendon lesions</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Dahlgren</snm>
+                  <fnm>LA</fnm>
+               </au>
+               <au>
+                  <snm>Mohammed</snm>
+                  <fnm>HO</fnm>
+               </au>
+               <au>
+                  <snm>Nixon</snm>
+                  <fnm>AJ</fnm>
+               </au>
+            </aug>
+            <source>J Orthop Res</source>
+            <pubdate>2006</pubdate>
+            <volume>24</volume>
+            <fpage>183</fpage>
+            <lpage>192</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1002/jor.20000</pubid>
+                  <pubid idtype="pmpid" link="fulltext">16435347</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B31">
+            <title>
+               <p>Temporal expression of growth factors and matrix molecules in healing tendon lesions</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Dahlgren</snm>
+                  <fnm>LA</fnm>
+               </au>
+               <au>
+                  <snm>Mohammed</snm>
+                  <fnm>HO</fnm>
+               </au>
+               <au>
+                  <snm>Nixon</snm>
+                  <fnm>AJ</fnm>
+               </au>
+            </aug>
+            <source>J Orthop Res</source>
+            <pubdate>2005</pubdate>
+            <volume>23</volume>
+            <fpage>84</fpage>
+            <lpage>92</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.orthres.2004.05.007</pubid>
+                  <pubid idtype="pmpid" link="fulltext">15607879</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B32">
+            <title>
+               <p>Improved quantitation and discrimination of sulphated glycosaminoglycans by use of dimethylmethylene blue</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Farndale</snm>
+                  <fnm>RW</fnm>
+               </au>
+               <au>
+                  <snm>Buttle</snm>
+                  <fnm>DJ</fnm>
+               </au>
+               <au>
+                  <snm>Barrett</snm>
+                  <fnm>AJ</fnm>
+               </au>
+            </aug>
+            <source>Biochim Biophys Acta</source>
+            <pubdate>1986</pubdate>
+            <volume>883</volume>
+            <fpage>173</fpage>
+            <lpage>177</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid" link="fulltext">3091074</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B33">
+            <title>
+               <p>Fluorometric assay of DNA in cartilage explants using hoechst 33258</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Kim</snm>
+                  <fnm>YJ</fnm>
+               </au>
+               <au>
+                  <snm>Sah</snm>
+                  <fnm>RL</fnm>
+               </au>
+               <au>
+                  <snm>Doong</snm>
+                  <fnm>JY</fnm>
+               </au>
+               <au>
+                  <snm>Grodzinsky</snm>
+                  <fnm>AJ</fnm>
+               </au>
+            </aug>
+            <source>Anal Biochem</source>
+            <pubdate>1988</pubdate>
+            <volume>174</volume>
+            <fpage>168</fpage>
+            <lpage>176</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/0003-2697(88)90532-5</pubid>
+                  <pubid idtype="pmpid" link="fulltext">2464289</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B34">
+            <title>
+               <p>Platelet rich plasma (prp) enhances anabolic gene expression patterns in flexor digitorum superficialis tendons</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Schnabel</snm>
+                  <fnm>LV</fnm>
+               </au>
+               <au>
+                  <snm>Mohammed</snm>
+                  <fnm>HO</fnm>
+               </au>
+               <au>
+                  <snm>Miller</snm>
+                  <fnm>BJ</fnm>
+               </au>
+               <au>
+                  <snm>Mcdermott</snm>
+                  <fnm>WG</fnm>
+               </au>
+               <au>
+                  <snm>Jacobson</snm>
+                  <fnm>MS</fnm>
+               </au>
+               <au>
+                  <snm>Santangelo</snm>
+                  <fnm>KS</fnm>
+               </au>
+               <au>
+                  <snm>Fortier</snm>
+                  <fnm>LA</fnm>
+               </au>
+            </aug>
+            <source>J Orthop Res</source>
+            <pubdate>2007</pubdate>
+            <volume>25</volume>
+            <fpage>230</fpage>
+            <lpage>240</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1002/jor.20278</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17106885</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B35">
+            <title>
+               <p>Lesions of the deep digital flexor tendon in the digit: a correlative mri and post mortem study in control and lame horses</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Blunden</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Murray</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Dyson</snm>
+                  <fnm>S</fnm>
+               </au>
+            </aug>
+            <source>Equine Vet J</source>
+            <pubdate>2009</pubdate>
+            <volume>41</volume>
+            <fpage>25</fpage>
+            <lpage>33</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.2746/042516408X343028</pubid>
+                  <pubid idtype="pmpid">19301578</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B36">
+            <title>
+               <p>Custom fluorescent-nucleotide synthesis as an alternative method for nucleic acid labeling</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Henegariu</snm>
+                  <fnm>O</fnm>
+               </au>
+               <au>
+                  <snm>Bray-Ward</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Ward</snm>
+                  <fnm>DD</fnm>
+               </au>
+            </aug>
+            <source>Nat Biotechnol</source>
+            <pubdate>2000</pubdate>
+            <volume>18</volume>
+            <fpage>345</fpage>
+            <lpage>348</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/73815</pubid>
+                  <pubid idtype="pmpid" link="fulltext">10700155</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B37">
+            <title>
+               <p>Tendon pathology in long-standing achillodynia. Biopsy findings in 40 patients</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Movin</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Gad</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Reinholt</snm>
+                  <fnm>FP</fnm>
+               </au>
+               <au>
+                  <snm>Rolf</snm>
+                  <fnm>C</fnm>
+               </au>
+            </aug>
+            <source>Acta Orthop Scand</source>
+            <pubdate>1997</pubdate>
+            <volume>68</volume>
+            <fpage>170</fpage>
+            <lpage>175</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.3109/17453679709004002</pubid>
+                  <pubid idtype="pmpid">9174456</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B38">
+            <title>
+               <p>Movin and bonar scores assess the same characteristics of tendon histology</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Maffulli</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Longo</snm>
+                  <fnm>UG</fnm>
+               </au>
+               <au>
+                  <snm>Franceschi</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Rabitti</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Denaro</snm>
+                  <fnm>V</fnm>
+               </au>
+            </aug>
+            <source>Clin Orthop Relat Res</source>
+            <pubdate>2008</pubdate>
+            <volume>466</volume>
+            <fpage>1605</fpage>
+            <lpage>1611</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1007/s11999-008-0261-0</pubid>
+                  <pubid idtype="pmcid">2505245</pubid>
+                  <pubid idtype="pmpid">18437501</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B39">
+            <title>
+               <p>Abnormal tenocyte morphology is more prevalent than collagen disruption in asymptomatic athletes' patellar tendons</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Cook</snm>
+                  <fnm>JL</fnm>
+               </au>
+               <au>
+                  <snm>Feller</snm>
+                  <fnm>JA</fnm>
+               </au>
+               <au>
+                  <snm>Bonar</snm>
+                  <fnm>SF</fnm>
+               </au>
+               <au>
+                  <snm>Khan</snm>
+                  <fnm>KM</fnm>
+               </au>
+            </aug>
+            <source>J Orthop Res</source>
+            <pubdate>2004</pubdate>
+            <volume>22</volume>
+            <fpage>334</fpage>
+            <lpage>338</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.orthres.2003.08.005</pubid>
+                  <pubid idtype="pmpid" link="fulltext">15013093</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B40">
+            <title>
+               <p>Harnessing the stem cell for the treatment of tendon injuries: heralding a new dawn?</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Smith</snm>
+                  <fnm>RK</fnm>
+               </au>
+               <au>
+                  <snm>Webbon</snm>
+                  <fnm>PM</fnm>
+               </au>
+            </aug>
+            <source>Br J Sports Med</source>
+            <pubdate>2005</pubdate>
+            <volume>39</volume>
+            <fpage>582</fpage>
+            <lpage>584</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1136/bjsm.2005.015834</pubid>
+                  <pubid idtype="pmcid">1725307</pubid>
+                  <pubid idtype="pmpid">16118291</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B41">
+            <title>
+               <p>Restoration of strength despite low stress and abnormal imaging after achilles injury</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Trudel</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Doherty</snm>
+                  <fnm>GP</fnm>
+               </au>
+               <au>
+                  <snm>Koike</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Ramachandran</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Lecompte</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Dinh</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Uhthoff</snm>
+                  <fnm>HK</fnm>
+               </au>
+            </aug>
+            <source>Med Sci Sports Exerc</source>
+            <pubdate>2009</pubdate>
+            <volume>41</volume>
+            <fpage>2009</fpage>
+            <lpage>2016</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1249/MSS.0b013e3181a706f0</pubid>
+                  <pubid idtype="pmpid" link="fulltext">19812517</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B42">
+            <title>
+               <p>Magnetic resonance signal, rather than tendon volume, correlates to pain and functional impairment in chronic achilles tendinopathy</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Gardin</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Bruno</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Movin</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Kristoffersen-Wiberg</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Shalabi</snm>
+                  <fnm>A</fnm>
+               </au>
+            </aug>
+            <source>Acta Radiol</source>
+            <pubdate>2006</pubdate>
+            <volume>47</volume>
+            <fpage>718</fpage>
+            <lpage>724</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1080/02841850600774035</pubid>
+                  <pubid idtype="pmpid" link="fulltext">16950711</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B43">
+            <title>
+               <p>Development and use of an animal model for investigations on rotator cuff disease</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Soslowsky</snm>
+                  <fnm>LJ</fnm>
+               </au>
+               <au>
+                  <snm>Carpenter</snm>
+                  <fnm>JE</fnm>
+               </au>
+               <au>
+                  <snm>Debano</snm>
+                  <fnm>CM</fnm>
+               </au>
+               <au>
+                  <snm>Banerji</snm>
+                  <fnm>I</fnm>
+               </au>
+               <au>
+                  <snm>Moalli</snm>
+                  <fnm>MR</fnm>
+               </au>
+            </aug>
+            <source>J Shoulder Elbow Surg</source>
+            <pubdate>1996</pubdate>
+            <volume>5</volume>
+            <fpage>383</fpage>
+            <lpage>392</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/S1058-2746(96)80070-X</pubid>
+                  <pubid idtype="pmpid" link="fulltext">8933461</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B44">
+            <title>
+               <p>Studies on the pathogenesis of equine tendonitis following collagenase injury</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Williams</snm>
+                  <fnm>IF</fnm>
+               </au>
+               <au>
+                  <snm>Mccullagh</snm>
+                  <fnm>KG</fnm>
+               </au>
+               <au>
+                  <snm>Goodship</snm>
+                  <fnm>AE</fnm>
+               </au>
+               <au>
+                  <snm>Silver</snm>
+                  <fnm>IA</fnm>
+               </au>
+            </aug>
+            <source>Res Vet Sci</source>
+            <pubdate>1984</pubdate>
+            <volume>36</volume>
+            <fpage>326</fpage>
+            <lpage>338</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid">6087432</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B45">
+            <title>
+               <p>Animal models of tendinopathy</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Lake</snm>
+                  <fnm>SP</fnm>
+               </au>
+               <au>
+                  <snm>Ansorge</snm>
+                  <fnm>HL</fnm>
+               </au>
+               <au>
+                  <snm>Soslowsky</snm>
+                  <fnm>LJ</fnm>
+               </au>
+            </aug>
+            <source>Disabil Rehabil</source>
+            <pubdate>2008</pubdate>
+            <volume>30</volume>
+            <fpage>1530</fpage>
+            <lpage>1541</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1080/09638280701785460</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18608372</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B46">
+            <title>
+               <p>Stem cell therapy for joint problems using the horse as a clinically relevant animal model</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Koch</snm>
+                  <fnm>TG</fnm>
+               </au>
+               <au>
+                  <snm>Betts</snm>
+                  <fnm>DH</fnm>
+               </au>
+            </aug>
+            <source>Expert Opin Biol Ther</source>
+            <pubdate>2007</pubdate>
+            <volume>7</volume>
+            <fpage>1621</fpage>
+            <lpage>1626</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1517/14712598.7.11.1621</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17961087</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B47">
+            <title>
+               <p>Tenocytes from ruptured and tendinopathic achilles tendons produce greater quantities of type iii collagen than tenocytes from normal achilles tendons. An in vitro model of human tendon healing</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Maffulli</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Ewen</snm>
+                  <fnm>SW</fnm>
+               </au>
+               <au>
+                  <snm>Waterston</snm>
+                  <fnm>SW</fnm>
+               </au>
+               <au>
+                  <snm>Reaper</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Barrass</snm>
+                  <fnm>V</fnm>
+               </au>
+            </aug>
+            <source>Am J Sports Med</source>
+            <pubdate>2000</pubdate>
+            <volume>28</volume>
+            <fpage>499</fpage>
+            <lpage>505</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid" link="fulltext">10921640</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B48">
+            <title>
+               <p>Cloning and expression of type iii collagen in normal and injured tendons of horses</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Dahlgren</snm>
+                  <fnm>LA</fnm>
+               </au>
+               <au>
+                  <snm>Brower-Toland</snm>
+                  <fnm>BD</fnm>
+               </au>
+               <au>
+                  <snm>Nixon</snm>
+                  <fnm>AJ</fnm>
+               </au>
+            </aug>
+            <source>Am J Vet Res</source>
+            <pubdate>2005</pubdate>
+            <volume>66</volume>
+            <fpage>266</fpage>
+            <lpage>270</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.2460/ajvr.2005.66.266</pubid>
+                  <pubid idtype="pmpid">15757126</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B49">
+            <title>
+               <p>Evaluation of gene expression through qrt-pcr in cyclically loaded tendons: an <it>in vivo </it>model</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Asundi</snm>
+                  <fnm>KR</fnm>
+               </au>
+               <au>
+                  <snm>King</snm>
+                  <fnm>KB</fnm>
+               </au>
+               <au>
+                  <snm>Rempel</snm>
+                  <fnm>DM</fnm>
+               </au>
+            </aug>
+            <source>Eur J Appl Physiol</source>
+            <pubdate>2008</pubdate>
+            <volume>102</volume>
+            <fpage>265</fpage>
+            <lpage>270</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1007/s00421-007-0582-9</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17922137</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B50">
+            <title>
+               <p>Human mesenchymal stem cells modulate allogeneic immune cell responses</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Aggarwal</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Pittenger</snm>
+                  <fnm>MF</fnm>
+               </au>
+            </aug>
+            <source>Blood</source>
+            <pubdate>2005</pubdate>
+            <volume>105</volume>
+            <fpage>1815</fpage>
+            <lpage>1822</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1182/blood-2004-04-1559</pubid>
+                  <pubid idtype="pmpid" link="fulltext">15494428</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B51">
+            <title>
+               <p>Clinical study of fetal mesencephalic intracerebral transplants for the treatment of parkinson's disease</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Kopyov</snm>
+                  <fnm>OV</fnm>
+               </au>
+               <au>
+                  <snm>Jacques</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Lieberman</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Duma</snm>
+                  <fnm>CM</fnm>
+               </au>
+               <au>
+                  <snm>Rogers</snm>
+                  <fnm>RL</fnm>
+               </au>
+            </aug>
+            <source>Cell Transplant</source>
+            <pubdate>1996</pubdate>
+            <volume>5</volume>
+            <fpage>327</fpage>
+            <lpage>337</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/0963-6897(95)02035-7</pubid>
+                  <pubid idtype="pmpid">8689043</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B52">
+            <title>
+               <p>Allogenic immune response promotes the accumulation of host-derived smooth muscle cells in transplant arteriosclerosis</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Religa</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Bojakowski</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Bojakowska</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Gaciong</snm>
+                  <fnm>Z</fnm>
+               </au>
+               <au>
+                  <snm>Thyberg</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Hedin</snm>
+                  <fnm>U</fnm>
+               </au>
+            </aug>
+            <source>Cardiovasc Res</source>
+            <pubdate>2005</pubdate>
+            <volume>65</volume>
+            <fpage>535</fpage>
+            <lpage>545</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.cardiores.2004.10.011</pubid>
+                  <pubid idtype="pmpid" link="fulltext">15639493</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B53">
+            <title>
+               <p>Why do some females reject males? The molecular basis for male-specific graft rejection</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Scott</snm>
+                  <fnm>DM</fnm>
+               </au>
+               <au>
+                  <snm>Ehrmann</snm>
+                  <fnm>IE</fnm>
+               </au>
+               <au>
+                  <snm>Ellis</snm>
+                  <fnm>PS</fnm>
+               </au>
+               <au>
+                  <snm>Chandler</snm>
+                  <fnm>PR</fnm>
+               </au>
+               <au>
+                  <snm>Simpson</snm>
+                  <fnm>E</fnm>
+               </au>
+            </aug>
+            <source>J Mol Med</source>
+            <pubdate>1997</pubdate>
+            <volume>75</volume>
+            <fpage>103</fpage>
+            <lpage>114</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1007/s001090050095</pubid>
+                  <pubid idtype="pmpid" link="fulltext">9083928</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B54">
+            <title>
+               <p>Monitoring the fate of autologous and allogeneic mesenchymal progenitor cells injected into the superficial digital flexor tendon of horses: preliminary study</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Guest</snm>
+                  <fnm>DJ</fnm>
+               </au>
+               <au>
+                  <snm>Smith</snm>
+                  <fnm>MR</fnm>
+               </au>
+               <au>
+                  <snm>Allen</snm>
+                  <fnm>WR</fnm>
+               </au>
+            </aug>
+            <source>Equine Vet J</source>
+            <pubdate>2008</pubdate>
+            <volume>40</volume>
+            <fpage>178</fpage>
+            <lpage>181</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.2746/042516408X276942</pubid>
+                  <pubid idtype="pmpid">18267891</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+      </refgrp>
+   </bm>
+</art>

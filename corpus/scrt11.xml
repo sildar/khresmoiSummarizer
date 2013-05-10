@@ -1,0 +1,3114 @@
+<!DOCTYPE art SYSTEM "article.dtd">
+<art>
+   <ui>scrt11</ui>
+   <ji>1757-6512</ji>
+   <fm>
+      <dochead>Research</dochead>
+      <bibl>
+         <title>
+            <p>Activin A expression regulates multipotency of mesenchymal progenitor cells</p>
+         </title>
+         <aug>
+            <au ca="yes" id="A1">
+               <snm>Djouad</snm>
+               <fnm>Farida</fnm>
+               <insr iid="I1"/>
+               <insr iid="I2"/>
+               <email>farida.djouad@inserm.fr</email>
+            </au>
+            <au id="A2">
+               <snm>Jackson</snm>
+               <mi>M</mi>
+               <fnm>Wesley</fnm>
+               <insr iid="I1"/>
+               <email>wjackson@gmail.com</email>
+            </au>
+            <au id="A3">
+               <snm>Bobick</snm>
+               <mi>E</mi>
+               <fnm>Brent</fnm>
+               <insr iid="I1"/>
+               <insr iid="I3"/>
+               <email>brentedwardbobick@gmail.com</email>
+            </au>
+            <au id="A4">
+               <snm>Janjanin</snm>
+               <fnm>Sasa</fnm>
+               <insr iid="I1"/>
+               <insr iid="I4"/>
+               <email>s_janjanin@yahoo.com</email>
+            </au>
+            <au id="A5">
+               <snm>Song</snm>
+               <fnm>Yingjie</fnm>
+               <insr iid="I1"/>
+               <email>hgsisong@yahoo.com</email>
+            </au>
+            <au id="A6">
+               <snm>Huang</snm>
+               <mi>TJ</mi>
+               <fnm>George</fnm>
+               <insr iid="I1"/>
+               <insr iid="I5"/>
+               <email>gtjhuang@bu.edu</email>
+            </au>
+            <au id="A7">
+               <snm>Tuan</snm>
+               <mi>S</mi>
+               <fnm>Rocky</fnm>
+               <insr iid="I1"/>
+               <insr iid="I6"/>
+               <email>tuanrocky@gmail.com</email>
+            </au>
+         </aug>
+         <insg>
+            <ins id="I1">
+               <p>Cartilage Biology and Orthopaedics Branch, National Institute of Arthritis and Musculoskeletal and Skin Diseases, National Institutes of Health, Department of Health and Human Services, 9000 Rockville Pike, Bethesda, Maryland 20892, USA</p>
+            </ins>
+            <ins id="I2">
+               <p>Current address: Inserm U 844, H&#244;pital Saint-Eloi, B&#226;timent INM, 34295 Montpellier, France</p>
+            </ins>
+            <ins id="I3">
+               <p>Current address: Department of Biological Sciences, 2500 University Drive NW, Calgary, Alberta, T2N 1N4, Canada</p>
+            </ins>
+            <ins id="I4">
+               <p>Current address: Department of Otorhinolaryngology, Head &amp; Neck Surgery, Zagreb Clinical Hospital Centar, Zagreb University School of Medicine, Salata 4, 10000 Zagreb, Croatia</p>
+            </ins>
+            <ins id="I5">
+               <p>Current address: Department of Molecular and Cell Biology, Boston University Henry M. Goldman School of Dental Medicine, 72 East Concord Street, Boston, MA 02118, USA</p>
+            </ins>
+            <ins id="I6">
+               <p>Current address: Department of Orthopaedic Surgery, Center for Cellular and Molecular Engineering, University of Pittsburgh School of Medicine, 450 Technology Drive, Room 221, Pittsburgh, PA 15219, USA</p>
+            </ins>
+         </insg>
+         <source>Stem Cell Research &amp; Therapy</source>
+         <issn>1757-6512</issn>
+         <pubdate>2010</pubdate>
+         <volume>1</volume>
+         <issue>2</issue>
+         <fpage>11</fpage>
+         <url>http://stemcellres.com/content/1/2/11</url>
+         <xrefbib>
+            <pubid idtype="doi">10.1186/scrt11</pubid>
+         </xrefbib>
+      </bibl>
+      <history>
+         <rec>
+            <date>
+               <day>26</day>
+               <month>9</month>
+               <year>2009</year>
+            </date>
+         </rec>
+         <acc>
+            <date>
+               <day>4</day>
+               <month>5</month>
+               <year>2010</year>
+            </date>
+         </acc>
+         <pub>
+            <date>
+               <day>4</day>
+               <month>5</month>
+               <year>2010</year>
+            </date>
+         </pub>
+      </history>
+      <cpyrt>
+         <year>2010</year>
+         <collab>Djouad et al.; licensee BioMed Central Ltd.</collab>
+         <note>This is an open access article distributed under the terms of the Creative Commons Attribution License (<url>http://creativecommons.org/licenses/by/2.0</url>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</note>
+      </cpyrt>
+      <abs>
+         <sec>
+            <st>
+               <p>Abstract</p>
+            </st>
+            <sec>
+               <st>
+                  <p>Introduction</p>
+               </st>
+               <p>Bone marrow (BM) stroma currently represents the most common and investigated source of mesenchymal progenitor cells (MPCs); however, comparable adult progenitor or stem cells have also been isolated from a wide variety of tissues. This study aims to assess the functional similarities of MPCs from different tissues and to identify specific factor(s) related to their multipotency.</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>Methods</p>
+               </st>
+               <p>For this purpose, we directly compared MPCs isolated from different adult tissues, including bone marrow, tonsil, muscle, and dental pulp. We first examined and compared proliferation rates, immunomodulatory properties, and multidifferentiation potential of these MPCs <it>in vitro</it>. Next, we specifically evaluated activin A expression profile and activin A:follistatin ratio in MPCs from the four sources.</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>Results</p>
+               </st>
+               <p>The multidifferentiation potential of the MPCs is correlated with activin A level and/or the activin A:follistatin ratio. Interestingly, by siRNA-mediated activin A knockdown, activin A was shown to be required for the chondrogenic and osteogenic differentiation of MPCs. These findings strongly suggest that activin A has a pivotal differentiation-related role in the early stages of chondrogenesis and osteogenesis while inhibiting adipogenesis of MPCs.</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>Conclusions</p>
+               </st>
+               <p>This comparative analysis of MPCs from different tissue sources also identifies bone marrow-derived MPCs as the most potent MPCs in terms of multilineage differentiation and immunosuppression, two key requirements in cell-based regenerative medicine. In addition, this study implicates the significance of activin A as a functional marker of MPC identity.</p>
+            </sec>
+         </sec>
+      </abs>
+   </fm>
+   <bdy>
+      <sec>
+         <st>
+            <p>Introduction</p>
+         </st>
+         <p>Mesenchymal progenitor cells (MPCs) are multipotent cells, derived from various adult tissues, that are capable of differentiating into several mesenchymal lineages, including osteoblasts, chondroblasts, and adipocytes. A large body of data suggested MPCs as a promising candidate cell type applicable for repair and regeneration of a variety of mesenchymal tissues such as bone, cartilage, and muscle <abbrgrp><abbr bid="B1">1</abbr><abbr bid="B2">2</abbr></abbrgrp>. MPCs were initially identified and isolated from bone marrow (BM) and are characterized by the expression of a number of cell surface markers <abbrgrp><abbr bid="B3">3</abbr><abbr bid="B4">4</abbr><abbr bid="B5">5</abbr></abbrgrp>. Based on their clonogenic and multipotent differentiation activities, to date, MPCs have been isolated from a number of adult tissues, including trabecular bone <abbrgrp><abbr bid="B6">6</abbr></abbrgrp>, fat <abbrgrp><abbr bid="B7">7</abbr><abbr bid="B8">8</abbr></abbrgrp>, synovium <abbrgrp><abbr bid="B9">9</abbr><abbr bid="B10">10</abbr></abbrgrp>, skin <abbrgrp><abbr bid="B11">11</abbr></abbrgrp>, thymus <abbrgrp><abbr bid="B11">11</abbr><abbr bid="B12">12</abbr></abbrgrp>, periodontal ligament <abbrgrp><abbr bid="B13">13</abbr></abbrgrp>, as well as prenatal and perinatal sources such as umbilical cord blood <abbrgrp><abbr bid="B14">14</abbr></abbrgrp>, umbilical cord <abbrgrp><abbr bid="B15">15</abbr></abbrgrp>, palatine tonsil <abbrgrp><abbr bid="B16">16</abbr></abbrgrp>, and placenta <abbrgrp><abbr bid="B17">17</abbr></abbrgrp>. The diversity of sources facilitates MPC accessibility, but also raises questions about possible phenotypic and functional discrepancies that must be addressed for their clinical use.</p>
+         <p>The transforming growth factor-&#946; (TGF-&#946;) superfamily of secreted factors includes TGF-&#946;, activins, Nodal, and bone morphogenetic proteins (BMPs). The activation of the TGF-&#946;/activin/Nodal signaling pathway through SMAD2/3 is associated with the pluripotency of human embryonic stem cells (hESCs) and is required for the maintenance of their undifferentiated state <abbrgrp><abbr bid="B18">18</abbr></abbrgrp>. Through the induction of Oct4, Nanog, Nodal, Wnt3, basic fibroblast growth factor (FGF-2), and FGF-8, Activin A was shown to be a key regulator for the "stemness" maintenance of hESCs <abbrgrp><abbr bid="B19">19</abbr></abbrgrp>. Activin A, like other members of the TGF-&#946; superfamily, has also been described to affect embryogenesis, hematopoiesis, and angiogenesis <abbrgrp><abbr bid="B20">20</abbr><abbr bid="B21">21</abbr><abbr bid="B22">22</abbr></abbrgrp>. The actions of activin A are determined by a balance of the levels of activin A and its inhibitor, follistatin (FS). FS is a natural antagonist that binds activin with high affinity and neutralizes its biologic activities by preventing activin interaction with its membrane receptors <abbrgrp><abbr bid="B23">23</abbr><abbr bid="B24">24</abbr></abbrgrp>. Activin ligands exist in three forms: homodimers of the &#946;A and &#946;B protein subunits constitute activin A and activin B, respectively, and a heterodimer of &#946;A and &#946;B protein subunits represents activin AB. These ligands signal by binding to specific serine/threonine kinase type II (ActRIIA and ActRIIB) receptors. In the adult, activin &#946;A subunit mRNA is produced in BM <abbrgrp><abbr bid="B25">25</abbr></abbrgrp> and, like TGF-&#946; <abbrgrp><abbr bid="B26">26</abbr></abbrgrp> and BMPs, activin A is abundantly localized in bone matrix <abbrgrp><abbr bid="B27">27</abbr><abbr bid="B28">28</abbr></abbrgrp>. BM-derived stromal fibroblasts were reported to be the major source of activin A and FS in the BM <abbrgrp><abbr bid="B29">29</abbr></abbrgrp>. The role of activin A in bone metabolism has been evaluated in several studies. Although an inhibitory effect of activin A on osteoblastic differentiation in rat and murine osteoblasts was described <abbrgrp><abbr bid="B30">30</abbr><abbr bid="B31">31</abbr></abbrgrp>, activin A was also shown to stimulate osteoblastogenesis in murine bone marrow cultures and, <it>in vivo</it>, promotes bone formation and fracture healing in rodents <abbrgrp><abbr bid="B27">27</abbr><abbr bid="B28">28</abbr><abbr bid="B29">29</abbr><abbr bid="B32">32</abbr></abbrgrp>. Interestingly, it was recently shown that the osteoblastic differentiation of MPCs induced by BMP-2 involved an activin-dominant microenvironment, whereas adipogenic differentiation of MPCs in the presence of dexamethasone occurred in an FS-dominant microenvironment <abbrgrp><abbr bid="B33">33</abbr></abbrgrp>. In this study, the authors suggested that activin A inhibits adipogenesis by affecting the adipocyte transcriptional factor in favor of osteoblastic differentiation <abbrgrp><abbr bid="B33">33</abbr><abbr bid="B34">34</abbr></abbrgrp>. Activin &#946;A also was detected in developing cartilage and identified as another member of the TGF-&#946; superfamily involved in the induction of limb chondrogenesis <abbrgrp><abbr bid="B35">35</abbr><abbr bid="B36">36</abbr></abbrgrp>. Therefore, activin A is likely to have pleiotropic functions, including an essential role in sustaining hESC pluripotency, and to play a critical role during skeletogenesis.</p>
+         <p>In addition to the MPCs derived from BM, MPCs that show multidifferentiation potential have also been isolated from various tissues. However, compared with BM-MPCs, these MPCs of different tissue origins may have different cellular properties and therefore present differential clinical applicability for regenerative medicine. It is, therefore, desirable to identify a factor that differentially correlates with and provides a functional characterization of the individual "stem cell" state of the MPCs from various sources. In this regard, activin A, which has been shown to play a role in regulating MPC properties, may be considered as a candidate factor and should be examined for its expression and functional correlation with the activities of various MPCs. For this purpose, we have undertaken a comparative study of MPCs derived from four different tissue sources, including BM, palatine tonsil (T), dental pulp (DP), and skeletal muscle (M). In line with the current state of knowledge of the biology of BM-derived MPCs, we carried out direct comparisons of the phenotypic and functional properties of MPCs isolated from these different sources. Specifically, we tested the hypothesis that activin A may function as a critical regulatory factor for MPCs multipotency. We further dissected the requirement of activin A in human MPCs induction toward differentiation into chondrocytes, osteoblasts, and adipocytes. Our findings showed that activin A expression level in MPCs discriminates MPCs from different sources in terms of proliferation capacity and differentiation potential. In addition to a possible role in MPC identity, activin A also appears to play a pivotal role in the early stages of MPC chondrogenesis and osteogenesis while inhibiting adipogenesis. Furthermore, our results show that among the four tissue sources compared, BM-derived MPCs have the highest differentiation potency and represent the most desirable cell type for regenerative medicine.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Materials and methods</p>
+         </st>
+         <sec>
+            <st>
+               <p>MPC isolation and culture</p>
+            </st>
+            <sec>
+               <st>
+                  <p>Tonsil-derived MPCs (T-MPCs)</p>
+               </st>
+               <p>With Institutional Review Board (IRB) approval (George Washington University, Washington, DC), tonsils were obtained after informed consent from patients undergoing tonsillectomy as a result of recurrent episodes of acute tonsillitis. The tissue was minced, digested, and processed by direct plating, as described previously <abbrgrp><abbr bid="B16">16</abbr></abbrgrp>. Expansion medium consisting of Dulbecco's modified Eagle's medium (DMEM) (Invitrogen Corporation, Carlsbad, CA, USA) with 10% fetal bovine serum (FBS) from selected lots (HyClone) and antibiotics (50 &#956;g/ml streptomycin and 50 IU/ml penicillin; Invitrogen).</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>Bone marrow-derived MPCs (BM-MPCs)</p>
+               </st>
+               <p>Bone marrow (BM) was obtained after informed consent from patients (39 to 58 years old) undergoing lower extremity reconstructive surgery with IRB approval (University of Washington, Seattle, WA, and George Washington University) and was processed by direct plating, as described previously <abbrgrp><abbr bid="B37">37</abbr></abbrgrp>. BM aspirates were plated overnight in T-150 cm<sup>2 </sup>culture flasks in the same expansion medium as T-MPCs, and adherent cells were obtained similarly. Both T-MPCs and BM-MPCs were culture-expanded in expansion medium at 37&#176;C and 5% CO<sub>2 </sub>by using T-150 Triple Flasks (Nunc), and medium changes were done twice weekly.</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>Traumatized muscle-derived MPCs (M-MPCs)</p>
+               </st>
+               <p>Traumatically injured muscle was collected with IRB approval from the Walter Reed Army Medical Center (WRAMC, Washington, DC). Patients considered for inclusion in this study had been exposed to orthopedic trauma and sustained extensive soft tissue extremity wounds, and informed consent was obtained from each patient before tissue collection. These patients arrived at WRAMC approximately 3-7 days after injury, and tissue was collected during debridement and irrigation procedures. The tissue was dissected, minced, digested, and plated as described previously <abbrgrp><abbr bid="B38">38</abbr><abbr bid="B39">39</abbr></abbrgrp>. The adherent cells were cultured in the same expansion medium as T-MPCs. For the first 3 days, the cells were washed with Hank's Balanced Salt Solution (HBSS), and the medium was replaced. The cells were subcultured into new flasks after tightly packed colony-forming units (CFUs) were observed, and the cells were cultured in basal expansion or Growth Medium (GM: DMEM supplemented with 10% FBS and 1 unit/ml of antibiotics) from that point forward. Subsequent subcultures were performed when the cells were approximately 85% confluent.</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>Dental pulp-derived MPCs (DP-MPCs)</p>
+               </st>
+               <p>Tooth sample collection and the growth of pulp cells followed protocols described previously <abbrgrp><abbr bid="B40">40</abbr><abbr bid="B41">41</abbr></abbrgrp>. Extraction of third molars from healthy patients (aged 16-26 years) in the Department of Oral Surgery conformed to a protocol (H-29892) approved by the University of Maryland Medical School IRB. Pulp-cell cultures were established through enzyme digestion. Minced pulp tissues were digested in a solution of 3 mg/ml collagenase type I and 4 mg/ml dispase (Sigma) for 30-60 min at 37&#176;C. Cell suspensions were obtained by passing the digested tissues through a 70-&#956;m cell strainer (Becton-Dickinson). Single-cell suspensions (1 &#215; 10<sup>5 </sup>cells/flask) were seeded in 5 &#215; 10-cm culture flasks containing Eagle's minimum essential medium alpha modification (&#945;-MEM) supplemented with 20% FBS, 2 mmol/L <smcaps>L</smcaps>-glutamine, 100 &#956;mol/L <smcaps>L</smcaps>-ascorbic acid-2-phosphate, 100 U/ml penicillin-G, 100 &#956;g/ml streptomycin, and 0.25 &#956;g/ml fungizone (Gemini Bio-Products) and maintained under 5% CO<sub>2 </sub>at 37&#176;C. Clonogenic cells were grown to 70% confluence, passaged at a 1:3 ratio, and cultured in the same expansion medium as T-MPCs.</p>
+            </sec>
+         </sec>
+         <sec>
+            <st>
+               <p>Cell-proliferation assay</p>
+            </st>
+            <p>Cell-proliferation assays were performed by using the Cell Counting Kit-8 (Dojindo, Kumamoto, Japan). Cells were plated in 96-well plates at 1 &#215; 10<sup>4 </sup>cells per well and cultured in the basal growth medium. At the indicated time points, cell numbers in triplicate wells were measured spectrophotometrically as A<sub>450 </sub>values of reduced WST-8 (2-(2-methoxy-4-nitrophenyl)-3-(4-nitrophenyl)-5-(2,4 disulfophenyl)-2H-tetrazolium, monosodium salt).</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Flow cytometry</p>
+            </st>
+            <p>For flow cytometry, BM-MPCs, T-MPCs, DP-MPCs, and M-MPCs (>2 &#215; 10<sup>5 </sup>cells) were washed and resuspended in phosphate-buffered saline (PBS) + 0.1% FBS (PF), containing saturating concentrations (1:100 dilution) of the following conjugated mouse IgG<sub>1,&#954; </sub>anti-human monoclonal antibodies (BD Biosciences): CD14-PE, CD34-PE, CD45-FITC, CD73-PE, CD90-FITC, CD105-PE for 1 h at 4&#176;C. Cell suspensions were washed twice and resuspended in PF for analysis on a flow cytometer (FACSCalibur, BD Biosciences) by using the CellQuest ProTM software (BD Biosciences).</p>
+         </sec>
+         <sec>
+            <st>
+               <p><it>In vitro </it>differentiation</p>
+            </st>
+            <p>MPCs were induced to undergo adipogenic, osteogenic, and chondrogenic differentiation, as described previously <abbrgrp><abbr bid="B37">37</abbr></abbrgrp>. For adipogenic differentiation, cells were seeded into six-well tissue-culture plates at a density of 20,000 cells/cm<sup>2 </sup>and treated for 3 weeks with adipogenic medium, consisting of DMEM with 10% FBS, and supplemented with 0.5 mmol/L 3-isobutyl-1-methylxanthine (IBMX), 1 &#956;g/ml insulin, and 1 &#956;mol/L dexamethasone (all from Sigma). For osteogenic differentiation, cells were seeded into six-well plates (Corning) at a density of 20,000 cells/cm<sup>2</sup>, and treated for 3 weeks with osteogenic medium, consisting of DMEM with 10% FBS, and supplemented with 10 mmol/L &#946;-glycerolphosphate, 10 nmol/L dexamethasone, 50 &#956;g/ml ascorbic acid-2-phosphate, and 10 nmol/L 1,25 dihydroxyvitamin D<sub>3 </sub>(Biomol International L.P., Plymouth Meeting, PA). To induce chondrogenic differentiation, 96-microwell polypropylene plates (Nunc, Roskilde, Denmark) were seeded with 300,000 cells per well, and cell pellets formed by centrifugation at 1,100 rpm for 6 minutes. The pellet cultures were treated for 3 weeks with chondrogenic medium, consisting of high-glucose DMEM supplemented with 100 nmol/L dexamethasone, 50 &#956;g/ml ascorbic acid-2-phosphate, 100 &#956;g/ml sodium pyruvate, 40 &#956;g/ml <smcaps>L</smcaps>-proline, 10 ng/ml recombinant human transforming growth factor-&#946;3 (TGF-&#946;3; R&amp;D Systems, Minneapolis, MN), and 50 mg/ml ITS-premix stock (BD Biosciences).</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Histochemistry</p>
+            </st>
+            <sec>
+               <st>
+                  <p>Oil Red O Staining</p>
+               </st>
+               <p>Three-week adipogenic cultures of MPCs were rinsed twice with PBS, fixed in 4% buffered paraformaldehyde, stained with Oil red O (Sigma) for 5 minutes at room temperature, and counterstained with Harris-Hematoxylin Solution (Sigma), to visualize lipid droplets.</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>Alkaline phosphatase and alizarin red S staining</p>
+               </st>
+               <p>MPCs cultured for 3 weeks in osteogenic medium were fixed in 4% paraformaldehyde, rinsed, and stained for alkaline phosphatase with Naphthol AS-BI substrate (Sigma) for 30 minutes at 37&#176;C in the dark. Osteogenic cultures were also fixed with 60% isopropyl alcohol and stained for 3 minutes with 2% (wt/vol) Alizarin Red S (Rowley) at pH 4.2 to detect mineralization.</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>Alcian blue and picrosirius red staining</p>
+               </st>
+               <p>Chondrogenic cell pellets were fixed in 4% buffered paraformaldehyde, rinsed with PBS, serially dehydrated, paraffin embedded, and sectioned at 10-&#956;m thickness. Sections were stained with Alcian blue (pH 1.0) to detect sulfated proteoglycans and with Picrosirius Red (0.1% wt/vol in saturated picric acid) to visualize collagen deposition.</p>
+            </sec>
+         </sec>
+         <sec>
+            <st>
+               <p>Lymphocyte proliferative assay</p>
+            </st>
+            <p>Peripheral blood from healthy human donors was collected into heparinized containers (BD Biosciences), and peripheral blood mononuclear cells (PBMCs) were isolated by Ficoll-Hypaque density gradient centrifugation. Responder human PBMCs were resuspended in RPMI 1640 medium containing 10% FBS, 2 mmol/L glutamine, 100 U/ml penicillin, and 100 &#956;g/ml streptomycin, 0.1 mmol/L nonessential amino acids, 1 mmol/L sodium pyruvate, 20 mmol/L HEPES, and 50 &#956;mol/L 2-mercaptoethanol (Invitrogen). PBMCs were seeded in triplicates at 1 &#215; 10<sup>5 </sup>cells/100 &#956;l per well in 96-well round-bottom plates (BD Biosciences). PHA was used at 5 &#956;g/ml as a positive control mitogen to induce T-cell proliferation. MPCs (5 &#215; 10<sup>4</sup>cells) were added to obtain a final volume of 300 &#956;l. After 3 days of incubation, 1 &#956;Ci/well [<sup>3</sup>H]-thymidine (GE Healthcare) was added, and radioactivity incorporation over a 12-hour period was determined by liquid scintillation counting. All experiments were performed in triplicate and repeated at least twice.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Immunohistochemistry</p>
+            </st>
+            <p>Chondrogenic cell pellets were fixed in 4% buffered paraformaldehyde, rinsed with PBS, serially dehydrated, paraffin embedded, and sectioned at 10-&#956;m thickness. Sections were digested with 1 mg/ml hyaluronidase (Sigma) or 20 &#956;g/ml proteinase K (Roche Diagnostics) in 10 mmol/L Tris-HCl (pH 7.5) for 30 minutes at 37&#176;C. The sections were then incubated overnight at room temperature with the following antibodies in Tris-buffered saline containing 0.1% bovine serum albumin: antibodies to aggrecan and collagen type II (Developmental Studies Hybridoma Bank), and antibodies to fibronectin (R&amp;D). Immunostaining was detected by using the chromogenic streptavidin-peroxidase Histostain SP Kit for DAB (Zymed Laboratories, San Francisco, CA), and imaged by using an inverted microscope equipped with a color charge-coupled device camera.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>RNA isolation and real-time reverse transcription-polymerase chain reaction (RT-PCR)</p>
+            </st>
+            <p>RNA was extracted from monolayer cultures of BM-MPCs, T-MPCs, DP-MPCs and, M-MPCs by using the RNeasy Kit (Qiagen). Total RNA (1 &#956;g) was reverse transcribed by using the Multiscribe reverse transcriptase (Applied Biosystems). Real-time PCR reactions were performed as previously described <abbrgrp><abbr bid="B42">42</abbr></abbrgrp>. Gene-specific primers (forward and reverse) were designed based on GenBank cDNA sequences (primer sequences available on request). Specific transcript levels were normalized by comparison with the housekeeping gene, glyceraldehyde-3-phosphate dehydrogenase (GAPDH).</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Western blot</p>
+            </st>
+            <p>MPCs cultures were treated with activin A (10 ng/ml) for 48 hours, and homogenized in RIPA lysis buffer (Sigma) supplemented with protease and phosphatase inhibitors. Extracted proteins were separated on 12% polyacrylamide gels and electroblotted. The blots were immunoprobed for GAPDH and Sox-2 (Santa Cruz, CA). Appropriate horseradish peroxidase-conjugated secondary antibodies were used for detection.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Activin A quantification</p>
+            </st>
+            <p>Activin A in culture supernatants was quantified by using a commercially available enzyme-linked immunosorbent assay kit (R&amp;D Systems) according to the manufacturer's protocol.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>siRNA transfection</p>
+            </st>
+            <p>Small interfering RNA (siRNA) duplexes designed against human <it>inhibin, beta A </it>(activin A, activin AB alpha polypeptide), and the negative control siRNA obtained from Ambion (Applied Biosystems/Ambion, Austin, TX) were reconstituted by following the manufacturer's guidelines. siRNAs were transfected into BM-MPCs by electroporation with a total of 750,000 cells in 300 &#956;l of siPORT electroporation buffer containing 45 &#956;l of 22.5 &#956;g siRNA by using the BTX ECM 830 Electro Square Porator System (Harvard Apparatus). In brief, the mixture was transferred to a 2-mm gap BTX electroporation cuvette, which was then placed in the apparatus and exposed to two identical square-wave pulses (parameters: 1,075 V, 105-&#956;s pulse length, 5-second duration between pulses). After electroporation, the cuvettes were incubated for 15 minutes at 37&#176;C in a 5% CO<sub>2</sub>/95% air atmosphere. The transfected MPCs were then maintained for 24 hours in culture medium under 5% CO<sub>2 </sub>at 37&#176;C before differentiation analyses.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Statistics</p>
+            </st>
+            <p>Data from the proliferation, RT-PCR, and ELISA experiments were analyzed statistically by using Student's <it>t </it>test, with statistical significance set at <it>P </it>&lt; 0.05.</p>
+         </sec>
+      </sec>
+      <sec>
+         <st>
+            <p>Results</p>
+         </st>
+         <sec>
+            <st>
+               <p>Differential cell properties among mesenchymal progenitor cells from various tissue sources</p>
+            </st>
+            <p>Before examining the role of activin A, the four types of MPCs (BM, T, DP, and M) were first examined in terms of several key properties.</p>
+            <sec>
+               <st>
+                  <p>Cell surface-marker expression</p>
+               </st>
+               <p>To confirm that these MPCs express typical cell-surface markers, we performed fluorescence activated cell sorting (FACS) analysis. It was revealed that all MPCs were negative for CD14, CD34, and CD45 expression and positive for CD73, CD90, and CD105 (Table <tblr tid="T1">1</tblr>).</p>
+               <tbl id="T1">
+                  <title>
+                     <p>Table 1</p>
+                  </title>
+                  <caption>
+                     <p>Surface epitope phenotype of bone marrow-, tonsil-, muscle-, and dental pulp-derived mesenchymal progenitor cells*</p>
+                  </caption>
+                  <tblbdy cols="5">
+                     <r>
+                        <c>
+                           <p/>
+                        </c>
+                        <c ca="center">
+                           <p><b>BM-MPCs</b></p>
+                        </c>
+                        <c ca="center">
+                           <p><b>T-MPCs</b></p>
+                        </c>
+                        <c ca="center">
+                           <p><b>M-MPCs</b></p>
+                        </c>
+                        <c ca="center">
+                           <p><b>DP-MPCs</b></p>
+                        </c>
+                     </r>
+                     <r>
+                        <c cspan="5">
+                           <hr/>
+                        </c>
+                     </r>
+                     <r>
+                        <c ca="left">
+                           <p>CD14</p>
+                        </c>
+                        <c ca="center">
+                           <p>-</p>
+                        </c>
+                        <c ca="center">
+                           <p>-</p>
+                        </c>
+                        <c ca="center">
+                           <p>-</p>
+                        </c>
+                        <c ca="center">
+                           <p>-</p>
+                        </c>
+                     </r>
+                     <r>
+                        <c ca="left">
+                           <p>CD34</p>
+                        </c>
+                        <c ca="center">
+                           <p>-</p>
+                        </c>
+                        <c ca="center">
+                           <p>-</p>
+                        </c>
+                        <c ca="center">
+                           <p>-</p>
+                        </c>
+                        <c ca="center">
+                           <p>-</p>
+                        </c>
+                     </r>
+                     <r>
+                        <c ca="left">
+                           <p>CD45</p>
+                        </c>
+                        <c ca="center">
+                           <p>-</p>
+                        </c>
+                        <c ca="center">
+                           <p>-</p>
+                        </c>
+                        <c ca="center">
+                           <p>-</p>
+                        </c>
+                        <c ca="center">
+                           <p>-</p>
+                        </c>
+                     </r>
+                     <r>
+                        <c ca="left">
+                           <p>CD73</p>
+                        </c>
+                        <c ca="center">
+                           <p>+</p>
+                        </c>
+                        <c ca="center">
+                           <p>+</p>
+                        </c>
+                        <c ca="center">
+                           <p>+</p>
+                        </c>
+                        <c ca="center">
+                           <p>+</p>
+                        </c>
+                     </r>
+                     <r>
+                        <c ca="left">
+                           <p>CD90</p>
+                        </c>
+                        <c ca="center">
+                           <p>+</p>
+                        </c>
+                        <c ca="center">
+                           <p>+</p>
+                        </c>
+                        <c ca="center">
+                           <p>+</p>
+                        </c>
+                        <c ca="center">
+                           <p>+</p>
+                        </c>
+                     </r>
+                     <r>
+                        <c ca="left">
+                           <p>CD105</p>
+                        </c>
+                        <c ca="center">
+                           <p>+</p>
+                        </c>
+                        <c ca="center">
+                           <p>+</p>
+                        </c>
+                        <c ca="center">
+                           <p>+</p>
+                        </c>
+                        <c ca="center">
+                           <p>+</p>
+                        </c>
+                     </r>
+                  </tblbdy>
+                  <tblfn>
+                     <p>*Surface epitopes or CD markers identified on the basis of immuoreactivity analyzed by fluorescence-activated cell sorting (FACS). FACS analysis showed that more than 95% of these cells were negative (-) for the expression of CD14, CD34, and CD45, and were positive (+) for CD73, CD90 and, CD105. Controls consisted of fluorescence observed with isotypic controls. BM, bone marrow; DP, dental pulp; M, muscle; MPC, mesenchymal progenitor cell; T, tonsil.</p>
+                  </tblfn>
+               </tbl>
+            </sec>
+            <sec>
+               <st>
+                  <p>T-MPCs have a higher proliferation rate than other MPCs</p>
+               </st>
+               <p>Analysis of cell density as a function of culture time (48, 96, 144, or 240 hours) in growth medium revealed that among the four different MPC populations tested, T-MPCs proliferated at a significantly higher rate than did MPCs derived from the other tissues (Figure <figr fid="F1">1c</figr>).</p>
+               <fig id="F1">
+                  <title>
+                     <p>Figure 1</p>
+                  </title>
+                  <caption>
+                     <p>Activin A expression profile, proliferative rate, and immunosuppressive characteristics of MPCs from different tissue sources</p>
+                  </caption>
+                  <text>
+                     <p><b>Activin A expression profile, proliferative rate, and immunosuppressive characteristics of MPCs from different tissue sources</b>. <b>(a) </b>ELISA quantification of secreted activin A. Results are expressed as the mean of secretion in 48-hour supernatants of three cell cultures (mean &#177; S.D.). <b>(b) </b>Activin A:follistatin ratio by real-time RT-PCR. <b>(c) </b>Cell-proliferation rate determined by using CCK-8. BM-MPCs, T-MPCs, M-MPCs, and DP-MPCs were plated in 96-well plates at 1 &#215; 10<sup>4 </sup>cells per well and cultured in growth medium for 48, 96, 144, and 240 hours. <b>(d) </b>Proliferative activity of T cells stimulated with PHA. Responding PBMCs were stimulated with PHA at 5 &#956;g/ml in the presence or absence of 5 &#215; 10<sup>4 </sup>MPCs. The proliferative response of T cells is represented as a percentage of PHA control (mean &#177; SD of triplicates). *<it>P </it>&#8804; 0.05, versus BM-MPCs; **<it>P </it>&#8804; 0.05 versus PHA.</p>
+                  </text>
+                  <graphic file="scrt11-1"/>
+               </fig>
+            </sec>
+            <sec>
+               <st>
+                  <p>BM-MPCs display the strongest chondrogenic and adipogenic potency, whereas DP-MCPs exhibit the highest level of matrix mineralization</p>
+               </st>
+               <p>We compared the differentiation potential of MPCs derived from bone marrow, tonsil, muscle, and dental pulp with the chondrogenic, osteogenic, and adipogenic lineages. Cultures of MPCs derived from the four tissues under chondrogenic conditions produced pellets with a similar morphology and a shiny surface that is characteristic of cartilaginous pellets. At day 21 of chondrogenesis, alcian blue (AB) and picrosirius histologic staining of the chondrogenic pellets derived from BM-MPCs, M-MPCs, and DP-MPCs all revealed the presence of a sulfated proteoglycan- and collagen-rich extracellular matrix. In comparison, in T-MPC pellets, the matrix contained considerably less sulfated proteoglycans, whereas collagen staining was highly positive (Figure <figr fid="F2">2a</figr>). Immunohistochemistry showed that all MPC pellets produced collagen type II (COL2) and aggrecan (AGN), although the staining intensities for both COL2 and AGN were higher in BM-MPCs compared with those of T-MPCs, M-MPCs, and DP-MPCs (Figure <figr fid="F2">2a</figr>). Quantitative RT-PCR analysis of day 21 cultures showed that, in response to the chondrogenic culture conditions and induction medium, expression of COL2 was upregulated in all cultures, with the highest level in BM-MPCs (Figure <figr fid="F2">2d</figr>).</p>
+               <fig id="F2">
+                  <title>
+                     <p>Figure 2</p>
+                  </title>
+                  <caption>
+                     <p><it>In vitro</it>-induced differentiation of MPCs from different tissue sources</p>
+                  </caption>
+                  <text>
+                     <p><b><it>In vitro</it>-induced differentiation of MPCs from different tissue sources</b>. <b>(a-d) </b>Chondrogenic differentiation evaluated after 21 days in micropellet culture. <b>(a) </b>Immunohistochemical analysis of cartilage markers (COL2 and AGN) and alcian blue (AB) and picrosirius (PS) staining in pellet cultures of MPCs. <b>(d) </b>Expression of COL2, a specific marker for chondrogenesis, measured in differentiated MPC cultures compared with day 0 (D0) cultures, determined by quantitative RT-PCR with GAPDH as an internal control. <b>(b-e) </b>Osteogenic differentiation of MPCs assessed after 21-day culture in osteogenic medium. (b) All MPCs tested exhibited ALP activity and produced a mineralized matrix stained with alizarin red. T-MPCs displayed less alizarin red staining compared with BM-MPCs, M-MPCs, and DP-MPCs. <b>(e) </b>Significant upregulation of the expression of osteocalcin (OC), an osteoblast-specific gene, compared with undifferentiated MPCs was observed after osteogenic induction of BM-MPCs, T-MPCs, M-MPCs, and DP-MPCs compared with D0 cultures. <b>(c-f) </b>Adipogenic differentiation of MPCs cultured in adipogenic medium for 21 days. <b>(c) </b>All MPCs tested exhibited lipid-containing intracellular vacuoles that stained with oil red O at the end of the differentiation period. <b>(f) </b>MPCs cultured in adipogenic medium upregulated the expression of adipocyte-specific genes (PPAR-&#947; and LPL) compared with MPCs at D0. Quantitative RT-PCR data represent the mean &#177; SD in three independent experiments. *<it>P </it>&#8804; 0.05, versus D0; **<it>P </it>&#8804; 0.05, versus BM-MPCs.</p>
+                  </text>
+                  <graphic file="scrt11-2"/>
+               </fig>
+               <p>Although to a lesser extent for T-MPCs, MPCs from the four tissue sources cultured for 21 days in osteogenic medium exhibited increased ALP activity and produced a mineralized matrix that stained positive with alizarin red, with the highest level of mineralization seen in DP-MPCs cultures (Figure <figr fid="F2">2b</figr>). Under the same osteogenic conditions, gene expression of osteocalcin (OC), associated with mature osteoblasts, was significantly increased compared with the undifferentiated cells at day zero (D0) (Figure <figr fid="F2">2e</figr>).</p>
+               <p>MPCs cultured in adipogenic medium formed characteristic intracellular lipid-rich vacuoles that stained positive with oil red O. Compared with BM-MPCs, T-MPCs, and M-MPCs, DP-MPCs displayed a lesser ability to form lipid vacuoles (Figure <figr fid="F2">2c</figr>). MPCs derived from the different tissue sources under adipogenic induction also upregulated the expression of peroxisome proliferator-activated receptor-&#947; (PPAR-&#947;), a master regulator of adipogenesis, as well as lipoprotein lipase (LPL) (Figure <figr fid="F2">2f</figr>). To summarize, the nonequivalence in differentiation potency of the MPCs included (a) BM-MPCs displayed a significantly greater chondrogenic potential; (b) DP-MPCs presented a higher capacity for extracellular matrix mineralization; and (c) T-MPCs showed an inferior ability to differentiate into chondrocytes and osteoblasts but a high adipogenic potential.</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>BM-MPCs exhibit greater immunosuppressive properties</p>
+               </st>
+               <p>In addition to their multilineage differentiation potential, MPCs have been shown to display immunoregulatory properties that have prompted consideration of their use in bone marrow transplantation <abbrgrp><abbr bid="B3">3</abbr><abbr bid="B43">43</abbr><abbr bid="B44">44</abbr></abbrgrp>. Although the exact immunosuppressive mechanisms of MPCs are unknown, the capacity of MPCs to suppress T-cell proliferation stimulated by allogeneic lymphocytes, dendritic cells, and phytohemagglutinin (PHA) is well documented <abbrgrp><abbr bid="B45">45</abbr><abbr bid="B46">46</abbr></abbrgrp>. The immunosuppressive properties of the MPCs derived from different tissue sources were tested in a lymphocyte proliferative assay by using human peripheral blood mononuclear cells (PBMCs) from healthy donors and stimulated with PHA, a mitogen. The addition of BM-MPCs, T-MPCs, M-MPCs, and DP-MPCs to the activated PBMCs inhibited the PHA-induced proliferative response of PBMCs (Figure <figr fid="F1">1d</figr>). The immunomodulatory activity of BM-MPCs was significantly more pronounced than that of T-MPCs, M-MPCs, or DP-MPCs (Figure <figr fid="F1">1d</figr>).</p>
+            </sec>
+         </sec>
+         <sec>
+            <st>
+               <p>Involvement of activin A in the regulation of mesenchymal progenitor cell properties</p>
+            </st>
+            <p>Given that the MPCs from the various tissue sources exhibit differences in terms of cell proliferation, multipotency, and immunomodulatory properties, we next examined the involvement of activin A by analyzing whether activin A (a) is expressed differentially in these MPC populations, (b) regulates MPC differentiation potential, and (c) regulates Sox2 expression in the MPCs.</p>
+            <sec>
+               <st>
+                  <p>Activin A distinguishes mesenchymal progenitor cells from different tissue sources</p>
+               </st>
+               <p>ELISA was used to quantify activin A secretion in the supernatants of MPCs derived from the four tissue sources. M-MPCs and BM-MPCs expressed the highest levels of activin A, whereas T-MPCs had the lowest level (Figure <figr fid="F1">1a</figr>). Next, the activin A:FS ratio was determined, because activin A bioactivity is also regulated by FS. Quantitative RT-PCR results showed that the activin A:FS level was also significantly lower in T-MPCs than in the other MPCs tested (Figure <figr fid="F1">1b</figr>).</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>Activin A expression levels regulate mesenchymal progenitor-cell differentiation potential</p>
+               </st>
+               <p>Because BM-MPCs exhibited high activin A expression level as well as the highest chondrogenic potential among the MPCs tested, we next determined the role of activin A in their multipotency by silencing of activin A in BM-MPCs. With the transfection protocol using 22.5 &#956;g of Cy3-conjugated control siRNA, a transfection efficiency of 91.66 &#177; 1.36% at day 2 and of 57.36 &#177; 3.27% at day 7 was achieved. BM-MPCs were transfected with either activin A or control siRNA oligonucleotides. Analysis of culture supernatants demonstrated that activin A siRNA transfection significantly reduced activin A level (0.81 &#177; 0.08 ng/ml) compared with the si Control (2.32 &#177; 1.12 ng/ml) (Figure <figr fid="F3">3a</figr>). Twenty-four hours after transfection with gene-specific designed siRNA against activin A or with the Control siRNA, BM-MPCs were induced to differentiate toward the chondrogenic, osteoblastic and adipocytic lineages. On activin A knockdown, BM-MPCs displayed decreased chondrogenic and osteogenic potentials. By day 21, BM-MPCs transduced with activin A siRNA, and induced to differentiate into chondrocytes, formed a pellet similar to the untransfected cells but with a reduced production of COL2 and AGN. Histologic staining showed a clear decrease in sulfated proteoglycan content and in fibrous collagen matrix, as assessed by alcian blue and Picrosirius red staining, respectively (Figure <figr fid="F3">3b</figr>). This observation was supported by the decrease in COL2 mRNA expression in pellets formed with activin A siRNA transfected cells, as assessed by quantitative RT-PCR (Figure <figr fid="F3">3c</figr>). BM-MPCs lacking activin A and induced to undergo osteogenesis also displayed decreased mRNA-expression levels of osteoblastic markers such as OC and ALP (Figure <figr fid="F3">3c</figr>).</p>
+               <fig id="F3">
+                  <title>
+                     <p>Figure 3</p>
+                  </title>
+                  <caption>
+                     <p>Role of activin A in MPC multipotency</p>
+                  </caption>
+                  <text>
+                     <p><b>Role of activin A in MPC multipotency</b>. BM-MPCs transiently transfected either with control siRNA or with activin A siRNA were analyzed. <b>(a) </b>Activin A secretion level in the supernatant of transfected BM-MPCs quantified by ELISA 3 days (D3) after transfection showed the efficiency of knockdown by using activin A siRNA. <b>(b, c) </b>Effect of activin A knockdown on BM-MPC and T-MPC chondrogenic potential. Chondrogenic differentiation was evaluated after 21 days in micropellet culture. <b>(b) </b>Immunohistochemical analysis of cartilage markers (COL2 and AGN) in pellet cultures of BM-MPCs and T-MPCs as well as alcian blue (AB) and picrosirius red (PS) staining revealed that, compared with the untransfected and Control siRNA, MPCs transfected with activin A siRNA exhibited less chondrogenic potential. <b>(c) </b>Quantitative RT-PCR also showed decreased expression of COL2 in MPCs transfected with activin A siRNA, compared with the cells transfected with control siRNA (c). <b>(b, c) </b>Effect of activin A knockdown on BM-MPC osteogenic potential. Both the expression levels of the osteogenic markers (OC and ALP), determined by quantitative RT-PCR, and alizarin red staining, revealed a decrease in the osteogenic activity of BM-MPCs with activin A knockdown. <b>(b, c) </b>Effect of activin A knockdown on BM-MPC adipogenic potential. Both expression levels of the adipogenic markers (PPAR-&#947; and LPL), determined by quantitative RT-PCR and oil red O staining, revealed an increase in the adipogenic potential of BM-MPCs with activin A knockdown, compared with BM-MPCs transfected with the irrelevant Control siRNA. RT-PCR data represent the mean &#177; SD of three independent experiments. *<it>P </it>&#8804; 0.05, versus Control siRNA.</p>
+                  </text>
+                  <graphic file="scrt11-3"/>
+               </fig>
+               <p>Activin A knockdown also affected matrix mineralization in osteogenically induced BM-MPCs compared with the untransfected cells (Figure <figr fid="F3">3b</figr>). Additionally, transfection of BM-MPCs with activin A siRNA enhanced their differentiation toward the adipocytic lineage. Compared with BM-MPCs transfected with the Control siRNA, activin A knockdown in BM-MPCs significantly increased the expression level of PPAR-&#947; and LPL (0.01 &#177; 0.007 to 0.03 &#177; 0.01 and 0.004 &#177; 0.001 to 0.08 &#177; 0.08, respectively) (Figure <figr fid="F3">3c</figr>). In summary, the transient knockdown of activin A in BM-MPCs at the early stages of the differentiation process appeared to stimulate adipogenesis while inhibiting chondrogenesis and osteogenesis.</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>Activin A increases Sox2 expression in BM-mesenchymal progenitor cells</p>
+               </st>
+               <p>Sox2, a transcription factor highly expressed in undifferentiated ES cells, has been shown to stabilize ES cells in a pluripotent state <abbrgrp><abbr bid="B47">47</abbr><abbr bid="B48">48</abbr></abbrgrp>. With Western blot analysis, we observed that although untreated MPCs expressed undetectable or low levels of Sox2 protein, its level increased 48 hours after the treatment with 10 ng/ml of activin A (Figure <figr fid="F4">4a</figr>).</p>
+               <fig id="F4">
+                  <title>
+                     <p>Figure 4</p>
+                  </title>
+                  <caption>
+                     <p>Relation between Sox2 expression levels and activin A:follistatin expression ratio in MPCs from different tissue sources</p>
+                  </caption>
+                  <text>
+                     <p><b>Relation between Sox2 expression levels and activin A:follistatin expression ratio in MPCs from different tissue sources</b>. <b>(a) </b>Western blot analysis of Sox2 expression in BM-MPCs, T-MPCs, M-MPCs, and DP-MPCs before and after a 48-hour treatment with 10 ng/ml of activin A. <b>(b) </b>Activin A:follistatin expression ratio determined by quantitative RT-PCR in BM-MPCs before (day 0 (0)) and after their differentiation along chondrogenic, osteogenic, and adipogenic lineages. <b>(c) </b>mRNA expression levels of Sox2 in undifferentiated (day 0 (0)) and chondro-, osteo- and adipo-differentiated BM-MPCs. The values at day 0 (0) corresponding to the mRNA ratio of activin A:follistatin <b>(b) </b>to the mRNA level of Sox2 <b>(c) </b>relative to GAPDH were assigned the values of 100% &#177; SD. *<it>P </it>&#8804; 0.05, versus Day 0.</p>
+                  </text>
+                  <graphic file="scrt11-4"/>
+               </fig>
+               <p>The activin A:follistatin ratio was assessed by using quantitative RT-PCR before and after the differentiation of BM-MPCs into chondrocytes, osteoblasts, and adipocytes. The activin A:follistatin ratio was significantly lower in all differentiated cells compared with undifferentiated BM-MPCs (Figure <figr fid="F4">4b</figr>). In a similar manner, the Sox2 mRNA expression level was also significantly decreased in the differentiated cells compared with undifferentiated BM-MPCs (Figure <figr fid="F4">4c</figr>).</p>
+            </sec>
+         </sec>
+      </sec>
+      <sec>
+         <st>
+            <p>Discussion</p>
+         </st>
+         <p>To realize the potential of MPCs in clinical applications, it is important to understand the biologic regulation of their multipotency. We attempted to gain insights into this by analyzing comparable MPCs derived from various tissue sources that have similar but non-identical characteristics and biologic activities, and we observed a requirement for activin A expression in the maintenance of MPC identity, as well as the regulation of MPC functions. Moreover, our findings strongly suggest the high potency of bone marrow-derived MPCs compared with MPCs from other tissue sources.</p>
+         <p>We showed that MPCs isolated from bone marrow, tonsil, muscle, and dental pulp all display phenotypic and functional properties that currently characterize MPCs. However, significant differences in activin A expression levels and, more important, in the activin A:follistatin ratios, which corroborate with MPC multipotency and immunosuppressive properties, were observed. Activins bind to the activin type IIA or type IIB receptors, leading to recruitment and phosphorylation of the activin type IB receptor, which in turn phosphorylates intracellular signaling proteins, Smad2 or Smad3. Activin A signaling is inhibited by extracellular action of follistatin, a soluble protein that functions as an activin-binding protein to prevent activin from interacting with its receptor. Activin A but not the activin A:follistatin ratio was significantly higher in M-MPCs compared with the other MPCs tested. In T-MPCs, both activin A level and activin A:follistatin ratio were significantly lower compared with the other MPCs. In parallel, we showed that the proliferative rate of T-MPCs was significantly higher compared with the other MPCs studied. This observation suggests that the endogenous high level of activin A might reduce the proliferation of BM-MPCs, M-MPCs, and DP-MPCs compared with that of T-MPCs. Although activin A is widely expressed by various cells, the effects of activin A are diverse, and cell type dependent. In general, activin A exerts antiproliferative effects on many cell types, including epithelial cells and vascular endothelial cells and lymphocytes <abbrgrp><abbr bid="B49">49</abbr><abbr bid="B50">50</abbr></abbrgrp>. However, several cell types, including fibroblast-like synoviocytes (FLS) and lung fibroblasts, proliferate in response to activin A <abbrgrp><abbr bid="B51">51</abbr><abbr bid="B52">52</abbr></abbrgrp>. In the study using FLS, the authors emphasized the differences between the amount of activin A produced by the FLS (&lt;1 ng/ml) and the amount of exogenous activin A necessary to promote FLS proliferation (250 ng/ml).</p>
+         <p>Besides cell growth, activin A has been widely studied for its role in cell differentiation. Several studies demonstrated a role for activins in bone metabolism. During differentiation and bone formation, osteoblasts produce a characteristic extracellular matrix that eventually undergoes mineralization. Although activin A has been described to promote osteoblastogenesis in murine bone marrow cultures and to enhance <it>in vivo </it>bone formation and fracture healing in rodents <abbrgrp><abbr bid="B27">27</abbr><abbr bid="B28">28</abbr><abbr bid="B29">29</abbr><abbr bid="B32">32</abbr></abbrgrp>, other reports described an inhibitory effect of activin on osteoblast differentiation in rat and murine osteoblasts <abbrgrp><abbr bid="B30">30</abbr><abbr bid="B31">31</abbr></abbrgrp>. These opposite effects of activin A in murine rodent models might be explained by the cell type used (that is, activin A is a potent regulator of osteogenesis with a positive effect on uncommitted progenitor cells and an inhibitory action on mature osteoblasts). This postulate is supported by the finding that activin A signaling in osteoblasts is tightly controlled in a differentiation-dependent manner <abbrgrp><abbr bid="B53">53</abbr></abbrgrp>. Mineralizing osteoblast cultures showed decreased activin A production. Activin A signaling controls human osteoblast differentiation and function and inhibits matrix mineralization through mechanisms that include altered extracellular matrix composition and maturation. The expression of activin A in bone, taken together with its effect on mineralization <it>in vitro</it>, strongly suggests a biologically important role for activin A in human osteoblast differentiation and bone metabolism <abbrgrp><abbr bid="B53">53</abbr></abbrgrp>. In this work, we observed that T-MPCs, with lower level of activin A expression compared with the other MPCs, also exhibit lower osteogenic potential, as shown by ALP activity and alizarin red staining. The involvement of activin A in the early events of osteogenesis is also supported by the effects of siRNA-mediated transient knockdown of activin A gene expression in BM-MPCs induced to undergo osteogenesis. Activin A knockdown reduced both the expression of osteoblast-specific markers and matrix mineralization at day 21. In addition, we showed that in BM-MPCs under osteogenic induction, the activin A:follistatin ratio was significantly decreased at the end of the differentiation period compared with day 0. An activin-dominant microenvironment thus appears to be critical for the early stage of osteoblastic differentiation. Compared with BM-MPCs, M-MPCs, and DP-MPCs, T-MPCs with the lowest activin A level also exhibit the lowest chondrogenic potential. In addition, we observed that activin A knockdown in BM-MPCs significantly affects their chondrogenic potential. The activin A expression level in MPCs thus appears to govern both their chondrogenic and osteogenic potential. Our study is consistent with previous studies showing that during skeletal development, activin A is involved early at the beginning of the cascade of events promoting mesenchymal condensations and thus chondrogenic/osteogenic differentiation <abbrgrp><abbr bid="B54">54</abbr><abbr bid="B55">55</abbr></abbrgrp>. At the early phase of adipogenesis, activin A treatment suppresses differentiation, which could be rescued with follistatin <abbrgrp><abbr bid="B34">34</abbr></abbrgrp>. This inhibitory effect of activin A on adipogenesis of progenitor cells acts through suppression of the adipocyte transcriptional factor cascade <abbrgrp><abbr bid="B33">33</abbr></abbrgrp>. Our results show that activin A knockdown in BM-MPCs undergoing adipogenic induction results in a significant increase in their adipogenic activity. Taken together, these observations raise the possibility that the activin A expression level in MPCs is a key determinant in their commitment to a specific mesenchymal lineage, and activin signaling and activin target genes might be crucial for controlling MPC multipotency.</p>
+         <p>Another functional characteristic of MPCs or mesenchymal stem cells (MSCs) is their capacity to inhibit the proliferation of activated T cells <abbrgrp><abbr bid="B45">45</abbr></abbrgrp>. The precise mechanisms underlying the immunosuppressive effect of MPCs/MSCs still remain to be clarified. The suppression of T-cell proliferation stimulated by allogeneic lymphocytes, dendritic cells, and mitogens, such as PHA or concanavalin A, has been well documented (for review, see <abbrgrp><abbr bid="B3">3</abbr></abbrgrp>). Although controversial results have been reported, more convergent data now suggest that MPCs/MSCs may act by suppressing the differentiation of monocytes into mature dendritic cells (DC) thus impairing the stimulation of T cells <abbrgrp><abbr bid="B46">46</abbr><abbr bid="B56">56</abbr><abbr bid="B57">57</abbr></abbrgrp>. Interestingly, in addition to its defined role in embryogenesis and erythroid cell differentiation in bone marrow, activin A has been shown to exert antiinflammatory effects <abbrgrp><abbr bid="B58">58</abbr><abbr bid="B59">59</abbr></abbrgrp>. Activin A was suggested to play a functional role in the suppression of inflammatory or immune processes <abbrgrp><abbr bid="B60">60</abbr></abbrgrp>. More recently, activin A has been described as a novel DC-derived cytokine that potently attenuates CD40 ligand-specific cytokine and chemokine production. Blocking autocrine activin-A signaling in DCs by using its antagonist, follistatin, enhanced production of DC cytokines (IL-6, IL-10, IL-12p70, and TNF-&#945;) <abbrgrp><abbr bid="B61">61</abbr></abbrgrp>. These correlations between activin A and immunosuppression support our data showing that lower level of activin A produced by T-MPCs, compared with other MPC types, corresponds to their significantly lower immunosuppressive potential. However, M-MPCs and DP-MPCs, with an activin A:follistatin ratio similar to that of BM-MPCs, are also significantly less immunosuppressive than BM-MPCs. This might be explained by the fact that whereas DC maturation inhibition is certainly a mechanism by which MPCs display suppressive activity, it probably is not the main mechanism.</p>
+         <p>In addition, in this report, we show that (a) MPCs express the embryonic transcription factor Sox2 at a very low level and that its expression is enhanced on treatment with 10 ng/ml of activin A; (b) M-MPCs exhibit higher expression levels of both activin A and Sox2 compared with BM-MPCs, T-MPCs, and DP-MPCs; and (c) the downregulation of the activin A:follistatin ratio in differentiated BM-MPCs parallels a reduction in Sox2 expression level. Recent findings with hESCs show that activin A induces the expression of Oct4, Nanog, Nodal, Wnt3, bFGF, and FGF8, and is necessary and sufficient for the maintenance of self-renewal and pluripotency of hESCs <abbrgrp><abbr bid="B19">19</abbr></abbrgrp>. In MSCs, Oct4 knockdown results in markedly decreased levels of Nanog and Sox2 expression <abbrgrp><abbr bid="B62">62</abbr></abbrgrp>. Together, these studies strongly suggest that activin A is a key regulator in the maintenance of pluripotency of stem cells acting upstream of the master embryonic transcription factors Oct4, Nanog, and Sox2.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Conclusions</p>
+         </st>
+         <p>MPCs are defined by their ability to give rise to mesodermal cell types. Multipotency in cultured MPCs derived from various tissues results from the integration of multiple signals to preserve this identity. In demonstrating a requirement of activin A, we have shown a novel candidate signaling mechanism for the maintenance of multipotency of MPCs.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Abbreviations</p>
+         </st>
+         <p>AB: alcian blue; AGN: aggrecan; ALP: alkaline phosphatase; BM: bone marrow; BMP: bone morphogenetic protein; CFUs: colony forming units; COL2: collagen type II; DC: dendritic cell; DMEM: Dulbecco's modified Eagle's medium; DP: dental pulp; ESC: embryonic stem cell; FACS: fluorescence-activated cell sorting; FBS: fetal bovine serum; FGF: fibroblast growth factor; FLS: fibroblast-like synoviocyte; FS: follistatin; GAPDH: glyceraldehyde-3 phosphate dehydrogenase; HBSS: Hank's balanced salt solution; IBMX: 3-isobutyl-1-methylxanthine; LPL: lipoprotein lipase; M: muscle; MEM: minimum essential medium; MPC: mesenchymal progenitor cell; MSC: mesenchymal stem cell; OC: osteocalcin; PBMC: peripheral blood mononuclear cell; PBS: phosphate-buffered saline; PHA: phytohemagglutinin; PPAR-&#947;: peroxisome proliferator-activated receptor-&#947;; T: palatine tonsil; TGF-&#946;: transforming growth factor-&#946;.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Competing interests</p>
+         </st>
+         <p>The authors declare that they have no competing interests.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Authors' contributions</p>
+         </st>
+         <p>FD performed experimental work and analyzed and prepared the data and manuscript. WMJ procured the M-MPCs. BEB helped with the siRNA transfection. SJ procured the T-MPCs. YS performed the histology and the immunohistochemistry. GTJH procured the D-MPCs. RST participated in the experimental design and data analysis, prepared the manuscript, and supervised the project. All authors read and approved the final manuscript.</p>
+      </sec>
+   </bdy>
+   <bm>
+      <ack>
+         <sec>
+            <st>
+               <p>Acknowledgements</p>
+            </st>
+            <p>This work was supported by the National Institute of Arthritis, and Musculoskeletal and Skin Diseases (NIAMS) Intramural Research Program, NIH (ZO1 AR 41131), and in part by R01 DE019156-01 (GTJH).</p>
+         </sec>
+      </ack>
+      <refgrp>
+         <bibl id="B1">
+            <title>
+               <p>Regenerative medicine through mesenchymal stem cells for bone and cartilage repair</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Noel</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Djouad</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Jorgense</snm>
+                  <fnm>C</fnm>
+               </au>
+            </aug>
+            <source>Curr Opin Investig Drugs</source>
+            <pubdate>2002</pubdate>
+            <volume>3</volume>
+            <fpage>1000</fpage>
+            <lpage>1004</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid">12186258</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B2">
+            <title>
+               <p>Potential of bone marrow stromal cells in applications for neuro-degenerative, neuro-traumatic and muscle degenerative diseases</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Dezawa</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Ishikawa</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Hoshino</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Itokazu</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Nabeshima</snm>
+                  <fnm>Y</fnm>
+               </au>
+            </aug>
+            <source>Curr Neuropharmacol</source>
+            <pubdate>2005</pubdate>
+            <volume>3</volume>
+            <fpage>257</fpage>
+            <lpage>266</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.2174/157015905774322507</pubid>
+                  <pubid idtype="pmcid">2268998</pubid>
+                  <pubid idtype="pmpid">18369401</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B3">
+            <title>
+               <p>Mesenchymal stem cells: clinical applications and biological characterization</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Barry</snm>
+                  <fnm>FP</fnm>
+               </au>
+               <au>
+                  <snm>Murphy</snm>
+                  <fnm>JM</fnm>
+               </au>
+            </aug>
+            <source>Int J Biochem Cell Biol</source>
+            <pubdate>2004</pubdate>
+            <volume>36</volume>
+            <fpage>568</fpage>
+            <lpage>584</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.biocel.2003.11.001</pubid>
+                  <pubid idtype="pmpid" link="fulltext">15010324</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B4">
+            <title>
+               <p>Multilineage potential of adult human mesenchymal stem cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Pittenger</snm>
+                  <fnm>MF</fnm>
+               </au>
+               <au>
+                  <snm>Mackay</snm>
+                  <fnm>AM</fnm>
+               </au>
+               <au>
+                  <snm>Beck</snm>
+                  <fnm>SC</fnm>
+               </au>
+               <au>
+                  <snm>Jaiswal</snm>
+                  <fnm>RK</fnm>
+               </au>
+               <au>
+                  <snm>Douglas</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Mosca</snm>
+                  <fnm>JD</fnm>
+               </au>
+               <au>
+                  <snm>Moorman</snm>
+                  <fnm>MA</fnm>
+               </au>
+               <au>
+                  <snm>Simonetti</snm>
+                  <fnm>DW</fnm>
+               </au>
+               <au>
+                  <snm>Craig</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Marshak</snm>
+                  <fnm>DR</fnm>
+               </au>
+            </aug>
+            <source>Science</source>
+            <pubdate>1999</pubdate>
+            <volume>284</volume>
+            <fpage>143</fpage>
+            <lpage>147</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1126/science.284.5411.143</pubid>
+                  <pubid idtype="pmpid" link="fulltext">10102814</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B5">
+            <title>
+               <p>Mesenchymal stromal cells: biology of adult mesenchymal stem cells: regulation of niche, self-renewal and differentiation</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Kolf</snm>
+                  <fnm>CM</fnm>
+               </au>
+               <au>
+                  <snm>Cho</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Tuan</snm>
+                  <fnm>RS</fnm>
+               </au>
+            </aug>
+            <source>Arthritis Res Ther</source>
+            <pubdate>2007</pubdate>
+            <volume>9</volume>
+            <fpage>204</fpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1186/ar2116</pubid>
+                  <pubid idtype="pmcid">1860068</pubid>
+                  <pubid idtype="pmpid">17316462</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B6">
+            <title>
+               <p>Multilineage mesenchymal differentiation potential of human trabecular bone-derived cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Noth</snm>
+                  <fnm>U</fnm>
+               </au>
+               <au>
+                  <snm>Osyczka</snm>
+                  <fnm>AM</fnm>
+               </au>
+               <au>
+                  <snm>Tuli</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Hickok</snm>
+                  <fnm>NJ</fnm>
+               </au>
+               <au>
+                  <snm>Danielson</snm>
+                  <fnm>KG</fnm>
+               </au>
+               <au>
+                  <snm>Tuan</snm>
+                  <fnm>RS</fnm>
+               </au>
+            </aug>
+            <source>J Orthop Res</source>
+            <pubdate>2002</pubdate>
+            <volume>20</volume>
+            <fpage>1060</fpage>
+            <lpage>1069</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/S0736-0266(02)00018-9</pubid>
+                  <pubid idtype="pmpid" link="fulltext">12382974</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B7">
+            <title>
+               <p>Adipogenic differentiation of human adult stem cells from bone marrow stroma (MSCs)</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Sekiya</snm>
+                  <fnm>I</fnm>
+               </au>
+               <au>
+                  <snm>Larson</snm>
+                  <fnm>BL</fnm>
+               </au>
+               <au>
+                  <snm>Vuoristo</snm>
+                  <fnm>JT</fnm>
+               </au>
+               <au>
+                  <snm>Cui</snm>
+                  <fnm>JG</fnm>
+               </au>
+               <au>
+                  <snm>Prockop</snm>
+                  <fnm>DJ</fnm>
+               </au>
+            </aug>
+            <source>J Bone Miner Res</source>
+            <pubdate>2004</pubdate>
+            <volume>19</volume>
+            <fpage>256</fpage>
+            <lpage>264</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1359/JBMR.0301220</pubid>
+                  <pubid idtype="pmpid" link="fulltext">14969395</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B8">
+            <title>
+               <p>Multilineage cells from human adipose tissue: implications for cell-based therapies</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Zuk</snm>
+                  <fnm>PA</fnm>
+               </au>
+               <au>
+                  <snm>Zhu</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Mizuno</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Huang</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Futrell</snm>
+                  <fnm>JW</fnm>
+               </au>
+               <au>
+                  <snm>Katz</snm>
+                  <fnm>AJ</fnm>
+               </au>
+               <au>
+                  <snm>Benhaim</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Lorenz</snm>
+                  <fnm>HP</fnm>
+               </au>
+               <au>
+                  <snm>Hedrick</snm>
+                  <fnm>MH</fnm>
+               </au>
+            </aug>
+            <source>Tissue Eng</source>
+            <pubdate>2001</pubdate>
+            <volume>7</volume>
+            <fpage>211</fpage>
+            <lpage>228</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1089/107632701300062859</pubid>
+                  <pubid idtype="pmpid" link="fulltext">11304456</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B9">
+            <title>
+               <p>Transcriptional profiles discriminate bone marrow-derived and synovium-derived mesenchymal stem cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Djouad</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Bony</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Haupl</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Uze</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Lahlou</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Louis-Plence</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Apparailly</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Canovas</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Reme</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Sany</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Jorgensen</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Noel</snm>
+                  <fnm>D</fnm>
+               </au>
+            </aug>
+            <source>Arthritis Res Ther</source>
+            <pubdate>2005</pubdate>
+            <volume>7</volume>
+            <fpage>R1304</fpage>
+            <lpage>1315</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1186/ar1827</pubid>
+                  <pubid idtype="pmcid">1297577</pubid>
+                  <pubid idtype="pmpid">16277684</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B10">
+            <title>
+               <p>Multipotent mesenchymal stem cells from adult human synovial membrane</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>De Bari</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Dell'Accio</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Tylzanowski</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Luyten</snm>
+                  <fnm>FP</fnm>
+               </au>
+            </aug>
+            <source>Arthritis Rheum</source>
+            <pubdate>2001</pubdate>
+            <volume>44</volume>
+            <fpage>1928</fpage>
+            <lpage>1942</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1002/1529-0131(200108)44:8&lt;1928::AID-ART331>3.0.CO;2-P</pubid>
+                  <pubid idtype="pmpid" link="fulltext">11508446</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B11">
+            <title>
+               <p>Isolation and characterization of neurogenic mesenchymal stem cells in human scalp tissue</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Shih</snm>
+                  <fnm>DT</fnm>
+               </au>
+               <au>
+                  <snm>Lee</snm>
+                  <fnm>DC</fnm>
+               </au>
+               <au>
+                  <snm>Chen</snm>
+                  <fnm>SC</fnm>
+               </au>
+               <au>
+                  <snm>Tsai</snm>
+                  <fnm>RY</fnm>
+               </au>
+               <au>
+                  <snm>Huang</snm>
+                  <fnm>CT</fnm>
+               </au>
+               <au>
+                  <snm>Tsai</snm>
+                  <fnm>CC</fnm>
+               </au>
+               <au>
+                  <snm>Shen</snm>
+                  <fnm>EY</fnm>
+               </au>
+               <au>
+                  <snm>Chiu</snm>
+                  <fnm>WT</fnm>
+               </au>
+            </aug>
+            <source>Stem Cells</source>
+            <pubdate>2005</pubdate>
+            <volume>23</volume>
+            <fpage>1012</fpage>
+            <lpage>1020</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1634/stemcells.2004-0125</pubid>
+                  <pubid idtype="pmpid" link="fulltext">15941858</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B12">
+            <title>
+               <p>Isolation and phenotypical characterization of mesenchymal stem cells from human fetal thymus</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Rzhaninova</snm>
+                  <fnm>AA</fnm>
+               </au>
+               <au>
+                  <snm>Gornostaeva</snm>
+                  <fnm>SN</fnm>
+               </au>
+               <au>
+                  <snm>Goldshtein</snm>
+                  <fnm>DV</fnm>
+               </au>
+            </aug>
+            <source>Bull Exp Biol Med</source>
+            <pubdate>2005</pubdate>
+            <volume>139</volume>
+            <fpage>134</fpage>
+            <lpage>140</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1007/s10517-005-0231-4</pubid>
+                  <pubid idtype="pmpid">16142296</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B13">
+            <title>
+               <p>Stem cells in the periodontal ligament</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Ivanovski</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Gronthos</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Shi</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Bartold</snm>
+                  <fnm>PM</fnm>
+               </au>
+            </aug>
+            <source>Oral Dis</source>
+            <pubdate>2006</pubdate>
+            <volume>12</volume>
+            <fpage>358</fpage>
+            <lpage>363</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1111/j.1601-0825.2006.01253.x</pubid>
+                  <pubid idtype="pmpid" link="fulltext">16792719</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B14">
+            <title>
+               <p>Isolation of multipotent mesenchymal stem cells from umbilical cord blood</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Lee</snm>
+                  <fnm>OK</fnm>
+               </au>
+               <au>
+                  <snm>Kuo</snm>
+                  <fnm>TK</fnm>
+               </au>
+               <au>
+                  <snm>Chen</snm>
+                  <fnm>WM</fnm>
+               </au>
+               <au>
+                  <snm>Lee</snm>
+                  <fnm>KD</fnm>
+               </au>
+               <au>
+                  <snm>Hsieh</snm>
+                  <fnm>SL</fnm>
+               </au>
+               <au>
+                  <snm>Chen</snm>
+                  <fnm>TH</fnm>
+               </au>
+            </aug>
+            <source>Blood</source>
+            <pubdate>2004</pubdate>
+            <volume>103</volume>
+            <fpage>1669</fpage>
+            <lpage>1675</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1182/blood-2003-05-1670</pubid>
+                  <pubid idtype="pmpid" link="fulltext">14576065</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B15">
+            <title>
+               <p>Human umbilical cord perivascular (HUCPV) cells: a source of mesenchymal progenitors</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Sarugaser</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Lickorish</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Baksh</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Hosseini</snm>
+                  <fnm>MM</fnm>
+               </au>
+               <au>
+                  <snm>Davies</snm>
+                  <fnm>JE</fnm>
+               </au>
+            </aug>
+            <source>Stem Cells</source>
+            <pubdate>2005</pubdate>
+            <volume>23</volume>
+            <fpage>220</fpage>
+            <lpage>229</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1634/stemcells.2004-0166</pubid>
+                  <pubid idtype="pmpid" link="fulltext">15671145</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B16">
+            <title>
+               <p>Human palatine tonsil: a new potential tissue source of multipotent mesenchymal progenitor cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Janjanin</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Djouad</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Shanti</snm>
+                  <fnm>RM</fnm>
+               </au>
+               <au>
+                  <snm>Baksh</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Gollapudi</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Prgomet</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Rackwitz</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Joshi</snm>
+                  <fnm>AS</fnm>
+               </au>
+               <au>
+                  <snm>Tuan</snm>
+                  <fnm>RS</fnm>
+               </au>
+            </aug>
+            <source>Arthritis Res Ther</source>
+            <pubdate>2008</pubdate>
+            <volume>10</volume>
+            <fpage>R83</fpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1186/ar2459</pubid>
+                  <pubid idtype="pmcid">2575631</pubid>
+                  <pubid idtype="pmpid">18662393</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B17">
+            <title>
+               <p>Isolation of multipotent cells from human term placenta</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Yen</snm>
+                  <fnm>BL</fnm>
+               </au>
+               <au>
+                  <snm>Huang</snm>
+                  <fnm>HI</fnm>
+               </au>
+               <au>
+                  <snm>Chien</snm>
+                  <fnm>CC</fnm>
+               </au>
+               <au>
+                  <snm>Jui</snm>
+                  <fnm>HY</fnm>
+               </au>
+               <au>
+                  <snm>Ko</snm>
+                  <fnm>BS</fnm>
+               </au>
+               <au>
+                  <snm>Yao</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Shun</snm>
+                  <fnm>CT</fnm>
+               </au>
+               <au>
+                  <snm>Yen</snm>
+                  <fnm>ML</fnm>
+               </au>
+               <au>
+                  <snm>Lee</snm>
+                  <fnm>MC</fnm>
+               </au>
+               <au>
+                  <snm>Chen</snm>
+                  <fnm>YC</fnm>
+               </au>
+            </aug>
+            <source>Stem Cells</source>
+            <pubdate>2005</pubdate>
+            <volume>23</volume>
+            <fpage>3</fpage>
+            <lpage>9</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1634/stemcells.2004-0098</pubid>
+                  <pubid idtype="pmpid" link="fulltext">15625118</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B18">
+            <title>
+               <p>TGFbeta/activin/nodal signaling is necessary for the maintenance of pluripotency in human embryonic stem cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>James</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Levine</snm>
+                  <fnm>AJ</fnm>
+               </au>
+               <au>
+                  <snm>Besser</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Hemmati-Brivanlou</snm>
+                  <fnm>A</fnm>
+               </au>
+            </aug>
+            <source>Development</source>
+            <pubdate>2005</pubdate>
+            <volume>132</volume>
+            <fpage>1273</fpage>
+            <lpage>1282</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1242/dev.01706</pubid>
+                  <pubid idtype="pmpid" link="fulltext">15703277</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B19">
+            <title>
+               <p>Activin A maintains self-renewal and regulates fibroblast growth factor, Wnt, and bone morphogenic protein pathways in human embryonic stem cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Xiao</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Yuan</snm>
+                  <fnm>X</fnm>
+               </au>
+               <au>
+                  <snm>Sharkis</snm>
+                  <fnm>SJ</fnm>
+               </au>
+            </aug>
+            <source>Stem Cells</source>
+            <pubdate>2006</pubdate>
+            <volume>24</volume>
+            <fpage>1476</fpage>
+            <lpage>1486</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1634/stemcells.2005-0299</pubid>
+                  <pubid idtype="pmpid" link="fulltext">16456129</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B20">
+            <title>
+               <p>Production of activin A and its roles in inflammation and hematopoiesis</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Yu</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Dolter</snm>
+                  <fnm>KE</fnm>
+               </au>
+            </aug>
+            <source>Cytokines Cell Mol Ther</source>
+            <pubdate>1997</pubdate>
+            <volume>3</volume>
+            <fpage>169</fpage>
+            <lpage>177</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid">9426975</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B21">
+            <title>
+               <p>The N-myc oncogene in human neuroblastoma cells: down-regulation of an angiogenesis inhibitor identified as activin A</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Breit</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Ashman</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Wilting</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Rossler</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Hatzi</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Fotsis</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Schweigerer</snm>
+                  <fnm>L</fnm>
+               </au>
+            </aug>
+            <source>Cancer Res</source>
+            <pubdate>2000</pubdate>
+            <volume>60</volume>
+            <fpage>4596</fpage>
+            <lpage>4601</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid" link="fulltext">10969812</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B22">
+            <title>
+               <p>Purification and characterization of erythroid differentiation factor (EDF) isolated from human leukemia cell line THP-1</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Eto</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Tsuji</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Takezawa</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Takano</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Yokogawa</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Shibai</snm>
+                  <fnm>H</fnm>
+               </au>
+            </aug>
+            <source>Biochem Biophys Res Commun</source>
+            <pubdate>1987</pubdate>
+            <volume>142</volume>
+            <fpage>1095</fpage>
+            <lpage>1103</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/0006-291X(87)91528-2</pubid>
+                  <pubid idtype="pmpid" link="fulltext">3470005</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B23">
+            <title>
+               <p>Activin-binding protein from rat ovary is follistatin</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Nakamura</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Takio</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Eto</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Shibai</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Titani</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Sugino</snm>
+                  <fnm>H</fnm>
+               </au>
+            </aug>
+            <source>Science</source>
+            <pubdate>1990</pubdate>
+            <volume>247</volume>
+            <fpage>836</fpage>
+            <lpage>838</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1126/science.2106159</pubid>
+                  <pubid idtype="pmpid" link="fulltext">2106159</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B24">
+            <title>
+               <p>Rat follistatin: gonadal and extragonadal expression and evidence for alternative splicing</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Michel</snm>
+                  <fnm>U</fnm>
+               </au>
+               <au>
+                  <snm>Albiston</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Findlay</snm>
+                  <fnm>JK</fnm>
+               </au>
+            </aug>
+            <source>Biochem Biophys Res Commun</source>
+            <pubdate>1990</pubdate>
+            <volume>173</volume>
+            <fpage>401</fpage>
+            <lpage>407</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/S0006-291X(05)81072-1</pubid>
+                  <pubid idtype="pmpid" link="fulltext">1979488</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B25">
+            <title>
+               <p>Detection of functional and dimeric activin A in human marrow microenvironment: implications for the modulation of erythropoiesis</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Yu</snm>
+                  <fnm>AW</fnm>
+               </au>
+               <au>
+                  <snm>Shao</snm>
+                  <fnm>LE</fnm>
+               </au>
+               <au>
+                  <snm>Frigon</snm>
+                  <fnm>NL</fnm>
+                  <suf>Jr</suf>
+               </au>
+               <au>
+                  <snm>Yu</snm>
+                  <fnm>J</fnm>
+               </au>
+            </aug>
+            <source>Ann N Y Acad Sci</source>
+            <pubdate>1994</pubdate>
+            <volume>718</volume>
+            <fpage>285</fpage>
+            <lpage>298</lpage>
+            <note>discussion 298-289</note>
+            <xrefbib>
+               <pubid idtype="pmpid" link="fulltext">8185235</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B26">
+            <title>
+               <p>Role of transforming growth factor-beta in bone remodeling</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Bonewald</snm>
+                  <fnm>LF</fnm>
+               </au>
+               <au>
+                  <snm>Mundy</snm>
+                  <fnm>GR</fnm>
+               </au>
+            </aug>
+            <source>Clin Orthop Relat Res</source>
+            <pubdate>1990</pubdate>
+            <volume>250</volume>
+            <fpage>261</fpage>
+            <lpage>276</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid">2403492</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B27">
+            <title>
+               <p>Activin A increases the bone mass of grafted bone in C3H/HeJ mice</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Hirotani</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Ohtsuka-Isoya</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Mori</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Sakai</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Eto</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Echigo</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Shinoda</snm>
+                  <fnm>H</fnm>
+               </au>
+            </aug>
+            <source>Calcif Tissue Int</source>
+            <pubdate>2002</pubdate>
+            <volume>70</volume>
+            <fpage>330</fpage>
+            <lpage>338</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1007/s00223-001-2037-3</pubid>
+                  <pubid idtype="pmpid" link="fulltext">12004338</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B28">
+            <title>
+               <p>Bovine bone activin enhances bone morphogenetic protein-induced ectopic bone formation</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Ogawa</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Schmidt</snm>
+                  <fnm>DK</fnm>
+               </au>
+               <au>
+                  <snm>Nathan</snm>
+                  <fnm>RM</fnm>
+               </au>
+               <au>
+                  <snm>Armstrong</snm>
+                  <fnm>RM</fnm>
+               </au>
+               <au>
+                  <snm>Miller</snm>
+                  <fnm>KL</fnm>
+               </au>
+               <au>
+                  <snm>Sawamura</snm>
+                  <fnm>SJ</fnm>
+               </au>
+               <au>
+                  <snm>Ziman</snm>
+                  <fnm>JM</fnm>
+               </au>
+               <au>
+                  <snm>Erickson</snm>
+                  <fnm>KL</fnm>
+               </au>
+               <au>
+                  <snm>de Leon</snm>
+                  <fnm>ER</fnm>
+               </au>
+               <au>
+                  <snm>Rosen</snm>
+                  <fnm>DM</fnm>
+               </au>
+               <etal/>
+            </aug>
+            <source>J Biol Chem</source>
+            <pubdate>1992</pubdate>
+            <volume>267</volume>
+            <fpage>14233</fpage>
+            <lpage>14237</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid" link="fulltext">1629219</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B29">
+            <title>
+               <p>Inhibin suppresses and activin stimulates osteoblastogenesis and osteoclastogenesis in murine bone marrow cultures</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Gaddy-Kurten</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Coker</snm>
+                  <fnm>JK</fnm>
+               </au>
+               <au>
+                  <snm>Abe</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Jilka</snm>
+                  <fnm>RL</fnm>
+               </au>
+               <au>
+                  <snm>Manolagas</snm>
+                  <fnm>SC</fnm>
+               </au>
+            </aug>
+            <source>Endocrinology</source>
+            <pubdate>2002</pubdate>
+            <volume>143</volume>
+            <fpage>74</fpage>
+            <lpage>83</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1210/en.143.1.74</pubid>
+                  <pubid idtype="pmpid" link="fulltext">11751595</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B30">
+            <title>
+               <p>Functional regulation of osteoblastic cells by the interaction of activin-A with follistatin</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Hashimoto</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Shoda</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Inoue</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Yamada</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Kondo</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Sakurai</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Ueno</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Muramatsu</snm>
+                  <fnm>M</fnm>
+               </au>
+            </aug>
+            <source>J Biol Chem</source>
+            <pubdate>1992</pubdate>
+            <volume>267</volume>
+            <fpage>4999</fpage>
+            <lpage>5004</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid" link="fulltext">1537876</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B31">
+            <title>
+               <p>Inhibitory effects of activin-A on osteoblast differentiation during cultures of fetal rat calvarial cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Ikenoue</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Jingushi</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Urabe</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Okazaki</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Iwamoto</snm>
+                  <fnm>Y</fnm>
+               </au>
+            </aug>
+            <source>J Cell Biochem</source>
+            <pubdate>1999</pubdate>
+            <volume>75</volume>
+            <fpage>206</fpage>
+            <lpage>214</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1002/(SICI)1097-4644(19991101)75:2&lt;206::AID-JCB3>3.0.CO;2-T</pubid>
+                  <pubid idtype="pmpid" link="fulltext">10502293</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B32">
+            <title>
+               <p>Local administration of activin promotes fracture healing in the rat fibula fracture model</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Sakai</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Miwa</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Eto</snm>
+                  <fnm>Y</fnm>
+               </au>
+            </aug>
+            <source>Bone</source>
+            <pubdate>1999</pubdate>
+            <volume>25</volume>
+            <fpage>191</fpage>
+            <lpage>196</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/S8756-3282(99)00152-0</pubid>
+                  <pubid idtype="pmpid" link="fulltext">10456384</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B33">
+            <title>
+               <p>Changes in extracellular activin A:follistatin ratio during differentiation of a mesenchymal progenitor cell line, ROB-C26 into osteoblasts and adipocytes</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Kawabata</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Kamiya</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Suzuki</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Matsumoto</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Takagi</snm>
+                  <fnm>M</fnm>
+               </au>
+            </aug>
+            <source>Life Sci</source>
+            <pubdate>2007</pubdate>
+            <volume>81</volume>
+            <fpage>8</fpage>
+            <lpage>18</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.lfs.2007.04.011</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17512555</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B34">
+            <title>
+               <p>Follistatin rescues the inhibitory effect of activin A on the differentiation of bovine preadipocyte</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Hirai</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Matsumoto</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Moriya</snm>
+                  <fnm>NH</fnm>
+               </au>
+               <au>
+                  <snm>Kawachi</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Yano</snm>
+                  <fnm>H</fnm>
+               </au>
+            </aug>
+            <source>Domest Anim Endocrinol</source>
+            <pubdate>2007</pubdate>
+            <volume>33</volume>
+            <fpage>269</fpage>
+            <lpage>280</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.domaniend.2006.06.001</pubid>
+                  <pubid idtype="pmpid" link="fulltext">16829013</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B35">
+            <title>
+               <p>Activin enhances chondrogenesis of limb bud cells: stimulation of precartilaginous mesenchymal condensations and expression of NCAM</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Jiang</snm>
+                  <fnm>TX</fnm>
+               </au>
+               <au>
+                  <snm>Yi</snm>
+                  <fnm>JR</fnm>
+               </au>
+               <au>
+                  <snm>Ying</snm>
+                  <fnm>SY</fnm>
+               </au>
+               <au>
+                  <snm>Chuong</snm>
+                  <fnm>CM</fnm>
+               </au>
+            </aug>
+            <source>Dev Biol</source>
+            <pubdate>1993</pubdate>
+            <volume>155</volume>
+            <fpage>545</fpage>
+            <lpage>557</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1006/dbio.1993.1051</pubid>
+                  <pubid idtype="pmpid" link="fulltext">7679361</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B36">
+            <title>
+               <p>Expression of inhibin/activin subunit messenger ribonucleic acids during rat embryogenesis</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Roberts</snm>
+                  <fnm>VJ</fnm>
+               </au>
+               <au>
+                  <snm>Sawchenko</snm>
+                  <fnm>PE</fnm>
+               </au>
+               <au>
+                  <snm>Vale</snm>
+                  <fnm>W</fnm>
+               </au>
+            </aug>
+            <source>Endocrinology</source>
+            <pubdate>1991</pubdate>
+            <volume>128</volume>
+            <fpage>3122</fpage>
+            <lpage>3129</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1210/endo-128-6-3122</pubid>
+                  <pubid idtype="pmpid" link="fulltext">2036981</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B37">
+            <title>
+               <p>Human marrow-derived mesenchymal progenitor cells: isolation, culture expansion, and analysis of differentiation</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Caterson</snm>
+                  <fnm>EJ</fnm>
+               </au>
+               <au>
+                  <snm>Nesti</snm>
+                  <fnm>LJ</fnm>
+               </au>
+               <au>
+                  <snm>Danielson</snm>
+                  <fnm>KG</fnm>
+               </au>
+               <au>
+                  <snm>Tuan</snm>
+                  <fnm>RS</fnm>
+               </au>
+            </aug>
+            <source>Mol Biotechnol</source>
+            <pubdate>2002</pubdate>
+            <volume>20</volume>
+            <fpage>245</fpage>
+            <lpage>256</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1385/MB:20:3:245</pubid>
+                  <pubid idtype="pmpid" link="fulltext">11936255</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B38">
+            <title>
+               <p>Differentiation potential of multipotent progenitor cells derived from war-traumatized muscle tissue</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Nesti</snm>
+                  <fnm>LJ</fnm>
+               </au>
+               <au>
+                  <snm>Jackson</snm>
+                  <fnm>WM</fnm>
+               </au>
+               <au>
+                  <snm>Shanti</snm>
+                  <fnm>RM</fnm>
+               </au>
+               <au>
+                  <snm>Koehler</snm>
+                  <fnm>SM</fnm>
+               </au>
+               <au>
+                  <snm>Aragon</snm>
+                  <fnm>AB</fnm>
+               </au>
+               <au>
+                  <snm>Bailey</snm>
+                  <fnm>JR</fnm>
+               </au>
+               <au>
+                  <snm>Sracic</snm>
+                  <fnm>MK</fnm>
+               </au>
+               <au>
+                  <snm>Freedman</snm>
+                  <fnm>BA</fnm>
+               </au>
+               <au>
+                  <snm>Giuliani</snm>
+                  <fnm>JR</fnm>
+               </au>
+               <au>
+                  <snm>Tuan</snm>
+                  <fnm>RS</fnm>
+               </au>
+            </aug>
+            <source>J Bone Joint Surg Am</source>
+            <pubdate>2008</pubdate>
+            <volume>90</volume>
+            <fpage>2390</fpage>
+            <lpage>2398</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.2106/JBJS.H.00049</pubid>
+                  <pubid idtype="pmcid">2657299</pubid>
+                  <pubid idtype="pmpid">18978407</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B39">
+            <title>
+               <p>Mesenchymal progenitor cells derived from traumatized human muscle</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Jackson</snm>
+                  <fnm>WM</fnm>
+               </au>
+               <au>
+                  <snm>Aragon</snm>
+                  <fnm>AB</fnm>
+               </au>
+               <au>
+                  <snm>Djouad</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Song</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Koehler</snm>
+                  <fnm>SM</fnm>
+               </au>
+               <au>
+                  <snm>Nesti</snm>
+                  <fnm>LJ</fnm>
+               </au>
+               <au>
+                  <snm>Tuan</snm>
+                  <fnm>RS</fnm>
+               </au>
+            </aug>
+            <source>J Tissue Eng Regen Med</source>
+            <pubdate>2009</pubdate>
+            <volume>3</volume>
+            <fpage>129</fpage>
+            <lpage>138</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1002/term.149</pubid>
+                  <pubid idtype="pmcid">2814161</pubid>
+                  <pubid idtype="pmpid">19170141</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B40">
+            <title>
+               <p>Postnatal human dental pulp stem cells (DPSCs) in vitro and in vivo</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Gronthos</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Mankani</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Brahim</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Robey</snm>
+                  <fnm>PG</fnm>
+               </au>
+               <au>
+                  <snm>Shi</snm>
+                  <fnm>S</fnm>
+               </au>
+            </aug>
+            <source>Proc Natl Acad Sci USA</source>
+            <pubdate>2000</pubdate>
+            <volume>97</volume>
+            <fpage>13625</fpage>
+            <lpage>13630</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1073/pnas.240309797</pubid>
+                  <pubid idtype="pmcid">17626</pubid>
+                  <pubid idtype="pmpid">11087820</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B41">
+            <title>
+               <p>In vitro characterization of human dental pulp cells: various isolation methods and culturing environments</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Huang</snm>
+                  <fnm>GT</fnm>
+               </au>
+               <au>
+                  <snm>Sonoyama</snm>
+                  <fnm>W</fnm>
+               </au>
+               <au>
+                  <snm>Chen</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Park</snm>
+                  <fnm>SH</fnm>
+               </au>
+            </aug>
+            <source>Cell Tissue Res</source>
+            <pubdate>2006</pubdate>
+            <volume>324</volume>
+            <fpage>225</fpage>
+            <lpage>236</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1007/s00441-005-0117-9</pubid>
+                  <pubid idtype="pmpid" link="fulltext">16440193</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B42">
+            <title>
+               <p>Glucosamine promotes chondrogenic phenotype in both chondrocytes and mesenchymal stem cells and inhibits MMP-13 expression and matrix degradation</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Derfoul</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Miyoshi</snm>
+                  <fnm>AD</fnm>
+               </au>
+               <au>
+                  <snm>Freeman</snm>
+                  <fnm>DE</fnm>
+               </au>
+               <au>
+                  <snm>Tuan</snm>
+                  <fnm>RS</fnm>
+               </au>
+            </aug>
+            <source>Osteoarthritis Cartilage</source>
+            <pubdate>2007</pubdate>
+            <volume>15</volume>
+            <fpage>646</fpage>
+            <lpage>655</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.joca.2007.01.014</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17337215</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B43">
+            <title>
+               <p>Nonexpanded primary lung and bone marrow-derived mesenchymal cells promote the engraftment of umbilical cord blood-derived CD34(+) cells in NOD/SCID mice</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>in 't Anker</snm>
+                  <fnm>PS</fnm>
+               </au>
+               <au>
+                  <snm>Noort</snm>
+                  <fnm>WA</fnm>
+               </au>
+               <au>
+                  <snm>Kruisselbrink</snm>
+                  <fnm>AB</fnm>
+               </au>
+               <au>
+                  <snm>Scherjon</snm>
+                  <fnm>SA</fnm>
+               </au>
+               <au>
+                  <snm>Beekhuizen</snm>
+                  <fnm>W</fnm>
+               </au>
+               <au>
+                  <snm>Willemze</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Kanhai</snm>
+                  <fnm>HH</fnm>
+               </au>
+               <au>
+                  <snm>Fibbe</snm>
+                  <fnm>WE</fnm>
+               </au>
+            </aug>
+            <source>Exp Hematol</source>
+            <pubdate>2003</pubdate>
+            <volume>31</volume>
+            <fpage>881</fpage>
+            <lpage>889</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/S0301-472X(03)00202-9</pubid>
+                  <pubid idtype="pmpid" link="fulltext">14550803</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B44">
+            <title>
+               <p>Modulation of immune responses by mesenchymal stem cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Fibbe</snm>
+                  <fnm>WE</fnm>
+               </au>
+               <au>
+                  <snm>Nauta</snm>
+                  <fnm>AJ</fnm>
+               </au>
+               <au>
+                  <snm>Roelofs</snm>
+                  <fnm>H</fnm>
+               </au>
+            </aug>
+            <source>Ann N Y Acad Sci</source>
+            <pubdate>2007</pubdate>
+            <volume>1106</volume>
+            <fpage>272</fpage>
+            <lpage>278</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1196/annals.1392.025</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17442776</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B45">
+            <title>
+               <p>Immunosuppressive effect of mesenchymal stem cells favors tumor growth in allogeneic animals</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Djouad</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Plence</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Bony</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Tropel</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Apparailly</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Sany</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Noel</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Jorgensen</snm>
+                  <fnm>C</fnm>
+               </au>
+            </aug>
+            <source>Blood</source>
+            <pubdate>2003</pubdate>
+            <volume>102</volume>
+            <fpage>3837</fpage>
+            <lpage>3844</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1182/blood-2003-04-1193</pubid>
+                  <pubid idtype="pmpid" link="fulltext">12881305</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B46">
+            <title>
+               <p>Mesenchymal stem cells inhibit the differentiation of dendritic cells through an interleukin-6-dependent mechanism</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Djouad</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Charbonnier</snm>
+                  <fnm>LM</fnm>
+               </au>
+               <au>
+                  <snm>Bouffi</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Louis-Plence</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Bony</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Apparailly</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Cantos</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Jorgensen</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Noel</snm>
+                  <fnm>D</fnm>
+               </au>
+            </aug>
+            <source>Stem Cells</source>
+            <pubdate>2007</pubdate>
+            <volume>25</volume>
+            <fpage>2025</fpage>
+            <lpage>2032</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1634/stemcells.2006-0548</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17510220</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B47">
+            <title>
+               <p>Pluripotency governed by Sox2 via regulation of Oct3/4 expression in mouse embryonic stem cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Masui</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Nakatake</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Toyooka</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Shimosato</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Yagi</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Takahashi</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Okochi</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Okuda</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Matoba</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Sharov</snm>
+                  <fnm>AA</fnm>
+               </au>
+               <au>
+                  <snm>Ko</snm>
+                  <fnm>MS</fnm>
+               </au>
+               <au>
+                  <snm>Niwa</snm>
+                  <fnm>H</fnm>
+               </au>
+            </aug>
+            <source>Nat Cell Biol</source>
+            <pubdate>2007</pubdate>
+            <volume>9</volume>
+            <fpage>625</fpage>
+            <lpage>635</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/ncb1589</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17515932</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B48">
+            <title>
+               <p>How is pluripotency determined and maintained?</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Niwa</snm>
+                  <fnm>H</fnm>
+               </au>
+            </aug>
+            <source>Development</source>
+            <pubdate>2007</pubdate>
+            <volume>134</volume>
+            <fpage>635</fpage>
+            <lpage>646</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1242/dev.02787</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17215298</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B49">
+            <title>
+               <p>Inhibition of vascular endothelial cell growth by activin-A</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>McCarthy</snm>
+                  <fnm>SA</fnm>
+               </au>
+               <au>
+                  <snm>Bicknell</snm>
+                  <fnm>R</fnm>
+               </au>
+            </aug>
+            <source>J Biol Chem</source>
+            <pubdate>1993</pubdate>
+            <volume>268</volume>
+            <fpage>23066</fpage>
+            <lpage>23071</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid" link="fulltext">8226823</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B50">
+            <title>
+               <p>Regulation of cell proliferation, apoptosis, and carcinogenesis by activin</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Chen</snm>
+                  <fnm>YG</fnm>
+               </au>
+               <au>
+                  <snm>Lui</snm>
+                  <fnm>HM</fnm>
+               </au>
+               <au>
+                  <snm>Lin</snm>
+                  <fnm>SL</fnm>
+               </au>
+               <au>
+                  <snm>Lee</snm>
+                  <fnm>JM</fnm>
+               </au>
+               <au>
+                  <snm>Ying</snm>
+                  <fnm>SY</fnm>
+               </au>
+            </aug>
+            <source>Exp Biol Med (Maywood)</source>
+            <pubdate>2002</pubdate>
+            <volume>227</volume>
+            <fpage>75</fpage>
+            <lpage>87</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid" link="fulltext">11815670</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B51">
+            <title>
+               <p>Activin A induces cell proliferation of fibroblast-like synoviocytes in rheumatoid arthritis</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Ota</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Maeshima</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Yamashita</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Ikeuchi</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Kaneko</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Kuroiwa</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Hiromura</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Ueki</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Kojima</snm>
+                  <fnm>I</fnm>
+               </au>
+               <au>
+                  <snm>Nojima</snm>
+                  <fnm>Y</fnm>
+               </au>
+            </aug>
+            <source>Arthritis Rheum</source>
+            <pubdate>2003</pubdate>
+            <volume>48</volume>
+            <fpage>2442</fpage>
+            <lpage>2449</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1002/art.11249</pubid>
+                  <pubid idtype="pmpid" link="fulltext">13130463</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B52">
+            <title>
+               <p>Effects of activin A on proliferation and differentiation of human lung fibroblasts</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Ohga</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Matsuse</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Teramoto</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Katayama</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Nagase</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Fukuchi</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Ouchi</snm>
+                  <fnm>Y</fnm>
+               </au>
+            </aug>
+            <source>Biochem Biophys Res Commun</source>
+            <pubdate>1996</pubdate>
+            <volume>228</volume>
+            <fpage>391</fpage>
+            <lpage>396</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1006/bbrc.1996.1672</pubid>
+                  <pubid idtype="pmpid" link="fulltext">8920925</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B53">
+            <title>
+               <p>The activin A-follistatin system: potent regulator of human extracellular matrix mineralization</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Eijken</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Swagemakers</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Koedam</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Steenbergen</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Derkx</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Uitterlinden</snm>
+                  <fnm>AG</fnm>
+               </au>
+               <au>
+                  <snm>Spek</snm>
+                  <mnm>van der</mnm>
+                  <fnm>PJ</fnm>
+               </au>
+               <au>
+                  <snm>Visser</snm>
+                  <fnm>JA</fnm>
+               </au>
+               <au>
+                  <snm>de Jong</snm>
+                  <fnm>FH</fnm>
+               </au>
+               <au>
+                  <snm>Pols</snm>
+                  <fnm>HA</fnm>
+               </au>
+               <au>
+                  <snm>van Leeuwen</snm>
+                  <fnm>JP</fnm>
+               </au>
+            </aug>
+            <source>FASEB J</source>
+            <pubdate>2007</pubdate>
+            <volume>21</volume>
+            <fpage>2949</fpage>
+            <lpage>2960</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1096/fj.07-8080com</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17449718</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B54">
+            <title>
+               <p>All for one and one for all: condensations and the initiation of skeletal development</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Hall</snm>
+                  <fnm>BK</fnm>
+               </au>
+               <au>
+                  <snm>Miyake</snm>
+                  <fnm>T</fnm>
+               </au>
+            </aug>
+            <source>Bioessays</source>
+            <pubdate>2000</pubdate>
+            <volume>22</volume>
+            <fpage>138</fpage>
+            <lpage>147</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1002/(SICI)1521-1878(200002)22:2&lt;138::AID-BIES5>3.0.CO;2-4</pubid>
+                  <pubid idtype="pmpid" link="fulltext">10655033</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B55">
+            <title>
+               <p>Activin A induces craniofacial cartilage from undifferentiated <it>Xenopus </it>ectoderm in vitro</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Furue</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Myoishi</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Fukui</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Ariizumi</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Okamoto</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Asashima</snm>
+                  <fnm>M</fnm>
+               </au>
+            </aug>
+            <source>Proc Natl Acad Sci USA</source>
+            <pubdate>2002</pubdate>
+            <volume>99</volume>
+            <fpage>15474</fpage>
+            <lpage>15479</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1073/pnas.242597399</pubid>
+                  <pubid idtype="pmcid">137741</pubid>
+                  <pubid idtype="pmpid">12424341</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B56">
+            <title>
+               <p>Human mesenchymal stem cells alter antigen-presenting cell maturation and induce T-cell unresponsiveness</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Beyth</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Borovsky</snm>
+                  <fnm>Z</fnm>
+               </au>
+               <au>
+                  <snm>Mevorach</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Liebergall</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Gazit</snm>
+                  <fnm>Z</fnm>
+               </au>
+               <au>
+                  <snm>Aslan</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Galun</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Rachmilewitz</snm>
+                  <fnm>J</fnm>
+               </au>
+            </aug>
+            <source>Blood</source>
+            <pubdate>2005</pubdate>
+            <volume>105</volume>
+            <fpage>2214</fpage>
+            <lpage>2219</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1182/blood-2004-07-2921</pubid>
+                  <pubid idtype="pmpid" link="fulltext">15514012</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B57">
+            <title>
+               <p>Human mesenchymal stem cells inhibit differentiation and function of monocyte-derived dendritic cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Jiang</snm>
+                  <fnm>XX</fnm>
+               </au>
+               <au>
+                  <snm>Zhang</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Liu</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Zhang</snm>
+                  <fnm>SX</fnm>
+               </au>
+               <au>
+                  <snm>Wu</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Yu</snm>
+                  <fnm>XD</fnm>
+               </au>
+               <au>
+                  <snm>Mao</snm>
+                  <fnm>N</fnm>
+               </au>
+            </aug>
+            <source>Blood</source>
+            <pubdate>2005</pubdate>
+            <volume>105</volume>
+            <fpage>4120</fpage>
+            <lpage>4126</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1182/blood-2004-02-0586</pubid>
+                  <pubid idtype="pmpid" link="fulltext">15692068</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B58">
+            <title>
+               <p>Suppression of IL-6 biological activities by activin A and implications for inflammatory arthropathies</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Yu</snm>
+                  <fnm>EW</fnm>
+               </au>
+               <au>
+                  <snm>Dolter</snm>
+                  <fnm>KE</fnm>
+               </au>
+               <au>
+                  <snm>Shao</snm>
+                  <fnm>LE</fnm>
+               </au>
+               <au>
+                  <snm>Yu</snm>
+                  <fnm>J</fnm>
+               </au>
+            </aug>
+            <source>Clin Exp Immunol</source>
+            <pubdate>1998</pubdate>
+            <volume>112</volume>
+            <fpage>126</fpage>
+            <lpage>132</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1046/j.1365-2249.1998.00522.x</pubid>
+                  <pubid idtype="pmcid">1904937</pubid>
+                  <pubid idtype="pmpid">9566800</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B59">
+            <title>
+               <p>Activin A: a novel player and inflammatory marker in inflammatory bowel disease?</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Hubner</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Brauchle</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Gregor</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Werner</snm>
+                  <fnm>S</fnm>
+               </au>
+            </aug>
+            <source>Lab Invest</source>
+            <pubdate>1997</pubdate>
+            <volume>77</volume>
+            <fpage>311</fpage>
+            <lpage>318</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid">9354766</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B60">
+            <title>
+               <p>Potent induction of activin A secretion from monocytes and bone marrow stromal fibroblasts by cognate interaction with activated T cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Abe</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Shintani</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Eto</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Harada</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Kosaka</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Matsumoto</snm>
+                  <fnm>T</fnm>
+               </au>
+            </aug>
+            <source>J Leukoc Biol</source>
+            <pubdate>2002</pubdate>
+            <volume>72</volume>
+            <fpage>347</fpage>
+            <lpage>352</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid" link="fulltext">12149426</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B61">
+            <title>
+               <p>Activin-A: a novel dendritic cell-derived cytokine that potently attenuates CD40 ligand-specific cytokine and chemokine production</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Robson</snm>
+                  <fnm>NC</fnm>
+               </au>
+               <au>
+                  <snm>Phillips</snm>
+                  <fnm>DJ</fnm>
+               </au>
+               <au>
+                  <snm>McAlpine</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Shin</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Svobodova</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Toy</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Pillay</snm>
+                  <fnm>V</fnm>
+               </au>
+               <au>
+                  <snm>Kirkpatrick</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Zanker</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Wilson</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Helling</snm>
+                  <fnm>I</fnm>
+               </au>
+               <au>
+                  <snm>Wei</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Chen</snm>
+                  <fnm>W</fnm>
+               </au>
+               <au>
+                  <snm>Cebon</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Maraskovsky</snm>
+                  <fnm>E</fnm>
+               </au>
+            </aug>
+            <source>Blood</source>
+            <pubdate>2008</pubdate>
+            <volume>111</volume>
+            <fpage>2733</fpage>
+            <lpage>2743</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1182/blood-2007-03-080994</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18156495</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B62">
+            <title>
+               <p>Functional similarities among genes regulated by OCT4 in human mesenchymal and embryonic stem cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Greco</snm>
+                  <fnm>SJ</fnm>
+               </au>
+               <au>
+                  <snm>Liu</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Rameshwar</snm>
+                  <fnm>P</fnm>
+               </au>
+            </aug>
+            <source>Stem Cells</source>
+            <pubdate>2007</pubdate>
+            <volume>25</volume>
+            <fpage>3143</fpage>
+            <lpage>3154</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1634/stemcells.2007-0351</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17761754</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+      </refgrp>
+   </bm>
+</art>

@@ -25,7 +25,7 @@ public class TokenInfo extends UnitInfo {
 		this.lemmaSuf = StringUtils.EMPTY;
 		this.lemmaOff = 0;
 		this.start = -1;
-		this.len = -1;
+		this.len = s.length();
 		this.flag = false;
     }
 

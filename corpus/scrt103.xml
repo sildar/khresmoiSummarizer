@@ -1,0 +1,2911 @@
+<!DOCTYPE art SYSTEM "article.dtd">
+<art>
+   <ui>scrt103</ui>
+   <ji>1757-6512</ji>
+   <fm>
+      <dochead>Research</dochead>
+      <bibl>
+         <title>
+            <p>Production and validation of a good manufacturing practice grade human fibroblast line for supporting human embryonic stem cell derivation and culture</p>
+         </title>
+         <aug>
+            <au id="A1" ca="yes" ce="yes">
+               <snm>Prathalingam</snm>
+               <fnm>Nilendran</fnm>
+               <insr iid="I1"/>
+               <insr iid="I2"/>
+               <email>n.prathalingam@ncl.ac.uk</email>
+            </au>
+            <au id="A2" ce="yes">
+               <snm>Ferguson</snm>
+               <fnm>Linda</fnm>
+               <insr iid="I1"/>
+               <insr iid="I3"/>
+               <email>Linda.ferguson@ncl.ac.uk</email>
+            </au>
+            <au id="A3">
+               <snm>Young</snm>
+               <fnm>Lesley</fnm>
+               <insr iid="I4"/>
+               <email>Lesley.young@nibsc.hpa.org.uk</email>
+            </au>
+            <au id="A4">
+               <snm>Lietz</snm>
+               <fnm>Georg</fnm>
+               <insr iid="I5"/>
+               <email>georg.lietz@newcastle.ac.uk</email>
+            </au>
+            <au id="A5">
+               <snm>Oldershaw</snm>
+               <fnm>Rachel</fnm>
+               <insr iid="I1"/>
+               <insr iid="I3"/>
+               <email>rachel.oldershaw@newcastle.ac.uk</email>
+            </au>
+            <au id="A6">
+               <snm>Healy</snm>
+               <fnm>Lyn</fnm>
+               <insr iid="I4"/>
+               <email>Lyn.Healy@nibsc.hpa.org.uk</email>
+            </au>
+            <au id="A7">
+               <snm>Craig</snm>
+               <fnm>Albert</fnm>
+               <insr iid="I1"/>
+               <insr iid="I6"/>
+               <email>bertie.craig@newcastle.ac.uk</email>
+            </au>
+            <au id="A8">
+               <snm>Lister</snm>
+               <fnm>Helen</fnm>
+               <insr iid="I1"/>
+               <insr iid="I6"/>
+               <email>Helen.Lister@newcastle.ac.uk</email>
+            </au>
+            <au id="A9">
+               <snm>Binaykia</snm>
+               <fnm>Rakesh</fnm>
+               <insr iid="I1"/>
+               <email>rakesh@binaykia.com</email>
+            </au>
+            <au id="A10">
+               <snm>Sheth</snm>
+               <fnm>Radhika</fnm>
+               <insr iid="I1"/>
+               <email>radhika.sheth@ucl.ac.uk</email>
+            </au>
+            <au id="A11">
+               <snm>Murdoch</snm>
+               <fnm>Alison</fnm>
+               <insr iid="I1"/>
+               <insr iid="I6"/>
+               <insr iid="I7"/>
+               <email>alison.murdoch@newcastle.ac.uk</email>
+            </au>
+            <au id="A12">
+               <snm>Herbert</snm>
+               <fnm>Mary</fnm>
+               <insr iid="I1"/>
+               <insr iid="I2"/>
+               <insr iid="I7"/>
+               <email>Mary.herbert@ncl.ac.uk</email>
+            </au>
+         </aug>
+         <insg>
+            <ins id="I1">
+               <p>NorthEast England Stem Cell Institute, Centre for Life, Times Square, Newcastle upon Tyne NE1 4EP, UK</p>
+            </ins>
+            <ins id="I2">
+               <p>Institute for Ageing and Health, Newcastle University, Centre for Life, Times Square, Newcastle upon Tyne NE1 4EP, UK</p>
+            </ins>
+            <ins id="I3">
+               <p>Institute for Cellular Medicine, Centre for Life, Times Square, Newcastle upon Tyne NE1 4EP, UK</p>
+            </ins>
+            <ins id="I4">
+               <p>UK Stem Cell Bank, National Institute for Biological Standards and Control, Blanche Lane, South Mimms Potters Bar, Hertfordshire, EN6 3QG, UK</p>
+            </ins>
+            <ins id="I5">
+               <p>School of Agriculture, Food and Rural Development, University of Newcastle, Kings Road, Newcastle upon Tyne NE1 7RU, UK</p>
+            </ins>
+            <ins id="I6">
+               <p>Institute for Genetic Medicine, Newcastle University, Central Parkway, Times Square, Newcastle upon Tyne, NE1 4EP, UK</p>
+            </ins>
+            <ins id="I7">
+               <p>Newcastle Fertility Centre, Centre for Life, Times Square, Newcastle upon Tyne NE1 4EP, UK</p>
+            </ins>
+         </insg>
+         <source>Stem Cell Research &amp; Therapy</source>
+         <issn>1757-6512</issn>
+         <pubdate>2012</pubdate>
+         <volume>3</volume>
+         <issue>2</issue>
+         <fpage>12</fpage>
+         <url>http://stemcellres.com/content/3/2/12</url>
+         <xrefbib>
+            <pubidlist>
+               <pubid idtype="doi">10.1186/scrt103</pubid>
+               <pubid idtype="pmpid">22472092</pubid>
+            </pubidlist>
+         </xrefbib>
+      </bibl>
+      <history>
+         <rec>
+            <date>
+               <day>5</day>
+               <month>11</month>
+               <year>2011</year>
+            </date>
+         </rec>
+         <revrec>
+            <date>
+               <day>2</day>
+               <month>2</month>
+               <year>2012</year>
+            </date>
+         </revrec>
+         <acc>
+            <date>
+               <day>28</day>
+               <month>3</month>
+               <year>2012</year>
+            </date>
+         </acc>
+         <pub>
+            <date>
+               <day>28</day>
+               <month>3</month>
+               <year>2012</year>
+            </date>
+         </pub>
+      </history>
+      <cpyrt>
+         <year>2012</year>
+         <collab>Prathalingam et al.; licensee BioMed Central Ltd.</collab>
+         <note>This is an open access article distributed under the terms of the Creative Commons Attribution License (<url>http://creativecommons.org/licenses/by/2.0</url>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</note>
+      </cpyrt>
+      <abs>
+         <sec>
+            <st>
+               <p>Abstract</p>
+            </st>
+            <sec>
+               <st>
+                  <p>Introduction</p>
+               </st>
+               <p>The development of reproducible methods for deriving human embryonic stem cell (hESC) lines in compliance with good manufacturing practice (GMP) is essential for the development of hESC-based therapies. Although significant progress has been made toward the development of chemically defined conditions for the maintenance and differentiation of hESCs, efficient derivation of new hESCs requires the use of fibroblast feeder cells. However, GMP-grade feeder cell lines validated for hESC derivation are not readily available.</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>Methods</p>
+               </st>
+               <p>We derived a fibroblast cell line (NclFed1A) from human foreskin in compliance with GMP standards. Consent was obtained to use the cells for the production of hESCs and to generate induced pluripotent stem cells (iPSCs). We compared the line with a variety of other cell lines for its ability to support derivation and self-renewal of hESCs.</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>Results</p>
+               </st>
+               <p>NclFed1A supports efficient rates (33%) of hESC colony formation after explantation of the inner cell mass (ICM) of human blastocysts. This compared favorably with two mouse embryonic fibroblast (MEF) cell lines. NclFed1A also compared favorably with commercially available foreskin fibroblasts and MEFs in promoting proliferation and pluripotency of a number of existing and widely used hESCs. The ability of NclFed1A to maintain self-renewal remained undiminished for up to 28 population doublings from the master cell bank.</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>Conclusions</p>
+               </st>
+               <p>The human fibroblast line Ncl1Fed1A, produced in compliance with GMP standards and qualified for derivation and maintenance of hESCs, is a useful resource for the advancement of progress toward hESC-based therapies in regenerative medicine.</p>
+            </sec>
+         </sec>
+      </abs>
+   </fm>
+   <bdy>
+      <sec>
+         <st>
+            <p>Introduction</p>
+         </st>
+         <p>Progress in the use of human embryonic stem cells (hESCs) derivatives for cellular therapies will require the production of clinical-grade lines under the control of good manufacturing practice (GMP) <abbrgrp><abbr bid="B1">1</abbr></abbrgrp>. The ultimate goal is to increase reproducibility in the production of hESCs by developing chemically defined culture conditions by using recombinant proteins for hESC derivation and culture. A major hurdle is to dispense with the use of feeder cells, which are conventionally used to promote and support hESC self-renewal <abbrgrp><abbr bid="B2">2</abbr></abbrgrp>. However, the ability of feeder-free culture systems to maintain genetic stability remains controversial <abbrgrp><abbr bid="B3">3</abbr></abbrgrp>. Furthermore, reproducible techniques for deriving new GMP-grade hESC lines from human blastocysts without the use of feeder cells remain to be developed <abbrgrp><abbr bid="B4">4</abbr></abbrgrp>. To date, only a single report describes successful hESC derivation in the absence of feeder cells <abbrgrp><abbr bid="B5">5</abbr></abbrgrp>. Interestingly, the two lines derived under these conditions acquired karyotypic abnormalities during subsequent culture <abbrgrp><abbr bid="B5">5</abbr></abbrgrp>. Thus, in the absence of a chemically defined, GMP-compliant method for efficient derivation of hESCs, the production of new clinical-grade hESC lines will require a supply of GMP-grade feeder cells.</p>
+         <p>The use of fibroblast cells as feeder cells for derivation and long-term culture of hESCs has been well documented <abbrgrp><abbr bid="B2">2</abbr><abbr bid="B6">6</abbr><abbr bid="B7">7</abbr><abbr bid="B8">8</abbr></abbrgrp>. Although the majority of currently available hESC lines were derived on MEFs, concerns about animal pathogens and immunogens in cells destined for human therapy <abbrgrp><abbr bid="B4">4</abbr></abbrgrp> motivated scientists to explore the use of human fibroblasts <abbrgrp><abbr bid="B6">6</abbr><abbr bid="B9">9</abbr><abbr bid="B10">10</abbr><abbr bid="B11">11</abbr><abbr bid="B12">12</abbr><abbr bid="B13">13</abbr></abbrgrp>. Several reports have indicated that human fibroblasts originating from fetal, neonatal, and adult skin are capable of supporting self-renewal of established hESCs <abbrgrp><abbr bid="B6">6</abbr><abbr bid="B9">9</abbr><abbr bid="B10">10</abbr><abbr bid="B11">11</abbr><abbr bid="B12">12</abbr><abbr bid="B13">13</abbr></abbrgrp>. However, not all human fibroblast cell lines are equally supportive of hESC self-renewal <abbrgrp><abbr bid="B12">12</abbr></abbrgrp>. Transcriptome analysis of supportive and nonsupportive fibroblast cell lines identified a panel of differentially expressed proteins, including extracellular matrix proteins and growth factors, thought to be supportive of hESC self-renewal <abbrgrp><abbr bid="B14">14</abbr></abbrgrp>.</p>
+         <p>A number of studies have reported on the use of human fibroblast feeder cells for derivation of new hESC lines <abbrgrp><abbr bid="B7">7</abbr><abbr bid="B10">10</abbr><abbr bid="B12">12</abbr><abbr bid="B15">15</abbr><abbr bid="B16">16</abbr><abbr bid="B17">17</abbr><abbr bid="B18">18</abbr></abbrgrp>, but the field currently lacks ready access to a GMP-compliant human feeder cell line validated for this purpose. Furthermore, when we embarked on the derivation of GMP-grade hESCs, we were unable to source fibroblasts that had been produced to GMP and characterized for hESC derivation and culture. Here we describe the production, characterization, and validation of a GMP-grade fibroblast line derived from human foreskin with specific ethics approval and consent for hESC derivation and culture.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Materials and methods</p>
+         </st>
+         <sec>
+            <st>
+               <p>Regulation and compliance</p>
+            </st>
+            <p>This study was approved by the Local Research Ethics Committee (Sunderland Research Ethics Committee) and was licensed by the UK Human Fertilisation and Embryology Authority. Blastocysts were obtained after informed donor consent. Human foreskins were obtained after parental consent. The premises for the production of the clinical-grade fibroblast line has been licensed by the UK Human Tissue Authority (HTA) for testing, processing, storage, distribution, and import/export of human tissue (HTA license number 22111). All processes associated with the derivation, expansion, and cryopreservation of the master cell bank (MCB) of NclFed1A were carried out in accordance with the Newcastle University Biomanufacturing Facility Quality Management System (QMS), which operates in accordance with appropriate legislation, guidance, and regulation published by the Medicines and Healthcare products Regulatory Agency (MHRA) and the HTA. All documentation related to the QMS and to the production process was created and managed by using Q-Pulse software (Gael Ltd, UK.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Derivation and expansion of human fibroblasts</p>
+            </st>
+            <p>We derived human foreskin fibroblasts from tissue obtained from donors deemed to be of low risk based on their medical history. This included healthy children of ~6 months of age undergoing circumcision for religious reasons with no known infection or disease. Because no vertical transmission of prions has been documented in humans, the use of tissue from a young child minimizes the risk of prion contamination <abbrgrp><abbr bid="B19">19</abbr></abbrgrp>. All human tissue was transferred to the processing laboratory in PBS. The tissue was dissociated with a scalpel (VWR, UK) and incubated with Collagenase Type IV (Invitrogen, USA Cat. No. 17104-019) at 37&#176;C for 40 minutes. Samples were washed by centrifugation and plated in a T25 or T75 flask (TPP; Switzerland) with either FBS growth medium (DMEM (Invitrogen, Cat. No. 11995-065), 10% FBS (Invitrogen, Cat. No. 10099-141) and 1 &#215; glutamine (Invitrogen, Cat. No. 25030) supplemented with 1&#215; Pen/Strep (Invitrogen)) or with xeno-free hESC medium; KOSR-XF (KO DMEM (Invitrogen), 15% KnockOut Serum Replacement-XenoFree (Invitrogen), 0.1 m<it>M </it>NEAA (Invitrogen); 0.1 m<it>M </it>&#946;-mercaptoethanol; 2 m<it>M </it>Glutamax; 8 ng/ml FGF2 (Invitrogen)). Cells were incubated at 37&#176;C and 5% CO<sub>2</sub>, medium was changed every 48 to 72 hours, and cells were passaged when cells were confluent. Cells were deemed confluent when the growth surface of the flask was covered by cells (Additional file <supplr sid="S1">1</supplr>, Figure S1).</p>
+            <suppl id="S1">
+               <title>
+                  <p>Additional file 1</p>
+               </title>
+               <text>
+                  <p><b>Figure S1</b>. Images of NclFed1A showing <b>(a) </b>about 15% confluent, <b>(b) </b>about 60% confluent, and <b>(c) </b>100% confluent. <b>(d) </b>The number of cells per square centimeter in a confluent flask was determined by counting cells with a Vi-Cell (Beckman Coulter), in eight different confluent T150 flasks. Counts were repeated 3 times for each flask.</p>
+               </text>
+               <file name="scrt103-S1.PDF">
+                  <p>Click here for file</p>
+               </file>
+            </suppl>
+            <p>For passaging, the culture medium was removed from flasks and replaced with Tryple Select (Invitrogen); the fibroblasts were incubated for 5 minutes at 37&#176;C. The cells were washed by centrifugation and passaged. Cells cultured from the pre-seed bank (PSB) to the master cell bank (MCB) were cultured in FBS growth medium without penicillin and streptomycin. Cells were passaged at a ratio of 1:6 in T75, T150, or T300 flasks with an estimated plating density of 3.5 &#215; 10<sup>4 </sup>cells/cm<sup>2</sup>). When confluent at P5, the MCB was cryopreserved; the choice of flask was based on the maximum number of flasks an operator could handle in one session.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Cryopreservation of fibroblasts</p>
+            </st>
+            <p>Fibroblasts were dissociated with Tryple Select, washed by centrifugation, and resuspended in freeze medium (10% DMSO (Sigma, UK) and 90% FBS (Invitrogen)). The resuspended cells were aliquoted into 1-ml aliquots in 2-ml cryovials (TPP) that were cooled by using controlled-rate freezing (Mr Frosty; Nalgene, USA) at 1&#176;C/min. After cryopreservation, cell counts and viability were carried out by using a Vi-Cell (Beckman Coulter, USA).</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Inactivation of fibroblasts</p>
+            </st>
+            <p>Fibroblasts were inactivated by using either mitomycin C or X-ray irradiation. For mitomyocin C inactivation, fibroblasts were incubated with 10 &#956;g/ml of mitomyocin C for 2.5 hours at 37&#176;C and 5% CO<sub>2</sub>. The mitomyocin C was washed out by using FBS growth medium, and washing was repeated 7 times. Samples were incubated overnight in the FBS growth medium and cryopreserved, as described previously. For X-ray inactivation, fibroblasts were exposed to 50 Gy (Faxitron, USA). Samples were incubated overnight and cryopreserved.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Source of human blastocysts</p>
+            </st>
+            <p>Embryos used to determine the efficiency of hESC derivation were donated by couples undergoing assisted-conception treatment. Embryos were produced <it>in vitro </it>by conventional oocyte insemination or by intracytoplasmic sperm injection (ICSI) and cultured in G1 medium (Vitrolife, Sweden) for 2 to 3 days until the best-quality embryos were selected for transfer to the uterus or for cryopreservation. The embryos used in this study were cryopreserved but were no longer required for treatment. Cryopreservation and thawing was performed by using a Vitrolife Freeze medium (Vitrolife) and Thaw medium (Vitrolife). Thawed embryos were cultured in G2 medium (Vitrolife) for 3 to 4 days until they developed to the blastocyst stage. All blastocysts, regardless of quality, were included in the study and were randomly allocated to explantation on three different feeder cell lines.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>hESC stem cell derivation and culture</p>
+            </st>
+            <p>hESC derivations were carried out in a fully enclosed isolator cabinet (Vitrosafe). Human blastocysts were dissociated by using two insulin needles (Becton Dickinson, USA); the inner cell mass (ICM) was removed and plated on Cellstart (Invitrogen) with either inactivated human foreskin fibroblasts (NclFed1A) or MEFs. Samples were incubated in hESC medium; KOSR (KO DMEM (Invitrogen), 20% KnockOut Serum Replacement (Invitrogen), 0.1 m<it>M </it>nonessential amino acids NEAA (Invitrogen); 0.1 m<it>M </it>&#946;-mercaptoethanol; 2 m<it>M </it>Glutamax; 8 ng/ml FGF2 (Invitrogen)) supplemented with 5% Quinns Advantage Protein Supplement (Rochford Medical, Ltd, UK). The plated ICMs were incubated for 3 days at 37&#176;C, 5%CO<sub>2</sub>, and 5%O<sub>2</sub>, and were checked daily for the presence of outgrowths. Initial hESC colonies were dissected by using insulin needles and passaged on to fresh feeder cells in medium that was changed every 2 to 3 days. For enzymic passaging, once the cells became 65% to 85% confluent, they were washed once in PBS medium and then incubated for 5 to 15 minutes in Tryple Select (Invitrogen). They were washed once with centrifugation in hESC medium and passaged at a ratio of 1:3 or 1:6.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>PCR analysis</p>
+            </st>
+            <p>RNA extraction was carried out by using Dynabeads mRNA Direct (Invitrogen) as described in the user manual, and cDNA was synthesized by using Superscript III (Invitrogen). The PCR primers are described in Additional file <supplr sid="S2">2</supplr>, Table S1. PCR reactions were carried out by adding Biomix red (Bioline, UK), as described in the user manual. Conditions for the PCR were 94&#176;C for 2 minutes, 30 &#215; (94&#176;C for 30 seconds, 58&#176;C for 30 seconds, 72&#176;C for 30 seconds), and 72&#176;C for 15 minutes. PCR products were run on a 1% agarose gel.</p>
+            <suppl id="S2">
+               <title>
+                  <p>Additional file 2</p>
+               </title>
+               <text>
+                  <p><b>Table S1</b>. PCR primers used to determine the presence of transcripts in NclFed1A that are predicted to be supportive of hESC cultures. <b>Table S2</b>. STR analysis with genotype copy number for allele 1 and 2. <b>Table S3</b>. The expression of pluripotency markers determined by FACs analysis after culture of four hESC lines for five passages on four different fibroblasts lines. <b>Table S4</b>. The expression of pluripotency markers determined by FACs analysis after culture of hESC lines for five passages on NclFed1A at P10, P15, P20, and P25.</p>
+               </text>
+               <file name="scrt103-S2.DOCX">
+                  <p>Click here for file</p>
+               </file>
+            </suppl>
+         </sec>
+         <sec>
+            <st>
+               <p>Population doubling time</p>
+            </st>
+            <p>NclFed1A was thawed and seeded in T25 flasks. After incubation for 48 hours, cell counts were determined by using a Vi-Cell. This was repeated at 24-hour intervals for 4 days. Counts were repeated 3 times for each sample.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Estimation of the number of cells in a confluent flask</p>
+            </st>
+            <p>NclFed1A was passaged into 8 &#215; T150 flasks; when deemed confluent (Additional file <supplr sid="S2">2</supplr>, Figure S1), the cells were dissociated by using Tryple Express (Invitrogen), resuspened, and three cell counts were measured for each flask by using a Vi-Cell. The number of cells in a confluent flask and per square centimeter was then determined (Additional file <supplr sid="S2">2</supplr>, Figure S1).</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Immunostaining</p>
+            </st>
+            <p>hESC colonies or fibroblasts were grown on coverslips. The cells were fixed in 4% PFA, blocked with a 10% wt/vol milk-powder solution for 1 hour at room temperature and incubated overnight at 4&#176;C with an anti-NANOG human polyclonal antibody raised in goat (R and D Systems, USA), an anti-OCT4 polyclonal antibody raised in rabbit (Abcam, UK), HFF-Cellect (Cellartis, Sweden), or 5B5 (Abcam). The cells were washed and incubated with either Alexa Fluor 488 donkey anti-goat immunoglobulin (Molecular Probes, USA), Alexa Fluor 555 donkey anti-rabbit immunoglobulin (Molecular Probes), or Alexa Fluor 488 donkey anti-mouse immunoglobulin (Molecular Probes). Nuclear staining was carried out by using Draq5 (Biostatus, UK). Samples were washed 3 times before imaging. Samples were imaged by using an inverted confocal microscope (Zeiss, Germany).</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Flow-cytometry analysis for cell-surface markers</p>
+            </st>
+            <p>FACS analysis was carried out as described <abbrgrp><abbr bid="B20">20</abbr></abbrgrp>. In brief, cells were dissociated with Tryple and incubated for 1 hour with the fibroblast-specific marker HFF-Cellect (Cellartis), and an antibody raised against either Tra-1-60, Tra-1-81, Tra-2-54, SSEA3, or SSEA4. Cells were washed and incubated for 30 minutes with the appropriate secondary antibody. Analysis was carried out by using a flow cytometer (Becton Dickinson).</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Determination of Neu5GC concentrations</p>
+            </st>
+            <p>Cells were treated with trifluoracetic acid at 80&#176;C for 1 hour and derivatized by using DMB solution (7 m<it>M </it>1,2-diamino-4,5-methylene dioxybenzene (Sigma); 1.4 <it>M </it>acetic acid (Sigma), 0.75 <it>M </it>&#946;-mercaptoethanol (Sigma), and 18 m<it>M </it>sodium hydrosulfite (Sigma)) for 2 hours 30 minutes at 50&#176;C and run on an HPLC (Dionex) by using a C8 column (Agilent AD-LC-139, USA). Samples were run at 0.90 ml/min in an isocratic solution of 7% methanol, 9% acetic acid, and 84% water. Neu5Gc detection was carried out by using a fluorescence detector (Dionex, UK) with an excitation wavelength of 373 nm and emission wavelength of 448 nm.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Karyotyping and genotyping</p>
+            </st>
+            <p>Karyotyping and genotyping were contracted to The Doctors Laboratory, which is accredited by the National External Quality Assessment Service (NEQAS; UK).</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Statistical analysis</p>
+            </st>
+            <p>Analysis of variance was used to investigate the effect of the fibroblast cell line or the passage number of fibroblasts on the expression of pluripotency markers in hESCs. &#935;<sup>2 </sup>analysis was used to compare fibroblast cell lines for hESC derivation efficiency. All data are expressed as mean &#177; SD. As it is envisaged that NclFed1A will be used only as feeder cells derived from the MCB, therefore all population-doubling data (PD) are expressed from the MCB.</p>
+         </sec>
+      </sec>
+      <sec>
+         <st>
+            <p>Results</p>
+         </st>
+         <sec>
+            <st>
+               <p>Selection of culture medium</p>
+            </st>
+            <p>In view of immunogenic and pathogenic considerations, our starting point was to perform preliminary experiments to determine whether hESCs could be derived in culture media free of animal products (xeno-free media). A foreskin sample, obtained from a child being treated for hypospadias, was divided in two sections and seeded in a T75 flask with either FBS growth medium or KOSR-XF, which was the only GMP-compliant xeno-free medium available at the time. Tissue seeded in the FBS growth medium attached within 24 hours and fibroblasts were observed 7 days after seeding; the cells became confluent 5 days later. By contrast, cells seeded in the KOSR-XF medium did not attach, and fibroblast cells were not observed. In a separate experiment, we found that coating of culture dishes with Cellstart promoted attachment of foreskin tissue in the presence of KOSR-XF; however, it took 28 days for the cells to become confluent. After passaging of the primary culture at a ratio of 1:3, the cells took 14 days to become confluent. Because of the slow doubling time (estimated to be 112 hours, based on passage time, compared with 26.7 hours for cells grown on FBS) and poor morphology of the cells, we opted to use qualified FBS-containing medium for subsequent culture. We selected GMP-compliant FBS from Australia, which was screened for adventitious agents, cell-plating efficiency, and chemical and physical properties. However, cells cultured in FBS have been found to contain the nonhuman form of sialic acid <abbrgrp><abbr bid="B21">21</abbr></abbrgrp>, which is immunogenic for humans <abbrgrp><abbr bid="B22">22</abbr></abbrgrp>. Our strategy for minimizing this is described later.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Production of a GMP-grade fibroblast line</p>
+            </st>
+            <p>We next established a GMP-compliant process for the derivation and production of clinical-grade fibroblasts in accordance with the Biomanufacturing Facility Quality Management System (QMS; Figure <figr fid="F1">1a</figr>). This included generating 37 standard operating procedures (SOPs) and 32 record forms to cover all procedures and equipment used in this cell line-production process. In accordance with the QMS policies and procedures, we documented all staff training, audits, and supplier approvals. A fully documented quarantine and release procedure for materials used in the productions process was implemented by the QM team. A complaints procedure with the associated Corrective and Preventive Actions (CAPA) was also implemented by the QM team.</p>
+            <fig id="F1">
+               <title>
+                  <p>Figure 1</p>
+               </title>
+               <caption>
+                  <p>Derivation of the clinical grade fibroblast line NclFed1A</p>
+               </caption>
+               <text>
+                  <p><b>Derivation of the clinical grade fibroblast line NclFed1A</b>. <b>(a) </b>A detailed description of the Quality Management System (QMS) required for processing cells to good manufacturing practice (GMP; passaging of NclFed1A). <b>(b) </b>Schematic showing the general processes involved in deriving a fibroblast cell line under the control of GMP. "Upstream" includes all processes that are in place before the derivation and expansion of the fibroblast line. "Downstream" refers to biosafety and functionality testing of the line.</p>
+               </text>
+               <graphic file="scrt103-1" hint_layout="double"/>
+            </fig>
+            <p>Fibroblast tissue for GMP-compliant production was obtained from a healthy 6-month-old child undergoing circumcision for religious reasons. After excision, the foreskin tissue was transferred from the operating theater to a QM-controlled primary cell-culture laboratory through a documented chain of custody (Figure <figr fid="F1">1b</figr>). The tissue sample was split into two sections (CPR/HGP/Ncl/Fed1a and CPR/HGP/Ncl/Fed1b), and each section was seeded into a T75 flask. Attachment and outgrowth of cells with fibroblast morphology were observed by day 4. Both sublines became confluent within14 days of seeding and were cultured to P1 or P2 for production of a pre-seed bank (PSB) consisting of eight vials of each subline. After microbial and mycoplasma clearance, and validation for hESC culture and derivation (see later), the subline CPR/HGP/Ncl/Fed1A (NclFed1A) was transferred to the Grade B clean-room suite for onward culture.</p>
+            <p>To establish a master cell bank (MCB) of NclFed1A, cells from the PSB were seeded at an estimated density of 3.5 &#215; 10<sup>4 </sup>cells/cm<sup>2 </sup>and grown to confluence before being passaged at an equivalent density until P5 (equivalent to eight population doublings (PDs) from the PSB), when they were frozen to form an MCB consisting of 200 vials containing 7.5 &#215; 10<sup>6 </sup>cells/vial. Seven vials were used to test for bacterial and fungal contaminants, mycoplasma, and retroviruses by using Eu Pharmacopoeia methods (Table <tblr tid="T1">1</tblr>). In view of the large quantity of cells required for viral testing, an additional two vials of the MCB were passaged to produce 1.9 &#215; 10<sup>8 </sup>cells, which were cryopreserved and tested for bovine viruses (according to 9CFR guidelines (Section 113.46, 113.47 and 113.53)), and for human viruses (HIV1 and 2 provirus, HTLV1 and 2 provirus, HAV, HBV, HCV, HHV6, HHV7, HHV8, hCMV, EBV, SV40, and B19).</p>
+            <tbl id="T1" hint_layout="single">
+               <title>
+                  <p>Table 1</p>
+               </title>
+               <caption>
+                  <p>Biosafety tests carried out on the NclFed1A master cell bank</p>
+               </caption>
+               <tblbdy cols="3">
+                  <r>
+                     <c ca="left">
+                        <p><b>Test</b></p>
+                     </c>
+                     <c ca="left">
+                        <p><b>Reference</b></p>
+                     </c>
+                     <c ca="left">
+                        <p><b>Test result</b></p>
+                     </c>
+                  </r>
+                  <r>
+                     <c cspan="3">
+                        <hr/>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>Sterility test and qualification of test article by direct inoculation method</p>
+                     </c>
+                     <c ca="left">
+                        <p><abbrgrp><abbr bid="B38">38</abbr></abbrgrp></p>
+                     </c>
+                     <c ca="left">
+                        <p>Negative</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c cspan="3">
+                        <hr/>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>Test for <it>Mycoplasma </it>spp.(Including mycoplasmastasis assay)</p>
+                     </c>
+                     <c ca="left">
+                        <p><abbrgrp><abbr bid="B38">38</abbr></abbrgrp></p>
+                     </c>
+                     <c ca="left">
+                        <p>Negative</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c cspan="3">
+                        <hr/>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>Retroviruses: detection of reverse transcriptase (F-Pert assay)</p>
+                     </c>
+                     <c ca="left">
+                        <p><abbrgrp><abbr bid="B39">39</abbr><abbr bid="B40">40</abbr><abbr bid="B41">41</abbr><abbr bid="B42">42</abbr><abbr bid="B43">43</abbr><abbr bid="B44">44</abbr><abbr bid="B45">45</abbr><abbr bid="B46">46</abbr><abbr bid="B47">47</abbr></abbrgrp></p>
+                     </c>
+                     <c ca="left">
+                        <p>Negative</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c cspan="3">
+                        <hr/>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>Detection of human viral pathogens (HIV 1 and 2 provirus, HTLV 1 and</p>
+                        <p>2 provirus, HAV, HBV, HCV, HHV-6, HHV-7, HHV-8, hCMV, EBV, SV40 and B19) by real-time polymerase chain reaction (PCR).</p>
+                     </c>
+                     <c ca="left">
+                        <p><abbrgrp><abbr bid="B48">48</abbr></abbrgrp></p>
+                     </c>
+                     <c ca="left">
+                        <p>Negative</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c cspan="3">
+                        <hr/>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>Detection of bovine viruses with in vitro adventitious assay according to 9CFR Guidelines</p>
+                     </c>
+                     <c ca="left">
+                        <p><abbrgrp><abbr bid="B43">43</abbr><abbr bid="B45">45</abbr><abbr bid="B47">47</abbr><abbr bid="B49">49</abbr><abbr bid="B50">50</abbr><abbr bid="B51">51</abbr><abbr bid="B52">52</abbr></abbrgrp></p>
+                     </c>
+                     <c ca="left">
+                        <p>Negative</p>
+                     </c>
+                  </r>
+               </tblbdy>
+            </tbl>
+         </sec>
+         <sec>
+            <st>
+               <p>Characterization of NclFed1A as a fibroblast cell line</p>
+            </st>
+            <p>NclFed1A had a typical fibroblast morphology (Figure <figr fid="F2">2a</figr>) and stained positive for HFF-Cellect (Figure <figr fid="F2">2b</figr>), a mouse monoclonal antibody derived from mice immunized with human foreskin fibroblasts. In addition, immunofluorescence labeling showed positive staining for 5B5 (Figure <figr fid="F2">2c</figr>), a fibroblast-specific protein required for triple-helix formation in collagen <abbrgrp><abbr bid="B23">23</abbr></abbrgrp>. Moreover, flow-cytometry analysis showed that NclFed1A was positive for proteins previously found to be expressed in fibroblasts, including CD90 <abbrgrp><abbr bid="B24">24</abbr><abbr bid="B25">25</abbr><abbr bid="B26">26</abbr></abbrgrp>; CD166 <abbrgrp><abbr bid="B25">25</abbr></abbrgrp>, and CD44 <abbrgrp><abbr bid="B27">27</abbr></abbrgrp> (Figure <figr fid="F2">2d</figr> through <figr fid="F2">2f</figr>).</p>
+            <fig id="F2">
+               <title>
+                  <p>Figure 2</p>
+               </title>
+               <caption>
+                  <p>Characterization of NclFed1A as fibroblasts</p>
+               </caption>
+               <text>
+                  <p><b>Characterization of NclFed1A as fibroblasts</b>. <b>(a) </b>NclFed1A has a normal fibroblast morphology. <b>(b) </b>Cells were positive for HFF-Cellect, a mouse monoclonal antibody derived from mice immunized with human foreskin fibroblasts (scale bar, 50 &#956;m). <b>(c) </b>Cells were positive for the fibroblast marker 5B5 required for triple-helix formation in collagen (scale bar, 50 &#956;m). <b>(d-f) </b>Histograms from flow cytometry showing the proportion of cells positive for <b>(d) </b>CD90, <b>(e) </b>CD166, and <b>(f) </b>CD44. <b>(g) </b>NclFed1A had a normal male karyotype. <b>(h) </b>The doubling time of NclFed1A was 26.7 hours; no significant difference was found between PD0, PSB, MCB, and 10 (PD10) and 28 (PD28) cell doublings from the MCB.</p>
+               </text>
+               <graphic file="scrt103-2" hint_layout="double"/>
+            </fig>
+            <p>For the purposes of traceability, we determined the DNA profile of the cell line by using 15 polymorphic autosomal DNA markers (Additional file <supplr sid="S2">2</supplr>, Table S2). Karyoptype analysis of the MCB showed a normal male karyotyped 46XY (Figure <figr fid="F2">2g</figr>). Further to characterize the cell line and to assess the time to confluence during routine culture, we measured the doubling time of NclFed1A across several passages. A mean doubling time of 26.7 &#177; 13 hours was calculated for cells thawed from the PSB, the MCB, 10 population doublings from the MCB (PD10), and 28 population doublings from the MCB (PD28). No significant difference in doubling time was found between samples (Figure <figr fid="F2">2h</figr>). Subsequent observations indicated that cell senescence did not become apparent until 54 population doublings from the MCB.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>NclFed1A supports hESC derivation and culture</p>
+            </st>
+            <p>As an initial assessment, we tested NclFed1A for expression of genes predicted to be important for the maintenance of hESC pluripotency <abbrgrp><abbr bid="B14">14</abbr></abbrgrp>. By using PCR analysis, we tested NclFed1A at the PSB, MCB, PD10, and PD28 for expression of transcripts encoding extracellular matrix proteins Col1A1, Col3A1, Col5A1, fibronectin 1, heparin sulfate proteoglycan, and hyaluron synthase 2 (HAS2), as well as the ligands and growth factors FGF2, IGFBP3, ADAM33, and Grem1. With the exception of Col5A1 and ADAM33, we found that all factors were expressed at PSB, MCB, and PD10 (Table <tblr tid="T2">2</tblr>). By contrast, at PD28, only Col1A, HAS2, IGFBP3, and Grem1 were detected.</p>
+            <tbl id="T2" hint_layout="double">
+               <title>
+                  <p>Table 2</p>
+               </title>
+               <caption>
+                  <p>Presence (&#10003;) and absence (x) of transcripts in NclFed1A at PSB, MCB, PD10, and PD28 that have been predicted to support hESC culture</p>
+               </caption>
+               <tblbdy cols="11">
+                  <r>
+                     <c ca="left">
+                        <p><b>NclFed1A</b></p>
+                     </c>
+                     <c ca="left">
+                        <p><b>Col1A1</b></p>
+                     </c>
+                     <c ca="left">
+                        <p><b>Col3A1</b></p>
+                     </c>
+                     <c ca="left">
+                        <p><b>Col5A1</b></p>
+                     </c>
+                     <c ca="left">
+                        <p><b>FN1</b></p>
+                     </c>
+                     <c ca="left">
+                        <p><b>HSPG2</b></p>
+                     </c>
+                     <c ca="left">
+                        <p><b>HAS2</b></p>
+                     </c>
+                     <c ca="left">
+                        <p><b>IGFBP3</b></p>
+                     </c>
+                     <c ca="left">
+                        <p><b>FGF2</b></p>
+                     </c>
+                     <c ca="left">
+                        <p><b>ADAM33</b></p>
+                     </c>
+                     <c ca="left">
+                        <p><b>Grem1</b></p>
+                     </c>
+                  </r>
+                  <r>
+                     <c cspan="11">
+                        <hr/>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>PSB</p>
+                     </c>
+                     <c ca="left">
+                        <p>&#10003;</p>
+                     </c>
+                     <c ca="left">
+                        <p>&#10003;</p>
+                     </c>
+                     <c ca="left">
+                        <p>X</p>
+                     </c>
+                     <c ca="left">
+                        <p>&#10003;</p>
+                     </c>
+                     <c ca="left">
+                        <p>&#10003;</p>
+                     </c>
+                     <c ca="left">
+                        <p>&#10003;</p>
+                     </c>
+                     <c ca="left">
+                        <p>&#10003;</p>
+                     </c>
+                     <c ca="left">
+                        <p>&#10003;</p>
+                     </c>
+                     <c ca="left">
+                        <p>X</p>
+                     </c>
+                     <c ca="left">
+                        <p>&#10003;</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c cspan="11">
+                        <hr/>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>MCB</p>
+                     </c>
+                     <c ca="left">
+                        <p>&#10003;</p>
+                     </c>
+                     <c ca="left">
+                        <p>&#10003;</p>
+                     </c>
+                     <c ca="left">
+                        <p>X</p>
+                     </c>
+                     <c ca="left">
+                        <p>&#10003;</p>
+                     </c>
+                     <c ca="left">
+                        <p>&#10003;</p>
+                     </c>
+                     <c ca="left">
+                        <p>&#10003;</p>
+                     </c>
+                     <c ca="left">
+                        <p>&#10003;</p>
+                     </c>
+                     <c ca="left">
+                        <p>&#10003;</p>
+                     </c>
+                     <c ca="left">
+                        <p>X</p>
+                     </c>
+                     <c ca="left">
+                        <p>&#10003;</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c cspan="11">
+                        <hr/>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>PD10</p>
+                     </c>
+                     <c ca="left">
+                        <p>&#10003;</p>
+                     </c>
+                     <c ca="left">
+                        <p>&#10003;</p>
+                     </c>
+                     <c ca="left">
+                        <p>X</p>
+                     </c>
+                     <c ca="left">
+                        <p>&#10003;</p>
+                     </c>
+                     <c ca="left">
+                        <p>&#10003;</p>
+                     </c>
+                     <c ca="left">
+                        <p>&#10003;</p>
+                     </c>
+                     <c ca="left">
+                        <p>&#10003;</p>
+                     </c>
+                     <c ca="left">
+                        <p>&#10003;</p>
+                     </c>
+                     <c ca="left">
+                        <p>X</p>
+                     </c>
+                     <c ca="left">
+                        <p>&#10003;</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c cspan="11">
+                        <hr/>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>PD28</p>
+                     </c>
+                     <c ca="left">
+                        <p>&#10003;</p>
+                     </c>
+                     <c ca="left">
+                        <p>X</p>
+                     </c>
+                     <c ca="left">
+                        <p>X</p>
+                     </c>
+                     <c ca="left">
+                        <p>X</p>
+                     </c>
+                     <c ca="left">
+                        <p>X</p>
+                     </c>
+                     <c ca="left">
+                        <p>&#10003;</p>
+                     </c>
+                     <c ca="left">
+                        <p>&#10003;</p>
+                     </c>
+                     <c ca="left">
+                        <p>X</p>
+                     </c>
+                     <c ca="left">
+                        <p>X</p>
+                     </c>
+                     <c ca="left">
+                        <p>&#10003;</p>
+                     </c>
+                  </r>
+               </tblbdy>
+            </tbl>
+            <p>We next tested the ability of NclFed1A to support hESC derivation from blastocysts. The efficiency of derivation was compared with MEFs from CF1 and C57BL6 mouse strains; both of which have been reported to be supportive of hESC derivation and/or culture <abbrgrp><abbr bid="B28">28</abbr><abbr bid="B29">29</abbr><abbr bid="B30">30</abbr></abbrgrp>. After explantation of the ICM onto the inactivated fibroblasts, the proportion of outgrowths for NclFed1A was similar to that observed on MEFs (five of nine (NclFed1A) versus four of 10 (CF1) and two of eight (C57Bl6)). Subsequently, hESC colonies were observed on all fibroblast lines between days 6 and 11 (three of nine (NclFed1A) versus three of 10 (CF1) and one of eight (C57Bl6)) (Figure <figr fid="F3">3a</figr>). To test the ability of NclFed1A to support the proliferation and pluripotency of hESCs, two of the lines derived (Ncl12 and Ncl(R)14) on NclFed1A were cultured to P24. Both cell lines retained normal hESC morphology and, at P24, expressed OCT4 and NANOG (Figure <figr fid="F3">3b</figr>).</p>
+            <fig id="F3">
+               <title>
+                  <p>Figure 3</p>
+               </title>
+               <caption>
+                  <p>NclFed1A supports human embryonic stem cell (hESC) derivation and culture</p>
+               </caption>
+               <text>
+                  <p><b>NclFed1A supports human embryonic stem cell (hESC) derivation and culture</b>. <b>(a) </b>The proportion of outgrowths and hESC lines produced by using NclFed1A and MEFS (derived from CF1 and C57Bl6 strains) as feeder cells. <b>(b) </b>hESCs cultured on NclFed1A for 24 passages were positive for the pluripotency markers NANOG and OCT4 (scale bar, 100 &#956;m). <b>(c) </b>A greater proportion of cells expressed Tra-1-60 when cultured on NclFed1A than on MRC-5 (<it>P </it>&lt; 0.05); no significant difference was noted between the expression of pluripotency markers after culture on NclFed1A, iHDFn, and iMEF. <b>(d) </b>The expression of pluripotency markers was similar after culture on NclFed1A at PD8, PD18, and PD28; at PD38, fewer cells expressed Tra-1-81 and SSEA4 (<it>P </it>&lt; 0.05). <b>(e) </b>hESCs cultured on NclFed1A at P15 had normal hESC morphology. <b>(f) </b>hESCs cultured on NclFed1A at PD38 showed signs of differentiation (arrows).</p>
+               </text>
+               <graphic file="scrt103-3" hint_layout="double"/>
+            </fig>
+            <p>Further qualification of NclFed1A for use a feeder cell line for hESCs was conducted by the UK Stem Cell Bank (UKSCB) as follows. The hESC lines Shef1, RH-1, HUES-9, and NCL5 were cultured in parallel on inactivated MEFs (MEF), neonatal foreskin fibroblasts (HDFn), fetal lung fibroblast (MRC-5), and NclFed1A. After five passages, the percentage of cells expressing the pluripotent surface markers was determined with flow cytometry. No difference was found in the proportion of cells expressing Tra-1-60, Tra-1-81, Tra-2-54, SSEA3, and SSEA4 between NclFed1A, MEFs, and HDFn; however, a greater proportion of hESCs cultured on NclFed1A expressed Tra-1-60 than did those on MRC-5 (<it>P </it>&lt; 0.05; Figure <figr fid="F3">3c</figr> and Additional file <supplr sid="S2">2</supplr>, Table S3). No significant differences were noted between NclFed1A at PD8 to PD28 in the proportion of hESCs expressing the pluripotent surface markers Tra1-60, Tra1-81, Tra-2-54, SSEA3, and SSEA4 after five passages (Figure <figr fid="F3">3d</figr> and Additional file <supplr sid="S2">2</supplr>, Table S4). However, by PD38, a significant decline was apparent in the proportion of hESC cells expressing Tra-1-81 and SSEA4 compared with hESCs cultured on feeders at PD8 (<it>P </it>&lt; 0.05; Figure <figr fid="F3">3e, f</figr>, and Additional file <supplr sid="S2">2</supplr>, Table S4). Consistent with this, hESCs cultured on NclFed1A at PD38 showed morphologic signs of differentiation (Figure <figr fid="F3">3e</figr> and <figr fid="F3">3f</figr>). Thus, NclFed1A remains supportive of hESC self-renewal up to PD28. This is surprising, given that expression of the hESC supportive factors was greatly reduced at an equivalent number of population doublings (Table <tblr tid="T2">2</tblr>).</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Neu5Gc content is reduced after culture in xeno-free medium</p>
+            </st>
+            <p>Given that cells cultured in the presence of animal-derived products have been reported to contain the nonhuman form of sialic acid (Neu5Gc), which is immunogenic for humans <abbrgrp><abbr bid="B31">31</abbr></abbrgrp>, we determined whether the sialic acid content of NclFed1A could be reduced by transferring the cells to a xeno-free medium (KOSR-XF) before using them as feeder cells for hESCs. The concentration of Neu5Gc was measured with HPLC at 2-day intervals for 6 days after transfer of inactivated NclFed1A cells into KOSR-XF medium. By day 2, a 64% reduction in Neu5Gc content was found, compared with inactivated fibroblasts cultured in xeno-containing hESC (KOSR) medium at day 2 (Figure <figr fid="F4">4a</figr>). No significant further reduction was observed for 6 days.</p>
+            <fig id="F4">
+               <title>
+                  <p>Figure 4</p>
+               </title>
+               <caption>
+                  <p>High-performance liquid chromatography (HPLC) analysis showing the concentration of Neu5Gc in cells cultured in xeno-free human embryonic stem cell (hESC) medium (KOSR-XF) and xeno-containing medium (KOSR)</p>
+               </caption>
+               <text>
+                  <p><b>High-performance liquid chromatography (HPLC) analysis showing the concentration of Neu5Gc in cells cultured in xeno-free human embryonic stem cell (hESC) medium (KOSR-XF) and xeno-containing medium (KOSR)</b>. <b>(a) </b>The concentration of Neu5Gc in inactivated and noninactivated NclFed1A cells cultured in KOSR-XF and KOSR medium for 2 to 6 days. <b>(b, c) </b>The HPLC trace of Neu5Gc concentration in noninactivated NclFed1A cultured for 6 days in <b>(b) </b>KOSR and <b>(c) </b>KOSR-XF.</p>
+               </text>
+               <graphic file="scrt103-4" hint_layout="double"/>
+            </fig>
+            <p>We then tested whether the level of Neu5Gc could be further reduced by culturing NclFed1A in KOSR-XF medium for 6 days before inactivation. This strategy resulted in a 93% reduction in Neu5Gc concentration (0.63 versus 0.04 pMol/1 million cells; Figure <figr fid="F4">4b</figr> and <figr fid="F4">4c</figr>) compared with cells grown in xeno-containing KOSR medium. Even though the fibroblasts proliferated slowly in KOSR-XF, this did not affect their ability to support self-renewal of hESCs after inactivation (data not shown).</p>
+         </sec>
+      </sec>
+      <sec>
+         <st>
+            <p>Discussion</p>
+         </st>
+         <p>Here we report on the successful production of a GMP-grade fibroblast line (NclFed1A), characterized for use as feeder cells for the derivation and long-term culture of hESCs, as summarised in Table <tblr tid="T3">3</tblr>. The efficiency of hESC derivation from human blastocysts was comparable to that of MEF lines. In addition, NclFed1A compared favorably with commercially available fibroblasts in supporting proliferation and pluripotency of a number of widely used hESC lines. To the best of our knowledge, this is the first report that describes the production of a GMP-grade fibroblast line characterized for the derivation and culture of hESCs.</p>
+         <tbl id="T3" hint_layout="double">
+            <title>
+               <p>Table 3</p>
+            </title>
+            <caption>
+               <p>The characteristics of NclFed1A</p>
+            </caption>
+            <tblbdy cols="2">
+               <r>
+                  <c ca="left">
+                     <p><b>Characteristics</b></p>
+                  </c>
+                  <c ca="left">
+                     <p><b>Result</b></p>
+                  </c>
+               </r>
+               <r>
+                  <c cspan="2">
+                     <hr/>
+                  </c>
+               </r>
+               <r>
+                  <c ca="left">
+                     <p>Characterization of NclFed1A</p>
+                  </c>
+                  <c>
+                     <p/>
+                  </c>
+               </r>
+               <r>
+                  <c cspan="1">
+                     <hr/>
+                  </c>
+                  <c>
+                     <p/>
+                  </c>
+               </r>
+               <r>
+                  <c ca="left">
+                     <p>Expression of fibroblast markers</p>
+                  </c>
+                  <c ca="left">
+                     <p>Expresses HFFCellect, 5B5, CD90, CD44, and CD160</p>
+                  </c>
+               </r>
+               <r>
+                  <c ca="left">
+                     <p>Karyology</p>
+                  </c>
+                  <c ca="left">
+                     <p>Normal male karyotype</p>
+                  </c>
+               </r>
+               <r>
+                  <c ca="left">
+                     <p>Identification</p>
+                  </c>
+                  <c ca="left">
+                     <p>STR analysis determined</p>
+                  </c>
+               </r>
+               <r>
+                  <c ca="left">
+                     <p>Cell-doubling time</p>
+                  </c>
+                  <c ca="left">
+                     <p>26.7 &#177; 13 hours</p>
+                  </c>
+               </r>
+               <r>
+                  <c ca="left">
+                     <p>Biosafety testing on the MCB</p>
+                  </c>
+                  <c>
+                     <p/>
+                  </c>
+               </r>
+               <r>
+                  <c cspan="1">
+                     <hr/>
+                  </c>
+                  <c>
+                     <p/>
+                  </c>
+               </r>
+               <r>
+                  <c ca="left">
+                     <p>Sterility</p>
+                  </c>
+                  <c ca="left">
+                     <p>Not detected</p>
+                  </c>
+               </r>
+               <r>
+                  <c ca="left">
+                     <p>Mycoplasma</p>
+                  </c>
+                  <c ca="left">
+                     <p>Not detected</p>
+                  </c>
+               </r>
+               <r>
+                  <c ca="left">
+                     <p>Retroviruses</p>
+                  </c>
+                  <c ca="left">
+                     <p>Not detected</p>
+                  </c>
+               </r>
+               <r>
+                  <c ca="left">
+                     <p>Human viruses HIV 1 and 2 provirus, HTLV 1 and 2 provirus, HAV, HBV, HCV, HHV-6, HHV-7, HHV-8, hCMV, EBV, SV40, and B19</p>
+                  </c>
+                  <c ca="left">
+                     <p>Not detected</p>
+                  </c>
+               </r>
+               <r>
+                  <c ca="left">
+                     <p>Bovine viruses (9CFR)</p>
+                  </c>
+                  <c ca="left">
+                     <p>Not detected</p>
+                  </c>
+               </r>
+               <r>
+                  <c ca="left">
+                     <p>Ability to support hESCs</p>
+                  </c>
+                  <c>
+                     <p/>
+                  </c>
+               </r>
+               <r>
+                  <c cspan="1">
+                     <hr/>
+                  </c>
+                  <c>
+                     <p/>
+                  </c>
+               </r>
+               <r>
+                  <c ca="left">
+                     <p>Ability to support hESC derivation</p>
+                  </c>
+                  <c ca="left">
+                     <p>33% (three of nine blastocysts plated)</p>
+                  </c>
+               </r>
+               <r>
+                  <c ca="left">
+                     <p>Ability to support hESC culture</p>
+                  </c>
+                  <c ca="left">
+                     <p>Yes (up to 28 population doublings from the MCB)</p>
+                  </c>
+               </r>
+            </tblbdy>
+         </tbl>
+         <p>Our tissue of choice was foreskin fibroblasts, as it is easily accessible from healthy individuals undergoing circumcisions for religious practices. Furthermore, as the tissue was sourced from a child of about 6 months old, it is in compliance with the US Food and Drug Administration (FDA) regulations relating to the risk of prion contamination of primary tissue sourced from donors in the UK born before 1996 <abbrgrp><abbr bid="B32">32</abbr></abbrgrp>. As further precautionary measures to minimize the transmission of infectious agents, we selected healthy low-risk donors based on their medical histories. Further preventive measures may include donor-blood biosafety testing that is routinely carried out for organ transplants and when tissue/cells are immediately transferred to a recipient. Because NclFed1A is intended to support the proliferation of hESCs and not for direct therapeutic use, we confined our biosafety testing to the cell line.</p>
+         <p>Although the use of xeno-containing media is not incompatible with GMP compliance, culturing in xeno-containing media results in increased sialic acid (Neu5Gc) concentration and the risk of immune rejection of hESC derivatives <abbrgrp><abbr bid="B31">31</abbr></abbrgrp>. However, our attempts to derive a feeder cell line in the absence of animal components were hampered by the lack of a suitable xeno-free GMP-grade culture medium. We therefore opted to use FBS-containing medium, which has previously been used to produce cells intended for therapeutic use. For example, FBS-containing media have been used for several years for keratinocyte-based human therapies <abbrgrp><abbr bid="B33">33</abbr></abbrgrp>. More recently, clinical grade hESC lines have been produced by using xeno-containing medium <abbrgrp><abbr bid="B15">15</abbr></abbrgrp>. To minimize the risks associated with FBS, we used qualified FBS sourced from Australia that has had no reported cases of BSE, and tested the cell line for pathogens and retroviruses in accordance with Eu Pharmacopoeia. These results were negative, so we tested whether a reduction in immunogenicity could be achieved after transfer of the feeder cells into xeno-free medium. In agreement with previous studies, we found that the concentration of Neu5Gc was greatly reduced by culturing cells in KOSR-XF medium <abbrgrp><abbr bid="B31">31</abbr><abbr bid="B34">34</abbr></abbrgrp>. A more substantial effect (93% reduction) was achieved when cells were transferred to the KOSR-XF medium before inactivation.</p>
+         <p>Tests for mRNA expression of proteins thought to be supportive of self-renewal <abbrgrp><abbr bid="B14">14</abbr></abbrgrp> revealed that eight of the 10 transcripts predicted to support hESCs <abbrgrp><abbr bid="B14">14</abbr></abbrgrp> were present up to PD10 from the MCB. By contrast, only four (Col1a, HAS2, IGFBP3, and Grem1) were detected at PD28. This indicates that the gene-expression profile changes during the repeated passage of dermal fibroblasts derived from primary tissue. Surprisingly, this did not have any detectable effect on the ability of NclFed1A to support hESC self-renewal. This implies that feeder cell-derived Col3A1, Col5A1, ADAM33, FGF2, fibronectin, and heparin sulfate proteoglycan is not essential for maintenance of hESC lines, by using our culture conditions.</p>
+         <p>Finally, although significant progress has been made in the production of defined matrices such as laminin <abbrgrp><abbr bid="B35">35</abbr><abbr bid="B36">36</abbr></abbrgrp>, vitronectin <abbrgrp><abbr bid="B37">37</abbr></abbrgrp>, and fibronectin <abbrgrp><abbr bid="B35">35</abbr></abbrgrp> to support self-renewal of hESCs, a reliable feeder-free system for hESC derivation has not yet been reported. Thus, in the short term, at least, production of new clinical grade hESC lines will require a source of GMP-compliant feeder cells validated for this purpose. Importantly, specific consent was obtained for the use of NclFed1A as a feeder cell line for hESCs and for iPSCs. Consent was also obtained to generate iPSCs from this cell line. NclFed1A is available to the research and clinical community.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Conclusions</p>
+         </st>
+         <p>To the best of our knowledge, no consistent reports exist on the derivation of new hESC lines by using feeder-free systems; therefore, the next generation of GMP-grade hESCs will require feeder cells. NclFed1A was derived because of a lack of readily available GMP-grade fibroblasts that have been consented for and validated to support hESC and iPSC culture. We showed that NclFed1A was comparable to non-GMP-grade fibroblasts widely used to support hESC derivation and culture. This cell line is available to the research and clinical community.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Abbreviations</p>
+         </st>
+         <p>FBS: fetal bovine serum; FDA: Food and Drug Administration; GMP: good manufacturing practice; hESC: human embryonic stem cell; HFEA: Human Fertility and Embryo Authority; HTA: Human Tissue Authority; iPSC: induced pluripotent stem cell; KOSR: KnockOut serum replacement; KOSR-XF: KnockOut serum replacement xeno-free; MCB: master cell bank; mEFs: mouse embryonic fibroblasts; MHRA: Medicines and Healthcare Products Regulatory Agency; Neu5Gc: N-glycolylneuraminic acid; NclFed1a: CPR/HGP/Ncl/Fed1A; P: passage; PDs: population doublings from the MCB; PSB: preseed bank.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Competing interests</p>
+         </st>
+         <p>The authors declare that they have no competing interests.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Authors' contributions</p>
+         </st>
+         <p>MH, AM, and NP conceived and designed the study; LF derived the MCB; AB and HL established and executed the Quality Management System; NP, RS, RB, RO, GL, LF, LY, and LH characterized and qualified the cell line; and NP, MH, and AM prepared the manuscript. All authors read and approved the manuscript.</p>
+      </sec>
+   </bdy>
+   <bm>
+      <ack>
+         <sec>
+            <st>
+               <p>Acknowledgements</p>
+            </st>
+            <p>The authors thank the Newcastle Biomanufacturing Facility for supporting this study through use of their Quality Management system and the clean rooms. Additionally, the authors thank L Hyslop for critically reading the manuscript.</p>
+            <p>The Knott Trust and One Northeast funded the derivation and characterization of NclFed1A. Regener8 funded the development of the isolators used in the derivation of the hESC lines.</p>
+         </sec>
+      </ack>
+      <refgrp>
+         <bibl id="B1">
+            <title>
+               <p>Derivation of GMP raw materials for use in regenerative medicine: hESC-based therapies, progress toward clinical application</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Hewitt</snm>
+                  <fnm>ZA</fnm>
+               </au>
+               <au>
+                  <snm>Amps</snm>
+                  <fnm>KJ</fnm>
+               </au>
+               <au>
+                  <snm>Moore</snm>
+                  <fnm>HD</fnm>
+               </au>
+            </aug>
+            <source>Clin Pharmacol Ther</source>
+            <pubdate>2007</pubdate>
+            <volume>82</volume>
+            <fpage>448</fpage>
+            <lpage>452</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/sj.clpt.6100321</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17687270</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B2">
+            <title>
+               <p>Embryonic stem cell lines derived from human blastocysts</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Thomson</snm>
+                  <fnm>JA</fnm>
+               </au>
+               <au>
+                  <snm>Itskovitz-Eldor</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Shapiro</snm>
+                  <fnm>SS</fnm>
+               </au>
+               <au>
+                  <snm>Waknitz</snm>
+                  <fnm>MA</fnm>
+               </au>
+               <au>
+                  <snm>Swiergiel</snm>
+                  <fnm>JJ</fnm>
+               </au>
+               <au>
+                  <snm>Marshall</snm>
+                  <fnm>VS</fnm>
+               </au>
+               <au>
+                  <snm>Jones</snm>
+                  <fnm>JM</fnm>
+               </au>
+            </aug>
+            <source>Science</source>
+            <pubdate>1998</pubdate>
+            <volume>282</volume>
+            <fpage>1145</fpage>
+            <lpage>1147</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid" link="fulltext">9804556</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B3">
+            <title>
+               <p>Human ESCs predisposition to karyotypic instability: is it a matter of culture adaptation or differential vulnerability among hESC lines due to inherent properties?</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Catalina</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Montes</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Ligero</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Sanchez</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>de la Cueva</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Bueno</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Leone</snm>
+                  <fnm>PE</fnm>
+               </au>
+               <au>
+                  <snm>Menendez</snm>
+                  <fnm>P</fnm>
+               </au>
+            </aug>
+            <source>Mol Cancer</source>
+            <pubdate>2008</pubdate>
+            <volume>7</volume>
+            <fpage>76</fpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1186/1476-4598-7-76</pubid>
+                  <pubid idtype="pmcid">2567976</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18834512</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B4">
+            <title>
+               <p>Good manufacturing practice and clinical-grade human embryonic stem cell lines</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Unger</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Skottman</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Blomberg</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Dilber</snm>
+                  <fnm>MS</fnm>
+               </au>
+               <au>
+                  <snm>Hovatta</snm>
+                  <fnm>O</fnm>
+               </au>
+            </aug>
+            <source>Hum Mol Genet</source>
+            <pubdate>2008</pubdate>
+            <volume>17</volume>
+            <fpage>R48</fpage>
+            <lpage>53</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1093/hmg/ddn079</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18632697</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B5">
+            <title>
+               <p>Derivation of human embryonic stem cells in defined conditions</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Ludwig</snm>
+                  <fnm>TE</fnm>
+               </au>
+               <au>
+                  <snm>Levenstein</snm>
+                  <fnm>ME</fnm>
+               </au>
+               <au>
+                  <snm>Jones</snm>
+                  <fnm>JM</fnm>
+               </au>
+               <au>
+                  <snm>Berggren</snm>
+                  <fnm>WT</fnm>
+               </au>
+               <au>
+                  <snm>Mitchen</snm>
+                  <fnm>ER</fnm>
+               </au>
+               <au>
+                  <snm>Frane</snm>
+                  <fnm>JL</fnm>
+               </au>
+               <au>
+                  <snm>Crandall</snm>
+                  <fnm>LJ</fnm>
+               </au>
+               <au>
+                  <snm>Daigh</snm>
+                  <fnm>CA</fnm>
+               </au>
+               <au>
+                  <snm>Conard</snm>
+                  <fnm>KR</fnm>
+               </au>
+               <au>
+                  <snm>Piekarczyk</snm>
+                  <fnm>MS</fnm>
+               </au>
+               <au>
+                  <snm>Llanas</snm>
+                  <fnm>RA</fnm>
+               </au>
+               <au>
+                  <snm>Thomson</snm>
+                  <fnm>JA</fnm>
+               </au>
+            </aug>
+            <source>Nat Biotechnol</source>
+            <pubdate>2006</pubdate>
+            <volume>24</volume>
+            <fpage>185</fpage>
+            <lpage>187</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/nbt1177</pubid>
+                  <pubid idtype="pmpid" link="fulltext">16388305</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B6">
+            <title>
+               <p>Derivation of a xeno-free human embryonic stem cell line</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Ellerstrom</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Strehl</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Moya</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Andersson</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Bergh</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Lundin</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Hyllner</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Semb</snm>
+                  <fnm>H</fnm>
+               </au>
+            </aug>
+            <source>Stem Cells</source>
+            <pubdate>2006</pubdate>
+            <volume>24</volume>
+            <fpage>2170</fpage>
+            <lpage>2176</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1634/stemcells.2006-0130</pubid>
+                  <pubid idtype="pmpid" link="fulltext">16741223</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B7">
+            <title>
+               <p>Derivation of human embryonic stem cell lines in serum replacement medium using postnatal human fibroblasts as feeder cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Inzunza</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Gertow</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Stromberg</snm>
+                  <fnm>MA</fnm>
+               </au>
+               <au>
+                  <snm>Matilainen</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Blennow</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Skottman</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Wolbank</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Ahrlund-Richter</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Hovatta</snm>
+                  <fnm>O</fnm>
+               </au>
+            </aug>
+            <source>Stem Cells</source>
+            <pubdate>2005</pubdate>
+            <volume>23</volume>
+            <fpage>544</fpage>
+            <lpage>549</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1634/stemcells.2004-0201</pubid>
+                  <pubid idtype="pmpid" link="fulltext">15790775</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B8">
+            <title>
+               <p>Derivation of human embryonic stem cells from developing and arrested embryos</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Zhang</snm>
+                  <fnm>X</fnm>
+               </au>
+               <au>
+                  <snm>Stojkovic</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Przyborski</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Cooke</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Armstrong</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Lako</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Stojkovic</snm>
+                  <fnm>M</fnm>
+               </au>
+            </aug>
+            <source>Stem Cells</source>
+            <pubdate>2006</pubdate>
+            <volume>24</volume>
+            <fpage>2669</fpage>
+            <lpage>2676</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1634/stemcells.2006-0377</pubid>
+                  <pubid idtype="pmpid" link="fulltext">16990582</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B9">
+            <title>
+               <p>Human feeder layers for human embryonic stem cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Amit</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Margulets</snm>
+                  <fnm>V</fnm>
+               </au>
+               <au>
+                  <snm>Segev</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Shariki</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Laevsky</snm>
+                  <fnm>I</fnm>
+               </au>
+               <au>
+                  <snm>Coleman</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Itskovitz-Eldor</snm>
+                  <fnm>J</fnm>
+               </au>
+            </aug>
+            <source>Biol Reprod</source>
+            <pubdate>2003</pubdate>
+            <volume>68</volume>
+            <fpage>2150</fpage>
+            <lpage>2156</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid" link="fulltext">12606388</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B10">
+            <title>
+               <p>A culture system using human foreskin fibroblasts as feeder cells allows production of human embryonic stem cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Hovatta</snm>
+                  <fnm>O</fnm>
+               </au>
+               <au>
+                  <snm>Mikkola</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Gertow</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Stromberg</snm>
+                  <fnm>AM</fnm>
+               </au>
+               <au>
+                  <snm>Inzunza</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Hreinsson</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Rozell</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Blennow</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Andang</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Ahrlund-Richter</snm>
+                  <fnm>L</fnm>
+               </au>
+            </aug>
+            <source>Hum Reprod</source>
+            <pubdate>2003</pubdate>
+            <volume>18</volume>
+            <fpage>1404</fpage>
+            <lpage>1409</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1093/humrep/deg290</pubid>
+                  <pubid idtype="pmpid" link="fulltext">12832363</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B11">
+            <title>
+               <p>A proteome analysis of conditioned media from human neonatal fibroblasts used in the maintenance of human embryonic stem cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Prowse</snm>
+                  <fnm>AB</fnm>
+               </au>
+               <au>
+                  <snm>McQuade</snm>
+                  <fnm>LR</fnm>
+               </au>
+               <au>
+                  <snm>Bryant</snm>
+                  <fnm>KJ</fnm>
+               </au>
+               <au>
+                  <snm>Van Dyk</snm>
+                  <fnm>DD</fnm>
+               </au>
+               <au>
+                  <snm>Tuch</snm>
+                  <fnm>BE</fnm>
+               </au>
+               <au>
+                  <snm>Gray</snm>
+                  <fnm>PP</fnm>
+               </au>
+            </aug>
+            <source>Proteomics</source>
+            <pubdate>2005</pubdate>
+            <volume>5</volume>
+            <fpage>978</fpage>
+            <lpage>989</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1002/pmic.200401087</pubid>
+                  <pubid idtype="pmpid" link="fulltext">15712233</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B12">
+            <title>
+               <p>Comparative evaluation of various human feeders for prolonged undifferentiated growth of human embryonic stem cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Richards</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Tan</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Fong</snm>
+                  <fnm>CY</fnm>
+               </au>
+               <au>
+                  <snm>Biswas</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Chan</snm>
+                  <fnm>WK</fnm>
+               </au>
+               <au>
+                  <snm>Bongso</snm>
+                  <fnm>A</fnm>
+               </au>
+            </aug>
+            <source>Stem Cells</source>
+            <pubdate>2003</pubdate>
+            <volume>21</volume>
+            <fpage>546</fpage>
+            <lpage>556</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1634/stemcells.21-5-546</pubid>
+                  <pubid idtype="pmpid" link="fulltext">12968109</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B13">
+            <title>
+               <p>Derivation and characterization of three new Spanish human embryonic stem cell lines (VAL -3 -4 -5) on human feeder and in serum-free conditions</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Valbuena</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Galan</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Sanchez</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Poo</snm>
+                  <fnm>ME</fnm>
+               </au>
+               <au>
+                  <snm>Gomez</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Sanchez-Luengo</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Melguizo</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Garcia</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Ruiz</snm>
+                  <fnm>V</fnm>
+               </au>
+               <au>
+                  <snm>Moreno</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Pellicer</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Simon</snm>
+                  <fnm>C</fnm>
+               </au>
+            </aug>
+            <source>Reprod Biomed Online</source>
+            <pubdate>2006</pubdate>
+            <volume>13</volume>
+            <fpage>875</fpage>
+            <lpage>886</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/S1472-6483(10)61038-3</pubid>
+                  <pubid idtype="pmpid">17169214</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B14">
+            <title>
+               <p>The search for factors in human feeders that support the derivation and propagation of human embryonic stem cells: preliminary studies using transcriptome profiling by serial analysis of gene expression</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Kueh</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Richards</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Ng</snm>
+                  <fnm>SW</fnm>
+               </au>
+               <au>
+                  <snm>Chan</snm>
+                  <fnm>WK</fnm>
+               </au>
+               <au>
+                  <snm>Bongso</snm>
+                  <fnm>A</fnm>
+               </au>
+            </aug>
+            <source>Fertil Steril</source>
+            <pubdate>2006</pubdate>
+            <volume>85</volume>
+            <fpage>1843</fpage>
+            <lpage>1846</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.fertnstert.2005.11.042</pubid>
+                  <pubid idtype="pmpid" link="fulltext">16674954</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B15">
+            <title>
+               <p>The generation of six clinical-grade human embryonic stem cell lines</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Crook</snm>
+                  <fnm>JM</fnm>
+               </au>
+               <au>
+                  <snm>Peura</snm>
+                  <fnm>TT</fnm>
+               </au>
+               <au>
+                  <snm>Kravets</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Bosman</snm>
+                  <fnm>AG</fnm>
+               </au>
+               <au>
+                  <snm>Buzzard</snm>
+                  <fnm>JJ</fnm>
+               </au>
+               <au>
+                  <snm>Horne</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Hentze</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Dunn</snm>
+                  <fnm>NR</fnm>
+               </au>
+               <au>
+                  <snm>Zweigerdt</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Chua</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Upshall</snm>
+                  <fnm>A</fnm>
+               </au>
+            </aug>
+            <source>Cell Stem cell</source>
+            <pubdate>2007</pubdate>
+            <volume>1</volume>
+            <fpage>490</fpage>
+            <lpage>494</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.stem.2007.10.004</pubid>
+                  <pubid idtype="pmpid">18938745</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B16">
+            <title>
+               <p>Serum-free derivation of human embryonic stem cell lines on human placental fibroblast feeders</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Genbacev</snm>
+                  <fnm>O</fnm>
+               </au>
+               <au>
+                  <snm>Krtolica</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Zdravkovic</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Brunette</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Powell</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Nath</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Caceres</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>McMaster</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>McDonagh</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Li</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Mandalam</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Lebkowski</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Fisher</snm>
+                  <fnm>SJ</fnm>
+               </au>
+            </aug>
+            <source>Fertil Steril</source>
+            <pubdate>2005</pubdate>
+            <volume>83</volume>
+            <fpage>1517</fpage>
+            <lpage>1529</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.fertnstert.2005.01.086</pubid>
+                  <pubid idtype="pmpid" link="fulltext">15866593</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B17">
+            <title>
+               <p>Derivation and feeder-free propagation of human embryonic stem cells under xeno-free conditions</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Ilic</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Stephenson</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Wood</snm>
+                  <fnm>V</fnm>
+               </au>
+               <au>
+                  <snm>Jacquet</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Stevenson</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Petrova</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Kadeva</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Codognotto</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Patel</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Semple</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Cornwell</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Ogilvie</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Braude</snm>
+                  <fnm>P</fnm>
+               </au>
+            </aug>
+            <source>Cytotherapy</source>
+            <pubdate>2011</pubdate>
+            <volume>14</volume>
+            <fpage>122</fpage>
+            <lpage>128</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid" link="fulltext">22029654</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B18">
+            <title>
+               <p>Human feeders support prolonged undifferentiated growth of human inner cell masses and embryonic stem cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Richards</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Fong</snm>
+                  <fnm>CY</fnm>
+               </au>
+               <au>
+                  <snm>Chan</snm>
+                  <fnm>WK</fnm>
+               </au>
+               <au>
+                  <snm>Wong</snm>
+                  <fnm>PC</fnm>
+               </au>
+               <au>
+                  <snm>Bongso</snm>
+                  <fnm>A</fnm>
+               </au>
+            </aug>
+            <source>Nat Biotechnol</source>
+            <pubdate>2002</pubdate>
+            <volume>20</volume>
+            <fpage>933</fpage>
+            <lpage>936</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/nbt726</pubid>
+                  <pubid idtype="pmpid" link="fulltext">12161760</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B19">
+            <title>
+               <p>CHMP/CAT postion statement on Creutzfeldt-Jakob disease and advanced medicinal products</p>
+            </title>
+            <publisher>London, UK</publisher>
+            <editor>Agency EM</editor>
+            <pubdate>2011</pubdate>
+         </bibl>
+         <bibl id="B20">
+            <title>
+               <p>Comparison of defined culture systems for feeder cell free propagation of human embryonic stem cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Akopian</snm>
+                  <fnm>V</fnm>
+               </au>
+               <au>
+                  <snm>Andrews</snm>
+                  <fnm>PW</fnm>
+               </au>
+               <au>
+                  <snm>Beil</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Benvenisty</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Brehm</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Christie</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Ford</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Fox</snm>
+                  <fnm>V</fnm>
+               </au>
+               <au>
+                  <snm>Gokhale</snm>
+                  <fnm>PJ</fnm>
+               </au>
+               <au>
+                  <snm>Healy</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Holm</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Hovatta</snm>
+                  <fnm>O</fnm>
+               </au>
+               <au>
+                  <snm>Knowles</snm>
+                  <fnm>BB</fnm>
+               </au>
+               <au>
+                  <snm>Ludwig</snm>
+                  <fnm>TE</fnm>
+               </au>
+               <au>
+                  <snm>McKay</snm>
+                  <fnm>RD</fnm>
+               </au>
+               <au>
+                  <snm>Miyazaki</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Nakatsuji</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Oh</snm>
+                  <fnm>SK</fnm>
+               </au>
+               <au>
+                  <snm>Pera</snm>
+                  <fnm>MF</fnm>
+               </au>
+               <au>
+                  <snm>Rossant</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Stacey</snm>
+                  <fnm>GN</fnm>
+               </au>
+               <au>
+                  <snm>Suemori</snm>
+                  <fnm>H</fnm>
+               </au>
+            </aug>
+            <source>In Vitro Cell Dev Biol Anim</source>
+            <pubdate>2010</pubdate>
+            <volume>46</volume>
+            <fpage>247</fpage>
+            <lpage>258</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1007/s11626-010-9297-z</pubid>
+                  <pubid idtype="pmcid">2855804</pubid>
+                  <pubid idtype="pmpid" link="fulltext">20186512</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B21">
+            <title>
+               <p>Human uptake and incorporation of an immunogenic nonhuman dietary sialic acid</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Tangvoranuntakul</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Gagneux</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Diaz</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Bardor</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Varki</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Varki</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Muchmore</snm>
+                  <fnm>E</fnm>
+               </au>
+            </aug>
+            <source>Proc Natl Acad Sci USA</source>
+            <pubdate>2003</pubdate>
+            <volume>100</volume>
+            <fpage>12045</fpage>
+            <lpage>12050</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1073/pnas.2131556100</pubid>
+                  <pubid idtype="pmcid">218710</pubid>
+                  <pubid idtype="pmpid" link="fulltext">14523234</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B22">
+            <title>
+               <p>A mutation in human CMP-sialic acid hydroxylase occurred after the Homo-Pan divergence</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Chou</snm>
+                  <fnm>HH</fnm>
+               </au>
+               <au>
+                  <snm>Takematsu</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Diaz</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Iber</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Nickerson</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Wright</snm>
+                  <fnm>KL</fnm>
+               </au>
+               <au>
+                  <snm>Muchmore</snm>
+                  <fnm>EA</fnm>
+               </au>
+               <au>
+                  <snm>Nelson</snm>
+                  <fnm>DL</fnm>
+               </au>
+               <au>
+                  <snm>Warren</snm>
+                  <fnm>ST</fnm>
+               </au>
+               <au>
+                  <snm>Varki</snm>
+                  <fnm>A</fnm>
+               </au>
+            </aug>
+            <source>Proc Natl Acad Sci USA</source>
+            <pubdate>1998</pubdate>
+            <volume>95</volume>
+            <fpage>11751</fpage>
+            <lpage>11756</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1073/pnas.95.20.11751</pubid>
+                  <pubid idtype="pmcid">21712</pubid>
+                  <pubid idtype="pmpid" link="fulltext">9751737</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B23">
+            <title>
+               <p>Fibroblast markers in labial salivary gland biopsies in progressive systemic sclerosis</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Janin</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Konttinen</snm>
+                  <fnm>YT</fnm>
+               </au>
+               <au>
+                  <snm>Gronblad</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Karhunen</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Gosset</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Malmstrom</snm>
+                  <fnm>M</fnm>
+               </au>
+            </aug>
+            <source>Clin Exp Rheumatol</source>
+            <pubdate>1990</pubdate>
+            <volume>8</volume>
+            <fpage>237</fpage>
+            <lpage>242</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid">2165882</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B24">
+            <title>
+               <p>Purification of Thy-1-related glycoproteins from human brain and fibroblasts: comparisons between these molecules and murine glycoproteins carrying Thy-1.1 and Thy-1.2 antigens</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Cotmore</snm>
+                  <fnm>SF</fnm>
+               </au>
+               <au>
+                  <snm>Crowhurst</snm>
+                  <fnm>SA</fnm>
+               </au>
+               <au>
+                  <snm>Waterfield</snm>
+                  <fnm>MD</fnm>
+               </au>
+            </aug>
+            <source>Eur J Immunol</source>
+            <pubdate>1981</pubdate>
+            <volume>11</volume>
+            <fpage>597</fpage>
+            <lpage>603</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1002/eji.1830110802</pubid>
+                  <pubid idtype="pmpid" link="fulltext">7274325</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B25">
+            <title>
+               <p>Multilineage differentiation potential of human dermal skin-derived fibroblasts</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Lorenz</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Sicker</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Schmelzer</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Rupf</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Salvetter</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Schulz-Siegmund</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Bader</snm>
+                  <fnm>A</fnm>
+               </au>
+            </aug>
+            <source>Exp Dermatol</source>
+            <pubdate>2008</pubdate>
+            <volume>17</volume>
+            <fpage>925</fpage>
+            <lpage>932</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1111/j.1600-0625.2008.00724.x</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18557932</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B26">
+            <title>
+               <p>Identification of markers that distinguish monocyte-derived fibrocytes from monocytes, macrophages, and fibroblasts</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Pilling</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Fan</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Huang</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Kaul</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Gomer</snm>
+                  <fnm>RH</fnm>
+               </au>
+            </aug>
+            <source>PloS One</source>
+            <pubdate>2009</pubdate>
+            <volume>4</volume>
+            <fpage>e7475</fpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1371/journal.pone.0007475</pubid>
+                  <pubid idtype="pmcid">2759556</pubid>
+                  <pubid idtype="pmpid" link="fulltext">19834619</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B27">
+            <title>
+               <p>CD44 is the major peanut lectin-binding glycoprotein of human epidermal keratinocytes and plays a role in intercellular adhesion</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Hudson</snm>
+                  <fnm>DL</fnm>
+               </au>
+               <au>
+                  <snm>Sleeman</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Watt</snm>
+                  <fnm>FM</fnm>
+               </au>
+            </aug>
+            <source>J Cell Sci</source>
+            <pubdate>1995</pubdate>
+            <volume>108</volume>
+            <fpage>1959</fpage>
+            <lpage>1970</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid" link="fulltext">7544799</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B28">
+            <title>
+               <p>Horse embryonic stem cell lines from the proliferation of inner cell mass cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Li</snm>
+                  <fnm>X</fnm>
+               </au>
+               <au>
+                  <snm>Zhou</snm>
+                  <fnm>SG</fnm>
+               </au>
+               <au>
+                  <snm>Imreh</snm>
+                  <fnm>MP</fnm>
+               </au>
+               <au>
+                  <snm>Ahrlund-Richter</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Allen</snm>
+                  <fnm>WR</fnm>
+               </au>
+            </aug>
+            <source>Stem Cells Dev</source>
+            <pubdate>2006</pubdate>
+            <volume>15</volume>
+            <fpage>523</fpage>
+            <lpage>531</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1089/scd.2006.15.523</pubid>
+                  <pubid idtype="pmpid" link="fulltext">16978056</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B29">
+            <title>
+               <p>Derivation, culture, and characterization of VUB hESC lines</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Mateizel</snm>
+                  <fnm>I</fnm>
+               </au>
+               <au>
+                  <snm>Spits</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>De Rycke</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Liebaers</snm>
+                  <fnm>I</fnm>
+               </au>
+               <au>
+                  <snm>Sermon</snm>
+                  <fnm>K</fnm>
+               </au>
+            </aug>
+            <source>In Vitro Cell Dev Biol Anim</source>
+            <pubdate>2010</pubdate>
+            <volume>46</volume>
+            <fpage>300</fpage>
+            <lpage>308</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1007/s11626-010-9284-4</pubid>
+                  <pubid idtype="pmpid" link="fulltext">20224973</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B30">
+            <title>
+               <p>Mouse embryonic fibroblast feeder cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Stubban</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Wesselschmidt</snm>
+                  <fnm>RL</fnm>
+               </au>
+            </aug>
+            <source>Human Stem Cell Manual</source>
+            <publisher>New York: Elsevier</publisher>
+            <editor>Loring JF, Wesselschmidt RL, Schwartz PH</editor>
+            <pubdate>2007</pubdate>
+            <fpage>35</fpage>
+            <lpage>46</lpage>
+         </bibl>
+         <bibl id="B31">
+            <title>
+               <p>Human embryonic stem cells express an immunogenic nonhuman sialic acid</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Martin</snm>
+                  <fnm>MJ</fnm>
+               </au>
+               <au>
+                  <snm>Muotri</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Gage</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Varki</snm>
+                  <fnm>A</fnm>
+               </au>
+            </aug>
+            <source>Nat Med</source>
+            <pubdate>2005</pubdate>
+            <volume>11</volume>
+            <fpage>228</fpage>
+            <lpage>232</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/nm1181</pubid>
+                  <pubid idtype="pmpid" link="fulltext">15685172</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B32">
+            <aug>
+               <au>
+                  <cnm>Food and Drug Administration, US Department of Health and Human Services</cnm>
+               </au>
+            </aug>
+            <source>Guidance for Industry: Revised Preventive Measures to Reduce the Possible Risk of Transmission of Creutzfeldt-Jakob Disease (CJD) and Variant Creutzfeldt-Jakob Disease (vCJD) by Blood and Blood Products</source>
+            <publisher>Washington, DC: Food and Drug Administration</publisher>
+            <pubdate>2010</pubdate>
+         </bibl>
+         <bibl id="B33">
+            <title>
+               <p>Clinical experience using cultured epithelial autografts leads to an alternative methodology for transferring skin cells from the laboratory to the patient</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Hernon</snm>
+                  <fnm>CA</fnm>
+               </au>
+               <au>
+                  <snm>Dawson</snm>
+                  <fnm>RA</fnm>
+               </au>
+               <au>
+                  <snm>Freedlander</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Short</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Haddow</snm>
+                  <fnm>DB</fnm>
+               </au>
+               <au>
+                  <snm>Brotherston</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>MacNeil</snm>
+                  <fnm>S</fnm>
+               </au>
+            </aug>
+            <source>Regen Med</source>
+            <pubdate>2006</pubdate>
+            <fpage>809</fpage>
+            <lpage>821</lpage>
+         </bibl>
+         <bibl id="B34">
+            <title>
+               <p><it>N</it>-glycolylneuraminic acid xenoantigen contamination of human embryonic and mesenchymal stem cells is substantially reversible</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Heiskanen</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Satomaa</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Tiitinen</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Laitinen</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Mannelin</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Impola</snm>
+                  <fnm>U</fnm>
+               </au>
+               <au>
+                  <snm>Mikkola</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Olsson</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Miller-Podraza</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Blomqvist M Olonen</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Salo</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Lehenkari</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Tuuri</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Otonkoski</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Natunen</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Saarinen</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Laine</snm>
+                  <fnm>J</fnm>
+               </au>
+            </aug>
+            <source>Stem Cells</source>
+            <pubdate>2007</pubdate>
+            <volume>25</volume>
+            <fpage>197</fpage>
+            <lpage>202</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1634/stemcells.2006-0444</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17008421</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B35">
+            <title>
+               <p>Defined culture conditions of human embryonic stem cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Lu</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Hou</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Booth</snm>
+                  <fnm>CJ</fnm>
+               </au>
+               <au>
+                  <snm>Yang</snm>
+                  <fnm>SH</fnm>
+               </au>
+               <au>
+                  <snm>Snyder</snm>
+                  <fnm>M</fnm>
+               </au>
+            </aug>
+            <source>Proc Natl Acad Sci USA</source>
+            <pubdate>2006</pubdate>
+            <volume>103</volume>
+            <fpage>5688</fpage>
+            <lpage>5693</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1073/pnas.0601383103</pubid>
+                  <pubid idtype="pmcid">1458634</pubid>
+                  <pubid idtype="pmpid" link="fulltext">16595624</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B36">
+            <title>
+               <p>Long-term self-renewal of human pluripotent stem cells on human recombinant laminin-511</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Rodin</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Domogatskaya</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Strom</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Hansson</snm>
+                  <fnm>EM</fnm>
+               </au>
+               <au>
+                  <snm>Chien</snm>
+                  <fnm>KR</fnm>
+               </au>
+               <au>
+                  <snm>Inzunza</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Hovatta</snm>
+                  <fnm>O</fnm>
+               </au>
+               <au>
+                  <snm>Tryggvason</snm>
+                  <fnm>K</fnm>
+               </au>
+            </aug>
+            <source>Nat Biotechnol</source>
+            <pubdate>2010</pubdate>
+            <volume>28</volume>
+            <fpage>611</fpage>
+            <lpage>615</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/nbt.1620</pubid>
+                  <pubid idtype="pmpid" link="fulltext">20512123</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B37">
+            <title>
+               <p>Human embryonic stem cells (hESCs) cultured under distinctive feeder-free culture conditions display global gene expression patterns similar to hESCs from feeder-dependent culture conditions</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Yoon</snm>
+                  <fnm>TM</fnm>
+               </au>
+               <au>
+                  <snm>Chang</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Kim</snm>
+                  <fnm>HT</fnm>
+               </au>
+               <au>
+                  <snm>Jee</snm>
+                  <fnm>JH</fnm>
+               </au>
+               <au>
+                  <snm>Kim</snm>
+                  <fnm>DW</fnm>
+               </au>
+               <au>
+                  <snm>Hwang</snm>
+                  <fnm>DY</fnm>
+               </au>
+            </aug>
+            <source>Stem Cell Rev</source>
+            <pubdate>2010</pubdate>
+            <volume>6</volume>
+            <fpage>425</fpage>
+            <lpage>437</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1007/s12015-010-9158-x</pubid>
+                  <pubid idtype="pmpid" link="fulltext">20521176</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B38">
+            <aug>
+               <au>
+                  <snm>Europe</snm>
+                  <fnm>Co</fnm>
+               </au>
+            </aug>
+            <source>European Pharmacopoeia</source>
+            <publisher>EDQM, Strasbourg, France</publisher>
+            <edition>6</edition>
+            <pubdate>2009</pubdate>
+         </bibl>
+         <bibl id="B39">
+            <title>
+               <p>One-step fluorescent probe product-enhanced reverse transcriptase assay</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Arnold</snm>
+                  <fnm>BA</fnm>
+               </au>
+               <au>
+                  <snm>Hepler</snm>
+                  <fnm>RW</fnm>
+               </au>
+               <au>
+                  <snm>Keller</snm>
+                  <fnm>PM</fnm>
+               </au>
+            </aug>
+            <source>Biotechniques</source>
+            <pubdate>1998</pubdate>
+            <volume>25</volume>
+            <fpage>98</fpage>
+            <lpage>106</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid">9668983</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B40">
+            <title>
+               <p>Use of a quantitative product-enhanced reverse transcriptase assay to monitor retrovirus levels in mAb cell-culture and downstream processing</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Brorson</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Swann</snm>
+                  <fnm>PG</fnm>
+               </au>
+               <au>
+                  <snm>Lizzio</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Maudru</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Peden</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Stein</snm>
+                  <fnm>KE</fnm>
+               </au>
+            </aug>
+            <source>Biotechnol Prog</source>
+            <pubdate>2001</pubdate>
+            <volume>17</volume>
+            <fpage>188</fpage>
+            <lpage>196</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1021/bp000153q</pubid>
+                  <pubid idtype="pmpid" link="fulltext">11170498</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B41">
+            <title>
+               <p>Regulations European Council Directives 2003/94/EC and 92/412/EEC</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Directives</snm>
+                  <fnm>EC</fnm>
+               </au>
+            </aug>
+            <publisher>Brussels, Belgium</publisher>
+            <pubdate>2003</pubdate>
+         </bibl>
+         <bibl id="B42">
+            <title>
+               <p>Food and Drug Admistration (FDA), Centre for Biologics and Evaluation Research (CBER). (1998)Letter to Viral Vaccine Product Manufacturer. Rockville, USA</p>
+            </title>
+            <aug>
+               <au>
+                  <cnm>FDA</cnm>
+               </au>
+            </aug>
+         </bibl>
+         <bibl id="B43">
+            <title>
+               <p>FDA Draft Guidance for Industry, Characterisation and qualification of cell substrates and other biological starting materials used in the production of viral vaccines for the prevention of and treatment of infectious disease</p>
+            </title>
+            <aug>
+               <au>
+                  <cnm>FDA</cnm>
+               </au>
+            </aug>
+            <source>Centre for Biologics and Evaluation Research (CBER)</source>
+            <publisher>Rockville, USA</publisher>
+            <pubdate>2006</pubdate>
+         </bibl>
+         <bibl id="B44">
+            <title>
+               <p>Viral saftey evaluation of biotechnology products derived from cell lines of human or animal origin</p>
+            </title>
+            <aug>
+               <au>
+                  <cnm>ICHQ5A</cnm>
+               </au>
+            </aug>
+            <publisher>London, UK</publisher>
+            <editor>GUIDELINE IHT</editor>
+            <pubdate>1999</pubdate>
+         </bibl>
+         <bibl id="B45">
+            <title>
+               <p>Applications of quantitative PCR in the biosafety and genetic stability assessment of biotechnology products</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Lovatt</snm>
+                  <fnm>A</fnm>
+               </au>
+            </aug>
+            <source>J Biotechnol</source>
+            <pubdate>2002</pubdate>
+            <volume>82</volume>
+            <fpage>279</fpage>
+            <lpage>300</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid" link="fulltext">11999695</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B46">
+            <title>
+               <p>High throughput detection of retrovirus-associated reverse transcriptase using an improved fluorescent product enhanced reverse transcriptase assay and its comparison to conventional detection methods</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Lovatt</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Black</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Galbraith</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Doherty</snm>
+                  <fnm>I</fnm>
+               </au>
+               <au>
+                  <snm>Moran</snm>
+                  <fnm>MW</fnm>
+               </au>
+               <au>
+                  <snm>Shepherd</snm>
+                  <fnm>AJ</fnm>
+               </au>
+               <au>
+                  <snm>Griffen</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Bailey</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Wilson</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Smith</snm>
+                  <fnm>KT</fnm>
+               </au>
+            </aug>
+            <source>J Virol Methods</source>
+            <pubdate>1999</pubdate>
+            <volume>82</volume>
+            <fpage>185</fpage>
+            <lpage>200</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/S0166-0934(99)00111-1</pubid>
+                  <pubid idtype="pmpid" link="fulltext">10894635</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B47">
+            <title>
+               <p>An overview of quantitative PCR assays for biologicals: quality and safety evaluation</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Xu</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Brorson</snm>
+                  <fnm>K</fnm>
+               </au>
+            </aug>
+            <source>Dev Biol (Basel)</source>
+            <pubdate>2003</pubdate>
+            <volume>113</volume>
+            <fpage>89</fpage>
+            <lpage>98</lpage>
+         </bibl>
+         <bibl id="B48">
+            <title>
+               <p>Code of Federal Regulations, Title 9: Animals and Animal Products (December 2005)</p>
+            </title>
+            <aug>
+               <au>
+                  <cnm>CFR</cnm>
+               </au>
+            </aug>
+            <publisher>Washington, USA</publisher>
+         </bibl>
+         <bibl id="B49">
+            <title>
+               <p>European Medicines Agency (EMEA) CPMP/BWP/2490/00. Cell culture inactivated influennza vaccines</p>
+            </title>
+            <aug>
+               <au>
+                  <cnm>EMEA</cnm>
+               </au>
+            </aug>
+            <publisher>London, UK</publisher>
+            <pubdate>2002</pubdate>
+         </bibl>
+         <bibl id="B50">
+            <title>
+               <p>European Medicine Agency (EMEA). Guideline on virus safety evaluation of biotechnological investigation medicinal products</p>
+            </title>
+            <aug>
+               <au>
+                  <cnm>EMEA</cnm>
+               </au>
+            </aug>
+            <publisher>London, UK</publisher>
+            <pubdate>2006</pubdate>
+         </bibl>
+         <bibl id="B51">
+            <title>
+               <p>Food and Drug Administration (FDA), Centre for Biologics and Evaluation Research (CBER). Points to consider (PTC) in the characterisation of cell lines used to produce Biologics</p>
+            </title>
+            <aug>
+               <au>
+                  <cnm>FDA</cnm>
+               </au>
+            </aug>
+            <publisher>Rockville, USA</publisher>
+            <pubdate>1993</pubdate>
+         </bibl>
+         <bibl id="B52">
+            <title>
+               <p>Nucleic acid amplification techniques</p>
+            </title>
+            <aug>
+               <au>
+                  <cnm>European Pharamacopoeia</cnm>
+               </au>
+            </aug>
+            <publisher>Strasbourg, France</publisher>
+            <pubdate>2005</pubdate>
+            <volume>1 and 2</volume>
+            <note>Section 2.6.21</note>
+         </bibl>
+      </refgrp>
+   </bm>
+</art>

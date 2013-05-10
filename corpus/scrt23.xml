@@ -1,0 +1,1631 @@
+<!DOCTYPE art SYSTEM "article.dtd">
+<art>
+   <ui>scrt23</ui>
+   <ji>1757-6512</ji>
+   <fm>
+      <dochead>Research</dochead>
+      <bibl>
+         <title>
+            <p>Efficient, high-throughput transfection of human embryonic stem cells</p>
+         </title>
+         <aug>
+            <au ca="yes" id="A1">
+               <snm>Moore</snm>
+               <mi>C</mi>
+               <fnm>Jennifer</fnm>
+               <insr iid="I1"/>
+               <email>moore@biology.rutgers.edu</email>
+            </au>
+            <au id="A2">
+               <snm>Atze</snm>
+               <fnm>Kristin</fnm>
+               <insr iid="I2"/>
+               <email>kristin.atze@lonza.com</email>
+            </au>
+            <au id="A3">
+               <snm>Yeung</snm>
+               <mi>L</mi>
+               <fnm>Percy</fnm>
+               <insr iid="I3"/>
+               <email>Yeung@Biology.Rutgers.Edu</email>
+            </au>
+            <au id="A4">
+               <snm>Toro-Ramos</snm>
+               <mi>J</mi>
+               <fnm>Alana</fnm>
+               <insr iid="I1"/>
+               <email>Toro@Biology.Rutgers.Edu</email>
+            </au>
+            <au id="A5">
+               <snm>Camarillo</snm>
+               <fnm>Cynthia</fnm>
+               <insr iid="I1"/>
+               <email>cynthica@RCI.RUTGERS.EDU</email>
+            </au>
+            <au id="A6">
+               <snm>Thompson</snm>
+               <fnm>Kevin</fnm>
+               <insr iid="I1"/>
+               <email>kevintho@eden.rutgers.edu</email>
+            </au>
+            <au id="A7">
+               <snm>Ricupero</snm>
+               <mi>L</mi>
+               <fnm>Christopher</fnm>
+               <insr iid="I1"/>
+               <email>ricupero@eden.rutgers.edu</email>
+            </au>
+            <au id="A8">
+               <snm>Brenneman</snm>
+               <mi>A</mi>
+               <fnm>Mark</fnm>
+               <insr iid="I3"/>
+               <email>Brenneman@Biology.Rutgers.Edu</email>
+            </au>
+            <au id="A9">
+               <snm>Cohen</snm>
+               <mi>I</mi>
+               <fnm>Rick</fnm>
+               <insr iid="I1"/>
+               <email>ricohen@Biology.Rutgers.Edu</email>
+            </au>
+            <au id="A10">
+               <snm>Hart</snm>
+               <mi>P</mi>
+               <fnm>Ronald</fnm>
+               <insr iid="I1"/>
+               <email>rhart@RCI.RUTGERS.EDU</email>
+            </au>
+         </aug>
+         <insg>
+            <ins id="I1">
+               <p>Stem Cell Research Center and Department of Cell Biology and Neuroscience, Rutgers, The State University of New Jersey, Room D251, 604 Allison Drive, Piscataway, NJ 08854, USA</p>
+            </ins>
+            <ins id="I2">
+               <p>Lonza Cologne AG, Nattermannallee 1, 50829 Cologne, Germany</p>
+            </ins>
+            <ins id="I3">
+               <p>Department of Genetics, Rutgers the State University of New Jersey, Room 325, 145 Bevier Rd, Piscataway, NJ 08854, USA</p>
+            </ins>
+         </insg>
+         <source>Stem Cell Research &amp; Therapy</source>
+         <issn>1757-6512</issn>
+         <pubdate>2010</pubdate>
+         <volume>1</volume>
+         <issue>3</issue>
+         <fpage>23</fpage>
+         <url>http://stemcellres.com/content/1/3/23</url>
+         <xrefbib>
+            <pubidlist>
+               <pubid idtype="doi">10.1186/scrt23</pubid>
+               <pubid idtype="pmpid">20659329</pubid>
+            </pubidlist>
+         </xrefbib>
+      </bibl>
+      <history>
+         <rec>
+            <date>
+               <day>16</day>
+               <month>3</month>
+               <year>2010</year>
+            </date>
+         </rec>
+         <acc>
+            <date>
+               <day>26</day>
+               <month>7</month>
+               <year>2010</year>
+            </date>
+         </acc>
+         <pub>
+            <date>
+               <day>26</day>
+               <month>7</month>
+               <year>2010</year>
+            </date>
+         </pub>
+      </history>
+      <cpyrt>
+         <year>2010</year>
+         <collab>Moore et al.; licensee BioMed Central Ltd.</collab>
+         <note>This is an open access article distributed under the terms of the Creative Commons Attribution License (<url>http://creativecommons.org/licenses/by/2.0</url>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</note>
+      </cpyrt>
+      <abs>
+         <sec>
+            <st>
+               <p>Abstract</p>
+            </st>
+            <sec>
+               <st>
+                  <p>Introduction</p>
+               </st>
+               <p>Genetic manipulation of human embryonic stem cells (hESC) has been limited by their general resistance to common methods used to introduce exogenous DNA or RNA. Efficient and high throughput transfection of nucleic acids into hESC would be a valuable experimental tool to manipulate these cells for research and clinical applications.</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>Methods</p>
+               </st>
+               <p>We investigated the ability of two commercially available electroporation systems, the Nucleofection<sup>&#174; </sup>96-well Shuttle<sup>&#174; </sup>System from Lonza and the Neon&#8482; Transfection System from Invitrogen to efficiently transfect hESC. Transfection efficiency was measured by flow cytometry for the expression of the green fluorescent protein and the viability of the transfected cells was determined by an ATP catalyzed luciferase reaction. The transfected cells were also analyzed by flow cytometry for common markers of pluripotency.</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>Results</p>
+               </st>
+               <p>Both systems are capable of transfecting hESC at high efficiencies with little loss of cell viability. However, the reproducibility and the ease of scaling for high throughput applications led us to perform more comprehensive tests on the Nucleofection<sup>&#174; </sup>96-well Shuttle<sup>&#174; </sup>System. We demonstrate that this method yields a large fraction of transiently transfected cells with minimal loss of cell viability and pluripotency, producing protein expression from plasmid vectors in several different hESC lines. The method scales to a 96-well plate with similar transfection efficiencies at the start and end of the plate. We also investigated the efficiency with which stable transfectants can be generated and recovered under antibiotic selection. Finally, we found that this method is effective in the delivery of short synthetic RNA oligonucleotides (siRNA) into hESC for knockdown of translation activity via RNA interference.</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>Conclusions</p>
+               </st>
+               <p>Our results indicate that these electroporation methods provide a reliable, efficient, and high-throughput approach to the genetic manipulation of hESC.</p>
+            </sec>
+         </sec>
+      </abs>
+   </fm>
+   <bdy>
+      <sec>
+         <st>
+            <p>Introduction</p>
+         </st>
+         <p>Human embryonic stem cells (hESC) are unique in their ability to continuously self-renew while maintaining the ability to differentiate into any cell in the adult body <abbrgrp><abbr bid="B1">1</abbr></abbrgrp>. These characteristics give hESC the potential to be useful in many different aspects of basic and clinical research, including use as an <it>ex vivo </it>source for cellular transplantation; production of cells for screening drug candidates and assessing toxicity; and as an <it>in vitro </it>system for modeling human development and disease. However, the difficulty in producing genetically modified hESC lines has hindered the development of some of the most promising applications of hESC research (reviewed in <abbrgrp><abbr bid="B2">2</abbr></abbrgrp>). Without the ability to easily and efficiently produce genetically modified cell lines, tools such as reporter cell lines, differentiation strategies based on the expression of certain growth factors, and the isolation of specific populations based on marker expression, will continue to limit the applications of hESC research.</p>
+         <p>The most common strategy for introducing exogenous nucleic acids into traditional, cultured cells is chemical transfection. In this process, DNA is introduced into the cells via liposomes or polycationic polymers (reviewed in <abbrgrp><abbr bid="B3">3</abbr></abbrgrp>). While this process is relatively inexpensive and the vectors used have very few limitations, there are two major disadvantages. The first is that while many different chemical transfection strategies have been attempted to genetically modify hESC, the resulting efficiencies have generally been very poor, often significantly less than 1% (reviewed in <abbrgrp><abbr bid="B4">4</abbr></abbrgrp>). An additional problem is that even when the exogenous DNA is successfully introduced into the cell, integration into the genome is poor, and when it does occur in hESC, the exogenous gene is often silenced, making isolation of stable transfectant cell lines inefficient <abbrgrp><abbr bid="B5">5</abbr><abbr bid="B6">6</abbr></abbrgrp>. The low efficiency of transfection combined with the inefficient integration of the construct into the genome makes the average efficiency for generating stable transfectant clones in hESC around 1 in 10<sup>5 </sup><abbrgrp><abbr bid="B5">5</abbr></abbrgrp>.</p>
+         <p>The bulk of successful genetic modification of hESC has been done with lentiviral vectors (reviewed in <abbrgrp><abbr bid="B4">4</abbr></abbrgrp>). Lentiviral vectors are advantageous in several ways, most important is their ability to integrate into the cellular genome to produce stably expressing cell lines <abbrgrp><abbr bid="B7">7</abbr></abbrgrp>. Lentiviral vectors have been shown to transduce many cell types (including primary and non-dividing cells) at high efficiencies and have been successfully used to transduce hESC <abbrgrp><abbr bid="B8">8</abbr></abbrgrp>. Unfortunately, the use of these vectors has two major disadvantages. First, vector constructs larger than 11 kb package poorly, reducing the efficiency of transduction and effectively limiting the size of DNA that can be transferred <abbrgrp><abbr bid="B9">9</abbr></abbrgrp>. The other disadvantage is the introduction of insertional mutagenesis. Since these vectors integrate randomly, they have the potential to activate oncogenes or inactivate tumor suppressor genes in the transduced cells, therefore raising safety concerns for potential clinical applications <abbrgrp><abbr bid="B10">10</abbr></abbrgrp>.</p>
+         <p>A third strategy for obtaining genetically modified cells is electroporation. In this method, DNA enters cells after an electrical current induces pore formation in the plasma membrane. While a disadvantage of this technique is reduced cell survival, electroporation has been successful in hESC <abbrgrp><abbr bid="B11">11</abbr><abbr bid="B12">12</abbr><abbr bid="B13">13</abbr></abbrgrp>. As with chemical transfections, electroporation is not limited with respect to the size of DNA elements that can be inserted into the cells. Moreover electroporation is highly versatile in that it can be used to introduce other biological molecules such as exogenous proteins, mRNA or siRNA <abbrgrp><abbr bid="B14">14</abbr><abbr bid="B15">15</abbr><abbr bid="B16">16</abbr><abbr bid="B17">17</abbr><abbr bid="B18">18</abbr></abbrgrp>. However, in most applications, electroporation has been difficult to scale for high-throughput usage.</p>
+         <p>Here we demonstrate that high throughput electroporation with either of two systems, the Nucleofection<sup>&#174; </sup>96-well Shuttle<sup>&#174; </sup>System (Lonza AG, Cologne, Germany) or the Neon System (Invitrogen, Carlsbad, CA, USA), can efficiently deliver exogenous DNA into H9 human ESC, and that the viability of the cells after transfection remains high. These systems were chosen because they might conceivably provide high-throughput applications--the Shuttle using a 96-well plate with well-by-well transfection and the Neon with convenient pipet tip-based transfection. We found that both instruments provide suitable transfections in hESC but that the Shuttle system had more consistent results for high throughput applications so we chose it for further investigation. To determine whether the methods developed will be generally suitable for hESC lines, we transfected several additional lines and found no significant differences in transfection efficiency or cell viability. We also demonstrate that siRNA oligonucleotides can be efficiently transfected to knock down protein expression.</p>
+         <p>As is the case with chemical transfections, DNA introduced by the Shuttle System is only rarely integrated into the genome. However, the high throughput capability of the Shuttle System allows the generation of large numbers of viable transfectants, increasing the chance that successful genomic integration can be recovered, as demonstrated by the generation of a stable cell line expressing red fluorescent protein (RFP). Although we made no attempt to directly compare promoters and antibiotic resistance markers, the process of generating stable lines allowed us to make some conclusions about the most effective promoter/resistance marker combinations. As reported by others, we also noticed that two of the most widely used viral drivers, CMV (cytomegalovirus immediate-early promoter) and SV40 (simian virus-40 early promoter/origin region) are less likely to confer stable expression in hESC <abbrgrp><abbr bid="B19">19</abbr><abbr bid="B20">20</abbr></abbrgrp>.</p>
+         <p>Our study demonstrates that electroporation can be used in a high-throughput manner to produce either transient or stable transfectants in hESC with good viability. This will to be valuable for a variety of studies using hESC.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Materials and methods</p>
+         </st>
+         <sec>
+            <st>
+               <p>Cell culture</p>
+            </st>
+            <p>Undifferentiated hESC (H9 <abbrgrp><abbr bid="B1">1</abbr></abbrgrp>, K306 <abbrgrp><abbr bid="B21">21</abbr></abbrgrp>, RNJ8 <abbrgrp><abbr bid="B22">22</abbr></abbrgrp>, and RNJ9 <abbrgrp><abbr bid="B22">22</abbr></abbrgrp>) were cultured in the feeder-free system described by Ludwig and coworkers <abbrgrp><abbr bid="B23">23</abbr></abbrgrp>. Briefly, cells were passaged every seven days at a splitting ratio of 1:6 to 1:10, so that the resulting cultures were 80 to 90% confluent on the day of passage. To passage, cells were loosened from the culture substrate with 1 U/mL Dispase (BD Biosciences, San Jose, CA, USA) and washed with DMEM/F12 medium, then gently scraped to completely remove the colonies from the substrate and break them into pieces. These pieces were transferred to new culture wells pre-coated with hESC-qualified Matrigel (BD Biosciences) and grown in mTeSR medium (StemCell Technologies, Vancouver, Canada). Starting 24 hours after passaging, the medium was replenished daily.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Plasmid vectors</p>
+            </st>
+            <p>The vectors pEGFP-C, pRNAT-U6.1, and pTracer-BSD were purchased from Clontech (Mountain View, CA, USA), Genscript (Pistcataway, NJ, USA) and Invitrogen, respectively. pPGK-Puro was constructed by Peter Laird in the lab of R. Jaenisch <abbrgrp><abbr bid="B24">24</abbr></abbrgrp>. pBM14 was constructed by Barbara Mitta in the lab of M. Fussenegger <abbrgrp><abbr bid="B25">25</abbr></abbrgrp> and modified by insertion of a dsRed2 gene (details available upon request). pCMV-BSD was constructed by M. Brenneman (details available upon request).</p>
+         </sec>
+         <sec>
+            <st>
+               <p>DNA electroporation with the Nucleofection<sup>&#174; </sup>96-well Shuttle<sup>&#174; </sup>System</p>
+            </st>
+            <p>Undifferentiated hESC were washed twice with PBS and detached from the substrate by five minutes of incubation with Accutase (StemCell Technologies) at 37&#176;C. The detached cells were then dissociated by addition of 2 ml/well of mTeSR medium followed by gentle pipetting. The cells were pelleted by centrifugation at 800 &#215; G for three minutes and resuspended to a density of 10 &#215; 10<sup>6 </sup>cells/ml in H9 Human ES Cell Nucleofector solution with the supplied supplement added (Lonza). For each electroporation, 400 ng of the plasmid vector pMaxGFP<sup>&#174; </sup>(Lonza) in a volume of 2 &#956;l was placed in one well of a 96-well microcuvette plate (Lonza). A total of 20 &#956;l of cell suspension (200,000 cells) was added to the well and pipetted to mix. Electroporation was done using program 96-CB-150 on the Shuttle System. After electroporation, the contents of each microcuvette well were dispersed as rapidly as possible with 80 &#956;l of pre-equilibrated mTeSR media, then transferred to one well of a matrigel-coated 96-well plate. Transfections carried out with the Nucleofection shuttle system and compared to the Neon Transfection System were prepared as described above except that one million cells were used for each electroporation and the cells were plated on matrigel-coated 24-well plates after electroporation.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Neon&#8482; transfection</p>
+            </st>
+            <p>Undifferentiated hESC were prepared for transfection as described above but after dissociation cells were resuspended in 8 &#956;l of Neon Resuspension Buffer R for every one million cells. For each electroporation, cells and 2 &#956;l of pMaxGFP (200 ng/&#956;l, Lonza) were aliquoted into a sterile microcentrifuge tube. A Neon Tip was inserted into the Neon Pipette and the cell-DNA mixture was aspirated into the tip avoiding air bubbles. The Neon Pipette was then inserted into the Neon Tube containing 3 ml of Neon Electrolytic Buffer E in the Neon Pipette Station. Cells were pulsed once with a voltage of 1,400 and a width of 20. After the pulse, cells were quickly transferred into a matrigel-coated culture plate containing pre-equilibrated mTeSR media.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>SiRNA electroporation</p>
+            </st>
+            <p>Transfections were done as described above with the exception that siRNA targeting green fluorescent protein (GFP) (Lonza) was added to the transfection mixture at levels of 200, 300 or 600 ng.</p>
+            <p>Twenty-four hours after transfection, the cells were washed twice with PBS and removed from the culture dish using Accutase (StemCell Technologies). Cells were then resuspended in 250 &#956;l BSA/PBS/Azide buffer as described by Moore <it>et al. </it><abbrgrp><abbr bid="B4">4</abbr></abbrgrp>. Samples analyzed for SSEA4 expression were blocked for 15 minutes in DMEM/F12 (Invitrogen) containing 10% defined FBS (Hyclone, Logan, UT, USA) followed by incubation with phycoerythrin-labeled antibody to SSEA4 (R&amp;D Systems, Minneapolis, MN, USA, catalog # FAB1435P) for 30 minutes. After washing with DMEM/F12, cells were resuspended in 250 &#956;l BSA/PBS/Azide buffer. All samples were analyzed on a FACSCalibur flow cytometer (Becton Dickinson, San Jose, CA, USA), and the software program CellQuest, (Becton Dickinson, San Jose, CA, USA) was used for data acquisition and analysis. All values are reported as mean &#177; standard error of the mean.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Viability</p>
+            </st>
+            <p>To determine the percentage of viable cells after transfection, the Vialight Kit from Lonza was used according to the manufacturer's protocol. This kit utilizes the ATP present in live cells in a luciferase-catalyzed reaction to produce light, which is measured and correlated to the number of live cells present. Briefly, 24 hours post-transfection, cells were lysed in 50 &#956;l of cell lysis solution. After incubation for 15 minutes at room temperature, the cell lysates were transferred to a luminometer plate and mixed with 100 &#956;l AMR PLUS reagent. After two minutes of incubation at room temperature in the dark, the plate was read on a luminometer. All values are reported as mean &#177; standard error of the mean for replicate samples.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Immunofluorescence</p>
+            </st>
+            <p>Twenty-four hours post-transfection, cells in the 96-well plates were fixed with 4% paraformaldehyde at room temperature for 15 minutes, then permeabilized and blocked in 4% normal goat serum with 0.1% Triton X-100. Primary antibodies used were Oct4 (Millipore, Billerica, MA, USA, MAB4401 at 0.5 &#956;g/ml) and SSEA 4 (Millipore, MAB4304 at 1.0 &#956;g/ml). After washing with PBS, the cells were incubated with AlexaFluor conjugated secondary antibodies (Invitrogen/Molecular Probes) at 1:500 and visualized by fluorescence microscopy.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Generation of stable transfectant lines</p>
+            </st>
+            <p>To generate stable transfectants, H9 or RNJ9 hESC cells were grown and handled as described above for transient transfection tests, but with the following modifications. After dissociation with Accutase, cells were resuspended to two-fold higher density, so that 400,000 cells were loaded into each well of the 96-well microcuvette together with 400 ng of linear or circular plasmid DNA. Immediately after electroporation, the cells from each well of the microcuvette plate were dispersed with 80 &#956;l of mTeSR medium, then transferred to a single matrigel-coated well of a six-well culture tray containing pre-warmed mTeSR medium. Medium was replaced 48 hours after transfection and again at 72 hours. At 96 hours after transfection, medium was replaced and selective antibiotic (puromycin, blasticidin, geneticin/G418 or hygromycin) was added, at concentrations determined previously through kill curves. Medium and selective antibiotic were replenished daily at first, then less frequently as non-resistant cells were cleared from the culture. Individual colonies of resistant cells were allowed to reach 3 to 4 mm diameter, then transferred to smaller wells for initial expansion. Transfer was done by gently scraping a colony off the culture substrate, followed by incubation with a small volume of Accutase in a microfuge tube to dissociate the colony to a suspension of single cells, then replating to a single well of a 96- or 48-well tray prepared with matrigel and mTeSR medium.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Statistics</p>
+            </st>
+            <p>Statistical significance was determined using a Student's <it>t</it>-test with paired equal variance and a two-tailed distribution. <it>P</it>-values less than 0.05 were considered significant.</p>
+         </sec>
+      </sec>
+      <sec>
+         <st>
+            <p>Results</p>
+         </st>
+         <sec>
+            <st>
+               <p>Efficient and high viability electroporation of H9 hESC</p>
+            </st>
+            <p>Two leading electroporation systems were tested for transfection efficiency and viability. In the initial tests, the Lonza Nucleofection<sup>&#174; </sup>96-well Shuttle<sup>&#174; </sup>System was compared with the Invitrogen Neon&#8482; Transfection System since both systems required small volumes, few cells, and could conceivably be scaled for high-throughput screening. In both systems, a DNA vector (pMax-GFP) supplied with the Lonza Nucleofection kit and previously shown to be suitable for protocol optimization due to its high expression level and low toxicity was used. For the comparison of the two systems, transfections were done on a single population of cells. In each case, a single cell suspension of 1 million undifferentiated H9 hESC was mixed with 400 ng of the pMax-GFP DNA and electroporated. Although the Neon system had a higher mean transfection efficiency (36.2 &#177; 10.3% vs. 21.2 &#177; 0.8%), and the viability of the cells was similar 24 hours after transfection, variability between multiple samples was higher when using the Neon (Figure <figr fid="F1">1a</figr>). In order to determine any differences in the timing of transgene expression between the two systems, GFP expression was visualized by fluorescence microscopy every hour after transfection for six hours. Using both systems, GFP could be detected as little as one hour after transfection (not shown). While both systems were effective for hESC cultures, we chose to continue with the Shuttle System due to the more uniform transfection rates, similar viabilities, similar expression rates, but clearly simpler capability for performing high-throughput transfection when compared with the Neon system.</p>
+            <fig id="F1">
+               <title>
+                  <p>Figure 1</p>
+               </title>
+               <caption>
+                  <p>Transfection of H9 is efficient and the resulting cells have a high viability</p>
+               </caption>
+               <text>
+                  <p><b>Transfection of H9 is efficient and the resulting cells have a high viability</b>. <b>(a) </b>Comparison of the Neon and Shuttle<sup>&#174; </sup>Systems. Both systems can result in the efficient transfection of hESC. While the Neon system had a higher transfection efficiency, it also had increased variability between multiple transfections (36.2 &#177; 10.3% vs. 21.2 &#177; 0.8%). <b>b) </b>Transfected H9, phase contrast image (left panel) and GFP fluorescent image (right panel). <b>(c) </b>Quantification of Viability and Efficiency. FACS analysis demonstrates that after electroporation 73.5 &#177; 3.2% of the cells remain viable (compared to the 91.6 &#177; 2.7% viable in control reactions; <it>P </it>&lt; 0.001) and that the transfection efficiency is 74.2 &#177; 1.4% (<it>P </it>&lt; 0.001). <b>(d) </b>Viability and Transfection Efficiency in High Through-put Formats. All 96 wells of a shuttle plate were electroporated and the viability and efficiency of the first and last columns were compared. FACS analysis demonstrates that there is no change in viability between the first and last columns (61.8 &#177; 0.04% vs. 61.9 &#177; 0.03%, <it>P </it>> 0.05), however there is a small but significant decrease in transfection efficiency (41.0 &#177; 1.2% vs. 36.5 &#177; 1.3%, <it>P </it>&lt; 0.05).</p>
+               </text>
+               <graphic file="scrt23-1" hint_layout="double"/>
+            </fig>
+            <p>More through testing of the Shuttle System was performed to characterize its usefulness and reproducibility. This time 200,000 cells were mixed with 400 ng pMax-GFP and electroporated. GFP-expressing cells were visualized by fluorescence microscopy after six hours (Figure <figr fid="F1">1b</figr>). As a control, an equal number of cells mixed with vector DNA but not electroporated were also plated, and these had no visible GFP expression. At 24 hours post-transfection, pMax-GFP transfected (referred to as transfected cells) and cells mixed with DNA but not electroporated (control cells) were analyzed by FACS. GFP expression was detectable in 74.2 &#177; 1.4% of the transfected cells while the control cells had no significant GFP expression (<it>P </it>&lt; 0.001) (Figure <figr fid="F1">1c</figr>). There is a large difference in transfection efficiency seen in Figure <figr fid="F1">1a</figr> and <figr fid="F1">1c</figr> but we believe this is due to the density of the cells before transfection. Our experiments suggest that there is an optimal density for transfection and this is further covered in the discussion. In order to determine the percentage of viable cells after transfection, the Vialight Plus Kit was used to measure ATP levels in both the transfected and control cells. The percentage of cells that remained viable after pMax-GFP transfection was 73.5 &#177; 3.2%, while the viability of the control cells was 91.6 &#177; 2.7% (Figure <figr fid="F1">1c</figr>). Although transfection significantly reduced cell viability (<it>P </it>&lt; 0.001), the remaining viable cells are sufficient for most purposes and once transfected can easily be expanded (data not shown).</p>
+            <p>The ability to transfect hESC in a high throughput manner is an important first step in optimizing protocols for small molecule screens. In order to determine the suitability of the Shuttle System for this purpose, we compared the survival rate and transfection efficiency of cells electroporated in the first and last wells of a 96-well microcuvette shuttle plate. As seen in Figure <figr fid="F1">1d</figr> there was no statistically significant difference between the viability of cells electroporated in the first and last columns of a 96-well plate (61.8 &#177; 0.04% vs. 61.9 &#177; 0.03%, <it>P </it>> 0.05), however a small decrease in the efficiency of transfection was observed (41.0 &#177; 1.2% vs. 36.5 &#177; 1.3%, <it>P </it>&lt; 0.05). Despite the small decrease in transfection efficiency, this demonstrates the utility of this technique for high throughput screens.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Transfected H9 hESC retain expression of pluripotent markers</p>
+            </st>
+            <p>The ability of hESC to maintain their pluripotency after transfection is required for developing successful protocols. To determine whether H9 cells continued to express pluripotent markers after transfection, the expression of Oct4 and SSEA4, two commonly used markers, was determined by immunofluorescence. As seen in Figure <figr fid="F2">2a, b</figr>, large numbers of electroporated cells (green in Figure <figr fid="F2">2</figr>) continued to be Oct4-positive (red in Figure <figr fid="F2">2a</figr>) and SSEA4-positive (red in Figure <figr fid="F2">2b</figr>) 24 hours after transfection, independent of their GFP expression. To quantitatively determine if the majority of cells retained pluripotency markers after electroporation, the percentage of SSEA4 positive cells were quantified by FACS. As seen in Figure <figr fid="F2">2c</figr>, 24 hours after electroporation, 74.4 &#177; 4.3% of electroporated cells expressed SSEA4, while 72.8 &#177; 4.4% of non-electroporated, control cells expressed SSEA4 (<it>P </it>> 0.5), demonstrating no difference in pluripotency between transfected and non-transfected cells. In addition, 79.9 &#177; 4.7% of cells that were expressing GFP 24 hours after transfection also expressed SSEA4<sup>+</sup>, which is similar to the rate found in the entire culture. The SSEA4-positive cells can potentially be separated from the differentiated cells by flow sorting or manual picking of colonies, allowing a pure culture of transfected, pluripotent cells to be propagated.</p>
+            <fig id="F2">
+               <title>
+                  <p>Figure 2</p>
+               </title>
+               <caption>
+                  <p>Transfected H9 express markers of pluripotency</p>
+               </caption>
+               <text>
+                  <p><b>Transfected H9 express markers of pluripotency</b>. <b>(a) </b>Fluorescence image of GFP transfected cells (green) that express Oct4 (red). <b>(b) </b>Fluorescence image of GFP transfected cells (green) that express SSEA4 (red). <b>(c) </b>FACS analysis for markers of pluripotency 24 hours after electroporation demonstrate that control and transfected cells expressed similar amounts of SSEA4 (blue bars; 74.4 &#177; 4.3% vs. 72.8 &#177; 4.4%; <it>P </it>> 0.5). In addition, of the GFP expressing cells 79.9 &#177; 4.7% also express SSEA4 (green bars).</p>
+               </text>
+               <graphic file="scrt23-2" hint_layout="single"/>
+            </fig>
+         </sec>
+         <sec>
+            <st>
+               <p>Transfection of siRNA</p>
+            </st>
+            <p>To determine whether the 96-well Shuttle<sup>&#174; </sup>System was also capable of efficiently delivering siRNAs for gene knock-down, the pMax-GFP plasmid was co-transfected with siRNA oligonucleotides that targeted the GFP transcript. The amount of siRNA needed to suppress GFP expression effectively was determined by titrating various amounts of siRNA with the pMax-GFP vector (siRNA to pMax-GFP mass ratios of 3:1, 1.5:1 and 0.75:1). Fluorescence microscopy showed that GFP expression was visibly reduced when a three-fold excess of GFP-targeting siRNA was co-transfected (Figure <figr fid="F3">3a</figr>). FACS analysis showed that an siRNA to DNA ratio of 3:1 reduced the percentage of cells expressing GFP by 71.75% when compared to cells transfected in the absence of siRNAs (<it>P </it>&lt; 0.01) (Figure <figr fid="F3">3b</figr>). siRNA to DNA ratios of 1.5:1 and 0.75:1 also reduced the percentage of GFP-positive cells by 31.7 (<it>P </it>&lt; 0.01) and 18.0% (<it>P </it>&lt; 0.05), respectively (Figure <figr fid="F3">3b</figr>). This demonstrates that the system can also be used for the transfection of siRNAs to knockdown protein expression.</p>
+            <fig id="F3">
+               <title>
+                  <p>Figure 3</p>
+               </title>
+               <caption>
+                  <p>Co-transfection with siRNA can suppress GFP expression</p>
+               </caption>
+               <text>
+                  <p><b>Co-transfection with siRNA can suppress GFP expression</b>. <b>(a) </b>Co-transfection of a siRNA that targets GFP at a 3:1 mass ratio to pMax-GFP results in reduced GFP expression (left panel). Transfection with pMax-GFP only (right panel). <b>(b) </b>Quantification of GFP knock-down by FACS analysis demonstrates that siRNA to vector DNA ratios of 3:1,1.5:1 and 0.75:1 result in GFP reductions of 71.75%, 31.7% and 18.0% (<it>P </it>&lt; 0.01, 0.01 and 0.05, respectively).</p>
+               </text>
+               <graphic file="scrt23-3" hint_layout="double"/>
+            </fig>
+         </sec>
+         <sec>
+            <st>
+               <p>Transfection efficiency in multiple hESC lines</p>
+            </st>
+            <p>To ensure that the transfection efficiency seen with H9 was not specific to that cell line, two additional hESC lines were tested. These lines were RNJ8 <abbrgrp><abbr bid="B22">22</abbr></abbrgrp> and the HS306 hESC line <abbrgrp><abbr bid="B21">21</abbr></abbrgrp>. Figure <figr fid="F4">4</figr> shows the percentage of cells that were GFP positive by FACS analysis 24 hours after transfection (as described above). Transfection of the RNJ8 and HS306 lines resulted in 55.8 &#177; 4.8% and 53.6 &#177; 2.6% GFP-expressing cells, respectively, demonstrating that this method of transfection is suitable for hESC lines derived under different conditions by different laboratories.</p>
+            <fig id="F4">
+               <title>
+                  <p>Figure 4</p>
+               </title>
+               <caption>
+                  <p>Multiple hESC lines are transfected efficiently</p>
+               </caption>
+               <text>
+                  <p><b>Multiple hESC lines are transfected efficiently</b>. In addition to the H9 cell line, two hESC cell lines, RNJ8 and HS306, were also efficiently transfected, with resulting percentages of GFP-expressing cells greater than 50%.</p>
+               </text>
+               <graphic file="scrt23-4" hint_layout="single"/>
+            </fig>
+         </sec>
+         <sec>
+            <st>
+               <p>Generation of stable transfectant H9 cell lines</p>
+            </st>
+            <p>Isolation of stable transfectant clones requires some means to separate them from the larger fraction of cells that have not integrated vector DNA into their chromosomes. The simplest and most widely used method is antibiotic selection, which requires that a marker gene for antibiotic resistance be included in the vector DNA. Four different antibiotic resistance markers were tested in H9 cells: Puro (puromycin N-acetyltransferase), BSD (blasticidin-S deaminase), Hyg (hygromycin-B phosphotransferase) and Neo (neomycin phosphotransferase) (Table <tblr tid="T1">1</tblr>). These four markers are included in many commercially available mammalian expression vectors under the transcriptional control of various viral or mammalian promoter/enhancer sequences. To investigate the ability of the Shuttle System transfections to produce stable transformants, selectable markers driven by CMV or SV40 promoters were tested, in addition to markers driven by promoter/enhancer units from two mammalian genes; murine phosphoglycerate kinase (PGK) and human elongation factor 1-alpha (EF1&#945;) (Table <tblr tid="T1">1</tblr>). Working doses for selection in H9 cells were established through a series of kill curves with puromycin, blasticidin-S, hygromycin-B and the neomycin analog geneticin (G418). The lowest dose that would completely kill an approximately 80% confluent well (24-well tray) of non-transfected H9 cells over five days or less was taken as a starting point for transfection trials.</p>
+            <tbl hint_layout="double" id="T1">
+               <title>
+                  <p>Table 1</p>
+               </title>
+               <caption>
+                  <p>Efficiency of stable clone generation based on resistance markers and their promoters</p>
+               </caption>
+               <tblbdy cols="5">
+                  <r>
+                     <c ca="center">
+                        <p><b>Vector</b></p>
+                     </c>
+                     <c ca="center">
+                        <p><b>Resistance marker</b></p>
+                     </c>
+                     <c ca="center">
+                        <p><b>Transcriptional control</b></p>
+                     </c>
+                     <c ca="center">
+                        <p><b>Selective drug (dose)</b></p>
+                     </c>
+                     <c ca="center">
+                        <p><b>Frequency of stable integrants<sup>5</sup></b></p>
+                     </c>
+                  </r>
+                  <r>
+                     <c cspan="5">
+                        <hr/>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="center">
+                        <p>pPGK-Puro</p>
+                     </c>
+                     <c ca="center">
+                        <p>Puro</p>
+                     </c>
+                     <c ca="center">
+                        <p>PGK<sup>1</sup></p>
+                     </c>
+                     <c ca="center">
+                        <p>Puromycin (0.5 &#956;g/ml)</p>
+                     </c>
+                     <c ca="center">
+                        <p>>8 &#215; 10<sup>-5</sup></p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="center">
+                        <p>pTracer-BSD</p>
+                     </c>
+                     <c ca="center">
+                        <p>BSD (GFP fusion)</p>
+                     </c>
+                     <c ca="center">
+                        <p>EF1&#945;<sup>2</sup></p>
+                     </c>
+                     <c ca="center">
+                        <p>Blasticidin-S (2.0 &#956;g/ml)</p>
+                     </c>
+                     <c ca="center">
+                        <p>4.9 &#215; 10<sup>-5</sup></p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="center">
+                        <p>pCMV-BSD</p>
+                     </c>
+                     <c ca="center">
+                        <p>BSD</p>
+                     </c>
+                     <c ca="center">
+                        <p>CMV<sup>3</sup></p>
+                     </c>
+                     <c ca="center">
+                        <p>Blasticidin-S (2.0 &#956;g/ml)</p>
+                     </c>
+                     <c ca="center">
+                        <p>6.3 &#215; 10<sup>-6</sup></p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="center">
+                        <p>pBM14</p>
+                     </c>
+                     <c ca="center">
+                        <p>Neo</p>
+                     </c>
+                     <c ca="center">
+                        <p>PGK<sup>1</sup></p>
+                     </c>
+                     <c ca="center">
+                        <p>Geneticin/G418 (50 &#956;g/ml)</p>
+                     </c>
+                     <c ca="center">
+                        <p>6.0 &#215; 10<sup>-6</sup></p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="center">
+                        <p>pEGFP-C3</p>
+                     </c>
+                     <c ca="center">
+                        <p>Neo</p>
+                     </c>
+                     <c ca="center">
+                        <p>SV40<sup>4</sup></p>
+                     </c>
+                     <c ca="center">
+                        <p>Geneticin/G418 (50 &#956;g/ml)</p>
+                     </c>
+                     <c ca="center">
+                        <p>6.3 &#215; 10<sup>-6</sup></p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="center">
+                        <p>pRNAT-U6.1 (GFP)</p>
+                     </c>
+                     <c ca="center">
+                        <p>Hyg</p>
+                     </c>
+                     <c ca="center">
+                        <p>SV40<sup>4</sup></p>
+                     </c>
+                     <c ca="center">
+                        <p>Hygromycin-B (10 to 100 &#956;g/ml)</p>
+                     </c>
+                     <c ca="center">
+                        <p>&lt;1.0 &#215; 10<sup>-6 </sup>(none recovered)</p>
+                     </c>
+                  </r>
+               </tblbdy>
+               <tblfn>
+                  <p><sup>1</sup>Murine phosphoglycerate kinase promoter/enhancer.</p>
+                  <p><sup>2</sup>Human elongation factor 1-alpha promoter/enhancer.</p>
+                  <p><sup>3</sup>Cytomegalovirus immediate-early promoter/enhancer.</p>
+                  <p><sup>4</sup>Simian virus-40 promoter/origin region.</p>
+                  <p><sup>5</sup>Values shown represent means of two to six experiments.</p>
+               </tblfn>
+            </tbl>
+            <p>In order to maximize the recovery of stable transfectants, we found that the density of initial plating and the timing of selective drug application is crucial in hESC cells, since these cells apparently require close cell-to-cell contacts, and generally will not survive as a dispersed monolayer of separated cells. Our transient transfection experiments showed that GFP can be expressed in as little as one hour and this is presumably true for antibiotic resistance proteins as well. But if the selective drug is applied too early, stably transfected cells may become isolated and suffer from reduced survival rates as the non-resistant cells surrounding them die, despite their antibiotic resistance. To avoid this problem, we delayed the addition of selective antibiotics to the growth medium until 96 hours after transfection. In this way, resistant cells are afforded time to undergo multiple rounds of cell division, thereby forming a micro-colony of resistant cells before selection begins. Doing so required that the hESC cells be plated after transfection at a density high enough to allow the cells to reestablish cell-to-cell contacts and resume growth, but low enough to allow four days of growth without forming a confluent culture of fused colonies. To achieve this, the cells were generally re-plated after electroporation at a density of 400,000 cells/well in a six-well culture tray. Plating at densities of 300,000 cells/well or less resulted in very sharply reduced cell attachment and survival. Plating at densities of 600,000 cells/well or higher tended to result in cultures so dense after four days that it became difficult to clear the background of nonresistant cells and recover cleanly isolated colonies of resistant cells. Optimum plating densities for selection may prove to be somewhat different for hESC lines.</p>
+            <p>The frequency with which stable transfectant clones could be recovered varied among the selective drugs and vectors tested (Table <tblr tid="T1">1</tblr>). The best recoveries, 30 or more colonies per well, were achieved using puromycin selection, with a vector in which the Puro gene was driven by the mouse PGK promoter/enhancer. Blasticidin selection was also effective, with the best results from a vector with a BSD gene driven by the human EF1&#945; promoter/enhancer. Although a vector with BSD driven by a CMV promoter/enhancer also yielded stable transfectants, the frequency was much lower. Geneticin (G418) selection allowed recovery of stable clones as well, with somewhat higher frequencies from a PGK-Neo vector than from an SV40-Neo vector. We were not successful in recovering stable transfectants by hygromycin selection, despite repeated attempts over a range of drug concentrations. Whether this reflects poor expression from the SV40-driven Hyg gene tested, low activity of the hygromycin-B phosphotransferase protein, or other factors in H9 cells is unclear.</p>
+            <p>In order to investigate the long term expression of multiple transgenes and their effect on pluripotency, RNJ9 stable transfectants expressing dsRed2 driven by the EF1a promoter and neomycin resistance driven by the PGK promoter were also isolated and maintained for more than 10 passages. During this time the cells maintained their RFP expression and immunofluorescence for Oct4 and SSEA4 confirmed their pluripotency (Figure <figr fid="F5">5a, b</figr>). This demonstrates that the Shuttle System is suitable for long term transgene expression, as well as bi-cistronic vector transfection, which is necessary for many applications such as reporter lines and lines harboring lineage specific genetic modifications.</p>
+            <fig id="F5">
+               <title>
+                  <p>Figure 5</p>
+               </title>
+               <caption>
+                  <p>Stable hESC cell line expressing red fluorescent protein</p>
+               </caption>
+               <text>
+                  <p><b>Stable hESC cell line expressing red fluorescent protein</b>. RNJ9 cells transfected with EF1&#945;-RFP/PGK-Neo were selected with 50 &#956;g/ml G418 for two weeks after transfection and then grown for 10 passages. <b>(a) </b>Fluorescence images of dapi (blue), SSEA4 (green; in fixed cells SSEA4 staining appears punctuate due to the disruption of the cell membrane by paraformaldehyde, and RFP (red). <b>(b) </b>Fluorescence images of dapi (blue), Oct4 (green), and RFP (red).</p>
+               </text>
+               <graphic file="scrt23-5" hint_layout="double"/>
+            </fig>
+         </sec>
+      </sec>
+      <sec>
+         <st>
+            <p>Discussion</p>
+         </st>
+         <p>The ability to genetically modify hESC with a high efficiency will provide new tools for understanding basic human development and tracking cells transplanted into animal models. In order to identify a method that can be used to efficiently electroporate hESC and be easily scaled for high-throughput applications, we tested the Nucleofection<sup>&#174; </sup>96-well Shuttle<sup>&#174; </sup>System from Lonza and the Neon&#8482; Transfection system from Invitrogen. Both systems require low cell numbers, express transgenes in as little as one hour and are capable of efficiently transfecting hESC with a high viability. However, the higher reproducibility of the Shuttle<sup>&#174; </sup>System coupled with its ability to perform up to 96 individual transfections in batch mode led us to pursue the Shuttle over the Neon system.</p>
+         <p>Here we establish that the 96-well Shuttle<sup>&#174; </sup>System can be used to deliver DNA, as well as siRNA, and can generate genetically modified hESC lines. The greatest advantage of this system is the high transfection efficiency that can be achieved with a small number of cells in a high through-put manner. Although other groups have used electroporation to transfect hESC, the reported protocols required one to two million cells per transfection and were performed one transfection at a time <abbrgrp><abbr bid="B11">11</abbr><abbr bid="B13">13</abbr><abbr bid="B26">26</abbr><abbr bid="B27">27</abbr></abbrgrp>. Since the culture of hESC is time consuming and expensive it is advantageous that the number of cells necessary to achieve these high transfection efficiencies was only 200,000 per well and the viability of the transfected cells was often above 50%. These efficiencies were not cell line specific, as we were able to routinely transfect several independently derived hESC lines at efficiencies of at least 50% and sometimes as high as 70%. Interestingly, there seemed to be a correlation between initial density of the cells used for transfection and the transfection efficiency - the denser the cells were immediately before transfection, the less efficient the transfection. This may be due to the stress placed on cells that become too dense suggesting that highest transfection efficiencies are achieved when the cells are in the exponential growth phase. Since the Shuttle<sup>&#174; </sup>System uses a 96-well format, this method could be readily scaled up to perform multiple transfections in parallel for multiple replicates of multiple groups, or for screening large numbers of plasmids or siRNAs. To this end, we showed that the viability of the cells was not significantly decreased over an entire 96-well plate and that the transfection efficiency was only slightly reduced. Similarly, siRNA electroporation proved to be effective, at least on a gene carried by a co-transfected plasmid.</p>
+         <p>In order for genetically modified hESC to be usable in most applications, the modified cells must retain their pluripotency. We used immunofluorescence and FACS analysis to demonstrate the presence of pluripotency markers in the modified cells with, Oct4 and SSEA4. No statistically significant decreases in markers were observed between transfected and non-transfected cells, demonstrating that this method is suitable for expressing transgenes while likely maintaining pluripotency in both short term (transient transfection) and long term (stable transfection) experiments. It is important to note that more extensive characterization, such as karyotyping and teratoma formation of newly generated stable lines, would need to be done before the line could be formally considered to be pluripotent. Using this system we have also investigated the efficiency at which several different antibiotic selection cassettes and the promoters driving them can be used to derive stable cell lines. The majority of commonly used selection cassettes utilize either the CMV or SV40 promoters to drive their antibiotic resistance genes. However, several groups have reported difficulty in obtaining stable expression with these promoters, presumably due to gene silencing in both the undifferentiated hESC and hESC-derived differentiated cells <abbrgrp><abbr bid="B19">19</abbr><abbr bid="B20">20</abbr></abbrgrp>. Although we were able to use both the CMV and SV40 promoters to obtain stable lines, these occurred at a frequency which was at least 10-fold less than that of the EF1&#945; and PGK promoters. Our data suggest that EF1&#945; and PGK promoters are most efficient for the generation of stable lines and demonstrates that resulting lines can maintained in a pluripotent state for at least 10 passages.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Conclusions</p>
+         </st>
+         <p>We have demonstrated that electroporation is a suitable method for reliable, efficient transfection of hESC and that the Lonza Nucleofection<sup>&#174; </sup>96-well Shuttle<sup>&#174; </sup>System can be scaled to high throughput methods while maintaining pluripotency. In addition to traditional DNA vector transfection, this method can also be used to transfect small RNA molecules to facilitate the knockdown of target genes. With these methods, the protocols necessary for a better understanding of stem cell biology can be generated, accelerating the application of clinical translation with these cells.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Abbreviations</p>
+         </st>
+         <p>BSD: blasticidin-S deaminase; CMV: cytomegalovirus; EF1a: elongation factor 1-alpha; GFP: green fluorescent protein; hESC: human embryonic stem cells; Hyg: hygromycin-B phosphotransferase; Neo: neomycin phosphotransferase; PGK: phosphoglycerate kinase; Puro: puromycin N-acetyltransferase; siRNA: short interfering RNA; SV40: simian virus 40.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Competing interests</p>
+         </st>
+         <p>Jennifer C Moore, Percy L Yeung, Alana Toro-Ramos, Cynthia Camarillo, Kevin Thompson, Christopher L Ricupero, Mark A Brenneman, Rick I Cohen and Ronald P Hart have no competing financial or personal interests in this work. Kristin Atze is an employee and shareholder of the Lonza Group, LTD, which holds patents on some of the technologies in this manuscript. Lonza did not contribute to the publication costs of this manuscript.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Authors' contributions</p>
+         </st>
+         <p>Experiments were designed by JCM, KA, MB and RPH. Transfections were done by JCM, KA, PY, ATR, CC and KT. Immunofluorescence and microscopy were carried out by JCM and CLR. Human embryonic stem cells were provided by JCM and RC. The manuscript was written by JCM.</p>
+      </sec>
+   </bdy>
+   <bm>
+      <ack>
+         <sec>
+            <st>
+               <p>Acknowledgements</p>
+            </st>
+            <p>JCM, RIC and RPH were supported by the New Jersey Commission of Science and Technology. JCM and RIC were supported by the Satell Foundation. CRL is supported by the Integrative Graduate Education and Research Traineeship (IGERT), a program of the National Science Foundation, NSF DGE 0801620. RPH was supported by NIH R21 MH085088.</p>
+         </sec>
+      </ack>
+      <refgrp>
+         <bibl id="B1">
+            <title>
+               <p>Embryonic stem cell lines derived from human blastocysts</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Thomson</snm>
+                  <fnm>JA</fnm>
+               </au>
+               <au>
+                  <snm>Itskovitz-Eldor</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Shapiro</snm>
+                  <fnm>SS</fnm>
+               </au>
+               <au>
+                  <snm>Waknitz</snm>
+                  <fnm>MA</fnm>
+               </au>
+               <au>
+                  <snm>Swiergiel</snm>
+                  <fnm>JJ</fnm>
+               </au>
+               <au>
+                  <snm>Marshall</snm>
+                  <fnm>VS</fnm>
+               </au>
+               <au>
+                  <snm>Jones</snm>
+                  <fnm>JM</fnm>
+               </au>
+            </aug>
+            <source>Science</source>
+            <pubdate>1998</pubdate>
+            <volume>282</volume>
+            <fpage>1145</fpage>
+            <lpage>1147</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1126/science.282.5391.1145</pubid>
+                  <pubid idtype="pmpid" link="fulltext">9804556</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B2">
+            <title>
+               <p>Progress and prospects: gene transfer into embryonic stem cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Yates</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Daley</snm>
+                  <fnm>GQ</fnm>
+               </au>
+            </aug>
+            <source>Gene therapy</source>
+            <pubdate>2006</pubdate>
+            <volume>13</volume>
+            <fpage>1431</fpage>
+            <lpage>1439</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/sj.gt.3302854</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17016468</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B3">
+            <title>
+               <p>Cationic transfection lipids</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Liu</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Ren</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Gao</snm>
+                  <fnm>X</fnm>
+               </au>
+            </aug>
+            <source>Current medicinal chemistry</source>
+            <pubdate>2003</pubdate>
+            <volume>10</volume>
+            <fpage>1307</fpage>
+            <lpage>1315</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.2174/0929867033457386</pubid>
+                  <pubid idtype="pmpid" link="fulltext">12678802</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B4">
+            <title>
+               <p>Human embryonic stem cells: genetic manipulation on the way to cardiac cell therapies</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Moore</snm>
+                  <fnm>JC</fnm>
+               </au>
+               <au>
+                  <snm>van Laake</snm>
+                  <fnm>LW</fnm>
+               </au>
+               <au>
+                  <snm>Braam</snm>
+                  <fnm>SR</fnm>
+               </au>
+               <au>
+                  <snm>Xue</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Tsang</snm>
+                  <fnm>SY</fnm>
+               </au>
+               <au>
+                  <snm>Ward</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Passier</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Tertoolen</snm>
+                  <fnm>LL</fnm>
+               </au>
+               <au>
+                  <snm>Li</snm>
+                  <fnm>RA</fnm>
+               </au>
+               <au>
+                  <snm>Mummery</snm>
+                  <fnm>CL</fnm>
+               </au>
+            </aug>
+            <source>Reproductive toxicology</source>
+            <pubdate>2005</pubdate>
+            <volume>20</volume>
+            <fpage>377</fpage>
+            <lpage>391</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.reprotox.2005.04.012</pubid>
+                  <pubid idtype="pmpid" link="fulltext">15967632</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B5">
+            <title>
+               <p>Establishment of human embryonic stem cell-transfected clones carrying a marker for undifferentiated cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Eiges</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Schuldiner</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Drukker</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Yanuka</snm>
+                  <fnm>O</fnm>
+               </au>
+               <au>
+                  <snm>Itskovitz-Eldor</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Benvenisty</snm>
+                  <fnm>N</fnm>
+               </au>
+            </aug>
+            <source>Curr Biol</source>
+            <pubdate>2001</pubdate>
+            <volume>11</volume>
+            <fpage>514</fpage>
+            <lpage>518</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/S0960-9822(01)00144-0</pubid>
+                  <pubid idtype="pmpid" link="fulltext">11413002</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B6">
+            <title>
+               <p>Transient and stable transgene expression in human embryonic stem cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Liew</snm>
+                  <fnm>CG</fnm>
+               </au>
+               <au>
+                  <snm>Draper</snm>
+                  <fnm>JS</fnm>
+               </au>
+               <au>
+                  <snm>Walsh</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Moore</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Andrews</snm>
+                  <fnm>PW</fnm>
+               </au>
+            </aug>
+            <source>Stem Cells</source>
+            <pubdate>2007</pubdate>
+            <volume>25</volume>
+            <fpage>1521</fpage>
+            <lpage>1528</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1634/stemcells.2006-0634</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17379764</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B7">
+            <title>
+               <p>Efficient transfer, integration, and sustained long-term expression of the transgene in adult rat brains injected with a lentiviral vector</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Naldini</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Blomer</snm>
+                  <fnm>U</fnm>
+               </au>
+               <au>
+                  <snm>Gage</snm>
+                  <fnm>FH</fnm>
+               </au>
+               <au>
+                  <snm>Trono</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Verma</snm>
+                  <fnm>IM</fnm>
+               </au>
+            </aug>
+            <source>Proc Natl Acad Sci USA</source>
+            <pubdate>1996</pubdate>
+            <volume>93</volume>
+            <fpage>11382</fpage>
+            <lpage>11388</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1073/pnas.93.21.11382</pubid>
+                  <pubid idtype="pmcid">38066</pubid>
+                  <pubid idtype="pmpid">8876144</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B8">
+            <title>
+               <p>High-level sustained transgene expression in human embryonic stem cells using lentiviral vectors</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Ma</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Ramezani</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Lewis</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Hawley</snm>
+                  <fnm>RG</fnm>
+               </au>
+               <au>
+                  <snm>Thomson</snm>
+                  <fnm>JA</fnm>
+               </au>
+            </aug>
+            <source>Stem Cells</source>
+            <pubdate>2003</pubdate>
+            <volume>21</volume>
+            <fpage>111</fpage>
+            <lpage>117</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1634/stemcells.21-1-111</pubid>
+                  <pubid idtype="pmpid" link="fulltext">12529558</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B9">
+            <title>
+               <p>Systematic determination of the packaging limit of lentiviral vectors</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Kumar</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Keller</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Makalou</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Sutton</snm>
+                  <fnm>RE</fnm>
+               </au>
+            </aug>
+            <source>Human gene therapy</source>
+            <pubdate>2001</pubdate>
+            <volume>12</volume>
+            <fpage>1893</fpage>
+            <lpage>1905</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1089/104303401753153947</pubid>
+                  <pubid idtype="pmpid" link="fulltext">11589831</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B10">
+            <title>
+               <p>Occurrence of leukaemia following gene therapy of X-linked SCID</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Kohn</snm>
+                  <fnm>DB</fnm>
+               </au>
+               <au>
+                  <snm>Sadelain</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Glorioso</snm>
+                  <fnm>JC</fnm>
+               </au>
+            </aug>
+            <source>Nat Rev Cancer</source>
+            <pubdate>2003</pubdate>
+            <volume>3</volume>
+            <fpage>477</fpage>
+            <lpage>488</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/nrc1122</pubid>
+                  <pubid idtype="pmpid" link="fulltext">12835668</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B11">
+            <title>
+               <p>Homologous recombination in human embryonic stem cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Zwaka</snm>
+                  <fnm>TP</fnm>
+               </au>
+               <au>
+                  <snm>Thomson</snm>
+                  <fnm>JA</fnm>
+               </au>
+            </aug>
+            <source>Nature biotechnology</source>
+            <pubdate>2003</pubdate>
+            <volume>21</volume>
+            <fpage>319</fpage>
+            <lpage>321</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/nbt788</pubid>
+                  <pubid idtype="pmpid" link="fulltext">12577066</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B12">
+            <title>
+               <p>The hESC line Envy expresses high levels of GFP in all differentiated progeny</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Costa</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Dottori</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Ng</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Hawes</snm>
+                  <fnm>SM</fnm>
+               </au>
+               <au>
+                  <snm>Sourris</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Jamshidi</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Pera</snm>
+                  <fnm>MF</fnm>
+               </au>
+               <au>
+                  <snm>Elefanty</snm>
+                  <fnm>AG</fnm>
+               </au>
+               <au>
+                  <snm>Stanley</snm>
+                  <fnm>EG</fnm>
+               </au>
+            </aug>
+            <source>Nature methods</source>
+            <pubdate>2005</pubdate>
+            <volume>2</volume>
+            <fpage>259</fpage>
+            <lpage>260</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/nmeth748</pubid>
+                  <pubid idtype="pmpid" link="fulltext">15782217</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B13">
+            <title>
+               <p>Nucleofection mediates high-efficiency stable gene knockdown and transgene expression in human embryonic stem cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Hohenstein</snm>
+                  <fnm>KA</fnm>
+               </au>
+               <au>
+                  <snm>Pyle</snm>
+                  <fnm>AD</fnm>
+               </au>
+               <au>
+                  <snm>Chern</snm>
+                  <fnm>JY</fnm>
+               </au>
+               <au>
+                  <snm>Lock</snm>
+                  <fnm>LF</fnm>
+               </au>
+               <au>
+                  <snm>Donovan</snm>
+                  <fnm>PJ</fnm>
+               </au>
+            </aug>
+            <source>Stem Cells</source>
+            <pubdate>2008</pubdate>
+            <volume>26</volume>
+            <fpage>1436</fpage>
+            <lpage>1443</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1634/stemcells.2007-0857</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18323409</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B14">
+            <title>
+               <p>Electroporation of pp60c-src antibodies inhibits the angiotensin II activation of phospholipase C-gamma 1 in rat aortic smooth muscle cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Marrero</snm>
+                  <fnm>MB</fnm>
+               </au>
+               <au>
+                  <snm>Schieffer</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Paxton</snm>
+                  <fnm>WG</fnm>
+               </au>
+               <au>
+                  <snm>Schieffer</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Bernstein</snm>
+                  <fnm>KE</fnm>
+               </au>
+            </aug>
+            <source>J Biol Chem</source>
+            <pubdate>1995</pubdate>
+            <volume>270</volume>
+            <fpage>15734</fpage>
+            <lpage>15738</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1074/jbc.270.26.15734</pubid>
+                  <pubid idtype="pmpid" link="fulltext">7541047</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B15">
+            <title>
+               <p>Functional screening of intracellular proteins in single cells and in patterned cell arrays using electroporation</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Nolkrantz</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Farre</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Hurtig</snm>
+                  <fnm>KJ</fnm>
+               </au>
+               <au>
+                  <snm>Rylander</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Orwar</snm>
+                  <fnm>O</fnm>
+               </au>
+            </aug>
+            <source>Analytical chemistry</source>
+            <pubdate>2002</pubdate>
+            <volume>74</volume>
+            <fpage>4300</fpage>
+            <lpage>4305</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1021/ac025584x</pubid>
+                  <pubid idtype="pmpid">12199607</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B16">
+            <title>
+               <p>High-throughput RNAi screening in vitro: from cell lines to primary cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Ovcharenko</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Jarvis</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Hunicke-Smith</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Kelnar</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Brown</snm>
+                  <fnm>D</fnm>
+               </au>
+            </aug>
+            <source>RNA</source>
+            <pubdate>2005</pubdate>
+            <volume>11</volume>
+            <fpage>985</fpage>
+            <lpage>993</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1261/rna.7288405</pubid>
+                  <pubid idtype="pmcid">1370783</pubid>
+                  <pubid idtype="pmpid">15923380</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B17">
+            <title>
+               <p>The effectiveness of double-stranded short inhibitory RNAs (siRNAs) may depend on the method of transfection</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Walters</snm>
+                  <fnm>DK</fnm>
+               </au>
+               <au>
+                  <snm>Jelinek</snm>
+                  <fnm>DF</fnm>
+               </au>
+            </aug>
+            <source>Antisense Nucleic Acid Drug Dev</source>
+            <pubdate>2002</pubdate>
+            <volume>12</volume>
+            <fpage>411</fpage>
+            <lpage>418</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid">12568315</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B18">
+            <title>
+               <p>mRNA-based gene transfer as a tool for gene and cell therapy</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Van Tendeloo</snm>
+                  <fnm>VF</fnm>
+               </au>
+               <au>
+                  <snm>Ponsaerts</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Berneman</snm>
+                  <fnm>ZN</fnm>
+               </au>
+            </aug>
+            <source>Current Opinion in Molecular Therapeutics</source>
+            <pubdate>2007</pubdate>
+            <volume>9</volume>
+            <fpage>423</fpage>
+            <lpage>431</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid">17932806</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B19">
+            <title>
+               <p>Generation of high-level stable transgene expressing human embryonic stem cell lines using Chinese hamster elongation factor-1 alpha promoter system</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Chan</snm>
+                  <fnm>KK</fnm>
+               </au>
+               <au>
+                  <snm>Wu</snm>
+                  <fnm>SM</fnm>
+               </au>
+               <au>
+                  <snm>Nissom</snm>
+                  <fnm>PM</fnm>
+               </au>
+               <au>
+                  <snm>Oh</snm>
+                  <fnm>SK</fnm>
+               </au>
+               <au>
+                  <snm>Choo</snm>
+                  <fnm>AB</fnm>
+               </au>
+            </aug>
+            <source>Stem Cells and Development</source>
+            <pubdate>2008</pubdate>
+            <volume>17</volume>
+            <fpage>825</fpage>
+            <lpage>836</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1089/scd.2007.0233</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18788934</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B20">
+            <title>
+               <p>Promoter-dependent EGFP expression during embryonic stem cell propagation and differentiation</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Wang</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Liang</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Jiang</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Qin</snm>
+                  <fnm>LJ</fnm>
+               </au>
+               <au>
+                  <snm>Yang</snm>
+                  <fnm>HT</fnm>
+               </au>
+            </aug>
+            <source>Stem Cells and Development</source>
+            <pubdate>2008</pubdate>
+            <volume>17</volume>
+            <fpage>279</fpage>
+            <lpage>289</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1089/scd.2007.0084</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18447643</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B21">
+            <title>
+               <p>Derivation of human embryonic stem cell lines in serum replacement medium using postnatal human fibroblasts as feeder cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Inzunza</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Gertow</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Stromberg</snm>
+                  <fnm>MA</fnm>
+               </au>
+               <au>
+                  <snm>Matilainen</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Blennow</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Skottman</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Wolbank</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Ahrlund-Richter</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Hovatta</snm>
+                  <fnm>O</fnm>
+               </au>
+            </aug>
+            <source>Stem Cells</source>
+            <pubdate>2005</pubdate>
+            <volume>23</volume>
+            <fpage>544</fpage>
+            <lpage>549</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1634/stemcells.2004-0201</pubid>
+                  <pubid idtype="pmpid" link="fulltext">15790775</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B22">
+            <title>
+               <p>A high-resolution molecular-based panel of assays for identification and characterization of human embryonic stem cell lines</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Moore</snm>
+                  <fnm>JC</fnm>
+               </au>
+               <au>
+                  <snm>Sadowy</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Alikani</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Toro-Ramos</snm>
+                  <fnm>AJ</fnm>
+               </au>
+               <au>
+                  <snm>Swerdel</snm>
+                  <fnm>MR</fnm>
+               </au>
+               <au>
+                  <snm>Hart</snm>
+                  <fnm>RP</fnm>
+               </au>
+               <au>
+                  <snm>Cohen</snm>
+                  <fnm>RI</fnm>
+               </au>
+            </aug>
+            <source>Stem Cell Research</source>
+            <pubdate>2010</pubdate>
+            <volume>4</volume>
+            <fpage>92</fpage>
+            <lpage>106</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.scr.2009.11.001</pubid>
+                  <pubid idtype="pmpid">20060795</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B23">
+            <title>
+               <p>Derivation of human embryonic stem cells in defined conditions</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Ludwig</snm>
+                  <fnm>TE</fnm>
+               </au>
+               <au>
+                  <snm>Levenstein</snm>
+                  <fnm>ME</fnm>
+               </au>
+               <au>
+                  <snm>Jones</snm>
+                  <fnm>JM</fnm>
+               </au>
+               <au>
+                  <snm>Berggren</snm>
+                  <fnm>WT</fnm>
+               </au>
+               <au>
+                  <snm>Mitchen</snm>
+                  <fnm>ER</fnm>
+               </au>
+               <au>
+                  <snm>Frane</snm>
+                  <fnm>JL</fnm>
+               </au>
+               <au>
+                  <snm>Crandall</snm>
+                  <fnm>LJ</fnm>
+               </au>
+               <au>
+                  <snm>Daigh</snm>
+                  <fnm>CA</fnm>
+               </au>
+               <au>
+                  <snm>Conard</snm>
+                  <fnm>KR</fnm>
+               </au>
+               <au>
+                  <snm>Piekarczyk</snm>
+                  <fnm>MS</fnm>
+               </au>
+               <au>
+                  <snm>Llanas</snm>
+                  <fnm>RA</fnm>
+               </au>
+               <au>
+                  <snm>Thomson</snm>
+                  <fnm>JA</fnm>
+               </au>
+            </aug>
+            <source>Nature Biotechnology</source>
+            <pubdate>2006</pubdate>
+            <volume>24</volume>
+            <fpage>185</fpage>
+            <lpage>187</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/nbt1177</pubid>
+                  <pubid idtype="pmpid" link="fulltext">16388305</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B24">
+            <title>
+               <p>Germ-line passage is required for establishment of methylation and expression patterns of imprinted but not of nonimprinted genes</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Tucker</snm>
+                  <fnm>KL</fnm>
+               </au>
+               <au>
+                  <snm>Beard</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Dausmann</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Jackson-Grusby</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Laird</snm>
+                  <fnm>PW</fnm>
+               </au>
+               <au>
+                  <snm>Lei</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Li</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Jaenisch</snm>
+                  <fnm>R</fnm>
+               </au>
+            </aug>
+            <source>Genes Dev</source>
+            <pubdate>1996</pubdate>
+            <volume>10</volume>
+            <fpage>1008</fpage>
+            <lpage>1020</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid">8608936</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B25">
+            <title>
+               <p>Advanced modular self-inactivating lentiviral expression vectors for multigene interventions in mammalian cells and in vivo transduction</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Mitta</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Rimann</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Ehrengruber</snm>
+                  <fnm>MU</fnm>
+               </au>
+               <au>
+                  <snm>Ehrbar</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Djonov</snm>
+                  <fnm>V</fnm>
+               </au>
+               <au>
+                  <snm>Kelm</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Fussenegger</snm>
+                  <fnm>M</fnm>
+               </au>
+            </aug>
+            <source>Nucleic Acids Research</source>
+            <pubdate>2002</pubdate>
+            <volume>30</volume>
+            <fpage>e113</fpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1093/nar/gnf112</pubid>
+                  <pubid idtype="pmcid">135834</pubid>
+                  <pubid idtype="pmpid">12409472</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B26">
+            <title>
+               <p>Nucleofection of human embryonic stem cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Siemen</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Nix</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Endl</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Koch</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Itskovitz-Eldor</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Brustle</snm>
+                  <fnm>O</fnm>
+               </au>
+            </aug>
+            <source>Stem Cells and Development</source>
+            <pubdate>2005</pubdate>
+            <volume>14</volume>
+            <fpage>378</fpage>
+            <lpage>383</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1089/scd.2005.14.378</pubid>
+                  <pubid idtype="pmpid" link="fulltext">16137226</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B27">
+            <title>
+               <p>A method for genetic modification of human embryonic stem cells using electroporation</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Costa</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Dottori</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Sourris</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Jamshidi</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Hatzistavrou</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Davis</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Azzola</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Jackson</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Lim</snm>
+                  <fnm>SM</fnm>
+               </au>
+               <au>
+                  <snm>Pera</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Elefanty</snm>
+                  <fnm>AG</fnm>
+               </au>
+               <au>
+                  <snm>Stanley</snm>
+                  <fnm>EG</fnm>
+               </au>
+            </aug>
+            <source>Nature protocols</source>
+            <pubdate>2007</pubdate>
+            <volume>2</volume>
+            <fpage>792</fpage>
+            <lpage>796</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/nprot.2007.105</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17446878</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+      </refgrp>
+   </bm>
+</art>

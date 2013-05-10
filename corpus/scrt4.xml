@@ -1,0 +1,2054 @@
+<!DOCTYPE art SYSTEM "article.dtd">
+<art>
+   <ui>scrt4</ui>
+   <ji>1757-6512</ji>
+   <fm>
+      <dochead>Research</dochead>
+      <bibl>
+         <title>
+            <p>Cell distribution after intracoronary bone marrow stem cell delivery in damaged and undamaged myocardium: implications for clinical trials</p>
+         </title>
+         <aug>
+            <au id="A1">
+               <snm>Forest</snm>
+               <mi>F</mi>
+               <fnm>Virginie</fnm>
+               <insr iid="I1"/>
+               <insr iid="I2"/>
+               <email>virginie.forest@univ-nantes.fr</email>
+            </au>
+            <au id="A2">
+               <snm>Tirouvanziam</snm>
+               <mi>M</mi>
+               <fnm>Ashok</fnm>
+               <insr iid="I3"/>
+               <email>ashok.tirouvanziam@chu-nantes.fr</email>
+            </au>
+            <au id="A3">
+               <snm>Perigaud</snm>
+               <fnm>Christian</fnm>
+               <insr iid="I2"/>
+               <insr iid="I3"/>
+               <email>christian.perigaud@chu-nantes.fr</email>
+            </au>
+            <au id="A4">
+               <snm>Fernandes</snm>
+               <fnm>Sarah</fnm>
+               <insr iid="I1"/>
+               <insr iid="I2"/>
+               <email>fernandes.srh@gmail.com</email>
+            </au>
+            <au id="A5">
+               <snm>Fusellier</snm>
+               <mi>S</mi>
+               <fnm>Marion</fnm>
+               <insr iid="I4"/>
+               <email>fusellier@vet-nantes.fr</email>
+            </au>
+            <au id="A6">
+               <snm>Desfontis</snm>
+               <fnm>Jean-Claude</fnm>
+               <insr iid="I4"/>
+               <email>desfontis@vet-nantes.fr</email>
+            </au>
+            <au id="A7">
+               <snm>Toquet</snm>
+               <mi>S</mi>
+               <fnm>Claire</fnm>
+               <insr iid="I5"/>
+               <email>claire.toquet@chu-nantes.fr</email>
+            </au>
+            <au id="A8">
+               <snm>Heymann</snm>
+               <mi>M</mi>
+               <fnm>Marie-Fran&#231;oise</fnm>
+               <insr iid="I2"/>
+               <insr iid="I5"/>
+               <insr iid="I6"/>
+               <email>mariefrancoise.heymann@chu-nantes.fr</email>
+            </au>
+            <au id="A9">
+               <snm>Crochet</snm>
+               <mi>P</mi>
+               <fnm>Dominique</fnm>
+               <insr iid="I1"/>
+               <insr iid="I2"/>
+               <insr iid="I3"/>
+               <email>dominique.crochet@chu-nantes.fr</email>
+            </au>
+            <au ca="yes" id="A10">
+               <snm>Lemarchand</snm>
+               <mi>F</mi>
+               <fnm>Patricia</fnm>
+               <insr iid="I1"/>
+               <insr iid="I2"/>
+               <insr iid="I3"/>
+               <email>patricia.lemarchand@univ-nantes.fr</email>
+            </au>
+         </aug>
+         <insg>
+            <ins id="I1">
+               <p>INSERM UMR915, l'institut du thorax, IRT-Universit&#233; de Nantes, 8 quai Moncousu, BP 70721, Nantes, F-44007 Cedex 1, France</p>
+            </ins>
+            <ins id="I2">
+               <p>Universit&#233; de Nantes, Facult&#233; de M&#233;decine, Institut F&#233;d&#233;ratif de Recherche Th&#233;rapeutique 26 (IFR26), 8 quai Moncousu, BP 70721, Nantes, F-44007 Cedex 1, France</p>
+            </ins>
+            <ins id="I3">
+               <p>CHU Nantes, l'institut du thorax, H&#244;pital Nord La&#235;nnec, Boulevard Jacques Monod, Nantes, F-44093 Cedex 1, France</p>
+            </ins>
+            <ins id="I4">
+               <p>Animal Pathophysiology and Functional Pharmacology Unit (UPSP 5304), Ecole Nationale V&#233;t&#233;rinaire de Nantes, Atlanpole La Chantrerie, Nantes, F-44307 Cedex 3, France</p>
+            </ins>
+            <ins id="I5">
+               <p>CHU Nantes, Service d'Anatomo-pathologie, H&#244;pital Nord La&#235;nnec, Boulevard Jacques Monod, Nantes, F-44093 Cedex 1, France</p>
+            </ins>
+            <ins id="I6">
+               <p>INSERM U957, Laboratoire de Physiopathologie de R&#233;sorption Osseuse et Th&#233;rapie des Tumeurs Osseuses Primitives, Facult&#233; de M&#233;decine 1, rue Gaston Veil, Nantes, F-44035 Cedex 1, France</p>
+            </ins>
+         </insg>
+         <source>Stem Cell Research &amp; Therapy</source>
+         <issn>1757-6512</issn>
+         <pubdate>2010</pubdate>
+         <volume>1</volume>
+         <issue>1</issue>
+         <fpage>4</fpage>
+         <url>http://stemcellres.com/content/1/1/4</url>
+         <xrefbib>
+            <pubid idtype="doi">10.1186/scrt4</pubid>
+         </xrefbib>
+      </bibl>
+      <history>
+         <rec>
+            <date>
+               <day>28</day>
+               <month>7</month>
+               <year>2009</year>
+            </date>
+         </rec>
+         <acc>
+            <date>
+               <day>15</day>
+               <month>3</month>
+               <year>2010</year>
+            </date>
+         </acc>
+         <pub>
+            <date>
+               <day>15</day>
+               <month>3</month>
+               <year>2010</year>
+            </date>
+         </pub>
+      </history>
+      <cpyrt>
+         <year>2010</year>
+         <collab>Forest et al.; licensee BioMed Central Ltd.</collab>
+         <note>This is an open access article distributed under the terms of the Creative Commons Attribution License (<url>http://creativecommons.org/licenses/by/2.0</url>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</note>
+      </cpyrt>
+      <abs>
+         <sec>
+            <st>
+               <p>Abstract</p>
+            </st>
+            <sec>
+               <st>
+                  <p>Introduction</p>
+               </st>
+               <p>Early randomized clinical trials of autologous bone marrow cardiac stem cell therapy have reported contradictory results highlighting the need for a better evaluation of protocol designs. This study was designed to quantify and compare whole body and heart cell distribution after intracoronary or peripheral intravenous injection of autologous bone marrow mononuclear cells in a porcine acute myocardial infarction model with late reperfusion.</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>Methods</p>
+               </st>
+               <p>Myocardial infarction was induced using balloon inflation in the left coronary artery in domestic pigs. At seven days post-myocardial infarction, 1 &#215; 10(8) autologous bone marrow mononuclear cells were labeled with fluorescent marker and/or <sup>99m</sup>Tc radiotracer, and delivered using intracoronary or peripheral intravenous injection (leg vein).</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>Results</p>
+               </st>
+               <p>Scintigraphic analyses and &#933;-emission radioactivity counting of harvested organs showed a significant cell fraction retained within the heart after intracoronary injection (6 &#177; 1.7% of injected radioactivity at 24 hours), whereas following peripheral intravenous cell injection, no cardiac homing was observed at 24 hours and cells were mainly detected within the lungs. Importantly, no difference was observed in the percentage of retained cells within the myocardium in the presence or absence of myocardial infarction. Histological evaluation did not show arterial occlusion in both animal groups and confirmed the presence of bone marrow mononuclear cells within the injected myocardium area.</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>Conclusions</p>
+               </st>
+               <p>Intravenous bone marrow mononuclear cell injection was ineffective to target myocardium. Myocardial cell distribution following intracoronary injection did not depend on myocardial infarction presence, a factor that could be useful for cardiac cell therapy in patients with chronic heart failure of non-ischemic origin or with ischemic myocardium without myocardial infarction.</p>
+            </sec>
+         </sec>
+      </abs>
+   </fm>
+   <bdy>
+      <sec>
+         <st>
+            <p>Introduction</p>
+         </st>
+         <p>The possibility of tissue repair by autologous adult progenitor cells immediately captured the attention of clinicians confronted with the disabling, life-threatening circumstance of heart failure. During the last five years, more than a dozen clinical studies using bone marrow cells have been published, ranging from case reports to formal trials, deploying a range of differing cell-based therapies with the shared objective of improving cardiac repair <abbrgrp><abbr bid="B1">1</abbr></abbrgrp>.</p>
+         <p>Although most of these initial human trials suggest functional improvement, randomized clinical trials reported contradictory results <abbrgrp><abbr bid="B2">2</abbr><abbr bid="B3">3</abbr></abbrgrp> suggesting that the ideal protocol design still needs to be defined, with the help of large animal models <abbrgrp><abbr bid="B4">4</abbr></abbrgrp>. Several issues have been identified by the European task force in translational research in the heart <abbrgrp><abbr bid="B5">5</abbr></abbrgrp>, including the type of cells to be used, the route of delivery, the number of cells and the volume to be given.</p>
+         <p>Our aim was, with an experimental design of acute myocardial infarction (MI) and autologous cardiac cell therapy that closely match clinical trials <abbrgrp><abbr bid="B2">2</abbr><abbr bid="B3">3</abbr></abbrgrp> to analyze and quantify whole body and heart distribution of injected autologous bone marrow-mononuclear cells (BM-MNCs). We also evaluated the optimal route of delivery (intracoronary <it>versus </it>peripheral intravenous injection).</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Materials and methods</p>
+         </st>
+         <sec>
+            <st>
+               <p>Animal procedures</p>
+            </st>
+            <p>Animal procedures were approved by the Institutional Committeefor Use and Care of Laboratory Animals at the Veterinary School ofNantes and conform to the <it>Guide for the Care and Use of Laboratory Animals </it>(NIH Publication No.85-23, revised 1996). Forty-six domestic pigs (35 to 40 kg) were included in the study. For MI induction and cell injection, anesthesia was induced by intramuscular injection of ketamine (10 mg/kg)/xylazine (2 mg/kg) and maintained with mechanical tracheal ventilation using inhaled isoflurane (2%). All animals received subcutaneously morphine (0.2 mg/kg) prior and after all procedures.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Experimental myocardial infarction</p>
+            </st>
+            <p>We used the MI experimental model initially described by Suzuki <it>et al </it><abbrgrp><abbr bid="B6">6</abbr></abbrgrp>, with slight modifications. Five days prior MI induction, animals received &#946;-blocker carazolol (20 &#956;g/kg) twice per day. Propranolol (0.05 mg/kg) was injected intravenously just before MI induction procedure to prevent arrhythmia. After the placement of a 6F sheath in the femoral artery, an extra-back up 6F guiding catheter (Boston Scientific Scimed, Inc, Boston, USA) was placed under fluoroscopy into the left main coronary artery. A 3 mm over the wire balloon catheter was placed either into the left anterior descending coronary artery distal to the first diagonal branch or into the left circumflex. After balloon inflation a coronary thrombus was induced by injections below the balloon of thrombin (900 UI, Sigma Aldrich Corporation, Saint Quentin Fallavier, France) and fibrinogen (5 mg, Sigma). The balloon was deflated two to three minutes after injections. Coronary occlusion was checked by angiogram, and MI was confirmed by ECG alteration and by plasma creatine kinase elevation 24 hours after MI induction (Reflotron, Roche Diagnostics, Meylan, France).</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Preparation and cryopreservation of autologous bone marrow mononuclear cells (BM-MNCs)</p>
+            </st>
+            <p>Five days after MI, a total of 100 mL of bone marrow was aspirated into heparin-treated Bone Marrow Aspiration/Intraosseous Infusion needle (15 Ga, 10 mm, Cardinal Health France 205 S.A.S, Ch&#226;teaubriand, France) from the iliac crests and shoulder blades under general anaesthesia. Five points of puncture were performed at each site of 5 mL each. The duration of the procedure was 15 to 20 minutes. BM-MNCs were isolated using Ficoll gradient (Eurobio Les Ulis, France), and a total of 244 &#215; 10<sup>6 </sup>&#177; 33 &#215; 10<sup>6 </sup>BM-MNCs was obtained.</p>
+            <p>BM-MNCs were cryopreserved in foetal calf serum 10% DMSO. Cryo-preservation for two days avoided two general anaesthesias the same day in seriously disabled animals and decreased the number of red blood cells to be injected.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Dual fluorescence and radioactive labelling</p>
+            </st>
+            <p>Seven days after MI induction, BM-MNCs were quickly thawed and labeled immediately before injection using a green intracellular fluorescent dye, Carboxy Fluorescein diacetate Succinimidyl Ester (CFSE, Molecular Probes Invitrogen, Cergy Pontoise, France) <abbrgrp><abbr bid="B7">7</abbr></abbrgrp>.</p>
+            <p><sup>99m</sup>Technetium (<sup>99m</sup>Tc) labeling was performed after CFSE labeling, using the Isolink&#8482; kit according to the manufacturer's instructions (Mallinckrodt Medical B.V., Petten, the Netherlands). CFSE + BM-MNCs were incubated with Isolink&#8482;/<sup>99m</sup>Tc for 40 minutes at 37&#176;C and pH = 6. Before injection, BM-MNCs were centrifugated and resuspended in 10 mL NaCl to obtain a final solution containing 300-400 MBq <sup>99m</sup>Tc-CFSE + BM-MNCs. Less than 5% cell mortality was observed in all experiments using trypan blue exclusion method after thawing, after radiotracer and fluorescence labeling, and immediately before injection.</p>
+            <p><sup>99m</sup>Tc cell leakage was evaluated before injection and after four hours incubation at 37&#176;C <it>in vitro</it>. Every hour, supernatant was collected. <sup>99m</sup>Tc activities were quantified on both supernatant and BM-MNC pellet using a gamma counter. Radio-labeling efficacy, defined as the percentage of <sup>99m</sup>Tc cell activity in the final cell solution, was 98 &#177; 5% (n = 3) after four hours and was stable during the four hour experiment, suggesting no <sup>99m</sup>Tc cell leakage.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Autologous BM-MNC injection</p>
+            </st>
+            <p>At Day 7 after MI, a second catheterization was performed. A 3 mm over the wire balloon catheter was advanced to the site of MI induction. An angiogram was performed before completing the procedure. In the absence of coronary reperfusion, a recanalization was performed with the guide wire before its distal placement. BM-MNCs were injected less than 30 minutes after preparation. The balloon was inflated at low pressure (two bars) and 3.3 mL of labeled BM-MNCs were injected through the lumen. The balloon was deflated two to three minutes later. The same procedure was repeated three times with a two minute interval between procedures. A total of 10<sup>8 </sup>BM-MNCs were injected in 10 mL of NaCl at a final concentration of 10<sup>7 </sup>BM-MNCs/mL.</p>
+            <p>For intravenous delivery, 10<sup>8 </sup>BM-MNCs were injected via the superficial vein of the left front leg, using a bolus injection of 15 seconds.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Nuclear imaging and gamma counting</p>
+            </st>
+            <p>Planar scintigraphic images of <sup>99m</sup>Tc-BM-MNC body distribution were obtained 1 hour and 24 hours after tracerinjection, using a gamma camera fitted with a low energy all purpose high resolution parallel hole collimator (DS7, Sopha Medical, GEMS, Buc, les Yvelines, France). The energy window was centred at 140 keV &#177; 20%. Using a dedicated image processing computer, a static image was recorded into a 64 &#215; 64 matrix for 35 seconds. The camera was calibrated using a standard source measured with a gamma counter before each acquisition to convert image counts to activity in MBq. For each experiment a calibrated dose of technetium was used to quantify activity decay after 24 hours. Anesthetized animals were positioned in supine positions, at a constant distance of 30 cm from the collimator, and images were recorded in thoracic and abdominal projections. On each image, a region of interest was drawn around each organ to quantify counts within the drawn area. Organ activity in each region of interest was expressed as the percentage of the total initial injected activity (measured as the difference between the <sup>99m</sup>Tc-BM-MNCs syringe content before and after injection) with correction for <sup>99m</sup>Tc physical decay.</p>
+            <p>Animals were sacrificed, their organs were excised and imaged with the gamma camera, and activity was measured in weighted samples of each organ and used to quantify organ gamma counting radioactivity (ACAD activimeter, Lemer Pax, Nantes, France). All quantitative analyses were performed by two investigators blinded to animal treatment group.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Pathologic examination and immunohistology</p>
+            </st>
+            <p>Animals were sacrificed 1 hour or 24 hours after BM-MNC injection. Heart samples were cryopreserved and sliced into contiguous transverse 5 &#956;m thick cryosections or were embedded in paraffin and stained with Hematoxylin-Eosin-Safran (HES). Immunolabeling was performed to detect VonWillebrand Factor antibody (DakoCytomation SA. France, Trappes France). Cell nuclei were labeled using propidium iodide. Histology analyses were performed by two pathologists blinded to animal treatment group.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Statistical analysis</p>
+            </st>
+            <p>Data were expressed as mean &#177; SD. The Kruskal-Wallis test was used for comparison of independent samples and Spearman's test for correlation coefficient. A value of <it>P </it>&lt; 0.05 was considered statistically significant.</p>
+         </sec>
+      </sec>
+      <sec>
+         <st>
+            <p>Results</p>
+         </st>
+         <sec>
+            <st>
+               <p>Procedural results</p>
+            </st>
+            <p>Myocardial infarction was induced in 37/46 pigs (Figure <figr fid="F1">1A</figr>). MI induction was complicated by death related to ventricular fibrillation during the procedure in eight cases (21.6%), and immediately after at the wake up time in four other cases (10.8%). Total death rate was 32% during and immediately after MI induction, probably due to extended MI <abbrgrp><abbr bid="B8">8</abbr></abbrgrp>.</p>
+            <fig id="F1">
+               <title>
+                  <p>Figure 1</p>
+               </title>
+               <caption>
+                  <p>Pig model of acute myocardial infarction</p>
+               </caption>
+               <text>
+                  <p><b>Pig model of acute myocardial infarction</b>. <b>A</b>: Experimental design and animal groups. MI = myocardial infarction; IC = intracoronary delivery; IV = peripheral intravenous delivery. <b>B</b>: Induction of myocardial infarction. Coronary angiography, before, during, immediately after and seven days after occlusion of left anterior descending artery and fibrinogen/thrombin injections. <b>C</b>: HES staining of myocardial tissue seven days after MI induction, characterized by a central necrotic zone and an inflammatory response.</p>
+               </text>
+               <graphic file="scrt4-1"/>
+            </fig>
+            <p>The 25 surviving animals were randomly assigned to three different groups: five were used as controls (MI without BM-MNC injection), 16 received intracoronary BM-MNCs, four received intravenous BM-MNCs. Two deaths were observed during balloon inflation for BM-MNC intracoronary injection (one from a ventricular fibrillation and one from a second MI, probably related to the injection site location being within a non-infarcted area). In the 9/47 animals without MI induction, seven received intracoronary BM-MNC injection and two were used as radioactivity controls (intracoronary injection of Isolink&#8482;/<sup>99m</sup>Tc only).</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Myocardial infarction model</p>
+            </st>
+            <p>MI was induced by complete obstruction of the left coronary artery using balloon inflation and injection of thrombin and fibrinogen (n = 23; left anterior descending artery: n = 15; left circumflex artery: n = 8) (Figure <figr fid="F1">1B</figr>). Transient ST-segment elevation and isolated ventricular extrasystoles occurred during each coronary balloon occlusion, but abnormal ECG profile (ST-segment elevation) persisted only after injections of thrombin and fibrinogen. Plasma creatine kinase levels increased 24 hours after coronary occlusion (1,222 &#177; 604 UI/l before coronary occlusion, and 4060 &#177; 1961 UI/l at 24 hours, <it>P </it>&lt; 0.01), confirming MI induction. Macroscopic examination of the heart performed seven to eight days after coronary occlusion showed extensive transmural antero-inferior MI encompassing 41.25 &#177; 5% of left anterior ventricle area (n = 23), with a thinning of the injured wall. Statistical analysis did not show any difference in MI size between animal groups, nor between animals with left anterior descending artery or left circumflex coronary occlusion, nor between animals with or without spontaneous reperfusion at the time of cell injection (not shown). Histopathologic examination confirmed MI, with associated inflammatory reaction and loss of cardiomyocyte nuclei (Figure <figr fid="F1">1C</figr>). Coronary angiography at seven days after MI showed spontaneous reperfusion in 18/23 pigs. Histological analyses showed an adherent residual thrombus within the coronary artery without total occlusion of the vessel lumen. Coronary occlusion in the five out of 23 remaining pigs required reperfusion before BM-MNC injection. Neither in pigs with spontaneous reperfusion nor in those with mechanical reperfusion, angiographic control showed abnomalities of blood flow distribution when compared to basal angiographic data obtained before MI induction.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Biodistribution and <sup>99m</sup>Tc-BM-MNC cardiac engraftment after MI and intracoronary injection</p>
+            </st>
+            <p>Scintigraphic images were used to track <sup>99m</sup>Tc-BM-MNCs after intracoronary injection. Radioactivity in the kidneys and the bladder due to free <sup>99m</sup>Tc clearance, was observed 15 minutes after injection (Figure <figr fid="F2">2A</figr>). At one hour after injection, whole pig body images revealed intense regional accumulation of radioactivity in the heart (Figure <figr fid="F2">2B</figr>). At 24 hours a persistence of heart and lung radioactivity was observed, with a decrease in signal intensity (Figure <figr fid="F2">2C</figr>).</p>
+            <fig id="F2">
+               <title>
+                  <p>Figure 2</p>
+               </title>
+               <caption>
+                  <p><sup>99m</sup>Tc-BM-MNC biodistribution in animals with myocardial infarction after intracoronary injection</p>
+               </caption>
+               <text>
+                  <p><b><sup>99m</sup>Tc-BM-MNC biodistribution in animals with myocardial infarction after intracoronary injection</b>. <b>A-B</b>: abdomen (A) and thorax (B: anterior and lateral) scintigraphic images at 15 minutes and 1 hour. <b>C</b>: thorax scintigraphic image at 24 hours in the same animal.</p>
+               </text>
+               <graphic file="scrt4-2"/>
+            </fig>
+            <p>Radioactivity was expressed as the fraction of measured radioactivity, decay-corrected and divided by the injected radioactivity amount. In the first set of experiments, radioactivity was quantified one hour after <sup>99m</sup>Tc-BM-MNC intracoronary injection both in regions of interest drawn on the planar images and in isolated organs (Figure <figr fid="F3">3A</figr>). There was no significant difference between both quantification methods (n = 6, R = 0.94 for heart, and R = 0.84 for lungs). Therefore results from either method were used in following experiments. As controls, two pigs without MI but with intracoronary injection of Isolink&#8482;/<sup>99m</sup>Tc only were used to quantify free Isolink&#8482;/<sup>99m</sup>Tc fixation in each organ. At one hour radioactivity rate was 11.5 &#177; 2.1% in the heart, 3.5 &#177; 2.1% in the lungs and 14.5 &#177; 2.1% in the liver (Figure <figr fid="F3">3B</figr>), and at 24 hours radioactivity rate was null (not shown). Consistent with the <it>in vivo </it>scintigraphic images (Figure <figr fid="F2">2A</figr>), after <sup>99m</sup>Tc-BM-MNC intracoronary injection high levels of radioactivity were measured in the heart (34.8 &#177; 9.9% of injected radioactivity) and in the lungs (32.6 &#177; 13.9%) (n = 6, Figure <figr fid="F3">3B</figr>). Small quantities of radioactivity were observed in other organs (2 &#177; 1.4% in the liver, 1.7 &#177; 0.6% in the kidneys). Radioactivity was also quantified in the infarcted site and in other cardiac tissues (right ventricle, healthy left ventricle and auricles, Figure <figr fid="F3">3C</figr>). We observed an accumulation of radioactivity in the infarcted area, Almost no radioactivity was detected remote from injection site (right ventricle, healthy left ventricle, auricles). 24 hours after BM-MNC injection, radioactivity persisted with lower intensity in the heart (6 &#177; 1.7%) and in the lungs (11 &#177; 2.6%) (n = 3, Figure <figr fid="F4">4B</figr>).</p>
+            <fig id="F3">
+               <title>
+                  <p>Figure 3</p>
+               </title>
+               <caption>
+                  <p><sup>99m</sup>Tc-BM-MNC biodistribution after intracoronary injection in animals with or without myocardial infarction</p>
+               </caption>
+               <text>
+                  <p><b><sup>99m</sup>Tc-BM-MNC biodistribution after intracoronary injection in animals with or without myocardial infarction</b>. The percentage of radioactivity in organs was calculated by dividing organ radioactivity with the total injected quantity after radioactive decay correction, one hour after injection. <b>A</b>: Comparison between two radioactivity quantification methods in the same animal: values from measured radioactivity in isolated organs (x-axis), and values from regions of interest drawn in the scintigraphic whole body acquisition images (y-axis). <b>B</b>: Radioactivity quantification in animals with (MI) or without (no MI) myocardial infarction, after intracoronary injection of Isolink&#8482;/<sup>99m</sup>Tc only or <sup>99m</sup>Tc-BM-MNCs. Bars indicate mean and SD (<it>P </it>> 0.05, not significant). <b>C</b>: Individual quantities of radioactivity in pigs with or without MI (<it>P </it>> 0.05, not significant). Radioactivity was quantified in 1 g myocardium inside the infarcted area, in the left and right ventricles distant from infarcted area, and in the left and right auricles.</p>
+               </text>
+               <graphic file="scrt4-3"/>
+            </fig>
+            <fig id="F4">
+               <title>
+                  <p>Figure 4</p>
+               </title>
+               <caption>
+                  <p><sup>99m</sup>Tc-BM-MNC biodistribution according to delivery route</p>
+               </caption>
+               <text>
+                  <p><b><sup>99m</sup>Tc-BM-MNC biodistribution according to delivery route</b>. <b>A</b>: Scintigraphic acquisition images, 1 hour and 24 hours after peripheral intravenous <sup>99m</sup>Tc-BM-MNC injection in the same pig with myocardial infarction. <b>B</b>: Radioactivity quantification, calculated by dividing organ radioactivity with the total injected quantity after radioactive decay correction. Bars indicate mean and SD.</p>
+               </text>
+               <graphic file="scrt4-4"/>
+            </fig>
+            <p>Importantly, there was no correlation between the infarction size and the heart radioactivity rate at one hour and 24 hours (not shown).</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Myocardial infarction and BM-MNC cardiac engraftment</p>
+            </st>
+            <p>To investigate the role of MI on BM-MNC homing and engraftment in the heart, <sup>99m</sup>Tc-BM-MNC were intracoronary injected in pigs with MI and in pigs without MI. In both animal groups, ECG alteration (ST-segment elevation) was observed during intracoronary BM-MNC injection. ST-segment elevation stopped immediately after the procedure, suggesting that no micro-infarction was induced by injection itself favouring cardiac homing. Importantly, no significant difference in heart and lung BM-MNC distribution was observed between both groups, with a high radioactivity ratio in the heart (34.8 &#177; 9.9% in MI group <it>versus </it>51.2 &#177; 17.2% in no MI group, Figure <figr fid="F3">3B</figr>).</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Biodistribution of BM-MNCs and delivery route</p>
+            </st>
+            <p>The efficacy of intracoronary administration <it>versus </it>systemic intravenous administration was evaluated in pigs with MI. After intravenous cell delivery at 1 hour and 24 hours, radioactivity was detected mainly in the lungs both on scintigraphic images (n = 4, Figure <figr fid="F4">4A</figr>) and by radioactivity quantification, in marked contrast with intracoronary injection (Figure <figr fid="F4">4B</figr>). After intravenous injection, cardiac radioactivity was almost null (0.16 &#177; 0.23%) as compared to pigs after intracoronary injection (34.8 &#177; 9.9%). After 24 hours, no cardiac radioactivity was observed in intravenously injected pigs, suggesting an absence of cardiac homing at 24 hours.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Histological analyses</p>
+            </st>
+            <p>For histological analyses, BM-MNCs were labeled with a fluorescent marker (CFSE) prior to injection and animals were sacrificed one hour or 24 hours after injection. As noticed by others <abbrgrp><abbr bid="B9">9</abbr></abbrgrp> microscopic fluorescent artefacts were observed in the myocardium of control animals with MI and without BM-MNC injection, characterized by fluorescent leukocytes and autofluorescence within the infarcted tissue. However, these artefacts could be distinguished from BM-MNCs by their small size and their limited location within necrotic areas <abbrgrp><abbr bid="B10">10</abbr></abbrgrp> (Figure <figr fid="F5">5A</figr>). BM-MNCs in non necrotic areas were detected in each animal that received CFSE+ BM-MNCs (Figure <figr fid="F5">5B-C</figr>), and were not observed in any control animals (with MI and without BM-MNC injection, Figure <figr fid="F5">5D</figr>). CFSE+ BM-MNCs were also observed in heart tissue 24 hours after intracoronary injection in each animal that received CFSE+ BM-MNCs (Figure <figr fid="F5">5J</figr>). The presence of BM-MNCs was confirmed in HES histological analyses (Figure <figr fid="F5">5E-F</figr>). BM-MNCs appeared as clusters of mononuclear cells, characterized by round and dense blue nuclei, in contrast with elongated and blue pale cardiomyocyte nuclei. These round and dense blue nuclei were not observed in control animals in HES histologic analyses (not shown). BM-MNCs were located in majority in the peri-infarcted myocardium and only a few BM-MNCs were detected in infarcted myocardium. No BM-MNCs were observed remote from the injection site (auricle, right ventricle, non infarcted myocardium).</p>
+            <fig id="F5">
+               <title>
+                  <p>Figure 5</p>
+               </title>
+               <caption>
+                  <p>Immunohistologic analyses</p>
+               </caption>
+               <text>
+                  <p><b>Immunohistologic analyses</b>. Representative organ sections, after intracoronary injection of BM-MNCs labeled prior to injection with CFSE (green fluorescence). Cell nuclei were labeled with propidium iodide (red fluorescence). <b>A</b>: Fluorescent artefacts within the necrotic area of infarcted tissue. <b>B-C</b>: Myocardium sections of infarcted tissue, in absence of necrotic area, one hour after CSFE+ BM-MNC intracoronary injection. <b>D</b>: Myocardium section of a control animal (with myocardial infarction, without BM-MNC injection). <b>E-F</b>: The following section of C was stained with HES. Engrafted BM-MNCs within the infarcted zone appeared as round and dense blue points (arrow), in contrast to the elongated and blue pale cardiomyocyte nuclei (star). <b>G</b>: Myocardium section stained for endothelial cells and capillaries using anti-VonWillebrand antibody (red fluorescence). <b>H-I</b>: Lung (H) and liver (I) section. Cell nuclei labeled with propidium iodide (red fluorescence). <b>J</b>: Myocardium section of infarcted tissue, 24 hours after CFSE+ BM-MNC intracoronary injection. <b>K-L</b>: Myocardium section of an animal without myocardial infarction, one hour after CFSE+ BM-MNC intracoronary injection, using VonWillebrand antibody (K) or HES coloration (L).</p>
+               </text>
+               <graphic file="scrt4-5"/>
+            </fig>
+            <p>Tissue sections were stained for endothelial cells and capillaries using anti-VonWillebrand antibody (Figure <figr fid="F5">5G</figr>). Neither thrombus nor arterial occlusion was observed in both groups. BM-MNCs were incorporated within myocardial tissue and were not observed within the lumen neither into wall blood vessel, and no cells were observed with double staining CFSE+ and endothelial marker. Double labeling for macrophages using anti-MAC-1 antibody was negative (not shown), suggesting that transplanted BM-MNCs had not been phagocyted.</p>
+            <p>We also investigated extracardiac BM-MNC biodistribution by histological analysis. CFSE+ BM-MNCs were disseminated in whole lungs (Figure <figr fid="F5">5H</figr>). Sections of other vital organs (liver, spleen, kidneys and thymus) demonstrated no significant cell location, only cell debris (Figure <figr fid="F5">5I</figr>).</p>
+            <p>Importantly, the presence of BM-MNCs was confirmed one hour (Figure <figr fid="F5">5K-L</figr>) and 24 hours (not shown) after intracoronary injection in every pig without MI and again, neither thrombus nor arterial occlusion was observed. These data were in accordance with analyses of scintigraphic data and radioactive organ quantification (Figure <figr fid="F3">3B</figr>).</p>
+            <p>The absence of cardiac homing after BM-MNC intravenous injection at 24 hours as observed on scintigraphic images was also confirmed by histological analyses, showing an absence of fluorescence in myocardium inside and outside MI area (not shown). In contrast, CFSE+ BM-MNCs were numerous and dispersed in whole lungs when injected intravenously (not shown).</p>
+         </sec>
+      </sec>
+      <sec>
+         <st>
+            <p>Discussion</p>
+         </st>
+         <p>In a porcine model of acute MI with late reperfusion and autologous cardiac cell therapy, we quantified biodistribution using a radiolabeling technique. Most of the BM-MNCs delivered by the intracoronary route were distributed within the heart and lungs. The presence of MI did not modify BM-MNC cardiac homing and engraftment after intracoronary injection. Finally, systemic intravenous BM-MNC injection promoted lung homing rather than cardiac engraftment.</p>
+         <p>The first prerequisite for cell therapy success is the engraftment and thus, homing of transplanted cells to the target area. Intracoronary delivery offers the advantages of a non-surgical method that can be performed percutaneously during angioplasty for acute MI. In the present study we showed that intracoronary BM-MNC injection can allow cell engraftment into myocardium tissue, whereas peripheral systemic intravenous administration was not efficient at 24 hours. This suggests that the cardiac niche effect favoured by MI was not sufficient to attract intravenously injected BM-MNCs within 24 hours, thus limiting the efficacy of systemic intravenous injection. Chemoattractant factors secreted by the infarcted heart might be too diluted in the body of large animals like pigs to attract BM-MNCs. If this is the case, similar results may be expected in humans. Another hypothesis is that the ability to trap intravenously injected BM-MNCs within the heart is limited, since only 4% to 5% of cardiac output is dedicated to supplying the coronary arteries <abbrgrp><abbr bid="B11">11</abbr></abbrgrp>). Finally, cardiac engraftment following systemic intravenous BM-MNC delivery might be limited by lung entrapment prior to coronary artery access. Numerous studies have been performed in rodent <abbrgrp><abbr bid="B12">12</abbr></abbrgrp> and large animal models <abbrgrp><abbr bid="B13">13</abbr><abbr bid="B14">14</abbr></abbrgrp>, using intravenous injection of mesenchymal stem cells, showing mesenchymal stem cell engraftment after 24 hours. Several hypotheses can be discussed to explain these discrepancies with our results. First, our protocol closely matched clinical trial protocols, in which a seven-day delay between acute MI and cell injection seems to be the best time for efficacy following intracoronary injection <abbrgrp><abbr bid="B3">3</abbr><abbr bid="B15">15</abbr></abbrgrp>. However, this time may be too long after intravenous cell injection, in regards to local inflammatory response and niche effect. In most studies mesenchymal stem cells were injected 1 to 72 hours after myocardial infarction <abbrgrp><abbr bid="B12">12</abbr><abbr bid="B13">13</abbr><abbr bid="B14">14</abbr></abbrgrp>. Second, BM-MNCs were labeled with <sup>99m</sup>Technetium, a radioelement that has a short half life and may not have been detected at 24 hours. However, we did not observe any fluorescent cell within the heart 24 hours after intravenous injection, corroborating our radioactivity data. Finally, mesenchymal stem cells may have a better capability for cardiac homing than BM-MNCs, that contain a very small stem cell number. Interestingly, a recent study comparing intra-aortic, intravenous, and intramyocardial delivery of mesenchymal stem cells in rats observed 5% cell survival at 48 hours after intravenous delivery, mostly in the lungs <abbrgrp><abbr bid="B15">15</abbr></abbrgrp>.</p>
+         <p>The radioactive labeling using Isolink&#8482; kit did not discriminate cell type, and was not species nor cell specific. In a pilot study we evaluated <sup>99m</sup>Tc-hexa-methyl-propylen-amine-oxime (HMPAO) labeling, often used in humans. However, <sup>99m</sup>Tc-HMPAO labeling of BM-MNCs was totally unsuccessful (not shown). We then switched to the radioactive linker Isolink&#8482;, which allowed us to inject a large quantity of <sup>99m</sup>Tc-labeled cells, significantly higher than in other studies <abbrgrp><abbr bid="B16">16</abbr><abbr bid="B17">17</abbr></abbrgrp>. Although, similar to previous studies <abbrgrp><abbr bid="B11">11</abbr><abbr bid="B18">18</abbr><abbr bid="B19">19</abbr></abbrgrp>, the viability of Isolink&#8482;/<sup>99m</sup>Tc-labeled BM-MNCs was not altered, the adverse effects of labeling on the migratory and functional abilities of BM-MNCs cannot be entirely excluded. The majority of cardiac BM-MNC homing studies were performed in rodents, and only a few studies established the fraction of transplanted cells retained within the myocardium using direct radioactive labeling of the cells. In our study, radioactivity quantification in each organ showed 34.8 &#177; 9.9% total radioactivity in the heart with an accumulation within the injection site, one hour after intracoronary BM-MNC injection, and 6.0 &#177; 1.7% at 24 hours. Importantly, histology results were in accordance with scintigraphic imaging data confirming the presence of numerous BM-MNCs at one hour and 24 hours after intracoronary injection. As in our study, Hou <it>et al </it><abbrgrp><abbr bid="B8">8</abbr></abbrgrp>, using a pig model of reperfused MI with intracoronary cell delivery and radioactive cell quantification, observed a largely right-sided distribution of BM-MNC. However, only 2.6 &#177; 0.3% of BM-MNCs were detected in the heart, with some BM-MNCs being distributed to the right ventricle. Importantly, the experimental model in this study was xenogeneic, with human BM-MNCs being injected into pigs. Human cells may lack the correct membrane receptors to home into the pig myocardium or may undergo acute lysis due to a xenogeneic reaction. In a recent study, using a similar model of reperfused MI in pigs with autologous BM-MNC transplantation <abbrgrp><abbr bid="B20">20</abbr></abbrgrp> 6.5% of autologous transplanted BM-MNCs were detected in the heart four days after injection, a result close to ours at 24 hours. Finally, cardiac homing cell rate at one hour might be overestimated by including a possible leakage of radioactive label from the cells, although this appears unlikely as no radioactive cell leakage was observed <it>in vitro </it>in the next four hours following radioactive labeling.</p>
+         <p>Although phase I-II clinical trials have been completed using coronary delivery of BM cells, only one study used coronary delivery of <sup>99m</sup>Tc-labeled BM-MNCs (in a single patient), and observed <it>intense </it>cardiac cell engraftment <abbrgrp><abbr bid="B17">17</abbr></abbrgrp>. The study of Hofmann <it>et al </it><abbrgrp><abbr bid="B11">11</abbr></abbrgrp> showed that in five patients with MI, only 1.3 to 2.6% of <sup>18</sup>F-FDG-labeled BM-MNCs were detected in the infarcted myocardium one hour after intracoronary BM-MNC injection. However, the number of injected BM-MNCs was 30-fold higher than in our study, so the absolute number of retained BM-MNCs within the heart was 39 to 78 &#215; 10<sup>6 </sup>BM-MNCs, a number close to ours (34.8 &#177; 9.9 &#215; 10<sup>6 </sup>retained BM-MNCs). Intracoronary injection of a very high cell number may saturate the binding sites for cardiac cell homing, raising questions about the ideal number of cells to be injected.</p>
+         <p>After intracoronary injection, we observed a similar biodistribution of BM-MNCs in animals with or without MI, despite the large size of the infarcted area (45% of the left ventricle). Several studies have shown that acute myocardial infarction is followed by an acute local inflammatory reaction involving upregulation of chemokines receptors and adhesion molecules, thereby facilitating adhesion and infiltration of cells involved in tissue repair, including stem cells <abbrgrp><abbr bid="B21">21</abbr><abbr bid="B22">22</abbr><abbr bid="B23">23</abbr></abbrgrp>. The dynamic capability of BM-MNCs to migrate and the <it>niche </it>effect are central in regenerative medicine <abbrgrp><abbr bid="B21">21</abbr><abbr bid="B22">22</abbr><abbr bid="B23">23</abbr></abbrgrp>. In our model, to carry out intracoronary injection, blood flow was stopped three times for at least two minutes to prevent backflow and prolong contact time between BM-MNCs and myocardium. When BM-MNCs were injected without prior MI induction, each maneuver for intracoronary cell injection resulted in ST-segment elevation, as already described for repeated angioplasty balloon inflations <abbrgrp><abbr bid="B24">24</abbr><abbr bid="B25">25</abbr></abbrgrp>. Although we did not evaluate the intensity of the ischemia induced by balloon inflation, this suggests that the injection technique created local downstream ischemic and preconditioning effects <abbrgrp><abbr bid="B25">25</abbr></abbrgrp>, thus rendering the local microenvironment more receptive to cell homing <abbrgrp><abbr bid="B24">24</abbr></abbrgrp>. A recent study in a pig model of myocardial infarction and intracoronary injection of autologous BM cells, balloon occlusion was found ineffective to increase cell homing <abbrgrp><abbr bid="B24">24</abbr></abbrgrp>. In another study in a similar model, single-bolus delivery was as effective as three balloon-occlusion deliveries <abbrgrp><abbr bid="B26">26</abbr></abbrgrp>. Importantly, both studies were performed only in pigs with myocardial infarction and not in healthy pigs, suggesting that the cardiac niche effect favoured by MI was sufficient to attract injected BM-MNCs without any further effect of balloon occlusion. The fact that the presence and the size of MI did not influence cell engraftment could be useful for cardiac cell therapy in patients with chronic heart failure of non-ischemic origin or with ischemic myocardium without myocardial infarction. Two clinical trials have been published with patients who have had a myocardial infarction at least three months before BM-MNC coronary injection <abbrgrp><abbr bid="B1">1</abbr><abbr bid="B27">27</abbr><abbr bid="B28">28</abbr></abbrgrp>. A clinical benefit was observed in both studies, suggesting that BM-MNCs homed to the myocardium despite the absence of acute myocardial infarction. The hypothesis of cardiac homing in the absence of acute myocardial infarction was recently confirmed in two Phase I cardiac cell therapy clinical trials on patients with chronic ischemic cardiomyopathy and receiving an intracoronary injection of radiolabeled CD133+ or CD34+ cells <abbrgrp><abbr bid="B16">16</abbr><abbr bid="B29">29</abbr></abbrgrp>.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Conclusions</p>
+         </st>
+         <p>Myocardial cell distribution following intracoronary injection did not depend on MI presence. Given these results, further efforts to analyze the mechanisms of adhesion and transmigration through the vascular wall will be rewarding.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Abbreviations</p>
+         </st>
+         <p><sup>99m</sup>Tc: <sup>99m</sup>Technetium; BM-MNC(s): bone marrow-mononuclear cells; CFSE: carboxy fluorescein diacetate succinimidyl ester; DMSO: dimethyl sulfoxide; ECG: electrocardiogram; HES: hematoxylin-eosin-safran; HMPAO: hexa-methyl-propylen-amine-oxime; MBq: Mega Becquerel; MI: myocardial infarction; SD: standard deviation.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Competing interests</p>
+         </st>
+         <p>The authors declare that they have no competing interests.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Authors' contributions</p>
+         </st>
+         <p>VF carried out the cell therapy product preparation and drafted the manuscript. AT implemented the myocardium infarction animal model and carried out myocardial infarction inductions. CP implemented the cardiac cell therapy animal model and carried out bone marrow harvests. SF participated in the design of the study and helped to draft the manuscript. MF performed the analysis and interpretation of scintigraphic data. JCD carried out the radioactive experiments. CT participated to the conception and design of histological experiments. MFH carried out the analyses and interpretation of histological data. DC participated in carrying out in vivo experiments and helped to draft the manuscript. PL conceived of the study, and participated in its design and coordination, and drafted the manuscript. All authors read and approved the final manuscript.</p>
+      </sec>
+   </bdy>
+   <bm>
+      <ack>
+         <sec>
+            <st>
+               <p>Acknowledgements</p>
+            </st>
+            <p>The authors gratefully acknowledge St&#233;phane Madec for technical expertise in imaging. This work was supported, in part, by an INSERM Avenir grant, the Association Fran&#231;aise contre les Myopathies, the Agence de la Biom&#233;decine, and by the Juvenile Diabetes Research Foundation.</p>
+         </sec>
+      </ack>
+      <refgrp>
+         <bibl id="B1">
+            <title>
+               <p>Autologous bone marrow stem cells to treat acute myocardial infarction: a systematic review</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Martin-Rendon</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Brunskill</snm>
+                  <fnm>SJ</fnm>
+               </au>
+               <au>
+                  <snm>Hyde</snm>
+                  <fnm>CJ</fnm>
+               </au>
+               <au>
+                  <snm>Stanworth</snm>
+                  <fnm>SJ</fnm>
+               </au>
+               <au>
+                  <snm>Mathur</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Watt</snm>
+                  <fnm>SM</fnm>
+               </au>
+            </aug>
+            <source>Eur Heart J</source>
+            <pubdate>2008</pubdate>
+            <volume>29</volume>
+            <fpage>1807</fpage>
+            <lpage>1818</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1093/eurheartj/ehn220</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18523058</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B2">
+            <title>
+               <p>Intracoronary injection of mononuclear bone marrow cells in acute myocardial infarction</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Lunde</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Solheim</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Aakhus</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Arnesen</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Abdelnoor</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Egeland</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Endresen</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Ilebekk</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Mangschau</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Fjeld</snm>
+                  <fnm>JG</fnm>
+               </au>
+               <au>
+                  <snm>Smith</snm>
+                  <fnm>HJ</fnm>
+               </au>
+               <au>
+                  <snm>Taraldsrud</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Grogaard</snm>
+                  <fnm>HK</fnm>
+               </au>
+               <au>
+                  <snm>Bjornerheim</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Brekke</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Muller</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Hopp</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Ragnarsson</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Brinchmann</snm>
+                  <fnm>JE</fnm>
+               </au>
+               <au>
+                  <snm>Forfang</snm>
+                  <fnm>K</fnm>
+               </au>
+            </aug>
+            <source>N Engl J Med</source>
+            <pubdate>2006</pubdate>
+            <volume>355</volume>
+            <fpage>1199</fpage>
+            <lpage>1209</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1056/NEJMoa055706</pubid>
+                  <pubid idtype="pmpid" link="fulltext">16990383</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B3">
+            <title>
+               <p>Intracoronary bone marrow-derived progenitor cells in acute myocardial infarction</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Schachinger</snm>
+                  <fnm>V</fnm>
+               </au>
+               <au>
+                  <snm>Erbs</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Elsasser</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Haberbosch</snm>
+                  <fnm>W</fnm>
+               </au>
+               <au>
+                  <snm>Hambrecht</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Holschermann</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Yu</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Corti</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Mathey</snm>
+                  <fnm>DG</fnm>
+               </au>
+               <au>
+                  <snm>Hamm</snm>
+                  <fnm>CW</fnm>
+               </au>
+               <au>
+                  <snm>Suselbeck</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Assmus</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Tonn</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Dimmeler</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Zeiher</snm>
+                  <fnm>AM</fnm>
+               </au>
+            </aug>
+            <source>N Engl J Med</source>
+            <pubdate>2006</pubdate>
+            <volume>355</volume>
+            <fpage>1210</fpage>
+            <lpage>1221</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1056/NEJMoa060186</pubid>
+                  <pubid idtype="pmpid" link="fulltext">16990384</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B4">
+            <title>
+               <p>Cell therapy in myocardial infarction</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Arnesen</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Lunde</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Aakhus</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Forfang</snm>
+                  <fnm>K</fnm>
+               </au>
+            </aug>
+            <source>Lancet</source>
+            <pubdate>2007</pubdate>
+            <volume>369</volume>
+            <fpage>2142</fpage>
+            <lpage>2143</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/S0140-6736(07)60992-1</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17604783</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B5">
+            <title>
+               <p>The consensus of the task force of the European Society of Cardiology concerning the clinical investigation of the use of autologous adult stem cells for repair of the heart</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Bartunek</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Dimmeler</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Drexler</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Fernandez-Aviles</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Galinanes</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Janssens</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Martin</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Mathur</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Menasche</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Priori</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Strauer</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Tendera</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Wijns</snm>
+                  <fnm>W</fnm>
+               </au>
+               <au>
+                  <snm>Zeiher</snm>
+                  <fnm>A</fnm>
+               </au>
+            </aug>
+            <source>Eur Heart J</source>
+            <pubdate>2006</pubdate>
+            <volume>27</volume>
+            <fpage>1338</fpage>
+            <lpage>1340</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1093/eurheartj/ehi793</pubid>
+                  <pubid idtype="pmpid" link="fulltext">16543252</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B6">
+            <title>
+               <p>Development and evaluation of a new canine myocardial infarction model using a closed-chest injection of thrombogenic material</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Suzuki</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Asano</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Tanaka</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Usuda</snm>
+                  <fnm>S</fnm>
+               </au>
+            </aug>
+            <source>Jpn Circ J</source>
+            <pubdate>1999</pubdate>
+            <volume>63</volume>
+            <fpage>900</fpage>
+            <lpage>905</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1253/jcj.63.900</pubid>
+                  <pubid idtype="pmpid" link="fulltext">10598899</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B7">
+            <title>
+               <p>Autologous myoblast transplantation after myocardial infarction increases the inducibility of ventricular arrhythmias</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Fernandes</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Amirault</snm>
+                  <fnm>JC</fnm>
+               </au>
+               <au>
+                  <snm>Lande</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Nguyen</snm>
+                  <fnm>JM</fnm>
+               </au>
+               <au>
+                  <snm>Forest</snm>
+                  <fnm>V</fnm>
+               </au>
+               <au>
+                  <snm>Bignolais</snm>
+                  <fnm>O</fnm>
+               </au>
+               <au>
+                  <snm>Lamirault</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Heudes</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Orsonneau</snm>
+                  <fnm>JL</fnm>
+               </au>
+               <au>
+                  <snm>Heymann</snm>
+                  <fnm>MF</fnm>
+               </au>
+               <au>
+                  <snm>Charpentier</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Lemarchand</snm>
+                  <fnm>P</fnm>
+               </au>
+            </aug>
+            <source>Cardiovasc Res</source>
+            <pubdate>2006</pubdate>
+            <volume>69</volume>
+            <fpage>348</fpage>
+            <lpage>358</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.cardiores.2005.10.003</pubid>
+                  <pubid idtype="pmpid" link="fulltext">16376327</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B8">
+            <title>
+               <p>Radiolabeled cell distribution after intramyocardial, intracoronary, and interstitial retrograde coronary venous delivery: implications for current clinical trials</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Hou</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Youssef</snm>
+                  <fnm>EA</fnm>
+               </au>
+               <au>
+                  <snm>Brinton</snm>
+                  <fnm>TJ</fnm>
+               </au>
+               <au>
+                  <snm>Zhang</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Rogers</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Price</snm>
+                  <fnm>ET</fnm>
+               </au>
+               <au>
+                  <snm>Yeung</snm>
+                  <fnm>AC</fnm>
+               </au>
+               <au>
+                  <snm>Johnstone</snm>
+                  <fnm>BH</fnm>
+               </au>
+               <au>
+                  <snm>Yock</snm>
+                  <fnm>PG</fnm>
+               </au>
+               <au>
+                  <snm>March</snm>
+                  <fnm>KL</fnm>
+               </au>
+            </aug>
+            <source>Circulation</source>
+            <pubdate>2005</pubdate>
+            <volume>112</volume>
+            <fpage>I150</fpage>
+            <lpage>156</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid" link="fulltext">16159808</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B9">
+            <title>
+               <p>Regenerating the heart</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Laflamme</snm>
+                  <fnm>MA</fnm>
+               </au>
+               <au>
+                  <snm>Murry</snm>
+                  <fnm>CE</fnm>
+               </au>
+            </aug>
+            <source>Nat Biotechnol</source>
+            <pubdate>2005</pubdate>
+            <volume>23</volume>
+            <fpage>845</fpage>
+            <lpage>856</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/nbt1117</pubid>
+                  <pubid idtype="pmpid" link="fulltext">16003373</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B10">
+            <title>
+               <p>Concise review: stem cells, myocardial regeneration, and methodological artifacts</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Anversa</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Leri</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Rota</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Hosoda</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Bearzi</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Urbanek</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Kajstura</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Bolli</snm>
+                  <fnm>R</fnm>
+               </au>
+            </aug>
+            <source>Stem Cells</source>
+            <pubdate>2007</pubdate>
+            <volume>25</volume>
+            <fpage>589</fpage>
+            <lpage>601</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1634/stemcells.2006-0623</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17124006</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B11">
+            <title>
+               <p>Monitoring of bone marrow cell homing into the infarcted human myocardium</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Hofmann</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Wollert</snm>
+                  <fnm>KC</fnm>
+               </au>
+               <au>
+                  <snm>Meyer</snm>
+                  <fnm>GP</fnm>
+               </au>
+               <au>
+                  <snm>Menke</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Arseniev</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Hertenstein</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Ganser</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Knapp</snm>
+                  <fnm>WH</fnm>
+               </au>
+               <au>
+                  <snm>Drexler</snm>
+                  <fnm>H</fnm>
+               </au>
+            </aug>
+            <source>Circulation</source>
+            <pubdate>2005</pubdate>
+            <volume>111</volume>
+            <fpage>2198</fpage>
+            <lpage>2202</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1161/01.CIR.0000163546.27639.AA</pubid>
+                  <pubid idtype="pmpid" link="fulltext">15851598</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B12">
+            <title>
+               <p>Intravenous administration of mesenchymal stem cells improves cardiac function in rats with acute myocardial infarction through angiogenesis and myogenesis</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Nagaya</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Fujii</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Iwase</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Ohgushi</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Itoh</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Uematsu</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Yamagishi</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Mori</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Kangawa</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Kitamura</snm>
+                  <fnm>S</fnm>
+               </au>
+            </aug>
+            <source>Am J Physiol Heart Circ Physiol</source>
+            <pubdate>2004</pubdate>
+            <volume>287</volume>
+            <fpage>H2670</fpage>
+            <lpage>2676</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1152/ajpheart.01071.2003</pubid>
+                  <pubid idtype="pmpid" link="fulltext">15284059</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B13">
+            <title>
+               <p>Dynamic imaging of allogeneic mesenchymal stem cells trafficking to myocardial infarction</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Kraitchman</snm>
+                  <fnm>DL</fnm>
+               </au>
+               <au>
+                  <snm>Tatsumi</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Gilson</snm>
+                  <fnm>WD</fnm>
+               </au>
+               <au>
+                  <snm>Ishimori</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Kedziorek</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Walczak</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Segars</snm>
+                  <fnm>WP</fnm>
+               </au>
+               <au>
+                  <snm>Chen</snm>
+                  <fnm>HH</fnm>
+               </au>
+               <au>
+                  <snm>Fritzges</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Izbudak</snm>
+                  <fnm>I</fnm>
+               </au>
+               <au>
+                  <snm>Young</snm>
+                  <fnm>RG</fnm>
+               </au>
+               <au>
+                  <snm>Marcelino</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Pittenger</snm>
+                  <fnm>MF</fnm>
+               </au>
+               <au>
+                  <snm>Solaiyappan</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Boston</snm>
+                  <fnm>RC</fnm>
+               </au>
+               <au>
+                  <snm>Tsui</snm>
+                  <fnm>BM</fnm>
+               </au>
+               <au>
+                  <snm>Wahl</snm>
+                  <fnm>RL</fnm>
+               </au>
+               <au>
+                  <snm>Bulte</snm>
+                  <fnm>JW</fnm>
+               </au>
+            </aug>
+            <source>Circulation</source>
+            <pubdate>2005</pubdate>
+            <volume>112</volume>
+            <fpage>1451</fpage>
+            <lpage>1461</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1161/CIRCULATIONAHA.105.537480</pubid>
+                  <pubid idtype="pmcid">1456731</pubid>
+                  <pubid idtype="pmpid">16129797</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B14">
+            <title>
+               <p>Intravenous delivery of autologous mesenchymal stem cells limits infarct size and improves left ventricular function in the infarcted porcine heart</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Krause</snm>
+                  <fnm>U</fnm>
+               </au>
+               <au>
+                  <snm>Harter</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Seckinger</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Wolf</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Reinhard</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Bea</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Dengler</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Hardt</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Ho</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Katus</snm>
+                  <fnm>HA</fnm>
+               </au>
+               <au>
+                  <snm>Kuecherer</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Hansen</snm>
+                  <fnm>A</fnm>
+               </au>
+            </aug>
+            <source>Stem Cells Dev</source>
+            <pubdate>2007</pubdate>
+            <volume>16</volume>
+            <fpage>31</fpage>
+            <lpage>37</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1089/scd.2006.0089</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17348804</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B15">
+            <title>
+               <p>Adult bone marrow-derived cells for cardiac repair: a systematic review and meta-analysis</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Abdel-Latif</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Bolli</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Tleyjeh</snm>
+                  <fnm>IM</fnm>
+               </au>
+               <au>
+                  <snm>Montori</snm>
+                  <fnm>VM</fnm>
+               </au>
+               <au>
+                  <snm>Perin</snm>
+                  <fnm>EC</fnm>
+               </au>
+               <au>
+                  <snm>Hornung</snm>
+                  <fnm>CA</fnm>
+               </au>
+               <au>
+                  <snm>Zuba-Surma</snm>
+                  <fnm>EK</fnm>
+               </au>
+               <au>
+                  <snm>Al-Mallah</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Dawn</snm>
+                  <fnm>B</fnm>
+               </au>
+            </aug>
+            <source>Arch Intern Med</source>
+            <pubdate>2007</pubdate>
+            <volume>167</volume>
+            <fpage>989</fpage>
+            <lpage>997</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1001/archinte.167.10.989</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17533201</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B16">
+            <title>
+               <p>Intracoronary infusion of CD133+ and CD133-CD34+ selected autologous bone marrow progenitor cells in patients with chronic ischemic cardiomyopathy: cell isolation, adherence to the infarcted area, and body distribution</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Goussetis</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Manginas</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Koutelou</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Peristeri</snm>
+                  <fnm>I</fnm>
+               </au>
+               <au>
+                  <snm>Theodosaki</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Kollaros</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Leontiadis</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Theodorakos</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Paterakis</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Karatasakis</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Cokkinos</snm>
+                  <fnm>DV</fnm>
+               </au>
+               <au>
+                  <snm>Graphakos</snm>
+                  <fnm>S</fnm>
+               </au>
+            </aug>
+            <source>Stem Cells</source>
+            <pubdate>2006</pubdate>
+            <volume>24</volume>
+            <fpage>2279</fpage>
+            <lpage>2283</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1634/stemcells.2005-0589</pubid>
+                  <pubid idtype="pmpid" link="fulltext">16794269</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B17">
+            <title>
+               <p>Autologous bone marrow mononuclear cells labeled with Tc-99m hexamethylpropylene amine oxime scintigraphy after intracoronary stem cell therapy in acute myocardial infarction</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Mesquita</snm>
+                  <fnm>CT</fnm>
+               </au>
+               <au>
+                  <snm>Correa</snm>
+                  <fnm>PL</fnm>
+               </au>
+               <au>
+                  <snm>Felix</snm>
+                  <fnm>RC</fnm>
+               </au>
+               <au>
+                  <snm>Azevedo</snm>
+                  <fnm>JC</fnm>
+               </au>
+               <au>
+                  <snm>Alves</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Oliveira</snm>
+                  <fnm>CC</fnm>
+               </au>
+               <au>
+                  <snm>Sousa</snm>
+                  <fnm>AL</fnm>
+               </au>
+               <au>
+                  <snm>Borojevic</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Dohmann</snm>
+                  <fnm>HF</fnm>
+               </au>
+            </aug>
+            <source>J Nucl Cardiol</source>
+            <pubdate>2005</pubdate>
+            <volume>12</volume>
+            <fpage>610</fpage>
+            <lpage>612</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.nuclcard.2005.05.010</pubid>
+                  <pubid idtype="pmpid">16171723</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B18">
+            <title>
+               <p>111In-labeled CD34+ hematopoietic progenitor cells in a rat myocardial infarction model</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Brenner</snm>
+                  <fnm>W</fnm>
+               </au>
+               <au>
+                  <snm>Aicher</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Eckey</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Massoudi</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Zuhayra</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Koehl</snm>
+                  <fnm>U</fnm>
+               </au>
+               <au>
+                  <snm>Heeschen</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Kampen</snm>
+                  <fnm>WU</fnm>
+               </au>
+               <au>
+                  <snm>Zeiher</snm>
+                  <fnm>AM</fnm>
+               </au>
+               <au>
+                  <snm>Dimmeler</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Henze</snm>
+                  <fnm>E</fnm>
+               </au>
+            </aug>
+            <source>J Nucl Med</source>
+            <pubdate>2004</pubdate>
+            <volume>45</volume>
+            <fpage>512</fpage>
+            <lpage>518</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid" link="fulltext">15001696</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B19">
+            <title>
+               <p>One-day kinetics of myocardial engraftment after intracoronary injection of bone marrow mononuclear cells in patients with acute and chronic myocardial infarction</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Penicka</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Lang</snm>
+                  <fnm>O</fnm>
+               </au>
+               <au>
+                  <snm>Widimsky</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Kobylka</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Kozak</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Vanek</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Dvorak</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Tintera</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Bartunek</snm>
+                  <fnm>J</fnm>
+               </au>
+            </aug>
+            <source>Heart</source>
+            <pubdate>2007</pubdate>
+            <volume>93</volume>
+            <fpage>837</fpage>
+            <lpage>841</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1136/hrt.2006.091934</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17309910</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B20">
+            <title>
+               <p>Reduction in infarct size, but no functional improvement after bone marrow cell administration in a porcine model of reperfused myocardial infarction</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Moelker</snm>
+                  <fnm>AD</fnm>
+               </au>
+               <au>
+                  <snm>Baks</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Bos</snm>
+                  <mnm>van den</mnm>
+                  <fnm>EJ</fnm>
+               </au>
+               <au>
+                  <snm>van Geuns</snm>
+                  <fnm>RJ</fnm>
+               </au>
+               <au>
+                  <snm>de Feyter</snm>
+                  <fnm>PJ</fnm>
+               </au>
+               <au>
+                  <snm>Duncker</snm>
+                  <fnm>DJ</fnm>
+               </au>
+               <au>
+                  <snm>Giessen</snm>
+                  <mnm>van der</mnm>
+                  <fnm>WJ</fnm>
+               </au>
+            </aug>
+            <source>Eur Heart J</source>
+            <pubdate>2006</pubdate>
+            <volume>27</volume>
+            <fpage>3057</fpage>
+            <lpage>3064</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1093/eurheartj/ehl401</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17135284</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B21">
+            <title>
+               <p>Stem cells for myocardial regeneration</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Orlic</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Hill</snm>
+                  <fnm>JM</fnm>
+               </au>
+               <au>
+                  <snm>Arai</snm>
+                  <fnm>AE</fnm>
+               </au>
+            </aug>
+            <source>Circ Res</source>
+            <pubdate>2002</pubdate>
+            <volume>91</volume>
+            <fpage>1092</fpage>
+            <lpage>1102</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1161/01.RES.0000046045.00846.B0</pubid>
+                  <pubid idtype="pmpid" link="fulltext">12480809</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B22">
+            <title>
+               <p>Effect of stromal-cell-derived factor 1 on stem-cell homing and tissue regeneration in ischaemic cardiomyopathy</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Askari</snm>
+                  <fnm>AT</fnm>
+               </au>
+               <au>
+                  <snm>Unzek</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Popovic</snm>
+                  <fnm>ZB</fnm>
+               </au>
+               <au>
+                  <snm>Goldman</snm>
+                  <fnm>CK</fnm>
+               </au>
+               <au>
+                  <snm>Forudi</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Kiedrowski</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Rovner</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Ellis</snm>
+                  <fnm>SG</fnm>
+               </au>
+               <au>
+                  <snm>Thomas</snm>
+                  <fnm>JD</fnm>
+               </au>
+               <au>
+                  <snm>DiCorleto</snm>
+                  <fnm>PE</fnm>
+               </au>
+               <au>
+                  <snm>Topol</snm>
+                  <fnm>EJ</fnm>
+               </au>
+               <au>
+                  <snm>Penn</snm>
+                  <fnm>MS</fnm>
+               </au>
+            </aug>
+            <source>Lancet</source>
+            <pubdate>2003</pubdate>
+            <volume>362</volume>
+            <fpage>697</fpage>
+            <lpage>703</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/S0140-6736(03)14232-8</pubid>
+                  <pubid idtype="pmpid" link="fulltext">12957092</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B23">
+            <title>
+               <p>Upregulation of ICAM-1 on cardiomyocytes in jeopardized human myocardium during infarction</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Niessen</snm>
+                  <fnm>HW</fnm>
+               </au>
+               <au>
+                  <snm>Lagrand</snm>
+                  <fnm>WK</fnm>
+               </au>
+               <au>
+                  <snm>Visser</snm>
+                  <fnm>CA</fnm>
+               </au>
+               <au>
+                  <snm>Meijer</snm>
+                  <fnm>CJ</fnm>
+               </au>
+               <au>
+                  <snm>Hack</snm>
+                  <fnm>CE</fnm>
+               </au>
+            </aug>
+            <source>Cardiovasc Res</source>
+            <pubdate>1999</pubdate>
+            <volume>41</volume>
+            <fpage>603</fpage>
+            <lpage>610</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/S0008-6363(98)00236-3</pubid>
+                  <pubid idtype="pmpid" link="fulltext">10435032</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B24">
+            <title>
+               <p>Role of balloon occlusion for mononuclear bone marrow cell deposition after intracoronary injection in pigs with reperfused myocardial infarction</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Tossios</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Krausgrill</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Schmidt</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Fischer</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Halbach</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Fries</snm>
+                  <fnm>JW</fnm>
+               </au>
+               <au>
+                  <snm>Fahnenstich</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Frommolt</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Heppelmann</snm>
+                  <fnm>I</fnm>
+               </au>
+               <au>
+                  <snm>Schmidt</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Schom&#228;cker</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Fischer</snm>
+                  <fnm>JH</fnm>
+               </au>
+               <au>
+                  <snm>Bloch</snm>
+                  <fnm>W</fnm>
+               </au>
+               <au>
+                  <snm>Mehlhorn</snm>
+                  <fnm>U</fnm>
+               </au>
+               <au>
+                  <snm>Schwinger</snm>
+                  <fnm>RH</fnm>
+               </au>
+               <au>
+                  <snm>M&#252;ller-Ehmsen</snm>
+                  <fnm>J</fnm>
+               </au>
+            </aug>
+            <source>Eur Heart J</source>
+            <pubdate>2008</pubdate>
+            <volume>29</volume>
+            <fpage>1911</fpage>
+            <lpage>1921</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1093/eurheartj/ehn218</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18544545</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B25">
+            <title>
+               <p>Preconditioning the myocardium: from cellular physiology to clinical cardiology</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Yellon</snm>
+                  <fnm>DM</fnm>
+               </au>
+               <au>
+                  <snm>Downey</snm>
+                  <fnm>JM</fnm>
+               </au>
+            </aug>
+            <source>Physiol Rev</source>
+            <pubdate>2003</pubdate>
+            <volume>83</volume>
+            <fpage>1113</fpage>
+            <lpage>1151</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid" link="fulltext">14506302</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B26">
+            <title>
+               <p>Dynamic tracking during intracoronary injection of 18F-FDG-labeled progenitor cell therapy for acute myocardial infarction</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Doyle</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Kemp</snm>
+                  <fnm>BJ</fnm>
+               </au>
+               <au>
+                  <snm>Chareonthaitawee</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Reed</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Schmeckpeper</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Sorajja</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Russell</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Araoz</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Riederer</snm>
+                  <fnm>SJ</fnm>
+               </au>
+               <au>
+                  <snm>Caplice</snm>
+                  <fnm>NM</fnm>
+               </au>
+            </aug>
+            <source>J Nucl Med</source>
+            <pubdate>2007</pubdate>
+            <volume>48</volume>
+            <fpage>1708</fpage>
+            <lpage>1714</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.2967/jnumed.107.042838</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17909258</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B27">
+            <title>
+               <p>Transcoronary transplantation of progenitor cells after myocardial infarction</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Assmus</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Honold</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Schachinger</snm>
+                  <fnm>V</fnm>
+               </au>
+               <au>
+                  <snm>Britten</snm>
+                  <fnm>MB</fnm>
+               </au>
+               <au>
+                  <snm>Fischer-Rasokat</snm>
+                  <fnm>U</fnm>
+               </au>
+               <au>
+                  <snm>Lehmann</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Teupe</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Pistorius</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Martin</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Abolmaali</snm>
+                  <fnm>ND</fnm>
+               </au>
+               <au>
+                  <snm>Tonn</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Dimmeler</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Zeiher</snm>
+                  <fnm>AM</fnm>
+               </au>
+            </aug>
+            <source>N Engl J Med</source>
+            <pubdate>2006</pubdate>
+            <volume>355</volume>
+            <fpage>1222</fpage>
+            <lpage>1232</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1056/NEJMoa051779</pubid>
+                  <pubid idtype="pmpid" link="fulltext">16990385</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B28">
+            <title>
+               <p>Regeneration of human infarcted heart muscle by intracoronary autologous bone marrow cell transplantation in chronic coronary artery disease: the IACT Study</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Strauer</snm>
+                  <fnm>BE</fnm>
+               </au>
+               <au>
+                  <snm>Brehm</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Zeus</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Bartsch</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Schannwell</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Antke</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Sorg</snm>
+                  <fnm>RV</fnm>
+               </au>
+               <au>
+                  <snm>Kogler</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Wernet</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Muller</snm>
+                  <fnm>HW</fnm>
+               </au>
+               <au>
+                  <snm>Kostering</snm>
+                  <fnm>M</fnm>
+               </au>
+            </aug>
+            <source>J Am Coll Cardiol</source>
+            <pubdate>2005</pubdate>
+            <volume>46</volume>
+            <fpage>1651</fpage>
+            <lpage>1658</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.jacc.2005.01.069</pubid>
+                  <pubid idtype="pmpid" link="fulltext">16256864</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B29">
+            <title>
+               <p>Evidence that intracoronary-injected CD133(+) peripheral blood progenitor cells home to the myocardium in chronic postinfarction heart failure</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Schots</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>De Keulenaer</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Schoors</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Caveliers</snm>
+                  <fnm>V</fnm>
+               </au>
+               <au>
+                  <snm>Dujardin</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Verheye</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Van Camp</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Franken</snm>
+                  <fnm>PR</fnm>
+               </au>
+               <au>
+                  <snm>Roland</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Van Riet</snm>
+                  <fnm>I</fnm>
+               </au>
+               <au>
+                  <snm>Everaert</snm>
+                  <fnm>H</fnm>
+               </au>
+            </aug>
+            <source>Exp Hematol</source>
+            <pubdate>2007</pubdate>
+            <volume>35</volume>
+            <fpage>1884</fpage>
+            <lpage>1890</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.exphem.2007.07.012</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17923244</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+      </refgrp>
+   </bm>
+</art>

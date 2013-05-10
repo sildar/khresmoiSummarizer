@@ -3,10 +3,8 @@ package ie.dcu.cngl.summarizer.feature;
 import ie.dcu.cngl.tokenizer.PageStructure;
 import ie.dcu.cngl.tokenizer.Sentence;
 import ie.dcu.cngl.tokenizer.TokenInfo;
-import ie.dcu.cngl.tokenizer.TokenizerUtils;
 
 import java.io.IOException;
-import java.io.StringReader;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
@@ -160,8 +158,8 @@ public abstract class Feature {
 	 */
 	protected double numberOfTerms(ArrayList<TokenInfo> query) {
 		double numTerms = 0;
-		StringReader reader = new StringReader(TokenizerUtils.recombineTokens1d(query));
-		TokenStream tokenStream = analyzer.tokenStream(null, reader);
+		Sentence queryAsSentence = new Sentence(query);
+		TokenStream tokenStream = analyzer.tokenStream(null, queryAsSentence);
 
 		try {
 			while (tokenStream.incrementToken()) {

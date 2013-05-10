@@ -1,0 +1,1601 @@
+<!DOCTYPE art SYSTEM "article.dtd">
+<art>
+   <ui>scrt147</ui>
+   <ji>1757-6512</ji>
+   <fm>
+      <dochead>Research</dochead>
+      <bibl>
+         <title>
+            <p>Spatiotemporal evolution of early innate immune responses triggered by neural stem cell grafting</p>
+         </title>
+         <aug>
+            <au id="A1">
+               <snm>Reekmans</snm>
+               <fnm>Kristien</fnm>
+               <insr iid="I1"/>
+               <insr iid="I2"/>
+               <email>Kristien.Reekmans@ua.ac.be</email>
+            </au>
+            <au id="A2">
+               <snm>De Vocht</snm>
+               <fnm>Nathalie</fnm>
+               <insr iid="I1"/>
+               <insr iid="I2"/>
+               <insr iid="I3"/>
+               <email>Nathalie.Devocht@ua.ac.be</email>
+            </au>
+            <au id="A3">
+               <snm>Praet</snm>
+               <fnm>Jelle</fnm>
+               <insr iid="I1"/>
+               <insr iid="I2"/>
+               <insr iid="I3"/>
+               <email>Jelle.Praet@ua.ac.be</email>
+            </au>
+            <au id="A4">
+               <snm>Fransen</snm>
+               <fnm>Erik</fnm>
+               <insr iid="I4"/>
+               <email>Erik.Fransen@ua.ac.be</email>
+            </au>
+            <au id="A5">
+               <snm>Le Blon</snm>
+               <fnm>Debbie</fnm>
+               <insr iid="I1"/>
+               <insr iid="I2"/>
+               <email>Debbie.Leblon@ua.ac.be</email>
+            </au>
+            <au id="A6">
+               <snm>Hoornaert</snm>
+               <fnm>Chlo&#233;</fnm>
+               <insr iid="I1"/>
+               <insr iid="I2"/>
+               <email>Chloe.Hoornaert@ua.ac.be</email>
+            </au>
+            <au id="A7">
+               <snm>Daans</snm>
+               <fnm>Jasmijn</fnm>
+               <insr iid="I1"/>
+               <insr iid="I2"/>
+               <email>Jasmijn.Daans@ua.ac.be</email>
+            </au>
+            <au id="A8">
+               <snm>Goossens</snm>
+               <fnm>Herman</fnm>
+               <insr iid="I2"/>
+               <email>Herman.goossens@uza.be</email>
+            </au>
+            <au id="A9">
+               <snm>Van der Linden</snm>
+               <fnm>Annemie</fnm>
+               <insr iid="I3"/>
+               <email>Annemie.Vanderlinden@ua.ac.be</email>
+            </au>
+            <au id="A10">
+               <snm>Berneman</snm>
+               <fnm>Zwi</fnm>
+               <insr iid="I1"/>
+               <insr iid="I2"/>
+               <email>Zwi.Berneman@uza.be</email>
+            </au>
+            <au id="A11" ca="yes">
+               <snm>Ponsaerts</snm>
+               <fnm>Peter</fnm>
+               <insr iid="I1"/>
+               <insr iid="I2"/>
+               <email>Peter.Ponsaerts@ua.ac.be</email>
+            </au>
+         </aug>
+         <insg>
+            <ins id="I1">
+               <p>Laboratory of Experimental Hematology, Faculty of Medicine and Health Sciences, University of Antwerp, Universiteitsplein 1, Antwerp-Wilrijk, 2610, Belgium</p>
+            </ins>
+            <ins id="I2">
+               <p>Vaccine and Infectious Disease Institute (Vaxinfectio), Faculty of Medicine and Health Sciences, University of Antwerp, Universiteitsplein 1, Antwerp-Wilrijk, 2610, Belgium</p>
+            </ins>
+            <ins id="I3">
+               <p>BioImaging Laboratory, Faculty of Pharmaceutical, Biomedical and Veterinary Sciences, Department of Biomedical Sciences, Universiteitsplein 1, Antwerp-Wilrijk, 2610, Belgium</p>
+            </ins>
+            <ins id="I4">
+               <p>StatUa Centre for Statistics, City Campus, University of Antwerp, Prinsstraat 13, Antwerp, 2000, Belgium</p>
+            </ins>
+         </insg>
+         <source>Stem Cell Research &amp; Therapy</source>
+         <issn>1757-6512</issn>
+         <pubdate>2012</pubdate>
+         <volume>3</volume>
+         <issue>6</issue>
+         <fpage>56</fpage>
+         <url>http://stemcellres.com/content/3/6/56</url>
+         <xrefbib>
+            <pubidlist>
+               <pubid idtype="doi">10.1186/scrt147</pubid>
+               <pubid idtype="pmpid">23241452</pubid>
+            </pubidlist>
+         </xrefbib>
+      </bibl>
+      <history>
+         <rec>
+            <date>
+               <day>17</day>
+               <month>9</month>
+               <year>2012</year>
+            </date>
+         </rec>
+         <revrec>
+            <date>
+               <day>29</day>
+               <month>11</month>
+               <year>2012</year>
+            </date>
+         </revrec>
+         <acc>
+            <date>
+               <day>12</day>
+               <month>12</month>
+               <year>2012</year>
+            </date>
+         </acc>
+         <pub>
+            <date>
+               <day>14</day>
+               <month>12</month>
+               <year>2012</year>
+            </date>
+         </pub>
+      </history>
+      <cpyrt>
+         <year>2012</year>
+         <collab>Reekmans et al.; licensee BioMed Central Ltd.</collab>
+         <note>This is an open access article distributed under the terms of the Creative Commons Attribution License (<url>http://creativecommons.org/licenses/by/2.0</url>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</note>
+      </cpyrt>
+      <abs>
+         <sec>
+            <st>
+               <p>Abstract</p>
+            </st>
+            <sec>
+               <st>
+                  <p>Introduction</p>
+               </st>
+               <p>Transplantation of neural stem cells (NSCs) is increasingly suggested to become part of future therapeutic approaches to improve functional outcome of various central nervous system disorders. However, recently it has become clear that only a small fraction of grafted NSCs display long-term survival in the (injured) adult mouse brain. Given the clinical invasiveness of NSC grafting into brain tissue, profound characterisation and understanding of early post-transplantation events is imperative to claim safety and efficacy of cell-based interventions.</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>Methods</p>
+               </st>
+               <p>Here, we applied <it>in vivo </it>bioluminescence imaging (BLI) and post-mortem quantitative histological analysis to determine the localisation and survival of grafted NSCs at early time points post-transplantation.</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>Results</p>
+               </st>
+               <p>An initial dramatic cell loss (up to 80% of grafted cells) due to apoptosis could be observed within the first 24 hours post-implantation, coinciding with a highly hypoxic NSC graft environment. Subsequently, strong spatiotemporal microglial and astroglial cell responses were initiated, which stabilised by day 5 post-implantation and remained present during the whole observation period. Moreover, the increase in astrocyte density was associated with a high degree of astroglial scarring within and surrounding the graft site. During the two-week follow up in this study, the NSC graft site underwent extensive remodelling with NSC graft survival further declining to around 1% of the initial number of grafted cells.</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>Conclusions</p>
+               </st>
+               <p>The present study quantitatively describes the early post-transplantation events following NSC grafting in the adult mouse brain and warrants that such intervention is directly associated with a high degree of cell loss, subsequently followed by strong glial cell responses.</p>
+            </sec>
+         </sec>
+      </abs>
+   </fm>
+   <bdy>
+      <sec>
+         <st>
+            <p>Introduction</p>
+         </st>
+         <p>Neural stem cells (NSCs) are defined as a population of self-renewing multipotent progenitor cells present in the developing and adult central nervous system (CNS) <abbrgrp><abbr bid="B1">1</abbr></abbrgrp>. Despite their specific spatiotemporal occurrence <it>in vivo, ex vivo </it>culture expansion of NSCs derived from various sources (for example, embryonic or postnatal brain and embryonic stem cells) was shown to be relatively straightforward. Moreover, given the observation that <it>ex vivo </it>cultured neurosphere-derived NSCs and monolayer-cultured NSC populations can be triggered to differentiate into neurons, astrocytes and oligodendrocytes, it is hoped that NSCs, or more committed (progenitor) cells derived thereof, will become part of novel treatment options for a variety of CNS disorders. To date, several studies have reported the clinical benefit of NSCs following intraperitoneal, intravenous, intraventricular, intrathecal and intra-tissue grafting in various models of neuroinflammation, neurodegeneration or injury <abbrgrp><abbr bid="B1">1</abbr><abbr bid="B2">2</abbr><abbr bid="B3">3</abbr><abbr bid="B4">4</abbr></abbrgrp>. However, despite many suggestive literature reports, it still remains elusive whether the actual clinical benefit of grafted NSCs is due to cell integration, trophic support, immunomodulation or other yet to be defined mechanisms <abbrgrp><abbr bid="B5">5</abbr><abbr bid="B6">6</abbr><abbr bid="B7">7</abbr></abbrgrp>. In this context, preceding work by others <abbrgrp><abbr bid="B8">8</abbr></abbrgrp> and us <abbrgrp><abbr bid="B9">9</abbr></abbrgrp> determined the actual survival of grafted NSCs after at least two weeks to be less then 2% upon direct grafting into healthy or inflamed brain tissue. In addition, our preceding histological analyses indicated the presence of both microglia and astrocytes within and surrounding the NSC graft site at two weeks post-implantation <abbrgrp><abbr bid="B9">9</abbr></abbrgrp>. Following these observations, our next research aim was to determine whether the observed glial cell responses: (i) were directly executed against the grafted NSC (or their reporter proteins), or (ii) resulted as a consequence of immediate cell graft mortality. In order to investigate both hypotheses, the present study determined the following parameters at multiple early time points (that is, day 0, 1, 3, 5, 7 and 14) post-implantation: (i) the actual survival of grafted NSC, (ii) the occurrence of cellular hypoxia, and (iii) the occurrence and/or maintenance of cell graft-induced glial cell responses.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Materials and methods</p>
+         </st>
+         <sec>
+            <st>
+               <p>Cell implantation experiments</p>
+            </st>
+            <p>NSC genetically engineered with the Luciferase and eGFP reporter proteins (NSC-Luc/eGFP, FVB-background) were cultured and characterised as previously described <abbrgrp><abbr bid="B10">10</abbr></abbrgrp>. For cell implantation experiments, adult female Friend leukemia virus B (FVB)/NCrl mice (n = 33) were obtained from Charles River Laboratories (Wilmington, MA, USA - strain code 207). Cell implantation of NSC-Luc/eGFP (2.5 &#215; 10<sup>5 </sup>cells in 2 &#956;l PBS) was reproducibly targeted to the right hemisphere at the following coordinates relative to bregma: 2 mm posterior, 2 mm lateral, and 2.25 mm ventral. All surgical interventions were performed under sterile conditions, as previously described <abbrgrp><abbr bid="B9">9</abbr><abbr bid="B10">10</abbr><abbr bid="B11">11</abbr></abbrgrp>. For all experiments, mice were kept in a normal day-night cycle (12/12) with free access to food and water. All experimental procedures were approved by the Ethics Committee for Animal Experiments of the University of Antwerp (UA) (approval no. 2011/13).</p>
+         </sec>
+         <sec>
+            <st>
+               <p><it>In vivo </it>bioluminescence imaging</p>
+            </st>
+            <p><it>In vivo </it>bioluminescence imaging (BLI) was performed at different time points post-implantation (day 1, 3, 5, 7, 10 and 14) using a real-time photon-imager system (Biospace, Centennial, CO, USA), according to previously optimised procedures <abbrgrp><abbr bid="B10">10</abbr><abbr bid="B11">11</abbr><abbr bid="B12">12</abbr></abbrgrp>. Using the M3 Vision software (Biospace, Centennial, CO, USA), light emission was measured from a fixed region of interest on the mouse head, and values of signal intensity are presented as the average number of photons/s/sr/cm<sup>2 </sup>over a 3-minute time period. An additional region of interest was drawn on the mouse shoulder and considered as background signal.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Histological analysis - immunofluorescence staining</p>
+            </st>
+            <p>Before sacrifice (1.5 hours), mice used in this study were injected intraperitoneally with Hypoxyprobe-1 (HPI Inc, Burlington, MA, USA), according to the manufacturer's instructions. Preparation of brain tissue for histological examination was performed according to previously optimised procedures <abbrgrp><abbr bid="B9">9</abbr></abbrgrp>. Serial 10-&#956;m thick cryosections were obtained from the entire implant region using a Microm HM5000 cryostat (Prosan, Merelbeke, Belgium), consecutively marked and missing slides were noted. For further immunofluorescence analysis of tissue sections, antibody staining was performed as previously described <abbrgrp><abbr bid="B9">9</abbr><abbr bid="B10">10</abbr><abbr bid="B12">12</abbr></abbrgrp>, using the following antibodies: (i) a rabbit anti-mouse ionized calcium binding adaptor molecule 1 (Iba1) antibody (1/200) (Wako chemicals, Osaka, Japan; 019-19714) and (ii) a rabbit anti-pimonidazole (Hypoxyprobe-1) antibody (1/200) (HPI Inc., Burlington, MA, USA; Pab2627), all in combination with a secondary donkey anti-rabbit AlexaFluor 555 antibody (1/500) (Life Technologies, Carlsbad, CA, USA; A31572), (iv) a rabbit anti-mouse S100B antibody (1/200) (Abcam, Cambridge, UK; 52642) in combination with a secondary donkey anti-rabbit AlexaFluor 555 antibody (1/1000) (Life Technologies, Carlsbad, CA, USA; A31572), (v) a mouse anti-mouse GFAP antibody (1/400) (Millipore, Billerica, MA, USA; MAB360) in combination with a secondary goat anti-mouse AlexaFluor 555 (1/1000) (Life Technologies, Carlsbad, CA, USA; A21127), and (vi) a chicken anti-mouse MBP antibody (1/200) (Millipore, Billerica, MA, USA; AB9348) in combination with a secondary donkey anti-chicken DyLight 549 (Jackson Immunoresearch, Suffolk, UK; 703-506-155). The presence of terminal deoxynucleotidyl transferase dUTP nick end labelling (TUNEL)+ apoptotic cells was investigated using the <it>In Situ </it>Cell Death Detection Kit TMR Red (Roche, Penzberg, Germany; 12156792910), according to manufacturer's instructions. Nuclear staining was performed using a TOPRO3 deep red stain (1/200) (Life Technologies, Carlsbad, CA, USA).</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Histological analysis - quantitative analysis</p>
+            </st>
+            <p>Quantitative analysis of cell graft survival, glial cell responses and cellular hypoxia were performed using NIH ImageJ analysis software (ImageJ) and TissueQuest immunofluorescence analysis software (TissueGnostics GmbH, Vienna, Austria), allowing determination of the following parameters: (i) total graft site volume in mm<sup>3</sup>, (ii) density of eGFP<sup>pos </sup>NSC-luc/eGFP within the graft site provided in number of cells/mm<sup>3 </sup>(six data counts per cell graft analysed), (iii) cell graft survival provided in absolute numbers and as % calculated to the initial number of grafted cells, (iv) density of Iba1<sup>pos </sup>microglia within the graft site provided in number of cells/mm<sup>3 </sup>(three data counts per cell graft analysed), (v) density of Iba1<sup>pos </sup>microglia within the implant border (that is, region extending 100 &#956;m from the implant site) provided in number of cells/mm<sup>3 </sup>(three data counts per cell graft analysed), (vi) density of S100B<sup>pos </sup>astrocytes within the graft site in number of cells/mm<sup>3 </sup>(three data counts per cell graft analysed), (vii) density of S100B<sup>pos </sup>astrocytes within the implant border provided in number of cells/mm<sup>3 </sup>(three data counts per cell graft analysed), (viii) the degree of glial fibrillary acidic protein (GFAP)<sup>pos </sup>astrogliosis within the graft site provided as % astrogliosis (that is, image-covering of GFAP staining) (one data count per cell graft analysed), (ix) the degree of GFAP<sup>pos </sup>astrogliosis within the implant border provided as % astrogliosis (one data count per cell graft analysed), (x) the percentage of Hypoxyprobe-1<sup>pos </sup>eGFP<sup>pos </sup>NSC versus total eGFP<sup>pos </sup>NSC within the implant zone (one data count per cell graft analysed).</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Statistical analysis</p>
+            </st>
+            <p>All statistical analyses were performed using the statistical package R, version 2.13.1, with linear mixed models fitted using the lme function in the nlme package. Differences in graft site volume between day 0 and day 14 post-grafting were tested using the Mann-Withney <it>U</it>-test. The evolution over time of NSC graft survival was modelled using piecewise linear regression, taking the knot at day 1 post-implantation. Using this model, separate regression slopes up to day 1 and beyond day 1 (that is, from on day 3) were estimated and tested for significance. The evolution over time of the obtained <it>in vivo </it>bioluminescence signal intensities, microglia densities, astrocyte densities and the degree of astrogliosis was modelled using piecewise linear mixed model analysis. A random intercept for individual was added to the model to account for the dependence between observations from the same individual. Values for bioluminescence signal intensity, microglia densities and astrocyte densities were log-transformed to obtain a more normally distributed outcome variable. The position of the knot was determined based upon visual inspection of the data. Separate regression slopes before and after the knot were estimated and tested for significance. For all analyses, a <it>P</it>-value &lt; 0.05 was considered statistically significant.</p>
+         </sec>
+      </sec>
+      <sec>
+         <st>
+            <p>Results</p>
+         </st>
+         <sec>
+            <st>
+               <p>Longitudinal <it>in vivo </it>bioluminescence imaging of neural stem cell grafts</p>
+            </st>
+            <p>For cell grafting experiments, we used a previously engineered NSC line expressing both the Luciferase and eGFP reporter proteins (Figure <figr fid="F1">1A</figr>), further named as NSC-Luc/eGFP <abbrgrp><abbr bid="B10">10</abbr></abbrgrp>. Following grafting of 1.5 &#215; 10<sup>5 </sup>NSC-Luc/eGFP in the CNS of immune-competent FVB mice (n = 33), longitudinal <it>in vivo </it>BLI was performed at day 1 (n = 25), day 3 (n = 15), day 5 (n = 15), day 7 (n = 10), day 10 (n = 5) and day 14 (n = 5) post-implantation. For quantitative analysis of the observed BLI signals, the mean cell graft-specific BLI signals from fixed regions on top of the mouse head (Figure <figr fid="F1">1B</figr>) and the mean background BLI signals from fixed control regions on the mouse shoulder (Figure <figr fid="F1">1B</figr>) were plotted versus time post-implantation (Figure <figr fid="F1">1C</figr>). Regression analysis of the data indicates a significant decrease in BLI signal beyond day 3 post-implantation (<it>P </it>&lt; 0.0001), indicative of a progressive decrease of cell viability within NSC-Luc/eGFP grafts.</p>
+            <fig id="F1">
+               <title>
+                  <p>Figure 1</p>
+               </title>
+               <caption>
+                  <p>Longitudinal <it>in vivo </it>bioluminescence imaging of neural stem cell-Luciferase/enhanced green fluorescent protein (NSC-Luc/eGFP) grafts</p>
+               </caption>
+               <text>
+                  <p><b>Longitudinal <it>in vivo </it>bioluminescence imaging of neural stem cell-Luciferase/enhanced green fluorescent protein (NSC-Luc/eGFP) grafts</b>. (A) <it>In vitro </it>characterisation of NSC-Luc/eGFP. Left, representative fluorescence microscopy image of Luciferase/eGFP-expressing NSC (NSC-Luc/eGFP) used in this study. Green colour, direct eGFP fluorescence. Middle histogram overlay, representative flowcytometric analysis of parental NSC and NSC-Luc/eGFP. Open black histogram, control background fluorescence in FL-1 green channel from parental NSC. Filled green histogram, direct eGFP fluorescence in FL-1 green channel from NSC-Luc/eGFP. Right, <it>in vitro </it>bioluminescence analysis of 1 &#215; 10<sup>5 </sup>parental NSC and NSC-Luc/eGFP. Data are expressed as photons/s/sr/cm<sup>2 </sup>from a 5-minute time period (&#177; standard error of the mean (SEM), n = 4). (B) <it>In vivo </it>bioluminescence imaging (BLI) - image aquisition. Representative time course image showing <it>in vivo </it>BLI of mice grafted with 1.5 &#215; 10<sup>5 </sup>NSC-Luc/eGFP in the central nervous system (CNS). Images were acquired at day 1 (n = 25), day 3 (n = 15), day 5 (n = 15), day 7 (n = 10), day 10 (n = 5) and day 14 (n = 5) post-implantation. Regions of interest are drawn on the mouse head, where NSC-Luc/eGFP were injected, and on the mouse shoulder, considered as background signal. A representative time course image was chosen out of five mice imaged for the whole time course. (C) <it>In vivo </it>BLI- image analysis. Quantitative analysis of <it>in vivo </it>BLI analysis at day 1, 3, 5, 7, 10 and 14 post-implantation. BLI signals (in photons/s/sr/cm<sup>2</sup>) are provided as the mean (&#177; SEM) for all mice analysed, both from the specific region of interest on the mouse head (red bars) and from the control region of interest on the mouse shoulder (blue bars). Significant differences are described in the results section.</p>
+               </text>
+               <graphic file="scrt147-1"/>
+            </fig>
+         </sec>
+         <sec>
+            <st>
+               <p>Quantitative analysis of neural stem cell graft survival</p>
+            </st>
+            <p>Histological analyses of brain tissue from cell-grafted mice were performed at day 0 (4 hours post-implantation, n = 5), day 1 (n = 5), day 3 (n = 4), day 5 (n = 4), day 7 (n = 4) and day 14 (n = 4) post-implantation. For this, cryosections were prepared from the whole graft site area and screened for the presence of eGFP-expressing NSC-Luc/eGFP implants. Representative histological images of NSC-Luc/eGFP implants, provided in Figure <figr fid="F2">2</figr> (first row), already indicate extensive cell death at day 1 post-implantation. The latter is clearly visualised by the loss of eGFP expression within NSC-Luc/eGFP grafts at day 1 as compared to the uniform eGFP expression within NSC-Luc/eGFP grafts at day 0. From day 7 post-implantation, the necrotic core of NSC-Luc/eGFP implants has disappeared, while remaining NSC-Luc/eGFP have dispersed along the white matter tracts of the capsula externa and corpus callosum. Larger images of those presented in Figure <figr fid="F2">2</figr> are provided in Figure S1 in Additional file <supplr sid="S1">1</supplr>. Further quantitative analysis estimated the actual number of grafted NSC-Luc/eGFP at day 0 post-implantation and the number of surviving NSC-Luc/eGFP at day 1, day 3, day 5, day 7 and day 14 post-implantation (Figure <figr fid="F3">3a</figr>). Presented data indicate a dramatic initial cell loss (up to 80%) within the first 24 hours post-implantation (<it>P </it>&lt; 0.0001), which slowly continues between day 1 and 14 post-implantation (<it>P </it>= 0.004). Based on the number of grafted cells at day 0, graft survival was estimated to be 22%, 6%, 5%, 4% and 1% respectively, at day 1, day 3, day 5, day 7 and day 14 post-implantation (Figure <figr fid="F3">3a</figr> inset).</p>
+            <fig id="F2">
+               <title>
+                  <p>Figure 2</p>
+               </title>
+               <caption>
+                  <p>Histological analysis of neural stem cell (NSC) graft survival and endogenous glial cell responses</p>
+               </caption>
+               <text>
+                  <p><b>Histological analysis of neural stem cell (NSC) graft survival and endogenous glial cell responses</b>. First row, NSC-Luciferase/enhanced fluorescent green protein (Luc/eGFP) graft survival. Direct eGFP fluorescence (green) combined with TOPRO3 staining (false colour representation in blue) at day 0, 1, 3, 5, 7 and 14 post-implantation. Representative images were chosen from multiple stained slides (n = 6 to 9 for eGFP/TOPRO3 combination) per mouse analysed at each time point. The provided scale bars indicate 200 &#956;m. Second row, cellular hypoxia. Direct eGFP fluorescence (green) combined with Hypoxyprobe-1staining (red) at day 0, 1, 3, 5, 7 and 14 post-implantation. Representative images were chosen from two to five mice analysed at each time point. The provided scale bars indicate 50 &#956;m. Third, fourth and fifth row, endogenous glial cell behaviour. Direct eGFP fluorescence (green) combined with TOPRO3 staining (false colour representation in blue) and combined with immunofluorescence staining for ionized calcium binding adaptor molecule 1 (Iba1) (red, fourth row), S100 calcium binding protein B (S100B) (red, fifth row) or glial fibrillary acidic protein (GFAP) (red, sixth row) at day 0, 1, 3, 5, 7 and 14 post-implantation. Representative images were chosen from multiple stained slides (n = 3 for eGFP/TOPRO3/Iba1 combination, n = 3 for eGFP/TOPRO3/S100B combination and n = 1 for eGFP/TOPRO3/GFAP) per mouse analysed at each time point (n = 4/5). The provided scale bars indicate 50 &#956;m for Iba1 and S100B images and 200 &#956;m for GFAP images. Sixth row, graft site remodelling. Direct eGFP fluorescence (green) combined with myelin base protein (MBP) staining (red) at day 0, 1, 3, 5, 7 and 14 post-implantation. Representative images were chosen from multiple mice analysed at each time point (n = 2). The provided scale bars indicate 200 &#956;m.</p>
+               </text>
+               <graphic file="scrt147-2"/>
+            </fig>
+            <suppl id="S1">
+               <title>
+                  <p>Additional file 1</p>
+               </title>
+               <text>
+                  <p><b>Histological analysis of neural stem cell (NSC) graft survival, endogenous glial cell responses and <it>in vivo </it>NSC graft apoptosis</b>. This file contains larger images of those presented in Figure <figr fid="F2">2</figr> (Figure S1) and Figure <figr fid="F4">4</figr> (Figure S2).</p>
+               </text>
+               <file name="scrt147-S1.PDF">
+                  <p>Click here for file</p>
+               </file>
+            </suppl>
+            <fig id="F3">
+               <title>
+                  <p>Figure 3</p>
+               </title>
+               <caption>
+                  <p><it>In vivo </it>cell graft and glial cell behaviour - quantitative analysis</p>
+               </caption>
+               <text>
+                  <p><b><it>In vivo </it>cell graft and glial cell behaviour - quantitative analysis</b>. (a) Survival of grafted neural stem cell-Luciferase/enhanced fluorescent green protein (NSC-Luc/eGFP). Presented data are the estimated total number of eGFP-expressing NSC-Luc/eGFP detected within the implant site for each mouse analysed (n = 5 for day 0, n = 5 for day 1, n = 4 for day 3, n = 4 for day 5, n = 4 for day 7 and n = 4 for day 14). The red line indicates the average total number of eGFP-expressing NSC-Luc/eGFP at each time point analysed. The inset graph represents the mean % (&#177; standard error of the mean (SEM)) of NSC-Luc/eGFP graft survival at each time point analysed from day 1 post-implantation. Significant differences are described in the results section. (b-e) Cellular density of ionized calcium binding adaptor molecule 1 (Iba1)<sup>pos </sup>microglia and S100 calcium binding protein B (S100B)<sup>pos </sup>astrocytes within the implant site and within the implant border. Presented data are the ln(x)-transformed values of estimated total density of microglia and astrocytes within the implant border for each mouse analysed (n = 4 for day 0, n = 5 for day 1, n = 4 for day 3, n = 5 for day 5, n = 4 for day 7 and n = 4 for day 14). The red line indicates the average total cellular density at each time point analysed. Significant differences are described in the results section. (f) Astrogliosis within the implant site and implant border (both areas are combined here). Presented data indicate the average degree of glial fibrillary acidic protein (GFAP)<sup>pos </sup>astrogliosis (based on image coverage after GFAP staining) for each mouse analyses (n = 4 for day 0, n = 5 for day 1, n = 4 for day 3, n = 5 for day 5, n = 4 for day 7 and n = 4 for day 14). The red line indicates the average degree of astrogliosis at each time point analysed. Significant differences are described in the results section.</p>
+               </text>
+               <graphic file="scrt147-3"/>
+            </fig>
+         </sec>
+         <sec>
+            <st>
+               <p>Excessive apoptotic cell loss coincides with cellular hypoxia within NSC grafts</p>
+            </st>
+            <p>As shown by the representative images in Figure <figr fid="F2">2</figr> (second row), it is clear at day 0 and day 1 post-grafting that the majority of grafted NSC-Luc/eGFP are under hypoxic condition as demonstrated by immunostaining of tissue sections for Hypoxyprobe-1 (an <it>in vivo </it>probe for labelling of hypoxic cells). Further quantitative image analysis indeed confirmed a high percentage of hypoxic cells among (still) viable eGFP expressing NSC-Luc/eGFP at day 0 (mean 74.3% &#177; standard deviation (SD) 8.3%) and day 1 (54.9% &#177; 5.5%) post-grafting, which was not detected at later time points post-grafting in the few surviving NSC-Luc/eGFP. Moreover, as shown in Figure <figr fid="F4">4</figr>, already at 4 hours post-grafting (day 0) TUNEL reactivity can be observed within the population of grafted NSC-Luc/eGFP. In contrast, at day 1 post-grafting, TUNEL reactivity is highly apparent within the eGFP-negative necrotic core of the NSC-Luc/eGFP graft, but not in the few surviving NSC-Luc/eGFP at the border of the graft. Larger images of those presented in Figure <figr fid="F4">4</figr> are provided in Figure S2 in Additional file <supplr sid="S1">1</supplr>. Based on these data, we suggest that excessive cell loss observed within the first 24 hours post-grafting might be (partially) initiated by cellular hypoxia (and presumably also lack of nutrients) within the core of NSC-Luc/eGFP grafts, resulting in massive apoptotic cell death.</p>
+            <fig id="F4">
+               <title>
+                  <p>Figure 4</p>
+               </title>
+               <caption>
+                  <p>Histological analysis of <it>in vivo </it>neural stem cell (NSC) graft apoptosis</p>
+               </caption>
+               <text>
+                  <p><b>Histological analysis of <it>in vivo </it>neural stem cell (NSC) graft apoptosis</b>. Direct enhanced fluorescent green protein (eGFP) fluorescence (green) combined with TOPRO3 staining (false colour representation in blue) and combined with the control immunofluorescence staining for terminal deoxynucleotidyl transferase dUTP nick end labeling (TUNEL) (red, CONTROL STAINING) and the specific immunofluorescence staining for TUNEL+ apoptotic cells (red, TUNEL STAINING) at day 0 and 1 post-implantation. Representative images were chosen from multiple mice analysed at each time point (n = 2). The provided scale bars indicate 100 &#956;m.</p>
+               </text>
+               <graphic file="scrt147-4"/>
+            </fig>
+         </sec>
+         <sec>
+            <st>
+               <p>Quantitative analysis of glial cell responses following neural stem cell grafting</p>
+            </st>
+            <p>Since around 95% of cell graft mortality can be observed within the first 48 hours following NSC-Luc/eGFP grafting, glial cell responses are inevitable evoked. Therefore, we investigated the temporal behaviour of microglia and astrocytes following NSC-Luc/eGFP grafting. From the representative data provided in Figure <figr fid="F2">2</figr> (third row) no direct microglial response can be observed at day 0 post-implantation, as indicated by the absence of staining for Iba1<sup>pos </sup>microglia. However, on day 1 post-implantation, and coinciding with the presence of a large number of necrotic cells, an accumulation of Iba1<sup>pos </sup>microglia within and surrounding the graft site can be observed, which remains detectable from day 3 post-implantation. Next, although the number of S100B<sup>pos </sup>astrocytes does not appear to change largely over time (Figure <figr fid="F2">2</figr>, fourth row), a high degree of astrogliosis, based on staining for GFAP (Figure <figr fid="F2">2</figr>, fifth row), is apparent at from day 3 post-implantation. Further quantitative image analysis of glial cell responses evoked by grafted NSC/Luc-eGFP focused on: (a) the implant site, delineated based on eGFP expression, and (b) the implant border, delineated as a 100-&#956;m border around the implant site. Regarding microglial cell recruitment (Figure <figr fid="F3">3b</figr> and <figr fid="F3">3c</figr>), Iba1<sup>pos </sup>microglia density significantly increases until day 3 post-implantation within and surrounding the graft site (for both <it>P </it>&lt; 0.0001). However, no further increase (or decrease) in microglia density was observed within or surrounding the graft site beyond day 3 post-implantation (respectively <it>P </it>= 0.76 and <it>P </it>= 0.96). Regarding astroglial cell recruitment (Figure <figr fid="F3">3d</figr> and <figr fid="F3">3e</figr>), S100B<sup>pos </sup>astrocyte density significantly increased within the graft site until day 5 post-grafting (<it>P </it>&lt; 0.0001), with no increase beyond day 5 (<it>P </it>= 0.27). Within the implant border, astrocyte density slightly increased between day 0 and day 14 post-grafting (<it>P </it>= 0.0021). All absolute microglia and astrocyte cell densities within and surrounding the graft site at day 0, 1, 3, 5, 7 and 14 are provided in Table <tblr tid="T1">1</tblr>. Although the number of astrocytes recruited within and surrounding the graft site is less impressive compared to microglia recruitment, staining for GFAP was performed in order to determine GFAP<sup>pos </sup>astroglial scarring within and surrounding the graft site. Presented data (Figure <figr fid="F3">3f</figr>) clearly indicate that the degree of GFAP<sup>pos </sup>astrogliosis within and surrounding the graft site (both areas combined) significantly increases throughout the whole observation period, with the highest increase occurring prior to day 3 post-implantation (<it>P </it>&lt; 0.0001), and a reduced, although significant (<it>P </it>= 0.006), increase beyond day 3 post-implantation.</p>
+            <tbl id="T1" hint_layout="landscape">
+               <title>
+                  <p>Table 1</p>
+               </title>
+               <caption>
+                  <p>Astroglial and microglial densities following intracerebral implantation of NSC-Luc/eGFP.</p>
+               </caption>
+               <tblbdy cols="7">
+                  <r>
+                     <c>
+                        <p/>
+                     </c>
+                     <c cspan="6" ca="left">
+                        <p><b>Time post-implantation</b></p>
+                     </c>
+                  </r>
+                  <r>
+                     <c>
+                        <p/>
+                     </c>
+                     <c cspan="6">
+                        <hr/>
+                     </c>
+                  </r>
+                  <r>
+                     <c>
+                        <p/>
+                     </c>
+                     <c ca="center">
+                        <p><b>Day 0</b></p>
+                     </c>
+                     <c ca="center">
+                        <p><b>Day 1</b></p>
+                     </c>
+                     <c ca="center">
+                        <p><b>Day 3</b></p>
+                     </c>
+                     <c ca="center">
+                        <p><b>Day 5</b></p>
+                     </c>
+                     <c ca="center">
+                        <p><b>Day 7</b></p>
+                     </c>
+                     <c ca="center">
+                        <p><b>Day 14</b></p>
+                     </c>
+                  </r>
+                  <r>
+                     <c cspan="7">
+                        <hr/>
+                     </c>
+                  </r>
+                  <r>
+                     <c cspan="7" ca="left">
+                        <p><b>Implant site</b></p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>Microglia density</p>
+                     </c>
+                     <c ca="center">
+                        <p>1,293 &#177; 768</p>
+                     </c>
+                     <c ca="center">
+                        <p>10,017 &#177; 10,678</p>
+                     </c>
+                     <c ca="center">
+                        <p>104,712 &#177; 75555</p>
+                     </c>
+                     <c ca="center">
+                        <p>146,551 &#177; 188,791</p>
+                     </c>
+                     <c ca="center">
+                        <p>94,803 &#177; 126,268</p>
+                     </c>
+                     <c ca="center">
+                        <p>24,017 &#177; 250,036</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>Astrocyte density</p>
+                     </c>
+                     <c ca="center">
+                        <p>5,382 &#177; 5,483</p>
+                     </c>
+                     <c ca="center">
+                        <p>7,376 &#177; 5,653</p>
+                     </c>
+                     <c ca="center">
+                        <p>18,059 &#177; 12,436</p>
+                     </c>
+                     <c ca="center">
+                        <p>25,515 &#177; 5,986</p>
+                     </c>
+                     <c ca="center">
+                        <p>28,900 &#177; 9,807</p>
+                     </c>
+                     <c ca="center">
+                        <p>32,647 &#177; 15,108</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c cspan="7" ca="left">
+                        <p><b>Border zone</b></p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>Microglia density</p>
+                     </c>
+                     <c ca="center">
+                        <p>1,537 &#177; 1,071</p>
+                     </c>
+                     <c ca="center">
+                        <p>5,367 &#177; 5,951</p>
+                     </c>
+                     <c ca="center">
+                        <p>24,551 &#177; 17,042</p>
+                     </c>
+                     <c ca="center">
+                        <p>34,467 &#177; 33,349</p>
+                     </c>
+                     <c ca="center">
+                        <p>25,062 &#177; 22,264</p>
+                     </c>
+                     <c ca="center">
+                        <p>41,693 &#177; 44,628</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>Astroglial density</p>
+                     </c>
+                     <c ca="center">
+                        <p>22,010 &#177; 6,202</p>
+                     </c>
+                     <c ca="center">
+                        <p>17,757 &#177; 3,149</p>
+                     </c>
+                     <c ca="center">
+                        <p>22,798 &#177; 4,216</p>
+                     </c>
+                     <c ca="center">
+                        <p>25,308 &#177; 4,943</p>
+                     </c>
+                     <c ca="center">
+                        <p>27,262 &#177; 5,647</p>
+                     </c>
+                     <c ca="center">
+                        <p>34,603 &#177; 11,392</p>
+                     </c>
+                  </r>
+               </tblbdy>
+               <tblfn>
+                  <p>Absolute microglia and astrocyte cell densities (in number of cells/mm<sup>3 </sup>&#177; SD) within the implant site and the implant border at day 0, day 1, day 3, day 5, day 7 and day 14 post-grafting.</p>
+               </tblfn>
+            </tbl>
+         </sec>
+         <sec>
+            <st>
+               <p>Disruption of CNS architecture following neural stem cell transplantation</p>
+            </st>
+            <p>Inevitably, cell grafting in the CNS will induce damage to the CNS architecture due to needle insertion and the subsequent injection of a cell suspension. As shown by the representative images in Figure <figr fid="F2">2</figr> (sixth row), it is clear that both the CNS architecture, as visualised by staining for myelin basic protein (MBP), and the NSC-Luc/eGFP graft site, as visualised by the presence of eGFP-expressing cells, undergo significant changes at early stages post-grafting. While initially grafted NSC-Luc/eGFP are clustered together and myelin conformation of the capsula externa is temporally spread out, this gradually remodels as the limited number of surviving NSC-Luc/eGFP spread along the capsula externa/corpus callosum, and the disturbance in myelin conformation partially restores itself. The latter is accompanied with a reduction of graft site volume (that is, the area in which eGFP-expressing cells can be found) from 0.35 &#177; (SD) 0.09 mm<sup>3 </sup>at day 0 post-grafting to 0.07 &#177; 0.07 mm<sup>3 </sup>at day 14 post-grafting (<it>P </it>= 0.015).</p>
+         </sec>
+      </sec>
+      <sec>
+         <st>
+            <p>Discussion</p>
+         </st>
+         <p>Over the past years, neural stem cell transplantation has been recognized as a promising novel therapeutic tool to treat CNS disorders for which today, no effective therapies are available. However, successful functional integration of grafted NSCs (or <it>in vitro</it>/<it>in vivo </it>NSC-derived cell types) is one of the major challenges in current neuroscience research, and if successful, will have an enormous impact on the future development of cell replacement therapies for CNS disorders. In order to contribute to this understanding, we have investigated the spatiotemporal evolution of NSC graft behaviour and endogenous glial cell responses at early time points post-implantation.</p>
+         <p>With regard to direct grafting of NSCs in CNS tissue, our results demonstrate that this procedure immediately results in: (i) significant disruption of the CNS architecture (Figure <figr fid="F2">2</figr>, sixth row) and (ii) substantial cell graft mortality (Figure <figr fid="F3">3a</figr>). First, the observed disruption of CNS architecture (although partially restored over time) will remain inevitable as long as cells (or cell-seeded scaffolds) are directly implanted into CNS tissue. Although alternative administration routes (that is, intraventricular, intrathecal or intravenous) have been suggested to facilitate cell delivery into injured CNS tissue, the cell number arriving at the target site is generally nihil to a few representative cells detected by histological analysis <abbrgrp><abbr bid="B13">13</abbr><abbr bid="B14">14</abbr><abbr bid="B15">15</abbr></abbrgrp>. Second, apoptotic cell death within the first 24 hours post-grafting (Figure <figr fid="F4">4</figr>) can most likely be explained by the lack of oxygen (Figure <figr fid="F2">2</figr>, second row) and/or nutrients delivered to the NSC graft, which, in fact, is introduced without any structural and/or functional support. More recently, novel biomimetic strategies are emerging aiming to create a permissive micro environmental niche, thereby enhancing survival, differentiation and integration of grafted NSCs <abbrgrp><abbr bid="B16">16</abbr><abbr bid="B17">17</abbr><abbr bid="B18">18</abbr></abbrgrp>. The latter will be inevitable, as a substantial amount of grafted cells need to survive following transplantation in order to functionally participate in neuronal circuitries. Of note, while we used both <it>in vivo </it>BLI (Figure <figr fid="F1">1c</figr>) and post-mortem histological analysis (Figure <figr fid="F3">3a</figr>) to determine cell graft survival, it should be noted that the observed <it>in vivo </it>BLI signals at day 1 and day 3 post-grafting are resulting from respectively 20% and 5% of the original number of grafted cells. Although we and others have associated this early <it>in vivo </it>BLI signal with complete cell graft survival, our results now clearly indicate that precaution has to be taken in the interpretation of early <it>in vivo </it>BLI data <abbrgrp><abbr bid="B10">10</abbr><abbr bid="B11">11</abbr></abbrgrp>. Nevertheless, <it>in vivo </it>BLI remains an interesting tool for longitudinal assessment of cell graft survival, as progressive cell loss of implanted NSC could clearly be demonstrated from on day 3 post-implantation (Figure <figr fid="F1">1c</figr>).</p>
+         <p>With regard to the observed glial cell responses, these are not surprising as the majority (up to 95%) of grafted NSCs already die within the first 24 to 48 hours post-grafting (Figure <figr fid="F3">3a</figr>). However, in our preceding studies regarding autologous and allogeneic stem cell grafting in the CNS of immune competent mice, we suggested that the occurrence of glial cell responses was most likely due to the recognition of the cellular implant itself, whereby autologous reporter-gene modified cellular grafts were immune-tolerated and allogeneic cellular grafts were immune-rejected. However, our early studies did not include full quantitative analysis of <it>in vivo </it>BLI and histology data. Based on our new data showing that NSC grafts already display a high degree of mortality before the initiation of glial cell responses (Figure <figr fid="F3">3b-f</figr>), the observed glial cell responses are more likely to be associated with phagocytocis of cellular debris rather than active recognition of grafted autologous NSC. Nevertheless, based on our preceding data regarding full rejection of allogeneic (but not autologous) cellular grafts, active distinguishment of autologous and allogeneic cellular grafts by microglia (or astrocytes) will thus most likely be occurring during or after the initial clearance of cellular debris. Following initial activation of glial cell responses, survival of grafted autologous NSC further declines to around 1% by week 2 post-implantation. Moreover, although endogenous microglia and astrocytes are able to produce either pro-inflammatory/neurotoxic or anti-inflammatory/neuroprotective factors depending on the type of activation <abbrgrp><abbr bid="B19">19</abbr><abbr bid="B20">20</abbr></abbrgrp>, it is highly likely that the evoked immune responses following NSC implantation create an inhibitory pro-inflammatory environment, thereby further limiting the long-term survival of transplanted NSC <abbrgrp><abbr bid="B21">21</abbr></abbrgrp>. Of note, additional immunophenotypical stainings were performed to determine the <it>in vivo </it>differentiation potential of the few surviving NSC-Luc/eGFP (data not shown). Results indicated that grafted NSC-Luc/eGFP did not change phenotypic properties between day 0 and day 14 post-grafting, that is, They remained SOX2<sup>pos </sup>(as NSC marker), S100B<sup>neg </sup>(as astrocyte marker), NeuN<sup>neg </sup>(as neuronal marker) and CC1<sup>neg </sup>(as oligodendrocytes marker). Likewise, proper <it>in vivo </it>differentiation and functional integration of the few surviving NSC is most likely inhibited by an endogenous glial-cell-induced pro-inflammatory immune environment <abbrgrp><abbr bid="B22">22</abbr><abbr bid="B23">23</abbr><abbr bid="B24">24</abbr></abbrgrp>.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Conclusions</p>
+         </st>
+         <p>The present study quantitatively describes the early post-transplantation events following NSC grafting in the adult mouse brain and warrants that such intervention is associated with an immediate high degree of cell loss. The latter is subsequently followed by strong glial cell responses, presumably creating a non-permissive environment, which limit proper migration, differentiation and integration of grafted NSC into the host tissue. Unfortunately, these observations are generally not considered when evaluating the potential of pre-clinical cell therapy studies, as most reports lack detailed cell graft survival and/or glial reactivity analysis at early and late time-points post-grafting. Moreover, it is important to note that early NSC graft mortality and subsequent glial cell responses themselves might be responsible for many of the observed beneficial effects following cell transplantation in CNS disorders <abbrgrp><abbr bid="B2">2</abbr></abbrgrp>. We therefore underscore the current need for a profound characterisation of all cellular and/or molecular interactions following cell grafting in the CNS, as the full potential of NSC transplantation therapy can only be determined following better understanding (and manipulation) of NSC graft survival and inhibitory immune responses.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Abbreviations</p>
+         </st>
+         <p>BLI: bioluminescence imaging; CC1: anti-APC (Adenomatous polyposis coli protein) antibody; CNS: central nervous system; eGFP: enhanced green fluorescent protein; GFAP: glial fibrillary acidic protein; Iba-1: ionized calcium binding adaptor molecule 1; Luc: Luciferase; MBP: myelin basic protein; NeuN: neuronal nuclei; NSC: neural stem cell; PBS: phosphate-buffered saline; S100B: S100 calcium binding protein B; SOX2: sex-determining region Y-box 2; TUNEL: terminal deoxynucleotidyl transferase dUTP nick end labeling.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Competing interests</p>
+         </st>
+         <p>The authors declare that they have no competing interests.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Authors' contributions</p>
+         </st>
+         <p>KR, NDV, JP, HG, AvDL, ZB and PP designed the research study; KR, NDV, JP, DLB, CH and JD performed the research; EF performed the statistical analyses; KR and PP wrote the manuscript. All authors approved the final version of the manuscript.</p>
+      </sec>
+   </bdy>
+   <bm>
+      <ack>
+         <sec>
+            <st>
+               <p>Acknowledgements</p>
+            </st>
+            <p>This work was supported by research grants G.0136.11 and G.0130.11 (granted to ZB, AvDL and PP) of the Fund for Scientific Research-Flanders (FWO-Vlaanderen, Belgium), in part by a Methusalem research grant from the Flemish government (granted to ZB and HG) and in part by funding received from the European Union's Seventh Framework Programme (FP7/2007-2013) under grant agreement number 278850 (INMiND) (granted to AvDL). Nathalie De Vocht holds a PhD-studentship from the FWO-Vlaanderen. Debbie Le Blon holds a PhD-studentship from the Flemish Institute for Science and Technology (IWT-Vlaanderen). Peter Ponsaerts is a post-doctoral fellow of the FWO-Vlaanderen.</p>
+         </sec>
+      </ack>
+      <refgrp>
+         <bibl id="B1">
+            <title>
+               <p>Current challenges for the advancement of neural stem cell biology and transplantation research</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Reekmans</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Praet</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Daans</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Reumers</snm>
+                  <fnm>V</fnm>
+               </au>
+               <au>
+                  <snm>Pauwels</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Van der Linden</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Berneman</snm>
+                  <fnm>ZN</fnm>
+               </au>
+               <au>
+                  <snm>Ponsaerts</snm>
+                  <fnm>P</fnm>
+               </au>
+            </aug>
+            <source>Stem Cell Rev</source>
+            <pubdate>2012</pubdate>
+            <volume>8</volume>
+            <fpage>262</fpage>
+            <lpage>278</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1007/s12015-011-9266-2</pubid>
+                  <pubid idtype="pmpid" link="fulltext">21537994</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B2">
+            <title>
+               <p>Stem cell therapy for multiple sclerosis: preclinical evidence beyond all doubt?</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Reekmans</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Praet</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>De Vocht</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Daans</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Van der Linden</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Berneman</snm>
+                  <fnm>Z</fnm>
+               </au>
+               <au>
+                  <snm>Ponsaerts</snm>
+                  <fnm>P</fnm>
+               </au>
+            </aug>
+            <source>Regen Med</source>
+            <pubdate>2012</pubdate>
+            <volume>7</volume>
+            <fpage>245</fpage>
+            <lpage>259</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.2217/rme.12.5</pubid>
+                  <pubid idtype="pmpid" link="fulltext">22397612</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B3">
+            <title>
+               <p>Neural tissue engineering using embryonic and induced pluripotent stem cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Willerth</snm>
+                  <fnm>SM</fnm>
+               </au>
+            </aug>
+            <source>Stem Cell Res Ther</source>
+            <pubdate>2011</pubdate>
+            <volume>2</volume>
+            <fpage>17</fpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1186/scrt58</pubid>
+                  <pubid idtype="pmcid">3226288</pubid>
+                  <pubid idtype="pmpid" link="fulltext">21539726</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B4">
+            <title>
+               <p>Stem cell challenges in the treatment of neurodegenerative disease</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Feng</snm>
+                  <fnm>Z</fnm>
+               </au>
+               <au>
+                  <snm>Gao</snm>
+                  <fnm>F</fnm>
+               </au>
+            </aug>
+            <source>CNS Neurosci Ther</source>
+            <pubdate>2012</pubdate>
+            <volume>18</volume>
+            <fpage>142</fpage>
+            <lpage>148</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1111/j.1755-5949.2011.00239.x</pubid>
+                  <pubid idtype="pmpid" link="fulltext">22070610</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B5">
+            <title>
+               <p>Can cell therapy heal a spinal cord injury?</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Ronsyn</snm>
+                  <fnm>MW</fnm>
+               </au>
+               <au>
+                  <snm>Berneman</snm>
+                  <fnm>ZN</fnm>
+               </au>
+               <au>
+                  <snm>Van Tendeloo</snm>
+                  <fnm>VF</fnm>
+               </au>
+               <au>
+                  <snm>Jorens</snm>
+                  <fnm>PG</fnm>
+               </au>
+               <au>
+                  <snm>Ponsaerts</snm>
+                  <fnm>P</fnm>
+               </au>
+            </aug>
+            <source>Spinal Cord</source>
+            <pubdate>2008</pubdate>
+            <volume>46</volume>
+            <fpage>532</fpage>
+            <lpage>539</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/sc.2008.13</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18347607</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B6">
+            <title>
+               <p>Clinical translation of cell transplantation in the brain</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Dunnett</snm>
+                  <fnm>SB</fnm>
+               </au>
+               <au>
+                  <snm>Rosser</snm>
+                  <fnm>AE</fnm>
+               </au>
+            </aug>
+            <source>Curr Opin Organ Transplant</source>
+            <pubdate>2011</pubdate>
+            <volume>16</volume>
+            <fpage>632</fpage>
+            <lpage>639</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1097/MOT.0b013e32834c2356</pubid>
+                  <pubid idtype="pmpid" link="fulltext">21926621</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B7">
+            <title>
+               <p>Brain regeneration in physiology and pathology: the immune signature driving therapeutic plasticity of neural stem cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Martino</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Pluchino</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Bonfanti</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Schwartz</snm>
+                  <fnm>M</fnm>
+               </au>
+            </aug>
+            <source>Physiol Rev</source>
+            <pubdate>2011</pubdate>
+            <volume>91</volume>
+            <fpage>1281</fpage>
+            <lpage>1304</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1152/physrev.00032.2010</pubid>
+                  <pubid idtype="pmpid" link="fulltext">22013212</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B8">
+            <title>
+               <p>Bioluminescence imaging of Olig2-neural stem cells reveals improved engraftment in a demyelination mouse model</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Sher</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>van Dam</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Boddeke</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Copray</snm>
+                  <fnm>S</fnm>
+               </au>
+            </aug>
+            <source>Stem Cells</source>
+            <pubdate>2009</pubdate>
+            <volume>27</volume>
+            <fpage>1582</fpage>
+            <lpage>1591</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1002/stem.76</pubid>
+                  <pubid idtype="pmpid" link="fulltext">19544465</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B9">
+            <title>
+               <p>Cell type-associated differences in migration, survival and immunogenicity following grafting in CNS tissue</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Praet</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Reekmans</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Lin</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>De Vocht</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Bergwerf</snm>
+                  <fnm>I</fnm>
+               </au>
+               <au>
+                  <snm>Tambuyzer</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Daans</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Hens</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Goossens</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Pauwels</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Berneman</snm>
+                  <fnm>Z</fnm>
+               </au>
+               <au>
+                  <snm>Van der Linden</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Ponsaerts</snm>
+                  <fnm>P</fnm>
+               </au>
+            </aug>
+            <source>Cell Transplant</source>
+            <pubdate>2012</pubdate>
+         </bibl>
+         <bibl id="B10">
+            <title>
+               <p>Clinical potential of intravenous neural stem cell delivery for treatment of neuroinflammatory disease in mice?</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Reekmans</snm>
+                  <fnm>KP</fnm>
+               </au>
+               <au>
+                  <snm>Praet</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>De Vocht</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Tambuyzer</snm>
+                  <fnm>BR</fnm>
+               </au>
+               <au>
+                  <snm>Bergwerf</snm>
+                  <fnm>I</fnm>
+               </au>
+               <au>
+                  <snm>Daans</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Baekelandt</snm>
+                  <fnm>V</fnm>
+               </au>
+               <au>
+                  <snm>Vanhoutte</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Goossens</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Jorens</snm>
+                  <fnm>PG</fnm>
+               </au>
+               <au>
+                  <snm>Ysebaert</snm>
+                  <fnm>DK</fnm>
+               </au>
+               <au>
+                  <snm>Chatterjee</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Pauwels</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Van Marck</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Berneman</snm>
+                  <fnm>ZN</fnm>
+               </au>
+               <au>
+                  <snm>Van der Linden</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Ponsaerts</snm>
+                  <fnm>P</fnm>
+               </au>
+            </aug>
+            <source>Cell Transplant</source>
+            <pubdate>2011</pubdate>
+            <volume>20</volume>
+            <fpage>851</fpage>
+            <lpage>869</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.3727/096368910X543411</pubid>
+                  <pubid idtype="pmpid" link="fulltext">21092405</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B11">
+            <title>
+               <p>Reporter gene-expressing bone marrow-derived stromal cells are immune-tolerated following implantation in the central nervous system of syngeneic immunocompetent mice</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Bergwerf</snm>
+                  <fnm>I</fnm>
+               </au>
+               <au>
+                  <snm>De Vocht</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Tambuyzer</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Verschueren</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Reekmans</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Daans</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Ibrahimi</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Van Tendeloo</snm>
+                  <fnm>V</fnm>
+               </au>
+               <au>
+                  <snm>Chatterjee</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Goossens</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Jorens</snm>
+                  <fnm>PG</fnm>
+               </au>
+               <au>
+                  <snm>Baekelandt</snm>
+                  <fnm>V</fnm>
+               </au>
+               <au>
+                  <snm>Ysebaert</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Van Marck</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Berneman</snm>
+                  <fnm>ZN</fnm>
+               </au>
+               <au>
+                  <snm>Linden</snm>
+                  <fnm>AV</fnm>
+               </au>
+               <au>
+                  <snm>Ponsaerts</snm>
+                  <fnm>P</fnm>
+               </au>
+            </aug>
+            <source>BMC Biotechnol</source>
+            <pubdate>2009</pubdate>
+            <volume>9</volume>
+            <fpage>1</fpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1186/1472-6750-9-1</pubid>
+                  <pubid idtype="pmcid">2630974</pubid>
+                  <pubid idtype="pmpid" link="fulltext">19128466</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B12">
+            <title>
+               <p>Labeling of Luciferase/eGFP-expressing bone marrow-derived stromal cells with fluorescent micron-sized iron oxide particles improves quantitative and qualitative multimodal imaging of cellular grafts in vivo</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>De Vocht</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Bergwerf</snm>
+                  <fnm>I</fnm>
+               </au>
+               <au>
+                  <snm>Vanhoutte</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Daans</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>De Visscher</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Chatterjee</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Pauwels</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Berneman</snm>
+                  <fnm>Z</fnm>
+               </au>
+               <au>
+                  <snm>Ponsaerts</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Van der Linden</snm>
+                  <fnm>A</fnm>
+               </au>
+            </aug>
+            <source>Mol Imaging Biol</source>
+            <pubdate>2011</pubdate>
+            <volume>13</volume>
+            <fpage>1133</fpage>
+            <lpage>1145</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1007/s11307-011-0469-3</pubid>
+                  <pubid idtype="pmpid" link="fulltext">21246293</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B13">
+            <title>
+               <p>Intravenous neural stem cells abolish nociceptive hypersensitivity and trigger nerve regeneration in experimental neuropathy</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Franchi</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Valsecchi</snm>
+                  <fnm>AE</fnm>
+               </au>
+               <au>
+                  <snm>Borsani</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Procacci</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Ferrari</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Zalfa</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Sartori</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Rodella</snm>
+                  <fnm>LF</fnm>
+               </au>
+               <au>
+                  <snm>Vescovi</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Maione</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Rossi</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Sacerdote</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Colleoni</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Panerai</snm>
+                  <fnm>AE</fnm>
+               </au>
+            </aug>
+            <source>Pain</source>
+            <pubdate>2012</pubdate>
+            <volume>153</volume>
+            <fpage>850</fpage>
+            <lpage>861</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.pain.2012.01.008</pubid>
+                  <pubid idtype="pmpid" link="fulltext">22321918</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B14">
+            <title>
+               <p>Intrathecal transplantation of stem cells by lumbar puncture for thoracic spinal cord injury in the rat</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Mothe</snm>
+                  <fnm>AJ</fnm>
+               </au>
+               <au>
+                  <snm>Bozkurt</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Catapano</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Zabojova</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Wang</snm>
+                  <fnm>X</fnm>
+               </au>
+               <au>
+                  <snm>Keating</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Tator</snm>
+                  <fnm>CH</fnm>
+               </au>
+            </aug>
+            <source>Spinal Cord</source>
+            <pubdate>2011</pubdate>
+            <volume>49</volume>
+            <fpage>967</fpage>
+            <lpage>973</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/sc.2011.46</pubid>
+                  <pubid idtype="pmpid" link="fulltext">21606931</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B15">
+            <title>
+               <p>ICV-transplanted human glial precursor cells are short-lived yet exert immunomodulatory effects in mice with EAE</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Kim</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Walczak</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Muja</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Campanelli</snm>
+                  <fnm>JT</fnm>
+               </au>
+               <au>
+                  <snm>Bulte</snm>
+                  <fnm>JW</fnm>
+               </au>
+            </aug>
+            <source>Glia</source>
+            <pubdate>2012</pubdate>
+            <volume>60</volume>
+            <fpage>1117</fpage>
+            <lpage>1129</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1002/glia.22339</pubid>
+                  <pubid idtype="pmpid" link="fulltext">22499166</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B16">
+            <title>
+               <p>Matrigel supports survival and neuronal differentiation of grafted embryonic stem cell-derived neural precursor cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Uemura</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Refaat</snm>
+                  <fnm>MM</fnm>
+               </au>
+               <au>
+                  <snm>Shinoyama</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Hayashi</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Hashimoto</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Takahashi</snm>
+                  <fnm>J</fnm>
+               </au>
+            </aug>
+            <source>J Neurosci Res</source>
+            <pubdate>2010</pubdate>
+            <volume>88</volume>
+            <fpage>542</fpage>
+            <lpage>551</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid" link="fulltext">19774667</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B17">
+            <title>
+               <p>Hydrogel matrix to support stem cell survival after brain transplantation in stroke</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Zhong</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Chan</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Morad</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Kornblum</snm>
+                  <fnm>HI</fnm>
+               </au>
+               <au>
+                  <snm>Fan</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Carmichael</snm>
+                  <fnm>ST</fnm>
+               </au>
+            </aug>
+            <source>Neurorehabil Neural Repair</source>
+            <pubdate>2010</pubdate>
+            <volume>24</volume>
+            <fpage>636</fpage>
+            <lpage>644</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1177/1545968310361958</pubid>
+                  <pubid idtype="pmpid" link="fulltext">20424193</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B18">
+            <title>
+               <p>Creating permissive microenvironments for stem cell transplantation into the central nervous system</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Kim</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Cooke</snm>
+                  <fnm>MJ</fnm>
+               </au>
+               <au>
+                  <snm>Shoichet</snm>
+                  <fnm>MS</fnm>
+               </au>
+            </aug>
+            <source>Trends Biotechnol</source>
+            <pubdate>2012</pubdate>
+            <volume>30</volume>
+            <fpage>55</fpage>
+            <lpage>63</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.tibtech.2011.07.002</pubid>
+                  <pubid idtype="pmpid" link="fulltext">21831464</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B19">
+            <title>
+               <p>The yin and yang of microglia</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Czeh</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Gressens</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Kaindl</snm>
+                  <fnm>AM</fnm>
+               </au>
+            </aug>
+            <source>Dev Neurosci</source>
+            <pubdate>2011</pubdate>
+            <volume>33</volume>
+            <fpage>199</fpage>
+            <lpage>209</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1159/000328989</pubid>
+                  <pubid idtype="pmpid" link="fulltext">21757877</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B20">
+            <title>
+               <p>Glia: an emerging target for neurological disease therapy</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Almad</snm>
+                  <fnm>AA</fnm>
+               </au>
+               <au>
+                  <snm>Maragakis</snm>
+                  <fnm>NJ</fnm>
+               </au>
+            </aug>
+            <source>Stem Cell Res Ther</source>
+            <pubdate>2012</pubdate>
+            <volume>3</volume>
+            <fpage>37</fpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1186/scrt128</pubid>
+                  <pubid idtype="pmpid" link="fulltext">23021042</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B21">
+            <title>
+               <p>Quantitative and phenotypic analysis of mesenchymal stromal cell graft survival and recognition by microglia and astrocytes in mouse brain</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>De Vocht</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Lin</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Praet</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Hoornaert</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Reekmans</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Le Blon</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Daans</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Pauwels</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Goossens</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Hens</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Berneman</snm>
+                  <fnm>Z</fnm>
+               </au>
+               <au>
+                  <snm>Van der Linden</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Ponsaerts</snm>
+                  <fnm>P</fnm>
+               </au>
+            </aug>
+            <source>Immunobiology</source>
+            <pubdate>2012</pubdate>
+         </bibl>
+         <bibl id="B22">
+            <title>
+               <p>Microglia-derived interleukin-6 and leukaemia inhibitory factor promote astrocytic differentiation of neural stem/progenitor cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Nakanishi</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Niidome</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Matsuda</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Akaike</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Kihara</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Sugimoto</snm>
+                  <fnm>H</fnm>
+               </au>
+            </aug>
+            <source>Eur J Neurosci</source>
+            <pubdate>2007</pubdate>
+            <volume>25</volume>
+            <fpage>649</fpage>
+            <lpage>658</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1111/j.1460-9568.2007.05309.x</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17328769</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B23">
+            <title>
+               <p>Reactive astrogliosis induces astrocytic differentiation of adult neural stem/progenitor cells in vitro</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Faijerson</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Tinsley</snm>
+                  <fnm>RB</fnm>
+               </au>
+               <au>
+                  <snm>Aprico</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Thorsell</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Nodin</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Nilsson</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Blomstrand</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Eriksson</snm>
+                  <fnm>PS</fnm>
+               </au>
+            </aug>
+            <source>J Neurosci Res</source>
+            <pubdate>2006</pubdate>
+            <volume>84</volume>
+            <fpage>1415</fpage>
+            <lpage>1424</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1002/jnr.21044</pubid>
+                  <pubid idtype="pmpid" link="fulltext">16998910</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B24">
+            <title>
+               <p>Anti-inflammatory treatment induced regenerative oligodendrogenesis in parkinsonian mice</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Worlitzer</snm>
+                  <fnm>MM</fnm>
+               </au>
+               <au>
+                  <snm>Bunk</snm>
+                  <fnm>EC</fnm>
+               </au>
+               <au>
+                  <snm>Hemmer</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Schwamborn</snm>
+                  <fnm>JC</fnm>
+               </au>
+            </aug>
+            <source>Stem Cell Res Ther</source>
+            <pubdate>2012</pubdate>
+            <volume>3</volume>
+            <fpage>33</fpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1186/scrt124</pubid>
+                  <pubid idtype="pmpid" link="fulltext">22892385</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+      </refgrp>
+   </bm>
+</art>

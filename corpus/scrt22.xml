@@ -1,0 +1,1991 @@
+<!DOCTYPE art SYSTEM "article.dtd">
+<art>
+   <ui>scrt22</ui>
+   <ji>1757-6512</ji>
+   <fm>
+      <dochead>Research</dochead>
+      <bibl>
+         <title>
+            <p>Human CD34<sup>+ </sup>cells mobilized by granulocyte colony-stimulating factor ameliorate radiation-induced liver damage in mice</p>
+         </title>
+         <aug>
+            <au id="A1" ce="yes">
+               <snm>Li</snm>
+               <fnm>Ning</fnm>
+               <insr iid="I1"/>
+               <email>lining97@126.com</email>
+            </au>
+            <au id="A2" ce="yes">
+               <snm>Zhang</snm>
+               <fnm>Li</fnm>
+               <insr iid="I2"/>
+               <email>zhanglizhangli097@126.com</email>
+            </au>
+            <au id="A3">
+               <snm>Li</snm>
+               <fnm>Huixiang</fnm>
+               <insr iid="I1"/>
+               <email>lihuixiang3698@126.com</email>
+            </au>
+            <au ca="yes" id="A4">
+               <snm>Fang</snm>
+               <fnm>Baijun</fnm>
+               <insr iid="I1"/>
+               <email>fdation@sina.com</email>
+            </au>
+         </aug>
+         <insg>
+            <ins id="I1">
+               <p>Center of Excellence in Tissue Engineering, Henan Institute of Haematology, Henan Tumor Hospital, Zhengzhou University, 127 Dongming Road, Zhengzhou 450008, China</p>
+            </ins>
+            <ins id="I2">
+               <p>Department of Medical Oncology, Cancer Center of Sun Yat-Sen University, 651 Dongfeng East Road, Guangzhou 510060, China</p>
+            </ins>
+         </insg>
+         <source>Stem Cell Research &amp; Therapy</source>
+         <issn>1757-6512</issn>
+         <pubdate>2010</pubdate>
+         <volume>1</volume>
+         <issue>3</issue>
+         <fpage>22</fpage>
+         <url>http://stemcellres.com/content/1/3/22</url>
+         <xrefbib>
+            <pubidlist>
+               <pubid idtype="doi">10.1186/scrt22</pubid>
+               <pubid idtype="pmpid">20633298</pubid>
+            </pubidlist>
+         </xrefbib>
+      </bibl>
+      <history>
+         <rec>
+            <date>
+               <day>21</day>
+               <month>5</month>
+               <year>2010</year>
+            </date>
+         </rec>
+         <acc>
+            <date>
+               <day>15</day>
+               <month>7</month>
+               <year>2010</year>
+            </date>
+         </acc>
+         <pub>
+            <date>
+               <day>15</day>
+               <month>7</month>
+               <year>2010</year>
+            </date>
+         </pub>
+      </history>
+      <cpyrt>
+         <year>2010</year>
+         <collab>Li et al.; licensee BioMed Central Ltd.</collab>
+         <note>This is an open access article distributed under the terms of the Creative Commons Attribution License (<url>http://creativecommons.org/licenses/by/2.0</url>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</note>
+      </cpyrt>
+      <abs>
+         <sec>
+            <st>
+               <p>Abstract</p>
+            </st>
+            <sec>
+               <st>
+                  <p>Introduction</p>
+               </st>
+               <p>On the basis of the recently recognized potential of hematopoietic stem cells (HSCs) to give rise to hepatocytes, we have assessed the potential of granulocyte colony-stimulating factor (G-CSF)-mobilized bone marrow-derived CD34<sup>+ </sup>HSCs to contribute to faster recovery and promote regeneration process after acute liver injury by radiation.</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>Methods</p>
+               </st>
+               <p>G-CSF-mobilized CD34<sup>+ </sup>HSCs (1 &#215; 10<sup>5 </sup>cells per mouse) were injected via tail vein in the irradiated femal nonobese diabetic/severe combined immunodeficient mice. Irradiated control animals received only saline infusion.</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>Results</p>
+               </st>
+               <p>The mobilized CD34<sup>+ </sup>HSCs significantly ameliorated radiation-induced liver damage. In the liver of recipient mice killed 21 days after irradiation, human albumin<sup>+ </sup>Y-chromosome<sup>+ </sup>hepatocyte-like cells, or human cytokeratin<sup>+ </sup>Y-chromosome<sup>+ </sup>hepatocyte-like cells formed cords of hepatocytes, occupied ~30% of the 4-&#956;m section surrounding portal tracts. Furthermore, human-specific albumin mRNA expressed in the liver and human albumin was detected in the serum only in the CD34<sup>+ </sup>HSC-treated mice.</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>Conclusions</p>
+               </st>
+               <p>Treatment with G-CSF-mobilized CD34<sup>+ </sup>HSCs from bone marrow into peripheral blood could significantly promote tissue reparation after acute liver injury by radiation in mice, possibly by the ability of CD34<sup>+ </sup>HSCs to generate hepatocytes. So mobilization of CD34<sup>+ </sup>HSCs might offer a novel therapeutic approach for the treatment of radiation-induced complications after radiotherapy or other acute liver diseases in humans.</p>
+            </sec>
+         </sec>
+      </abs>
+   </fm>
+   <bdy>
+      <sec>
+         <st>
+            <p>Introduction</p>
+         </st>
+         <p>During radiotherapy, the most important dose-limiting factor is sensitivity of the normal tissue lying in the radiation field. Even with the most optimal radiation schedule, damage still occurs in normal tissues.</p>
+         <p>Clinically, radiotherapy has played a limited role in the treatment of malignant intrahepatic cancers owing to the low tolerance of liver to radiotherapy. Radiation-induced liver damage had been observed in 5-10% of patients, who had received radiation doses exceeding 30 Gy <abbrgrp><abbr bid="B1">1</abbr><abbr bid="B2">2</abbr></abbrgrp>. In addition, liver transplantation is the only current therapeutic modality for liver failure, but owing to the shortage of organ donors, it is available to only a small proportion of patients. Adult stem cell therapy could solve the problem of degenerative disorders, including liver disease, in which organ transplantation is inappropriate or there is a shortage of organ donors. This view is predicated upon the evidence that stem cells, particularly those in hematopoietic tissue, have the ability to develop into endodermal, mesodermal, and ectodermal cell types <abbrgrp><abbr bid="B3">3</abbr></abbrgrp>.</p>
+         <p>Hematopoietic stem cells (HSCs) have been used for hematological reconstitution for many years. Recently, however, homing and engraftment of HSCs in damaged nonhematopoietic organs, such as vascular tissue <abbrgrp><abbr bid="B4">4</abbr></abbrgrp>, myocardium <abbrgrp><abbr bid="B5">5</abbr><abbr bid="B6">6</abbr><abbr bid="B7">7</abbr><abbr bid="B8">8</abbr><abbr bid="B9">9</abbr></abbrgrp>, brain <abbrgrp><abbr bid="B10">10</abbr><abbr bid="B11">11</abbr></abbrgrp>, liver <abbrgrp><abbr bid="B12">12</abbr><abbr bid="B13">13</abbr><abbr bid="B14">14</abbr></abbrgrp>, kidney <abbrgrp><abbr bid="B15">15</abbr></abbrgrp>, lung <abbrgrp><abbr bid="B16">16</abbr><abbr bid="B17">17</abbr></abbrgrp>, skin <abbrgrp><abbr bid="B17">17</abbr></abbrgrp>, and salivary glands <abbrgrp><abbr bid="B18">18</abbr></abbrgrp> have been observed and were suggested to contribute to the wound-healing process. In some tissues such as myocardium <abbrgrp><abbr bid="B6">6</abbr><abbr bid="B8">8</abbr><abbr bid="B9">9</abbr><abbr bid="B19">19</abbr></abbrgrp> and liver <abbrgrp><abbr bid="B12">12</abbr></abbrgrp>, even improved function has been observed. These studies have provided the proof of principle of damage repair by the application of HSCs. A clinically attractive approach is to use granulocyte colony-stimulating factor (G-CSF) to mobilize HSCs to the circulation, and it has been reported that G-CSF administration after partial orthotopic liver transplantation greatly improved survival rate and liver regeneration of partial graft, partly by its mobilizing HSCs into the injured liver to differentiate into hepatocytes through hepatic oval cell engraftment. However, the role of G-CSF-mobilized HSCs in the regeneration of radiation-induced liver injury is unknown and is less understood for this process.</p>
+         <p>In the current study, we investigated the possibility that G-CSF-mobilized CD34<sup>+ </sup>HSCs could home to the injured liver and promote tissue repair. We also primarily examined the origin of cells reconstituting liver after acute injury by radiation in mice.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Materials and methods</p>
+         </st>
+         <sec>
+            <st>
+               <p>Animals</p>
+            </st>
+            <p>Six- to 8-week-old female nonobese diabetic/severe combined immunodeficient (NOD/SCID) mice were purchased from the Animal Breeding Center of the Peking University (Beijing, China). All mice were bred and maintained under defined flora conditions in individually ventilated (high-efficiency particle-arresting filtered air) sterile microisolator cages (Techniplast, Milan, Italy). All animal handling and experimental procedures were approved by the Animal Care and Use Committee of Zhengzhou University.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Isolation of human HSCs</p>
+            </st>
+            <p>G-CSF-mobilized peripheral blood cells were obtained from leukaphereses processed by using a continuous flow cell separator Fenwal CS 3000 (Baxter, Deerfield, IL, USA). Informed consent and local research ethics committee approval were granted in all cases. After the mononuclear cell fraction was collected, CD34<sup>+ </sup>cells were isolated using the CD34<sup>+ </sup>positive cell selection kit (MiniMacs; Miltenyi Biotec, Bergisch Gladbach, Germany).</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Radiation-induced liver damage and G-CSF-mobilized CD34<sup>+ </sup>HSCs administration</p>
+            </st>
+            <p>Female NOD/SCID mice were randomly divided into three groups (n = 20 in each group). Animals in Groups 1 and 2 were anesthetized using injection of ketamine (Yuhan Co., Seoul, Korea; 50 mg/kg, i.p.) and xylazine (Bayer, Ansan, Korea; 5 mg/kg, i.p.) prior to immobilization in the recumbent position on a treatment table. The liver portion was centered in a 2 &#215; 4-cm exposure field with the other abdomen, and the body was protected using customized lead shielding. Then the mice were subjected to a single dose of irradiation of 260 cGy with a cesium source (MDS Nordion; Gammacell, Ottawa, ON, Canada). After this, G-CSF-mobilized human CD34<sup>+ </sup>cells (1 &#215; 10<sup>5 </sup>cells per mouse) were injected via tail vein in Group 1 (G1) immediately after irradiation. Animals in Group 2 (G2) received the same volume of saline and served as controls. Mice in Group 3 (G3) served as normal controls. After 7 or 21 days to irradiation, mice were killed under anesthesia. The left lobe of the liver was fixed in 4% paraformaldehyde and paraffin-embedded for sectioning. Other portions of liver were frozen in liquid nitrogen and kept at -70&#176;C for preparation of total RNA. Blood was collected and serum separated to evaluate alanine aminotransferases (ALT) and aspartate aminotransferase (AST) activity <abbrgrp><abbr bid="B20">20</abbr></abbrgrp>.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Histological examination</p>
+            </st>
+            <p>In all experimental groups, 4-&#956;m-thick sections of formalin<sup>-</sup>fixed and paraffin-embedded livers were routinely processed for hematoxylin and eosin staining to determine the extent of liver necrosis/degeneration development. Several fields in each slide were randomly selected, and representative results from 10 animals are shown.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Immunohistochemistry</p>
+            </st>
+            <p>Tissue samples from liver were embedded in paraffin wax and cut into 4-&#956;m serial sections. After being deparaffinized with xylene, tissue sections were rehydrated. Endogenous peroxidase activity was quenched with 0.6% hydrogen peroxide for 8 minutes at room temperature. Tissues were then digested with pepsin (Biogenex, San Ramon, CA, USA) for 10 minutes at room temperature and washed in phosphate-buffered saline (PBS). After blocking, slides were incubated for 30 minutes at 37&#176;C with rabbit anti-human cytokeratin monoclonal antibody (BACHEM, Bubendorf, Switzerland) or rabbit anti-human albumin antibody (DAKO, Glostrup, Denmark). Incubation with secondary biotinylated goat anti-rabbit antibody (Vector Laboratories, Burlingame, CA, USA) was performed after being washed, followed by incubation with avidin-biotin complex for 30 minutes at room temperature. Diaminiobenzidene (DAB; Sigma) was used as the visualizing agent. Sections were counterstained with hematoxylin.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Immunofluorescent staining and fluorescent in situ hybridization (FISH)</p>
+            </st>
+            <p>The slides of 4-&#956;m frozen liver sections were deparaffinized in xylene (two times) for 10 minutes, rehydrated, blocked with 5% donkey serum for 10 minutes, then incubated for 1 hour with diluted rabbit anti-human ALB antibody (DAKO) or rabbit anti-human cytokeratin antibody (BACHEM) at room temperature. Samples were washed thoroughly with PBS, incubated for 30 minutes at room temperature with donkey anti-rabbit IgG congujated with PE (Jackson ImmunoResearch, West Grove, PA, USA). After being washed with PBS, slides were blocked again with a 5% normal rabbit serum for 10 minutes and then localized with diluted monoclonal Cy5-conjugated anti-human CD45 IgG1 antibody (BD Biosciences Pharmingen, San Diego, CA, USA) for 1 hour at room temperature. After these procedures, Y-FISH analysis was performed as follows. The slides were washed in PBS for 5 minutes, digested at 37&#176;C with 100 &#956;g/ml RNase A for 30 minutes and then with 0.005% pepsin solution (pH 2.0) for 5 minutes. Human Y-chromosome DNA probe labeled with FITC (CEP Y Spectrum Green, Vysis; Downers Grove, IL, USA) was used according to the manufacturer's instructions. After these, the slides were observed field by field using confocal fluorescence microscopy (Confocal 1024 microscope; Olympus AX70, Olympus Optical Co. Ltd.). We screened 40 serial sections of each mouse liver for positive human cells to determine the number of differentiated cells. A minimum of 100 high-power fields in tissues from transplanted animals were analyzed.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Reverse transcriptase-polymerase chain reaction (RT-PCR) analysis</p>
+            </st>
+            <p>Total RNA was prepared with TRIzol Reagent (Invitrogen, Carlsbad, CA, USA) according to the manufacturer's protocol (Gibco Life Technologies, Paisley, UK). Normal human liver tissue obtained from normal areas during the surgical resection of hepatocellular carcinoma was used as a positive control. RNA was purified to remove contaminating DNA according to the DNA-free protocol (Ambion, Austin, TX) and quantified using a spectrophotometer. Equal amounts of RNA were used for the synthesis of cDNA. Oligonucleotide primers were human albumin (ALB, 380 bp), forward, 5'-AGC GGC ACA GCA CTT CTC TCT AGA-3', reverse, 5'-TCC ACA CGG AAT GCT GCC ATG G-3'; human cytokeratin 19 (CK19, 328 bp), forward, 5'-ATG GCC GAG CAG AAC CGG AA-3', reverse, 5'-CCA TGA GCC GCT GGT ACT CC-3'; human glutamine synthetase (GS, 397 bp), forward, 5'-GTC AAG ATT GCG GGG ACT AA-3', reverse, 5'-TAC GAT TGG CTA CAC CAC CA-3'; human &#946;-actin (256 bp), forward, 5'-GGG TCG GAA GGA TTC CTA-3', reverse, 5'-GGT CTC AAA CAT GAT CTG GG-3'; mouse glyceraldehyde 3-phosphate dehydrogenase (GAPDH) (287 bp), forward, 5'-TCC TGC ACC ACC AAC TGC TTA G-3', reverse, 5'-CAG ATC CAC AAC GGA TAC ATT G-3'. The PCR procedure consisted of 30 cycles of denaturation for 60 s at 94&#176;C, annealing for 60 s at 58&#176;C (ALB and CK19) or 60&#176;C (GS), and extension for 90 s at 72&#176;C. The samples were subjected to 35 cycles, and the PCR products were analyzed on an ethidium bromide-stained agarose gel.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Western blotting</p>
+            </st>
+            <p>Mouse sera were subjected to electrophoresis with 0.1% sodium dodecyl sulfate-7.5% polyacrylamide gel electrophoresis gel. Separated proteins were transferred to a nitrocellulose membrane (Amersham Pharmacia Biotech, Uppsala, Sweden). Human ALB protein was detected by immunoblotting using monoclonal antibody against human ALB (clone 4761; Institute of Immunology, Tokyo, Japan) diluted with 0.05% Triton X-100 in Tris-buffered saline containing 1% gelatin, followed by incubation with a goat anti-rabbit horseradish peroxidase-conjugated antibody (1:10,000 dilution) (E.I. du Pont de Nemours, Boston, MA, USA). All membranes were immunoblotted for the mouse GAPDH antibody (Santa Cruz Biotechnologies Inc., Camarillo, CA, USA) as the internal standard protein. Immunodetection using the enhanced chemiluminescence method (ECL kit; Amersham, Piscataway, NJ, USA) was performed according to the manufacturer's instructions. Normal human and nontransplanted murine sera were used as controls.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Statistical analysis</p>
+            </st>
+            <p>To assess the statistical significance of intergroup differences in quantitative data, the Mann-Whitney <it>U </it>test was used to compare mean values between the two groups. <it>P </it>&lt; 0.01 was considered statistically significant.</p>
+         </sec>
+      </sec>
+      <sec>
+         <st>
+            <p>Results</p>
+         </st>
+         <sec>
+            <st>
+               <p>G-CSF-mobilized CD34<sup>+ </sup>HSCs ameliorate radiation-induced liver injury</p>
+            </st>
+            <p>The initial challenge to study G-CSF-mobilized CD34<sup>+ </sup>cells to hepatocyte differentiation was to establish a model of acute liver damage in immunodeficient mice, in which the control mice that did not undergo transplantation would recover from the injury. Hepatic injury in NOD/SCID mice by several different doses of radiation was studied first. All mice could tolerate up to 260 cGy. On day 7 after irradiation, the extent of liver degeneration/necrosis was obvious in all experimental mice, but without significant differences among G1 and G2 mice (Figure <figr fid="F1">1d</figr>). On day 21, however, areas of liver degeneration/necrosis were smaller in G1 mice than in G2 mice (Figures <figr fid="F1">1g</figr> and <figr fid="F1">1h</figr>). In addition, to assess the liver damage induced by irradiation, the level of ALT and AST activity was measured. In G1 and G2 mice, the activity of serum ALT and AST showed initially significantly elevated and gradually decreased with time, and in the G1 mice, both ALT and AST presented significantly lower values when compared with the values found in G2 mice at the same time points (Table <tblr tid="T1">1</tblr>).</p>
+            <tbl id="T1">
+               <title>
+                  <p>Table 1</p>
+               </title>
+               <caption>
+                  <p>Effect of G-CSF-mobilized CD34<sup>+ </sup>cells on murine liver function after irradiation</p>
+               </caption>
+               <tblbdy cols="11">
+                  <r>
+                     <c ca="center">
+                        <p><b>Mice</b></p>
+                     </c>
+                     <c cspan="4" ca="center">
+                        <p><b>ALT (IU/L)</b></p>
+                     </c>
+                     <c cspan="4" ca="center">
+                        <p><b>AST (IU/L)</b></p>
+                     </c>
+                     <c cspan="2" ca="center">
+                        <p><b>ALB<sup>+</sup>/Y-chromosome<sup>+ </sup>cells</b></p>
+                     </c>
+                  </r>
+                  <r>
+                     <c>
+                        <p/>
+                     </c>
+                     <c cspan="4">
+                        <hr/>
+                     </c>
+                     <c cspan="4">
+                        <hr/>
+                     </c>
+                     <c cspan="2">
+                        <hr/>
+                     </c>
+                  </r>
+                  <r>
+                     <c>
+                        <p/>
+                     </c>
+                     <c ca="center">
+                        <p><b>0 d</b></p>
+                     </c>
+                     <c ca="center">
+                        <p><b>3 d</b></p>
+                     </c>
+                     <c ca="center">
+                        <p><b>7 d</b></p>
+                     </c>
+                     <c ca="center">
+                        <p><b>21 d</b></p>
+                     </c>
+                     <c ca="center">
+                        <p><b>0 d</b></p>
+                     </c>
+                     <c ca="center">
+                        <p><b>3 d</b></p>
+                     </c>
+                     <c ca="center">
+                        <p><b>7 d</b></p>
+                     </c>
+                     <c ca="center">
+                        <p><b>21 d</b></p>
+                     </c>
+                     <c ca="center">
+                        <p><b>14 d</b></p>
+                     </c>
+                     <c ca="center">
+                        <p><b>21 d</b></p>
+                     </c>
+                  </r>
+                  <r>
+                     <c cspan="11">
+                        <hr/>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="center">
+                        <p>G1</p>
+                     </c>
+                     <c ca="center">
+                        <p>37.9 &#177; 7.2</p>
+                     </c>
+                     <c ca="center">
+                        <p>418.3 &#177; 49.8<sup>&#8224;</sup></p>
+                     </c>
+                     <c ca="center">
+                        <p>228.3 &#177; 32.7*</p>
+                     </c>
+                     <c ca="center">
+                        <p>78.3 &#177; 5.7*</p>
+                     </c>
+                     <c ca="center">
+                        <p>31.1 &#177; 6.9</p>
+                     </c>
+                     <c ca="center">
+                        <p>398.3 &#177; 42.8<sup>&#8224;</sup></p>
+                     </c>
+                     <c ca="center">
+                        <p>256.3 &#177; 36.8*</p>
+                     </c>
+                     <c ca="center">
+                        <p>89.2 &#177; 6.4*</p>
+                     </c>
+                     <c ca="center">
+                        <p>_</p>
+                     </c>
+                     <c ca="center">
+                        <p>+<sup>#</sup></p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="center">
+                        <p>G2</p>
+                     </c>
+                     <c ca="center">
+                        <p>36.4 &#177; 6.7</p>
+                     </c>
+                     <c ca="center">
+                        <p>434.5 &#177; 53.8</p>
+                     </c>
+                     <c ca="center">
+                        <p>378.6 &#177; 51.2</p>
+                     </c>
+                     <c ca="center">
+                        <p>169.3 &#177; 34.7</p>
+                     </c>
+                     <c ca="center">
+                        <p>29.8 &#177; 6.3</p>
+                     </c>
+                     <c ca="center">
+                        <p>402.5 &#177; 46.5</p>
+                     </c>
+                     <c ca="center">
+                        <p>381.2 &#177; 50.9</p>
+                     </c>
+                     <c ca="center">
+                        <p>209.5 &#177; 38.4</p>
+                     </c>
+                     <c ca="center">
+                        <p>_</p>
+                     </c>
+                     <c ca="center">
+                        <p>_</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="center">
+                        <p>G3</p>
+                     </c>
+                     <c ca="center">
+                        <p>38.4 &#177; 7.1</p>
+                     </c>
+                     <c ca="center">
+                        <p>40.9 &#177; 6.1</p>
+                     </c>
+                     <c ca="center">
+                        <p>38.3 &#177; 6.8</p>
+                     </c>
+                     <c ca="center">
+                        <p>42.3 &#177; 6.7</p>
+                     </c>
+                     <c ca="center">
+                        <p>30.7 &#177; 6.5</p>
+                     </c>
+                     <c ca="center">
+                        <p>31.7 &#177; 6.4</p>
+                     </c>
+                     <c ca="center">
+                        <p>30.8 &#177; 6.9</p>
+                     </c>
+                     <c ca="center">
+                        <p>31.1 &#177; 6.5</p>
+                     </c>
+                     <c ca="center">
+                        <p>_</p>
+                     </c>
+                     <c ca="center">
+                        <p>_</p>
+                     </c>
+                  </r>
+               </tblbdy>
+               <tblfn>
+                  <p>Data are means &#177; SD (n = 10). *<it>P </it>&lt; 0.05 compared with the G2 mice; &#8224;<it>P </it>> 0.05 compared with the G2 mice. #Human ALB<sup>+</sup>/Y chromosome<sup>+ </sup>hepatocyte-like cells in the liver of G1 mice. G-CSF, granulocyte colony-stimulating factor; ALB, albumin; ALT, alanine aminotransferase aspartate; AST, aspartate aminotransferase.</p>
+               </tblfn>
+            </tbl>
+            <fig id="F1">
+               <title>
+                  <p>Figure 1</p>
+               </title>
+               <caption>
+                  <p>Improved morphology after liver irradiation with or without transplantation of mobilized CD34<sup>+ </sup>hematopoietic stem cells (HSCs)</p>
+               </caption>
+               <text>
+                  <p><b>Improved morphology after liver irradiation with or without transplantation of mobilized CD34<sup>+ </sup>hematopoietic stem cells (HSCs)</b>. Representative photomicrographs of the liver at 7 or 21 days after irradiation in <b>(a) </b>Group 1 (G1), <b>(b) </b>Group 2 (G2), and <b>(c) </b>Group 3 (G3) mice. <b>(d) </b>Seven days after irradiation, the extent of liver degeneration/necrosis (arrow) was not significantly different between <b>(e) </b>G1 and <b>(f) </b>G2 mice. Twenty-one days after irradiation, however, areas of liver degeneration/necrosis were smaller in <b>(g) </b>G1 mice compared with those in <b>(h) </b>G2 mice. Paraffin-embedded sections were processed for hematoxylin and eosin staining. Original magnification, &#215;20.</p>
+               </text>
+               <graphic file="scrt22-1"/>
+            </fig>
+         </sec>
+         <sec>
+            <st>
+               <p>G-CSF-mobilized CD34<sup>+ </sup>HSCs engraft into irradiated mice and differentiate</p>
+            </st>
+            <p>Considering the possible continued existence of donor-derived hematopoietic cells in recipient mice, we used triple-color immunofluorescence to discriminate between donor-derived epithelial and donor-derived haematopoietic cells in the same tissue sections. In the liver of G1 mice killed 21 days after irradiation, human ALB (Figure <figr fid="F2">2A</figr>), CK19 (Figure <figr fid="F2">2B</figr>) positive hepatocytes, both human ALB and human Y-chromosome positive hepatocytes (Figure <figr fid="F2">2C</figr>), or both human CK19 and human Y-chromosome positive hepatocyte-like cells (Figure <figr fid="F2">2D</figr>) formed cords of hepatocytes occupying ~30% of a given 4-&#956;m section surrounding portal tracts in a pattern similar to that seen in hepatic regeneration from hepatic oval cells <abbrgrp><abbr bid="B21">21</abbr><abbr bid="B22">22</abbr></abbrgrp>, but this phenomenon was not found in Groups 2 and 3 mice (data not shown). These results indicate that G-CSF-mobilized CD34<sup>+ </sup>HSCs might be capable of differentiating into ALB-producing cells in the liver of irradiated recipients.</p>
+            <fig id="F2">
+               <title>
+                  <p>Figure 2</p>
+               </title>
+               <caption>
+                  <p>Engraftment and in vivo differentiation of granulocyte colony-stimulating factor (G-CSF)-mobilized CD34<sup>+ </sup>HSCs into hepatocyte-like cells in G1 mice 21 days after irradiation and transplantation</p>
+               </caption>
+               <text>
+                  <p><b>Engraftment and in vivo differentiation of granulocyte colony-stimulating factor (G-CSF)-mobilized CD34<sup>+ </sup>HSCs into hepatocyte-like cells in G1 mice 21 days after irradiation and transplantation</b>. Deparaffinized section of liver was stained with <b>(a)</b> anti-human albumin (ALB) antibody or <b>(b)</b> anti-human cytokeratin antibody. <b>(c)</b> Liver was stained with anti-human ALB antibody (red), anti-human CD45 antibody (blue), and human Y chromosome DNA probe (green). <b>(d) </b>Liver was stained with anti-human cytokeratin antibody (red), anti-human CD45 antibody (blue), and human Y chromosome DNA probe (green). The arrow indicates Y chromosome<sup>+</sup>cytokeratin<sup>+ </sup>or Y chromosome<sup>+</sup>ALB<sup>+ </sup>cells in the liver of G1 mice. The absence of chromosomal staining in some ALB<sup>+</sup>/cytokeratin<sup>+ </sup>cell nuclei may be a result of partial sampling of nuclei in the 4-&#956;m thin tissue section. <b>(e) </b>Human serum ALB in the plasma of G1 mice was identified by Western blot analysis. Mouse glyceraldehyde 3-phosphate dehydrogenase (GAPDH) acts as internal standard. Original magnification, <b>(a-d)</b>, &#215;20; inset in <b>(c) </b>and <b>(d)</b>, &#215;60. Representative images are shown.</p>
+               </text>
+               <graphic file="scrt22-2"/>
+            </fig>
+            <p>To evaluate the function of these repopulating cells, we analyzed the production of ALB in donor-derived parenchymal cells. As shown in Figure <figr fid="F2">2E</figr>, we detected human ALB protein in the sera of the G1 mice on day 21 after irradiation. The immunoreactive band of control human serum diluted 1:100 was 103 times stronger than the faint band of nondiluted serum from the nontransplanted control mice (G2 and G3 mice). Since the concentration of ALB in the nontransplanted control mice serum of the same band scarcely changes, the strong immunoreactive bands of sera from G1 mice indicate the presence of human ALB. These observations proved that transplanted G-CSF-mobilized CD34<sup>+ </sup>HSCs developed into functional hepatocytes.</p>
+            <p>Mice were killed 7 or 21 days after transplantation with G-CSF-mobilized CD34<sup>+ </sup>HSCs. RNA samples were obtained from the livers of the mice in each group. RT-PCR was performed to detect human-specific expression of ALB, GS, and CK-19. To demonstrate the specificity of the primers to detect human ALB, GS, and CK19 mRNA, we examined the mRNA in nontransplanted mice livers (G2) and in normal control mice livers (G3). These samples were negative in every assay, and an example is shown in Figure <figr fid="F3">3</figr>. Because of the phenomenon known as "stem cell priming," in which primitive hematopoietic cells have been shown to express low levels of various mRNA before committing to a particular blood cell lineage <abbrgrp><abbr bid="B23">23</abbr><abbr bid="B24">24</abbr></abbrgrp>, we also tested the G-CSF-mobilized CD34<sup>+ </sup>HSCs for ALB, GS, and CK19 expression. As shown in Figure <figr fid="F3">3</figr>, the starting CD34<sup>+ </sup>HSCs did not express ALB, GS, or CK19 when they were freshly isolated. However, in the mice (G1) with radiation-mediated liver injury that received CD34<sup>+ </sup>HSCs transplantation 21 days later, RT-PCR analysis showed that human GS, CK19 and ALB mRNA were expressed (Figure <figr fid="F3">3</figr>), which meant a portion of the transplanted human stem cells had localized to the liver and had begun to express human ALB when analyzed 21 days after the liver damage.</p>
+            <fig id="F3">
+               <title>
+                  <p>Figure 3</p>
+               </title>
+               <caption>
+                  <p>The expression of human-specific genes of ALB, CK19, and GS by reverse transcriptase-polymerase chain reaction in the mouse liver at 21 days after irradiation</p>
+               </caption>
+               <text>
+                  <p><b>The expression of human-specific genes of ALB, CK19, and GS by reverse transcriptase-polymerase chain reaction in the mouse liver at 21 days after irradiation</b>. Representative images are shown.</p>
+               </text>
+               <graphic file="scrt22-3"/>
+            </fig>
+         </sec>
+      </sec>
+      <sec>
+         <st>
+            <p>Discussion</p>
+         </st>
+         <p>The plasticity studies reported so far in the literature have demonstrated that HSCs can differentiate to tissues other than blood <abbrgrp><abbr bid="B4">4</abbr><abbr bid="B5">5</abbr><abbr bid="B6">6</abbr><abbr bid="B7">7</abbr><abbr bid="B8">8</abbr><abbr bid="B9">9</abbr><abbr bid="B10">10</abbr><abbr bid="B11">11</abbr><abbr bid="B12">12</abbr><abbr bid="B13">13</abbr><abbr bid="B14">14</abbr><abbr bid="B15">15</abbr><abbr bid="B16">16</abbr><abbr bid="B17">17</abbr><abbr bid="B18">18</abbr><abbr bid="B19">19</abbr></abbrgrp>. In recent clinical practice, circulating HSCs numbers can be increased by mobilization from the bone marrow with G-CSF <abbrgrp><abbr bid="B25">25</abbr><abbr bid="B26">26</abbr></abbrgrp>, and the mobilization of HSCs by G-CSF has been shown to be involved in the reparation of the infarcted heart <abbrgrp><abbr bid="B8">8</abbr><abbr bid="B27">27</abbr></abbrgrp>. Therefore, we decided to address whether G-CSF-mobilized HSCs could contribute to faster recovery and promote the regeneration process after acute liver injury by radiation. The present study provides the first evidence that mobilization of G-CSF-mobilized CD34<sup>+ </sup>HSCs after liver irradiation has beneficial effects in preventing and/or reducing radiation-induced damage. In our acute radiation-induced liver injury model, G-CSF-mobilized CD34<sup>+ </sup>HSC administration ameliorated the histological damage and accelerated the regeneration process. In all animals sacrificed 21 days posttransplantation, immunohistochemical analysis showed human ALB/cytokeratin-positive cells in mobilized CD34<sup>+ </sup>HSC-treated mouse liver. FISH analysis using the human Y chromosome also showed positive signals. In contrast, immunopositive cells were not detected in the irradiated control group. Furthermore, human-specific ALB mRNA was expressed in the liver, and human ALB was detected in the serum only in the mobilized CD34<sup>+ </sup>HSCs-treated mice. These observations prove that transplanted G-CSF-mobilized CD34<sup>+ </sup>HSCs might develop into functional hepatocytes.</p>
+         <p>Recently, cell fusion was suggested as an explanation for stem cell plasticity. Some scholars raise doubts about whether transdifferentiation or dedifferentiation actually occurs <abbrgrp><abbr bid="B28">28</abbr><abbr bid="B29">29</abbr><abbr bid="B30">30</abbr></abbrgrp>. Their findings in vitro or in vivo suggested that stem cell "transdifferentiation" or "plasticity" is a result of cell fusion events. In this study, we did not determine whether fusion of G-CSF-mobilized CD34<sup>+ </sup>HSCs with liver cells was responsible for their hepatocyte-like morphology or whether the cells change their fate in vivo in response to local cues after transplantation.</p>
+         <p>So the question remains as to what is the role of G-CSF-mobilized HSCs in the regeneration of radiation-induced liver injury and what is the regenerative process. Recently, Yannaki <it>et al</it>. <abbrgrp><abbr bid="B31">31</abbr></abbrgrp> indicated that treatment with G-CSF-mobilized HSCs significantly improved survival and liver histology in chemically injured mice, predominantly by promoting endogenous repair mechanisms. Similar regenerative processes have been reported in organisms such as salamanders and <it>Caenorhabditis elegans</it>. In addition, bone marrow-derived stem cells could initiate pancreatic regeneration <abbrgrp><abbr bid="B32">32</abbr></abbrgrp>. However, in our study, the percentage of G-CSF-mobilized CD34<sup>+ </sup>HSC-derived hepatocyte-like cells present in sections of irradiated hepatic tissues was much higher than that reported by Yannaki <it>et al</it>. <abbrgrp><abbr bid="B31">31</abbr></abbrgrp>. So we suggest it might be G-CSF-mobilized CD34<sup>+ </sup>HSCs that ameliorate radiation-induced damage to liver by the ability to generate hepatocytes, although we still could not exclude the possibility that endogenous hepatic stem cells are also involved in regenerative processes at the same time. However, despite the obscurity of the cellular mechanism, the ability of G-CSF-mobilized HSCs to reestablish physiological function in the whole animal has been documented <abbrgrp><abbr bid="B6">6</abbr><abbr bid="B8">8</abbr><abbr bid="B18">18</abbr><abbr bid="B19">19</abbr><abbr bid="B31">31</abbr></abbrgrp>.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Conclusions</p>
+         </st>
+         <p>In summary, our data suggest that G-CSF-mobilized CD34<sup>+ </sup>HSCs, given their potential to engraft into liver tissue and their ability to ameliorate the injurious effects of radiation, might provide a new approach for the treatment of some liver diseases. This study indicates a clinical applicable protocol for the use of HSC mobilization to ameliorate radiation-induced damage.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Abbreviations</p>
+         </st>
+         <p>ALB: albumin; ALT: alanine aminotransferase aspartate; FISH: fluorescence in situ hybridization; G-CSF: granulocyte colony-stimulating factor; HSCs: hematopoietic stem cells; NOD/SCID: non-obese diabetic/severe combined immunodeficient.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Competing interests</p>
+         </st>
+         <p>The authors declare that they have no competing interests.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Authors' contributions</p>
+         </st>
+         <p>NL, LZ, and BF contributed to the conception and design, interpretation of data, and drafted the manuscript. NL, LZ, and HL performed research and collected data. All authors read and approved the final manuscript.</p>
+      </sec>
+   </bdy>
+   <bm>
+      <ack>
+         <sec>
+            <st>
+               <p>Acknowledgements</p>
+            </st>
+            <p>We thank the staff at the Center of Excellence in Tissue Engineering, CAMS &amp; PUMC. The expert technical assistance of Huixiang Li and Changlu Ma at the Department of Pathology, the First Affiliated Hospital, Zhengzhou University, is highly appreciated.</p>
+            <p>CAMA = Chinese Academy of Medical Sciences; PUMC = Peking Union Medical College</p>
+         </sec>
+      </ack>
+      <refgrp>
+         <bibl id="B1">
+            <title>
+               <p>Partial irradiation of the liver</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Dawson</snm>
+                  <fnm>LA</fnm>
+               </au>
+               <au>
+                  <snm>Ten Haken</snm>
+                  <fnm>RK</fnm>
+               </au>
+               <au>
+                  <snm>Lawrence</snm>
+                  <fnm>TS</fnm>
+               </au>
+            </aug>
+            <source>Semin Radiat Oncol</source>
+            <pubdate>2001</pubdate>
+            <volume>11</volume>
+            <fpage>240</fpage>
+            <lpage>246</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1053/srao.2001.23485</pubid>
+                  <pubid idtype="pmpid" link="fulltext">11447581</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B2">
+            <title>
+               <p>Hepatocyte growth factor gene therapy prevents radiation-induced liver damage</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Chi</snm>
+                  <fnm>CH</fnm>
+               </au>
+               <au>
+                  <snm>Liu</snm>
+                  <fnm>IL</fnm>
+               </au>
+               <au>
+                  <snm>Lo</snm>
+                  <fnm>WY</fnm>
+               </au>
+               <au>
+                  <snm>Liaw</snm>
+                  <fnm>BS</fnm>
+               </au>
+               <au>
+                  <snm>Wang</snm>
+                  <fnm>YS</fnm>
+               </au>
+               <au>
+                  <snm>Chi</snm>
+                  <fnm>KH</fnm>
+               </au>
+            </aug>
+            <source>World J Gastroenterol</source>
+            <pubdate>2005</pubdate>
+            <volume>11</volume>
+            <fpage>1496</fpage>
+            <lpage>1502</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid" link="fulltext">15770726</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B3">
+            <title>
+               <p>The new stem cell biology: something for everyone</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Preston</snm>
+                  <fnm>SL</fnm>
+               </au>
+               <au>
+                  <snm>Alison</snm>
+                  <fnm>MR</fnm>
+               </au>
+               <au>
+                  <snm>Forbes</snm>
+                  <fnm>SJ</fnm>
+               </au>
+               <au>
+                  <snm>Direkze</snm>
+                  <fnm>NC</fnm>
+               </au>
+               <au>
+                  <snm>Poulsom</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Wright</snm>
+                  <fnm>NA</fnm>
+               </au>
+            </aug>
+            <source>Mol Pathol</source>
+            <pubdate>2003</pubdate>
+            <volume>56</volume>
+            <fpage>86</fpage>
+            <lpage>96</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1136/mp.56.2.86</pubid>
+                  <pubid idtype="pmcid">1187299</pubid>
+                  <pubid idtype="pmpid">12665626</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B4">
+            <title>
+               <p>Origins of circulating endothelial cells and endothelial outgrowth from blood</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Lin</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Weisdorf</snm>
+                  <fnm>DJ</fnm>
+               </au>
+               <au>
+                  <snm>Solovey</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Hebbel</snm>
+                  <fnm>RP</fnm>
+               </au>
+            </aug>
+            <source>J Clin Invest</source>
+            <pubdate>2000</pubdate>
+            <volume>105</volume>
+            <fpage>71</fpage>
+            <lpage>77</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1172/JCI8071</pubid>
+                  <pubid idtype="pmcid">382587</pubid>
+                  <pubid idtype="pmpid">10619863</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B5">
+            <title>
+               <p>Mobilized bone marrow cells repair the infarcted heart, improving function and survival</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Orlic</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Kajstura</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Chimenti</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Limana</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Jakoniuk</snm>
+                  <fnm>I</fnm>
+               </au>
+               <au>
+                  <snm>Quaini</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Nadal-Ginard</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Bodine</snm>
+                  <fnm>DM</fnm>
+               </au>
+               <au>
+                  <snm>Leri</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Anversa</snm>
+                  <fnm>P</fnm>
+               </au>
+            </aug>
+            <source>Proc Natl Acad Sci USA</source>
+            <pubdate>2001</pubdate>
+            <volume>98</volume>
+            <fpage>10344</fpage>
+            <lpage>10349</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1073/pnas.181177898</pubid>
+                  <pubid idtype="pmcid">56963</pubid>
+                  <pubid idtype="pmpid">11504914</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B6">
+            <title>
+               <p>Autologous bone-marrow stem-cell transplantation for myocardial regeneration</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Stamm</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Westphal</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Kleine</snm>
+                  <fnm>HD</fnm>
+               </au>
+               <au>
+                  <snm>Petzsch</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Kittner</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Klinge</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Sch&#252;michen</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Nienaber</snm>
+                  <fnm>CA</fnm>
+               </au>
+               <au>
+                  <snm>Freund</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Steinhoff</snm>
+                  <fnm>G</fnm>
+               </au>
+            </aug>
+            <source>Lancet</source>
+            <pubdate>2003</pubdate>
+            <volume>361</volume>
+            <fpage>45</fpage>
+            <lpage>46</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/S0140-6736(03)12110-1</pubid>
+                  <pubid idtype="pmpid" link="fulltext">12517467</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B7">
+            <title>
+               <p>Influence of mobilized stem cells on myocardial infarct repair in a nonhuman primate model</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Norol</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Merlet</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Isnard</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Sebillon</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Bonnet</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Cailliot</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Carrion</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Ribeiro</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Charlotte</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Pradeau</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Mayol</snm>
+                  <fnm>JF</fnm>
+               </au>
+               <au>
+                  <snm>Peinnequin</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Drouet</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Safsafi</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Vernant</snm>
+                  <fnm>JP</fnm>
+               </au>
+               <au>
+                  <snm>Herodin</snm>
+                  <fnm>F</fnm>
+               </au>
+            </aug>
+            <source>Blood</source>
+            <pubdate>2003</pubdate>
+            <volume>102</volume>
+            <fpage>4361</fpage>
+            <lpage>4368</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1182/blood-2003-03-0685</pubid>
+                  <pubid idtype="pmpid" link="fulltext">12947003</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B8">
+            <title>
+               <p>G-CSF treatment increases side population cell infiltration after myocardial infarction in mice</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Adachi</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Imagawa</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Suzuki</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Yogo</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Fukazawa</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Kuromaru</snm>
+                  <fnm>O</fnm>
+               </au>
+               <au>
+                  <snm>Saito</snm>
+                  <fnm>Y</fnm>
+               </au>
+            </aug>
+            <source>J Mol Cell Cardiol</source>
+            <pubdate>2004</pubdate>
+            <volume>36</volume>
+            <fpage>707</fpage>
+            <lpage>710</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.yjmcc.2004.03.005</pubid>
+                  <pubid idtype="pmpid" link="fulltext">15135666</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B9">
+            <title>
+               <p>Treatment with granulocyte colony-stimulating factor for mobilization of bone marrow cells in patients with acute myocardial infarction</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Kuethe</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Figulla</snm>
+                  <fnm>HR</fnm>
+               </au>
+               <au>
+                  <snm>Herzau</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Voth</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Fritzenwanger</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Opfermann</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Pachmann</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Krack</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Sayer</snm>
+                  <fnm>HG</fnm>
+               </au>
+               <au>
+                  <snm>Gottschild</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Werner</snm>
+                  <fnm>GS</fnm>
+               </au>
+            </aug>
+            <source>Am Heart J</source>
+            <pubdate>2005</pubdate>
+            <volume>150</volume>
+            <fpage>115</fpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.ahj.2005.04.030</pubid>
+                  <pubid idtype="pmpid" link="fulltext">16086558</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B10">
+            <title>
+               <p>Hematopoietic cells differentiate into both microglia and macroglia in the brains of adult mice</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Eglitis</snm>
+                  <fnm>MA</fnm>
+               </au>
+               <au>
+                  <snm>Mezey</snm>
+                  <fnm>E</fnm>
+               </au>
+            </aug>
+            <source>Proc Natl Acad Sci USA</source>
+            <pubdate>1997</pubdate>
+            <volume>94</volume>
+            <fpage>4080</fpage>
+            <lpage>4085</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1073/pnas.94.8.4080</pubid>
+                  <pubid idtype="pmcid">20571</pubid>
+                  <pubid idtype="pmpid">9108108</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B11">
+            <title>
+               <p>Grenzg&#228;nger: adult bone marrow cells populate the brain</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Priller</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <cnm>Robert Feulgen Prize Lecture</cnm>
+               </au>
+            </aug>
+            <source>Histochem Cell Biol</source>
+            <pubdate>2003</pubdate>
+            <volume>120</volume>
+            <fpage>85</fpage>
+            <lpage>91</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1007/s00418-003-0559-7</pubid>
+                  <pubid idtype="pmpid" link="fulltext">12898276</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B12">
+            <title>
+               <p>Purified hematopoietic stem cells can differentiate into hepatocytes in vivo</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Lagasse</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Connors</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Al-Dhalimy</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Reitsma</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Dohse</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Osborne</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Wang</snm>
+                  <fnm>X</fnm>
+               </au>
+               <au>
+                  <snm>Finegold</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Weissman</snm>
+                  <fnm>IL</fnm>
+               </au>
+               <au>
+                  <snm>Grompe</snm>
+                  <fnm>M</fnm>
+               </au>
+            </aug>
+            <source>Nat Med</source>
+            <pubdate>2000</pubdate>
+            <volume>6</volume>
+            <fpage>1229</fpage>
+            <lpage>1234</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/81326</pubid>
+                  <pubid idtype="pmpid" link="fulltext">11062533</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B13">
+            <title>
+               <p>Derivation of hepatocytes from bone marrow cells in mice after radiation-induced myeloablation</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Theise</snm>
+                  <fnm>ND</fnm>
+               </au>
+               <au>
+                  <snm>Badve</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Saxena</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Henegariu</snm>
+                  <fnm>O</fnm>
+               </au>
+               <au>
+                  <snm>Sell</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Crawford</snm>
+                  <fnm>JM</fnm>
+               </au>
+               <au>
+                  <snm>Krause</snm>
+                  <fnm>DS</fnm>
+               </au>
+            </aug>
+            <source>Hepatology</source>
+            <pubdate>2000</pubdate>
+            <volume>31</volume>
+            <fpage>235</fpage>
+            <lpage>240</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1002/hep.510310135</pubid>
+                  <pubid idtype="pmpid" link="fulltext">10613752</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B14">
+            <title>
+               <p>Liver from bone marrow in humans</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Theise</snm>
+                  <fnm>ND</fnm>
+               </au>
+               <au>
+                  <snm>Nimmakayalu</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Gardner</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Illei</snm>
+                  <fnm>PB</fnm>
+               </au>
+               <au>
+                  <snm>Morgan</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Teperman</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Henegariu</snm>
+                  <fnm>O</fnm>
+               </au>
+               <au>
+                  <snm>Krause</snm>
+                  <fnm>DS</fnm>
+               </au>
+            </aug>
+            <source>Hepatology</source>
+            <pubdate>2000</pubdate>
+            <volume>32</volume>
+            <fpage>11</fpage>
+            <lpage>16</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1053/jhep.2000.9124</pubid>
+                  <pubid idtype="pmpid" link="fulltext">10869283</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B15">
+            <title>
+               <p>Bone marrow contributes to renal parenchymal turnover and regeneration</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Poulsom</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Forbes</snm>
+                  <fnm>SJ</fnm>
+               </au>
+               <au>
+                  <snm>Hodivala-Dilke</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Ryan</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Wyles</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Navaratnarasah</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Jeffery</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Hunt</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Alison</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Cook</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Pusey</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Wright</snm>
+                  <fnm>NA</fnm>
+               </au>
+            </aug>
+            <source>J Pathol</source>
+            <pubdate>2001</pubdate>
+            <volume>195</volume>
+            <fpage>229</fpage>
+            <lpage>235</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1002/path.976</pubid>
+                  <pubid idtype="pmpid" link="fulltext">11592103</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B16">
+            <title>
+               <p>Bone marrow-derived cells contribute to lung regeneration after elastase-induced pulmonary emphysema</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Ishizawa</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Kubo</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Yamada</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Kobayashi</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Numasaki</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Ueda</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Suzuki</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Sasaki</snm>
+                  <fnm>H</fnm>
+               </au>
+            </aug>
+            <source>FEBS Lett</source>
+            <pubdate>2004</pubdate>
+            <volume>556</volume>
+            <fpage>249</fpage>
+            <lpage>252</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/S0014-5793(03)01399-1</pubid>
+                  <pubid idtype="pmpid" link="fulltext">14706858</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B17">
+            <title>
+               <p>Isolation of putative progenitor endothelial cells for angiogenesis</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Asahara</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Murohara</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Sullivan</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Silver</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>van der Zee</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Li</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Witzenbichler</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Schatteman</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Isner</snm>
+                  <fnm>JM</fnm>
+               </au>
+            </aug>
+            <source>Science</source>
+            <pubdate>1997</pubdate>
+            <volume>275</volume>
+            <fpage>964</fpage>
+            <lpage>967</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1126/science.275.5302.964</pubid>
+                  <pubid idtype="pmpid" link="fulltext">9020076</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B18">
+            <title>
+               <p>Mobilization of bone marrow stem cells by granulocyte colony-stimulating factor ameliorates radiation-induced damage to salivary glands</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Lombaert</snm>
+                  <fnm>IM</fnm>
+               </au>
+               <au>
+                  <snm>Wierenga</snm>
+                  <fnm>PK</fnm>
+               </au>
+               <au>
+                  <snm>Kok</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Kampinga</snm>
+                  <fnm>HH</fnm>
+               </au>
+               <au>
+                  <snm>deHaan</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Coppes</snm>
+                  <fnm>RP</fnm>
+               </au>
+            </aug>
+            <source>Clin Cancer Res</source>
+            <pubdate>2006</pubdate>
+            <volume>12</volume>
+            <fpage>1804</fpage>
+            <lpage>1812</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1158/1078-0432.CCR-05-2381</pubid>
+                  <pubid idtype="pmpid" link="fulltext">16551865</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B19">
+            <title>
+               <p>Acceleration of the healing process and myocardial regeneration may be important as a mechanism of improvement of cardiac function and remodeling by postinfarction granulocyte colony-stimulating factor treatment</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Minatoguchi</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Takemura</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Chen</snm>
+                  <fnm>XH</fnm>
+               </au>
+               <au>
+                  <snm>Wang</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Uno</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Koda</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Arai</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Misao</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Lu</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Suzuki</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Goto</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Komada</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Takahashi</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Kosai</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Fujiwara</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Fujiwara</snm>
+                  <fnm>H</fnm>
+               </au>
+            </aug>
+            <source>Circulation</source>
+            <pubdate>2004</pubdate>
+            <volume>109</volume>
+            <fpage>2572</fpage>
+            <lpage>2580</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1161/01.CIR.0000129770.93985.3E</pubid>
+                  <pubid idtype="pmpid" link="fulltext">15123535</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B20">
+            <title>
+               <p>The role of tumor necrosis factor-&#945; in liver toxicity, inflammation, and fibrosis induced by carbon tetrachloride</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Simeonova</snm>
+                  <fnm>PP</fnm>
+               </au>
+               <au>
+                  <snm>Gallucci</snm>
+                  <fnm>RM</fnm>
+               </au>
+               <au>
+                  <snm>Hulderman</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Wilson</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Kommineni</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Rao</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Luster</snm>
+                  <fnm>MI</fnm>
+               </au>
+            </aug>
+            <source>Toxicol Appl Pharmacol</source>
+            <pubdate>2001</pubdate>
+            <volume>177</volume>
+            <fpage>112</fpage>
+            <lpage>120</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1006/taap.2001.9304</pubid>
+                  <pubid idtype="pmpid" link="fulltext">11740910</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B21">
+            <title>
+               <p>Hepatic stem cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Alison</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Sarraf</snm>
+                  <fnm>C</fnm>
+               </au>
+            </aug>
+            <source>J Hepatol</source>
+            <pubdate>1998</pubdate>
+            <volume>29</volume>
+            <fpage>676</fpage>
+            <lpage>682</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/S0168-8278(98)80165-7</pubid>
+                  <pubid idtype="pmpid" link="fulltext">9824279</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B22">
+            <title>
+               <p>Bone marrow as a potential source of hepatic oval cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Petersen</snm>
+                  <fnm>BE</fnm>
+               </au>
+               <au>
+                  <snm>Bowen</snm>
+                  <fnm>WC</fnm>
+               </au>
+               <au>
+                  <snm>Patrene</snm>
+                  <fnm>KD</fnm>
+               </au>
+               <au>
+                  <snm>Mars</snm>
+                  <fnm>WM</fnm>
+               </au>
+               <au>
+                  <snm>Sullivan</snm>
+                  <fnm>AK</fnm>
+               </au>
+               <au>
+                  <snm>Murase</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Boggs</snm>
+                  <fnm>SS</fnm>
+               </au>
+               <au>
+                  <snm>Greenberger</snm>
+                  <fnm>JS</fnm>
+               </au>
+               <au>
+                  <snm>Goff</snm>
+                  <fnm>JP</fnm>
+               </au>
+            </aug>
+            <source>Science</source>
+            <pubdate>1999</pubdate>
+            <volume>284</volume>
+            <fpage>1168</fpage>
+            <lpage>1170</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1126/science.284.5417.1168</pubid>
+                  <pubid idtype="pmpid" link="fulltext">10325227</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B23">
+            <title>
+               <p>The lineage commitment of haemopoietic progenitor cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Cross</snm>
+                  <fnm>MA</fnm>
+               </au>
+               <au>
+                  <snm>Enver</snm>
+                  <fnm>T</fnm>
+               </au>
+            </aug>
+            <source>Curr Opin Genet Dev</source>
+            <pubdate>1997</pubdate>
+            <volume>7</volume>
+            <fpage>609</fpage>
+            <lpage>613</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/S0959-437X(97)80007-X</pubid>
+                  <pubid idtype="pmpid" link="fulltext">9388776</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B24">
+            <title>
+               <p>Multilineage gene expression precedes commitment in the hemopoietic system</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Hu</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Krause</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Greaves</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Sharkis</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Dexter</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Heyworth</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Enver</snm>
+                  <fnm>T</fnm>
+               </au>
+            </aug>
+            <source>Genes Dev</source>
+            <pubdate>1997</pubdate>
+            <volume>11</volume>
+            <fpage>774</fpage>
+            <lpage>785</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1101/gad.11.6.774</pubid>
+                  <pubid idtype="pmpid" link="fulltext">9087431</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B25">
+            <title>
+               <p>Cyclophosphamide/granulocyte colony-stimulating factor causes selective mobilization of bone marrow hematopoietic stem cells into the blood after M phase of the cell cycle</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Wright</snm>
+                  <fnm>DE</fnm>
+               </au>
+               <au>
+                  <snm>Cheshier</snm>
+                  <fnm>SH</fnm>
+               </au>
+               <au>
+                  <snm>Wagers</snm>
+                  <fnm>AJ</fnm>
+               </au>
+               <au>
+                  <snm>Randall</snm>
+                  <fnm>TD</fnm>
+               </au>
+               <au>
+                  <snm>Christensen</snm>
+                  <fnm>JL</fnm>
+               </au>
+               <au>
+                  <snm>Weissman</snm>
+                  <fnm>IL</fnm>
+               </au>
+            </aug>
+            <source>Blood</source>
+            <pubdate>2001</pubdate>
+            <volume>97</volume>
+            <fpage>2278</fpage>
+            <lpage>2285</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1182/blood.V97.8.2278</pubid>
+                  <pubid idtype="pmpid" link="fulltext">11290588</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B26">
+            <title>
+               <p>Current understanding of stem cell mobilization: the roles of chemokines, proteolytic enzymes, adhesion molecules, cytokines, and stromal cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Lapidot</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Petit</snm>
+                  <fnm>I</fnm>
+               </au>
+            </aug>
+            <source>Exp Hematol</source>
+            <pubdate>2002</pubdate>
+            <volume>30</volume>
+            <fpage>973</fpage>
+            <lpage>981</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/S0301-472X(02)00883-4</pubid>
+                  <pubid idtype="pmpid" link="fulltext">12225788</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B27">
+            <title>
+               <p>G-CSF promotes bone marrow cells to migrate into infarcted mice heart, and differentiate into cardiomyocytes</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Fukuhara</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Tomita</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Nakatani</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Ohtsu</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Ishida</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Yutani</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Kitamura</snm>
+                  <fnm>S</fnm>
+               </au>
+            </aug>
+            <source>Cell Transplant</source>
+            <pubdate>2004</pubdate>
+            <volume>13</volume>
+            <fpage>741</fpage>
+            <lpage>748</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.3727/000000004783983486</pubid>
+                  <pubid idtype="pmpid" link="fulltext">15690975</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B28">
+            <title>
+               <p>Bone marrow cells adopt the phenotype of other cells by spontaneous cell fusion</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Terada</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Hamazaki</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Oka</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Hoki</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Mastalerz</snm>
+                  <fnm>DM</fnm>
+               </au>
+               <au>
+                  <snm>Nakano</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Meyer</snm>
+                  <fnm>EM</fnm>
+               </au>
+               <au>
+                  <snm>Morel</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Petersen</snm>
+                  <fnm>BE</fnm>
+               </au>
+               <au>
+                  <snm>Scott</snm>
+                  <fnm>EW</fnm>
+               </au>
+            </aug>
+            <source>Nature</source>
+            <pubdate>2002</pubdate>
+            <volume>416</volume>
+            <fpage>542</fpage>
+            <lpage>545</lpage>
+            <xrefbib>
+               <pubid idtype="doi">10.1038/nature730</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B29">
+            <title>
+               <p>Cell fusion is the principal source of bone-marrow-derived hepatocytes</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Wang</snm>
+                  <fnm>X</fnm>
+               </au>
+               <au>
+                  <snm>Willenbring</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Akkari</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Torimaru</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Foster</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Al-Dhalimy</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Lagasse</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Finegold</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Olson</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Grompe</snm>
+                  <fnm>M</fnm>
+               </au>
+            </aug>
+            <source>Nature</source>
+            <pubdate>2003</pubdate>
+            <volume>422</volume>
+            <fpage>897</fpage>
+            <lpage>901</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/nature01531</pubid>
+                  <pubid idtype="pmpid" link="fulltext">12665832</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B30">
+            <title>
+               <p>Transplanted bone marrow regenerates liver by cell fusion</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Vassilopoulos</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Wang</snm>
+                  <fnm>PR</fnm>
+               </au>
+               <au>
+                  <snm>Russell</snm>
+                  <fnm>DW</fnm>
+               </au>
+            </aug>
+            <source>Nature</source>
+            <pubdate>2003</pubdate>
+            <volume>422</volume>
+            <fpage>901</fpage>
+            <lpage>904</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/nature01539</pubid>
+                  <pubid idtype="pmpid" link="fulltext">12665833</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B31">
+            <title>
+               <p>G-CSF-primed hematopoietic stem cells or G-CSF per se accelerate recovery and improve survival after liver injury, predominantly by promoting endogenous repair programs</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Yannaki</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Athanasiou</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Xagorari</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Constantinou</snm>
+                  <fnm>V</fnm>
+               </au>
+               <au>
+                  <snm>Batsis</snm>
+                  <fnm>I</fnm>
+               </au>
+               <au>
+                  <snm>Kaloyannidis</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Proya</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Anagnostopoulos</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Fassas</snm>
+                  <fnm>A</fnm>
+               </au>
+            </aug>
+            <source>Exp Hematol</source>
+            <pubdate>2005</pubdate>
+            <volume>33</volume>
+            <fpage>108</fpage>
+            <lpage>119</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.exphem.2004.09.005</pubid>
+                  <pubid idtype="pmpid" link="fulltext">15661404</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B32">
+            <title>
+               <p>Bone marrow-derived stem cells initiate pancreatic regeneration</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Hess</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Li</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Martin</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Sakano</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Hill</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Strutt</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Thyssen</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Gray</snm>
+                  <fnm>DA</fnm>
+               </au>
+               <au>
+                  <snm>Bhatia</snm>
+                  <fnm>M</fnm>
+               </au>
+            </aug>
+            <source>Nat Biotechnol</source>
+            <pubdate>2003</pubdate>
+            <volume>21</volume>
+            <fpage>763</fpage>
+            <lpage>770</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/nbt841</pubid>
+                  <pubid idtype="pmpid" link="fulltext">12819790</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+      </refgrp>
+   </bm>
+</art>

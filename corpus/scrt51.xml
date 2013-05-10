@@ -1,0 +1,1819 @@
+<!DOCTYPE art SYSTEM "article.dtd">
+<art>
+   <ui>scrt51</ui>
+   <ji>1757-6512</ji>
+   <fm>
+      <dochead>Research</dochead>
+      <bibl>
+         <title>
+            <p>Fibroblasts derived from human embryonic stem cells direct development and repair of 3D human skin equivalents</p>
+         </title>
+         <aug>
+            <au id="A1">
+               <snm>Shamis</snm>
+               <fnm>Yulia</fnm>
+               <insr iid="I1"/>
+               <email>yulia.shamis@tufts.edu</email>
+            </au>
+            <au id="A2">
+               <snm>Hewitt</snm>
+               <mi>J</mi>
+               <fnm>Kyle</fnm>
+               <insr iid="I1"/>
+               <email>Kyle.Hewitt@tufts.edu</email>
+            </au>
+            <au id="A3">
+               <snm>Carlson</snm>
+               <mi>W</mi>
+               <fnm>Mark</fnm>
+               <insr iid="I2"/>
+               <email>Mark.Carlson@tufts.edu</email>
+            </au>
+            <au id="A4">
+               <snm>Margvelashvilli</snm>
+               <fnm>Mariam</fnm>
+               <insr iid="I2"/>
+               <email>Mariam.Margvelashvili@tufts.edu</email>
+            </au>
+            <au id="A5">
+               <snm>Dong</snm>
+               <fnm>Shumin</fnm>
+               <insr iid="I2"/>
+               <email>shumindong@gmail.com</email>
+            </au>
+            <au id="A6">
+               <snm>Kuo</snm>
+               <mi>K</mi>
+               <fnm>Catherine</fnm>
+               <insr iid="I3"/>
+               <email>CatherineK.Kuo@tufts.edu</email>
+            </au>
+            <au id="A7">
+               <snm>Daheron</snm>
+               <fnm>Laurence</fnm>
+               <insr iid="I4"/>
+               <email>LDAHERON@PARTNERS.ORG</email>
+            </au>
+            <au id="A8">
+               <snm>Egles</snm>
+               <fnm>Christophe</fnm>
+               <insr iid="I2"/>
+               <email>christophe.egles@tufts.edu</email>
+            </au>
+            <au ca="yes" id="A9">
+               <snm>Garlick</snm>
+               <mi>A</mi>
+               <fnm>Jonathan</fnm>
+               <insr iid="I1"/>
+               <insr iid="I2"/>
+               <email>Jonathan.Garlick@tufts.edu</email>
+            </au>
+         </aug>
+         <insg>
+            <ins id="I1">
+               <p>Program in Cell, Molecular and Developmental Biology, Sackler School of Graduate Biomedical Sciences, Tufts University School of Medicine, 136 Harrison Avenue, Boston, MA, 02111, USA</p>
+            </ins>
+            <ins id="I2">
+               <p>Department of Oral and Maxillofacial Pathology, Tufts University School of Dental Medicine, 1 Kneeland street, Boston, MA, 02111, USA</p>
+            </ins>
+            <ins id="I3">
+               <p>Department of Biomedical Engineering, Tufts University, 4 Colby street, Medford, MA, 02155, USA</p>
+            </ins>
+            <ins id="I4">
+               <p>Massachusetts General Hospital, Center for Regenerative Medicine and Technology, 185 Cambridge Street, Boston, MA, 02114, USA</p>
+            </ins>
+         </insg>
+         <source>Stem Cell Research &amp; Therapy</source>
+         <issn>1757-6512</issn>
+         <pubdate>2011</pubdate>
+         <volume>2</volume>
+         <issue>1</issue>
+         <fpage>10</fpage>
+         <url>http://stemcellres.com/content/2/1/10</url>
+         <xrefbib>
+            <pubidlist>
+               <pubid idtype="doi">10.1186/scrt51</pubid>
+               <pubid idtype="pmpid">21338517</pubid>
+            </pubidlist>
+         </xrefbib>
+      </bibl>
+      <history>
+         <rec>
+            <date>
+               <day>28</day>
+               <month>7</month>
+               <year>2010</year>
+            </date>
+         </rec>
+         <acc>
+            <date>
+               <day>21</day>
+               <month>2</month>
+               <year>2011</year>
+            </date>
+         </acc>
+         <pub>
+            <date>
+               <day>21</day>
+               <month>2</month>
+               <year>2011</year>
+            </date>
+         </pub>
+      </history>
+      <cpyrt>
+         <year>2011</year>
+         <collab>Shamis et al.; licensee BioMed Central Ltd.</collab>
+         <note>This is an open access article distributed under the terms of the Creative Commons Attribution License (<url>http://creativecommons.org/licenses/by/2.0</url>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</note>
+      </cpyrt>
+      <abs>
+         <sec>
+            <st>
+               <p>Abstract</p>
+            </st>
+            <sec>
+               <st>
+                  <p>Introduction</p>
+               </st>
+               <p>Pluripotent, human stem cells hold tremendous promise as a source of progenitor and terminally differentiated cells for application in future regenerative therapies. However, such therapies will be dependent upon the development of novel approaches that can best assess tissue outcomes of pluripotent stem cell-derived cells and will be essential to better predict their safety and stability following <it>in vivo </it>transplantation.</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>Methods</p>
+               </st>
+               <p>In this study we used engineered, human skin equivalents (HSEs) as a platform to characterize fibroblasts that have been derived from human embryonic stem (hES) cell. We characterized the phenotype and the secretion profile of two distinct hES-derived cell lines with properties of mesenchymal cells (EDK and H9-MSC) and compared their biological potential upon induction of differentiation to bone and fat and following their incorporation into the stromal compartment of engineered, HSEs.</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>Results</p>
+               </st>
+               <p>While both EDK and H9-MSC cell lines exhibited similar morphology and mesenchymal cell marker expression, they demonstrated distinct functional properties when incorporated into the stromal compartment of HSEs. EDK cells displayed characteristics of dermal fibroblasts that could support epithelial tissue development and enable re-epithelialization of wounds generated using a 3D tissue model of cutaneous wound healing, which was linked to elevated production of hepatocyte growth factor (HGF). Lentiviral shRNA-mediated knockdown of HGF resulted in a dramatic decrease of HGF secretion from EDK cells that led to a marked reduction in their ability to promote keratinocyte proliferation and re-epithelialization of cutaneous wounds. In contrast, H9-MSCs demonstrated features of mesenchymal stem cells (MSC) but not those of dermal fibroblasts, as they underwent multilineage differentiation in monolayer culture, but were unable to support epithelial tissue development and repair and produced significantly lower levels of HGF.</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>Conclusions</p>
+               </st>
+               <p>Our findings demonstrate that hES-derived cells could be directed to specified and alternative mesenchymal cell fates whose function could be distinguished in engineered HSEs. Characterization of hES-derived mesenchymal cells in 3D, engineered HSEs demonstrates the utility of this tissue platform to predict the functional properties of hES-derived fibroblasts before their therapeutic transplantation.</p>
+            </sec>
+         </sec>
+      </abs>
+   </fm>
+   <meta>
+      <classifications>
+         <classification id="refman" subtype="user_supplied_xml" type="bmc"/>
+      </classifications>
+   </meta>
+   <bdy>
+      <sec>
+         <st>
+            <p>Introduction</p>
+         </st>
+         <p>The use of pluripotent, human stem cells, including human embryonic stem (hES) cells and human induced pluripotent stem (hiPS) cells, for future therapies provides advantages over more traditional sources of progenitor cells, such as adult stem cells, due to their ability to give rise to a variety of differentiated cell types and to their unlimited expansion potential <abbrgrp><abbr bid="B1">1</abbr><abbr bid="B2">2</abbr></abbrgrp>. However, such therapies will be dependent upon the development of novel approaches that can best assess tissue outcomes of hES- and hiPS-derived cells and will be essential to better predict their safety and stability following <it>in vivo </it>transplantation. One possible approach would be to use three dimensional (3D), engineered tissues to monitor the functional outcomes of hES- and hiPS-derived cells. By providing an <it>in vivo</it>-like microenvironment that enables progenitor cells to manifest their <it>in vivo </it>characteristics in 3D tissue context, tissue engineering can play an important role in determining the function, stability, and safety of hES- and hiPS-derived cells before their future application.</p>
+         <p>Stromal fibroblasts play a critical role in regulating tissue homeostasis and wound repair through the synthesis of extracellular matrix proteins and by secreting paracrine-acting growth factors and cytokines that have a direct effect on the proliferation and differentiation of adjacent epithelial tissues <abbrgrp><abbr bid="B3">3</abbr><abbr bid="B4">4</abbr><abbr bid="B5">5</abbr><abbr bid="B6">6</abbr></abbrgrp>. Despite the critical impact of this reciprocal cross-talk between stromal fibroblasts and epithelial cells on tissue homeostasis, little is known about the identity and maturational development of the precursor cells that give rise to these fibroblasts. This incomplete understanding of fibroblast lineage development is in large part due to the lack of definitive markers and to their cellular heterogeneity <it>in vivo </it>that has complicated their isolation, characterization, and potential therapeutic applications <abbrgrp><abbr bid="B7">7</abbr><abbr bid="B8">8</abbr><abbr bid="B9">9</abbr></abbrgrp>.</p>
+         <p>In light of this, human pluripotent stem cells may serve as an alternative to adult tissues of more uniform fibroblasts that may provide more predictable tissue outcomes upon their therapeutic use. Several previous studies have demonstrated the derivation of mesenchymal stem cell (MSC)-like cells from hES cells that can differentiate to bone, fat, and cartilage <abbrgrp><abbr bid="B10">10</abbr><abbr bid="B11">11</abbr><abbr bid="B12">12</abbr><abbr bid="B13">13</abbr></abbrgrp>, and fibroblast-like cells that have been used as autogenic feeders to support the culture of undifferentiated hES cells <abbrgrp><abbr bid="B14">14</abbr><abbr bid="B15">15</abbr><abbr bid="B16">16</abbr><abbr bid="B17">17</abbr></abbrgrp>. In our previous work, we have demonstrated that hES cells give rise to fibroblast-like cells <abbrgrp><abbr bid="B18">18</abbr></abbrgrp>; however, we have not determined if hES-derived cells can manifest the functional properties of dermal fibroblasts that can support the organization and development of 3D skin-like tissues also known as human skin equivalents (HSEs) through epithelial-mesenchymal cross-talk. As the morphogenesis, homoeostasis, and repair of many tissues depends on interactions between epithelial cells and their adjacent stromal fibroblasts <abbrgrp><abbr bid="B3">3</abbr><abbr bid="B4">4</abbr><abbr bid="B5">5</abbr><abbr bid="B6">6</abbr></abbrgrp>, the functional analysis of hES-derived fibroblasts could best be accomplished in such engineered HSEs that demonstrate many features of their <it>in vivo </it>counterparts.</p>
+         <p>In this study, we have characterized two cell lines with features of MSC lineages (EDK and H9-MSC) that differ from each other in their production of hepatocyte growth factor (HGF), a growth factor known to be secreted by dermal fibroblasts that supports epithelial development and repair. In monolayer cultures, we found that EDK and H9-MSCs exhibited considerable overlap as seen by their mesenchymal morphology and expression of surface markers characteristic of both MSCs and dermal fibroblasts. However, EDK cells could not undergo differentiation to bone and fat and demonstrated properties similar to stromal fibroblasts that could support epithelial tissue development and enable re-epithelialization of HSEs that was linked to the elevated expression and secretion of HGF. In contrast, H9-MSCs displayed multipotent differentiation capacity typical of an MSC phenotype <abbrgrp><abbr bid="B19">19</abbr></abbrgrp>, but did not support epithelial tissue development or repair, possible due to a low level of HGF production. When HGF secretion from EDK cells was suppressed by shRNA, epithelial repair was significantly decreased, suggesting that the regenerative phenotype of EDK cells is mediated, at least in part, by HGF secretion. HSEs used in our studies provided a complex tissue microenvironment that enabled characterization of the functional properties of hES-derived fibroblasts and provide an important platform to further establish their stability, safety, and efficacy for future therapeutic transplantation.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Materials and methods</p>
+         </st>
+         <sec>
+            <st>
+               <p>Monolayer cell culture of hES cells and directed differentiation to mesenchymal and fibroblast fates</p>
+            </st>
+            <p>A H9 hES cell line was maintained in culture as described <abbrgrp><abbr bid="B20">20</abbr></abbrgrp>, on irradiated feeder layers of mouse embryonic fibroblasts (MEF). EDK cells were prepared using our previously described protocol <abbrgrp><abbr bid="B18">18</abbr></abbrgrp>. Briefly, we derived multiple, independent EDK cell lines by first growing H9 hES cells on MEFs fixed in 4% formaldehyde in differentiation medium supplemented with 0.5 nM human BMP-4 (R&amp;D Systems, Minneapolis, MN, USA) from day four to seven of differentiation. These EDK cell lines were then propagated first on tissue culture plastic and then expanded on type I collagen-coated plates (BD Biosciences, San Jose, CA, USA). EDK cell lines were then screened by ELISA to determine their secretion of HGF and KGF and the lines with highest production of these growth factors were chosen for further study. H9-MSCs were prepared as previously described <abbrgrp><abbr bid="B21">21</abbr></abbrgrp>. Briefly, H9 hES cells were grown on irradiated feeder layers of MEFs in differentiation medium for 10 days and then switched to MSC medium (Lonza, Basel, Switzerland) for four extra days to enrich for MSC-like cells. Differentiating cells were then fluorescence-activated cell sorting (FACS)-sorted for CD73-positive cells expanded on MSC medium first on tissue culture plastic and then passaged on type I collagen-coated plates. Both protocols for cell derivation from H9 hES cells are summarized in (Figure <figr fid="F1">1a</figr>). Control human dermal fibroblasts (HFF) were derived from newborn foreskin and grown in DMEM (Invitrogen, Carlsbad, CA, USA) supplemented with 10% FBS (Hyclone, Logan UT, USA).</p>
+            <fig id="F1">
+               <title>
+                  <p>Figure 1</p>
+               </title>
+               <caption>
+                  <p>Characterization of hES-derived mesenchymal cell lines</p>
+               </caption>
+               <text>
+                  <p><b>Characterization of hES-derived mesenchymal cell lines</b>. <b>(a) </b>Schematic summarizing the two protocols used for generating EDK and H9-MSC from H9 human embryonic stem (hES) cells. <b>(b) </b>Cellular morphology of human foreskin fibroblasts (HFF), EDK, and H9-MSC using phase contrast. Bars, 50 &#956;m. <b>(c) </b>Expression of mesenchymal markers vimentin, Thy1, and &#945;-SMA following immunofluorescence staining. Bars, 50 &#956;m. <b>(d) </b>Comparison of surface antigen expression on HFF, EDK, and H9-MSC by flow cytometric analysis. EDK and H9-MSCs express markers associated with mesenchymal phenotype (positive for expression CD73, CD105, CD44, CD13, CD106, and CD166; negative for expression of CD45, CD34, and CD31). EDK and H9-MSCs show significant differences in expression of CD146 and CD10 antigens. (HFF, filled grey profile; EDK, red profile; H9-MSC, black profile).</p>
+               </text>
+               <graphic file="scrt51-1" hint_layout="double"/>
+            </fig>
+         </sec>
+         <sec>
+            <st>
+               <p>Construction of human skin equivalents and 3D tissue model of cutaneous wound healing</p>
+            </st>
+            <p>Engineered 3D HSEs were constructed as previously described <abbrgrp><abbr bid="B22">22</abbr></abbrgrp> by adding HFF, EDK, or H9-MSCs or no cells into type I collagen gels (Organogenesis, Canton, MA, USA) to a final concentration of 2.5 &#215; 10<sup>4 </sup>cells/ml. Human keratinocytes (NHK) at a concentration of 5 &#215; 10<sup>5 </sup>were seeded onto the collagen matrix and tissues were then maintained submerged in low calcium epidermal growth media for two days, for an additional two days in normal calcium media, and raised to the air-liquid interface (Organogenesis, Canton, MA, USA). For the preparation of 3D tissue models of cutaneous wound healing, HSEs constructed using HFF were wounded with a 4 mm punch and placed on the surface of a contracted collagen gel populated with either HFF, EDK, H9-MSCs, or without cells as previously described <abbrgrp><abbr bid="B22">22</abbr><abbr bid="B23">23</abbr></abbrgrp>. Wounded cultures were maintained at the air-liquid interface for 72 or 96 hours at 37&#176;C in 7.5% CO<sub>2 </sub>to monitor re-epithelialization. For quantitative analysis of wound re-epithelialization, tissue samples were fixed in 4% neutral-buffered formalin, embedded in paraffin, and serially sectioned at 8 &#956;m. Histological sections were stained with H&amp;E, images were captured using a Nikon Eclipse 80i microscope (Nikon Instruments Inc., Melville, NY, USA) equipped with a SPOT RT camera (Diagnostic Instruments, Sterling Heights, MI, USA) and analysed using Spot Advanced software (Diagnostic Instruments, Sterling Heights, MI, USA).</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Real-time RT-PCR</p>
+            </st>
+            <p>Total RNA was extracted from confluent cultures of EDK, H9-MSC, or HFF cells using RNeasy kit (Qiagen, Valencia, CA, USA) and cDNA was transcribed with 1 &#956;g RNA using the Quantiscript Reverse Transcriptase (Qiagen, Valencia, CA, USA). For each real-time RT-PCR reaction, we used 20 ng of cDNA, 200 nM of each primer, and 2X SYBRgreen (Applied Biosystems, Foster City, CA, USA) at a total sample volume of 12.5 &#956;L and samples were run in triplicates on the Bio-Rad CFX96 Real-Time PCR Detection System according to manufacturers' instructions. The relative level of gene expression was assessed using the 2 <sup>-&#916;&#916;C</sup>t method and results are presented as an average of two experiments and three technical replicates. The following oligonucleotide primer sequences were used: GAPDH-F1: 5'-tcgacagtcagccgcatcttcttt-3', GAPDH-R1: 5'-accaaatccgttgacctt-3', HGF-F1: 5'-aggggcactgtcaataccatt-3', and HGF-R1: 5'-cgtgaggatactgagaatcccag-3'.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>RNAi</p>
+            </st>
+            <p>The pLKO.1-puro non-target shRNA control vector and the pLKO.1-puro vector containing shRNA against HGF (TRCN clone 3310) were purchased from Sigma (Sigma, MISSION shRNA, St. Louis, MO, USA). Lentiviral particles were generated in 293FT cells using ViraPower&#8482; Lentiviral Expression System (Invitrogen, Carlsbad, CA, USA) according to manufacturer protocol. Knockdown viruses were titered using an end-point dilution assay and cell lines were infected with lentiviruses at a multiplicity of infection of one. Stable cell lines were selected with puromycin (2 &#956;g/ml).</p>
+         </sec>
+         <sec>
+            <st>
+               <p>ELISA</p>
+            </st>
+            <p>Tissue culture supernatants were harvested and processed using commercial DuoSet HGF ELISA kit (R&amp;D Systems, Minneapolis, MN, USA). Media was assayed in triplicates from at least three independent samples. For monolayer cultures, the values were normalized according to cell numbers counted in the respective cultures at the time of supernatant harvesting and expressed in pg/ml per 10<sup>4 </sup>cells.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Antibody-based cytokine array</p>
+            </st>
+            <p>HFF, EDK, or H9-MSCs 10<sup>6 </sup>cells were seeded onto 100 mm tissue culture plates and grown in 10 ml of tissue culture medium. Forty-eight hours before the analysis, cultures were maintained in 5 ml of tissue culture medium. Tissue culture supernatants were harvested and the supernatants from the plates containing equal cell numbers were processed using commercial Proteome Profiler Human Angiogenesis Antibody Array (R&amp;D Systems, Minneapolis, MN, USA) according to manufacturer protocol. Histogram profiles for select analytes were generated by quantifying the mean spot pixel densities from the array membrane using ImageJ software (U. S. National Institutes of Health, Bethesda, Maryland, USA).</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Morphologic, immunofluorescent, and immunohistochemical analysis of human skin equivalents</p>
+            </st>
+            <p>HFF, EDK, or H9-MSCs were grown to confluence on glass or type I collagen-coated coverslips, fixed in 4% paraformaldehyde, and permeabilized using 0.1% triton X-100. Cells were stained using primary monoclonal antibodies directed against vimentin (Abcam, Cambridge, MA, USA), &#945;-SMA (Chemicon, Temecula, CA, USA), Thy-1 (Calbiochem, San Diego, CA, USA) followed by Alexa 488-conjugated goat anti-mouse secondary antibodies (Invitrogen, Carlsbad, CA, USA) for one hour. For frozen section analysis, tissues were frozen in O.C.T. compound (Sakura Finetek USA, Torrance, CA, USA) and 8 &#956;m sections were fixed in 4% paraformaldehyde and immunostained using primary antibodies directed against K1/10 (Abcam, Cambridge, MA, USA) followed by Alexa 594-conjugated goat anti-mouse secondary antibodies (Invitrogen, Carlsbad, CA, USA). For morphologic analysis, H&amp;E staining was performed on paraffin-embedded tissues sectioned at 8 &#956;m thickness. For proliferation analysis, HSEs were labeled with a six-hour pulse of BrdU (Sigma, St. Louis, MO, USA) at a final concentration of 10 &#956;M. Immunohistochemical staining was performed on paraffin-embedded tissues sectioned at 8 &#956;m thickness using monoclonal antibodies against BrdU (Roche, Indianapolis, IN, USA) and Vectastain ABC (peroxidase) kit (Vector Labs, Burlingame, CA, USA). The number of BrdU-positive cells was determined and expressed as a percentage of total cells in the basal layer. Two independent experiments with a minimum of three observations for each condition were analyzed.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Flow cytometric analysis of hES-derived cell lines</p>
+            </st>
+            <p>HFF, EDK, or H9-MSCs were grown to confluence, trypsinized, pelleted, and resuspended in 2% FBS in PBS solution. Cell suspensions were mixed with 15 &#956;l of PE-conjugated anti -CD73, -CD10, -CD13, -CD105, -CD106, -CD166, -CD44, -CD34, -CD45, -CD31 or isotype control-IgG1k (BD Pharmingen, San Jose, CA, USA), and flow cytometric analysis was performed using a FACSCalibur (BD Biosciences, San Jose, CA, USA) and analyzed using CellQuest (BD Biosciences, San Jose, CA, USA) and Summit V4.3 software (Dako, Carpenteria, CA, USA).</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Osteogenic and adipogenic differentiation assays</p>
+            </st>
+            <p>To induce osteogenesis HFF, EDK, or H9-MSCs were grown to confluence in the presence of 100 nM dexamethasone, 0.05 mM ascorbic acid, and 10 mM-glycerophosphate (all from Sigma, St. Louis, MO, USA) in DMEM supplemented with 1% of non-essential amino-acids (Invitrogen, Carlsbad, CA, USA), and 10% FBS. After 28 days, cultures were fixed in 1% formaldehyde, and stained for 10 minutes with alizarin red solution (Sigma, St. Louis, MO, USA) to determine calcium deposition, and staining was quantified spectrophotometrically (A<sub>550</sub>) after solubilization with 10% CPC (Sigma, St. Louis, MO, USA). To induce adipogenesis HFF, EDK, or H9-MSCs were grown to confluence in 24-well plates in the presence of 1 &#956;M dexamethasone, 50 &#956;M indomethacin, 5 &#956;g/ml insulin, and 0.5 mM 3-isobutyl-1-methyl-xanthine (all from Sigma, St. Louis, MO, USA) in DMEM supplemented with 1% of non-essential amino-acids, and 10% FBS. After 28 days, cultures were fixed in 4% formalin and stained with oil red O solution (Sigma, St. Louis, MO, USA) for 30 minutes to visualize oil droplets, and staining was quantified spectrophotometrically (A<sub>500</sub>) after solubilisation with isopropanol. All results are presented as mean +/- standard deviation (SD) of three experiments and three technical replicates.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Statistical analysis</p>
+            </st>
+            <p>Data are expressed as mean &#177; SD of at least three independent samples. Statistical comparisons between groups were performed with a two-tailed Student's t-test, *<it>P </it>&#8804; 0.05 and **<it>P </it>&#8804; 0.01 was considered significant.</p>
+         </sec>
+      </sec>
+      <sec>
+         <st>
+            <p>Results</p>
+         </st>
+         <sec>
+            <st>
+               <p>EDK and H9-MSC generated from hES cells demonstrate morphologic and phenotypic characteristics of mesenchymal cells</p>
+            </st>
+            <p>We generated two populations of mesenchymal cells (EDK and H9-MSC) from hES cells using previously established protocols as shown schematically (Figure <figr fid="F1">1a</figr>). EDK cells were derived using a differentiation protocol that we had previously established to generate fibroblast-like cells from H9 hES cells <abbrgrp><abbr bid="B18">18</abbr></abbrgrp>. To ensure the fibroblast-like phenotype of EDK cells, several cell lines were derived from hES-cells using the same differentiation conditions and were screened for the secretion of paracrine factors known to be secreted at high levels in dermal fibroblasts keratinocyte growth factor (KGF) and hepatocyte growth factor (HGF); data not shown) <abbrgrp><abbr bid="B5">5</abbr><abbr bid="B6">6</abbr></abbrgrp>. Only EDK cell lines secreting elevated levels of KGF and HGF were selected for further study. H9-MSCs were derived using an alternative differentiation protocol that has previously been shown to generate MSC-like cells from H9 hES cells based on FACS-isolation of CD73-positive cell subpopulations <abbrgrp><abbr bid="B21">21</abbr></abbrgrp>. Both EDK and H9-MSC populations showed similar fibroblast morphology and expression of Thy-1 and vimentin by immunohistochemical staining that were similar to that seen in dermal HFF, while &#945;-SMA-positive cells were observed more frequently in EDK cultures than in either H9-MSC or HFF (Figures <figr fid="F1">1b</figr> and <figr fid="F1">1c</figr>). Surface marker profiling of EDK and H9-MSCs was performed by flow cytometric analysis and compared with the profile generated for HFFs. EDK and H9-MSC lines presented a similar profile of surface antigen expression characteristic of mesenchymal cells. Both hES-derived cell lines expressed CD73, CD105, CD106, CD44, CD166, CD13, and CD146 and lacked expression of hematopoietic and endothelial lineage markers CD45, CD34, and CD31 (Figure <figr fid="F1">1d</figr>). The intensity of fluorescent labelling and the distribution of labelled cells were similar for CD73, CD105, CD106, CD44, CD166, and CD13 when EDK and H9-MSC were compared. However, expression of CD10 was significantly higher, while CD146 was lower in the EDK cell line when compared with H9-MSCs. This elevated expression of CD10 and reduced expression of CD146 was also seen in HFFs, suggesting a fibroblast-like phenotype for EDK cells. These findings indicated that while both hES-derived cell populations exhibited characteristic mesenchymal surface markers, differences in their CD profile suggested differences in their biological potential.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>H9-MSCs undergo differentiation to osteogenic and adipogenic fates, while EDK cells do not show multilineage differentiation potential</p>
+            </st>
+            <p>To assess the biological potential of the EDK and H9-MSC populations, we performed osteogenic and adipogenic differentiation assays. After four weeks under differentiation conditions, H9-MSCs cultures contained calcium deposits as detected by alizarin red (Figures <figr fid="F2">2a</figr> and <figr fid="F2">2b</figr>), and oil red-O-positive lipid droplets (Figures <figr fid="F2">2c</figr> and <figr fid="F2">2d</figr>). In contrast, EDK did not show this differentiation potential as cells did not form bone or fat (Figure <figr fid="F2">2</figr>). These findings demonstrated that EDK and H9-MSC cell lines had divergent cell fates, as seen by their potential to form osteoblasts and adipocytes. Although H9-MSCs manifested properties of MSC-like progenitors, absence of multilineage differentiation potential in EDK cells suggested that these cells may have underwent developmental restriction to fibroblast lineage fate <abbrgrp><abbr bid="B10">10</abbr><abbr bid="B24">24</abbr></abbrgrp>.</p>
+            <fig id="F2">
+               <title>
+                  <p>Figure 2</p>
+               </title>
+               <caption>
+                  <p>Adipogenic and osteogenic differentiation of hES-derived mesenchymal cells</p>
+               </caption>
+               <text>
+                  <p><b>Adipogenic and osteogenic differentiation of hES-derived mesenchymal cells</b>. <b>(a) </b>Analysis of osteogenic activity of EDK, H9-MSC, and human foreskin fibroblasts (HFF). Osteogenic differentiation was induced using the &#946;-glycerophosphate method, after four weeks of differentiation, calcium deposition was stained with alzarin red. Bars, 50 &#956;m. <b>(b) </b>Quantification of alizarin red staining (t-test: **<it>P </it>&lt; 0.01). Results are expressed as the mean +/- standard deviation (SD) of three independent experiments and three technical replicates per experiment. <b>(c) </b>Analysis of adipogenic activity of EDK, H9-MSC, and HFF. Adipogenic differentiation was induced using the 3-isobutyl-1-methylxanthine (IBMX) method, and after four weeks of differentiation the lipid vesicles were stained with oil red O. Bars, 50 &#956;m. <b>(d) </b>Quantification of oil red O staining (t-test: **<it>P </it>&lt; 0.01). Results are expressed as the mean +/- SD of three experiments and three technical replicates per experiment.</p>
+               </text>
+               <graphic file="scrt51-2" hint_layout="double"/>
+            </fig>
+         </sec>
+         <sec>
+            <st>
+               <p>EDK cells demonstrate fibroblast function characterized by their support of the normal development of 3D human skin equivalents</p>
+            </st>
+            <p>As the paracrine cross-talk between fibroblasts and epithelial cells is required for the development of stratified epithelial tissue, we next incorporated EDK or H9-MSC into HSEs as a functional assay for their capacity to support normal skin development. EDK or H9-MSC were embedded into collagen gels and allowed to contract the gel for seven days. Normal NHK were then seeded onto the surface of collagen gels, and tissues were grown at an air-liquid interface for an additional seven days to compare their capacity to form a multi-layered epithelium. HSEs constructed with HFFs or no cells embedded into collagen gels served as positive and negative controls, respectively. Morphological analysis revealed that EDK cells promoted epithelial tissue development in a manner similar to HFFs, while tissues grown in the presence of H9-MSC did not support normalization of the overlying epithelium (Figure <figr fid="F3">3a</figr>). HSEs constructed with EDK cells developed a fully-stratified, multi-layered epithelium that was well-differentiated and demonstrated tissue architecture similar to epithelial tissues generated with control HFF cells. In contrast, tissues populated with H9-MSCs generated a thin and poorly-developed epithelium that was similar to tissues generated in the absence of any fibroblast support. The characteristic supra-basal distribution of keratin 1/10, a marker of differentiated keratinocytes, in both EDK and HFF containing tissues confirmed the capacity of EDK cells to promote normal epithelial morphogenesis and differentiation (Figure <figr fid="F3">3b</figr>).</p>
+            <fig id="F3">
+               <title>
+                  <p>Figure 3</p>
+               </title>
+               <caption>
+                  <p>EDK cells but not H9-MSC promote epidermal morphogenesis in HSE tissues</p>
+               </caption>
+               <text>
+                  <p><b>EDK cells but not H9-MSC promote epidermal morphogenesis in HSE tissues</b>. <b>(a)</b>: Tissue morphology of human skin-equivalent (HSE) tissues constructed using human foreskin fibroblasts (HFF), EDK, H9-MSC, or without cells as analyzed by H&amp;E staining. <b>(b) </b>The expression pattern of the epidermal differentiation marker keratin 1/10 was analyzed by immunofluorescence (red). Bars, 50 &#956;m. <b>(c) </b>Comparison of the secretory profile of EDK, H9-MSC, and HFF cells by antibody-based cytokine array <b>(d) </b>Histogram profiles generated by quantifying the mean spot pixel densities by ImageJ from the array membrane shown above. The data are presented as percentages of the respective positive controls. <b>(e) </b>Hepatocyte growth factor (HGF) mRNA expression in HFF, EDK, and H9-MSC by real-time RT-PCR. Data are normalized to GAPDH, and all results are expressed as the mean +/- standard deviation (SD) of three experiments and three technical replicates per experiment. <b>(f) </b>Levels of HGF in supernatants from HFF, EDK, and H9-MSC monolayer cultures by ELISA. Data are normalized per 10<sup>4 </sup>cells and all results are expressed as the mean +/- SD of three experiments and three technical replicates per experiment.</p>
+               </text>
+               <graphic file="scrt51-3" hint_layout="double"/>
+            </fig>
+            <p>As efficient development of HSEs is dependent on paracrine support from connective tissue fibroblasts, as has been previously shown for mature fibroblasts <abbrgrp><abbr bid="B3">3</abbr><abbr bid="B4">4</abbr><abbr bid="B5">5</abbr><abbr bid="B6">6</abbr></abbrgrp>, we used a panel of growth factors and cytokines known to function as mediators of epithelial cell growth to compare the secretory profile of EDK, H9-MSC, and HFF cells. Supernatants from EDK, H9-MSC, and control HFF cultures containing equal cell numbers were harvested and assayed using an antibody-based cytokine array (Figures <figr fid="F3">3c</figr> and <figr fid="F3">3d</figr>). This analysis revealed that EDK cells produced elevated levels of epidermal growth factor (EGF), granulocyte-macrophage colony-stimulating factor (GM-CSF), platelet-derived growth factor-AA (PDGF-AA), KGF, and HGF when compared with both H9-MSC and HFF cells. In contrast, H9-MSC produced higher levels of IL-8, monocyte chemotactic protein-1 (MCP-1), and PDGF-AB/BB than EDK or HFF cells. Notably, the level of HGF, known to be essential for skin development and repair <abbrgrp><abbr bid="B5">5</abbr><abbr bid="B6">6</abbr></abbrgrp> was elevated in both EDK and HFF cells but not in H9-MSCs. Using real-time PCR and ELISA, we detected a 10-fold elevation of HGF expression and secretion in EDK cells compared with HFF and a 100-fold elevation when compared with H9-MSC (Figures <figr fid="F3">3e</figr> and <figr fid="F3">3f</figr>). These findings indicated that the biological potential of hES-derived mesenchymal cells was not uniform. Although H9-MSCs could differentiate to osteogenic and adipogenic lineages, this cell line did not provide the paracrine support needed for epithelial development or maturation. In contrast, EDK cells demonstrated properties similar to dermal fibroblasts (HFF) based on their capacity to direct epithelial morphogenesis in an <it>in vivo</it>-like tissue environment.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>EDK cells accelerate the rate of wound healing in 3D human skin equivalents linked to their HGF production</p>
+            </st>
+            <p>We used our previously-developed 3D tissue model of cutaneous wound healing <abbrgrp><abbr bid="B22">22</abbr><abbr bid="B23">23</abbr></abbrgrp> to determine whether EDK and H9-MSCs could also modulate the re-epithelialization of wounded epithelia. To test this, HSEs constructed using HFF were wounded with a 4 mm punch and placed on the surface of a contracted collagen gel populated with either HFF, EDK, H9-MSCs, or without cells (see schematic in Figure <figr fid="F4">4a</figr>). HFFs have previously been shown to enable complete re-epithelialization <abbrgrp><abbr bid="B23">23</abbr><abbr bid="B25">25</abbr></abbrgrp> and serve as a positive control, while collagen gels generated without any cells were used as a negative control for re-epithelialization. Ninety-six hours after wounding, the wound bed was partially or completely covered by a migrating epithelial tongue towards the central area of the wound bed and by a more stratified epithelium toward the wound margins (Figure <figr fid="F4">4b</figr>). The degree of re-epithelialization following wounding was measured by calculating the distance separating the two epithelial tongues and was normalized to the distance between the initial wound margins and expressed graphically as the percentage of wound closure (Figure <figr fid="F4">4c</figr>). In general, EDK cells showed nearly complete or complete wound closure that was similar to tissues in which HFF were incorporated (HFF = 86 &#177; 12% and EDK = 99 &#177; 1.6%). In contrast, H9-MSCs-harboring tissues and the tissues constructed without any fibroblast support showed a significantly lower degree of re-epithelialization compared with HFF (H9-MSC = 39 &#177; 5.5% and no cells = 17 &#177; 5%, t-test: <it>P </it>= 0.003 and <it>P </it>= 0.0007, respectively; Figure <figr fid="F4">4c</figr>). To test whether degree of wound re-epithelialization was linked to HGF levels, HGF concentrations in supernatants from wounded HSEs were measured by ELISA. Quantification of HGF production revealed that both HFF- and EDK-containing tissues produced significantly higher levels of HGF (5-fold and 50-fold higher, respectively) than H9-MSC-containing tissues or in tissues without cells in their stroma (Figure <figr fid="F4">4d</figr>). These results imply that HGF-mediated paracrine signalling was responsible, at least in part, for the wound re-epithelialization mediated by EDK cells.</p>
+            <fig id="F4">
+               <title>
+                  <p>Figure 4</p>
+               </title>
+               <caption>
+                  <p>EDK cells accelerate re-epithelialization of wounded HSEs</p>
+               </caption>
+               <text>
+                  <p><b>EDK cells accelerate re-epithelialization of wounded HSEs</b>. <b>(a) </b>Schematic of 3D tissue model of wound re-epithelialization. In step 1, a full-thickness wound is generated by excising a human skin-equivalent (HSE). In step 2, the wounded HSE is placed on a second, contracted collagen gel populated with EDK, H9-MSC, human foreskin fibroblasts (HFF), or constructed without cells. In step 3, keratinocytes (NHK) undergo migration to close the wound gap and restored epithelial integrity. The far right panel is an image of six-well insert containing HSE 96 hours after wounding. <b>(b) </b>Representative morphology of wounded tissues constructed with HFF, EDK, H9-MSC, or without cells 96 hours after wounding (black arrows demarcate the initial wound edges). Bars, 200 &#956;m. <b>(c) </b>EDK showed a rate of wound closure similar to tissues in which HFF were incorporated. The degree of re-epithelialization was significantly lower in H9-MSC and no cells-containing tissues as compared with HFF (t-test: **<it>P </it>&lt; 0.01). <b>(d) </b>Levels of hepatocyte growth factor (HGF) in supernatants of wounded tissues 96 hours after wounding as measured by ELISA. HFF- and EDK-containing tissues produced higher levels of HGF as compared with H9-MSC-containing tissues or tissues constructed without cells. All results are presented as the mean +/- standard deviation of three independent experiments and three technical replicates.</p>
+               </text>
+               <graphic file="scrt51-4" hint_layout="double"/>
+            </fig>
+         </sec>
+         <sec>
+            <st>
+               <p>Suppression of HGF production impairs the ability of EDK cells to promote wound healing in 3D human skin equivalents</p>
+            </st>
+            <p>To confirm that HGF secretion is necessary to optimally direct the re-epithelialization of cutaneous wound mediated by EDK cells, levels of HGF secreted from EDK cells were significantly reduced by introducing a lentiviral shRNA construct that targeted HGF mRNA (shHGF). Efficiency of shHGF in EDK cells was measured relative to a scrambled, shRNA control (shScram) by ELISA and showed a 95% reduction in secretion of HGF from EDK cells (Figure <figr fid="F5">5a</figr>, top panel). This shHGF lentiviral construct did not alter secretion of other growth factors, such as KGF (Figure <figr fid="F5">5a</figr>, lower panel). The effect of decreased HGF secretion on the capacity of EDK cells to promote re-epithelialization of wounded HSEs was examined by incorporating EDK-shHGF and EDK-shScram into 3D tissue model of cutaneous wound repair. Tissue morphology and the degree of re-epithelialization following wounding were analysed 72 hours after wounding. Tissues constructed using EDK-shHGF cells showed a significantly lower degree of re-epithelialization compared with EDK-shScram (EDK-shScram = 33 &#177; 9% vs. EDK-shHGF = 11.6 &#177; 5.8%, t-test: <it>P </it>= 0.017; Figures <figr fid="F5">5b</figr> and <figr fid="F5">5c</figr>). HGF levels in supernatants from wounded HSEs were measured by ELISA and showed roughly 85% reduction of HGF levels in cultures containing EDK-shHGF (Figure <figr fid="F5">5d</figr>). To further characterize the phenotype of wounded epithelial tissues in the presence of EDK-shHGF and control EDK-shScram, we assayed proliferation of keratinocytes in the basal layer of wound margins using a BrdU-incorporation assay (Figure <figr fid="F5">5e</figr>). Tissues harboring EDK-shHGF demonstrated a significantly lower percentage of proliferating basal keratinocytes compared with EDK-shScram (EDK-shScram = 10 &#177; 3.5% and EDK-shHGF = 4.4 &#177; 1.8%, t-test: <it>P </it>= 0.004; Figure <figr fid="F4">4f</figr>). These results support the known function of HGF as a mediator of epithelial cell proliferation in restoring epithelial integrity following wounding <abbrgrp><abbr bid="B6">6</abbr></abbrgrp>. This suggested that hES-derived EDK cells stimulated wound re-epithelialization by providing paracrine signals, such as HGF, that is needed to direct the repair of a cutaneous wound.</p>
+            <fig id="F5">
+               <title>
+                  <p>Figure 5</p>
+               </title>
+               <caption>
+                  <p>Suppression of HGF production impairs EDK-mediated re-epithelialization of wounded HSEs</p>
+               </caption>
+               <text>
+                  <p><b>Suppression of HGF production impairs EDK-mediated re-epithelialization of wounded HSEs</b>. <b>(a) </b>Efficiency of shRNA knockdown of hepatocyte growth factor (shHGF) in EDK cells relative to a scrambled, shRNA control (shScram) as measured by ELISA. Secretion of hepatocyte growth factor (HGF; top panel) was reduced 95% relative to shScram (t-test: **<it>P </it>&lt; 0.01), secretion of KGF (lower panel) was not affected by shHGF. Data are normalized to shScram and all results are expressed as the mean +/- standard deviation (SD) of three experiments and three technical replicates per experiment. <b>(b) </b>Representative morphology of wounded tissues constructed with EDK-shHGF and EDK-shScram cells 72 hours after wounding (black arrows demarcate the initial wound edges; white arrows demarcate the tip of epithelial tongues). Bars, 200 &#956;m. <b>(c) </b>The degree of re-epithelialization was significantly lower in tissues containing EDK-shHGF cells as compared with EDK-shScram (t-test: **<it>P </it>&lt; 0.01). <b>(d) </b>Relative levels of HGF in supernatants of wounded tissues 72 hours after wounding as measured by ELISA. Tissues containing EDK-shHGF cells produced significantly lower levels of HGF as compared with EDK-shScram (t-test: **<it>P </it>&lt; 0.01). <b>(e) </b>Proliferation of basal keratinocytes in tissues containing EDK-shHGF and EDK-shScram cells was analyzed using immunoperoxidase staining with anti-BrdU antibody 72 hours after wounding (black arrows demarcate the initial wound edges; white arrows demarcate the BrdU-positive cells). <b>(f) </b>Quantification of BrdU-positive basal keratinocytes. Tissues containing EDK-shHGF demonstrated significantly lower percentage of proliferating basal keratinocytes compared with EDK-shScram (t-test: **<it>P </it>&lt; 0.01). Bars, 100 &#956;m. All results are presented as the mean +/- SD of three independent experiments and three technical replicates.</p>
+               </text>
+               <graphic file="scrt51-5" hint_layout="double"/>
+            </fig>
+         </sec>
+      </sec>
+      <sec>
+         <st>
+            <p>Discussion</p>
+         </st>
+         <p>Our comparative characterization of two hES-derived cell lines (EDK and H9-MSC) that were differentiated under different conditions has revealed that both cell lines exhibited similar morphology and cell surface marker expression indicative of a mesenchymal phenotype <abbrgrp><abbr bid="B19">19</abbr></abbrgrp>. However, although EDK cells showed some phenotypic overlap with H9-MSC and adult MSCs <abbrgrp><abbr bid="B19">19</abbr></abbrgrp> in two dimensional (2D) monolayer culture, their functional properties in engineered 3D tissues and the absence of the multilineage differentiation potential seen in H9-MSC provided evidence of their fibroblast lineage commitment. Thus, we have demonstrated that engineered, 3D tissues can be used as a sensitive assay to characterize the biological potency of hES-derived fibroblasts. Incorporation of hES-derived cells into tissues that mimic their <it>in vivo </it>counterparts enables a more complete determination of their lineage commitment and phenotype than conventional, monolayer cultures. We have previously generated a fibroblast-like cell line that partially supported a 3D tissue whose surface cells were hES-derived cells with ectodermal features <abbrgrp><abbr bid="B18">18</abbr></abbrgrp>. We now extend those studies using an hES-derived cell line that produced elevated levels of HGF to provide paracrine support for tissue development and repair that mimics the functional features of dermal fibroblasts. We have shown the suppression of HGF production in EDK cells is linked to a significant decrease in epithelial proliferation and repair, suggesting that these cells mediate epithelial tissue phenotype through a paracrine support. In contrast, a hES-derived cell line that manifests multilineage differentiation, but very low HGF levels (H9-MSC) was unable to support epithelial tissue development and repair.</p>
+         <p>Despite the critical impact of fibroblasts on tissue morphogenesis, homeostasis, and repair, gaps in our understanding of fibroblast lineage development has made the identification and reproducible isolation of specific fibroblast populations particularly challenging <abbrgrp><abbr bid="B8">8</abbr><abbr bid="B9">9</abbr></abbrgrp>. In this light, we expect that our findings will help address a central challenge facing clinical application of cells with properties of dermal fibroblasts for regenerative medicine by developing an efficient approach to reproducibly procure these cells from pluripotent stem cells, in a way that offers predictable and effective tissue outcomes upon their therapeutic use <abbrgrp><abbr bid="B1">1</abbr><abbr bid="B2">2</abbr></abbrgrp>.</p>
+         <p>In previous studies, MSC-like cells expressing &#945;-smooth muscle actin (&#945;-SMA) have been derived from hES cells <abbrgrp><abbr bid="B26">26</abbr><abbr bid="B27">27</abbr></abbrgrp> and fibroblast-like cells isolated from hES cells have been used as autogenic feeders to support the culture of undifferentiated hES cells <abbrgrp><abbr bid="B14">14</abbr><abbr bid="B15">15</abbr><abbr bid="B16">16</abbr><abbr bid="B17">17</abbr></abbrgrp>. In addition, we have found that surface marker profile of EDK and H9-MSC cell lines is similar to those expressed on MSCs previously derived from hES cells using alternative differentiation conditions to those described in our study <abbrgrp><abbr bid="B10">10</abbr><abbr bid="B11">11</abbr><abbr bid="B12">12</abbr><abbr bid="B13">13</abbr></abbrgrp>. However, MSC-like cells derived in these previous studies were not grown in 3D tissue microenvironments that could provide a more complete functional characterization of their identity as fibroblasts. As the use of cell surface markers to distinguish MSCs from cells restricted to fibroblast lineage fate is limited, tissue-based, functional readouts are essential to predict the potency of hES-derived cells differentiated into fibroblast lineages <abbrgrp><abbr bid="B24">24</abbr><abbr bid="B28">28</abbr></abbrgrp>. As it is possible that EDK cells represent a heterogeneous mixture of fibroblasts and a smaller number of cells that retain MSC-like features, their future therapeutic use may require further characterization of fibroblast subpopulations. This approach has recently been demonstrated to improve the specificity of MSCs differentiated from hES cells in ways that can select for reproducible and clinically-applicable cells <abbrgrp><abbr bid="B11">11</abbr></abbrgrp>. In addition, it remains unclear what factors may direct the differentiation of EDK cells to a fibroblast fate.</p>
+         <p>Transplantation of adult-derived MSCs has previously been shown to promote tissue regeneration and to improve wound repair <it>in vivo </it><abbrgrp><abbr bid="B29">29</abbr><abbr bid="B30">30</abbr><abbr bid="B31">31</abbr><abbr bid="B32">32</abbr></abbrgrp>. Increasing evidence suggests that this repair potential is linked to the ability of MSCs to secrete paracrine-acting factors that can induce changes in their tissue microenvironment to guide healing <abbrgrp><abbr bid="B33">33</abbr><abbr bid="B34">34</abbr></abbrgrp>. We found that EDK cells secreted a broad repertoire of growth factors and cytokines linked to a variety of paracrine-mediated tissue responses, including stimulatory, paracrine factors known to accelerate the healing of epithelial wounds. Specifically, we found that this augmented re-epithelialization of wounded keratinocytes was linked to the production of HGF by EDK cells, as the diminished production of this growth factor upon shRNA infection significantly decreased tissue re-epithelialization. As HGF is known to be induced in stromal cells in response to injury <abbrgrp><abbr bid="B5">5</abbr><abbr bid="B6">6</abbr></abbrgrp>, directed differentiation of hES-derived fibroblasts may allow these cells to be adapted for cell therapy and cutaneous regeneration. Beyond this, a decline in fibroblast numbers or function has been implicated in both skin aging and cancer development, because the age-related accumulation of senescent fibroblasts is thought to create a microenvironment that promotes squamous cell carcinoma progression <abbrgrp><abbr bid="B35">35</abbr><abbr bid="B36">36</abbr><abbr bid="B37">37</abbr></abbrgrp>. As restoration of growth factor production in fibroblasts may decrease cancer risk and sustain tissue homeostasis, the development of future cell-based treatments using hES-derived fibroblasts can potentially augment repair and improve overall tissue health. We expect that our findings will enable future studies aimed at clarifying factors regulating fibroblast development and will help identify progenitor cells that give rise to these cells in human skin and other tissues.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Conclusions</p>
+         </st>
+         <p>A central challenge that must be overcome before therapeutic application of hES-derived cells is the development of reliable and sensitive methods to evaluate their safety and efficacy <abbrgrp><abbr bid="B1">1</abbr><abbr bid="B2">2</abbr></abbrgrp>. Although hES cells can undergo directed differentiation to numerous cell types, progress towards their clinical application has been limited by the lack of tools and platforms to evaluate their stability in an <it>in vivo</it>-like tissue context. It is therefore critical to fully-characterize the properties of differentiated cells derived from hES cells by developing engineered, pre-clinical tissue models that will better predict their behavior following future therapeutic transplantation to humans. As we have shown that fibroblasts derived from hES cells support the normal development of HSEs, our study is an important step towards determining the biological potency of clinically-relevant, functional cell types derived from hES cells.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Abbreviations</p>
+         </st>
+         <p>2D: two-dimensional; 3D: three dimensional; DMEM: Dulbecco's modified eagle medium; ELISA: enzyme-linked immunosorbent assay; FACS: fluorescence-activated cell sorting; FBS: fetal bovine serum; hES cells: human embryonic stem cells; hiPS cells: human induced pluripotent stem cells; HFF: human foreskin fibroblasts; HGF: hepatocyte growth factor; HSE: human skin equivalent; IL: interleukin; MSC: mesenchymal stem cells; MEF: mouse embryonic fibroblasts; NHK: normal human keratinocytes; PBS: phosphate buffered saline; RT-PCR: reverse-transcription polymerase chain reaction; SD: standard deviation.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Competing interests</p>
+         </st>
+         <p>The authors declare that they have no competing interests.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Authors' contributions</p>
+         </st>
+         <p>YS participated in conception and design, collection and assembly of data, data analysis and interpretation, and drafted the manuscript. KJH participated in provision of study material, data analysis and interpretation, and final approval of manuscript. MWC participated in data analysis and interpretation, and final approval of manuscript. MM participated in collection and assembly of data and final approval of manuscript. SD participated in provision of study material and final approval of manuscript. CKK participated in collection and assembly of data and final approval of manuscript. LD participated in provision of study material and final approval of manuscript. CE participated in collection and assembly of data and final approval of manuscript. JAG participated in conception and design, data analysis and interpretation, and helped to draft the manuscript.</p>
+      </sec>
+   </bdy>
+   <bm>
+      <ack>
+         <sec>
+            <st>
+               <p>Acknowledgements</p>
+            </st>
+            <p>We thank Dr. Addy Alt-Holland, Cathy X. Zhao, and Adam G. Sowalsky for their contributions during the progress of this work and Judith Edwards for assistance in the preparation of the manuscript. This work was supported by grant #DE017413 to JAG from National Institute for Dental Research (NIDCR).</p>
+         </sec>
+      </ack>
+      <refgrp>
+         <bibl id="B1">
+            <title>
+               <p>The therapeutic potential of human embryonic stem cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Cedar</snm>
+                  <fnm>SH</fnm>
+               </au>
+               <au>
+                  <snm>Cooke</snm>
+                  <fnm>JA</fnm>
+               </au>
+               <au>
+                  <snm>Patel</snm>
+                  <fnm>MR</fnm>
+               </au>
+               <au>
+                  <snm>Luo</snm>
+                  <fnm>Z</fnm>
+               </au>
+               <au>
+                  <snm>Minger</snm>
+                  <fnm>SL</fnm>
+               </au>
+            </aug>
+            <source>Indian J Med Res</source>
+            <pubdate>2007</pubdate>
+            <volume>125</volume>
+            <fpage>17</fpage>
+            <lpage>24</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid" link="fulltext">17332653</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B2">
+            <title>
+               <p>Derive and conquer: sourcing and differentiating stem cells for therapeutic applications</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Klimanskaya</snm>
+                  <fnm>I</fnm>
+               </au>
+               <au>
+                  <snm>Rosenthal</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Lanza</snm>
+                  <fnm>R</fnm>
+               </au>
+            </aug>
+            <source>Nat Rev Drug Discov</source>
+            <pubdate>2008</pubdate>
+            <volume>7</volume>
+            <fpage>131</fpage>
+            <lpage>142</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/nrd2403</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18079756</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B3">
+            <title>
+               <p>Analysis of microenvironmental factors contributing to basement membrane assembly and normalized epidermal phenotype</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Andriani</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Margulis</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Lin</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Griffey</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Garlick</snm>
+                  <fnm>JA</fnm>
+               </au>
+            </aug>
+            <source>J Invest Dermatol</source>
+            <pubdate>2003</pubdate>
+            <volume>120</volume>
+            <fpage>923</fpage>
+            <lpage>931</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1046/j.1523-1747.2003.12235.x</pubid>
+                  <pubid idtype="pmpid" link="fulltext">12787116</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B4">
+            <title>
+               <p>Mutual induction of growth factor gene expression by epidermal-dermal cell interaction</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Smola</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Thiekotter</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Fusenig</snm>
+                  <fnm>NE</fnm>
+               </au>
+            </aug>
+            <source>J Cell Biol</source>
+            <pubdate>1993</pubdate>
+            <volume>122</volume>
+            <fpage>417</fpage>
+            <lpage>429</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1083/jcb.122.2.417</pubid>
+                  <pubid idtype="pmcid">2119641</pubid>
+                  <pubid idtype="pmpid">8320264</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B5">
+            <title>
+               <p>c-Met is essential for wound healing in the skin</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Chmielowiec</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Borowiak</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Morkel</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Stradal</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Munz</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Werner</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Wehland</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Birchmeier</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Birchmeier</snm>
+                  <fnm>W</fnm>
+               </au>
+            </aug>
+            <source>J Cell Biol</source>
+            <pubdate>2007</pubdate>
+            <volume>177</volume>
+            <fpage>151</fpage>
+            <lpage>162</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1083/jcb.200701086</pubid>
+                  <pubid idtype="pmcid">2064119</pubid>
+                  <pubid idtype="pmpid">17403932</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B6">
+            <title>
+               <p>Hepatocyte growth factor (HGF) as a tissue organizer for organogenesis and regeneration</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Matsumoto</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Nakamura</snm>
+                  <fnm>T</fnm>
+               </au>
+            </aug>
+            <source>Biochem Biophys Res Commun</source>
+            <pubdate>1997</pubdate>
+            <volume>239</volume>
+            <fpage>639</fpage>
+            <lpage>644</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1006/bbrc.1997.7517</pubid>
+                  <pubid idtype="pmpid" link="fulltext">9367820</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B7">
+            <title>
+               <p>Fibroblast heterogeneity: more than skin deep</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Sorrell</snm>
+                  <fnm>JM</fnm>
+               </au>
+               <au>
+                  <snm>Caplan</snm>
+                  <fnm>AI</fnm>
+               </au>
+            </aug>
+            <source>J Cell Sci</source>
+            <pubdate>2004</pubdate>
+            <volume>117</volume>
+            <fpage>667</fpage>
+            <lpage>675</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1242/jcs.01005</pubid>
+                  <pubid idtype="pmpid" link="fulltext">14754903</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B8">
+            <title>
+               <p>Biology of fibroblasts and myofibroblasts</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Phan</snm>
+                  <fnm>SH</fnm>
+               </au>
+            </aug>
+            <source>Proc Am Thorac Soc</source>
+            <pubdate>2008</pubdate>
+            <volume>5</volume>
+            <fpage>334</fpage>
+            <lpage>337</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1513/pats.200708-146DR</pubid>
+                  <pubid idtype="pmcid">2645244</pubid>
+                  <pubid idtype="pmpid">18403329</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B9">
+            <title>
+               <p>Clonal characterization of fibroblasts in the superficial layer of the adult human dermis</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Sorrell</snm>
+                  <fnm>JM</fnm>
+               </au>
+               <au>
+                  <snm>Baber</snm>
+                  <fnm>MA</fnm>
+               </au>
+               <au>
+                  <snm>Caplan</snm>
+                  <fnm>AI</fnm>
+               </au>
+            </aug>
+            <source>Cell Tissue Res</source>
+            <pubdate>2007</pubdate>
+            <volume>327</volume>
+            <fpage>499</fpage>
+            <lpage>510</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1007/s00441-006-0317-y</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17093925</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B10">
+            <title>
+               <p>Human embryonic stem cell-derived mesodem-like epithelium transitions to mesechymal progenitor cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Boyd</snm>
+                  <fnm>NL</fnm>
+               </au>
+               <au>
+                  <snm>Robbins</snm>
+                  <fnm>KR</fnm>
+               </au>
+               <au>
+                  <snm>Dhara</snm>
+                  <fnm>SK</fnm>
+               </au>
+               <au>
+                  <snm>West</snm>
+                  <fnm>FD</fnm>
+               </au>
+               <au>
+                  <snm>Stice</snm>
+                  <fnm>SL</fnm>
+               </au>
+            </aug>
+            <source>Tissue Eng Part A</source>
+            <pubdate>2009</pubdate>
+            <volume>15</volume>
+            <fpage>1897</fpage>
+            <lpage>1907</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1089/ten.tea.2008.0351</pubid>
+                  <pubid idtype="pmcid">2792108</pubid>
+                  <pubid idtype="pmpid">19196144</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B11">
+            <title>
+               <p>Derivation of clinically compliant MSCs from CD105+ , CD24- differentiated human ESCs</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Lian</snm>
+                  <fnm>Q</fnm>
+               </au>
+               <au>
+                  <snm>Lye</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Suan</snm>
+                  <fnm>YK</fnm>
+               </au>
+               <au>
+                  <snm>Khia Way</snm>
+                  <fnm>TE</fnm>
+               </au>
+               <au>
+                  <snm>Salto-Tellez</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Liu</snm>
+                  <fnm>TM</fnm>
+               </au>
+               <au>
+                  <snm>Palanisamy</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Oakley</snm>
+                  <fnm>RM</fnm>
+               </au>
+               <au>
+                  <snm>Lee</snm>
+                  <fnm>EH</fnm>
+               </au>
+               <au>
+                  <snm>Lim</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Lim</snm>
+                  <fnm>SK</fnm>
+               </au>
+            </aug>
+            <source>Stem Cells</source>
+            <pubdate>2007</pubdate>
+            <volume>25</volume>
+            <fpage>425</fpage>
+            <lpage>436</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1634/stemcells.2006-0420</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17053208</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B12">
+            <title>
+               <p>Differentiation of human embryonic stem cells into bipotent mesenchymal stem cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Olivier</snm>
+                  <fnm>EN</fnm>
+               </au>
+               <au>
+                  <snm>Rybicki</snm>
+                  <fnm>AC</fnm>
+               </au>
+               <au>
+                  <snm>Bouhassira</snm>
+                  <fnm>EE</fnm>
+               </au>
+            </aug>
+            <source>Stem Cells</source>
+            <pubdate>2006</pubdate>
+            <volume>24</volume>
+            <fpage>1914</fpage>
+            <lpage>1922</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1634/stemcells.2005-0648</pubid>
+                  <pubid idtype="pmpid" link="fulltext">16644919</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B13">
+            <title>
+               <p>Derivation of multipotent mesenchymal precursors from human embryonic stem cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Barberi</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Willis</snm>
+                  <fnm>LM</fnm>
+               </au>
+               <au>
+                  <snm>Socci</snm>
+                  <fnm>ND</fnm>
+               </au>
+               <au>
+                  <snm>Studer</snm>
+                  <fnm>L</fnm>
+               </au>
+            </aug>
+            <source>PLoS Med</source>
+            <pubdate>2005</pubdate>
+            <volume>2</volume>
+            <fpage>e161</fpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1371/journal.pmed.0020161</pubid>
+                  <pubid idtype="pmcid">1160574</pubid>
+                  <pubid idtype="pmpid">15971941</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B14">
+            <title>
+               <p>Novel autogenic feeders derived from human embryonic stem cells (hESCs) support an undifferentiated status of hESCs in xeno-free culture conditions</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Chen</snm>
+                  <fnm>HF</fnm>
+               </au>
+               <au>
+                  <snm>Chuang</snm>
+                  <fnm>CY</fnm>
+               </au>
+               <au>
+                  <snm>Shieh</snm>
+                  <fnm>YK</fnm>
+               </au>
+               <au>
+                  <snm>Chang</snm>
+                  <fnm>HW</fnm>
+               </au>
+               <au>
+                  <snm>Ho</snm>
+                  <fnm>HN</fnm>
+               </au>
+               <au>
+                  <snm>Kuo</snm>
+                  <fnm>HC</fnm>
+               </au>
+            </aug>
+            <source>Hum Reprod</source>
+            <pubdate>2009</pubdate>
+            <volume>24</volume>
+            <fpage>1114</fpage>
+            <lpage>1125</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1093/humrep/dep003</pubid>
+                  <pubid idtype="pmpid" link="fulltext">19202140</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B15">
+            <title>
+               <p>Autogeneic feeders for the culture of undifferentiated human embryonic stem cells in feeder and feeder-free conditions</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Choo</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Ngo</snm>
+                  <fnm>AS</fnm>
+               </au>
+               <au>
+                  <snm>Ding</snm>
+                  <fnm>V</fnm>
+               </au>
+               <au>
+                  <snm>Oh</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Kiang</snm>
+                  <fnm>LS</fnm>
+               </au>
+            </aug>
+            <source>Methods Cell Biol</source>
+            <pubdate>2008</pubdate>
+            <volume>86</volume>
+            <fpage>15</fpage>
+            <lpage>28</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">full_text</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18442642</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B16">
+            <title>
+               <p>Efficient culture system for human embryonic stem cells using autologous human embryonic stem cell-derived feeder cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Yoo</snm>
+                  <fnm>SJ</fnm>
+               </au>
+               <au>
+                  <snm>Yoon</snm>
+                  <fnm>BS</fnm>
+               </au>
+               <au>
+                  <snm>Kim</snm>
+                  <fnm>JM</fnm>
+               </au>
+               <au>
+                  <snm>Song</snm>
+                  <fnm>JM</fnm>
+               </au>
+               <au>
+                  <snm>Roh</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>You</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Yoon</snm>
+                  <fnm>HS</fnm>
+               </au>
+            </aug>
+            <source>Exp Mol Med</source>
+            <pubdate>2005</pubdate>
+            <volume>37</volume>
+            <fpage>399</fpage>
+            <lpage>407</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid" link="fulltext">16264264</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B17">
+            <title>
+               <p>Immortalized fibroblast-like cells derived from human embryonic stem cells support undifferentiated cell growth</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Xu</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Jiang</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Sottile</snm>
+                  <fnm>V</fnm>
+               </au>
+               <au>
+                  <snm>McWhir</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Lebkowski</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Carpenter</snm>
+                  <fnm>MK</fnm>
+               </au>
+            </aug>
+            <source>Stem Cells</source>
+            <pubdate>2004</pubdate>
+            <volume>22</volume>
+            <fpage>972</fpage>
+            <lpage>980</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1634/stemcells.22-6-972</pubid>
+                  <pubid idtype="pmpid" link="fulltext">15536188</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B18">
+            <title>
+               <p>Three-dimensional epithellal tissues generated from human embryonic stem cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Hewitt</snm>
+                  <fnm>KJ</fnm>
+               </au>
+               <au>
+                  <snm>Shamis</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Carlson</snm>
+                  <fnm>MW</fnm>
+               </au>
+               <au>
+                  <snm>Aberdam</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Aberdam</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Garlick</snm>
+                  <fnm>JA</fnm>
+               </au>
+            </aug>
+            <source>Tissue Eng Part A</source>
+            <pubdate>2009</pubdate>
+            <volume>15</volume>
+            <fpage>3417</fpage>
+            <lpage>3426</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1089/ten.tea.2009.0060</pubid>
+                  <pubid idtype="pmcid">2792058</pubid>
+                  <pubid idtype="pmpid">19405784</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B19">
+            <title>
+               <p>Minimal criteria for defining multipotent mesenchymal stromal cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Dominici</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Le Blanc</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Mueller</snm>
+                  <fnm>I</fnm>
+               </au>
+               <au>
+                  <snm>Slaper-Cortenbach</snm>
+                  <fnm>I</fnm>
+               </au>
+               <au>
+                  <snm>Marini</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Krause</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Deans</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Keating</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Prockop</snm>
+                  <fnm>Dj</fnm>
+               </au>
+               <au>
+                  <snm>Horwitz</snm>
+                  <fnm>E</fnm>
+               </au>
+            </aug>
+            <source>Cytotherapy</source>
+            <pubdate>2006</pubdate>
+            <volume>8</volume>
+            <fpage>315</fpage>
+            <lpage>317</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1080/14653240600855905</pubid>
+                  <pubid idtype="pmpid" link="fulltext">16923606</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B20">
+            <title>
+               <p>Embryonic stem cell lines derived from human blastocysts</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Thomson</snm>
+                  <fnm>JA</fnm>
+               </au>
+               <au>
+                  <snm>Itskovitz-Eldor</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Shapiro</snm>
+                  <fnm>SS</fnm>
+               </au>
+               <au>
+                  <snm>Waknitz</snm>
+                  <fnm>MA</fnm>
+               </au>
+               <au>
+                  <snm>Swiergiel</snm>
+                  <fnm>JJ</fnm>
+               </au>
+               <au>
+                  <snm>Marshall</snm>
+                  <fnm>VS</fnm>
+               </au>
+               <au>
+                  <snm>Jones</snm>
+                  <fnm>JM</fnm>
+               </au>
+            </aug>
+            <source>Science</source>
+            <pubdate>1998</pubdate>
+            <volume>282</volume>
+            <fpage>1145</fpage>
+            <lpage>1147</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1126/science.282.5391.1145</pubid>
+                  <pubid idtype="pmpid" link="fulltext">9804556</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B21">
+            <title>
+               <p>Comparative chondrogenesis of human cell sources in 3D scaffolds</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Seda</snm>
+                  <fnm>TR</fnm>
+               </au>
+               <au>
+                  <snm>Ghosh</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Laha</snm>
+                  <fnm>MM</fnm>
+               </au>
+               <au>
+                  <snm>Shevde</snm>
+                  <fnm>NK</fnm>
+               </au>
+               <au>
+                  <snm>Daheron</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Gimble</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Gumusderelioglu</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Kaplan</snm>
+                  <fnm>DL</fnm>
+               </au>
+            </aug>
+            <source>J Tissue Eng Regen Med</source>
+            <pubdate>2009</pubdate>
+            <volume>3</volume>
+            <fpage>348</fpage>
+            <lpage>360</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1002/term.169</pubid>
+                  <pubid idtype="pmcid">2791320</pubid>
+                  <pubid idtype="pmpid">19382119</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B22">
+            <title>
+               <p>Re-epithelialization of human oral keratinocytes in vitro</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Garlick</snm>
+                  <fnm>JA</fnm>
+               </au>
+               <au>
+                  <snm>Parks</snm>
+                  <fnm>WC</fnm>
+               </au>
+               <au>
+                  <snm>Welgus</snm>
+                  <fnm>HG</fnm>
+               </au>
+               <au>
+                  <snm>Taichman</snm>
+                  <fnm>LB</fnm>
+               </au>
+            </aug>
+            <source>J Dent Res</source>
+            <pubdate>1996</pubdate>
+            <volume>75</volume>
+            <fpage>912</fpage>
+            <lpage>918</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1177/00220345960750030801</pubid>
+                  <pubid idtype="pmpid" link="fulltext">8675802</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B23">
+            <title>
+               <p>Effect of TGF-beta 1 on re-epithelialization of human keratinocytes in vitro: an organotypic model</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Garlick</snm>
+                  <fnm>JA</fnm>
+               </au>
+               <au>
+                  <snm>Taichman</snm>
+                  <fnm>LB</fnm>
+               </au>
+            </aug>
+            <source>J Invest Dermatol</source>
+            <pubdate>1994</pubdate>
+            <volume>103</volume>
+            <fpage>554</fpage>
+            <lpage>559</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1111/1523-1747.ep12396847</pubid>
+                  <pubid idtype="pmpid">7930681</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B24">
+            <title>
+               <p>Mesenchymal progenitors able to differentiate into osteogenic, chondrogenic, and/or adipogenic cells in vitro are present in most primary fibroblast-like cell populations</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Sudo</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Kanno</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Miharada</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Ogawa</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Hiroyama</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Saijo</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Nakamura</snm>
+                  <fnm>Y</fnm>
+               </au>
+            </aug>
+            <source>Stem Cells</source>
+            <pubdate>2007</pubdate>
+            <volume>25</volume>
+            <fpage>1610</fpage>
+            <lpage>1617</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1634/stemcells.2006-0504</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17395773</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B25">
+            <title>
+               <p>Denatured collagen modulates the phenotype of normal and wounded human skin equivalents</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Egles</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Shamis</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Mauney</snm>
+                  <fnm>JR</fnm>
+               </au>
+               <au>
+                  <snm>Volloch</snm>
+                  <fnm>V</fnm>
+               </au>
+               <au>
+                  <snm>Kaplan</snm>
+                  <fnm>DL</fnm>
+               </au>
+               <au>
+                  <snm>Garlick</snm>
+                  <fnm>JA</fnm>
+               </au>
+            </aug>
+            <source>J Invest Dermatol</source>
+            <pubdate>2008</pubdate>
+            <volume>128</volume>
+            <fpage>1830</fpage>
+            <lpage>1837</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/sj.jid.5701240</pubid>
+                  <pubid idtype="pmcid">2810554</pubid>
+                  <pubid idtype="pmpid">18200055</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B26">
+            <title>
+               <p>Isolation and directed differentiation of neural crest stem cells derived from human embryonic stem cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Lee</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Kim</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Elkabetz</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Al Shamy</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Panagiotakos</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Barberi</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Tabar</snm>
+                  <fnm>V</fnm>
+               </au>
+               <au>
+                  <snm>Studer</snm>
+                  <fnm>L</fnm>
+               </au>
+            </aug>
+            <source>Nat Biotechnol</source>
+            <pubdate>2007</pubdate>
+            <volume>25</volume>
+            <fpage>1468</fpage>
+            <lpage>1475</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/nbt1365</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18037878</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B27">
+            <title>
+               <p>Isolation and characterization of neural crest stem cells derived from in vitro-differentiated human embryonic stem cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Jiang</snm>
+                  <fnm>X</fnm>
+               </au>
+               <au>
+                  <snm>Gwye</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>McKeown</snm>
+                  <fnm>SJ</fnm>
+               </au>
+               <au>
+                  <snm>Bronner-Fraser</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Lutzko</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Lawlor</snm>
+                  <fnm>ER</fnm>
+               </au>
+            </aug>
+            <source>Stem Cells Dev</source>
+            <pubdate>2009</pubdate>
+            <volume>18</volume>
+            <fpage>1059</fpage>
+            <lpage>1070</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1089/scd.2008.0362</pubid>
+                  <pubid idtype="pmpid" link="fulltext">19099373</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B28">
+            <title>
+               <p>Mesenchymal progenitor cell research: limitations and recommendations</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Summer</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Fine</snm>
+                  <fnm>A</fnm>
+               </au>
+            </aug>
+            <source>Proc Am Thorac Soc</source>
+            <pubdate>2008</pubdate>
+            <volume>5</volume>
+            <fpage>707</fpage>
+            <lpage>710</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1513/pats.200801-007AW</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18684722</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B29">
+            <title>
+               <p>The role of stromal stem cells in tissue regeneration and wound repair</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Stappenbeck</snm>
+                  <fnm>TS</fnm>
+               </au>
+               <au>
+                  <snm>Miyoshi</snm>
+                  <fnm>H</fnm>
+               </au>
+            </aug>
+            <source>Science</source>
+            <pubdate>2009</pubdate>
+            <volume>324</volume>
+            <fpage>1666</fpage>
+            <lpage>1669</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1126/science.1172687</pubid>
+                  <pubid idtype="pmpid" link="fulltext">19556498</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B30">
+            <title>
+               <p>Mesenchymal stem cells enhance wound healing through differentiation and angiogenesis</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Wu</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Chen</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Scott</snm>
+                  <fnm>PG</fnm>
+               </au>
+               <au>
+                  <snm>Tredget</snm>
+                  <fnm>EE</fnm>
+               </au>
+            </aug>
+            <source>Stem Cells</source>
+            <pubdate>2007</pubdate>
+            <volume>25</volume>
+            <fpage>2648</fpage>
+            <lpage>2659</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1634/stemcells.2007-0226</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17615264</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B31">
+            <title>
+               <p>Interleukin 1 receptor antagonist mediates the antiinflammatory and antifibrotic effect of mesenchymal stem cells during lung injury</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Ortiz</snm>
+                  <fnm>LA</fnm>
+               </au>
+               <au>
+                  <snm>Dutreil</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Fattman</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Pandey</snm>
+                  <fnm>AC</fnm>
+               </au>
+               <au>
+                  <snm>Torres</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Go</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Phinney</snm>
+                  <fnm>DG</fnm>
+               </au>
+            </aug>
+            <source>Proc Natl Acad Sci U.S.A</source>
+            <pubdate>2007</pubdate>
+            <volume>104</volume>
+            <fpage>11002</fpage>
+            <lpage>11007</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1073/pnas.0704421104</pubid>
+                  <pubid idtype="pmcid">1891813</pubid>
+                  <pubid idtype="pmpid">17569781</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B32">
+            <title>
+               <p>Human mesenchymal stem cells are tolerized by mice and improve skin and spinal cord injuries</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Mansilla</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Marin</snm>
+                  <fnm>GH</fnm>
+               </au>
+               <au>
+                  <snm>Sturla</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Drago</snm>
+                  <fnm>HE</fnm>
+               </au>
+               <au>
+                  <snm>Gil</snm>
+                  <fnm>MA</fnm>
+               </au>
+               <au>
+                  <snm>Salas</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Gardiner</snm>
+                  <fnm>MC</fnm>
+               </au>
+               <au>
+                  <snm>Piccinelli</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Bossi</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Salas</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Petrelli</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Iorio</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Ramos</snm>
+                  <fnm>CA</fnm>
+               </au>
+               <au>
+                  <snm>Soratti</snm>
+                  <fnm>C</fnm>
+               </au>
+            </aug>
+            <source>Transplant Proc</source>
+            <pubdate>2005</pubdate>
+            <volume>37</volume>
+            <fpage>292</fpage>
+            <lpage>294</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.transproceed.2005.01.070</pubid>
+                  <pubid idtype="pmpid" link="fulltext">15808623</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B33">
+            <title>
+               <p>Mechanisms involved in the therapeutic properties of mesenchymal stem cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Meirelles</snm>
+                  <fnm>LS</fnm>
+               </au>
+               <au>
+                  <snm>Fontes</snm>
+                  <fnm>AM</fnm>
+               </au>
+               <au>
+                  <snm>Covas</snm>
+                  <fnm>DT</fnm>
+               </au>
+               <au>
+                  <snm>Caplan</snm>
+                  <fnm>AI</fnm>
+               </au>
+            </aug>
+            <source>Cytokine Growth Factor Rev</source>
+            <pubdate>2009</pubdate>
+            <volume>20</volume>
+            <fpage>419</fpage>
+            <lpage>427</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.cytogfr.2009.10.002</pubid>
+                  <pubid idtype="pmpid" link="fulltext">19926330</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B34">
+            <title>
+               <p>Concise review: mesenchymal stem/mulipotent stromal cells: the state of transdifferentiation and modes of tissue repair-current views</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Phinney</snm>
+                  <fnm>DG</fnm>
+               </au>
+               <au>
+                  <snm>Prockop</snm>
+                  <fnm>DJ</fnm>
+               </au>
+            </aug>
+            <source>Stem Cells</source>
+            <pubdate>2007</pubdate>
+            <volume>25</volume>
+            <fpage>2896</fpage>
+            <lpage>2902</lpage>
+            <note>Ref Type: Generic</note>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1634/stemcells.2007-0637</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17901396</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B35">
+            <title>
+               <p>A new paradigm for the role of aging in the development of skin cancer</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Lewis</snm>
+                  <fnm>DA</fnm>
+               </au>
+               <au>
+                  <snm>Travers</snm>
+                  <fnm>JB</fnm>
+               </au>
+               <au>
+                  <snm>Spandau</snm>
+                  <fnm>DF</fnm>
+               </au>
+            </aug>
+            <source>J Invest Dermatol</source>
+            <pubdate>2009</pubdate>
+            <volume>129</volume>
+            <fpage>787</fpage>
+            <lpage>791</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/jid.2008.293</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18818672</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B36">
+            <title>
+               <p>Insulin-like growth factor-binding protein contributes to the proliferation of less proliferative cells in forming skin equivalents</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Kim</snm>
+                  <fnm>DS</fnm>
+               </au>
+               <au>
+                  <snm>Cho</snm>
+                  <fnm>HJ</fnm>
+               </au>
+               <au>
+                  <snm>Yang</snm>
+                  <fnm>SK</fnm>
+               </au>
+               <au>
+                  <snm>Shin</snm>
+                  <fnm>JW</fnm>
+               </au>
+               <au>
+                  <snm>Huh</snm>
+                  <fnm>CH</fnm>
+               </au>
+               <au>
+                  <snm>Park</snm>
+                  <fnm>KC</fnm>
+               </au>
+            </aug>
+            <source>Tissue Eng Part A</source>
+            <pubdate>2009</pubdate>
+            <volume>15</volume>
+            <fpage>1075</fpage>
+            <lpage>1080</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1089/ten.tea.2008.0236</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18803482</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B37">
+            <title>
+               <p>Aging alters functionally human dermal papillary fibroblasts but not reticular fibroblasts: a new view of skin morphogenesis and aging</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Mine</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Fortunel</snm>
+                  <fnm>NO</fnm>
+               </au>
+               <au>
+                  <snm>Pageon</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Asselineau</snm>
+                  <fnm>D</fnm>
+               </au>
+            </aug>
+            <source>PLoS One</source>
+            <pubdate>2008</pubdate>
+            <volume>3</volume>
+            <fpage>e4066</fpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1371/journal.pone.0004066</pubid>
+                  <pubid idtype="pmcid">2605251</pubid>
+                  <pubid idtype="pmpid">19115004</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+      </refgrp>
+   </bm>
+</art>

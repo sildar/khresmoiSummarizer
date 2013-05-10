@@ -1,0 +1,3494 @@
+<!DOCTYPE art SYSTEM "article.dtd">
+<art>
+   <ui>scrt96</ui>
+   <ji>1757-6512</ji>
+   <fm>
+      <dochead>Research</dochead>
+      <bibl>
+         <title>
+            <p>Interleukin-1&#946; and transforming growth factor-&#946; cooperate to induce neurosphere formation and increase tumorigenicity of adherent LN-229 glioma cells</p>
+         </title>
+         <aug>
+            <au id="A1" ca="yes">
+               <snm>Wang</snm>
+               <fnm>Lei</fnm>
+               <insr iid="I1"/>
+               <email>leiwang@vet.k-state.edu</email>
+            </au>
+            <au id="A2">
+               <snm>Liu</snm>
+               <fnm>Ziyan</fnm>
+               <insr iid="I1"/>
+               <email>liuziyan@ksu.edu</email>
+            </au>
+            <au id="A3">
+               <snm>Balivada</snm>
+               <fnm>Sivasai</fnm>
+               <insr iid="I1"/>
+               <email>sbalivad@vet.k-state.edu</email>
+            </au>
+            <au id="A4">
+               <snm>Shrestha</snm>
+               <fnm>Tej</fnm>
+               <insr iid="I2"/>
+               <email>tbs3@vet.k-state.edu</email>
+            </au>
+            <au id="A5">
+               <snm>Bossmann</snm>
+               <fnm>Stefan</fnm>
+               <insr iid="I2"/>
+               <email>sbossman@k-state.edu</email>
+            </au>
+            <au id="A6">
+               <snm>Pyle</snm>
+               <fnm>Marla</fnm>
+               <insr iid="I1"/>
+               <email>mpyle@vet.k-state.edu</email>
+            </au>
+            <au id="A7">
+               <snm>Pappan</snm>
+               <fnm>Loretta</fnm>
+               <insr iid="I1"/>
+               <email>lkpappan@vet.k-state.edu</email>
+            </au>
+            <au id="A8" ca="yes">
+               <snm>Shi</snm>
+               <fnm>Jishu</fnm>
+               <insr iid="I1"/>
+               <email>jshi@vet.k-state.edu</email>
+            </au>
+            <au id="A9">
+               <snm>Troyer</snm>
+               <fnm>Deryl</fnm>
+               <insr iid="I1"/>
+               <email>troyer@vet.k-state.edu</email>
+            </au>
+         </aug>
+         <insg>
+            <ins id="I1">
+               <p>Department of Anatomy and Physiology, College of Veterinary Medicine, Kansas State University, Manhattan, KS 66506, USA</p>
+            </ins>
+            <ins id="I2">
+               <p>Department of Chemistry, College of Arts and Sciences, Kansas State University, Manhattan, KS 66506, USA</p>
+            </ins>
+         </insg>
+         <source>Stem Cell Research &amp; Therapy</source>
+         <issn>1757-6512</issn>
+         <pubdate>2012</pubdate>
+         <volume>3</volume>
+         <issue>1</issue>
+         <fpage>5</fpage>
+         <url>http://stemcellres.com/content/3/1/5</url>
+         <xrefbib>
+            <pubidlist>
+               <pubid idtype="doi">10.1186/scrt96</pubid>
+               <pubid idtype="pmpid">22330721</pubid>
+            </pubidlist>
+         </xrefbib>
+      </bibl>
+      <history>
+         <rec>
+            <date>
+               <day>8</day>
+               <month>10</month>
+               <year>2011</year>
+            </date>
+         </rec>
+         <revrec>
+            <date>
+               <day>27</day>
+               <month>12</month>
+               <year>2011</year>
+            </date>
+         </revrec>
+         <acc>
+            <date>
+               <day>10</day>
+               <month>2</month>
+               <year>2012</year>
+            </date>
+         </acc>
+         <pub>
+            <date>
+               <day>10</day>
+               <month>2</month>
+               <year>2012</year>
+            </date>
+         </pub>
+      </history>
+      <cpyrt>
+         <year>2012</year>
+         <collab>Wang et al.; licensee BioMed Central Ltd.</collab>
+         <note>This is an open access article distributed under the terms of the Creative Commons Attribution License (<url>http://creativecommons.org/licenses/by/2.0</url>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</note>
+      </cpyrt>
+      <abs>
+         <sec>
+            <st>
+               <p>Abstract</p>
+            </st>
+            <sec>
+               <st>
+                  <p>Introduction</p>
+               </st>
+               <p>Glioma stem cells (GSCs) have the property of self-renewal and appear to be a driving force for the initiation and recurrence of gliomas. We recently found that the human tumorigenic LN-229 glioma cell line failed to form neurospheres in serum-free conditions and generated mostly small tumors <it>in vivo</it>, suggesting that either LN-229 GSCs are not active in these conditions or GSCs are absent in the LN-229 cell line.</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>Methods</p>
+               </st>
+               <p>Using self-renewal assay, soft-agar colony assay, cell proliferation assay, invasion assay, real time PCR analysis, ELISA and <it>in vivo </it>tumorigenic assay, we investigated the effects of interleukin (IL)-1&#946; and transforming growth factor (TGF)-&#946; on the development of GSCs from LN-229 cells.</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>Results</p>
+               </st>
+               <p>Here, we demonstrate that the combination of IL-1&#946; and TGF-&#946; can induce LN-229 cells to form neurospheres in serum-free medium. IL-1&#946;/TGF-&#946;-induced neurospheres display up-regulated expression of stemness factor genes (nestin, Bmi-1, Notch-2 and LIF), and increased invasiveness, drug resistance and tumor growth <it>in vivo</it>: hallmarks of GSCs. These results indicate that IL-1&#946; and TGF-&#946; cooperate to induce a GSC phenotype in the LN-229 cell line. Induction of nestin, LIF and Notch-2 by IL-1&#946;/TGF-&#946; can be reverted after cytokine withdrawal. Remarkably, however, up-regulated Bmi-1 levels remained unchanged after cytokine withdrawal; and the cytokine-withdrawn cells maintained strong clonogenicity, suggesting that Bmi-1 may play a crucial role in tumorigenesis.</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>Conclusions</p>
+               </st>
+               <p>Our finding indicates that glioma cells without self-renewal capability in standard conditions could also contribute to glioma malignancy when cytokines, such as IL-1&#946; and TGF-&#946;, are present in the tumor environment. Targeting GSC-promoting cytokines that are highly expressed in glioblastomas may contribute to the development of more effective glioma therapies.</p>
+            </sec>
+         </sec>
+      </abs>
+   </fm>
+   <bdy>
+      <sec>
+         <st>
+            <p>Introduction</p>
+         </st>
+         <p>Gliomas are the most common primary brain tumors in adults and glioblastomas are the most malignant gliomas (WHO grade IV). Despite substantial progress in early diagnosis, surgery and radiation protocols, only 15% of patients who undergo radical surgery are still alive within two years after diagnosis <abbrgrp><abbr bid="B1">1</abbr></abbrgrp>. The poor prognosis is mainly attributed to the highly diffusive growth pattern of glioblastoma cells into surrounding brain tissue, preventing complete surgical removal. Although there has been intensive effort devoted to understanding the molecular mechanisms involved in the genesis and progression of glioma, effective treatment of this tumor type still remains elusive <abbrgrp><abbr bid="B2">2</abbr><abbr bid="B3">3</abbr></abbrgrp>.</p>
+         <p>Cancer stem cells (CSCs) or tumor-initiating cells (TICs) are a subpopulation of tumor cells with the ability to undergo self-renewal and recapitulate the entire tumor population <abbrgrp><abbr bid="B4">4</abbr></abbrgrp>. Similar to CSCs from other types of cancers, glioma stem cells (GSCs) have been identified from human glioma tissues and glioma cell lines by applying conditions typically used for isolation of neural stem cells (NSCs) <abbrgrp><abbr bid="B5">5</abbr><abbr bid="B6">6</abbr><abbr bid="B7">7</abbr><abbr bid="B8">8</abbr><abbr bid="B9">9</abbr></abbrgrp>. GSCs are characterized by the ability of self-renewal to generate spheres termed "neurospheres" or "glioma neurospheres" when cultured in serum-free conditions supplemented with epidermal growth factor (EGF) and basic fibroblast growth factor (bFGF). These glioma neurospheres reflect biological and pathological characteristics of primary gliomas, display resistance to chemo- and radiotherapies, and, more importantly, have enhanced oncogenic potential, generating tumors that reproduce the characteristics of the original tumors after intracranial transplantation <abbrgrp><abbr bid="B8">8</abbr><abbr bid="B10">10</abbr><abbr bid="B11">11</abbr></abbrgrp>. Thus, understanding the biology of GSCs may provide therapeutic strategies for the better treatment of glioma by targeting GSCs.</p>
+         <p>Self-renewal of GSCs appears to be a driving force for "successful" tumor growth, and significant effort has been made to elucidate its regulatory mechanisms <abbrgrp><abbr bid="B12">12</abbr></abbrgrp>. In recent years, the <it>in vitro </it>neurosphere formation assay in serum-free conditions has been established as a measure of GSC self-renewal <abbrgrp><abbr bid="B13">13</abbr></abbrgrp>. This assay has been validated by use of xenotransplantation models that are considered as the gold standard for evaluation of GSC self-renewal and tumor initiation <abbrgrp><abbr bid="B6">6</abbr></abbrgrp>. Accordingly, the ability to form neurospheres <it>in vitro </it>is defined as an important aspect of GSCs <abbrgrp><abbr bid="B14">14</abbr></abbrgrp>, and has been employed to verify GSCs that are isolated from gliomas using varied methods, as well as to determine molecular factors that regulate self-renewal of GSCs <abbrgrp><abbr bid="B15">15</abbr><abbr bid="B16">16</abbr></abbrgrp>.</p>
+         <p>Inflammatory cytokines play a key role in malignant progression of various cancer types <abbrgrp><abbr bid="B17">17</abbr></abbrgrp>. In human glioblastomas, pro-inflammatory cytokines, interleukin (IL)-1, IL-6 and IL-8, are expressed and secreted at high levels, and their expression levels are correlated with the histological grade of the neoplasms <abbrgrp><abbr bid="B18">18</abbr><abbr bid="B19">19</abbr><abbr bid="B20">20</abbr><abbr bid="B21">21</abbr></abbrgrp>. The essential role of IL-6 in glioma development has been demonstrated in a mouse model <abbrgrp><abbr bid="B22">22</abbr></abbrgrp>. Transforming growth factor-&#946; (TGF-&#946;), an immunosuppressive cytokine, is also significantly elevated in high-grade gliomas and increased TGF-&#946; activity confers poor prognosis in glioma patients <abbrgrp><abbr bid="B23">23</abbr><abbr bid="B24">24</abbr></abbrgrp>. It has been suggested that the inflammatory cytokines contribute to tumor malignancy by promoting invasion, metastasis, angiogenesis and evasion from immune attack <abbrgrp><abbr bid="B17">17</abbr><abbr bid="B25">25</abbr><abbr bid="B26">26</abbr></abbrgrp>. Interestingly, these cellular behaviors promoted by cytokines are also characteristics of GSCs <abbrgrp><abbr bid="B27">27</abbr></abbrgrp>, suggesting that cytokines may contribute to the development of GSCs. Indeed, recent findings suggest that cytokine signaling pathways play a critical role in the regulation of GSC self-renewal. For example, higher expression levels of IL-6 receptors have been found in GSCs than non-stem glioma cells, and targeting IL-6 ligand or receptor expression in GSCs significantly reduced neurosphere formation and tumor growth <abbrgrp><abbr bid="B16">16</abbr></abbrgrp>. TGF-&#946; signaling has also been shown to increase self-renewal capacity and prevent differentiation of GSCs <abbrgrp><abbr bid="B28">28</abbr><abbr bid="B29">29</abbr><abbr bid="B30">30</abbr><abbr bid="B31">31</abbr></abbrgrp>.</p>
+         <p>However, these studies focus on a rare population of GSCs that can actively divide in serum-free medium to elucidate self-renewal regulatory mechanisms. Recent data show that not all GSCs can generate neurospheres, suggesting that there are different subtypes of GSCs and some GSCs remain inactive in standard conditions <abbrgrp><abbr bid="B32">32</abbr></abbrgrp>. In addition, differentiated glioma cells have been reported to reprogram towards a stem cell phenotype in hypoxia and acidic conditions, suggesting that GSC can be a dynamic stage because of cancer cell plasticity <abbrgrp><abbr bid="B33">33</abbr><abbr bid="B34">34</abbr></abbrgrp>. Taken together, these studies implicate that microenvironment conditions can regulate GSC activities and development. Recently, we found that the human glioma cell line LN-229 failed to form neurospheres in serum-free conditions, suggesting that GSCs in LN-229 are not active in these conditions or they are absent in this line. Therefore, in this study, we used the LN-229 cell model to investigate the effects of IL-1&#946; and TGF-&#946; on development of GSCs.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Materials and methods</p>
+         </st>
+         <sec>
+            <st>
+               <p>Cell culture</p>
+            </st>
+            <p>Human glioma cell lines U87, T98, U138, and D54 were obtained from the American Type Culture Collection (Manassas, VA, USA). LN-229 was a kind gift from Dr. Gilbert Cote (MD Anderson Cancer Center, Houston, TX, USA). All cells were maintained in Dulbecco's modified Eagle's medium (DMEM) with 10% fetal bovine serum (FBS) and 1% penicillin-streptomycin (Invitrogen Corp., Carlsbad, CA, USA) in a humidified incubator with 37&#176;C and 5% CO<sub>2</sub>. For neurosphere induction, cells were cultured in serum-free medium (SFM), which consisted of neurobasal-A medium supplemented with B27, GlutaMAX-I supplement, 1% penicillin-streptomycin (Invitrogen Corp.), 50 ng/ml heparin (Sigma-Aldrich, St. Louis, MO, USA), 20 ng/ml of EGF, and 20 ng/ml bFGF (R&amp;D Systems, Minneapolis, MN, USA). To induce neurosphere formation of LN-229 cells, 200 pM IL-1&#946; and 200 pM TGF-&#946;1 (both from R&amp;D Systems) were added every other day to the serum-free medium. IL-6 and IL-8 (both from R&amp;D Systems) were also used to evaluate their effects on induction of neurospheres.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Self-renewal assay and cell proliferation assay</p>
+            </st>
+            <p>LN-229 cells at a clonal density of 1 cell/&#956;l in serum-free medium were seeded at 100 &#956;l/well in 96-well plates and treated with or without 200 pM IL-1&#946; and/or 200 pM TGF-&#946;1 for seven days. IL-1&#946; and TGF-&#946;1 were added every other day. The total number of neurospheres in each well was counted under a microscope. Cell proliferation was measured using the cell proliferation kit I (MTT, Roche Applied Science, Indianapolis, IN, USA) as described by the manufacturer.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>RNA extraction and RT-PCR</p>
+            </st>
+            <p>Total RNA was extracted using TRI reagent (Sigma-Aldrich), followed by digestion with a DNase kit (Applied Biosystems, Carlsbad, CA, USA) to remove DNA residues. Reverse transcription was carried out using the iScript cDNA synthesis kit (Bio-Rad, Hercules, CA, USA) and quantitative real-time PCR was performed using SsoFast Eva Green Supermix kit (Bio-Rad).</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Immunostaining and immunoblotting</p>
+            </st>
+            <p>LN-229 cells were seeded in slide chambers (Fisher Scientific, Hanover Park, IL, USA) and cultured for seven days in serum-free medium in the absence or presence of IL-1&#946;/TGF-&#946;. Then, cells were fixed with 4% paraformaldehyde, permeablized with PBS containing 0.2% Triton X-100, and incubated with mouse anti-nestin (1:50; Santa Cruz Biotechnology, Santa Cruz, CA, USA), and followed by secondary chicken anti-mouse IgG (H+L) antibody conjugated with Alexa 488 (1:200, Invitrogen). Cells were then mounted with VECTASHIELD Mounting Medium with DAPI (Vector laboratories, Burlingame, CA, USA) and observed with a confocal microscope.</p>
+            <p>LN-229 cells were cultured in SFM in the absence or presence of IL-1&#946;/TGF-&#946; for seven days. Cells were then washed with cold PBS, lysed in RIPA buffer (25 mM Tris-HCl (pH 7.6), 150 mM NaCl, 1% NP-40, 1% sodium deoxycholate, 0.1% SDS) and pelleted by centrifugation. Protein concentrations were determined using a NanoDrop instrument (Thermo Scientific, Wilmington, DE, USA). Cell lysates (30 &#956;g protein for each sample) were incubated for five minutes at 100&#176;C in 2x loading buffer, separated by electrophoresis in 10% polyacrylamide gels, and transferred to PVDF membranes (Millipore, Bedford, MA, USA). Membranes were blocked with 5% milk in PBS and then incubated with primary antibody anti-Bmi-1 clone F6 (1:1,000 dilution, Millipore), or anti-&#946;-actin (1:1,000 dilution, Sigma), and secondary antibody HRP-conjugated goat anti-mouse IgG-HRP (1:1,000 dilution, Millipore) or anti-rabbit IgG HRP-linked antibody (1:1,000 dilution, Cell Signaling, Danvers, MA, USA), respectively. Detection was performed using HyGLO substrate (Denville Scientific, Metuchen, NJ, USA) and images were taken using the AlphaEaseFC imaging system (Cell Biosciences, Santa Clara, CA, USA).</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Invasion assay</p>
+            </st>
+            <p>The invasion assay was performed using 24-well Matrigel invasion chambers (BD Biosciences, San Jose, CA, USA). Single control monolayer cells and IL-1&#946;/TGF-&#946;-induced neurosphere cells were resuspended in serum-free medium and loaded into the top inserts (2.5 &#215; 10<sup>4</sup>/500 &#956;l). DMEM with 20% FBS was added to the lower chamber (750 &#956;l) as a chemoattractant. After incubation for 48 h at 37&#176;C, non-invasive cells were removed from the top of the matrigel with a cotton tipped swab. Invasive cells that migrated through 8-&#956;m pores to the underside of the membrane were fixed with 100% methanol and stained with 0.005% crystal violet before counting under a microscope.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Chemoresistance assay</p>
+            </st>
+            <p>Control monolayer and IL-1&#946;/TGF-&#946;-induced neurosphere cells in serum-free medium were treated with temozolomide (Sigma-Aldrich) at a concentration of 250, 500, 1,000 &#956;M for two days. Then cells were stained with Trypan blue (Amresco Inc., Solon, OH, USA) and counted under a microscope. The viability of the cells was measured by the percentage of live cells over the total of live and dead cells.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Soft-agar colony-forming assay</p>
+            </st>
+            <p>The soft agar assay was performed in six-well plates containing two layers of Sea Plague Agar (Invitrogen). The bottom layer consisted of 0.8% agar in 1 ml of DMEM with 10% FBS. Control monolayer and IL-1&#946;/TGF-&#946;-induced neurosphere cells were dissociated and placed (1 &#215; 10<sup>4</sup>/well) in the top layer containing 0.4% agar in the same medium as the bottom. Cells were cultured for two to three weeks and colonies were photographed under a microscope and measured using the ImageJ program (<url>http://imagej.nih.gov</url>). Colonies with diameters larger than 80 &#956;m were counted.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Transfection of LN-229 cells with Gaussia luciferase</p>
+            </st>
+            <p>LN-229 cells were transfected with a pCMV-<it>G</it>luc-1 vector encoding the <it>Gaussia </it>luciferase gene (Nanolight Technology, Pinetop, AZ, USA) using Lipofectamine 2000 (Invitrogen). The stable transfectants were selected with gentamicin-418 at 1,000 &#956;g/ml. Expression of <it>G</it>luc was confirmed by a luciferase assay with the IVIS Lumina II imaging system (Caliper Life Sciences, Hopkinton, MA, USA).</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Implantation of LN-229 cells into immunocompromised mice</p>
+            </st>
+            <p>The LN-229 cells stably expressing <it>G</it>luc were used for an <it>in vivo </it>study. Athymic nude mice (nu/nu, six to seven weeks old; Charles River Laboratories, Wilmington, MA, USA) were stereotactically implanted with the control monolayer cells (3 &#215; 10<sup>5 </sup>cells/mouse) or IL-1&#946;/TGF-&#946;-induced neurosphere cells (3 &#215; 10<sup>5 </sup>cells/mouse) in 3 &#956;l of PBS into the right striatum (1 mm anterior and 2 mm lateral to bregma; 3.5 mm intraparenchymal). Five weeks after implantation, animals were subjected to bioluminescence imaging, followed by euthanization. Brains were removed, placed in Tissue-Tek O.C.T. compound (Sakura Finetek, Torrance, CA, USA), and quickly frozen in liquid nitrogen. The frozen tissues were then stored at -80&#176;C until sectioning as described below. All animal procedures were approved by the Institutional Animal Care and Use Committee (IACUC) of Kansas State University and the IACUC number is 2813.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Bioluminescence imaging</p>
+            </st>
+            <p>Bioluminescence imaging was performed using the IVIS Lumina II imaging system (Caliper Life Sciences). To determine the correlation between the number of <it>G</it>luc-expressing cells and the bioluminescence signal <it>in vitro</it>, various numbers of the monolayer or IL-1&#946;/TGF-&#946;-induced neurosphere cells were used, and images were taken one minute after a substrate for <it>G</it>luc (60 &#956;g/ml coelenterazine) was added to the serum-free medium. For <it>in vivo </it>bioluminescence imaging, coelenterazine (150 &#956;g/animal in 150 &#956;l of PBS) was given i.v.; animals were anesthetized with 2.5 to 3% isoflurane for approximately two minutes and then placed inside the camera box (Caliper Life Sciences) that maintained 2% isoflurane for the duration of imaging. The imaging scan time for each animal was one minute.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Coelenterazine synthesis and solution preparation</p>
+            </st>
+            <p>Coelenterazine was synthesized by an extensive modification of the procedure reported by Adamczyk <it>et al. </it><abbrgrp><abbr bid="B35">35</abbr></abbrgrp>. Aminopyrazine was used as a starting material to generate 3,5-diboromoaminopyrizine as a building block for introducing the pyrazine moiety of coelenterazine. A series of Negishi coupling reactions was used to cross-couple the benzyl and 4-hydroxyphenyl groups to 3,5-diboromoaminopyrizine by using Huo's and Buchwald's approach to zincation <abbrgrp><abbr bid="B36">36</abbr><abbr bid="B37">37</abbr></abbrgrp>. The complete synthesis and characterization of coelentearzine will be published separately.</p>
+            <p>Coelenterazine and hydroxypropyl-beta-cyclodextrin (Acros Organics, Pittsburgh, PA, USA) (1:50, w:w) was dissolved in methanol (ACS grade). Methanol was removed by high vacuum distillation to obtain a dry yellow powder of the mixture of coelenterazine and cyclodextrin. This mixture was dissolved in autoclaved distilled water prior to imaging. A total of 150 &#956;L of coelentrazine (1 mg/mL coelenterazine), which is the substrate for <it>Gaussia </it>luciferase, was injected i.v. prior to tumor imaging.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Brain sectioning, H&amp;E staining and tumor volume calculation</p>
+            </st>
+            <p>Mouse brains were cryostat-cut at 10 &#956;m thickness in coronal sections, mounted on Probe One Plus slides (Fisher Scientific) and stained with an H&amp;E stain kit (BBC Biochemical, Stanwood, WA, USA).</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Enzyme-linked immunosorbent assay (ELISA)</p>
+            </st>
+            <p>Cells were treated with or without IL-1&#946; and TGF-&#946; in serum-free medium for six days. Cells were then washed with PBS and cultured in serum-free medium without cytokines for 24 h at 37&#176;C. Cell supernatants were harvested and assayed for IL-1&#946; and IL-8 using Quantikine ELISA Kits (R&amp;D Systems) as described by the manufacturer.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Statistical analysis</p>
+            </st>
+            <p>Student's <it>t-</it>test was used to determine statistical significance for all analyzed data except the <it>in vivo </it>bioluminescence signal experiment. A Fisher's exact test was used to compare the percentage of mice with positive bioluminescence signals. In all cases, we consider a two-sided <it>P </it>&lt; 0.05 significant.</p>
+         </sec>
+      </sec>
+      <sec>
+         <st>
+            <p>Results</p>
+         </st>
+         <sec>
+            <st>
+               <p>The combination of IL-1&#946; and TGF-&#946; induced neurosphere formation of LN-229 cells in serum-free medium</p>
+            </st>
+            <p>In a preliminary study of GSCs, we compared the growth properties of human glioblastoma cell lines U87, T98, U138, D54 and LN-229 in serum-free medium supplemented with EGF and bFGF. A single cell line, LN-229, did not grow as neurospheres, but monolayer cells under these conditions (Figure <figr fid="F1">1A</figr>). Immunocytochemical analysis showed that the monolayer culture of LN-229 cells had low level expression of nestin (a well-known neural stem/progenitor cell marker) (Figure <figr fid="F2">2C</figr>). The lack of neurosphere formation and low nestin expression of LN-229 culture in serum-free medium suggests that GSCs are absent in the LN-229 cell line or they are inactive in this condition.</p>
+            <fig id="F1">
+               <title>
+                  <p>Figure 1</p>
+               </title>
+               <caption>
+                  <p>The combination of IL-1&#946; and TGF-&#946; induces neurosphere formation of LN-229 cells</p>
+               </caption>
+               <text>
+                  <p><b>The combination of IL-1&#946; and TGF-&#946; induces neurosphere formation of LN-229 cells</b>. <b>(A</b>) Representative images of LN-229 cells in the absence or presence of IL-&#946; and TGF-&#946;. LN-229 cells (10,000 cells/well) were cultured in six-well plates containing serum-free medium (SFM) in the absence or presence of 200 pM IL-1&#946; or/and 200 pM TGF-&#946; for seven days. Scale bar = 200 &#956;m. (<b>B</b>-<b>C</b>) Neurosphere formation and proliferation of LN-229 cells cultured at a clonal density (1 cell/&#956;l) in 96-well plates containing 100 &#956;l SFM in each well with or without IL-1&#946;/TGF-&#946; for 14 days. (<b>B</b>) The percentage of newly formed neurospheres per well in the presence IL-1&#946;/TGF-&#946;. *<it>P </it>&lt; 0.05. (<b>C</b>) IL-1&#946;/TGF-&#946;-induced neurosphere cells proliferated more slowly than control cells, as demonstrated using an MTT assay. Error bars represent SEM. *<it>P </it>&lt; 0.05.</p>
+               </text>
+               <graphic file="scrt96-1"/>
+            </fig>
+            <fig id="F2">
+               <title>
+                  <p>Figure 2</p>
+               </title>
+               <caption>
+                  <p>IL-1&#946;/TGF-&#946;-induced neurosphere cells express stem cell markers</p>
+               </caption>
+               <text>
+                  <p><b>IL-1&#946;/TGF-&#946;-induced neurosphere cells express stem cell markers</b>. <b>(A</b>) Transcription levels of stemness genes in control and IL-1&#946;/TGF-&#946;-induced neurospheres. LN-229 cells were cultured in SFM with or without IL-1&#946;/TGF-&#946; for seven days. Differential mRNA levels of stem cell markers were determined by qRT-PCR. &#946;-actin was used as an internal normalization control. Error bars represent SEM. *<it>P </it>&lt; 0.01. (<b>B</b>) Immunoblot analysis for Bmi-1 on cell lysates from control monolayer cells and IL-1&#946;/TGF-&#946;-induced neurospheres. &#946;-actin was used as an internal normalization control. <b>(C</b>) IL-1&#946;/TGF-&#946;-induced neurospheres express nestin, as demonstrated using an immunostaining assay. LN-229 cells were cultured in SFM with or without IL-1&#946;/TGF-&#946; for seven days and stained with anti-nestin antibody. Nuclei (blue stain) were counterstained with DAPI. Scale bar = 20 &#956;m.</p>
+               </text>
+               <graphic file="scrt96-2"/>
+            </fig>
+            <p>IL-1&#946; and TGF-&#946; are highly expressed in malignant gliomas and associated with poor prognosis of glioma patients. Therefore, we hypothesized that TGF-&#946; and IL-1&#946; may contribute to GSC growth. To test the hypothesis, we investigated whether IL-1&#946; and TGF-&#946; could induce neurosphere formation of LN-229 cells. IL-1&#946;, TGF-&#946;, or the combination of both cytokines was added to LN-229 cell culture in serum-free medium. As shown in Figure <figr fid="F1">1A</figr>, very few clusters were formed in the presence of IL-1&#946; or TGF-&#946; alone and most cells remained as a monolayer in the seven-day cultures. However, in the presence of IL-1&#946; and TGF-&#946;, LN-229 cells proliferated as clusters at first, which then grew bigger and detached from the bottom of plates to form neurospheres. The neurosphere formation induced by IL-1&#946;/TGF-&#946;, but not IL-1&#946; or TGF-&#946; alone, indicates a synergistic effect of IL-1&#946; and TGF-&#946; on the induction of neurospheres.</p>
+            <p>To avoid cell aggregation that leads to neurosphere formation, LN-229 cells were plated in 96-well plates at a clonal density of 1 cell/&#956;l in serum-free medium in the presence or absence of IL-1&#946; and TGF-&#946;. As shown in Figure <figr fid="F1">1B</figr>, 8% of the LN-229 cells treated with IL-1&#946;/TGF-&#946; formed neurospheres. Meanwhile, we compared the proliferation rates of LN-229 monolayer cells and IL-1&#946;/TGF-&#946;-induced neurospheres using an MTT assay. As shown in Figure <figr fid="F1">1C</figr>, neurospheres induced by IL-1&#946;/TGF-&#946; grew significantly (<it>P </it>&lt; 0.05) more slowly than the untreated monolayer cells.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>IL-1&#946;/TGF-&#946;-induced neurosphere cells express stem cell markers</p>
+            </st>
+            <p>To further characterize IL-1&#946;/TGF-&#946;-induced neurospheres and determine the molecular mechanisms underlying these observations, we evaluated the expression of several stemness genes in LN-229 cells treated with or without IL-1&#946;, TGF-&#946;, or the combination of both in serum-free medium. Using real time PCR, we found that the expression of nestin, Notch2. Bmi-1 and LIF was up-regulated significantly in IL-1&#946;/TGF-&#946;-induced LN-229 neurospheres, while they were slightly increased in cells treated with IL-1&#946; or TGF-&#946; alone, compared to control cells (Figure <figr fid="F2">2A</figr>). The enhanced expression of Bmi-1 and nestin in IL-1&#946;/TGF-&#946;-induced neurospheres was further confirmed by immunoblotting and immunofluoresence staining, respectively (Figure <figr fid="F2">2B, C</figr>). These results indicate that the pathways of IL-1&#946; and TGF-&#946; signaling interact to augment the expression of stemness genes, leading to the formation of neurospheres (Figure <figr fid="F1">1A</figr>).</p>
+         </sec>
+         <sec>
+            <st>
+               <p>IL-1&#946;/TGF-&#946;-induced neurospheres of LN-229 cells displayed augmented drug resistance and cell migration</p>
+            </st>
+            <p>To determine whether IL-1&#946;/TGF-&#946;-induced neurospheres possessed typical GSC properties, such as drug resistance and invasiveness, we first compared the cytotoxic effect of temozolomide, a chemotherapeutic agent for human glioblastomas, on control monolayer LN-229 cells and IL-1&#946;/TGF-&#946;-induced neurospheres. Control LN-229 and neurosphere cells were treated with various concentrations of temozolomide for two days. Cell viability was measured as the percentage of live cells relative to total cell number (dead + live cells). As shown in Figure <figr fid="F3">3A</figr>, IL-1&#946;/TGF-&#946;-induced neurospheres displayed significantly (<it>P </it>&lt; 0.01) greater resistance to temozolomide at concentrations range from 250 to 1,000 &#956;M.</p>
+            <fig id="F3">
+               <title>
+                  <p>Figure 3</p>
+               </title>
+               <caption>
+                  <p>IL-1&#946;/TGF-&#946;-induced neurosphere cells show enhanced drug resistance and invasiveness</p>
+               </caption>
+               <text>
+                  <p><b>IL-1&#946;/TGF-&#946;-induced neurosphere cells show enhanced drug resistance and invasiveness</b>. (<b>A</b>) IL-1&#946;/TGF-&#946;-induced neurosphere cells develop drug resistance. The control and IL-1&#946;/TGF-&#946;-induced neurosphere cells were treated with various concentrations of temozolomide for two days. Then, cells were dissociated and stained with Trypan blue, and counted under a microscope. The viability was determined by the percentage of live cells over the sum of live and dead cells. *<it>P </it>&lt; 0.01. (<b>B, C, D</b>) IL-1&#946;/TGF-&#946;-induced neurosphere cells have stronger invasiveness and enhanced invasive gene expression. LN-229 cells were cultured in SFM in the absence or presence of IL-1&#946;/TGF-&#946; for seven days and then the control monolayer cells and IL-1&#946;/TGF-&#946;-induced neurosphere cells were dissociated. 5 &#215; 10<sup>4 </sup>cells of each group were placed on the top well of a Matrigel Invasion chamber. DMEM medium with 20% FBS was added to the lower chamber. After 48 h of incubation, non-invaded cells were removed from the top chamber and invaded cells at the lower surface were fixed and stained with 0.005% crystal violet. Representative images of migrated cells were shown in <b>(B)</b>. Migrated cells/well were counted under a microscope and reported in <b>(C)</b>. *<it>P </it>&lt; 0.01. (<b>D</b>) Transcription levels of invasive genes in control monolayer and IL-1&#946;/TGF-&#946;-induced neurosphere cells. LN-229 cells were cultured in SFM in the absence or presence of IL-1&#946;/TGF-&#946; for seven days and relative gene expression was determined by qRT-PCR analysis. &#946;-actin was used as an internal normalization control. Error bars represent SEM. *<it>P </it>&lt; 0.005.</p>
+               </text>
+               <graphic file="scrt96-3"/>
+            </fig>
+            <p>We then evaluated the invasiveness of IL-1&#946;/TGF-&#946;-induced neurospheres using a transwell migration assay. Equal numbers of dissociated single cells from IL-1&#946;/TGF-&#946;-induced neurospheres and control monolayer LN-229 cultures were placed on transwell inserts. Invasiveness was measured by counting the cells that had migrated through the insert 48 h post inoculation (Figure <figr fid="F3">3B</figr>). It was found that twice as many of IL-1&#946;/TGF-&#946;-induced neurosphere cells migrated through the insert compared to that of control cells (Figure <figr fid="F3">3C</figr>).</p>
+            <p>To understand the molecular mechanisms underlying the enhanced migration, we examined the gene expression profile of several proteins that are known to be involved in cell migration and invasion. It was found that the expression of Smad interacting protein 1 [SIP1; also known as zinc finger binding protein 2 (ZEB2)], &#946;-integrin and neuronal (N)-cadherin were significantly (<it>P </it>&lt; 0.005) increased in IL-1&#946;/TGF-&#946;-induced neurosphere cells compared to that in control LN-229 cells (Figure <figr fid="F3">3D</figr>). This result suggests that SIP1, &#946;-integrin, and N-cadherin might be involved in the migration of IL-1&#946;/TGF-&#946;-induced neurosphere cells.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>IL-1&#946;/TGF-&#946;-induced neurospheres displayed increased oncogenic potential <it>in vitro </it>and <it>in vivo</it></p>
+            </st>
+            <p>To assess the oncogenic potential of IL-1&#946;/TGF-&#946;-induced neurospheres, we performed a colony-forming assay that is frequently utilized for <it>in vitro </it>evaluation of malignant transformation and tumorigenesis <abbrgrp><abbr bid="B31">31</abbr></abbrgrp>. Cytokine-induced neurospheres and control monolayer LN-229 cells were disassociated and then seeded in soft agar at the same concentration. The total number and size of colonies formed in soft agar wells were determined after the cells were cultured for 14 days. As shown in Figure <figr fid="F4">4</figr>, IL-1&#946;/TGF-&#946;-induced neurosphere cells generated significantly more (Figure <figr fid="F4">4B</figr>) as well as larger (Figure <figr fid="F4">4C</figr>) colonies than the control monolayer cells, indicating that IL-1&#946;/TGF-&#946;-induced neurosphere cells possessed higher oncogenic potential.</p>
+            <fig id="F4">
+               <title>
+                  <p>Figure 4</p>
+               </title>
+               <caption>
+                  <p>IL-1&#946;/TGF-&#946;-treated cells form more and larger colonies than control cells in soft agar</p>
+               </caption>
+               <text>
+                  <p><b>IL-1&#946;/TGF-&#946;-treated cells form more and larger colonies than control cells in soft agar</b>. Single control or IL-1&#946;/TGF-&#946;-treated cells were plated in soft agar containing DMEM and 10% FBS in six-well plates at a density of 10,000 cells/well and cultured for 14 days. (<b>A</b>) Representative images of the colonies derived from the control and IL-1&#946;/TGF-&#946;-induced neurosphere cells. Scale bar = 100 &#956;m. Colony number was counted under a microscope as shown in (<b>B</b>) and size was measured using ImageJ as shown in <b>(C)</b>. Twenty random fields were selected for measurement and the data represent the average colony number and size per microscope field. *<it>P </it>&lt; 0.001.</p>
+               </text>
+               <graphic file="scrt96-4"/>
+            </fig>
+            <p>To further evaluate the oncogenic potential of IL-1&#946;/TGF-&#946;-induced neurosphere cells, we examined whether the cytokine-induced neurosphere cells can form tumors <it>in vivo</it>. Bioluminescent imaging, which has been recently established to monitor and quantify <it>in vivo </it>tumor growth and cell survival <abbrgrp><abbr bid="B38">38</abbr><abbr bid="B39">39</abbr></abbrgrp>, was used in our study to track brain tumor development from injected LN-229 cells transfected with a vector expressing <it>Gaussia </it>luciferase (<it>G</it>luc). LN-229 cells stably expressing <it>G</it>luc were established and cultured in serum-free medium in the absence or presence of IL-1&#946;/TGF-&#946; for seven days. The relationship between bioluminescent signal strength and cell number was determined using various numbers of cells from either control monolayer cells or IL-1&#946;/TGF-&#946;-induced neurospheres. It was found that bioluminescent signals generated from both populations had a strong positive linear correlation with cell number within the range tested (Figure <figr fid="F5">5A</figr>). However, control monolayer LN-229 cells displayed a higher level of <it>G</it>luc activity than cytokine-induced neurospheres. This finding is consistent with the report that luciferase expression is higher in monolayer tumor cells than in tumor neurospheres <abbrgrp><abbr bid="B40">40</abbr></abbrgrp>.</p>
+            <fig id="F5">
+               <title>
+                  <p>Figure 5</p>
+               </title>
+               <caption>
+                  <p>IL-1&#946;/TGF-&#946;-induced neurosphere cells have increased tumorigenic potential</p>
+               </caption>
+               <text>
+                  <p><b>IL-1&#946;/TGF-&#946;-induced neurosphere cells have increased tumorigenic potential</b>. (<b>A</b>) Bioluminescence characteristics of LN-229 cells. Various numbers of LN-229 cells expressing <it>Gaussia </it>luciferase were cultured in 96-well plates in SFM in the absence or presence of IL-1&#946;/TGF-&#946; for seven days, then incubated with 60 &#956;g/ml coelenterazine and imaged with a scan time of one minute. After imaging, cells were counted under a microscope. The relationship between bioluminescent signal strength and cell number for control monolayer LN-229 cells (left panel) and for IL-1&#946;/TGF-&#946;-induced neurosphere cells (right panel) was reported here. (<b>B</b>) Representative images of mice injected intracranially with control or IL-1&#946;/TGF-&#946;-induced neurosphere cells. 3 &#215; 10<sup>5 </sup>cells of the control monolayer or IL-1&#946;/TGF-&#946;-induced neurosphere cells expressing <it>Gaussia </it>luciferase were injected into each nu/nu mouse brain at 1 mm anterior, 2 mm from bregma to right lateral and 3.5 mm intraparenchymal. Images were taken five weeks after cell injection, two minutes after administering coelenterazine i.v. with a scan time of one minute. (<b>C</b>) The percentage of mice which had at least three times higher bioluminescent signal at the injection site than the background signal. *<it>P </it>&lt; 0.05. (<b>D</b>) H&amp;E staining of cryosectioned mouse brain five weeks after injection with control monolayer cells or IL-1&#946;/TGF-&#946;-induced neurosphere cells. Small black arrows demarcate tumor margin. (<b>III) </b>and (<b>IV</b>) Amplified images of the areas indicated by rectangles in (<b>I) </b>and (<b>II</b>), respectively. Scale bars in (<b>I) </b>and (<b>II</b>) = 200 &#956;m. Scale bars in (<b>III) </b>and (<b>IV</b>) = 100 &#956;m.</p>
+               </text>
+               <graphic file="scrt96-5"/>
+            </fig>
+            <p>In the present study, mice were injected with control monolayer cells or IL-1&#946;/TGF-&#946;-induced neurosphere cells (3 &#215; 10<sup>5</sup>/mouse) intracranially. Five weeks after implantation, tumor growth was evaluated using an IVIS imaging system that measures luciferase expression level within the brain. A positive signal for tumor growth was recognized when the signal detected at the injection site was at least three-fold of that at a non-injection site (that is, background) on each mouse. Based on this standard, it was found that one out of four mice bearing the control monolayer cells and six out of six mice bearing the IL-1&#946;/TGF-&#946;-induced neurosphere cells showed positive signals for tumor growth (Figure <figr fid="F5">5B, C</figr>). This result suggests that IL-1&#946;/TGF-&#946;-induced neurosphere cells have significantly (<it>P </it>&lt; 0.03) greater capability of generating tumors that can be detected by a bioluminescence imaging system. This difference is more pronounced if one considers that monolayer LN229 cells expressed higher amount of <it>G</it>luc than did the cytokine-induced sphere cells (Figure <figr fid="F5">5A</figr>).</p>
+            <p>To verify the <it>in vivo </it>tumor growth, brains were collected from animals on Day 35 post implantation and processed for H&amp;E staining as described in Materials and methods. Figure <figr fid="F5">5D</figr> shows the representative images of middle sections of tumors from mice bearing IL-1&#946;/TGF-&#946;-induced neurosphere cells or control monolayer LN-229 cells with negative bioluminescence signals. Although tumors were detected by H&amp;E staining at the injection site in all mice, the failure to detect a bioluminescence signal in tumors from mice implanted with the control monolayer LN-229 cells suggests that the sensitivity of this bioluminescence imaging system is limited.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>IL-1&#946;/TGF-&#946;-induced neurosphere cells maintained higher levels of Bmi-1 gene expression and oncogenic potential after cytokine removal</p>
+            </st>
+            <p>To determine whether IL-1&#946;/TGF-&#946;-induced neurosphere cells still maintained self-renewal ability to form neurospheres in the absence of these two cytokines, neurospheres were dissociated into single cells and cultured in serum-free medium without IL-1&#946; and TGF-&#946; for seven days. The cytokine-withdrawn (CW) cells grew mostly as monolayer cells with some clusters, a mixed morphology of control (CTL, no IL-1&#946; and TGF-&#946;) and continued cytokine-treated (CT) cells (Figure <figr fid="F6">6A</figr>). Expression of stemness genes, including nestin, LIF, Bmi-1 and Notch-2 in these three types of LN-229 cells was analyzed using real time PCR. As shown in Figure <figr fid="F6">6B</figr>, expression of nestin and LIF in cytokine-treated cells was augmented as reported earlier (Figure <figr fid="F2">2A</figr>), but their expression in cytokine-withdrawn cells was reduced to the same level as control cells. Although Notch-2 expression was dramatically reduced in cytokine-withdrawn cells compared to that in cytokine-treated cells, it was still significantly (<it>P </it>&lt; 0.001) higher than that in control LN-229 cells. However, the key finding was that the expression of Bmi-1 in cytokine-withdrawn cells remained as elevated as that in cytokine-treated cells (Figure <figr fid="F6">6B</figr>).</p>
+            <fig id="F6">
+               <title>
+                  <p>Figure 6</p>
+               </title>
+               <caption>
+                  <p>Cytokine-withdrawn cells after initial IL-1&#946;/TGF-&#946; exposure retain stem-like properties</p>
+               </caption>
+               <text>
+                  <p><b>Cytokine-withdrawn cells after initial IL-1&#946;/TGF-&#946; exposure retain stem-like properties</b>. <b>(A</b>) Representative images of LN-229 cells cultured in SFM in the absence (CTL, (control)) or presence of IL-1&#946;/TGF-&#946; (CT, (IL-1&#946;/TGF-&#946;)), or after withdrawal of both cytokines following initial exposure (CW, (IL-1&#946;/TGF-&#946; &#8594; CTL)) for seven days. Scale bar = 200 &#956;m. <b>(B</b>) qRT-PCR analysis of gene expression of stem cell markers in CTL, CT and CW cells. &#946;-actin was used as an internal normalization control. (<b>C</b>) The number and size of colonies formed in soft agar. CTL, CT and CW cells were dissociated and 10,000 cells/well of each population were cultured in soft agar in six-well plates for 21 days. Colony number was counted under a microscope and colony size was measured using ImageJ. Twenty random fields were selected for the measurement and the data represent the average colony number and size per microscope field. *<it>P </it>&lt; 0.05. **<it>P </it>&lt; 0.01. Error bars represent SEM.</p>
+               </text>
+               <graphic file="scrt96-6"/>
+            </fig>
+            <p>The oncogenic potential of cytokine-withdrawn cells was evaluated by a colony forming assay. Control, cytokine-treated and cytokine-withdrawn cells were dissociated into single cells. Then, an equal number of cells from each group were cultured in soft agar and colonies were counted after 21 days. Consistent with previous results, cytokine-treated cells generated significantly (<it>P </it>&lt; 0.005) more and larger colonies than control LN-229 cells (Figure <figr fid="F6">6C</figr>). Interestingly, cytokine-withdrawn cells produced a similar number of colonies as cytokine-treated cells but with a slightly reduced size. However, their size was still significantly (<it>P </it>&lt; 0.004) larger than that of colonies generated by control cells (nearly two-fold, Figure <figr fid="F6">6C</figr>). This result indicates that the molecules responsible for the augmented <it>in vitro </it>oncogenic potential remained active in cytokine-withdrawn cells.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>IL-8 might be involved in IL-1&#946;/TGF-&#946;-mediated induction of LN-229 neurospheres</p>
+            </st>
+            <p>To test whether other cytokines are involved in IL-1&#946;/TGF-&#946;-mediated induction of LN-229 neurospheres, we compared the gene expression of IL-6 and IL-8 in IL-1&#946;/TGF-&#946;-induced neurospheres and control cells using real time PCR. IL-1&#946; gene expression was also examined to determine whether there was an autocrine positive feedback for IL-1&#946; expression. It was found that mRNA levels of IL-6 and IL-8 were dramatically increased in the neurosphere cells induced by IL-1&#946;/TGF-&#946;, compared to that in control cells (Figure <figr fid="F7">7A</figr>). IL-1&#946; gene expression was also up-regulated in cytokine-induced neurospheres, indicating that IL-1&#946; can induce its own biosynthesis in LN-229 cells. Augmented expression and secretion of IL-1&#946; and IL-8 from IL-1&#946;/TGF-&#946;-induced neurospheres were further confirmed using cytokine-specific ELISA (Figure <figr fid="F7">7B</figr>).</p>
+            <fig id="F7">
+               <title>
+                  <p>Figure 7</p>
+               </title>
+               <caption>
+                  <p>Role of IL-1&#946;, IL-6 and IL-8 in IL-1&#946;/TGF-&#946;-induced LN-229 neurosphere formation</p>
+               </caption>
+               <text>
+                  <p><b>Role of IL-1&#946;, IL-6 and IL-8 in IL-1&#946;/TGF-&#946;-induced LN-229 neurosphere formation</b>. (<b>A</b>) Relative gene expressions of IL-1&#946;, IL-6, and IL-8 were determined by qRT-PCR. &#946;-actin was used as an internal normalization control. Error bars represent SEM. *<it>P </it>&lt; 0.05. (<b>B</b>) Secretion of IL-1&#946; and IL-8 from control LN-229 cells and IL-1&#946;/TGF-&#946;-induced neurosphere cells. The same number of LN-229 cells was cultured in SFM with or without IL-1&#946;/TGF-&#946; for six days, and then culture media was removed. Cells were washed with PBS, and cultured in fresh SFM without IL-1&#946;/TGF-&#946; for 24 hours. The media were collected, followed by ELISA analysis. N/D: not detected. (<b>C</b>) Combination of IL-8 and TGF-&#946; induce formation of neurospheres. LN-229 cells were cultured in SFM in the presence or absence of IL-8 or IL-8/TGF-&#946; for seven days. Scale bar = 200 &#956;m.</p>
+               </text>
+               <graphic file="scrt96-7"/>
+            </fig>
+            <p>To determine whether IL-6 and IL-8 are involved in IL-1&#946;/TGF-&#946;-mediated induction of neurosphere formation, LN-229 cells were stimulated with IL-6 or IL-8 alone, or in combination with TGF-&#946; in serum-free medium for seven days. Interestingly, IL-6 alone or in combination with TGF-&#946; failed to induce neurosphere formation (data not shown). In contrast, neurospheres were induced in the presence of IL-8 and TGF-&#946;, but not with IL-8 alone (Figure <figr fid="F7">7C</figr>). This result indicates that IL-8 signaling might be involved in IL-1&#946;/TGF-&#946;-mediated induction of LN-229 neurospheres. However, similar to IL-1&#946; and TGF-&#946;, IL-8 signaling alone is not sufficient for the induction of neurospheres from monolayer LN-229 cells.</p>
+         </sec>
+      </sec>
+      <sec>
+         <st>
+            <p>Discussion</p>
+         </st>
+         <p>Cytokines secreted either by cancer cells themselves or by the surrounding stromal cells and infiltrating leukocytes are thought to play a critical role in glioma malignancy <abbrgrp><abbr bid="B41">41</abbr></abbrgrp>. IL-1&#946; and TGF-&#946; are elevated significantly in high grade gliomas and that has been associated with poor prognosis in glioma patients <abbrgrp><abbr bid="B42">42</abbr><abbr bid="B43">43</abbr><abbr bid="B44">44</abbr><abbr bid="B45">45</abbr></abbrgrp>. Despite recent advances in neuro-oncology, the contribution of IL-1&#946; and TGF-&#946; to glioma development and recurrence has not been clearly delineated. Here, we demonstrate that the combination of IL-1&#946; and TGF-&#946; can promote self-renewal and oncogenic capability of glioma cells by inducing expression of stemness factor genes Bmi-1, LIF and Notch-2.</p>
+         <p>In this study, we found that a human tumorigenic glioma cell line LN-229 grew as a monolayer culture and expressed nestin at a very low level under serum-free conditions. Addition of both IL-1&#946; and TGF-&#946;, but not each cytokine alone, to the cell cultures caused monolayer cells to form neurospheres expressing up-regulated nestin together with other stemness genes including LIF, Notch-2 and Bmi-1. The neurospheres could be induced by IL-1&#946;/TGF-&#946; when LN-229 cells were plated at a clonal density, and proliferated at a much slower rate than the control monolayer cells. This behavior is consistent with traits of cancer stem cells that divide more slowly than cancer cells <abbrgrp><abbr bid="B46">46</abbr></abbrgrp>. Compared to control monolayer culture, IL-1&#946;/TGF-&#946;-induced neurosphere cells formed more and larger colonies in soft agar, and displayed increased chemo-resistance, invasiveness and oncogenic potential, all of which are typical characteristics of GSCs. Overall, these results indicate that IL-1&#946;/TGF-&#946;-induced neurospheres contain an enriched population of GSCs. This finding supports the hypothesis that IL-1&#946;/TGF-&#946; may promote glioma progress and recurrence by inducing self-renewal of glioma cells.</p>
+         <p>The IL-1&#946;/TGF-&#946;-induced LN-229 neurospheres displayed increased nestin expression (Figure <figr fid="F2">2</figr>), but were CD133<sup>- </sup>(data not shown). CD133 has often been used as a GSC marker <abbrgrp><abbr bid="B33">33</abbr><abbr bid="B47">47</abbr></abbrgrp>. However, recent studies reveal that GSCs can be either CD133<sup>+ </sup>or CD133<sup>-</sup>, but both types of GSCs express nestin in serum-free conditions and are capable of self-renewal and generate highly malignant tumors <abbrgrp><abbr bid="B48">48</abbr></abbrgrp>. In addition, nestin expression correlates well with histological grade of glioma and clinical outcome <abbrgrp><abbr bid="B49">49</abbr></abbrgrp>. Thus, nestin seems to be a more critical marker for identification of GSCs.</p>
+         <p>LIF is a neuropoietic cytokine that stimulates self-renewal capacity, prevents differentiation of NSCs and GSCs <it>in vitro </it>and <it>in vivo </it><abbrgrp><abbr bid="B31">31</abbr><abbr bid="B50">50</abbr></abbrgrp>, and mediates TGF-&#946;-induced GSC self-renewal <abbrgrp><abbr bid="B31">31</abbr></abbrgrp>. Up-regulation of LIF expression in IL-1&#946;/TGF-&#946;-induced neurosphere cells (Figure <figr fid="F2">2</figr>) supports that cytokine-induced neurosphere cells are developed through self-renewal. However, continued up-regulation of LIF expression may not be required for the maintenance of stemness as its expression in passage 2 of the neurosphere cells in the absence of IL-1&#946; and TGF-&#946; is similar to that in control LN-229 cells (Figure <figr fid="F6">6</figr>).</p>
+         <p>Notch signaling is required for GSC proliferation and blockade of the Notch pathway can inhibit the growth of tumor neurospheres and xenografts <abbrgrp><abbr bid="B51">51</abbr><abbr bid="B52">52</abbr></abbrgrp>. Among the four Notch paralogs, Notch-2 is highly expressed in glioblastomas and may have a predominant role in glioblastoma cell growth <abbrgrp><abbr bid="B52">52</abbr><abbr bid="B53">53</abbr></abbrgrp>. Our studies have shown that Notch-2, but not Notch-1 or Notch-3 (data not shown), is up-regulated in IL-1&#946;/TGF-&#946;-induced neurosphere LN-229 cells. This observation is consistent with the thought that Notch-2 may play a major role in glioma malignancy. Bmi-1, a transcriptional repressor belonging to the polycomb group protein family, is essential for the proliferation and self-renewal of NSCs and GSCs <abbrgrp><abbr bid="B54">54</abbr><abbr bid="B55">55</abbr></abbrgrp>. Overexpression of Bmi-1 can induce astrocytes into NSC-like cells under serum-free condition <abbrgrp><abbr bid="B56">56</abbr></abbrgrp>. Thus, the augmented expression of Bmi-1 in IL-1&#946;/TGF-&#946;-induced neurosphere LN-229 cells favors the hypothesis that Bmi-1 plays a critical role in inducing monolayer LN-229 cells to display a GSC phenotype.</p>
+         <p>The role of Bmi-1 in GSC self-renewal and oncogenic potential is further highlighted in cytokine-withdrawn LN-229 cells. In the absence of IL-1&#946;/TGF-&#946;, dissociated IL-1&#946;/TGF-&#946;-induced neurosphere cells proliferated as a mix of monolayer and cluster cells, suggesting a reduced self-renewal capability. Furthermore, the cytokine-withdrawn cells maintained strong oncogenic potential with a similar colony number as the cytokine-induced neurosphere cells in a soft agar assay, but with a slightly reduced neurosphere size. Gene expression analysis showed that transcripts of nestin and LIF in cytokine-withdrawn cells were reduced to the control level. Notch-2 expression was also dramatically decreased compared to that in cytokine-induced neurospheres, but it was still significantly higher than that in control LN-229 cells. Remarkably, Bmi-1 levels did not decrease after cytokine withdrawal. The reduced expression of LIF and Notch-2 and sustained Bmi-1 expression in cytokine-withdrawn cells are consistent with the observation that these cells display a mixed phenotype of monolayer and cluster cells and maintain a relatively strong oncogenic potential. Our data support the notion that Bmi-1 is critical for maintenance of GSC self-renewal. However, we cannot exclude the possibility that other unidentified factors are also involved in the sustained clonogenicity of cytokine-withdrawn cells. Future studies are planned to investigate the molecular mechanisms of persistent expression of Bmi-1 and Notch-2 in IL-1&#946;/TGF-&#946;-induced neurosphere cells upon cytokine withdrawal.</p>
+         <p>Our data suggest that there is a close association between increased expression of SIP1, N-cadherin and &#946;1-integrin and stronger invasiveness of the cytokine-induced neurospheres. It has been reported that &#946;1-integrin is over-expressed in several types of gliomas and blocking &#946;1-integrin inhibits the motility and invasion of glioma cells <abbrgrp><abbr bid="B57">57</abbr><abbr bid="B58">58</abbr></abbrgrp>. Similarly, N-cadherin, a calcium-binding membrane glycoprotein that mediates cell-cell adhesion, is up-regulated in malignant gliomas cells compared to normal brain tissue <abbrgrp><abbr bid="B59">59</abbr></abbrgrp>, and plays a critical role in glioma cell migration <abbrgrp><abbr bid="B60">60</abbr><abbr bid="B61">61</abbr><abbr bid="B62">62</abbr></abbrgrp>. Reduction of SIP1, a member of the ZEB family of transcription factors, has been linked to the impairment of colony formation in soft agar, migration and invasion of tumorigenic glioma cells <abbrgrp><abbr bid="B63">63</abbr></abbrgrp>; while overexpression of SIP1 in nontumorigenic glioma cells enhances their colony formation in soft agar, migration and invasion.</p>
+         <p>In addition, IL-1&#946;, IL-6 and IL-8 and their cognate receptors are also elevated in malignant gliomas <abbrgrp><abbr bid="B64">64</abbr><abbr bid="B65">65</abbr></abbrgrp>. Our studies have shown that IL-1&#946; can also induce the production of IL-6 and IL-8 in LN-229 neurospheres. This result is consistent with previous reports that IL-1&#946; can induce the expression and secretion of IL-6 and IL-8 in human gliomas <abbrgrp><abbr bid="B41">41</abbr><abbr bid="B65">65</abbr><abbr bid="B66">66</abbr></abbrgrp>. However, it seems that only IL-8, but not IL-6, is involved in IL-1&#946;/TGF-&#946;-induced neurosphere formation from monolayer LN-229 cells. That is, only the combination of IL-8 and TGF-&#946;, but not the combination of IL-6 and TGF-&#946;, can induce neurospheres from LN-229 cells cultured in serum-free medium. Nonetheless, it remains to be determined whether IL-6 and IL-8 participate in the IL-1&#946;/TGF-&#946;-induced self-renewal of LN-229 GSCs.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Conclusions</p>
+         </st>
+         <p>In summary, we have used a human LN-229 glioma cell line to examine the effect of IL-1&#946;/TGF-&#946; signaling on induction of self-renewal and oncogenic capability of glioma cells. Recent studies have focused on a small population of GSCs, which are capable of self-renewal, initiation of neurosphere growth and generation of malignant tumors, for development of therapeutic strategies <abbrgrp><abbr bid="B12">12</abbr></abbrgrp>. However, current standard <it>in vitro </it>conditions to define GSCs lack cytokines that are highly present in the glioblastoma microenvironment. Our findings indicate that glioma cells that fail to self-renew to generate neurospheres in standard stem cell-enrichment conditions can gain this ability after exposure to IL-1&#946; and TGF-&#946;. Thus, targeting GSC-promoting microenvironment cytokines or interference with Bmi-1 may be essential for a higher efficacy of glioma therapies. Future studies aimed to determine the molecular mechanisms of IL-1&#946;/TGF-&#946;-mediated induction of self-renewal may lead to the invention of novel therapies that target the process of GSC activation.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Abbreviations</p>
+         </st>
+         <p>bFGF: basic fibroblast growth factor; CSCs: cancer stem cells; EGF: epidermal growth factor; GSC: glioma stem cell; IL-1&#946;: interleukin-1 beta; NSC: neural stem cells; SFM: serum-free medium; TGF-&#946;: transforming growth factor-beta; TICs: tumor-initiating cells.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Competing interests</p>
+         </st>
+         <p>The authors declare that they have no competing interests.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Authors' contributions</p>
+         </st>
+         <p>LW, ZL, SBalivada, TS, SBossman, JS and DT designed the experiments. LW, ZL, S Balivada, TS, LP and MP performed the experiments. LW, JS, SBossman and DT wrote the manuscript. All authors were involved in revising the manuscript and have given final approval of the version to be published.</p>
+      </sec>
+   </bdy>
+   <bm>
+      <ack>
+         <sec>
+            <st>
+               <p>Acknowledgements</p>
+            </st>
+            <p>We thank Joel Sannemann, Dr. Gwi-Moon Seo, and Kalidou Ndiaye for their technical support. We are grateful to Dr. Gilbert Cote for critical reading of this manuscript. This research was supported in part by Innovative Research Award (L. Wang) from Johnson Center for Basic Cancer Research at Kansas State University, NIH R21 AI085416 (J. Shi), KBA-CBRI 611310 (J. Shi), NIH NCRR P20-RR017686 (PI: Daniel Marcus; J. Shi), NSF CBET 0933701 (S. Bossmann, D. Troyer) and NIH R21CA135599 (D. Troyer). The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</p>
+         </sec>
+      </ack>
+      <refgrp>
+         <bibl id="B1">
+            <title>
+               <p>Exciting new advances in neuro-oncology: the avenue to a cure for malignant glioma</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Van Meir</snm>
+                  <fnm>EG</fnm>
+               </au>
+               <au>
+                  <snm>Hadjipanayis</snm>
+                  <fnm>CG</fnm>
+               </au>
+               <au>
+                  <snm>Norden</snm>
+                  <fnm>AD</fnm>
+               </au>
+               <au>
+                  <snm>Shu</snm>
+                  <fnm>HK</fnm>
+               </au>
+               <au>
+                  <snm>Wen</snm>
+                  <fnm>PY</fnm>
+               </au>
+               <au>
+                  <snm>Olson</snm>
+                  <fnm>JJ</fnm>
+               </au>
+            </aug>
+            <source>CA Cancer J Clin</source>
+            <pubdate>2010</pubdate>
+            <volume>60</volume>
+            <fpage>166</fpage>
+            <lpage>193</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.3322/caac.20069</pubid>
+                  <pubid idtype="pmcid">2888474</pubid>
+                  <pubid idtype="pmpid" link="fulltext">20445000</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B2">
+            <title>
+               <p>Malignant astrocytic glioma: genetics, biology, and paths to treatment</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Furnari</snm>
+                  <fnm>FB</fnm>
+               </au>
+               <au>
+                  <snm>Fenton</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Bachoo</snm>
+                  <fnm>RM</fnm>
+               </au>
+               <au>
+                  <snm>Mukasa</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Stommel</snm>
+                  <fnm>JM</fnm>
+               </au>
+               <au>
+                  <snm>Stegh</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Hahn</snm>
+                  <fnm>WC</fnm>
+               </au>
+               <au>
+                  <snm>Ligon</snm>
+                  <fnm>KL</fnm>
+               </au>
+               <au>
+                  <snm>Louis</snm>
+                  <fnm>DN</fnm>
+               </au>
+               <au>
+                  <snm>Brennan</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Chin</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>DePinho</snm>
+                  <fnm>RA</fnm>
+               </au>
+               <au>
+                  <snm>Cavenee</snm>
+                  <fnm>WK</fnm>
+               </au>
+            </aug>
+            <source>Genes Dev</source>
+            <pubdate>2007</pubdate>
+            <volume>21</volume>
+            <fpage>2683</fpage>
+            <lpage>2710</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1101/gad.1596707</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17974913</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B3">
+            <title>
+               <p>Gliomagenesis: genetic alterations and mouse models</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Holland</snm>
+                  <fnm>EC</fnm>
+               </au>
+            </aug>
+            <source>Nat Rev Genet</source>
+            <pubdate>2001</pubdate>
+            <volume>2</volume>
+            <fpage>120</fpage>
+            <lpage>129</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/35052535</pubid>
+                  <pubid idtype="pmpid" link="fulltext">11253051</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B4">
+            <title>
+               <p>Cancer stem cells: controversial or just misunderstood?</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Jordan</snm>
+                  <fnm>CT</fnm>
+               </au>
+            </aug>
+            <source>Cell Stem Cell</source>
+            <pubdate>2009</pubdate>
+            <volume>4</volume>
+            <fpage>203</fpage>
+            <lpage>205</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.stem.2009.02.003</pubid>
+                  <pubid idtype="pmcid">2871155</pubid>
+                  <pubid idtype="pmpid" link="fulltext">19265659</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B5">
+            <title>
+               <p>Human cortical glial tumors contain neural stem-like cells expressing astroglial and neuronal markers <it>in vitro</it></p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Ignatova</snm>
+                  <fnm>TN</fnm>
+               </au>
+               <au>
+                  <snm>Kukekov</snm>
+                  <fnm>VG</fnm>
+               </au>
+               <au>
+                  <snm>Laywell</snm>
+                  <fnm>ED</fnm>
+               </au>
+               <au>
+                  <snm>Suslov</snm>
+                  <fnm>ON</fnm>
+               </au>
+               <au>
+                  <snm>Vrionis</snm>
+                  <fnm>FD</fnm>
+               </au>
+               <au>
+                  <snm>Steindler</snm>
+                  <fnm>DA</fnm>
+               </au>
+            </aug>
+            <source>Glia</source>
+            <pubdate>2002</pubdate>
+            <volume>39</volume>
+            <fpage>193</fpage>
+            <lpage>206</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1002/glia.10094</pubid>
+                  <pubid idtype="pmpid" link="fulltext">12203386</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B6">
+            <title>
+               <p>Identification of human brain tumour initiating cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Singh</snm>
+                  <fnm>SK</fnm>
+               </au>
+               <au>
+                  <snm>Hawkins</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Clarke</snm>
+                  <fnm>ID</fnm>
+               </au>
+               <au>
+                  <snm>Squire</snm>
+                  <fnm>JA</fnm>
+               </au>
+               <au>
+                  <snm>Bayani</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Hide</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Henkelman</snm>
+                  <fnm>RM</fnm>
+               </au>
+               <au>
+                  <snm>Cusimano</snm>
+                  <fnm>MD</fnm>
+               </au>
+               <au>
+                  <snm>Dirks</snm>
+                  <fnm>PB</fnm>
+               </au>
+            </aug>
+            <source>Nature</source>
+            <pubdate>2004</pubdate>
+            <volume>432</volume>
+            <fpage>396</fpage>
+            <lpage>401</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/nature03128</pubid>
+                  <pubid idtype="pmpid" link="fulltext">15549107</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B7">
+            <title>
+               <p>Isolation and characterization of tumorigenic, stem-like neural precursors from human glioblastoma</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Galli</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Binda</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Orfanelli</snm>
+                  <fnm>U</fnm>
+               </au>
+               <au>
+                  <snm>Cipelletti</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Gritti</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>De Vitis</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Fiocco</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Foroni</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Dimeco</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Vescovi</snm>
+                  <fnm>A</fnm>
+               </au>
+            </aug>
+            <source>Cancer Res</source>
+            <pubdate>2004</pubdate>
+            <volume>64</volume>
+            <fpage>7011</fpage>
+            <lpage>7021</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1158/0008-5472.CAN-04-1364</pubid>
+                  <pubid idtype="pmpid" link="fulltext">15466194</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B8">
+            <title>
+               <p>Isolation of cancer stem cells from adult glioblastoma multiforme</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Yuan</snm>
+                  <fnm>X</fnm>
+               </au>
+               <au>
+                  <snm>Curtin</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Xiong</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Liu</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Waschsmann-Hogiu</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Farkas</snm>
+                  <fnm>DL</fnm>
+               </au>
+               <au>
+                  <snm>Black</snm>
+                  <fnm>KL</fnm>
+               </au>
+               <au>
+                  <snm>Yu</snm>
+                  <fnm>JS</fnm>
+               </au>
+            </aug>
+            <source>Oncogene</source>
+            <pubdate>2004</pubdate>
+            <volume>23</volume>
+            <fpage>9392</fpage>
+            <lpage>9400</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/sj.onc.1208311</pubid>
+                  <pubid idtype="pmpid" link="fulltext">15558011</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B9">
+            <title>
+               <p>Isolation and characterization of cancer stem like cells in human glioblastoma cell lines</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Qiang</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Yang</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Ma</snm>
+                  <fnm>YJ</fnm>
+               </au>
+               <au>
+                  <snm>Chen</snm>
+                  <fnm>FH</fnm>
+               </au>
+               <au>
+                  <snm>Zhang</snm>
+                  <fnm>LB</fnm>
+               </au>
+               <au>
+                  <snm>Liu</snm>
+                  <fnm>W</fnm>
+               </au>
+               <au>
+                  <snm>Qi</snm>
+                  <fnm>Q</fnm>
+               </au>
+               <au>
+                  <snm>Lu</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Tao</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Wang</snm>
+                  <fnm>XT</fnm>
+               </au>
+               <au>
+                  <snm>You</snm>
+                  <fnm>QD</fnm>
+               </au>
+               <au>
+                  <snm>Guo</snm>
+                  <fnm>QL</fnm>
+               </au>
+            </aug>
+            <source>Cancer Lett</source>
+            <pubdate>2009</pubdate>
+            <volume>279</volume>
+            <fpage>13</fpage>
+            <lpage>21</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.canlet.2009.01.016</pubid>
+                  <pubid idtype="pmpid" link="fulltext">19232461</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B10">
+            <title>
+               <p>Notch promotes radioresistance of glioma stem cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Wang</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Wakeman</snm>
+                  <fnm>TP</fnm>
+               </au>
+               <au>
+                  <snm>Lathia</snm>
+                  <fnm>JD</fnm>
+               </au>
+               <au>
+                  <snm>Hjelmeland</snm>
+                  <fnm>AB</fnm>
+               </au>
+               <au>
+                  <snm>Wang</snm>
+                  <fnm>XF</fnm>
+               </au>
+               <au>
+                  <snm>White</snm>
+                  <fnm>RR</fnm>
+               </au>
+               <au>
+                  <snm>Rich</snm>
+                  <fnm>JN</fnm>
+               </au>
+               <au>
+                  <snm>Sullenger</snm>
+                  <fnm>BA</fnm>
+               </au>
+            </aug>
+            <source>Stem Cells</source>
+            <pubdate>2009</pubdate>
+            <volume>28</volume>
+            <fpage>17</fpage>
+            <lpage>28</lpage>
+         </bibl>
+         <bibl id="B11">
+            <title>
+               <p>Cancer stem cells from human glioma cell line are resistant to Fas-induced apoptosis</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Bertrand</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Begaud-Grimaud</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Bessette</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Verdier</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Battu</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Jauberteau</snm>
+                  <fnm>MO</fnm>
+               </au>
+            </aug>
+            <source>Int J Oncol</source>
+            <pubdate>2009</pubdate>
+            <volume>34</volume>
+            <fpage>717</fpage>
+            <lpage>727</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid" link="fulltext">19212677</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B12">
+            <title>
+               <p>Glioma-initiating cells and molecular pathology: implications for therapy</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Natsume</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Kinjo</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Yuki</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Kato</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Ohno</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Motomura</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Iwami</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Wakabayashi</snm>
+                  <fnm>T</fnm>
+               </au>
+            </aug>
+            <source>Brain Tumor Pathol</source>
+            <volume>28</volume>
+            <fpage>1</fpage>
+            <lpage>12</lpage>
+         </bibl>
+         <bibl id="B13">
+            <title>
+               <p>Identification of a cancer stem cell in human brain tumors</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Singh</snm>
+                  <fnm>SK</fnm>
+               </au>
+               <au>
+                  <snm>Clarke</snm>
+                  <fnm>ID</fnm>
+               </au>
+               <au>
+                  <snm>Terasaki</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Bonn</snm>
+                  <fnm>VE</fnm>
+               </au>
+               <au>
+                  <snm>Hawkins</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Squire</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Dirks</snm>
+                  <fnm>PB</fnm>
+               </au>
+            </aug>
+            <source>Cancer Res</source>
+            <pubdate>2003</pubdate>
+            <volume>63</volume>
+            <fpage>5821</fpage>
+            <lpage>5828</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid" link="fulltext">14522905</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B14">
+            <title>
+               <p>Brain cancer stem cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Piccirillo</snm>
+                  <fnm>SG</fnm>
+               </au>
+               <au>
+                  <snm>Binda</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Fiocco</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Vescovi</snm>
+                  <fnm>AL</fnm>
+               </au>
+               <au>
+                  <snm>Shah</snm>
+                  <fnm>K</fnm>
+               </au>
+            </aug>
+            <source>J Mol Med (Berl)</source>
+            <pubdate>2009</pubdate>
+            <volume>87</volume>
+            <fpage>1087</fpage>
+            <lpage>1095</lpage>
+            <xrefbib>
+               <pubid idtype="doi">10.1007/s00109-009-0535-3</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B15">
+            <title>
+               <p>Glioblastoma stem cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Tabatabai</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Weller</snm>
+                  <fnm>M</fnm>
+               </au>
+            </aug>
+            <source>Cell Tissue Res</source>
+            <pubdate>2011</pubdate>
+            <volume>343</volume>
+            <fpage>459</fpage>
+            <lpage>465</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1007/s00441-010-1123-0</pubid>
+                  <pubid idtype="pmpid" link="fulltext">21253762</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B16">
+            <title>
+               <p>Targeting interleukin 6 signaling suppresses glioma stem cell survival and tumor growth</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Wang</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Lathia</snm>
+                  <fnm>JD</fnm>
+               </au>
+               <au>
+                  <snm>Wu</snm>
+                  <fnm>Q</fnm>
+               </au>
+               <au>
+                  <snm>Wang</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Li</snm>
+                  <fnm>Z</fnm>
+               </au>
+               <au>
+                  <snm>Heddleston</snm>
+                  <fnm>JM</fnm>
+               </au>
+               <au>
+                  <snm>Eyler</snm>
+                  <fnm>CE</fnm>
+               </au>
+               <au>
+                  <snm>Elderbroom</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Gallagher</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Schuschu</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>MacSwords</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Cao</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>McLendon</snm>
+                  <fnm>RE</fnm>
+               </au>
+               <au>
+                  <snm>Wang</snm>
+                  <fnm>XF</fnm>
+               </au>
+               <au>
+                  <snm>Hjelmeland</snm>
+                  <fnm>AB</fnm>
+               </au>
+               <au>
+                  <snm>Rich</snm>
+                  <fnm>JN</fnm>
+               </au>
+            </aug>
+            <source>Stem Cells</source>
+            <pubdate>2009</pubdate>
+            <volume>27</volume>
+            <fpage>2393</fpage>
+            <lpage>2404</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1002/stem.188</pubid>
+                  <pubid idtype="pmcid">2825688</pubid>
+                  <pubid idtype="pmpid" link="fulltext">19658188</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B17">
+            <title>
+               <p>Cytokines as a key component of cancer-related inflammation</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Germano</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Allavena</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Mantovani</snm>
+                  <fnm>A</fnm>
+               </au>
+            </aug>
+            <source>Cytokine</source>
+            <pubdate>2008</pubdate>
+            <volume>43</volume>
+            <fpage>374</fpage>
+            <lpage>379</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.cyto.2008.07.014</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18701317</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B18">
+            <title>
+               <p>Interleukin-6 overexpression as a marker of malignancy in human gliomas</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Rolhion</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Penault-Llorca</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Kemeny</snm>
+                  <fnm>JL</fnm>
+               </au>
+               <au>
+                  <snm>Lemaire</snm>
+                  <fnm>JJ</fnm>
+               </au>
+               <au>
+                  <snm>Jullien</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Labit-Bouvier</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Finat-Duclos</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Verrelle</snm>
+                  <fnm>P</fnm>
+               </au>
+            </aug>
+            <source>J Neurosurg</source>
+            <pubdate>2001</pubdate>
+            <volume>94</volume>
+            <fpage>97</fpage>
+            <lpage>101</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.3171/jns.2001.94.1.0097</pubid>
+                  <pubid idtype="pmpid" link="fulltext">11147905</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B19">
+            <title>
+               <p>The role of interleukin-8 and its receptors in gliomagenesis and tumoral angiogenesis</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Brat</snm>
+                  <fnm>DJ</fnm>
+               </au>
+               <au>
+                  <snm>Bellail</snm>
+                  <fnm>AC</fnm>
+               </au>
+               <au>
+                  <snm>Van Meir</snm>
+                  <fnm>EG</fnm>
+               </au>
+            </aug>
+            <source>Neuro Oncol</source>
+            <pubdate>2005</pubdate>
+            <volume>7</volume>
+            <fpage>122</fpage>
+            <lpage>133</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1215/S1152851704001061</pubid>
+                  <pubid idtype="pmcid">1871893</pubid>
+                  <pubid idtype="pmpid" link="fulltext">15831231</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B20">
+            <title>
+               <p>Autoregulation of the interleukin-1 system and cytokine-cytokine interactions in primary human astrocytoma cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Ilyin</snm>
+                  <fnm>SE</fnm>
+               </au>
+               <au>
+                  <snm>Gonzalez-Gomez</snm>
+                  <fnm>I</fnm>
+               </au>
+               <au>
+                  <snm>Romanovicht</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Gayle</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Gilles</snm>
+                  <fnm>FH</fnm>
+               </au>
+               <au>
+                  <snm>Plata-Salaman</snm>
+                  <fnm>CR</fnm>
+               </au>
+            </aug>
+            <source>Brain Res Bull</source>
+            <pubdate>2000</pubdate>
+            <volume>51</volume>
+            <fpage>29</fpage>
+            <lpage>34</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/S0361-9230(99)00190-2</pubid>
+                  <pubid idtype="pmpid" link="fulltext">10654577</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B21">
+            <title>
+               <p>Dose-dependent cross-talk between the transforming growth factor-beta and interleukin-1 signaling pathways</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Lu</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Tian</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Han</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Vogelbaum</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Stark</snm>
+                  <fnm>GR</fnm>
+               </au>
+            </aug>
+            <source>Proc Natl Acad Sci USA</source>
+            <pubdate>2007</pubdate>
+            <volume>104</volume>
+            <fpage>4365</fpage>
+            <lpage>4370</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1073/pnas.0700118104</pubid>
+                  <pubid idtype="pmcid">1810327</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17360530</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B22">
+            <title>
+               <p>IL-6 is required for glioma development in a mouse model</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Weissenberger</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Loeffler</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Kappeler</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Kopf</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Lukes</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Afanasieva</snm>
+                  <fnm>TA</fnm>
+               </au>
+               <au>
+                  <snm>Aguzzi</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Weis</snm>
+                  <fnm>J</fnm>
+               </au>
+            </aug>
+            <source>Oncogene</source>
+            <pubdate>2004</pubdate>
+            <volume>23</volume>
+            <fpage>3308</fpage>
+            <lpage>3316</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/sj.onc.1207455</pubid>
+                  <pubid idtype="pmpid" link="fulltext">15064729</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B23">
+            <title>
+               <p>Immunocytochemical study of transforming growth factor expression in benign and malignant gliomas</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Samuels</snm>
+                  <fnm>V</fnm>
+               </au>
+               <au>
+                  <snm>Barrett</snm>
+                  <fnm>JM</fnm>
+               </au>
+               <au>
+                  <snm>Bockman</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Pantazis</snm>
+                  <fnm>CG</fnm>
+               </au>
+               <au>
+                  <snm>Allen</snm>
+                  <fnm>MB</fnm>
+                  <suf>Jr</suf>
+               </au>
+            </aug>
+            <source>Am J Pathol</source>
+            <pubdate>1989</pubdate>
+            <volume>134</volume>
+            <fpage>894</fpage>
+            <lpage>902</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="pmcid">1879776</pubid>
+                  <pubid idtype="pmpid">2705509</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B24">
+            <title>
+               <p>Distribution of transforming growth factor-beta 1 in human astrocytomas</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Horst</snm>
+                  <fnm>HA</fnm>
+               </au>
+               <au>
+                  <snm>Scheithauer</snm>
+                  <fnm>BW</fnm>
+               </au>
+               <au>
+                  <snm>Kelly</snm>
+                  <fnm>PJ</fnm>
+               </au>
+               <au>
+                  <snm>Kovach</snm>
+                  <fnm>JS</fnm>
+               </au>
+            </aug>
+            <source>Hum Pathol</source>
+            <pubdate>1992</pubdate>
+            <volume>23</volume>
+            <fpage>1284</fpage>
+            <lpage>1288</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/0046-8177(92)90297-G</pubid>
+                  <pubid idtype="pmpid" link="fulltext">1427755</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B25">
+            <title>
+               <p>TGF-beta in neural stem cells and in tumors of the central nervous system</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Aigner</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Bogdahn</snm>
+                  <fnm>U</fnm>
+               </au>
+            </aug>
+            <source>Cell Tissue Res</source>
+            <pubdate>2008</pubdate>
+            <volume>331</volume>
+            <fpage>225</fpage>
+            <lpage>241</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1007/s00441-007-0466-7</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17710437</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B26">
+            <title>
+               <p>Interleukin-1 and cancer progression: the emerging role of interleukin-1 receptor antagonist as a novel therapeutic agent in cancer treatment</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Lewis</snm>
+                  <fnm>AM</fnm>
+               </au>
+               <au>
+                  <snm>Varghese</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Xu</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Alexander</snm>
+                  <fnm>HR</fnm>
+               </au>
+            </aug>
+            <source>J Transl Med</source>
+            <pubdate>2006</pubdate>
+            <volume>4</volume>
+            <fpage>48</fpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1186/1479-5876-4-48</pubid>
+                  <pubid idtype="pmcid">1660548</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17096856</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B27">
+            <title>
+               <p>Potential therapeutic implications of cancer stem cells in glioblastoma</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Cheng</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Bao</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Rich</snm>
+                  <fnm>JN</fnm>
+               </au>
+            </aug>
+            <source>Biochem Pharmacol</source>
+            <pubdate>2010</pubdate>
+            <volume>80</volume>
+            <fpage>654</fpage>
+            <lpage>665</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.bcp.2010.04.035</pubid>
+                  <pubid idtype="pmcid">2897968</pubid>
+                  <pubid idtype="pmpid" link="fulltext">20457135</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B28">
+            <title>
+               <p>The epithelial-mesenchymal transition generates cells with properties of stem cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Mani</snm>
+                  <fnm>SA</fnm>
+               </au>
+               <au>
+                  <snm>Guo</snm>
+                  <fnm>W</fnm>
+               </au>
+               <au>
+                  <snm>Liao</snm>
+                  <fnm>MJ</fnm>
+               </au>
+               <au>
+                  <snm>Eaton</snm>
+                  <fnm>EN</fnm>
+               </au>
+               <au>
+                  <snm>Ayyanan</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Zhou</snm>
+                  <fnm>AY</fnm>
+               </au>
+               <au>
+                  <snm>Brooks</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Reinhard</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Zhang</snm>
+                  <fnm>CC</fnm>
+               </au>
+               <au>
+                  <snm>Shipitsin</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Campbell</snm>
+                  <fnm>LL</fnm>
+               </au>
+               <au>
+                  <snm>Polyak</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Brisken</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Yang</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Weinberg</snm>
+                  <fnm>RA</fnm>
+               </au>
+            </aug>
+            <source>Cell</source>
+            <pubdate>2008</pubdate>
+            <volume>133</volume>
+            <fpage>704</fpage>
+            <lpage>715</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.cell.2008.03.027</pubid>
+                  <pubid idtype="pmcid">2728032</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18485877</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B29">
+            <title>
+               <p>Molecular definition of breast tumor heterogeneity</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Shipitsin</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Campbell</snm>
+                  <fnm>LL</fnm>
+               </au>
+               <au>
+                  <snm>Argani</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Weremowicz</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Bloushtain-Qimron</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Yao</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Nikolskaya</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Serebryiskaya</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Beroukhim</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Hu</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Halushka</snm>
+                  <fnm>MK</fnm>
+               </au>
+               <au>
+                  <snm>Sukumar</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Parker</snm>
+                  <fnm>LM</fnm>
+               </au>
+               <au>
+                  <snm>Anderson</snm>
+                  <fnm>KS</fnm>
+               </au>
+               <au>
+                  <snm>Harris</snm>
+                  <fnm>LN</fnm>
+               </au>
+               <au>
+                  <snm>Garber</snm>
+                  <fnm>JE</fnm>
+               </au>
+               <au>
+                  <snm>Richardson</snm>
+                  <fnm>AL</fnm>
+               </au>
+               <au>
+                  <snm>Schnitt</snm>
+                  <fnm>SJ</fnm>
+               </au>
+               <au>
+                  <snm>Nikolsky</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Gelman</snm>
+                  <fnm>RS</fnm>
+               </au>
+               <au>
+                  <snm>Polyak</snm>
+                  <fnm>K</fnm>
+               </au>
+            </aug>
+            <source>Cancer Cell</source>
+            <pubdate>2007</pubdate>
+            <volume>11</volume>
+            <fpage>259</fpage>
+            <lpage>273</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.ccr.2007.01.013</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17349583</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B30">
+            <title>
+               <p>Autocrine TGF-beta signaling maintains tumorigenicity of glioma-initiating cells through Sry-related HMG-box factors</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Ikushima</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Todo</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Ino</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Takahashi</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Miyazawa</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Miyazono</snm>
+                  <fnm>K</fnm>
+               </au>
+            </aug>
+            <source>Cell Stem Cell</source>
+            <pubdate>2009</pubdate>
+            <volume>5</volume>
+            <fpage>504</fpage>
+            <lpage>514</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.stem.2009.08.018</pubid>
+                  <pubid idtype="pmpid" link="fulltext">19896441</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B31">
+            <title>
+               <p>TGF-beta increases glioma-initiating cell self-renewal through the induction of LIF in human glioblastoma</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Penuelas</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Anido</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Prieto-Sanchez</snm>
+                  <fnm>RM</fnm>
+               </au>
+               <au>
+                  <snm>Folch</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Barba</snm>
+                  <fnm>I</fnm>
+               </au>
+               <au>
+                  <snm>Cuartas</snm>
+                  <fnm>I</fnm>
+               </au>
+               <au>
+                  <snm>Garcia-Dorado</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Poca</snm>
+                  <fnm>MA</fnm>
+               </au>
+               <au>
+                  <snm>Sahuquillo</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Baselga</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Seoane</snm>
+                  <fnm>J</fnm>
+               </au>
+            </aug>
+            <source>Cancer Cell</source>
+            <pubdate>2009</pubdate>
+            <volume>15</volume>
+            <fpage>315</fpage>
+            <lpage>327</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.ccr.2009.02.011</pubid>
+                  <pubid idtype="pmpid" link="fulltext">19345330</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B32">
+            <title>
+               <p>Most C6 cells are cancer stem cells: evidence from clonal and population analyses</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Zheng</snm>
+                  <fnm>X</fnm>
+               </au>
+               <au>
+                  <snm>Shen</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Yang</snm>
+                  <fnm>X</fnm>
+               </au>
+               <au>
+                  <snm>Liu</snm>
+                  <fnm>W</fnm>
+               </au>
+            </aug>
+            <source>Cancer Res</source>
+            <pubdate>2007</pubdate>
+            <volume>67</volume>
+            <fpage>3691</fpage>
+            <lpage>3697</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1158/0008-5472.CAN-06-3912</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17440081</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B33">
+            <title>
+               <p>The hypoxic microenvironment maintains glioblastoma stem cells and promotes reprogramming towards a cancer stem cell phenotype</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Heddleston</snm>
+                  <fnm>JM</fnm>
+               </au>
+               <au>
+                  <snm>Li</snm>
+                  <fnm>Z</fnm>
+               </au>
+               <au>
+                  <snm>McLendon</snm>
+                  <fnm>RE</fnm>
+               </au>
+               <au>
+                  <snm>Hjelmeland</snm>
+                  <fnm>AB</fnm>
+               </au>
+               <au>
+                  <snm>Rich</snm>
+                  <fnm>JN</fnm>
+               </au>
+            </aug>
+            <source>Cell Cycle</source>
+            <pubdate>2009</pubdate>
+            <volume>8</volume>
+            <fpage>3274</fpage>
+            <lpage>3284</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.4161/cc.8.20.9701</pubid>
+                  <pubid idtype="pmcid">2825672</pubid>
+                  <pubid idtype="pmpid" link="fulltext">19770585</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B34">
+            <title>
+               <p>Acidic stress promotes a glioma stem cell phenotype</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Hjelmeland</snm>
+                  <fnm>AB</fnm>
+               </au>
+               <au>
+                  <snm>Wu</snm>
+                  <fnm>Q</fnm>
+               </au>
+               <au>
+                  <snm>Heddleston</snm>
+                  <fnm>JM</fnm>
+               </au>
+               <au>
+                  <snm>Choudhary</snm>
+                  <fnm>GS</fnm>
+               </au>
+               <au>
+                  <snm>MacSwords</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Lathia</snm>
+                  <fnm>JD</fnm>
+               </au>
+               <au>
+                  <snm>McLendon</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Lindner</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Sloan</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Rich</snm>
+                  <fnm>JN</fnm>
+               </au>
+            </aug>
+            <source>Cell Death Differ</source>
+            <pubdate>2011</pubdate>
+            <volume>18</volume>
+            <fpage>829</fpage>
+            <lpage>840</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/cdd.2010.150</pubid>
+                  <pubid idtype="pmpid" link="fulltext">21127501</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B35">
+            <title>
+               <p>Synthesis of 3,7-dihydroimidazo[1,2a]pyrazine-3-ones and their chemiluminescent properties</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Adamczyk</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Akireddy</snm>
+                  <fnm>SR</fnm>
+               </au>
+               <au>
+                  <snm>Johnson</snm>
+                  <fnm>DD</fnm>
+               </au>
+               <au>
+                  <snm>Mattingly</snm>
+                  <fnm>PG</fnm>
+               </au>
+               <au>
+                  <snm>Pan</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Reddy</snm>
+                  <fnm>RE</fnm>
+               </au>
+            </aug>
+            <source>Tetrahedron</source>
+            <pubdate>2003</pubdate>
+            <volume>59</volume>
+            <fpage>8129</fpage>
+            <lpage>8142</lpage>
+            <xrefbib>
+               <pubid idtype="doi">10.1016/j.tet.2003.08.040</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B36">
+            <title>
+               <p>Highly efficient, general procedure for the preparation of alkylzinc reagents from unactivated alkyl bromides and chlorides</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Huo</snm>
+                  <fnm>SQ</fnm>
+               </au>
+            </aug>
+            <source>Organic Letters</source>
+            <pubdate>2003</pubdate>
+            <volume>5</volume>
+            <fpage>423</fpage>
+            <lpage>425</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1021/ol0272693</pubid>
+                  <pubid idtype="pmpid" link="fulltext">12583734</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B37">
+            <title>
+               <p>An extremely active catalyst for the Negishi cross-coupling reaction</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Milne</snm>
+                  <fnm>JE</fnm>
+               </au>
+               <au>
+                  <snm>Buchwald</snm>
+                  <fnm>SL</fnm>
+               </au>
+            </aug>
+            <source>J Am Chem Soc</source>
+            <pubdate>2004</pubdate>
+            <volume>126</volume>
+            <fpage>13028</fpage>
+            <lpage>13032</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1021/ja0474493</pubid>
+                  <pubid idtype="pmpid" link="fulltext">15469301</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B38">
+            <title>
+               <p>Bimodal viral vectors and <it>in vivo </it>imaging reveal the fate of human neural stem cells in experimental glioma model</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Shah</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Hingtgen</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Kasmieh</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Figueiredo</snm>
+                  <fnm>JL</fnm>
+               </au>
+               <au>
+                  <snm>Garcia-Garcia</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Martinez-Serrano</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Breakefield</snm>
+                  <fnm>X</fnm>
+               </au>
+               <au>
+                  <snm>Weissleder</snm>
+                  <fnm>R</fnm>
+               </au>
+            </aug>
+            <source>J Neurosci</source>
+            <pubdate>2008</pubdate>
+            <volume>28</volume>
+            <fpage>4406</fpage>
+            <lpage>4413</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1523/JNEUROSCI.0296-08.2008</pubid>
+                  <pubid idtype="pmcid">3021321</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18434519</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B39">
+            <title>
+               <p>Monitoring of tumor growth and post-irradiation recurrence in a diffuse intrinsic pontine glioma mouse model</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Caretti</snm>
+                  <fnm>V</fnm>
+               </au>
+               <au>
+                  <snm>Zondervan</snm>
+                  <fnm>I</fnm>
+               </au>
+               <au>
+                  <snm>Meijer</snm>
+                  <fnm>DH</fnm>
+               </au>
+               <au>
+                  <snm>Idema</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Vos</snm>
+                  <fnm>W</fnm>
+               </au>
+               <au>
+                  <snm>Hamans</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Bugiani</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Hulleman</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Wesseling</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Vandertop</snm>
+                  <fnm>WP</fnm>
+               </au>
+               <au>
+                  <snm>Noske</snm>
+                  <fnm>DP</fnm>
+               </au>
+               <au>
+                  <snm>Kaspers</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Molthoff</snm>
+                  <fnm>CF</fnm>
+               </au>
+               <au>
+                  <snm>Wurdinger</snm>
+                  <fnm>T</fnm>
+               </au>
+            </aug>
+            <source>Brain Pathol</source>
+            <pubdate>2011</pubdate>
+            <volume>21</volume>
+            <fpage>441</fpage>
+            <lpage>451</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1111/j.1750-3639.2010.00468.x</pubid>
+                  <pubid idtype="pmpid" link="fulltext">21159008</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B40">
+            <title>
+               <p>Spheres isolated from 9L gliosarcoma rat cell line possess chemoresistant and aggressive cancer stem-like cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Ghods</snm>
+                  <fnm>AJ</fnm>
+               </au>
+               <au>
+                  <snm>Irvin</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Liu</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Yuan</snm>
+                  <fnm>X</fnm>
+               </au>
+               <au>
+                  <snm>Abdulkadir</snm>
+                  <fnm>IR</fnm>
+               </au>
+               <au>
+                  <snm>Tunici</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Konda</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Wachsmann-Hogiu</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Black</snm>
+                  <fnm>KL</fnm>
+               </au>
+               <au>
+                  <snm>Yu</snm>
+                  <fnm>JS</fnm>
+               </au>
+            </aug>
+            <source>Stem Cells</source>
+            <pubdate>2007</pubdate>
+            <volume>25</volume>
+            <fpage>1645</fpage>
+            <lpage>1653</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1634/stemcells.2006-0624</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17412894</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B41">
+            <title>
+               <p>Soluble factors involved in glioma invasion</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Mueller</snm>
+                  <fnm>MM</fnm>
+               </au>
+               <au>
+                  <snm>Werbowetski</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Del Maestro</snm>
+                  <fnm>RF</fnm>
+               </au>
+            </aug>
+            <source>Acta Neurochir (Wien)</source>
+            <pubdate>2003</pubdate>
+            <volume>145</volume>
+            <fpage>999</fpage>
+            <lpage>1008</lpage>
+            <xrefbib>
+               <pubid idtype="doi">10.1007/s00701-003-0132-0</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B42">
+            <title>
+               <p>Enhanced expression of transforming growth factor-beta and its type-I and type-II receptors in human glioblastoma</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Yamada</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Kato</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Yamashita</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Nister</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Miyazono</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Heldin</snm>
+                  <fnm>CH</fnm>
+               </au>
+               <au>
+                  <snm>Funa</snm>
+                  <fnm>K</fnm>
+               </au>
+            </aug>
+            <source>Int J Cancer</source>
+            <pubdate>1995</pubdate>
+            <volume>62</volume>
+            <fpage>386</fpage>
+            <lpage>392</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1002/ijc.2910620405</pubid>
+                  <pubid idtype="pmpid">7635563</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B43">
+            <title>
+               <p>High TGFbeta-Smad activity confers poor prognosis in glioma patients and promotes cell proliferation depending on the methylation of the PDGF-B gene</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Bruna</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Darken</snm>
+                  <fnm>RS</fnm>
+               </au>
+               <au>
+                  <snm>Rojo</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Ocana</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Penuelas</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Arias</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Paris</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Tortosa</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Mora</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Baselga</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Seoane</snm>
+                  <fnm>J</fnm>
+               </au>
+            </aug>
+            <source>Cancer Cell</source>
+            <pubdate>2007</pubdate>
+            <volume>11</volume>
+            <fpage>147</fpage>
+            <lpage>160</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.ccr.2006.11.023</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17292826</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B44">
+            <title>
+               <p>Expression and release of interleukin-1 by human glioblastoma cells <it>in vitro </it>and <it>in vivo</it></p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Gauthier</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Hamou</snm>
+                  <fnm>MF</fnm>
+               </au>
+               <au>
+                  <snm>Monod</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Gallay</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Carrel</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>de Tribolet</snm>
+                  <fnm>N</fnm>
+               </au>
+            </aug>
+            <source>Acta Neurochir (Wien)</source>
+            <pubdate>1993</pubdate>
+            <volume>121</volume>
+            <fpage>199</fpage>
+            <lpage>205</lpage>
+            <xrefbib>
+               <pubid idtype="doi">10.1007/BF01809276</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B45">
+            <title>
+               <p>Upregulation of beta-amyloid precursor protein expression in glioblastoma multiforme</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Culicchia</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Cui</snm>
+                  <fnm>J-G</fnm>
+               </au>
+               <au>
+                  <snm>Li</snm>
+                  <fnm>YY</fnm>
+               </au>
+               <au>
+                  <snm>Lukiw</snm>
+                  <fnm>WJ</fnm>
+               </au>
+            </aug>
+            <source>Neuroreport</source>
+            <pubdate>2008</pubdate>
+            <volume>19</volume>
+            <fpage>981</fpage>
+            <lpage>985</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1097/WNR.0b013e328302f139</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18521005</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B46">
+            <title>
+               <p>Potential gene therapy strategies for cancer stem cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Sell</snm>
+                  <fnm>S</fnm>
+               </au>
+            </aug>
+            <source>Curr Gene Ther</source>
+            <pubdate>2006</pubdate>
+            <volume>6</volume>
+            <fpage>579</fpage>
+            <lpage>591</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.2174/156652306778520674</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17073603</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B47">
+            <title>
+               <p>Acidic stress promotes a glioma stem cell phenotype</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Hjelmeland</snm>
+                  <fnm>AB</fnm>
+               </au>
+               <au>
+                  <snm>Wu</snm>
+                  <fnm>Q</fnm>
+               </au>
+               <au>
+                  <snm>Heddleston</snm>
+                  <fnm>JM</fnm>
+               </au>
+               <au>
+                  <snm>Choudhary</snm>
+                  <fnm>GS</fnm>
+               </au>
+               <au>
+                  <snm>Macswords</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Lathia</snm>
+                  <fnm>JD</fnm>
+               </au>
+               <au>
+                  <snm>McLendon</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Lindner</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Sloan</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Rich</snm>
+                  <fnm>JN</fnm>
+               </au>
+            </aug>
+            <source>Cell Death Differ</source>
+            <pubdate>2011</pubdate>
+            <volume>18</volume>
+            <fpage>829</fpage>
+            <lpage>840</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/cdd.2010.150</pubid>
+                  <pubid idtype="pmpid" link="fulltext">21127501</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B48">
+            <title>
+               <p>A hierarchy of self-renewing tumor-initiating cell types in glioblastoma</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Chen</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Nishimura</snm>
+                  <fnm>MC</fnm>
+               </au>
+               <au>
+                  <snm>Bumbaca</snm>
+                  <fnm>SM</fnm>
+               </au>
+               <au>
+                  <snm>Kharbanda</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Forrest</snm>
+                  <fnm>WF</fnm>
+               </au>
+               <au>
+                  <snm>Kasman</snm>
+                  <fnm>IM</fnm>
+               </au>
+               <au>
+                  <snm>Greve</snm>
+                  <fnm>JM</fnm>
+               </au>
+               <au>
+                  <snm>Soriano</snm>
+                  <fnm>RH</fnm>
+               </au>
+               <au>
+                  <snm>Gilmour</snm>
+                  <fnm>LL</fnm>
+               </au>
+               <au>
+                  <snm>Rivers</snm>
+                  <fnm>CS</fnm>
+               </au>
+               <au>
+                  <snm>Modrusan</snm>
+                  <fnm>Z</fnm>
+               </au>
+               <au>
+                  <snm>Nacu</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Guerrero</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Edgar</snm>
+                  <fnm>KA</fnm>
+               </au>
+               <au>
+                  <snm>Wallin</snm>
+                  <fnm>JJ</fnm>
+               </au>
+               <au>
+                  <snm>Lamszus</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Westphal</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Heim</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>James</snm>
+                  <fnm>CD</fnm>
+               </au>
+               <au>
+                  <snm>VandenBerg</snm>
+                  <fnm>SR</fnm>
+               </au>
+               <au>
+                  <snm>Costello</snm>
+                  <fnm>JF</fnm>
+               </au>
+               <au>
+                  <snm>Moorefield</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Cowdrey</snm>
+                  <fnm>CJ</fnm>
+               </au>
+               <au>
+                  <snm>Prados</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Phillips</snm>
+                  <fnm>HS</fnm>
+               </au>
+            </aug>
+            <source>Cancer Cell</source>
+            <pubdate>2010</pubdate>
+            <volume>17</volume>
+            <fpage>362</fpage>
+            <lpage>375</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.ccr.2009.12.049</pubid>
+                  <pubid idtype="pmpid" link="fulltext">20385361</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B49">
+            <title>
+               <p>Nestin, PDGFRbeta, CXCL12 and VEGF in glioma patients: different profiles of (pro-angiogenic) molecule expression are related with tumor grade and may provide prognostic information</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Maderna</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Salmaggi</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Calatozzolo</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Limido</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Pollo</snm>
+                  <fnm>B</fnm>
+               </au>
+            </aug>
+            <source>Cancer Biol Ther</source>
+            <pubdate>2007</pubdate>
+            <volume>6</volume>
+            <fpage>1018</fpage>
+            <lpage>1024</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.4161/cbt.6.7.4362</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17611402</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B50">
+            <title>
+               <p>Cytokine control of adult neural stem cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Bauer</snm>
+                  <fnm>S</fnm>
+               </au>
+            </aug>
+            <source>Ann N Y Acad Sci</source>
+            <pubdate>2009</pubdate>
+            <volume>1153</volume>
+            <fpage>48</fpage>
+            <lpage>56</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1111/j.1749-6632.2009.03986.x</pubid>
+                  <pubid idtype="pmpid" link="fulltext">19236327</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B51">
+            <title>
+               <p>NOTCH pathway blockade depletes CD133-positive glioblastoma cells and inhibits growth of tumor neurospheres and xenografts</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Fan</snm>
+                  <fnm>X</fnm>
+               </au>
+               <au>
+                  <snm>Khaki</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Zhu</snm>
+                  <fnm>TS</fnm>
+               </au>
+               <au>
+                  <snm>Soules</snm>
+                  <fnm>ME</fnm>
+               </au>
+               <au>
+                  <snm>Talsma</snm>
+                  <fnm>CE</fnm>
+               </au>
+               <au>
+                  <snm>Gul</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Koh</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Zhang</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Li</snm>
+                  <fnm>YM</fnm>
+               </au>
+               <au>
+                  <snm>Maciaczyk</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Nikkhah</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Dimeco</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Piccirillo</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Vescovi</snm>
+                  <fnm>AL</fnm>
+               </au>
+               <au>
+                  <snm>Eberhart</snm>
+                  <fnm>CG</fnm>
+               </au>
+            </aug>
+            <source>Stem Cells</source>
+            <pubdate>2009</pubdate>
+            <volume>28</volume>
+            <fpage>5</fpage>
+            <lpage>16</lpage>
+         </bibl>
+         <bibl id="B52">
+            <title>
+               <p>Inhibition of notch signaling blocks growth of glioblastoma cell lines and tumor neurospheres</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Chen</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Kesari</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Rooney</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Strack</snm>
+                  <fnm>PR</fnm>
+               </au>
+               <au>
+                  <snm>Shen</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Wu</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Griffin</snm>
+                  <fnm>JD</fnm>
+               </au>
+            </aug>
+            <source>Genes Cancer</source>
+            <pubdate>2010</pubdate>
+            <volume>1</volume>
+            <fpage>822</fpage>
+            <lpage>835</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1177/1947601910383564</pubid>
+                  <pubid idtype="pmcid">2994256,2994256</pubid>
+                  <pubid idtype="pmpid">21127729</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B53">
+            <title>
+               <p>Tenascin-C is a novel RBPJkappa-induced target gene for Notch signaling in gliomas</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Sivasankaran</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Degen</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Ghaffari</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Hegi</snm>
+                  <fnm>ME</fnm>
+               </au>
+               <au>
+                  <snm>Hamou</snm>
+                  <fnm>MF</fnm>
+               </au>
+               <au>
+                  <snm>Ionescu</snm>
+                  <fnm>MC</fnm>
+               </au>
+               <au>
+                  <snm>Zweifel</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Tolnay</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Wasner</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Mergenthaler</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Miserez</snm>
+                  <fnm>AR</fnm>
+               </au>
+               <au>
+                  <snm>Kiss</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Lino</snm>
+                  <fnm>MM</fnm>
+               </au>
+               <au>
+                  <snm>Merlo</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Chiquet-Ehrismann</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Boulay</snm>
+                  <fnm>JL</fnm>
+               </au>
+            </aug>
+            <source>Cancer Res</source>
+            <pubdate>2009</pubdate>
+            <volume>69</volume>
+            <fpage>458</fpage>
+            <lpage>465</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1158/0008-5472.CAN-08-2610</pubid>
+                  <pubid idtype="pmpid" link="fulltext">19147558</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B54">
+            <title>
+               <p>Bmi-1 dependence distinguishes neural stem cell self-renewal from progenitor proliferation</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Molofsky</snm>
+                  <fnm>AV</fnm>
+               </au>
+               <au>
+                  <snm>Pardal</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Iwashita</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Park</snm>
+                  <fnm>IK</fnm>
+               </au>
+               <au>
+                  <snm>Clarke</snm>
+                  <fnm>MF</fnm>
+               </au>
+               <au>
+                  <snm>Morrison</snm>
+                  <fnm>SJ</fnm>
+               </au>
+            </aug>
+            <source>Nature</source>
+            <pubdate>2003</pubdate>
+            <volume>425</volume>
+            <fpage>962</fpage>
+            <lpage>967</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/nature02060</pubid>
+                  <pubid idtype="pmcid">2614897</pubid>
+                  <pubid idtype="pmpid" link="fulltext">14574365</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B55">
+            <title>
+               <p>BMI1 sustains human glioblastoma multiforme stem cell renewal</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Abdouh</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Facchino</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Chatoo</snm>
+                  <fnm>W</fnm>
+               </au>
+               <au>
+                  <snm>Balasingam</snm>
+                  <fnm>V</fnm>
+               </au>
+               <au>
+                  <snm>Ferreira</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Bernier</snm>
+                  <fnm>G</fnm>
+               </au>
+            </aug>
+            <source>J Neurosci</source>
+            <pubdate>2009</pubdate>
+            <volume>29</volume>
+            <fpage>8884</fpage>
+            <lpage>8896</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1523/JNEUROSCI.0968-09.2009</pubid>
+                  <pubid idtype="pmpid" link="fulltext">19605626</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B56">
+            <title>
+               <p>Induction of neural stem cell-like cells (NSCLCs) from mouse astrocytes by Bmi1</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Moon</snm>
+                  <fnm>J-H</fnm>
+               </au>
+               <au>
+                  <snm>Yoon</snm>
+                  <fnm>BS</fnm>
+               </au>
+               <au>
+                  <snm>Kim</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Park</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Jung</snm>
+                  <fnm>H-Y</fnm>
+               </au>
+               <au>
+                  <snm>Maeng</snm>
+                  <fnm>I</fnm>
+               </au>
+               <au>
+                  <snm>Jun</snm>
+                  <fnm>EK</fnm>
+               </au>
+               <au>
+                  <snm>Yoo</snm>
+                  <fnm>SJ</fnm>
+               </au>
+               <au>
+                  <snm>Kim</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Oh</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Whang</snm>
+                  <fnm>KY</fnm>
+               </au>
+               <au>
+                  <snm>Kim</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Kim</snm>
+                  <fnm>D-W</fnm>
+               </au>
+               <au>
+                  <snm>Kim</snm>
+                  <fnm>KD</fnm>
+               </au>
+               <au>
+                  <snm>You</snm>
+                  <fnm>S</fnm>
+               </au>
+            </aug>
+            <source>Biochem Biophys Res Commun</source>
+            <pubdate>2008</pubdate>
+            <volume>371</volume>
+            <fpage>267</fpage>
+            <lpage>272</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.bbrc.2008.04.068</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18439910</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B57">
+            <title>
+               <p>Differential expression of versican isoforms in brain tumors</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Paulus</snm>
+                  <fnm>W</fnm>
+               </au>
+               <au>
+                  <snm>Baur</snm>
+                  <fnm>I</fnm>
+               </au>
+               <au>
+                  <snm>Dours-Zimmermann</snm>
+                  <fnm>MT</fnm>
+               </au>
+               <au>
+                  <snm>Zimmermann</snm>
+                  <fnm>DR</fnm>
+               </au>
+            </aug>
+            <source>J Neuropathol Exp Neurol</source>
+            <pubdate>1996</pubdate>
+            <volume>55</volume>
+            <fpage>528</fpage>
+            <lpage>533</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1097/00005072-199605000-00005</pubid>
+                  <pubid idtype="pmpid">8627343</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B58">
+            <title>
+               <p>The role of integrin receptors in aspects of glioma invasion <it>in vitro</it></p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Rooprai</snm>
+                  <fnm>HK</fnm>
+               </au>
+               <au>
+                  <snm>Vanmeter</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Panou</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Schnull</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Trillo-Pazos</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Davies</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Pilkington</snm>
+                  <fnm>GJ</fnm>
+               </au>
+            </aug>
+            <source>Int J Dev Neurosci</source>
+            <pubdate>1999</pubdate>
+            <volume>17</volume>
+            <fpage>613</fpage>
+            <lpage>623</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/S0736-5748(99)00051-9</pubid>
+                  <pubid idtype="pmpid" link="fulltext">10571422</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B59">
+            <title>
+               <p>Correlation of N-cadherin expression in high grade gliomas with tissue invasion</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Asano</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Duntsch</snm>
+                  <fnm>CD</fnm>
+               </au>
+               <au>
+                  <snm>Zhou</snm>
+                  <fnm>Q</fnm>
+               </au>
+               <au>
+                  <snm>Weimar</snm>
+                  <fnm>JD</fnm>
+               </au>
+               <au>
+                  <snm>Bordelon</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Robertson</snm>
+                  <fnm>JH</fnm>
+               </au>
+               <au>
+                  <snm>Pourmotabbed</snm>
+                  <fnm>T</fnm>
+               </au>
+            </aug>
+            <source>J Neurooncol</source>
+            <pubdate>2004</pubdate>
+            <volume>70</volume>
+            <fpage>3</fpage>
+            <lpage>15</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid" link="fulltext">15527101</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B60">
+            <title>
+               <p>ADAM-10-mediated N-cadherin cleavage is protein kinase C-alpha dependent and promotes glioblastoma cell migration</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Kohutek</snm>
+                  <fnm>ZA</fnm>
+               </au>
+               <au>
+                  <snm>diPierro</snm>
+                  <fnm>CG</fnm>
+               </au>
+               <au>
+                  <snm>Redpath</snm>
+                  <fnm>GT</fnm>
+               </au>
+               <au>
+                  <snm>Hussaini</snm>
+                  <fnm>IM</fnm>
+               </au>
+            </aug>
+            <source>J Neurosci</source>
+            <pubdate>2009</pubdate>
+            <volume>29</volume>
+            <fpage>4605</fpage>
+            <lpage>4615</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1523/JNEUROSCI.5126-08.2009</pubid>
+                  <pubid idtype="pmcid">3133728</pubid>
+                  <pubid idtype="pmpid" link="fulltext">19357285</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B61">
+            <title>
+               <p>Cadherin-dependent adhesion of human U373MG glioblastoma cells promotes neurite outgrowth and increases migratory capacity. Laboratory investigation</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Cifarelli</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Titus</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Yeoh</snm>
+                  <fnm>H</fnm>
+               </au>
+            </aug>
+            <source>J Neurosurg</source>
+            <pubdate>2011</pubdate>
+            <volume>114</volume>
+            <fpage>663</fpage>
+            <lpage>669</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.3171/2010.3.JNS091451</pubid>
+                  <pubid idtype="pmpid" link="fulltext">20415527</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B62">
+            <title>
+               <p>Surface expression of precursor N-cadherin promotes tumor cell invasion</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Maret</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Gruzglin</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Sadr</snm>
+                  <fnm>MS</fnm>
+               </au>
+               <au>
+                  <snm>Siu</snm>
+                  <fnm>V</fnm>
+               </au>
+               <au>
+                  <snm>Shan</snm>
+                  <fnm>W</fnm>
+               </au>
+               <au>
+                  <snm>Koch</snm>
+                  <fnm>AW</fnm>
+               </au>
+               <au>
+                  <snm>Seidah</snm>
+                  <fnm>NG</fnm>
+               </au>
+               <au>
+                  <snm>Del Maestro</snm>
+                  <fnm>RF</fnm>
+               </au>
+               <au>
+                  <snm>Colman</snm>
+                  <fnm>DR</fnm>
+               </au>
+            </aug>
+            <source>Neoplasia</source>
+            <pubdate>2010</pubdate>
+            <volume>12</volume>
+            <fpage>1066</fpage>
+            <lpage>1080</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="pmcid">3003141</pubid>
+                  <pubid idtype="pmpid" link="fulltext">21170270</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B63">
+            <title>
+               <p>Identification of the role of Smad interacting protein 1 (SIP1) in glioma</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Xia</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Hu</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Wang</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Xu</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Chen</snm>
+                  <fnm>X</fnm>
+               </au>
+               <au>
+                  <snm>Ma</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Su</snm>
+                  <fnm>L</fnm>
+               </au>
+            </aug>
+            <source>J Neurooncol</source>
+            <pubdate>2010</pubdate>
+            <volume>97</volume>
+            <fpage>225</fpage>
+            <lpage>232</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1007/s11060-009-0015-1</pubid>
+                  <pubid idtype="pmpid" link="fulltext">19806322</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B64">
+            <title>
+               <p>Cytokine and cytokine receptor mRNA expression in human glioblastomas: evidence of Th1, Th2 and Th3 cytokine dysregulation</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Hao</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Parney</snm>
+                  <fnm>IF</fnm>
+               </au>
+               <au>
+                  <snm>Roa</snm>
+                  <fnm>WH</fnm>
+               </au>
+               <au>
+                  <snm>Turner</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Petruk</snm>
+                  <fnm>KC</fnm>
+               </au>
+               <au>
+                  <snm>Ramsay</snm>
+                  <fnm>DA</fnm>
+               </au>
+            </aug>
+            <source>Acta Neuropathol</source>
+            <pubdate>2002</pubdate>
+            <volume>103</volume>
+            <fpage>171</fpage>
+            <lpage>178</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1007/s004010100448</pubid>
+                  <pubid idtype="pmpid" link="fulltext">11810184</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B65">
+            <title>
+               <p>Human glioblastoma cells release interleukin 6 <it>in vivo </it>and <it>in vitro</it></p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Van Meir</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Sawamura</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Diserens</snm>
+                  <fnm>AC</fnm>
+               </au>
+               <au>
+                  <snm>Hamou</snm>
+                  <fnm>MF</fnm>
+               </au>
+               <au>
+                  <snm>de Tribolet</snm>
+                  <fnm>N</fnm>
+               </au>
+            </aug>
+            <source>Cancer Res</source>
+            <pubdate>1990</pubdate>
+            <volume>50</volume>
+            <fpage>6683</fpage>
+            <lpage>6688</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid" link="fulltext">2208133</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B66">
+            <title>
+               <p>The role of interleukin-8 and its receptors in gliomagenesis and tumoral angiogenesis</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Brat</snm>
+                  <fnm>DJ</fnm>
+               </au>
+               <au>
+                  <snm>Bellail</snm>
+                  <fnm>AC</fnm>
+               </au>
+               <au>
+                  <snm>Van Meir</snm>
+                  <fnm>EG</fnm>
+               </au>
+            </aug>
+            <source>Neurooncol</source>
+            <pubdate>2005</pubdate>
+            <volume>7</volume>
+            <fpage>122</fpage>
+            <lpage>133</lpage>
+         </bibl>
+      </refgrp>
+   </bm>
+</art>

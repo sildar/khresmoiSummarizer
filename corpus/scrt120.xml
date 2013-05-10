@@ -1,0 +1,2249 @@
+<!DOCTYPE art SYSTEM "article.dtd">
+<art>
+   <ui>scrt120</ui>
+   <ji>1757-6512</ji>
+   <fm>
+      <dochead>Research</dochead>
+      <bibl>
+         <title>
+            <p>Human foreskin fibroblast produces interleukin-6 to support derivation and self-renewal of mouse embryonic stem cells</p>
+         </title>
+         <aug>
+            <au id="A1" ce="yes">
+               <snm>Ma</snm>
+               <fnm>Yu</fnm>
+               <insr iid="I1"/>
+               <insr iid="I2"/>
+               <email>nkmy13@163.com</email>
+            </au>
+            <au id="A2" ce="yes">
+               <snm>Gu</snm>
+               <fnm>Junjie</fnm>
+               <insr iid="I1"/>
+               <insr iid="I2"/>
+               <email>gujunjie1984@yahoo.com.cn</email>
+            </au>
+            <au id="A3">
+               <snm>Li</snm>
+               <fnm>Chunliang</fnm>
+               <insr iid="I1"/>
+               <insr iid="I3"/>
+               <email>chunliang.li@stjude.org</email>
+            </au>
+            <au id="A4">
+               <snm>Wei</snm>
+               <fnm>Xiaoyuan</fnm>
+               <insr iid="I4"/>
+               <email>xiaoyuan0301@126.com</email>
+            </au>
+            <au id="A5">
+               <snm>Tang</snm>
+               <fnm>Fan</fnm>
+               <insr iid="I1"/>
+               <insr iid="I2"/>
+               <email>tangfan_7@yahoo.com.cn</email>
+            </au>
+            <au id="A6">
+               <snm>Shi</snm>
+               <fnm>Guilai</fnm>
+               <insr iid="I1"/>
+               <email>sglswjs@163.com</email>
+            </au>
+            <au id="A7">
+               <snm>Jiang</snm>
+               <fnm>Jing</fnm>
+               <insr iid="I5"/>
+               <email>jjiang@sibs.ac.cn</email>
+            </au>
+            <au id="A8">
+               <snm>Kuang</snm>
+               <fnm>Ying</fnm>
+               <insr iid="I6"/>
+               <email>kuangying01@yahoo.com.cn</email>
+            </au>
+            <au id="A9">
+               <snm>Li</snm>
+               <fnm>Jinsong</fnm>
+               <insr iid="I5"/>
+               <email>jsli@sibs.ac.cn</email>
+            </au>
+            <au id="A10">
+               <snm>Wang</snm>
+               <fnm>Zhugang</fnm>
+               <insr iid="I6"/>
+               <email>zhugang.wang@163.com</email>
+            </au>
+            <au id="A11">
+               <snm>Xie</snm>
+               <fnm>Xin</fnm>
+               <insr iid="I4"/>
+               <insr iid="I7"/>
+               <email>xxie@mail.shcnc.ac.cn</email>
+            </au>
+            <au id="A12" ca="yes">
+               <snm>Jin</snm>
+               <fnm>Ying</fnm>
+               <insr iid="I1"/>
+               <insr iid="I2"/>
+               <email>yjin@sibs.ac.cn</email>
+            </au>
+         </aug>
+         <insg>
+            <ins id="I1">
+               <p>Key Laboratory of Stem Cell Biology, Institute of Health Sciences, Shanghai Jiao Tong University School of Medicine &amp; Shanghai Institutes for Biological Sciences, Chinese Academy of Sciences, 225 South Chongqing Road, Shanghai 200025, China</p>
+            </ins>
+            <ins id="I2">
+               <p>Shanghai Stem Cell Institute, Shanghai Jiao Tong University School of Medicine, 225 South Chongqing Road, Shanghai 200025, China</p>
+            </ins>
+            <ins id="I3">
+               <p>Department of Tumor Cell Biology, St. Jude Children's Research Hospital, 262 Danny Thomas Place, Memphis, TN 38103, USA</p>
+            </ins>
+            <ins id="I4">
+               <p>Laboratory of Receptor-based BioMedicine, School of Life Sciences and Technology, Shanghai Key Laboratory of Signaling and Disease Research, Tongji University, Shanghai 200092, China</p>
+            </ins>
+            <ins id="I5">
+               <p>Laboratory of Molecular Cell Biology, Institute of Biochemistry and Cell Biology, Shanghai Institute for Biological Sciences, Chinese Academy of Sciences, Shanghai 200031, China</p>
+            </ins>
+            <ins id="I6">
+               <p>Shanghai Research Center for Model Organisms, Shanghai 201203, China</p>
+            </ins>
+            <ins id="I7">
+               <p>State Key Laboratory of Drug Research, National Center for Drug Screening, Shanghai Institute of Materia Medica, Chinese Academy of Sciences, Shanghai 201203, China</p>
+            </ins>
+         </insg>
+         <source>Stem Cell Research &amp; Therapy</source>
+         <issn>1757-6512</issn>
+         <pubdate>2012</pubdate>
+         <volume>3</volume>
+         <issue>4</issue>
+         <fpage>29</fpage>
+         <url>http://stemcellres.com/content/3/4/29</url>
+         <xrefbib>
+            <pubidlist>
+               <pubid idtype="doi">10.1186/scrt120</pubid>
+               <pubid idtype="pmpid">22849865</pubid>
+            </pubidlist>
+         </xrefbib>
+      </bibl>
+      <history>
+         <rec>
+            <date>
+               <day>8</day>
+               <month>8</month>
+               <year>2011</year>
+            </date>
+         </rec>
+         <revrec>
+            <date>
+               <day>18</day>
+               <month>4</month>
+               <year>2012</year>
+            </date>
+         </revrec>
+         <acc>
+            <date>
+               <day>31</day>
+               <month>7</month>
+               <year>2012</year>
+            </date>
+         </acc>
+         <pub>
+            <date>
+               <day>31</day>
+               <month>7</month>
+               <year>2012</year>
+            </date>
+         </pub>
+      </history>
+      <cpyrt>
+         <year>2012</year>
+         <collab>Ma et al.; licensee BioMed Central Ltd.</collab>
+         <note>This is an open access article distributed under the terms of the Creative Commons Attribution License (<url>http://creativecommons.org/licenses/by/2.0</url>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</note>
+      </cpyrt>
+      <abs>
+         <sec>
+            <st>
+               <p>Abstract</p>
+            </st>
+            <sec>
+               <st>
+                  <p>Introduction</p>
+               </st>
+               <p>Embryonic stem cells (ESCs) provide an attractive cell source for basic research and disease treatment. Currently, the common culture system for mouse ESC requires mouse embryonic fibroblast (MEF) as a feeder layer supplemented with leukemia inhibitory factor (LIF). The drawbacks associated with MEF and the cost of LIF have motivated exploration of new feeder cell types to maintain self-renewal of mouse ESCs without the need of exogenous LIF. However, why these feeder cells could maintain ESCs at the undifferentiated state independent of exogenous LIF is unclear.</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>Methods</p>
+               </st>
+               <p>We derived mouse ESC lines using human foreskin fibroblast (HFF) in the absence of exogenous LIF. We also examined the dependence of HFF on the JAK-Stat3 pathway to maintain ESC identities and explored the potential molecular basis for HFF to support self-renewal of ESCs.</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>Results</p>
+               </st>
+               <p>HFF supported mouse ESC self-renewal superiorly to MEFs. Using the HFF system, multiple lines of mouse ESCs were successfully derived without addition of exogenous LIF and any small molecular inhibitors. These ESCs had capacities to self-renew for a long period of time and to differentiate into various cell types of the three germ layers both <it>in vitro </it>and <it>in vivo</it>. Moreover, the ESCs participated in embryonic development and contributed to germ cell lineages in the chimeric mouse. At a molecular level, HFF was dependent on the JAK-Stat3 pathway to maintain ESC self-renewal. The high level of interleukin-6 (IL-6) produced by HFF might be responsible for the exogenous LIF-independent effect.</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>Conclusion</p>
+               </st>
+               <p>This study describes an efficient, convenient and economic system to establish and maintain mouse ESC lines, and provides insights into the functional difference in the support of ESC culture between MEF and HFF.</p>
+            </sec>
+         </sec>
+      </abs>
+   </fm>
+   <meta>
+      <classifications>
+         <classification id="asiapacific" subtype="theme_series_title" type="BMC">Stem cell research in the Asia-Pacific</classification>
+         <classification id="asiapacific" subtype="theme_series_editor" type="BMC"/>
+      </classifications>
+   </meta>
+   <bdy>
+      <sec>
+         <st>
+            <p>Introduction</p>
+         </st>
+         <p>Embryonic stem cells (ESCs) are derived from the inner cell mass of blastocyst <abbrgrp><abbr bid="B1">1</abbr></abbrgrp>. These cells can proliferate indefinitely <it>in vitro </it>and differentiate into all of the cell types of the three embryonic germ layers (endoderm <abbrgrp><abbr bid="B2">2</abbr><abbr bid="B3">3</abbr><abbr bid="B4">4</abbr></abbrgrp>, mesoderm <abbrgrp><abbr bid="B5">5</abbr><abbr bid="B6">6</abbr><abbr bid="B7">7</abbr></abbrgrp> and ectoderm <abbrgrp><abbr bid="B8">8</abbr><abbr bid="B9">9</abbr></abbrgrp>) as well as germ cells <abbrgrp><abbr bid="B10">10</abbr><abbr bid="B11">11</abbr></abbrgrp>. The unique properties of ESCs - unlimited self-renewal and pluripotency - hold great potential both in basic research and clinical applications. To maintain the properties of ESCs <it>in vitro</it>, the culture condition is extremely important. In early research, mouse embryonic fibroblast (MEF) feeder cells, serum and leukemia inhibitory factor (LIF) were utilized in mouse ESC culture. Later it was found that LIF collaborated with bone morphogenetic protein 4 (BMP4) could maintain the self-renewal of mouse ESCs in the absence of feeder cells and serum <abbrgrp><abbr bid="B12">12</abbr></abbrgrp>. As one of the members of IL-6 family cytokines <abbrgrp><abbr bid="B13">13</abbr><abbr bid="B14">14</abbr></abbrgrp>, LIF binds to the extracellular parts of transmembrane protein LIF receptor, leading to the formation of heterodimers of LIF receptor and gp130. The intracellular parts of the heterodimers recruit Janus kinase (JAK) and are activated sequentially. In the downstream, signal transducer and activator of transcription 3 (Stat3) in the cytoplasm is phosphorylated and forms homodimers, followed by their entering into the nucleus to activate the downstream genes required to maintain the self-renewal of mouse ESCs <abbrgrp><abbr bid="B15">15</abbr><abbr bid="B16">16</abbr><abbr bid="B17">17</abbr><abbr bid="B18">18</abbr></abbrgrp>. Stat3 is thus a critical component of the LIF-JAK-Stat3 pathway to sustain ESCs in an undifferentiated state.</p>
+         <p>The maintenance of mouse ESCs at a ground state of self-renewal in the absence of LIF and serum was recently reported using two inhibitors (2i) of fibroblast growth factor/extracellular signal-related kinase 1/2 and glycogen synthase kinase 3 <abbrgrp><abbr bid="B19">19</abbr></abbrgrp>. Nevertheless, MEF and LIF are widely utilized for derivation and routine culture of mouse ESCs due to the fact that mouse ESCs self-renew better in the presence of both MEF and LIF. In particular, the efficiency of establishing mouse ESC lines in the presence of MEF and LIF is markedly higher than without them. MEF is generally prepared from embryos of E13.5 and used as feeder cells for ESC derivation or culture after the inactivation using mitomycin C or gamma radiation. MEF provides the essential matrix and some anti-differentiation factors, including LIF, to support the self-renewal of ESCs <abbrgrp><abbr bid="B13">13</abbr><abbr bid="B14">14</abbr></abbrgrp>. However, LIF produced by MEF is not enough to maintain ESC properties most of the time. As a result, exogenous recombinant LIF is often added to the culture. Although mouse ESCs grow well under the culture conditions containing both LIF and MEF, several drawbacks exist: the recombinant LIF is expensive; only the early passages of MEF could be used to support ESC culture, leading to the need to make MEF frequently <abbrgrp><abbr bid="B20">20</abbr><abbr bid="B21">21</abbr></abbrgrp>; frequent preparation of MEF results in batch to batch variations as well as possible contaminations of pathogens; and the ability of MEF to support the ESC culture lasts for only a short time after gamma radiation or mitomycin C treatment.</p>
+         <p>These disadvantages associated with the culture system using MEF and LIF have greatly limited the <it>in vitro </it>large-scale expansion of ESCs. Exploring an effective, convenient and inexpensive culture system for ESC culture is therefore necessary. In fact, cells from other species or tissues, such as human foreskin fibroblast (HFF) <abbrgrp><abbr bid="B22">22</abbr><abbr bid="B23">23</abbr></abbrgrp>, human amnion epithelial cells <abbrgrp><abbr bid="B24">24</abbr></abbrgrp>, human endothelial cell line <abbrgrp><abbr bid="B25">25</abbr></abbrgrp> and rabbit spleen fibroblast-like cells <abbrgrp><abbr bid="B26">26</abbr></abbrgrp>, have been used in the ESC culture. In these culture systems, exogenous LIF was not needed and feeder cells could proliferate <it>in vitro </it>for a long period of time. A recent study reported derivation of mouse ESCs on HFF in the presence of 2i and adrenocorticotropic hormone fragments 1-24 <abbrgrp><abbr bid="B23">23</abbr></abbrgrp>. Nevertheless, whether these alternative feeder cells could support the derivation of mouse ESCs in the absence of LIF or inhibitors remains unclear, as does the underlying mechanism by which the feeder cells maintain the self-renewal of mouse ESCs without the need for exogenous LIF.</p>
+         <p>In this study, we established several mouse ESC lines of the C57BL/6 strain using HFF in the absence of exogenous LIF and inhibitors. Additionally, we analyzed the cytokines produced by HFF to investigate how HFF supported mouse ESC derivation and culture at the molecular level. To our best knowledge, this is the first report of generating mouse ESC lines on human feeder cells without addition of LIF and inhibitors. The culture system established in this study is effective, convenient and inexpensive for both routine and large-scale culture of mouse ESCs.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Materials and methods</p>
+         </st>
+         <sec>
+            <st>
+               <p>Derivation and culture of mouse embryonic stem cells</p>
+            </st>
+            <p>All animal procedures were performed according to the guidelines approved by the Shanghai Jiao Tong University School of Medicine (20080050). E3.5 mouse blastocysts of the C57BL/6 strain were flushed from the mouse uterus and plated onto HFF that had been inactivated by mitomycin C or gamma radiation. The undifferentiated outgrowths were mechanically split 4 or 5 days later and plated onto inactivated HFF. After an additional 3 days, the undifferentiated parts of the colonies were picked up and digested by 0.05% trypsin/EDTA (Gibco, Grand island, NY, USA) into single cells for passaging. The derivation and culture medium was DMEM (Gibco) with 10% fetal bovine serum, 100 U/ml penicillin, 100 &#956;g/ml streptomycin, 0.1 mM &#946;-mercaptoethanol (Sigma, St. Louis, MO, USA) and 2 mM <smcaps>L</smcaps>-glutamine.</p>
+            <p>To determine the effect of the JAK pathway, 10 or 20 &#956;M JAK inhibitor (Calbiochem, Darmstadt, Bundesland, Germany) was added to the cell culture to inhibit the phosphorylation of Stat3.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Alkaline phosphatase staining</p>
+            </st>
+            <p>ESC colonies were fixed with 4% paraformaldehyde and permeabilized by 0.1% Triton X-100 in PBS. The Alkaline Phosphatase Substrate Kit III (Vector Laboratories, Inc., Burlingame, CA, USA) was used for staining at 37&#176;C for 15 minutes.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Immunofluorescence staining</p>
+            </st>
+            <p>Immunofluorescence staining was performed as described previously <abbrgrp><abbr bid="B27">27</abbr></abbrgrp>. Supplier information for antibodies used in this study is provided in Table <tblr tid="T1">1</tblr>.</p>
+            <tbl id="T1" hint_layout="single">
+               <title>
+                  <p>Table 1</p>
+               </title>
+               <caption>
+                  <p>Suppliers of antibodies</p>
+               </caption>
+               <tblbdy cols="2">
+                  <r>
+                     <c ca="left">
+                        <p><b>Antibody</b></p>
+                     </c>
+                     <c ca="left">
+                        <p><b>Company</b></p>
+                     </c>
+                  </r>
+                  <r>
+                     <c cspan="2">
+                        <hr/>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>Oct4</p>
+                     </c>
+                     <c ca="left">
+                        <p>Prepared in our laboratory</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>Sox2</p>
+                     </c>
+                     <c ca="left">
+                        <p>Prepared in our laboratory</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>Nanog</p>
+                     </c>
+                     <c ca="left">
+                        <p>Santa Cruz (Santa Cruz, CA, USA)</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>SSEA1</p>
+                     </c>
+                     <c ca="left">
+                        <p>Chemicon (Billerica, MA, USA)</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>SSEA4</p>
+                     </c>
+                     <c ca="left">
+                        <p>Chemicon</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>Gata4</p>
+                     </c>
+                     <c ca="left">
+                        <p>Santa Cruz</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>Cdx2</p>
+                     </c>
+                     <c ca="left">
+                        <p>Santa Cruz</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>Map2</p>
+                     </c>
+                     <c ca="left">
+                        <p>Santa Cruz</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>Flk1</p>
+                     </c>
+                     <c ca="left">
+                        <p>Santa Cruz</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>Foxa2</p>
+                     </c>
+                     <c ca="left">
+                        <p>Abcam ({Cambridge, MA, USA)</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>Vimentin</p>
+                     </c>
+                     <c ca="left">
+                        <p>DAKO (Carpinteria, CA, USA)</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>Tuj1</p>
+                     </c>
+                     <c ca="left">
+                        <p>Promega (Madison, WI, USA)</p>
+                     </c>
+                  </r>
+               </tblbdy>
+            </tbl>
+         </sec>
+         <sec>
+            <st>
+               <p>Teratoma formation</p>
+            </st>
+            <p>About 5 &#215; 10<sup>6 </sup>ESCs were collected and injected intramuscularly into SCID-beige mice. About 4 to 6 weeks later, teratomas were harvested and sectioned for H &amp; E staining.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Blastocyst injection and embryo transfer</p>
+            </st>
+            <p>The procedures of blastocyst injection and embryo transfer were described previously <abbrgrp><abbr bid="B28">28</abbr></abbrgrp>. E14 mouse ESCs were from 129 mice and injected into the blastocysts of C57BL/6 mice. C57H1.2 mouse ESCs were injected into blastocysts of ICR mice.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Germline participation detection</p>
+            </st>
+            <p>C57H1.2 ESCs were transfected with EGFP-PPY vector and selected by puromycin for 3 days. EGFP-labeled ESCs were injected into blastocysts for generation of chimeric embryos. Genital ridges of the chimeric embryos at E15.5 were obtained and sliced. Immunofluorescence staining was performed on these sections with antibodies against EGFP and Oct4.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>RT-PCR and quantitative RT-PCR</p>
+            </st>
+            <p>Total RNA of mouse ESCs was extracted by TRIzol (Invitrogen, Carlsbad, CA, USA). Four micrograms of RNA was reverse-transcribed into cDNA using oligod(T)16 and ReverTra Ace reverse transcriptase (Toyobo, Osaka, Japan). PCR was carried out in a 20 &#956;l system comprised of 1 &#956;l cDNA, 250 nM each primer pair, 200 &#956;M dNTP and 1 U Taq DNA polymerase in a thermocycler. The primers used were reported previously <abbrgrp><abbr bid="B28">28</abbr></abbrgrp> with 26 reaction cycles for <it>Oct4</it>, <it>Sox2 </it>and <it>Nanog </it>and 21 reaction cycles for <it>Gapdh</it>, respectively. The quantitative RT-PCR analysis was carried out according to the procedures of the manufacture on an ABI PRISM 7900 (Applied Biosystems, Foster City, CA, USA) with fluorogenic SYBR Green double-stranded DNA-binding dye (Applied Biosystems). Primers were designed inside the homologous region of mouse and human <it>LIF </it>with the forward sequence 5'-ACTGGCACAGCTCAATGGC-3' and the reverse sequence 5'-GATCTTCTGGTCCCGGGTG-3'.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Spontaneous differentiation of mouse embryonic stem cells</p>
+            </st>
+            <p>Mouse ESCs were suspended in low-attached dishes for 3 days to form embryoid bodies (EBs). These EBs were then attached to the gelatin-coated slides for an additional 3 days and fixed with 4% paraformaldehyde for immunofluorescence staining.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Combined bisulfite restriction analysis</p>
+            </st>
+            <p>Genomic DNA (200 ng) was restricted with EcoRV (Takara, Dalian, Liaoning Province, China) and treated with sodium bisulfite as previously described <abbrgrp><abbr bid="B29">29</abbr></abbrgrp>. Treated DNA was subjected to the nested PCR analysis. PCR products were restricted with TaqI (Takara), followed by electrophoresis in a 2% agarose gel.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Western blotting</p>
+            </st>
+            <p>Cell lysate of mouse ESCs in Co-IP buffer containing 10 mM Hepes (pH 7.6), 250 mM sodium chloride, 0.1% Nonidet P-40, 5 mM EDTA, 1 mM phenylmethanesulfonyl fluoride and 1 mM sodium fluoride was collected and quantified by the BCA kit (Pierce, Rockford, IL, USA). Fifteen micrograms of proteins in supernatant with 4&#215; loading buffer in a total volume of 24 &#956;l were boiled at 100&#176;C to denature the proteins. The denatured proteins were resolved by SDS-PAGE and transferred to nitrocellulose membranes (Schleicher &amp; Schuell, Keene, NH, USA). The membrane was blocked by 5% skim milk in Tris-buffered saline with Tween-20 and incubated with antibodies against total Stat3 (Cell Signaling Technology, Beverly, MA, USA), pStat3 (Cell Signaling Technology) or &#945;-tubulin (Sigma) overnight at 4&#176;C. The membrane was washed three times with Tris-buffered saline containing Tween-20 and was incubated in peroxidase-conjugated secondary antibodies for 2 hours at room temperature. Western blotting detection kits (Pierce; and Millipore, Billerica, MA, USA) were used to detect the specific protein bands.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>ELISA</p>
+            </st>
+            <p>MEF and HFF were treated with mitomycin C and 2 &#215; 10<sup>5 </sup>treated cells were replated onto 6 cm cell culture dishes. Three milliliters of the ESC culture medium were conditioned for 24 hours. The conditioned medium was collected and the concentration of IL-6 was detected by mouse IL-6 and human IL-6 Quantikine ELISA kits (R&amp;D, Minneapolis, MN, USA), respectively.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Cytokine array assay</p>
+            </st>
+            <p>Mouse ESC medium without LIF was conditioned by MEF and HFF, respectively, for 24 hours and collected for cytokine array assay using the RayBio<sup>&#174; </sup>Human Cytokine Antibody Array kit (RayBiotech, Norcoss, GA, USA). The assay was conducted as instructed by the manufacturer. The intensities of signals were quantified by densitometry. The cytokines having markedly higher levels in the HFF-conditioned medium than in the MEF-conditioned medium are shown in Table <tblr tid="T2">2</tblr>.</p>
+            <tbl id="T2" hint_layout="double">
+               <title>
+                  <p>Table 2</p>
+               </title>
+               <caption>
+                  <p>Cytokine array results</p>
+               </caption>
+               <tblbdy cols="4">
+                  <r>
+                     <c ca="left">
+                        <p><b>Cytokine</b></p>
+                     </c>
+                     <c ca="left">
+                        <p><b>MEF conditioned medium (control)</b></p>
+                     </c>
+                     <c ca="left">
+                        <p><b>HFF conditioned medium</b></p>
+                     </c>
+                     <c ca="left">
+                        <p><b>HFF conditioned medium/MEF conditioned medium</b></p>
+                     </c>
+                  </r>
+                  <r>
+                     <c cspan="4">
+                        <hr/>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>Angiogenin</p>
+                     </c>
+                     <c ca="left">
+                        <p>0.131048401</p>
+                     </c>
+                     <c ca="left">
+                        <p>0.456743843</p>
+                     </c>
+                     <c ca="left">
+                        <p>3.485306508</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>CNTF</p>
+                     </c>
+                     <c ca="left">
+                        <p>0.261190473</p>
+                     </c>
+                     <c ca="left">
+                        <p>0.420619379</p>
+                     </c>
+                     <c ca="left">
+                        <p>1.610393268</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>EGF</p>
+                     </c>
+                     <c ca="left">
+                        <p>0.239486275</p>
+                     </c>
+                     <c ca="left">
+                        <p>0.463340184</p>
+                     </c>
+                     <c ca="left">
+                        <p>1.934725419</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>Eotaxin</p>
+                     </c>
+                     <c ca="left">
+                        <p>0.081703409</p>
+                     </c>
+                     <c ca="left">
+                        <p>0.273209001</p>
+                     </c>
+                     <c ca="left">
+                        <p>3.343911894</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>GM-CSF</p>
+                     </c>
+                     <c ca="left">
+                        <p>0.054976951</p>
+                     </c>
+                     <c ca="left">
+                        <p>0.098757079</p>
+                     </c>
+                     <c ca="left">
+                        <p>1.796339322</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>IGFBP-2</p>
+                     </c>
+                     <c ca="left">
+                        <p>0.469018849</p>
+                     </c>
+                     <c ca="left">
+                        <p>0.936722625</p>
+                     </c>
+                     <c ca="left">
+                        <p>1.997196118</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>IGFBP-4</p>
+                     </c>
+                     <c ca="left">
+                        <p>0.17012308</p>
+                     </c>
+                     <c ca="left">
+                        <p>0.330308218</p>
+                     </c>
+                     <c ca="left">
+                        <p>1.941583814</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>IL-6</p>
+                     </c>
+                     <c ca="left">
+                        <p>0.055000597</p>
+                     </c>
+                     <c ca="left">
+                        <p>0.258231969</p>
+                     </c>
+                     <c ca="left">
+                        <p>4.695075723</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>IL-17</p>
+                     </c>
+                     <c ca="left">
+                        <p>0.030446833</p>
+                     </c>
+                     <c ca="left">
+                        <p>0.071105402</p>
+                     </c>
+                     <c ca="left">
+                        <p>2.335395632</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>MCP-1</p>
+                     </c>
+                     <c ca="left">
+                        <p>0.322883585</p>
+                     </c>
+                     <c ca="left">
+                        <p>0.584756604</p>
+                     </c>
+                     <c ca="left">
+                        <p>1.811044694</p>
+                     </c>
+                  </r>
+               </tblbdy>
+               <tblfn>
+                  <p>CNTF, ciliary neurotrophic factor; EGF, epidermal growth factor; GM-CSF, granulocyte-macrophage colony-stimulating factor; HFF, human foreskin fibroblast; IGFBP, insulin-like growth factor binding protein; MCP, monocyte chemotactic protein; MEF, mouse embryonic fibroblast.</p>
+               </tblfn>
+            </tbl>
+         </sec>
+         <sec>
+            <st>
+               <p>Statistical analysis</p>
+            </st>
+            <p>All values were analyzed by Student's <it>t </it>test or one-way ANOVA to determine the significance of the differences. <it>P </it>&lt; 0.05 was considered statistically significant.</p>
+         </sec>
+      </sec>
+      <sec>
+         <st>
+            <p>Results</p>
+         </st>
+         <sec>
+            <st>
+               <p>HFF maintains mouse ESC properties in the absence of exogenous LIF</p>
+            </st>
+            <p>Our previous study demonstrated that HFF cells generated in our own laboratory could proliferate for more than 20 passages <it>in vitro </it>and efficiently support the derivation of mouse induced pluripotent stem cells without exogenous LIF <abbrgrp><abbr bid="B28">28</abbr></abbrgrp>. To further verify the role of HFF in the maintenance of ESC properties, we cultured E14 mouse ESCs on HFF without exogenous LIF. After more than 10 passages, ESCs sustained an undifferentiated morphology incompacted colonies, displaying a high nucleus-to-cytoplasm ratio, prominent nucleolus and obvious boundary on the margin of the colonies (Figure <figr fid="F1">1A,a,b</figr>). The alkaline phosphatase (AKP) staining, indicating an undifferentiated status, was positive (Figure <figr fid="F1">1A,c,d,B</figr>). The ESCs expressed pluripotency-associated markers such as Oct4, Sox2 and Nanog, as determined by immunofluorescence staining (Figure <figr fid="F1">1C</figr>). These observations indicated that HFF was able to sustain mouse ESCs at the self-renewal state independent of exogenous LIF.</p>
+            <fig id="F1">
+               <title>
+                  <p>Figure 1</p>
+               </title>
+               <caption>
+                  <p>Characterization of mouse embryonic stem cells cultured on human foreskin fibroblast without exogenous leukemia inhibitory factor</p>
+               </caption>
+               <text>
+                  <p><b>Characterization of mouse embryonic stem cells cultured on human foreskin fibroblast without exogenous leukemia inhibitory factor</b>. <b>(A) </b>Morphology of E14 mouse embryonic stem cells (ESCs) cultured on human foreskin fibroblast (HFF) without exogenous leukemia inhibitory factor (LIF) for 20 passages. <b>(a), (b) </b>Bright field of E14 mouse ESCs on HFF. <b>(c), (d) </b>Alkaline phosphatase (AKP) staining of E14 mouse ESCs on HFF. Scale bars: (a), (c) 1,000 &#956;m; (b), (d) 200 &#956;m. <b>(B) </b>Quantitative analysis of the AKP-positive colonies of E14 mouse ESCs cultured on HFF without exogenous LIF at passages 5 and 9, respectively; <it>n </it>= 3. <b>(C) </b>Immunofluorescence staining of E14 mouse ESCs on HFF without exogenous LIF using antibodies against Oct4, Sox2 and Nanog, respectively. Scale bars: 25 &#956;m. 4',6-Diamidino-2-phenylindole (blue) staining was used to indicate the nucleus. <b>(D) </b>H &amp; E staining of the teratoma formed by E14 mouse ESCs cultured on HFF without exogenous LIF for 16 passages. The teratoma contains <b>(a) </b>intestinal epithelium, <b>(b) </b>smooth muscles, <b>(c) </b>cartilages and <b>(d) </b>neural epithelium. Scale bars: 50 &#956;m. <b>(E) </b>Chimeric mice obtained post injection of E14 mouse ESCs cultured on HFF without exogenous LIF for 16 passages into blastocysts of C57BL/6 mice. Brown color denotes origination of the E14 cells.</p>
+               </text>
+               <graphic file="scrt120-1"/>
+            </fig>
+            <p>We next determined the ability of HFF to maintain the pluripotency of ESCs. E14 mouse ESCs cultured on HFF without exogenous LIF for 16 passages were injected intramuscularly into the SCID-beige mice to test their ability to form teratomas, which is one of the standard tests for the pluripotent developmental potential of ESCs <it>in vivo</it>. Teratomas formed about 4 weeks after injection. The H &amp; E staining results showed that the teratomas contained cells and tissues originated from three germ layers, such as intestinal epithelium (endoderm), smooth muscles (mesoderm), cartilages (mesoderm) and neural epithelium (ectoderm) (Figure <figr fid="F1">1D</figr>). Moreover, we tested whether these cells could participate in the embryonic development of the mice by injecting E14 mouse ESCs, which had been cultured on HFF without exogenous LIF for 16 passages, into the blastocysts of C57BL/6 mice. Chimeric offsprings were obtained (Figure <figr fid="F1">1E</figr>). This finding clearly demonstrated that ESCs maintained on HFF without exogenous LIF were developmentally pluripotent.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>HFF sustains ESCs at an undifferentiated state superiorly to MEF in the absence of exogenous LIF</p>
+            </st>
+            <p>To further characterize the ability of HFF to support the self-renewal of mouse ESCs, we compared the ability of HFF to maintain ESCs in an undifferentiated state with that of MEF without exogenous LIF. For the first and second passages, AKP staining showed no significant difference between ESCs cultured on HFF and those on MEF. However, substantially fewer AKP-positive colonies were detected for cells grown on MEF, as compared with those on HFF, when the cells were passaged three times (Figure <figr fid="F2">2A</figr>). Statistical analysis showed that AKP-positive colonies accounted for only 70% of the ESCs on MEF compared with AKP-positive colonies on HFF (Figure <figr fid="F2">2B</figr>). This finding is consistent with the fact that MEF alone is not sufficient to maintain mouse ESCs in a self-renewal state and with the fact that supplemental LIF is required for routine mouse ESC culture. However, HFF possesses the ability to maintain ESC properties without the need for exogenous LIF for a long period of time.</p>
+            <fig id="F2">
+               <title>
+                  <p>Figure 2</p>
+               </title>
+               <caption>
+                  <p>Human foreskin fibroblast supports self-renewal of mouse embryonic stem cells better than mouse embryonic fibroblast</p>
+               </caption>
+               <text>
+                  <p><b>Human foreskin fibroblast supports self-renewal of mouse embryonic stem cells better than mouse embryonic fibroblast</b>. <b>(A) </b>Alkaline phosphatase (AKP) staining of E14 mouse embryonic stem cells (ESCs) cultured on human foreskin fibroblast (HFF), mouse embryonic fibroblast (MEF) without exogenous leukemia inhibitory factor (LIF) or MEF with LIF for one, two and three passages, respectively. Scale bars: 100 &#956;m. <b>(B) </b>The quantitative analysis of the results in (A). AKP-positive colonies in 10 (100&#215;) microscopic fields were counted. The number of the AKP-positive colonies on HFF is set as 1.0. **<it>P </it>&lt; 0.01, <it>n </it>= 3.</p>
+               </text>
+               <graphic file="scrt120-2"/>
+            </fig>
+         </sec>
+         <sec>
+            <st>
+               <p>Mouse ESC lines can be successfully generated on HFF without exogenous LIF</p>
+            </st>
+            <p>Given that derivation of ESC lines requires more optimal conditions than the maintenance of established ESC lines, we sought to determine whether, in the absence of exogenous LIF, new mouse ESC lines could be derived on HFF. To this end, E3.5 blastocysts of C57BL/6 mice, which are considered more difficult than 129 mice in terms of the generation of ESC lines <abbrgrp><abbr bid="B30">30</abbr></abbrgrp>, were plated onto HFF without exogenous LIF (Figure <figr fid="F3">3A,a</figr>). A few days later, the undifferentiated cell clusters in the outgrowth were picked up manually and transferred onto the fresh HFF (Figure <figr fid="F3">3A,b</figr>). After two rounds of mechanical splitting, the undifferentiated ESC colonies on HFF were passaged enzymatically using trypsin-EDTA. Typical undifferentiated mouse ESC colonies could be observed easily (Figure <figr fid="F3">3A,c</figr>). In total, we derived four mouse ESC lines on HFF - named C57H1.1, C57H1.2, C57H1.3 and C57H1.4, respectively. Semiquantitative RT-PCR analysis showed that cells from these four lines expressed pluripotency-associated markers, <it>Oct4</it>, <it>Sox2 </it>and <it>Nanog </it>(Figure <figr fid="F3">3B</figr>). Among the four cell lines, C57H1.2 has been cultured on HFF without exogenous LIF for more than 50 passages. We further characterized this line in the following experiments.</p>
+            <fig id="F3">
+               <title>
+                  <p>Figure 3</p>
+               </title>
+               <caption>
+                  <p>Derivation and characterization of mouse embryonic stem cells on human foreskin fibroblast without exogenous leukemia inhibitory factor</p>
+               </caption>
+               <text>
+                  <p><b>Derivation and characterization of mouse embryonic stem cells on human foreskin fibroblast without exogenous leukemia inhibitory factor</b>. <b>(A) </b>Derivation of C57H1.2 mouse embryonic stem cells (ESCs) on human foreskin fibroblast (HFF) without exogenous leukemia inhibitory factor (LIF). <b>(a) </b>Outgrowth formed post inner cell mass (ICM) attachment. <b>(b) </b>Manually split ICM clumps. <b>(c) </b>Typical mouse ESC colonies. Scale bars: (a), (b) 100 &#956;m; (c) 1,000 &#956;m. <b>(B) </b>RT-PCR analysis of the expression levels of the pluripotency-associated markers (<it>Oct4</it>, <it>Nanog </it>and <it>Sox2</it>) in newly derived mouse ESC lines on HFF without exogenous LIF. NC, water was used as the negative control. <b>(C) </b>Immunostaining of C57H1.2 mouse ESCs with antibodies against Oct4, Sox2 and Nanog. Scale bars: 25 &#956;m. <b>(D) </b>Detection of the methylation status at the endogenous <it>Oct4 </it>promoter of C57H1.2 mouse ESCs by a combined bisulfite restriction analysis. <b>(E) </b>Immunofluorescence staining of the attached embryonic bodies formed by C57H1.2 mouse ESCs with antibodies against Gata4, Foxa2, Flk1, Vimentin and Tuj1. Scale bars: 250 &#956;m. <b>(F) </b>Teratomas formed by C57H1.2 mouse ESCs were sectioned and stained with H &amp; E. Typical <b>(a, b) </b>smooth muscles, <b>(c, e) </b>intestinal epithelium, <b>(d) </b>fat and <b>(f) </b>neural-like tissues were found. Scale bars: 50 &#956;m. <b>(G) </b>Chimeric mice generated by injection of C57H1.2 mouse ESCs into blastocysts of the ICR mouse. Black colors indicate origination of C57H1.2 mouse ESCs. <b>(H) </b>Immunofluorescence staining of the genital ridge sections from a chimeric embryo (male) at E15.5 with antibodies against EGFP and Oct4. C57H1.2 ESCs were labeled with EGFP. Arrow, an EGFP and Oct4 double-positive cell. Scale bars: 50 &#956;m.</p>
+               </text>
+               <graphic file="scrt120-3"/>
+            </fig>
+            <p>Immunofluorescence staining results illustrated the nuclear localization of proteins of Oct4, Sox2, and Nanog in the ESCs of the C57H1.2 line (Figure <figr fid="F3">3C</figr>). Moreover, the combined bisulfite restriction analysis showed the unmethylated promoter status of the <it>Oct4 </it>gene, further validating that these ESCs were in the undifferentiated state (Figure <figr fid="F3">3D</figr>).</p>
+            <p>To determine the differentiation potential of the newly derived C57H1.2 ESCs, we cultured ESCs in suspension for EB formation. After 3 days of suspension culture, the EBs were plated onto gelatin-coated dishes for an additional 3 days. Immunofluorescence staining results showed that EB-derived differentiated cells expressed Gata4, Foxa2 (endoderm), Flk1, Vimentin (mesoderm) and Tuj1 (ectoderm), suggesting that C57H1.2 ESCs possessed the capacity to generate a variety of cell types from three embryonic germ layers <it>in vitro </it>(Figure <figr fid="F3">3E</figr>). In addition, C57H1.2 ESCs formed teratomas 4 to 6 weeks after they were intramuscularly injected into SCID-beige mice. The H &amp; E staining of teratoma sections detected the tissues and cells derived from the three germ layers, including the smooth muscle, intestinal epithelium, fat, and neural-like tissues (Figure <figr fid="F3">3F</figr>). C57H1.2 ESCs were thus capable of differentiating into various cell types or tissues of three germ layers <it>in vivo </it>as well. As chimera formation is a more stringent test to evaluate the pluripotency of mouse ESCs, we injected C57H1.2 ESCs into blastocysts of ICR mice. The generation of the chimeric offspring with mosaic black coat colors in a high proportion demonstrated their abilities to participate in the embryonic development of the mouse (Figure <figr fid="F3">3G</figr>). Furthermore, we assessed the germline transmission of C57H1.2 ESCs, which were stably labeled with EGFP before blastocyst injection. Genital ridges of chimeric embryos at E15.5 were collected and their sections were stained with antibodies against EGFP and Oct4. Although the efficiency was very low, we found EGFP and Oct4 double-positive cells in the genital ridge of a male embryo, implying the participation of the C57H1.2 ESCs to germline development (Figure <figr fid="F3">3H</figr>). Collectively, our data supported the conclusion that HFF could support the derivation of pluripotent mouse ESCs in the absence of exogenous LIF and any other inhibitors.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Activation of Stat3 is essential for the self-renewal of mouse ESCs on HFF</p>
+            </st>
+            <p>It is known that the JAK-Stat3 pathway is essential for the self-renewal of mouse ESCs when they grow on MEF. We have here demonstrated that mouse ESCs could self-renew for a long period of time on HFF without exogenous LIF, but it also became necessary to determine whether the self-renewal of ESCs on HFF was also dependent on the JAK-Stat3 pathway. Since phosphorylation of Stat3 is the key step for JAK-Stat3 signaling to support the self-renewal of mouse ESCs and JAK is responsible for the phosphorylation of Stat3, we examined whether the JAK inhibitor affected the self-renewal of ESCs cultured on HFF. Morphologically, the colonies of inhibitor-treated ESCs were smaller than those in the control group (vehicle only) (Figure <figr fid="F4">4A</figr>). Moreover, inhibitor treatment reduced the number of AKP-positive colonies significantly (Figure <figr fid="F4">4B</figr>). Of note, these effects of the JAK inhibitor were dosage dependent. The specific effect of the JAK inhibitor on the level of phosphorylated Stat3 was validated by western blot analysis. As expected, the inhibitor reduced the level of phosphorylated Stat3 in a dosage-dependent manner, demonstrating an efficient block of the JAK activity by the inhibitor (Figure <figr fid="F4">4C</figr>). These observations suggest that the activation of Stat3 is essential for the supportive effect of HFF on the self-renewal of mouse ESCs.</p>
+            <fig id="F4">
+               <title>
+                  <p>Figure 4</p>
+               </title>
+               <caption>
+                  <p>Human foreskin fibroblast supports self-renewal of mouse embryonic stem cells through the JAK-Stat3 pathway</p>
+               </caption>
+               <text>
+                  <p><b>Human foreskin fibroblast supports self-renewal of mouse embryonic stem cells through the JAK-Stat3 pathway</b>. <b>(A) </b>Alkaline phosphatase (AKP) staining of C57H1.2 mouse embryonic stem cells (ESCs) cultured on human foreskin fibroblast (HFF) treated with <b>(a) </b>0 &#956;M (dimethylsulfoxide (DMSO) only or <b>(b) </b>10 &#956;M and <b>(c) </b>20 &#956;M JAK inhibitor (JAKI). <b>(B) </b>Quantitative analysis of AKP-positive colonies of C57H1.2 mouse ESCs cultured on HFF with 0 &#956;M (DMSO only), 10 &#956;M and 20 &#956;M JAKI. AKP-positive colonies in 10 (100&#215;) microscopic fields were counted. The number of AKP-positive ESC colonies cultured with 0 &#956;M JAKI is set as 1.0. Scale bars: 50 &#956;m. **<it>P </it>&lt; 0.01, <it>n </it>= 3. <b>(C) </b>Western blot analysis of the levels of phosphorylated Stat3 in C57H1.2 mouse ESCs grown on HFF treated with 0 &#956;M (DMSO only), 10 &#956;M and 20 &#956;M JAKI, respectively. Experiments were conducted three times and the representative result is shown. <b>(D) </b>Quantitative RT-PCR analysis of the relative expression level of LIF in MEF and HFF. *<it>P </it>&lt; 0.05, <it>n </it>= 3. The mRNA level of LIF in HFF is set as 1. <b>(E) </b>Comparison of the concentration of secreted IL-6 by ELISA. *<it>P </it>&lt; 0.05, <it>n </it>= 3. <b>(F) </b>AKP staining of C57H1.2 mouse ESC colonies cultured on MEF alone, or MEF with 20 ng/ml human IL-6 (hIL-6) or HFF alone for one, two and three passages, respectively. Scale bars: 100 &#956;m. <b>(G) </b>Quantitative analysis of results in (F). AKP-positive colonies in 10 (100&#215;) microscopic fields were counted. The number of AKP-positive colonies of C57H1.2 mouse ESCs (mESCs) on HFF is set as 1.0. **<it>P </it>&lt; 0.01, <it>n </it>= 3.</p>
+               </text>
+               <graphic file="scrt120-4"/>
+            </fig>
+            <p>Given that both MEF and HFF were dependent on the JAK-Stat3 pathway to maintain ESCs in an undifferentiated state, why did MEF, but not HFF, require exogenous LIF? Because human LIF can bind to LIF receptors on the membrane of mouse ESCs and activate the downstream LIF-JAK-Stat3 pathway <abbrgrp><abbr bid="B18">18</abbr></abbrgrp>, we suspected that HFF might produce more LIF than MEF. However, we found that the transcript level of <it>LIF </it>in HFF was significantly lower than that in MEF as determined by quantitative RT-PCR assays using primers flanking the homologous region of the human and mouse <it>LIF </it>(Figure <figr fid="F4">4D</figr>), which negated our hypothesis.</p>
+            <p>To investigate which other factors secreted by HFF might be associated with its supportive effect on the self-renewal of mouse ESCs, we carried out a cytokine screen assay with the conditioned medium collected from either MEF or HFF. Interestingly, the assay detected a 3.5-fold higher level of IL-6 in the HFF-conditioned medium than in MEF-conditioned medium (Table <tblr tid="T2">2</tblr>). To verify this difference, we conducted the ELISA assay. A 15-fold higher level of IL-6 was found in HFF-conditioned medium, as compared with MEF (Figure <figr fid="F4">4E</figr>). The discrepancy in the fold of difference in the IL-6 level between HFF and MEF found by the two assays could result from the different detection sensitivity associated with individual assays. To further verify the roles of IL-6 for the self-renewal of mouse ESCs, C57H1.2 mouse ESCs were cultured on MEF supplemented with 20 ng/ml recombinant human IL-6 for three passages. Compared with ESCs cultured on MEF without LIF and exogenous IL-6, the addition of human IL-6 significantly increased the number of AKP-positive colonies to a level comparable to that on HFF (Figure <figr fid="F4">4F,G</figr>). This finding clearly showed that IL-6 was sufficient to maintain mouse ESC self-renewal on MEF. As IL-6 is in the same cytokine family as LIF and can also activate the phosphorylation of Stat3 through gp130 and JAK <abbrgrp><abbr bid="B28">28</abbr></abbrgrp>, it is reasonable to deduce that HFF-produced IL-6 is the major player in the function of HFF to sustain the self-renewal of mouse ESCs.</p>
+         </sec>
+      </sec>
+      <sec>
+         <st>
+            <p>Discussion</p>
+         </st>
+         <p>The drawbacks of MEF and the cost of LIF have motivated us to explore a more convenient, efficient and costless ESC culture system. Here, we have demonstrated that HFF supported mouse ESC self-renewal superiorly to MEF and that the activation of Stat3 was required for the HFF to act as functional feeder cells. Importantly, mouse ESCs having long-term self-renewal ability and full developmental potential were generated without the need of exogenous LIF and any small molecular inhibitors. This study therefore reports a robust and cost-effective cell culture system for both establishment and routine culture of mouse ESCs. As the feeder cells are of human origin, this system could potentially be applied to the derivation and culture of human ESCs under xeno-free conditions.</p>
+         <p>The advantage of HFF over MEF for ESC culture and derivation is obvious. HFF cells are so stable that they display homogeneous morphology even after they are passaged more than 20 times. This property makes it unnecessary to make feeder cells frequently and prevents the variance among different batches. Moreover, HFFs are more durable than MEFs in that they remain in healthy condition more than 2 weeks after inactivation by radiation. In contrast, MEF deteriorates within 1 week after the inactivation. Furthermore, for experiments associated with detection of gene expression in mouse ESCs, usage of HFF as feeder cells enables one to design species-specific detections, precluding the possible contamination of the feeder cells. The usage of HFF for ESC culture is hence superior to MEF due to the convenience. In addition, the HFF culture system is more economic, since MEF, but not HFF, as feeder cells for mouse ESC culture needs exogenous LIF. Last, but not least, another benefit of using HFF as the feeder is its potential in the establishment and maintenance of xeno-free human pluripotent stem cell lines. MEF expresses nonhuman sialic acid Neu5Gc, which may lead to immune-reactivity <it>in vivo </it>when human ESCs cultured on MEF are used for transplantation <abbrgrp><abbr bid="B31">31</abbr></abbrgrp>. Therefore, compared with the traditional MEF culture system, the HFF system is indeed more convenient, economic and efficient. The HFF system can be widely applied in the large-scale expansion of the ESCs <it>in vitro</it>. Human ESCs were previously reported to be successfully derived on human feeders <abbrgrp><abbr bid="B32">32</abbr><abbr bid="B33">33</abbr></abbrgrp>. HFF can therefore be used as feeder cells in the human ESC culture to eliminate contaminations of animal origin.</p>
+         <p>Why HFF, but not MEF, sustains ESC self-renewal without exogenous LIF has remained elusive. Our finding that inhibition of JAK prevents HFF from maintaining the ESC self-renewal argues for a key role of the JAK-Stat3 signaling pathway in the control of the self-renewal of ESCs cultured on HFF. Hence, similar to MEF, HFF supported the maintenance of ESC properties through the JAK-Stat3 pathway. Different from MEF, however, HFF secreted a high level of IL-6 to activate the pathway. LIF belongs to a family of cytokines, which includes IL-6, ciliary neurotrophic factor, IL-11 and oncostatin M<abbrgrp><abbr bid="B34">34</abbr></abbrgrp>. Interestingly, our cytokine screen and ELISA assays found a substantially higher level of IL-6 in the HFF-conditioned medium than in the MEF-conditioned medium. In addition, several other cytokines were found to have higher levels in the HFF-conditioned medium, including ciliary neurotrophic factor. We therefore speculate that the higher concentration of IL-6 and related cytokines produced by HFF could explain its unique property to sustain the self-renewal of ESCs independent of exogenous LIF. Furthermore, it was reported that factors such as basic fibroblast growth factor secreted by HFF might be involved in the self-renewal of mouse ESCs <abbrgrp><abbr bid="B35">35</abbr></abbrgrp>. We therefore do not exclude the possibility that other factors produced by HFF also play a role in HFF-supported mouse ESC self-renewal.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Conclusion</p>
+         </st>
+         <p>In summary, this study demonstrates that HFF system is convenient and economic to efficiently derive and maintain mouse ESC lines. The identification of IL-6 as a primary cytokine produced by HFF provides insights into the differences in support of mouse ESC cultures between MEF and HFF.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Abbreviations</p>
+         </st>
+         <p>AKP: alkaline phosphatase; DMEM: Dulbecco's modified Eagle's medium; E: embryonic day; EB: embryonic body; ELISA: enzyme-linked immunosorbent assay; ESC: embryonic stem cell; GFP: green fluorescent protein; H &amp; E: hematoxylin and eosin; HFF: human foreskin fibroblast; IL: interleukin; JAK: Janus kinase; LIF: leukemia inhibitory factor; MEF: mouse embryonic fibroblast; PBS: phosphate-buffered saline; PCR: polymerase chain reaction; RT: reverse transcription; Stat3: signal transducer and activator of transcription 3.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Competing interests</p>
+         </st>
+         <p>The authors declare that they have no competing interests.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Authors' contributions</p>
+         </st>
+         <p>YM was responsible for designing the study, characterization of ESCs, cell culture, testing of the Stat3-dependent pathway and manuscript writing. JG was responsible for cell culture and establishment of ESC lines, MEF preparation, and animal-associated experiments. CL was responsible for designing of the study, cell culture and establishment and characterization of the ESC lines. XW, YK, ZW and XX were responsible for acquisition of the chimeric mice from C57H1.2 ESCs. FT and GS were responsible for characterization of ESCs. JJ and JL were responsible for acquisition of the chimeric mice from E14 ESCs. YJ was responsible for designing the study, data analysis, manuscript writing as well as providing financial support and final approval of the manuscript. All authors read and approved the final manuscript.</p>
+      </sec>
+   </bdy>
+   <bm>
+      <ack>
+         <sec>
+            <st>
+               <p>Acknowledgements</p>
+            </st>
+            <p>This study was supported by grants from the National Natural Science Foundation (91019023), the National High Technology Research and Development Program of China (2010CB945200, 2011DFB300100, 2011CB965101 and 2009CB941103), the Chinese Academy of Science (XDA01010102), the Shanghai Leading Academic Discipline Project (S30201) and the Ministry of Education of China (20110073110082).</p>
+         </sec>
+      </ack>
+      <refgrp>
+         <bibl id="B1">
+            <title>
+               <p>Establishment in culture of pluripotential cells from mouse embryos</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Evans</snm>
+                  <fnm>MJ</fnm>
+               </au>
+               <au>
+                  <snm>Kaufman</snm>
+                  <fnm>MH</fnm>
+               </au>
+            </aug>
+            <source>Nature</source>
+            <pubdate>1981</pubdate>
+            <volume>292</volume>
+            <fpage>154</fpage>
+            <lpage>156</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/292154a0</pubid>
+                  <pubid idtype="pmpid">7242681</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B2">
+            <title>
+               <p>In vivo differentiation of mouse embryonic stem cells into hepatocytes</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Choi</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Oh</snm>
+                  <fnm>HJ</fnm>
+               </au>
+               <au>
+                  <snm>Chang</snm>
+                  <fnm>UJ</fnm>
+               </au>
+               <au>
+                  <snm>Koo</snm>
+                  <fnm>SK</fnm>
+               </au>
+               <au>
+                  <snm>Jiang</snm>
+                  <fnm>JX</fnm>
+               </au>
+               <au>
+                  <snm>Hwang</snm>
+                  <fnm>SY</fnm>
+               </au>
+               <au>
+                  <snm>Lee</snm>
+                  <fnm>JD</fnm>
+               </au>
+               <au>
+                  <snm>Yeoh</snm>
+                  <fnm>GC</fnm>
+               </au>
+               <au>
+                  <snm>Shin</snm>
+                  <fnm>HS</fnm>
+               </au>
+               <au>
+                  <snm>Lee</snm>
+                  <fnm>JS</fnm>
+               </au>
+               <au>
+                  <snm>Oh</snm>
+                  <fnm>B</fnm>
+               </au>
+            </aug>
+            <source>Cell Transplant</source>
+            <pubdate>2002</pubdate>
+            <volume>11</volume>
+            <fpage>359</fpage>
+            <lpage>368</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid" link="fulltext">12162376</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B3">
+            <title>
+               <p>Differentiation of mouse embryonic stem cells to insulin-producing cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Schroeder</snm>
+                  <fnm>IS</fnm>
+               </au>
+               <au>
+                  <snm>Rolletschek</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Blyszczuk</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Kania</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Wobus</snm>
+                  <fnm>AM</fnm>
+               </au>
+            </aug>
+            <source>Nat Protoc</source>
+            <pubdate>2006</pubdate>
+            <volume>1</volume>
+            <fpage>495</fpage>
+            <lpage>507</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/nprot.2006.71</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17406275</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B4">
+            <title>
+               <p>Differentiation of mouse embryonic stem cells into pancreatic and hepatic cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Kania</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Blyszczuk</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Czyz</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Navarrete-Santos</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Wobus</snm>
+                  <fnm>AM</fnm>
+               </au>
+            </aug>
+            <source>Methods Enzymol</source>
+            <pubdate>2003</pubdate>
+            <volume>365</volume>
+            <fpage>287</fpage>
+            <lpage>303</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid">14696354</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B5">
+            <title>
+               <p>Pluripotent mouse embryonic stem cells are able to differentiate into cardiomyocytes expressing chronotropic responses to adrenergic and cholinergic agents and Ca<sup>2+ </sup>channel blockers</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Wobus</snm>
+                  <fnm>AM</fnm>
+               </au>
+               <au>
+                  <snm>Wallukat</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Hescheler</snm>
+                  <fnm>J</fnm>
+               </au>
+            </aug>
+            <source>Differentiation</source>
+            <pubdate>1991</pubdate>
+            <volume>48</volume>
+            <fpage>173</fpage>
+            <lpage>182</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1111/j.1432-0436.1991.tb00255.x</pubid>
+                  <pubid idtype="pmpid">1725163</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B6">
+            <title>
+               <p>In vitro differentiation of mouse embryonic stem cells to hematopoietic cells on an OP9 stromal cell monolayer</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Kitajima</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Tanaka</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Zheng</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Sakai-Ogawa</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Nakano</snm>
+                  <fnm>T</fnm>
+               </au>
+            </aug>
+            <source>Methods Enzymol</source>
+            <pubdate>2003</pubdate>
+            <volume>365</volume>
+            <fpage>72</fpage>
+            <lpage>83</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid">14696338</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B7">
+            <title>
+               <p>Osteogenic differentiation of mouse embryonic stem cells: differential gene expression analysis by cDNA microarray and purification of osteoblasts by cadherin-11 magnetically activated cell sorting</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Bourne</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Polak</snm>
+                  <fnm>JM</fnm>
+               </au>
+               <au>
+                  <snm>Hughes</snm>
+                  <fnm>SP</fnm>
+               </au>
+               <au>
+                  <snm>Buttery</snm>
+                  <fnm>LD</fnm>
+               </au>
+            </aug>
+            <source>Tissue Eng</source>
+            <pubdate>2004</pubdate>
+            <volume>10</volume>
+            <fpage>796</fpage>
+            <lpage>806</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1089/1076327041348293</pubid>
+                  <pubid idtype="pmpid" link="fulltext">15265297</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B8">
+            <title>
+               <p>Directed differentiation of dendritic cells from mouse embryonic stem cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Fairchild</snm>
+                  <fnm>PJ</fnm>
+               </au>
+               <au>
+                  <snm>Brook</snm>
+                  <fnm>FA</fnm>
+               </au>
+               <au>
+                  <snm>Gardner</snm>
+                  <fnm>RL</fnm>
+               </au>
+               <au>
+                  <snm>Graca</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Strong</snm>
+                  <fnm>V</fnm>
+               </au>
+               <au>
+                  <snm>Tone</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Tone</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Nolan</snm>
+                  <fnm>KF</fnm>
+               </au>
+               <au>
+                  <snm>Waldmann</snm>
+                  <fnm>H</fnm>
+               </au>
+            </aug>
+            <source>Curr Biol</source>
+            <pubdate>2000</pubdate>
+            <volume>10</volume>
+            <fpage>1515</fpage>
+            <lpage>1518</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/S0960-9822(00)00824-1</pubid>
+                  <pubid idtype="pmpid" link="fulltext">11114519</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B9">
+            <title>
+               <p>A modified method for generation of neural precursor cells from cultured mouse embryonic stem cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Xu</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Fan</snm>
+                  <fnm>X</fnm>
+               </au>
+               <au>
+                  <snm>Tang</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Zhou</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Yang</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Wu</snm>
+                  <fnm>X</fnm>
+               </au>
+               <au>
+                  <snm>Liu</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Qu</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Yang</snm>
+                  <fnm>H</fnm>
+               </au>
+            </aug>
+            <source>Brain Res Brain Res Protoc</source>
+            <pubdate>2005</pubdate>
+            <volume>15</volume>
+            <fpage>52</fpage>
+            <lpage>58</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.brainresprot.2005.03.004</pubid>
+                  <pubid idtype="pmpid" link="fulltext">15878151</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B10">
+            <title>
+               <p>Derivation of oocytes from mouse embryonic stem cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Hubner</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Fuhrmann</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Christenson</snm>
+                  <fnm>LK</fnm>
+               </au>
+               <au>
+                  <snm>Kehler</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Reinbold</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>De La Fuente</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Wood</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Strauss</snm>
+                  <fnm>JF</fnm>
+               </au>
+               <au>
+                  <snm>Boiani</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Scholer</snm>
+                  <fnm>HR</fnm>
+               </au>
+            </aug>
+            <source>Science</source>
+            <pubdate>2003</pubdate>
+            <volume>300</volume>
+            <fpage>1251</fpage>
+            <lpage>1256</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1126/science.1083452</pubid>
+                  <pubid idtype="pmpid" link="fulltext">12730498</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B11">
+            <title>
+               <p>Derivation of embryonic germ cells and male gametes from embryonic stem cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Geijsen</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Horoschak</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Kim</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Gribnau</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Eggan</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Daley</snm>
+                  <fnm>GQ</fnm>
+               </au>
+            </aug>
+            <source>Nature</source>
+            <pubdate>2004</pubdate>
+            <volume>427</volume>
+            <fpage>148</fpage>
+            <lpage>154</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/nature02247</pubid>
+                  <pubid idtype="pmpid" link="fulltext">14668819</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B12">
+            <title>
+               <p>BMP induction of Id proteins suppresses differentiation and sustains embryonic stem cell self-renewal in collaboration with STAT3</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Ying</snm>
+                  <fnm>QL</fnm>
+               </au>
+               <au>
+                  <snm>Nichols</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Chambers</snm>
+                  <fnm>I</fnm>
+               </au>
+               <au>
+                  <snm>Smith</snm>
+                  <fnm>A</fnm>
+               </au>
+            </aug>
+            <source>Cell</source>
+            <pubdate>2003</pubdate>
+            <volume>115</volume>
+            <fpage>281</fpage>
+            <lpage>292</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/S0092-8674(03)00847-X</pubid>
+                  <pubid idtype="pmpid" link="fulltext">14636556</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B13">
+            <title>
+               <p>Inhibition of pluripotential embryonic stem cell differentiation by purified polypeptides</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Smith</snm>
+                  <fnm>AG</fnm>
+               </au>
+               <au>
+                  <snm>Heath</snm>
+                  <fnm>JK</fnm>
+               </au>
+               <au>
+                  <snm>Donaldson</snm>
+                  <fnm>DD</fnm>
+               </au>
+               <au>
+                  <snm>Wong</snm>
+                  <fnm>GG</fnm>
+               </au>
+               <au>
+                  <snm>Moreau</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Stahl</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Rogers</snm>
+                  <fnm>D</fnm>
+               </au>
+            </aug>
+            <source>Nature</source>
+            <pubdate>1988</pubdate>
+            <volume>336</volume>
+            <fpage>688</fpage>
+            <lpage>690</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/336688a0</pubid>
+                  <pubid idtype="pmpid" link="fulltext">3143917</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B14">
+            <title>
+               <p>Myeloid leukaemia inhibitory factor maintains the developmental potential of embryonic stem cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Williams</snm>
+                  <fnm>RL</fnm>
+               </au>
+               <au>
+                  <snm>Hilton</snm>
+                  <fnm>DJ</fnm>
+               </au>
+               <au>
+                  <snm>Pease</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Willson</snm>
+                  <fnm>TA</fnm>
+               </au>
+               <au>
+                  <snm>Stewart</snm>
+                  <fnm>CL</fnm>
+               </au>
+               <au>
+                  <snm>Gearing</snm>
+                  <fnm>DP</fnm>
+               </au>
+               <au>
+                  <snm>Wagner</snm>
+                  <fnm>EF</fnm>
+               </au>
+               <au>
+                  <snm>Metcalf</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Nicola</snm>
+                  <fnm>NA</fnm>
+               </au>
+               <au>
+                  <snm>Gough</snm>
+                  <fnm>NM</fnm>
+               </au>
+            </aug>
+            <source>Nature</source>
+            <pubdate>1988</pubdate>
+            <volume>336</volume>
+            <fpage>684</fpage>
+            <lpage>687</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/336684a0</pubid>
+                  <pubid idtype="pmpid" link="fulltext">3143916</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B15">
+            <title>
+               <p>Physiological rationale for responsiveness of mouse embryonic stem cells to gp130 cytokines</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Nichols</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Chambers</snm>
+                  <fnm>I</fnm>
+               </au>
+               <au>
+                  <snm>Taga</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Smith</snm>
+                  <fnm>A</fnm>
+               </au>
+            </aug>
+            <source>Development</source>
+            <pubdate>2001</pubdate>
+            <volume>128</volume>
+            <fpage>2333</fpage>
+            <lpage>2339</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid" link="fulltext">11493552</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B16">
+            <title>
+               <p>Self-renewal of pluripotent embryonic stem cells is mediated via activation of STAT3</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Niwa</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Burdon</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Chambers</snm>
+                  <fnm>I</fnm>
+               </au>
+               <au>
+                  <snm>Smith</snm>
+                  <fnm>A</fnm>
+               </au>
+            </aug>
+            <source>Genes Dev</source>
+            <pubdate>1998</pubdate>
+            <volume>12</volume>
+            <fpage>2048</fpage>
+            <lpage>2060</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1101/gad.12.13.2048</pubid>
+                  <pubid idtype="pmcid">316954</pubid>
+                  <pubid idtype="pmpid" link="fulltext">9649508</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B17">
+            <title>
+               <p>STAT3 activation is sufficient to maintain an undifferentiated state of mouse embryonic stem cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Matsuda</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Nakamura</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Nakao</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Arai</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Katsuki</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Heike</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Yokota</snm>
+                  <fnm>T</fnm>
+               </au>
+            </aug>
+            <source>EMBO J</source>
+            <pubdate>1999</pubdate>
+            <volume>18</volume>
+            <fpage>4261</fpage>
+            <lpage>4269</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1093/emboj/18.15.4261</pubid>
+                  <pubid idtype="pmcid">1171502</pubid>
+                  <pubid idtype="pmpid" link="fulltext">10428964</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B18">
+            <title>
+               <p>Signalling, cell cycle and pluripotency in embryonic stem cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Burdon</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Smith</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Savatier</snm>
+                  <fnm>P</fnm>
+               </au>
+            </aug>
+            <source>Trends Cell Biol</source>
+            <pubdate>2002</pubdate>
+            <volume>12</volume>
+            <fpage>432</fpage>
+            <lpage>438</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/S0962-8924(02)02352-8</pubid>
+                  <pubid idtype="pmpid" link="fulltext">12220864</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B19">
+            <title>
+               <p>The ground state of embryonic stem cell self-renewal</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Ying</snm>
+                  <fnm>QL</fnm>
+               </au>
+               <au>
+                  <snm>Wray</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Nichols</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Batlle-Morera</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Doble</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Woodgett</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Cohen</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Smith</snm>
+                  <fnm>A</fnm>
+               </au>
+            </aug>
+            <source>Nature</source>
+            <pubdate>2008</pubdate>
+            <volume>453</volume>
+            <fpage>519</fpage>
+            <lpage>523</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/nature06968</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18497825</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B20">
+            <title>
+               <p>Human feeders support prolonged undifferentiated growth of human inner cell masses and embryonic stem cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Richards</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Fong</snm>
+                  <fnm>CY</fnm>
+               </au>
+               <au>
+                  <snm>Chan</snm>
+                  <fnm>WK</fnm>
+               </au>
+               <au>
+                  <snm>Wong</snm>
+                  <fnm>PC</fnm>
+               </au>
+               <au>
+                  <snm>Bongso</snm>
+                  <fnm>A</fnm>
+               </au>
+            </aug>
+            <source>Nat Biotechnol</source>
+            <pubdate>2002</pubdate>
+            <volume>20</volume>
+            <fpage>933</fpage>
+            <lpage>936</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/nbt726</pubid>
+                  <pubid idtype="pmpid" link="fulltext">12161760</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B21">
+            <title>
+               <p>Expression profiles of p53-, p16(INK4a)-, and telomere-regulating genes in replicative senescent primary human, mouse, and chicken fibroblast cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Kim</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>You</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Farris</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Kong</snm>
+                  <fnm>BW</fnm>
+               </au>
+               <au>
+                  <snm>Christman</snm>
+                  <fnm>SA</fnm>
+               </au>
+               <au>
+                  <snm>Foster</snm>
+                  <fnm>LK</fnm>
+               </au>
+               <au>
+                  <snm>Foster</snm>
+                  <fnm>DN</fnm>
+               </au>
+            </aug>
+            <source>Exp Cell Res</source>
+            <pubdate>2002</pubdate>
+            <volume>272</volume>
+            <fpage>199</fpage>
+            <lpage>208</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1006/excr.2001.5420</pubid>
+                  <pubid idtype="pmpid" link="fulltext">11777345</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B22">
+            <title>
+               <p>Properties of murine embryonic stem cells maintained on human foreskin fibroblasts without LIF</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Meng</snm>
+                  <fnm>GL</fnm>
+               </au>
+               <au>
+                  <snm>Zur Nieden</snm>
+                  <fnm>NI</fnm>
+               </au>
+               <au>
+                  <snm>Liu</snm>
+                  <fnm>SY</fnm>
+               </au>
+               <au>
+                  <snm>Cormier</snm>
+                  <fnm>JT</fnm>
+               </au>
+               <au>
+                  <snm>Kallos</snm>
+                  <fnm>MS</fnm>
+               </au>
+               <au>
+                  <snm>Rancourt</snm>
+                  <fnm>DE</fnm>
+               </au>
+            </aug>
+            <source>Mol Reprod Dev</source>
+            <pubdate>2008</pubdate>
+            <volume>75</volume>
+            <fpage>614</fpage>
+            <lpage>622</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1002/mrd.20790</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17886269</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B23">
+            <title>
+               <p>Simple and efficient derivation of mouse embryonic stem cell lines using differentiation inhibitors or proliferation stimulators</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Lee</snm>
+                  <fnm>KH</fnm>
+               </au>
+               <au>
+                  <snm>Chuang</snm>
+                  <fnm>CK</fnm>
+               </au>
+               <au>
+                  <snm>Guo</snm>
+                  <fnm>SF</fnm>
+               </au>
+               <au>
+                  <snm>Tu</snm>
+                  <fnm>CF</fnm>
+               </au>
+            </aug>
+            <source>Stem Cells Dev</source>
+            <pubdate>2012</pubdate>
+            <volume>21</volume>
+            <fpage>373</fpage>
+            <lpage>383</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1089/scd.2011.0021</pubid>
+                  <pubid idtype="pmpid" link="fulltext">21521035</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B24">
+            <title>
+               <p>Use of human amnion epithelial cells as a feeder layer to support undifferentiated growth of mouse embryonic stem cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Lai</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Cheng</snm>
+                  <fnm>W</fnm>
+               </au>
+               <au>
+                  <snm>Liu</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Jiang</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Huang</snm>
+                  <fnm>Q</fnm>
+               </au>
+            </aug>
+            <source>Cloning Stem Cells</source>
+            <pubdate>2009</pubdate>
+            <volume>11</volume>
+            <fpage>331</fpage>
+            <lpage>340</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1089/clo.2008.0047</pubid>
+                  <pubid idtype="pmpid" link="fulltext">19508128</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B25">
+            <title>
+               <p>A human endothelial cell feeder system that efficiently supports the undifferentiated growth of mouse embryonic stem cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Zhou</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Yong</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Sun</snm>
+                  <fnm>X</fnm>
+               </au>
+               <au>
+                  <snm>Wang</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Yang</snm>
+                  <fnm>W</fnm>
+               </au>
+               <au>
+                  <snm>Zhang</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Zhu</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Shi</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Ding</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Deng</snm>
+                  <fnm>H</fnm>
+               </au>
+            </aug>
+            <source>Differentiation</source>
+            <pubdate>2008</pubdate>
+            <volume>76</volume>
+            <fpage>923</fpage>
+            <lpage>930</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid" link="fulltext">18557766</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B26">
+            <title>
+               <p>Establishment of an exogenous LIF-free culture system for mouse embryonic stem cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Feng</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Mo</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Wu</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Chen</snm>
+                  <fnm>X</fnm>
+               </au>
+               <au>
+                  <snm>Zhang</snm>
+                  <fnm>M</fnm>
+               </au>
+            </aug>
+            <source>Cloning Stem Cells</source>
+            <pubdate>2009</pubdate>
+            <volume>11</volume>
+            <fpage>437</fpage>
+            <lpage>443</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1089/clo.2009.0008</pubid>
+                  <pubid idtype="pmpid" link="fulltext">19751113</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B27">
+            <title>
+               <p>Pluripotency can be rapidly and efficiently induced in human amniotic fluid-derived cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Li</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Zhou</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Shi</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Ma</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Yang</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Gu</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Yu</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Jin</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Wei</snm>
+                  <fnm>Z</fnm>
+               </au>
+               <au>
+                  <snm>Chen</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Jin</snm>
+                  <fnm>Y</fnm>
+               </au>
+            </aug>
+            <source>Hum Mol Genet</source>
+            <pubdate>2009</pubdate>
+            <volume>18</volume>
+            <fpage>4340</fpage>
+            <lpage>4349</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1093/hmg/ddp386</pubid>
+                  <pubid idtype="pmpid" link="fulltext">19679563</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B28">
+            <title>
+               <p>Germline-competent mouse-induced pluripotent stem cell lines generated on human fibroblasts without exogenous leukemia inhibitory factor</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Li</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Yu</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Ma</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Shi</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Jiang</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Gu</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Yang</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Jin</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Wei</snm>
+                  <fnm>Z</fnm>
+               </au>
+               <au>
+                  <snm>Jiang</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Li</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Jin</snm>
+                  <fnm>Y</fnm>
+               </au>
+            </aug>
+            <source>PLoS One</source>
+            <pubdate>2009</pubdate>
+            <volume>4</volume>
+            <fpage>e6724</fpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1371/journal.pone.0006724</pubid>
+                  <pubid idtype="pmcid">2725300</pubid>
+                  <pubid idtype="pmpid" link="fulltext">19696928</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B29">
+            <title>
+               <p>Synergistic function of DNA methyltransferases Dnmt3a and Dnmt3b in the methylation of Oct4 and Nanog</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Li</snm>
+                  <fnm>JY</fnm>
+               </au>
+               <au>
+                  <snm>Pu</snm>
+                  <fnm>MT</fnm>
+               </au>
+               <au>
+                  <snm>Hirasawa</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Li</snm>
+                  <fnm>BZ</fnm>
+               </au>
+               <au>
+                  <snm>Huang</snm>
+                  <fnm>YN</fnm>
+               </au>
+               <au>
+                  <snm>Zeng</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Jing</snm>
+                  <fnm>NH</fnm>
+               </au>
+               <au>
+                  <snm>Chen</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Li</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Sasaki</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Xu</snm>
+                  <fnm>GL</fnm>
+               </au>
+            </aug>
+            <source>Mol Cell Biol</source>
+            <pubdate>2007</pubdate>
+            <volume>27</volume>
+            <fpage>8748</fpage>
+            <lpage>8759</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1128/MCB.01380-07</pubid>
+                  <pubid idtype="pmcid">2169413</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17938196</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B30">
+            <title>
+               <p>Three inhibitors of FGF receptor, ERK, and GSK3 establishes germline-competent embryonic stem cells of C57BL/6N mouse strain with high efficiency and stability</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Kiyonari</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Kaneko</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Abe</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Aizawa</snm>
+                  <fnm>S</fnm>
+               </au>
+            </aug>
+            <source>Genesis</source>
+            <pubdate>2010</pubdate>
+            <volume>48</volume>
+            <fpage>317</fpage>
+            <lpage>327</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid" link="fulltext">20162675</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B31">
+            <title>
+               <p>Human embryonic stem cells express an immunogenic nonhuman sialic acid</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Martin</snm>
+                  <fnm>MJ</fnm>
+               </au>
+               <au>
+                  <snm>Muotri</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Gage</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Varki</snm>
+                  <fnm>A</fnm>
+               </au>
+            </aug>
+            <source>Nat Med</source>
+            <pubdate>2005</pubdate>
+            <volume>11</volume>
+            <fpage>228</fpage>
+            <lpage>232</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/nm1181</pubid>
+                  <pubid idtype="pmpid" link="fulltext">15685172</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B32">
+            <title>
+               <p>Derivation, characterization, differentiation, and registration of seven human embryonic stem cell lines (VAL-3, -4, -5, -6M, -7, -8, and -9) on human feeder</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Aguilar-Gallardo</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Poo</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Gomez</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Galan</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Sanchez</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Marques-Mari</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Ruiz</snm>
+                  <fnm>V</fnm>
+               </au>
+               <au>
+                  <snm>Medrano</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Riboldi</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Valbuena</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Simon</snm>
+                  <fnm>C</fnm>
+               </au>
+            </aug>
+            <source>In Vitro Cell Dev Biol Anim</source>
+            <pubdate>2010</pubdate>
+            <volume>46</volume>
+            <fpage>317</fpage>
+            <lpage>326</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1007/s11626-010-9285-3</pubid>
+                  <pubid idtype="pmpid" link="fulltext">20186513</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B33">
+            <title>
+               <p>Derivation of 30 human embryonic stem cell lines - improving the quality</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Strom</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Holm</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Bergstrom</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Stromberg</snm>
+                  <fnm>AM</fnm>
+               </au>
+               <au>
+                  <snm>Hovatta</snm>
+                  <fnm>O</fnm>
+               </au>
+            </aug>
+            <source>In Vitro Cell Dev Biol Anim</source>
+            <pubdate>2010</pubdate>
+            <volume>46</volume>
+            <fpage>337</fpage>
+            <lpage>344</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1007/s11626-010-9308-0</pubid>
+                  <pubid idtype="pmcid">2855803</pubid>
+                  <pubid idtype="pmpid" link="fulltext">20198446</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B34">
+            <title>
+               <p>Self renewal of embryonic stem cells in the absence of feeder cells and exogenous leukaemia inhibitory factor</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Berger</snm>
+                  <fnm>CN</fnm>
+               </au>
+               <au>
+                  <snm>Sturm</snm>
+                  <fnm>KS</fnm>
+               </au>
+            </aug>
+            <source>Growth Factors</source>
+            <pubdate>1997</pubdate>
+            <volume>14</volume>
+            <fpage>145</fpage>
+            <lpage>159</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.3109/08977199709021517</pubid>
+                  <pubid idtype="pmpid">9255606</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B35">
+            <title>
+               <p>Human feeder cells can support the undifferentiated growth of human and mouse embryonic stem cells using their own basic fibroblast growth factors</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Park</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Kim</snm>
+                  <fnm>JH</fnm>
+               </au>
+               <au>
+                  <snm>Lee</snm>
+                  <fnm>SJ</fnm>
+               </au>
+               <au>
+                  <snm>Choi</snm>
+                  <fnm>IY</fnm>
+               </au>
+               <au>
+                  <snm>Park</snm>
+                  <fnm>SJ</fnm>
+               </au>
+               <au>
+                  <snm>Lee</snm>
+                  <fnm>SR</fnm>
+               </au>
+               <au>
+                  <snm>Sung</snm>
+                  <fnm>HJ</fnm>
+               </au>
+               <au>
+                  <snm>Yoo</snm>
+                  <fnm>YD</fnm>
+               </au>
+               <au>
+                  <snm>Geum</snm>
+                  <fnm>DH</fnm>
+               </au>
+               <au>
+                  <snm>Choi</snm>
+                  <fnm>CW</fnm>
+               </au>
+               <au>
+                  <snm>Kim</snm>
+                  <fnm>SH</fnm>
+               </au>
+               <au>
+                  <snm>Kim</snm>
+                  <fnm>BS</fnm>
+               </au>
+            </aug>
+            <source>Stem Cells Dev</source>
+            <pubdate>2011</pubdate>
+            <volume>20</volume>
+            <fpage>1901</fpage>
+            <lpage>1910</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1089/scd.2010.0496</pubid>
+                  <pubid idtype="pmpid" link="fulltext">21231869</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+      </refgrp>
+   </bm>
+</art>

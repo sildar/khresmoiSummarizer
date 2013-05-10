@@ -1,0 +1,2342 @@
+<!DOCTYPE art SYSTEM "article.dtd">
+<art>
+   <ui>scrt97</ui>
+   <ji>1757-6512</ji>
+   <fm>
+      <dochead>Research</dochead>
+      <bibl>
+         <title>
+            <p>Phenotypical and functional characteristics of mesenchymal stem cells from bone marrow: comparison of culture using different media supplemented with human platelet lysate or fetal bovine serum</p>
+         </title>
+         <aug>
+            <au id="A1">
+               <snm>Azouna</snm>
+               <mnm>Ben</mnm>
+               <fnm>Nesrine</fnm>
+               <insr iid="I1"/>
+               <insr iid="I2"/>
+               <email>nesrinebenazouna@gmail.com</email>
+            </au>
+            <au id="A2" ca="yes">
+               <snm>Jenhani</snm>
+               <fnm>Faouzi</fnm>
+               <insr iid="I2"/>
+               <insr iid="I3"/>
+               <email>faouzi.jenhani@rnu.tn</email>
+            </au>
+            <au id="A3">
+               <snm>Regaya</snm>
+               <fnm>Zohra</fnm>
+               <insr iid="I3"/>
+               <email>zohra.regaya@rns.tn</email>
+            </au>
+            <au id="A4">
+               <snm>Berraeis</snm>
+               <fnm>Lamia</fnm>
+               <insr iid="I3"/>
+               <email>lamia.berraeis@rns.tn</email>
+            </au>
+            <au id="A5">
+               <snm>Othman</snm>
+               <mnm>Ben</mnm>
+               <fnm>Tarek</fnm>
+               <insr iid="I4"/>
+               <email>tarek.benothman@rnu.tn</email>
+            </au>
+            <au id="A6">
+               <snm>Ducrocq</snm>
+               <fnm>Elfi</fnm>
+               <insr iid="I1"/>
+               <email>ducrocq@med.univ-tours.fr</email>
+            </au>
+            <au id="A7" ca="yes">
+               <snm>Domenech</snm>
+               <fnm>Jorge</fnm>
+               <insr iid="I1"/>
+               <email>domenech@med.univ-tours.fr</email>
+            </au>
+         </aug>
+         <insg>
+            <ins id="I1">
+               <p>Laboratory of Hematopoiesis, UPRES-EA3855, Faculty of Medicine, University Fran&#231;ois Rabelais, 10 boulevard Tonnell&#233;, 37032 Tours Cedex, France</p>
+            </ins>
+            <ins id="I2">
+               <p>Immunology Research Unit, Faculty of Pharmacy, rue Ibn Sina, 5000 Monastir, Tunisia</p>
+            </ins>
+            <ins id="I3">
+               <p>Cell Immunology, Cytometry and Cell Therapy Laboratories, National Blood Centre of Tunisia, Bab Sadoun, 1002 Tunis, Tunisia</p>
+            </ins>
+            <ins id="I4">
+               <p>National Centre of Bone Marrow Graft (CNGMO), Bab Sadoun, 1002 Tunis, Tunisia</p>
+            </ins>
+         </insg>
+         <source>Stem Cell Research &amp; Therapy</source>
+         <issn>1757-6512</issn>
+         <pubdate>2012</pubdate>
+         <volume>3</volume>
+         <issue>1</issue>
+         <fpage>6</fpage>
+         <url>http://stemcellres.com/content/3/1/6</url>
+         <xrefbib>
+            <pubidlist>
+               <pubid idtype="doi">10.1186/scrt97</pubid>
+               <pubid idtype="pmpid">22333342</pubid>
+            </pubidlist>
+         </xrefbib>
+      </bibl>
+      <history>
+         <rec>
+            <date>
+               <day>11</day>
+               <month>1</month>
+               <year>2011</year>
+            </date>
+         </rec>
+         <revrec>
+            <date>
+               <day>26</day>
+               <month>9</month>
+               <year>2011</year>
+            </date>
+         </revrec>
+         <acc>
+            <date>
+               <day>14</day>
+               <month>2</month>
+               <year>2012</year>
+            </date>
+         </acc>
+         <pub>
+            <date>
+               <day>14</day>
+               <month>2</month>
+               <year>2012</year>
+            </date>
+         </pub>
+      </history>
+      <cpyrt>
+         <year>2011</year>
+         <collab>Ben Azouna et al.; licensee BioMed Central Ltd.</collab>
+         <note>This is an open access article distributed under the terms of the Creative Commons Attribution License (<url>http://creativecommons.org/licenses/by/2.0</url>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</note>
+      </cpyrt>
+      <abs>
+         <sec>
+            <st>
+               <p>Abstract</p>
+            </st>
+            <sec>
+               <st>
+                  <p>Introduction</p>
+               </st>
+               <p>Mesenchymal stem cells (MSCs) are multipotent cells able to differentiate into several mesenchymal lineages, classically derived from bone marrow (BM) but potentially from umbilical cord blood (UCB). Although they are becoming a good tool for regenerative medicine, they usually need to be expanded in fetal bovine serum (FBS)-supplemented media. Human platelet lysate (HPL) has recently been proposed as substitute for safety reasons, but it is not yet clear how this supplement influences the properties of expanded MSCs.</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>Methods</p>
+               </st>
+               <p>In the present study, we compared the effect of various media combining autologous HPL with or without FBS on phenotypic, proliferative and functional (differentiation, cytokine secretion profile) characteristics of human BM-derived MSCs.</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>Results</p>
+               </st>
+               <p>Despite less expression of adipogenic and osteogenic markers, MSCs cultured in HPL-supplemented media fully differentiated along osteoblastic, adipogenic, chondrogenic and vascular smooth muscle lineages. The analyses of particular specific proteins expressed during osteogenic differentiation (calcium-sensing receptor (CaSR) and parathormone receptor (PTHR)) showed their decrease at D0 before any induction for MSC cultured with HPL mostly at high percentage (10%HPL). The cytokine dosage showed a clear increase of proliferation capacity and interleukin (IL)-6 and IL-8 secretion.</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>Conclusions</p>
+               </st>
+               <p>This study shows that MSCs can be expanded in media supplemented with HPL that can totally replace FBS. HPL-supplemented media not only preserves their phenotype as well as their differentiation capacity, but also shortens culture time by increasing their growth rate.</p>
+            </sec>
+         </sec>
+      </abs>
+   </fm>
+   <bdy>
+      <sec>
+         <st>
+            <p>Introduction</p>
+         </st>
+         <p>Mesenchymal stem cells (MSCs) represent a rare population of multipotent progenitors, initially described in bone marrow (BM), giving rise to adipocytes, osteoblasts, chondrocytes, and vascular smooth muscle (VSM)-like hematopoietic supportive stromal cells <abbrgrp><abbr bid="B1">1</abbr><abbr bid="B2">2</abbr></abbrgrp>. These cells are capable of multilineage differentiation from a single cell <abbrgrp><abbr bid="B3">3</abbr><abbr bid="B4">4</abbr></abbrgrp> and <it>in vivo </it>functional reconstitution of injured tissues in preclinical <abbrgrp><abbr bid="B5">5</abbr></abbrgrp> as well in clinical <abbrgrp><abbr bid="B6">6</abbr></abbrgrp> settings. Thereafter, MSCs have been described in virtually all post-natal organs or tissues <abbrgrp><abbr bid="B7">7</abbr></abbrgrp> but also in fetal adnexa, including both umbilical cord blood <abbrgrp><abbr bid="B8">8</abbr><abbr bid="B9">9</abbr></abbrgrp> and placenta <abbrgrp><abbr bid="B7">7</abbr><abbr bid="B10">10</abbr><abbr bid="B11">11</abbr></abbrgrp>. Today, BM remains the principal source of MSCs in studies investigating their potential use in cell therapy, in spite of significant declines in cell proliferation and differentiation capacity with advancing age <abbrgrp><abbr bid="B12">12</abbr></abbrgrp>.</p>
+         <p>MSCs display several common surface antigens, including CD90 (Thy-1), CD166 (SB10/ALCAM), CD73 (SH3), and CD105 (SH2 and endoglin), and lack hematopoietic (such as CD45 or CD34) and endothelial (such as CD31) markers and HLA-DR. However, significant heterogeneity in the morphology, proliferation, and differentiation potentials of MSCs has also been observed <abbrgrp><abbr bid="B13">13</abbr></abbrgrp>. Fetal bovine serum (FBS)-based medium is the conventional medium for isolation and expansion of MSCs and has been used in several clinical trials <abbrgrp><abbr bid="B6">6</abbr></abbrgrp>. However, concerns over the safety of FBS-based culture media have been raised because they can trigger adverse responses <abbrgrp><abbr bid="B14">14</abbr><abbr bid="B15">15</abbr></abbrgrp>. Accordingly, to culture MSCs, some trials have used media containing animal serum-free substitutes with combinations of growth factors <abbrgrp><abbr bid="B16">16</abbr></abbrgrp>. An alternative is to supplement media with human blood-derived platelet lysates or sera from autologous or allogenic donors <abbrgrp><abbr bid="B17">17</abbr><abbr bid="B18">18</abbr><abbr bid="B19">19</abbr><abbr bid="B20">20</abbr><abbr bid="B21">21</abbr></abbrgrp> to create culture conditions that more closely mimic the human environment. However, it is not yet clear how these culture conditions influence the phenotype and function of the expanded MSC populations.</p>
+         <p>In the present study, we have tested different media, including combinations of autologous human platelet lysate (HPL) with or without FBS, in order to compare phenotypic, proliferative, and functional characteristics together with the cytokine secretion profile of human MSCs derived from BM. We focused particularly on the mesenchymal differentiation ability of MSCs expanded in these different conditions.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Materials and methods</p>
+         </st>
+         <sec>
+            <st>
+               <p>Mesenchymal stem cell expansion cultures from bone marrow</p>
+            </st>
+            <p>BM cells (<it>n </it>= 13) were isolated from patients with normal BMs harvested from donors at the Bone Marrow Graft National Center of Tunisia (Tarek, Ben Othman, Tunis) or during orthopedic surgery (Philippe Rosset, Orthopedics Department, H&#244;pital Trousseau, Tours). The mean age of the donors was 33 &#177; 2 years (range of 16 to 41 years). Informed consent was obtained from all of the patients (a written consent was provided by the patients from Tours) in accordance with the national ethical guidelines of each country.</p>
+            <p>Mononuclear cells (MNCs) were isolated from each BM sample by loading onto Ficoll Hypaque solution (d = 1.077). After centrifugation at 800<it>g </it>for 20 minutes at room temperature, the MNC layer was removed from the interphase and washed twice with phosphate-buffered saline (PBS). Then they were seeded into uncoated T25 or T75 flasks (Becton, Dickinson and Company, Franklin Lakes, NJ, USA) at a cell concentration of 1 &#215; 10<sup>5 </sup>cells per square centimeter for BM cells. Cells were cultured in basic growth medium (BGM) consisting of alpha-minimum essential medium (&#945;-MEM) (Invitrogen Corporation, Carlsbad, CA, USA) with 100 U/mL penicillin, 0.1 mg/mL streptomycin (Invitrogen), 2 mM L-glutamine (Invitrogen), 0.025 mg/mL amphotericin B (Invitrogen) with various supplements to obtain the four following expansion culture media: (M1) BGM with 10% (vol/vol) of prescreened FBS (HyClone, Thermo Fisher Scientific Inc., Waltham, MA, USA) and 1 ng/mL fibroblast growth factor 2 (FGF2) (AbCys, Paris, France), (M2) BGM with 10% FBS and 5% (vol/vol) HPL, (M3) BGM with 10% HPL, and (M4) BGM with 5% HPL. Cultures were maintained in a humidified atmosphere with 5% CO<sub>2 </sub>at 37&#176;C and the medium had been changed twice weekly thereafter. On reaching 60% to 80% confluence, the adherent cells were detached after treatment with 0.05% (vol/vol) trypsin/1 mM ethylenediaminetetraacetic acid (EDTA) solution (Invitrogen) and reseeded at 10<sup>3 </sup>cells per square centimeter. All of the studies, except for cell proliferation and CFU-F assays, had been performed after two passages (P2).</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Human platelet lysate preparation</p>
+            </st>
+            <p>HPLs were prepared in accordance with a method previously described <abbrgrp><abbr bid="B19">19</abbr></abbrgrp>. Briefly, they were obtained from different platelet apheresis collections performed at the National Blood Transfusion Center of Tunis (Tunisia). HPLs from at least 10 donors were pooled and, after elimination of remaining platelet bodies by centrifugation (1,400<it>g </it>for 20 minutes), were frozen at -80&#176;C to be subsequently used as FBS or growth factor substitute or both.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Phenotypic analysis of mesenchymal stem cells by flow cytometry</p>
+            </st>
+            <p>The phenotypic analysis was performed after P2 by incubation of the adherent cells with monoclonal antibodies. Cultures were washed twice with PBS, and cells were subsequently detached by enzymatic treatment by using 0.05% trypsin/EDTA solution (Invitrogen) for 5 minutes at 37&#176;C. Cells were washed and adjusted to 1 &#215; 10<sup>6</sup>/mL in PBS. Cell suspensions (100 mL) were incubated with 5 &#956;L of fluorescein isothiocyanate (FITC)-, phycoerythrin (PE)-, or peridinin chlorophyll protein (PerCP)-conjugated IgG1 monoclonal antibodies (Becton, Dickinson and Company) for 30 minutes at room temperature in the dark. They were CD45-PerCP, CD14-PE, CD31-PE, CD146-FITC, CD34-PE, CD90-FITC or CD90-PE, CD105-PE, CD106-PE, and CD133-PE (BD Biosciences, San Jose, CA, USA). Nonspecific background was evaluated by parallel staining with isotype-matched IgG1-FITC, IgG1-PerCP, and IgG1-PE. Cells were fixed with 4% paraformaldehyde and analyzed by using a Becton, Dickinson and Company flow cytometer (FACScalibur<sup>&#8482; </sup>or FACS Canto II<sup>&#8482;</sup>).</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Mesenchymal differentiation capacity of mesenchymal stem cells</p>
+            </st>
+            <sec>
+               <st>
+                  <p>Osteogenic induction</p>
+               </st>
+               <p>At 50% confluence, the cells were cultured for 14 days in Dulbecco's modified Eagle's medium-high glucose (DMEM-HG) (with 4.5 g/L glucose) containing 2% FBS, 0.1 &#956;M dexamethasone (Sigma-Aldrich, St. Louis, MO, USA), 2 mM &#946;-glycerolphosphate (Sigma-Aldrich), and 100 &#956;M ascorbate-2-phosphate (Sigma-Aldrich) with medium changes every 3 days. After 2 weeks of induction, the cells were stained in accordance with von Kossa and Alizarin red methods to detect the presence of calcium deposition into osteocytes.</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>Adipogenic induction</p>
+               </st>
+               <p>The adipogenic induction medium consisted of DMEM-LG (with 1 g/L glucose) supplemented with 20% FBS, 1 &#956;M/L dexamethasone, 0.5 mmol/L isobutylmethylxanthine (Invitrogen), and 60 &#956;mol/L indomethacin (Sigma-Aldrich). Adipogenic differentiation was evaluated after 2 weeks of induction by the cellular accumulation of neutral lipid vacuoles that were stained with Nile red (Sigma-Aldrich) and observed by fluorescent microscopy.</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>Chondrogenic induction</p>
+               </st>
+               <p>Chondrogenic differentiation was obtained in micropellets (3 &#215; 10<sup>5 </sup>cells per pellet) incubated in tubes at 37&#176;C for 21 days in 500 &#956;L of chondrogenic medium consisting of DMEM-HG with 0.1 &#956;M dexamethasone (Sigma-Aldrich), 1 mM sodium pyruvate, 170 &#956;M ascorbic acid-2-phosphate (Sigma-Aldrich), 350 &#956;M proline (Sigma-Aldrich), 1X insulin-transferrin-selenium (Cambrex, East Rutherford, NJ, USA), and 10 ng/mL transforming growth factor-beta-1 (TGF-&#946;1) (AbCys). Medium was changed every 4 days. Chondrogenic differentiation was evaluated after 21 days of induction. The presence of glycosaminoglycans in cell pellets was revealed by Alcian blue and Toluidine blue staining. On the 21st day, pellets were fixed for 48 hours in 4% paraformaldehyde and embedded in paraffin. Sections (4 &#956;m thick) were rehydrated in 70%, 90%, and 100% xylene and ethanol. For Alcian blue staining, slides were incubated for 10 minutes in a 1:1 mixture of 3% (vol/vol) Alcian blue 8GX (Sigma-Aldrich) solution in distilled water and 3% (vol/vol) methanol. For Toluidine blue staining, slides were incubated for 10 minutes in a 1% Toluidine blue (Sigma-Aldrich) (vol/vol) solution in 70% ethanol.</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>Vascular smooth muscle induction</p>
+               </st>
+               <p>VSM differentiation was obtained in McCoy's 5A medium supplemented with 12.5% FBS, 12.5% horse serum (Invitrogen), 2 mM L-glutamine, 0.8 mM L-serine, 0.15 mM L-asparagine, 1 mM sodium pyruvate, 5 mM sodium bicarbonate, 1 &#956;M hydrocortisone and 0.25 &#956;g/mL amphotericin B. Medium was changed every 4 days. VSM differentiation was evaluated after 3 weeks of induction. MSCs were fixed by using 4% paraformaldehyde and incubated with primary antibodies against rat alpha smooth muscle actin (ASMA) (clone 1A4, mouse anti-human, -mouse, -rat; Sigma-Aldrich) at 4&#176;C for 12 hours. The antigen-antibody reaction was detected by using a specific anti-mouse secondary antibody coupled to FITC (Alexa Fluor 488; Invitrogen) dyes, and the reaction was visualized by fluorescent microscopy.</p>
+            </sec>
+         </sec>
+         <sec>
+            <st>
+               <p>Mesenchymal stem cell expression of differentiation markers by RT-PCR and Western blotting</p>
+            </st>
+            <p>For reverse transcription-polymerase chain reaction (RT-PCR), total RNA was extracted from MSCs at 90% confluence by using TRIZOL reagent (Invitrogen) in accordance with the instructions of the manufacturer. Reverse transcription was carried out by using PrimeScript<sup>&#8482;</sup>RTase (Takara, Kyoto, Japan), and the cDNA fragments were amplified by using RNase Inhibitor (Takara). After denaturation at 65&#176;C for 5 minutes, amplification was carried out by 30 cycles at 30&#176;C for 10 minutes, 42&#176;C for 60 minutes, and 95&#176;C for 5 minutes. Primers used are shown in Table <tblr tid="T1">1</tblr>. The expression of the following genes was studied: alkaline phosphatase (<it>ALP</it>) nd Runt-related transcription factor 2 (<it>RUNX2</it>) for osteogenic pathway, peroxisome proliferator-activated receptor-gamma (<it>PPAR&#947;</it>) and lipoprotein lipase (<it>LPL</it>) for adipogenic pathway, and <it>ASMA </it>for VSM differentiation. Glyceraldehyde 3-phosphate dehydrogenase (<it>GAPDH</it>) gene expression was used as a control. Thermocycling was performed with a gradient thermocycler (Takara).</p>
+            <tbl id="T1" hint_layout="double">
+               <title>
+                  <p>Table 1</p>
+               </title>
+               <caption>
+                  <p>Sequences of the primers used in reverse transcription-polymerase chain reaction study</p>
+               </caption>
+               <tblbdy cols="3">
+                  <r>
+                     <c ca="left">
+                        <p><b>Construct</b></p>
+                     </c>
+                     <c ca="center">
+                        <p><b>Forward sequence</b></p>
+                     </c>
+                     <c ca="center">
+                        <p><b>Reverse sequence</b></p>
+                     </c>
+                  </r>
+                  <r>
+                     <c cspan="3">
+                        <hr/>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p><it>GAPDH</it></p>
+                     </c>
+                     <c ca="center">
+                        <p>5'- AATCCCATCACCATCTTCCAGG-3'</p>
+                     </c>
+                     <c ca="center">
+                        <p>5'-AGAGGCAGGGATGATGTTCTGG-3'</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p><it>ALP</it></p>
+                     </c>
+                     <c ca="center">
+                        <p>5'-CTGGACCTCGTTGACACCTG-3'</p>
+                     </c>
+                     <c ca="center">
+                        <p>5'-GACATTCTCTCGTTCACCGC-3'</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p><it>RUNX2</it></p>
+                     </c>
+                     <c ca="center">
+                        <p>5'-AACTTCCTGTGCTCGGTGCTG-3'</p>
+                     </c>
+                     <c ca="center">
+                        <p>5'-GGGGAGGATTTGTGAAGACGG-3'</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p><it>LPL</it></p>
+                     </c>
+                     <c ca="center">
+                        <p>5'-AAAGCCCTGCTCGTGCTGAC-3'</p>
+                     </c>
+                     <c ca="center">
+                        <p>5'-TAAACCGGGCCACATCCTGT-3'</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>PPAR&#947;</p>
+                     </c>
+                     <c ca="center">
+                        <p>5'-GGAGAAGCTGTTGGCGGAGA-3'</p>
+                     </c>
+                     <c ca="center">
+                        <p>5'-TCAAGGAGGCCAGCATTGTG-3'</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>ASMA</p>
+                     </c>
+                     <c ca="center">
+                        <p>5'-TCATGATGCTGTTGTAGGTGGT-3'</p>
+                     </c>
+                     <c ca="center">
+                        <p>5'-CTGTTCCAGCCATCCTTCAT-3'</p>
+                     </c>
+                  </r>
+               </tblbdy>
+               <tblfn>
+                  <p><it>ALP</it>, alkaline phosphatase; <it>ASMA</it>, alpha smooth muscle actin; <it>GAPDH</it>, glyceraldehyde 3-phosphate dehydrogenase; <it>LPL</it>, lipoprotein lipase; PPAR&#947;, peroxisome proliferator-activated receptor-gamma; <it>RUNX2</it>, Runt-related transcription factor 2.</p>
+               </tblfn>
+            </tbl>
+            <p>For Western blotting, MSCs were harvested at 90% confluence. Cell pellets were resuspended in lysis buffer (8 M urea, 2 M thiourea, 2% CHAPS, 1% NP-40, 2 mM TBP, 16 Protease Inhibitor Mix, 16 Nuclease Mix, 1 mM PMSF, and 2% IPG buffer) and put on ice for 45 minutes. They were then centrifuged at 14,000<it>g </it>for 15 minutes at 4&#176;C. The supernatant was collected and stored at -80&#176;C. The protein concentration of samples was determined by means of Bradford's method (Bio-Rad Laboratories, Inc., Hercules, CA, USA). Equal amounts of cell extracts and of conditioned media were separated by SDS-PAGE (12%) and transferred to polyvinylidene difluoride (PVDF) membranes. Membranes were blocked with 5% skim milk for an hour and left to react with anti-human &#946;-actin (clone AC-15, mouse IgG1; Sigma-Aldrich) as a positive control, anti-human leptin (monoclonal; R&amp;D Systems, Inc., Minneapolis, MN, USA, reference number 398), anti-human calcium-sensing receptor (CaSR) (monoclonal; AbCam, Cambridge, UK, reference number ab 3513), anti-human parathormone receptor (PTHR) (mouse monoclonal anti-human; Novocastra, part of Leica Microsystems, Wetzlar, Germany), anti-human ASMA (clone 1A4, mouse anti-human, -mouse, -rat; Sigma-Aldrich), and anti-human transgelin (SM22&#945;) (mouse monoclonal anti-human; Novocastra). Antibody binding was revealed by incubation with the corresponding HRP-linked IgG (horseradish peroxydase; Bio-Rad Laboratories, Inc.) and the ECL+ Western blotting detection kit (Amersham Biosciences, now part of GE Healthcare, Little Chalfont, Buckinghamshire, UK). Chemiluminescence was detected and measured with a Chemi-Smart 2000<sup>&#8482; </sup>Imager (Vilber Lourmat, Marne-la-Vall&#233;e, France).</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Clonogenic and proliferative capacities of mesenchymal stem cells</p>
+            </st>
+            <sec>
+               <st>
+                  <p>Colony-forming unit-fibroblast assays</p>
+               </st>
+               <p>CFU-F assays were performed to evaluate the clonal expansion capacity of the MSCs initially cultured in the six different media. For the optimal counting of colonies, MNCs derived from BM were seeded at 10<sup>5 </sup>cells per square centimeter in T25 flasks in duplicate. Flasks were incubated in a humidified atmosphere with 5% CO<sub>2 </sub>at 37&#176;C. The medium was completely renewed every 3 days. Cell clusters containing more than 50 cells were scored on day 10 as CFU-F colonies by using an inverted microscope. Cloning efficiency was considered as CFU-F counts per 10<sup>6 </sup>MNCs plated.</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>Population doubling time</p>
+               </st>
+               <p>To test the role of culture conditions on MSC expansion, MSCs were cultured in each of the six expansion media for two passages (P2) before analysis. Population doubling times (PDTs) were calculated between P1 and P2 as t/n, where t is the duration of culture in days and n is the number of population doublings calculated by using the formula <it>n </it>= (log N<sub>h </sub>- log N<sub>i</sub>)/log 2, where N<sub>h </sub>is the number of cells harvested at the time of counting at P2 and N<sub>i </sub>is the number of cells initially plated at P1).</p>
+            </sec>
+         </sec>
+         <sec>
+            <st>
+               <p>Cytokine secretion capacity of mesenchymal stem cells</p>
+            </st>
+            <p>Cytokines were detected in supernatants of MSCs cultured in different expansion media and were collected at P2. Concentrations of IL-6, IL-8, vascular endothelial growth factor (VEGF), FGF2, granulocyte colony-stimulating factor (G-CSF), granulocyte-macrophage colony-stimulating factor (GM-CSF), and RANTES (regulated on activation normal T cell expressed and secreted) were simultaneously evaluated by using a commercially available multiplex bead-based immunoassay (Bio-Plex<sup>&#8482; </sup>cytokine assay system; BD Biosciences).</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Statistical analysis</p>
+            </st>
+            <p>Statistical analysis was performed by using the STATGRAPHICS Centurion XVI program version 16.0.08 (StatPoint Technologies Inc., Warrenton, VA, USA). A one-way analysis of variance and Newman-Keuls multiple range test were carried out to compare value distributions. Significant difference between group values was considered when <it>P </it>value was less than 0.05. Indicated values are mean &#177; standard error mean.</p>
+         </sec>
+      </sec>
+      <sec>
+         <st>
+            <p>Results</p>
+         </st>
+         <sec>
+            <st>
+               <p>Phenotypic characteristics of mesenchymal stem cells cultured in various expansion media</p>
+            </st>
+            <sec>
+               <st>
+                  <p>Morphological analysis</p>
+               </st>
+               <p>Adherent cell populations from the MNC fraction of human BM samples were generated by expansion culture by using four different media: (M1) BGM with 10% FBS and 1 ng/mL FGF2, (M2) BGM with 10% FBS and 5% HPL, (M3) BGM with 10% HPL, and (M4) BGM with 5% HPL. After 2 weeks of culture, an adherent and stable cell layer was obtained from BM-derived MNCs with all media (<it>n </it>= 13). Figure <figr fid="F1">1</figr> shows a particular morphology of MSCs cultured with HPL (M3 and M4). In fact, the layer of MSCs appears with many spaces between the cells in comparison with standard medium (M1), in which we have one layer of very confluent MSCs (Figure <figr fid="F1">1</figr>).</p>
+               <fig id="F1">
+                  <title>
+                     <p>Figure 1</p>
+                  </title>
+                  <caption>
+                     <p>Morphological characterization of bone marrow (BM)-derived mesenchymal stem cells (MSCs) cultured in different media at passage 2 (P2)</p>
+                  </caption>
+                  <text>
+                     <p><b>Morphological characterization of bone marrow (BM)-derived mesenchymal stem cells (MSCs) cultured in different media at passage 2 (P2)</b>. The media were M1 (10% FBS + FGF2), M2 (10% FBS + 5% HPL), M3 (10% HPL), and M4 (5% HPL). Bar represents 100 &#956;m. FBS, fetal bovine serum; FGF2, fibroblast growth factor 2; HPL, human platelet lysate. Representative results from 13 experiments are shown.</p>
+                  </text>
+                  <graphic file="scrt97-1"/>
+               </fig>
+            </sec>
+            <sec>
+               <st>
+                  <p>Immunophenotype analyzed by flow cytometry</p>
+               </st>
+               <p>MSCs from different BM samples were characterized by flow cytometry with a panel of six markers at P2 after culture in media containing HPL (M2, M3, M4) or not containing HPL (M1). All BM derived-MSCs were negative for hematopoietic markers CD34, CD14, and CD45 (Figure <figr fid="F2">2A</figr>) and were consistently positive for the MSC markers CD106, CD73, CD90, and CD105, regardless of the expansion medium used (Figure <figr fid="F2">2B</figr>). For immaturity markers, expression of CD49a was low and CD133 was undetectable without any influence of medium type. Our data did not show any statistical difference between the four culture conditions.</p>
+               <fig id="F2">
+                  <title>
+                     <p>Figure 2</p>
+                  </title>
+                  <caption>
+                     <p>Representative flow cytometry analysis of BM-derived MSCs cultured in different expansion media</p>
+                  </caption>
+                  <text>
+                     <p><b>Representative flow cytometry analysis of BM-derived MSCs cultured in different expansion media</b>. Comparison of membrane antigen expression of MSCs cultured at passage 2 (P2) in four different media: M1 (10% FBS + FGF2) (<it>n </it>= 4), M2 (10% FBS + 5% HPL) (<it>n </it>= 5), M3 (10% HPL) (<it>n </it>= 6), and M4 (5% HPL) (<it>n </it>= 5). The histogram plots represent flow cytometry analysis of the cells with directly labeled monoclonal antibodies (histograms colored inside) or exposed to isotype-matched non-immune directly labeled immunoglobulins (IgG1FITC, IgG1PE, and IgG1PerCP). MSCs were negative for hematopoietic markers CD45, CD34, CD133, and CD14 (A) but were positive for CD90, CD73, CD105, and CD106 and weakly positive for CD49e (B). (A) Hematopoietic and immaturity markers. (B) Stromal cell markers.</p>
+                  </text>
+                  <graphic file="scrt97-2"/>
+               </fig>
+            </sec>
+         </sec>
+         <sec>
+            <st>
+               <p>Mesenchymal differentiation capacity of mesenchymal stem cells assessed by specific staining in different culture conditions</p>
+            </st>
+            <p>The influence of HPL in expansion media on further differentiation potential of MSCs toward osteogenic, adipogenic, chondrogenic, and VSM lineages after appropriate induction was investigated at the second passage (P2) and specific staining (Figure <figr fid="F3">3</figr>). BM cells grown in HPL or FBS deposited an extensive mineralized matrix when cultured for 2 weeks in osteogenic medium, as demonstrated by strong Alizarin red and von Kossa staining. These cells also efficiently differentiated into the adipogenic lineage, as indicated by Nile red staining of lipid droplets in the cytoplasm following culture in adipogenic medium except when a high concentration (10%) of HPL was used (M3). After chondrogenic differentiation for 3 weeks, MSCs displayed a typical chondroblast shape, as indicated by the deposition of specific glycosaminoglycans seen after Alcian blue and O Safranin staining, irrespectively of the expansion media used previously (M1, M2, M3, and M4).</p>
+            <fig id="F3">
+               <title>
+                  <p>Figure 3</p>
+               </title>
+               <caption>
+                  <p>Osteogenic, chondrogenic, adipogenic, and vascular smooth muscular differentiation capacity assessed by staining of BM-derived MSCs cultured in different expansion media</p>
+               </caption>
+               <text>
+                  <p><b>Osteogenic, chondrogenic, adipogenic, and vascular smooth muscular differentiation capacity assessed by staining of BM-derived MSCs cultured in different expansion media</b>. The media are M1 (10% FBS + FGF2), M2 (10% FBS + 5% HPL), M3 (10% HPL), and M4 (5% HPL). Results are of one representative experiment. A, adipogenic differentiation; ASMA, alpha smooth muscle actin; C, chondrogenic differentiation; D0, before differentiation; D14, after 14 days of differentiation; O, osteogenic differentiation; VSM, vascular smooth muscle.</p>
+               </text>
+               <graphic file="scrt97-3"/>
+            </fig>
+         </sec>
+         <sec>
+            <st>
+               <p>Osteogenic, adipogenic, and vascular smooth muscle gene expression assessed by RT-PCR analysis in mesenchymal stem cells</p>
+            </st>
+            <p>Gene expression was analyzed by RT-PCR after MSC amplification (P1) in HPL- and FBS-supplemented media before (day 0, or D0) and after differentiation (day 14, or D14) from four different MSCs. We tested the expression of two osteogenic (O)-specific genes (<it>ALP </it>and <it>RUNX2</it>), two adipogenic (A)-specific genes (<it>PPAR&#947; </it>and <it>LPL</it>), and one VSM gene (<it>ASMA</it>) before differentiation. mRNA expressions of <it>ALP, RUNX2, PPR&#947;</it>, and <it>ASMA </it>were decreased in M2 (10% FBS + 5% HPL) and M3 (10% HPL) media in comparison with standard M1 medium (10% FBS + 1 ng/mL FGF2) or M4 medium containing only 5% HPL (Figure <figr fid="F4">4A</figr>). At D0, HPL seems to decrease the osteogenic markers. Concerning the adipogenic markers, <it>PPAR&#947; </it>decreased at D0 when the HPL was added to the culture medium (M2, M3, and M4) in comparison with standard medium (M1). Also, in M2 (10% FBS + 5% HPL), we showed a decrease of <it>PPAR&#947; </it>after adipogenic induction at D14.</p>
+            <fig id="F4">
+               <title>
+                  <p>Figure 4</p>
+               </title>
+               <caption>
+                  <p>mRNA expression by BM-derived MSCs cultured in different expansion media</p>
+               </caption>
+               <text>
+                  <p><b>mRNA expression by BM-derived MSCs cultured in different expansion media</b>. Reverse transcription-polymerase chain reaction (RT-PCR) for positive control <it>GAPDH </it>(A), osteogenic (B), adipogenic (C), and vascular smooth muscle (D) gene expression of BM-derived MSCs cultured in four media: M1 (10% FBS + FGF2), M2 (10% FBS + 5% HPL), M3 (10% HPL), and M4 (5% HPL). Total RNA was extracted from undifferentiated and differentiated MSCs previously cultured in four expansion media (M1, M2, M3, and M4). The cDNA obtained was used for PCR assays to evaluate the expression of the different genes studied. One representative experiment out of four experiments is shown. For GAPDH gene expression (A): 1, at D0 before any differentiation; 2, after osteogenic differentiation (D14); 3, after adipogenic differentiation (D14); 4, after vascular smooth muscle differentiation (D14). For osteogenic (<it>RUNX2 </it>and <it>ALP</it>) (B), adipogenic (<it>PPAR&#947; </it>and <it>LPL</it>) (C), and vascular smooth muscle (<it>ASMA</it>) (D) gene expression: 1, D0 before any differentiation; 2, after differentiation induction (D14). <it>ALP</it>, alkaline phosphatase; <it>ASMA</it>, alpha-smooth muscle actin; <it>GAPDH</it>, glyceraldehyde 3-phosphate dehydrogenase; <it>LPL</it>, lipoprotein lipase; <it>PPAR&#947;</it>, peroxisome proliferator-activated receptor-&#947;; <it>RUNX2</it>, runt-related transcription factor 2.</p>
+               </text>
+               <graphic file="scrt97-4"/>
+            </fig>
+         </sec>
+         <sec>
+            <st>
+               <p>Osteogenic, adipogenic, and vascular smooth muscular protein expression assessed by Western blotting in mesenchymal stem cells</p>
+            </st>
+            <p>Proteins specific of osteogenic, VSM, and adipogenic lineages were identified in MSCs in different culture conditions. MSCs cultured in 10% FBS + 5% HPL medium (M2) displayed the same expression profile for the osteogenic markers CaSR and PTHR as in standard medium (M1) before (D0) and after (D14) differentiation. In contrast, the expression of these proteins was clearly decreased in 10% HPL (M3) and 5% HPL (M4) media. We noted the same results with the adipogenic marker (Leptin) (Figure <figr fid="F5">5</figr>). The expression of VSM differentiation proteins (ASMA and SM22&#945;) seems not to be affected by the type of expansion medium (Figure <figr fid="F5">5</figr>).</p>
+            <fig id="F5">
+               <title>
+                  <p>Figure 5</p>
+               </title>
+               <caption>
+                  <p>Western blot analysis showing differentiation markers of osteogenic, vascular smooth muscle, and adipogenic lineages expressed by BM-derived MSCs cultured in different expansion media</p>
+               </caption>
+               <text>
+                  <p><b>Western blot analysis showing differentiation markers of osteogenic, vascular smooth muscle, and adipogenic lineages expressed by BM-derived MSCs cultured in different expansion media</b>. The media are M1 (10% FBS + FGF2), M2 (10% FBS + 5% HPL), M3 (10% HPL), and M4 (5% HPL). The experiments were performed in triplicate, and one representative blot is shown here. Beta-actin expression was used as positive control. Osteogenic proteins studied are calcium-sensing receptor (CaSR) and parathormone receptor (PTHR). Adipogenic protein studied is Leptin. Vascular smooth muscle proteins studied are smooth muscle 22alpha (SM22&#945;) and alpha-smooth muscle actin (ASMA). D0, day 0 (before induction); D14, day 14 (after induction).</p>
+               </text>
+               <graphic file="scrt97-5"/>
+            </fig>
+         </sec>
+         <sec>
+            <st>
+               <p>Clonogenic and proliferative capacities of mesenchymal stem cells cultured in various expansion media</p>
+            </st>
+            <sec>
+               <st>
+                  <p>Colony-forming unit-fibroblast assays</p>
+               </st>
+               <p>MNCs initially seeded in the four expansion media were assayed for CFU-F. No clear difference was observed in colony counts for 10<sup>6 </sup>BM MNCs plated when comparing the output in FBS- and HPL-supplemented expansion culture media (Figure <figr fid="F6">6</figr>). HPL-supplemented cultures resulted in significantly larger colonies, which appeared densely packed with very small spindle-shaped cells compared with colonies in FBS cultures formed by only loosely connected cells (Figure <figr fid="F3">3</figr>: M2-M3 versus M1). The growth-promoting effect of HPL on CFU-F was associated with increased density of total cells at confluence.</p>
+               <fig id="F6">
+                  <title>
+                     <p>Figure 6</p>
+                  </title>
+                  <caption>
+                     <p>Effect of expansion media on colony-forming unit-fibroblast (CFU-F) counts per 10<sup>6 </sup>bone marrow mononuclear cells</p>
+                  </caption>
+                  <text>
+                     <p><b>Effect of expansion media on colony-forming unit-fibroblast (CFU-F) counts per 10<sup>6 </sup>bone marrow mononuclear cells</b>. The media are M1 (10% FBS + FGF2), M2 (10% FBS + 5% HPL), M3 (10% HPL), and M4 (5% HPL). Data shown represent mean &#177; standard error of the mean from the indicated number of experiments. <sup>#</sup>No significant difference; <it>P </it>> 0.05.</p>
+                  </text>
+                  <graphic file="scrt97-6"/>
+               </fig>
+            </sec>
+            <sec>
+               <st>
+                  <p>Population doubling time</p>
+               </st>
+               <p>Expansion rates of MSCs were very different when cultured in media supplemented with or without HPL (Figure <figr fid="F7">7</figr>). Thus, PDTs of MSCs cultured in regular medium containing FBS with FGF2 (M1) remained longer than in HPL-supplemented cultures (M2: 5.6 &#177; 0.5 days; M3: 5.8 &#177; 1.03 days; and M4: 3.8 &#177; 0.7 days; <it>P </it>&lt; 0.0007).</p>
+               <fig id="F7">
+                  <title>
+                     <p>Figure 7</p>
+                  </title>
+                  <caption>
+                     <p>Population doubling time (PDT) in days of adherent cells cultured in different expansion media between passage 1 (P1) and passage 2 (P2)</p>
+                  </caption>
+                  <text>
+                     <p><b>Population doubling time (PDT) in days of adherent cells cultured in different expansion media between passage 1 (P1) and passage 2 (P2)</b>. The media are M1 (10% FBS + FGF2), M2 (10% FBS + 5% HPL), M3 (10% HPL), and M4 (5% HPL). Data shown represent mean &#177; standard error of the mean from the indicated number of experiments. *Significant difference; <it>P </it>&lt; 0.0007. <sup>#</sup>No significant difference; P > 0.05.</p>
+                  </text>
+                  <graphic file="scrt97-7"/>
+               </fig>
+            </sec>
+         </sec>
+         <sec>
+            <st>
+               <p>Cytokine expression profile of mesenchymal stem cells</p>
+            </st>
+            <p>Cytokine expression profile of MSCs from BM was compared by using the Bio-Plex<sup>&#8482; </sup>cytokine assay system (BD Biosciences) in accordance with the instructions of the manufacturer. MSC supernatants were collected after 3 to 4 days of culture at P2 with M1, M2, M3, and M4 for BM. This technique allowed the simultaneous measurement of concentrations of several cytokines that included FGF2, RANTES, VEGF, IL-6, IL-8, G-CSF, and GM-CSF. In parallel to MSC supernatants, background cytokine concentrations were evaluated in each corresponding medium used (M1, M2, M3, and M4). In these growth media, all of the cytokines - except for RANTES, which was present at high concentrations in HPL-containing media (M2, M3 and M4) but was at very low concentrations in standard medium M1 (lacking HPL) - were undetectable. MSC supernatants contained IL-6, IL-8, and VEGF at variable levels according to the different expansion culture conditions. Thus, the presence of HPL appeared to increase IL-6 and IL-8 concentrations (Figure <figr fid="F8">8A, B</figr>), while FGF2, G-CSF, and GM-CSF remained undetectable in all culture conditions.</p>
+            <fig id="F8">
+               <title>
+                  <p>Figure 8</p>
+               </title>
+               <caption>
+                  <p>Cytokine expression profile of mesenchymal stem cells (MSCs) cultured in different expansion media</p>
+               </caption>
+               <text>
+                  <p><b>Cytokine expression profile of mesenchymal stem cells (MSCs) cultured in different expansion media</b>. Cytokine concentrations (expressed in picograms per 10<sup>6 </sup>cells) were evaluated in MSC supernatants at passage 2 (P2) after culture in M1 (10% FBS + FGF2) (<it>n </it>= 4), M2 (10% FBS + 5% HPL) (<it>n </it>= 6), M3 (10% HPL) (<it>n </it>= 4), and M4 (5% HPL) (<it>n </it>= 3). <b>(A) </b>IL-6 (*<it>P </it>= 005; **<it>P </it>= 0.01). <b>(B) </b>IL-8 (*<it>P </it>&lt; 0.05). <b>(C) </b>VEGF (*<it>P </it>&lt; 0.01). IL, interleukin; VEGF, vascular endothelial growth factor.</p>
+               </text>
+               <graphic file="scrt97-8"/>
+            </fig>
+         </sec>
+      </sec>
+      <sec>
+         <st>
+            <p>Discussion</p>
+         </st>
+         <p>This study points out the interest in HPL as a replacement for FBS in culture media for expansion of human BM MSCs. Thus, HPL-containing media not only preserve their phenotype as well as their differentiation capacity but also shorten culture time by increasing their growth rate. Nevertheless, some differences exist in terms of cytokines produced, suggesting functional differences between MSCs expanded in media supplemented with HPL and FBS. This has to be considered for particular clinical applications.</p>
+         <p>The possibility to use animal serum-free culture media has been reported in several recent studies by substituting FBS with human-derived supplements such as HPL or human serum <abbrgrp><abbr bid="B17">17</abbr><abbr bid="B18">18</abbr><abbr bid="B19">19</abbr><abbr bid="B20">20</abbr><abbr bid="B21">21</abbr><abbr bid="B22">22</abbr><abbr bid="B23">23</abbr><abbr bid="B24">24</abbr><abbr bid="B25">25</abbr></abbrgrp>. In the present study, MSC expansions were performed in three different HPL-supplemented media consisting of BGM (&#945;-MEM) with (M2) or without (M3 and M4) FBS and compared with the standard medium devoid of HPL (M1). M1 (supplemented with 10% FBS + 1 ng/mL FGF2) represents the reference medium for MSC expansion in our laboratory. In M2, FGF2 was replaced by 5% HPL (vol/vol). FBS-free M3 and M4 media were supplemented with 10% and 5% HPL, respectively. The four media were used for expansion of BM-derived MSCs to study the influence of HPL on MSC functions. Our study clearly showed that the presence of HPL is necessary for MSC growth to substitute the standard expansion medium containing the FBS.</p>
+         <p>The addition of HPL in expansion media did not modify the immunophenotype of MSCs, irrespectively of the amounts used and of the presence or absence of FBS. These cell display a typical feature of MSCs bearing CD73, CD90, CD105, and CD106 and lacking the hematopoietic markers CD45, CD34, and CD14. Immaturity marker expression did not vary with low levels of CD49a, and undetectable levels of CD133. This lack of consistent immunophenotypic changes of MSCs cultured in HPL-supplemented media has been reported <abbrgrp><abbr bid="B8">8</abbr><abbr bid="B19">19</abbr><abbr bid="B20">20</abbr><abbr bid="B21">21</abbr><abbr bid="B25">25</abbr><abbr bid="B26">26</abbr></abbrgrp>.</p>
+         <p>We demonstrated that adherent cells expanded in HPL-supplemented media were multipotent since they were able to differentiate toward four mesenchymal pathways (adipogenic, osteogenic, chondrogenic, and VSM). Thus, we confirm (in addition to VSM pathway) the data of previous studies <abbrgrp><abbr bid="B19">19</abbr><abbr bid="B21">21</abbr><abbr bid="B22">22</abbr><abbr bid="B23">23</abbr><abbr bid="B27">27</abbr></abbrgrp>. However, in M3 containing 10% HPL, MSCs displayed a weak adipogenic differentiation with only a few vesicular adipocytes stained with Nile red.</p>
+         <p>To assess more precisely the differentiation state of MSCs after expansion in the different media studied and their subsequent differentiation potential, we studied the expression of several differentiation genes by RT-PCR and of proteins by Western blotting for adipogenic, osteogenic, and VSM lineages. These analyses revealed that BM-derived MSCs expanded in all media already express (at both mRNA and protein levels) all of these differentiation markers without any differentiation induction. These data are consistent with those of Delorme and colleagues who demonstrated that non-differentiated human BM-derived MSCs are characterized by lineage priming <abbrgrp><abbr bid="B28">28</abbr></abbrgrp>.</p>
+         <p>However, these markers decreased or even seemed to be absent at D0 (before induction) in the media containing the HPL as a supplement (M2, M3, and M4).</p>
+         <p>This includes early-appearing genes for adipogenic (<it>PPAR&#947; </it>and <it>LPL</it>), osteogenic (<it>RUNX2 </it>and <it>ALP</it>), and VSM (<it>ASMA</it>) lineages but also specific proteins of adipogenic (Leptin), osteogenic (CaSR and PTH), and VSM (ASMA and SM22&#945;) lineages. This HPL-induced differentiation defect of MSCs is rather due to an inhibition of adipogenic and osteogenic marker expression than to an expansion of a more immature MSC subpopulation as indicated by immunophenotypic analysis. Nevertheless, this inhibitory effect had no impact on real multipotency of MSCs, since they fully differentiated further toward adipogenic, osteogenic, chondrogenic, and VSM lineages.</p>
+         <p>To complete these phenotypical and functional studies, we investigated clonogenic and proliferative capacities of MSCs according to the presence or absence of HPL in expansion media. Clonogenic efficiency was evaluated within the MNC fraction initially seeded in the four different media from BM. HPL (alone or combined with FBS) did not affect the recruitment of the clonogenic MSC fraction with values ranging from 80 to 100 CFU-F per 10<sup>6 </sup>MNCs. This suggests that MSCs grown in such media are functionally close to those obtained in regular media (devoid of HPL). This parallels the lack of immunophenotypic changes for immature populations (CD49a and CD133) known to contain the clonogenic cell population <abbrgrp><abbr bid="B29">29</abbr><abbr bid="B30">30</abbr></abbrgrp>.</p>
+         <p>Although HPL-supplemented media did not modify clonogenic efficiency of BM-derived MNCs colonies appeared larger than in regular medium and were formed by small, densely packed, spindle-shaped cells. Such a growth-promoting effect on formed colonies suggests an impact of HPL on the proliferative capacity of MSCs. This was confirmed by calculating the PDT of MSCs between passage 1 and passage 2; the PDT was considerably shortened in all of the media containing HPL. This effect can be attributed to HPL itself since it was not enhanced by the presence of FBS. The only replacement of FBS by 5% HPL in BGM led to a maximal effect with about a fourfold reduction of PDT.</p>
+         <p>Thus, the use of HPL can be of particular interest in clinical applications to shorten human MSC culture duration and then minimize the risk of entering senescence and transformation <abbrgrp><abbr bid="B31">31</abbr></abbrgrp>. Higher growth-promoting activity of human substitutes for FBS (particularly HPL) on MSCs has been pointed out by several authors <abbrgrp><abbr bid="B12">12</abbr><abbr bid="B18">18</abbr><abbr bid="B19">19</abbr><abbr bid="B20">20</abbr><abbr bid="B22">22</abbr><abbr bid="B24">24</abbr><abbr bid="B27">27</abbr><abbr bid="B32">32</abbr><abbr bid="B33">33</abbr></abbrgrp>. Bieback and colleagues <abbrgrp><abbr bid="B21">21</abbr></abbrgrp> showed that only HPL-supplemented medium, in contrast to human sera- and platelet-enriched plasma, is able to increase the growth rate of MSCs cultured in FBS-supplemented medium. The high levels and numbers of platelet-derived growth factors contained in HPL are likely to be responsible for the accelerated growth rate of MSCs that could act in synergy with each other. Many growth factors have been found in platelet concentrates <abbrgrp><abbr bid="B27">27</abbr><abbr bid="B34">34</abbr></abbrgrp>. Among these, TGF-&#946;, PDGF, and FGF2 have been shown to be critical for both differentiation and proliferation of MSCs <abbrgrp><abbr bid="B35">35</abbr></abbrgrp>.</p>
+         <p>In addition, we assessed the cytokine secretion profile of MSCs expanded in regular medium (M1) and in three HPL-supplemented media (M2, M3, and M4). We used a multiplex bead-based immunoassay array to simultaneously measure concentrations of seven cytokines (FGF2, RANTES, VEGF, IL-6, IL-8, G-CSF, and GM-CSF) in MSC supernatants in comparison with corresponding media. All MSC supernatants contained IL-6, IL-8, and VEGF at variable levels according to the different expansion culture conditions, whereas FGF2, G-CSF, and GM-CSF remained undetectable in supernatants in all culture conditions of MSCs. The presence of HPL increased IL-6 and IL-8 concentrations, in particular, at 10%. Variations of RANTES expression cannot be evaluated, because of the high level of this chemokine in HPL-supplemented media, whereas consistent baseline levels were found in supernatants of MSCs cultured in regular medium. In fact, the expression cytokine profile in MSCs cultured in regular medium is now well established. We previously reported by mRNA array that MSCs express a number of tyrosine kinase receptor cytokines, including VEGF, Ang-1, PDGFA, FGF1 and 2, EGF, IGF-1, and HGF, but also a number of CC and CXC chemokines, including RANTES, MCP-1, GRO alpha and beta, IL-8, and SDF-1 <abbrgrp><abbr bid="B36">36</abbr></abbrgrp>. Similar results were found in other studies at the protein level by large-scale analysis <abbrgrp><abbr bid="B37">37</abbr><abbr bid="B38">38</abbr></abbrgrp>. Although constitutive expression of the hematopoietic growth factors G-CSF and GM-CSF, has also been reported in other studies <abbrgrp><abbr bid="B37">37</abbr><abbr bid="B39">39</abbr></abbrgrp>, these growth factors were not found in the present study. <b>{ </b>This may reflect technical differences with lower sensitivity (but higher specificity) of the Bio-Plex<sup>&#8482; </sup>technique, as indicated by the lack of detection of cytokines (except for RANTES) in HPL-containing media. Otherwise, we demonstrated here that secretion of both the pro-inflammatory and hematopoietic cytokine IL-6 and the chemokine IL-8 was increased in MSCs previously expanded in HPL-supplemented medium, as described elsewhere for IL-6 <abbrgrp><abbr bid="B21">21</abbr></abbrgrp>. This indicates that HPL contains strong inductors of such cytokines that could minimize the anti-inflammatory activity of MSCs.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Conclusions</p>
+         </st>
+         <p>MSCs can be expanded in media supplemented with HPL that can totally replace FBS as well as FGF2. HPL represents an important tool for clinical use to avoid animal-derived additives. HPL does not induce major phenotypical changes. Despite some variations in differentiation markers, MSCs retain their differentiation capacity toward four mesenchymal lineages. The clear growth-promoting activity of HPL can be particularly useful to shorten expansion culture duration of human MSCs to make their clinical-scale production safer.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Abbreviations</p>
+         </st>
+         <p>&#945;-MEM: alpha-minimum essential medium; <it>ALP</it>: alkaline phosphatase; ASMA: alpha smooth muscle actin; BGM: basic growth medium; BM: bone marrow; CaSR: calcium-sensing receptor; CFU-F: colony-forming unit-fibroblast; D0: day 0; D14: day 14; DMEM-HG: Dulbecco's modified Eagle's medium-high glucose; EDTA: ethylenediaminetetraacetic acid; FBS: fetal bovine serum; FGF2: fibroblast growth factor 2; FITC: fluorescein isothiocyanate; G-CSF: granulocyte colony-stimulating factor; GM-CSF: granulocyte-macrophage colony-stimulating factor; HPL: human platelet lysate; IL: interleukin; <it>LPL</it>: lipoprotein lipase; MNC: mononuclear cell; MSC: mesenchymal stem cell; P1: passage 1; P2: passage 2; PBS: phosphate-buffered saline; PDT: population doubling time; PE: phycoerythrin; PerCP: peridinin chlorophyll protein; <it>PPAR&#947;</it>: peroxisome proliferator-activated receptor-gamma; PTHR: parathormone receptor; RANTES: regulated on activation normal T cell expressed and secreted; RT-PCR: reverse transcription-polymerase chain reaction; <it>RUNX2</it>: Runt-related transcription factor 2; SM22&#945;: transgelin; TGF-&#946;: transforming growth factor-beta; VEGF: vascular endothelial growth factor; VSM: vascular smooth muscle.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Competing interests</p>
+         </st>
+         <p>The authors declare that they have no competing interests.</p>
+      </sec>
+   </bdy>
+   <bm>
+      <ack>
+         <sec>
+            <st>
+               <p>Acknowledgements</p>
+            </st>
+            <p>We gratefully acknowledge the collaborators from the Bone Marrow Graft National Centre of Tunisia (Tunis, Tunisia) for their fundamental cooperation in sample harvesting. We thank Philippe Rosset from the Orthopedics Department (H&#244;pital Trousseau, Tours, France) for providing us with bone marrow samples and Regaya Zohra, Rayess Lamia, Marie Christine Delos, Julien Gaillard, and Alain Langonn&#233; for their technical assistance. We are grateful to Hssine Ben Azouna (University of Letters of Manouba, Tunisia) for checking the manuscript for language mistakes.</p>
+         </sec>
+      </ack>
+      <refgrp>
+         <bibl id="B1">
+            <title>
+               <p>Mesenchymal stem cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Caplan</snm>
+                  <fnm>AI</fnm>
+               </au>
+            </aug>
+            <source>J Orthop Res</source>
+            <pubdate>1991</pubdate>
+            <volume>9</volume>
+            <fpage>641</fpage>
+            <lpage>650</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1002/jor.1100090504</pubid>
+                  <pubid idtype="pmpid">1870029</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B2">
+            <title>
+               <p>Marrow stromal cells as stem cells for nonhematopoietic tissues</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Prockop</snm>
+                  <fnm>DJ</fnm>
+               </au>
+            </aug>
+            <source>Science</source>
+            <pubdate>1997</pubdate>
+            <volume>276</volume>
+            <fpage>71</fpage>
+            <lpage>74</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1126/science.276.5309.71</pubid>
+                  <pubid idtype="pmpid">9082988</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B3">
+            <title>
+               <p>A quadripotential mesenchymal progenitor cell isolated from the marrow of an adult mouse</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Dennis</snm>
+                  <fnm>JE</fnm>
+               </au>
+               <au>
+                  <snm>Merriam</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Awadallah</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Yoo</snm>
+                  <fnm>JU</fnm>
+               </au>
+               <au>
+                  <snm>Johnstone</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Caplan</snm>
+                  <fnm>AI</fnm>
+               </au>
+            </aug>
+            <source>J Bone Miner Res</source>
+            <pubdate>1999</pubdate>
+            <volume>14</volume>
+            <fpage>700</fpage>
+            <lpage>709</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1359/jbmr.1999.14.5.700</pubid>
+                  <pubid idtype="pmpid" link="fulltext">10320518</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B4">
+            <title>
+               <p>Multilineage potential of adult human mesenchymal stem cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Pittenger</snm>
+                  <fnm>MF</fnm>
+               </au>
+               <au>
+                  <snm>Mackay</snm>
+                  <fnm>AM</fnm>
+               </au>
+               <au>
+                  <snm>Beck</snm>
+                  <fnm>SC</fnm>
+               </au>
+               <au>
+                  <snm>Jaiswal</snm>
+                  <fnm>RK</fnm>
+               </au>
+               <au>
+                  <snm>Douglas</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Mosca</snm>
+                  <fnm>JD</fnm>
+               </au>
+               <au>
+                  <snm>Moorman</snm>
+                  <fnm>MA</fnm>
+               </au>
+               <au>
+                  <snm>Simonetti</snm>
+                  <fnm>DW</fnm>
+               </au>
+               <au>
+                  <snm>Craig</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Marshak</snm>
+                  <fnm>DR</fnm>
+               </au>
+            </aug>
+            <source>Science</source>
+            <pubdate>1999</pubdate>
+            <volume>284</volume>
+            <fpage>143</fpage>
+            <lpage>147</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1126/science.284.5411.143</pubid>
+                  <pubid idtype="pmpid">10102814</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B5">
+            <title>
+               <p>Cultured adherent cells from marrow can serve as long-lasting precursor cells for bone, cartilage, and lung in irradiated mice</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Pereira</snm>
+                  <fnm>RF</fnm>
+               </au>
+               <au>
+                  <snm>Halford</snm>
+                  <fnm>KW</fnm>
+               </au>
+               <au>
+                  <snm>O'Hara</snm>
+                  <fnm>MD</fnm>
+               </au>
+               <au>
+                  <snm>Leeper</snm>
+                  <fnm>DB</fnm>
+               </au>
+               <au>
+                  <snm>Sokolov</snm>
+                  <fnm>BP</fnm>
+               </au>
+               <au>
+                  <snm>Pollard</snm>
+                  <fnm>MD</fnm>
+               </au>
+               <au>
+                  <snm>Bagasra</snm>
+                  <fnm>O</fnm>
+               </au>
+               <au>
+                  <snm>Prockop</snm>
+                  <fnm>DJ</fnm>
+               </au>
+            </aug>
+            <source>Proc Natl Acad Sci USA</source>
+            <pubdate>1995</pubdate>
+            <volume>92</volume>
+            <fpage>4857</fpage>
+            <lpage>4861</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1073/pnas.92.11.4857</pubid>
+                  <pubid idtype="pmcid">41806</pubid>
+                  <pubid idtype="pmpid" link="fulltext">7761413</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B6">
+            <title>
+               <p>Transplantability and therapeutic effects of bone marrow-derived mesenchymal cells in children with osteogenesis imperfecta</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Horwitz</snm>
+                  <fnm>EM</fnm>
+               </au>
+               <au>
+                  <snm>Prockop</snm>
+                  <fnm>DJ</fnm>
+               </au>
+               <au>
+                  <snm>Fitzpatrick</snm>
+                  <fnm>LA</fnm>
+               </au>
+               <au>
+                  <snm>Koo</snm>
+                  <fnm>WW</fnm>
+               </au>
+               <au>
+                  <snm>Gordon</snm>
+                  <fnm>PL</fnm>
+               </au>
+               <au>
+                  <snm>Neel</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Sussman</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Orchard</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Marx</snm>
+                  <fnm>JC</fnm>
+               </au>
+               <au>
+                  <snm>Pyeritz</snm>
+                  <fnm>RE</fnm>
+               </au>
+               <au>
+                  <snm>Brenner</snm>
+                  <fnm>MK</fnm>
+               </au>
+            </aug>
+            <source>Nat Med</source>
+            <pubdate>1999</pubdate>
+            <volume>5</volume>
+            <fpage>309</fpage>
+            <lpage>313</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/6529</pubid>
+                  <pubid idtype="pmpid" link="fulltext">10086387</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B7">
+            <title>
+               <p>Isolation of mesenchymal stem cells of fetal or maternal origin from human placenta</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>In 't Anker</snm>
+                  <fnm>PS</fnm>
+               </au>
+               <au>
+                  <snm>Scherjon</snm>
+                  <fnm>SA</fnm>
+               </au>
+               <au>
+                  <snm>Kleijburg-van der Keur</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>de Groot-Swings</snm>
+                  <fnm>GM</fnm>
+               </au>
+               <au>
+                  <snm>Claas</snm>
+                  <fnm>FH</fnm>
+               </au>
+               <au>
+                  <snm>Fibbe</snm>
+                  <fnm>WE</fnm>
+               </au>
+               <au>
+                  <snm>Kanhai</snm>
+                  <fnm>HH</fnm>
+               </au>
+            </aug>
+            <source>Stem Cells</source>
+            <pubdate>2004</pubdate>
+            <volume>22</volume>
+            <fpage>1338</fpage>
+            <lpage>1345</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1634/stemcells.2004-0058</pubid>
+                  <pubid idtype="pmpid" link="fulltext">15579651</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B8">
+            <title>
+               <p>Mesenchymal progenitor cells in human umbilical cord blood</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Erices</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Conget</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Minguell</snm>
+                  <fnm>JJ</fnm>
+               </au>
+            </aug>
+            <source>Br J Haematol</source>
+            <pubdate>2000</pubdate>
+            <volume>109</volume>
+            <fpage>235</fpage>
+            <lpage>242</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1046/j.1365-2141.2000.01986.x</pubid>
+                  <pubid idtype="pmpid" link="fulltext">10848804</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B9">
+            <title>
+               <p>Isolation of multipotent mesenchymal stem cells from umbilical cord blood</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Lee</snm>
+                  <fnm>OK</fnm>
+               </au>
+               <au>
+                  <snm>Kuo</snm>
+                  <fnm>TK</fnm>
+               </au>
+               <au>
+                  <snm>Chen</snm>
+                  <fnm>WM</fnm>
+               </au>
+               <au>
+                  <snm>Lee</snm>
+                  <fnm>KD</fnm>
+               </au>
+               <au>
+                  <snm>Hsieh</snm>
+                  <fnm>SL</fnm>
+               </au>
+               <au>
+                  <snm>Chen</snm>
+                  <fnm>TH</fnm>
+               </au>
+            </aug>
+            <source>Blood</source>
+            <pubdate>2004</pubdate>
+            <volume>103</volume>
+            <fpage>1669</fpage>
+            <lpage>1675</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1182/blood-2003-05-1670</pubid>
+                  <pubid idtype="pmpid" link="fulltext">14576065</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B10">
+            <title>
+               <p>Isolation of multipotent cells from human term placenta</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Yen</snm>
+                  <fnm>BL</fnm>
+               </au>
+               <au>
+                  <snm>Huang</snm>
+                  <fnm>HI</fnm>
+               </au>
+               <au>
+                  <snm>Chien</snm>
+                  <fnm>CC</fnm>
+               </au>
+               <au>
+                  <snm>Jui</snm>
+                  <fnm>HY</fnm>
+               </au>
+               <au>
+                  <snm>Ko</snm>
+                  <fnm>BS</fnm>
+               </au>
+               <au>
+                  <snm>Yao</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Shun</snm>
+                  <fnm>CT</fnm>
+               </au>
+               <au>
+                  <snm>Yen</snm>
+                  <fnm>ML</fnm>
+               </au>
+               <au>
+                  <snm>Lee</snm>
+                  <fnm>MC</fnm>
+               </au>
+               <au>
+                  <snm>Chen</snm>
+                  <fnm>YC</fnm>
+               </au>
+            </aug>
+            <source>Stem Cells</source>
+            <pubdate>2005</pubdate>
+            <volume>23</volume>
+            <fpage>3</fpage>
+            <lpage>9</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1634/stemcells.2004-0098</pubid>
+                  <pubid idtype="pmpid" link="fulltext">15625118</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B11">
+            <title>
+               <p>Comparative analysis of mesenchymal stem cells from bone marrow, umbilical cord blood, or adipose tissue</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Kern</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Eichler</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Stoeve</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Kluter</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Bieback</snm>
+                  <fnm>K</fnm>
+               </au>
+            </aug>
+            <source>Stem Cells</source>
+            <pubdate>2006</pubdate>
+            <volume>24</volume>
+            <fpage>1294</fpage>
+            <lpage>1301</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1634/stemcells.2005-0342</pubid>
+                  <pubid idtype="pmpid" link="fulltext">16410387</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B12">
+            <title>
+               <p>Age-related decline in the osteogenic potential of human bone marrow cells cultured in three-dimensional collagen sponges</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Mueller</snm>
+                  <fnm>SM</fnm>
+               </au>
+               <au>
+                  <snm>Glowacki</snm>
+                  <fnm>J</fnm>
+               </au>
+            </aug>
+            <source>J Cell Biochem</source>
+            <pubdate>2001</pubdate>
+            <volume>82</volume>
+            <fpage>583</fpage>
+            <lpage>590</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1002/jcb.1174</pubid>
+                  <pubid idtype="pmpid" link="fulltext">11500936</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B13">
+            <title>
+               <p>Isolation of a highly clonogenic and multipotential subfraction of adult stem cells from bone marrow stroma</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Smith</snm>
+                  <fnm>JR</fnm>
+               </au>
+               <au>
+                  <snm>Pochampally</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Perry</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Hsu</snm>
+                  <fnm>SC</fnm>
+               </au>
+               <au>
+                  <snm>Prockop</snm>
+                  <fnm>DJ</fnm>
+               </au>
+            </aug>
+            <source>Stem Cells</source>
+            <pubdate>2004</pubdate>
+            <volume>22</volume>
+            <fpage>823</fpage>
+            <lpage>831</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1634/stemcells.22-5-823</pubid>
+                  <pubid idtype="pmpid" link="fulltext">15342946</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B14">
+            <title>
+               <p>Serum-free hybridoma culture: ethical, scientific and safety considerations</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Even</snm>
+                  <fnm>MS</fnm>
+               </au>
+               <au>
+                  <snm>Sandusky</snm>
+                  <fnm>CB</fnm>
+               </au>
+               <au>
+                  <snm>Barnard</snm>
+                  <fnm>ND</fnm>
+               </au>
+            </aug>
+            <source>Trends Biotechnol</source>
+            <pubdate>2006</pubdate>
+            <volume>24</volume>
+            <fpage>105</fpage>
+            <lpage>108</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.tibtech.2006.01.001</pubid>
+                  <pubid idtype="pmpid" link="fulltext">16427150</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B15">
+            <title>
+               <p>Immune response to fetal calf serum by two adenosine deaminase-deficient patients after T cell gene therapy</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Tuschong</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Soenen</snm>
+                  <fnm>SL</fnm>
+               </au>
+               <au>
+                  <snm>Blaese</snm>
+                  <fnm>RM</fnm>
+               </au>
+               <au>
+                  <snm>Candotti</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Muul</snm>
+                  <fnm>LM</fnm>
+               </au>
+            </aug>
+            <source>Hum Gene Ther</source>
+            <pubdate>2002</pubdate>
+            <volume>13</volume>
+            <fpage>1605</fpage>
+            <lpage>1610</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1089/10430340260201699</pubid>
+                  <pubid idtype="pmpid" link="fulltext">12228015</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B16">
+            <title>
+               <p>Human placenta and bone marrow derived MSC cultured in serum-free, b-FGF-containing medium express cell surface frizzled-9 and SSEA-4 and give rise to multilineage differentiation</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Battula</snm>
+                  <fnm>VL</fnm>
+               </au>
+               <au>
+                  <snm>Bareiss</snm>
+                  <fnm>PM</fnm>
+               </au>
+               <au>
+                  <snm>Treml</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Conrad</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Albert</snm>
+                  <fnm>I</fnm>
+               </au>
+               <au>
+                  <snm>Hojak</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Abele</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Schewe</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Just</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Skutella</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>B&#252;hring</snm>
+                  <fnm>HJ</fnm>
+               </au>
+            </aug>
+            <source>Differentiation</source>
+            <pubdate>2007</pubdate>
+            <volume>75</volume>
+            <fpage>279</fpage>
+            <lpage>291</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1111/j.1432-0436.2006.00139.x</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17288545</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B17">
+            <title>
+               <p>Autologous serum for isolation and expansion of human mesenchymal stem cells for clinical use</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Stute</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Holtz</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Bubenheim</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Lange</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Blake</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Zander</snm>
+                  <fnm>AR</fnm>
+               </au>
+            </aug>
+            <source>Exp Hematol</source>
+            <pubdate>2004</pubdate>
+            <volume>32</volume>
+            <fpage>1212</fpage>
+            <lpage>1225</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.exphem.2004.09.003</pubid>
+                  <pubid idtype="pmpid" link="fulltext">15588946</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B18">
+            <title>
+               <p>Properties and growth of human bone marrow mesenchymal stromal cells cultivated in different media</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Turnovcova</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Ruzickova</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Vanecek</snm>
+                  <fnm>V</fnm>
+               </au>
+               <au>
+                  <snm>Sykova</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Jendelova</snm>
+                  <fnm>P</fnm>
+               </au>
+            </aug>
+            <source>Cytotherapy</source>
+            <pubdate>2009</pubdate>
+            <volume>11</volume>
+            <fpage>874</fpage>
+            <lpage>885</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.3109/14653240903188947</pubid>
+                  <pubid idtype="pmpid" link="fulltext">19903100</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B19">
+            <title>
+               <p>Human platelet lysate can replace fetal bovine serum for clinical-scale expansion of functional mesenchymal stromal cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Schallmoser</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Bartmann</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Rohde</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Reinisch</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Kashofer</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Stadelmeyer</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Drexler</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Lanzer</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Linkesch</snm>
+                  <fnm>W</fnm>
+               </au>
+               <au>
+                  <snm>Strunk</snm>
+                  <fnm>D</fnm>
+               </au>
+            </aug>
+            <source>Transfusion</source>
+            <pubdate>2007</pubdate>
+            <volume>47</volume>
+            <fpage>1436</fpage>
+            <lpage>1446</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1111/j.1537-2995.2007.01220.x</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17655588</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B20">
+            <title>
+               <p>Human platelet lysate allows expansion and clinical grade production of mesenchymal stromal cells from small samples of bone marrow aspirates or marrow filter washouts</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Capelli</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Domenghini</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Borleri</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Bellavita</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Poma</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Carobbio</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Mic&#242;</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Rambaldi</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Golay</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Introna</snm>
+                  <fnm>M</fnm>
+               </au>
+            </aug>
+            <source>Bone Marrow Transplant</source>
+            <pubdate>2007</pubdate>
+            <volume>40</volume>
+            <fpage>785</fpage>
+            <lpage>791</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/sj.bmt.1705798</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17680021</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B21">
+            <title>
+               <p>Human alternatives to fetal bovine serum for the expansion of mesenchymal stromal cells from bone marrow</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Bieback</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Hecker</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Kocaomer</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Lannert</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Schallmoser</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Strunk</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Ter</snm>
+                  <fnm>H</fnm>
+               </au>
+            </aug>
+            <source>Stem Cells</source>
+            <pubdate>2009</pubdate>
+            <volume>27</volume>
+            <fpage>2331</fpage>
+            <lpage>2341</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1002/stem.139</pubid>
+                  <pubid idtype="pmpid" link="fulltext">19544413</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B22">
+            <title>
+               <p>Animal serum-free culture conditions for isolation and expansion of multipotent mesenchymal stromal cells from human BM</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Muller</snm>
+                  <fnm>I</fnm>
+               </au>
+               <au>
+                  <snm>Kordowich</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Holzwarth</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Spano</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Isensee</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Staiber</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Viebahn</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Gieseke</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Langer</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Gawaz</snm>
+                  <fnm>MP</fnm>
+               </au>
+               <au>
+                  <snm>Horwitz</snm>
+                  <fnm>EM</fnm>
+               </au>
+               <au>
+                  <snm>Conte</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Handgretinger</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Dominici</snm>
+                  <fnm>M</fnm>
+               </au>
+            </aug>
+            <source>Cytotherapy</source>
+            <pubdate>2006</pubdate>
+            <volume>8</volume>
+            <fpage>437</fpage>
+            <lpage>444</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1080/14653240600920782</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17050248</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B23">
+            <title>
+               <p>Optimization of <it>in vitro </it>expansion of human multipotent mesenchymal stromal cells for cell-therapy approaches: further insights in the search for a fetal calf serum substitute</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Bernardo</snm>
+                  <fnm>ME</fnm>
+               </au>
+               <au>
+                  <snm>Avanzini</snm>
+                  <fnm>MA</fnm>
+               </au>
+               <au>
+                  <snm>Perotti</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Cometa</snm>
+                  <fnm>AM</fnm>
+               </au>
+               <au>
+                  <snm>Moretta</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Lenta</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Del Fante</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Novara</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>de Silvestri</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Amendola</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Zuffardi</snm>
+                  <fnm>O</fnm>
+               </au>
+               <au>
+                  <snm>Maccario</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Locatelli</snm>
+                  <fnm>F</fnm>
+               </au>
+            </aug>
+            <source>J Cell Physiol</source>
+            <pubdate>2007</pubdate>
+            <volume>211</volume>
+            <fpage>121</fpage>
+            <lpage>130</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1002/jcp.20911</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17187344</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B24">
+            <title>
+               <p>Accelerated and safe expansion of human mesenchymal stromal cells in animal serum-free medium for transplantation and regenerative medicine</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Lange</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Cakiroglu</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Spiess</snm>
+                  <fnm>AN</fnm>
+               </au>
+               <au>
+                  <snm>Cappallo-Obermann</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Dierlamm</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Zander</snm>
+                  <fnm>AR</fnm>
+               </au>
+            </aug>
+            <source>J Cell Physiol</source>
+            <pubdate>2007</pubdate>
+            <volume>213</volume>
+            <fpage>18</fpage>
+            <lpage>26</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1002/jcp.21081</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17458897</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B25">
+            <title>
+               <p>Humanized system to propagate cord blood-derived multipotent mesenchymal stromal cells for clinical application</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Reinisch</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Bartmann</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Rohde</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Schallmoser</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Bjelic-Radisic</snm>
+                  <fnm>V</fnm>
+               </au>
+               <au>
+                  <snm>Lanzer</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Linkesch</snm>
+                  <fnm>W</fnm>
+               </au>
+               <au>
+                  <snm>Strunk</snm>
+                  <fnm>D</fnm>
+               </au>
+            </aug>
+            <source>Regen Med</source>
+            <pubdate>2007</pubdate>
+            <volume>2</volume>
+            <fpage>371</fpage>
+            <lpage>382</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.2217/17460751.2.4.371</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17635045</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B26">
+            <title>
+               <p>Human mesenchymal stromal cells from adult and neonatal sources: comparative analysis of their morphology, immunophenotype, differentiation patterns and neural protein expression</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Montesinos</snm>
+                  <fnm>JJ</fnm>
+               </au>
+               <au>
+                  <snm>Flores-Figueroa</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Castillo-Medina</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Flores-Guzm&#225;n</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Hern&#225;ndez-Est&#233;vez</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Fajardo-Ordu&#241;a</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Orozco</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Mayani</snm>
+                  <fnm>H</fnm>
+               </au>
+            </aug>
+            <source>Cytotherapy</source>
+            <pubdate>2009</pubdate>
+            <volume>11</volume>
+            <fpage>163</fpage>
+            <lpage>176</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1080/14653240802582075</pubid>
+                  <pubid idtype="pmpid" link="fulltext">19152152</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B27">
+            <title>
+               <p>Platelet lysates promote mesenchymal stem cell expansion: a safety substitute for animal serum in cell-based therapy applications</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Doucet</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Ernou</snm>
+                  <fnm>I</fnm>
+               </au>
+               <au>
+                  <snm>Zhang</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Llense</snm>
+                  <fnm>J-R</fnm>
+               </au>
+               <au>
+                  <snm>Begot</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Holy</snm>
+                  <fnm>X</fnm>
+               </au>
+               <au>
+                  <snm>Lataillade</snm>
+                  <fnm>JJ</fnm>
+               </au>
+            </aug>
+            <source>J Cell Physiol</source>
+            <pubdate>2005</pubdate>
+            <volume>205</volume>
+            <fpage>228</fpage>
+            <lpage>236</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1002/jcp.20391</pubid>
+                  <pubid idtype="pmpid" link="fulltext">15887229</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B28">
+            <title>
+               <p>Specific lineage-priming of bone marrow mesenchymal stem cells provides the molecular framework for their plasticity</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Delorme</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Ringe</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Pontikoglou</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Gaillard</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Langonn&#233;</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Senseb&#233;</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>No&#235;l</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Jorgensen</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>H&#228;upl</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Charbord</snm>
+                  <fnm>P</fnm>
+               </au>
+            </aug>
+            <source>Stem Cells</source>
+            <pubdate>2009</pubdate>
+            <volume>27</volume>
+            <fpage>1142</fpage>
+            <lpage>1151</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1002/stem.34</pubid>
+                  <pubid idtype="pmpid" link="fulltext">19418444</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B29">
+            <title>
+               <p>Direct selection of human bone marrow mesenchymal stem cells using an anti-CD49a antibody reveals their CD45med, low phenotype</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Deschaseaux</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Gindraux</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Saadi</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Obert</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Chalmers</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Herve</snm>
+                  <fnm>P</fnm>
+               </au>
+            </aug>
+            <source>Br J Haematol</source>
+            <pubdate>2003</pubdate>
+            <volume>122</volume>
+            <fpage>506</fpage>
+            <lpage>517</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1046/j.1365-2141.2003.04469.x</pubid>
+                  <pubid idtype="pmpid">12877680</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B30">
+            <title>
+               <p>Mesenchymal stem cells derived from CD133-positive cells in mobilized peripheral blood and cord blood: proliferation, Oct4 expression, and plasticity</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Tondreau</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Meuleman</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Delforge</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Dejeneffe</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Leroy</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Massy</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Mortier</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Bron</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Lagneaux</snm>
+                  <fnm>L</fnm>
+               </au>
+            </aug>
+            <source>Stem Cells</source>
+            <pubdate>2005</pubdate>
+            <volume>23</volume>
+            <fpage>1105</fpage>
+            <lpage>1112</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1634/stemcells.2004-0330</pubid>
+                  <pubid idtype="pmpid" link="fulltext">15955825</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B31">
+            <title>
+               <p>Spontaneous human adult stem cell transformation</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Rubio</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Garcia-Castro</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Mart&#237;n</snm>
+                  <fnm>MC</fnm>
+               </au>
+               <au>
+                  <snm>de la Fuente</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Cigudosa</snm>
+                  <fnm>JC</fnm>
+               </au>
+               <au>
+                  <snm>Lloyd</snm>
+                  <fnm>AC</fnm>
+               </au>
+               <au>
+                  <snm>Bernad</snm>
+                  <fnm>A</fnm>
+               </au>
+            </aug>
+            <source>Cancer Res</source>
+            <pubdate>2005</pubdate>
+            <volume>65</volume>
+            <fpage>3035</fpage>
+            <lpage>3039</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid" link="fulltext">15833829</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B32">
+            <title>
+               <p>Adipose tissue mesenchymal stem cell expansion in animal serum-free medium supplemented with autologous human platelet lysate</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Blande</snm>
+                  <fnm>IS</fnm>
+               </au>
+               <au>
+                  <snm>Bassaneze</snm>
+                  <fnm>V</fnm>
+               </au>
+               <au>
+                  <snm>Lavini-Ramos</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Fae</snm>
+                  <fnm>KC</fnm>
+               </au>
+               <au>
+                  <snm>Kalil</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Miyakawa</snm>
+                  <fnm>AA</fnm>
+               </au>
+               <au>
+                  <snm>Schettert</snm>
+                  <fnm>IT</fnm>
+               </au>
+               <au>
+                  <snm>Krieger</snm>
+                  <fnm>JE</fnm>
+               </au>
+            </aug>
+            <source>Transfusion</source>
+            <pubdate>2009</pubdate>
+            <volume>49</volume>
+            <fpage>2680</fpage>
+            <lpage>2685</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1111/j.1537-2995.2009.02346.x</pubid>
+                  <pubid idtype="pmpid" link="fulltext">19694997</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B33">
+            <title>
+               <p>Osteoblastic differentiation of human mesenchymal stem cells with platelet lysate</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Chevallier</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Anagnostou</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Zilber</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Bodivit</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Maurin</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Barrault</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Bierling</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Hernigou</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Layrolle</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Rouard</snm>
+                  <fnm>H</fnm>
+               </au>
+            </aug>
+            <source>Biomaterials</source>
+            <pubdate>2010</pubdate>
+            <volume>31</volume>
+            <fpage>270</fpage>
+            <lpage>278</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.biomaterials.2009.09.043</pubid>
+                  <pubid idtype="pmpid" link="fulltext">19783038</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B34">
+            <title>
+               <p>Platelet-rich plasma: quantification of growth factor levels and the effect on growth and differentiation of rat bone marrow cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>van den Dolder</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Mooren</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Vloon</snm>
+                  <fnm>APG</fnm>
+               </au>
+               <au>
+                  <snm>Stoelinga</snm>
+                  <fnm>PJW</fnm>
+               </au>
+               <au>
+                  <snm>Jansen</snm>
+                  <fnm>JA</fnm>
+               </au>
+            </aug>
+            <source>Tissue Eng</source>
+            <pubdate>2006</pubdate>
+            <volume>12</volume>
+            <fpage>3067</fpage>
+            <lpage>3073</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1089/ten.2006.12.3067</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17518622</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B35">
+            <title>
+               <p>PDGF, TGF-beta, and FGF signaling is important for differentiation and growth of mesenchymal stem cells (MSCs): transcriptional profiling can identify markers and signaling pathways important in differentiation of MSCs into adipogenic, chondrogenic, and osteogenic lineages</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Ng</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Boucher</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Koh</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Sastry</snm>
+                  <fnm>KS</fnm>
+               </au>
+               <au>
+                  <snm>Chase</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Lakshmipathy</snm>
+                  <fnm>U</fnm>
+               </au>
+               <au>
+                  <snm>Choong</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Yang</snm>
+                  <fnm>Z</fnm>
+               </au>
+               <au>
+                  <snm>Vemuri</snm>
+                  <fnm>MC</fnm>
+               </au>
+               <au>
+                  <snm>Rao</snm>
+                  <fnm>MS</fnm>
+               </au>
+               <au>
+                  <snm>Tanavde</snm>
+                  <fnm>V</fnm>
+               </au>
+            </aug>
+            <source>Blood</source>
+            <pubdate>2008</pubdate>
+            <volume>112</volume>
+            <fpage>295</fpage>
+            <lpage>307</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1182/blood-2007-07-103697</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18332228</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B36">
+            <title>
+               <p>The <it>in vitro </it>migration capacity of human bone marrow mesenchymal stem cells: comparison of chemokine and growth factor chemotactic activities</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Ponte</snm>
+                  <fnm>AL</fnm>
+               </au>
+               <au>
+                  <snm>Marais</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Gallay</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Langonne</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Delorme</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Herault</snm>
+                  <fnm>O</fnm>
+               </au>
+               <au>
+                  <snm>Charbord</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Domenech</snm>
+                  <fnm>J</fnm>
+               </au>
+            </aug>
+            <source>Stem Cells</source>
+            <pubdate>2007</pubdate>
+            <volume>25</volume>
+            <fpage>1737</fpage>
+            <lpage>1745</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1634/stemcells.2007-0054</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17395768</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B37">
+            <title>
+               <p>Veto-like activity of mesenchymal stem cells: functional discrimination between cellular responses to alloantigens and recall antigens</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Potian</snm>
+                  <fnm>JA</fnm>
+               </au>
+               <au>
+                  <snm>Aviv</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Ponzio</snm>
+                  <fnm>NM</fnm>
+               </au>
+               <au>
+                  <snm>Harrison</snm>
+                  <fnm>JS</fnm>
+               </au>
+               <au>
+                  <snm>Rameshwar</snm>
+                  <fnm>P</fnm>
+               </au>
+            </aug>
+            <source>J Immunol</source>
+            <pubdate>2003</pubdate>
+            <volume>171</volume>
+            <fpage>3426</fpage>
+            <lpage>3434</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid" link="fulltext">14500637</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B38">
+            <title>
+               <p><it>In vitro </it>secreting profile of human mesenchymal stem cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Schink&#246;the</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Bloch</snm>
+                  <fnm>W</fnm>
+               </au>
+               <au>
+                  <snm>Schmidt</snm>
+                  <fnm>A</fnm>
+               </au>
+            </aug>
+            <source>Stem Cells Dev</source>
+            <pubdate>2008</pubdate>
+            <volume>17</volume>
+            <fpage>199</fpage>
+            <lpage>206</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1089/scd.2007.0175</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18208373</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B39">
+            <title>
+               <p>Cytokine expression by human marrow-derived mesenchymal progenitor cells <it>in vitro</it>: effects of dexamethasone and IL-1 alpha</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Haynesworth</snm>
+                  <fnm>SE</fnm>
+               </au>
+               <au>
+                  <snm>Baber</snm>
+                  <fnm>MA</fnm>
+               </au>
+               <au>
+                  <snm>Caplan</snm>
+                  <fnm>AI</fnm>
+               </au>
+            </aug>
+            <source>J Cell Physiol</source>
+            <pubdate>1996</pubdate>
+            <volume>166</volume>
+            <fpage>585</fpage>
+            <lpage>592</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1002/(SICI)1097-4652(199603)166:3&lt;585::AID-JCP13>3.0.CO;2-6</pubid>
+                  <pubid idtype="pmpid">8600162</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+      </refgrp>
+   </bm>
+</art>

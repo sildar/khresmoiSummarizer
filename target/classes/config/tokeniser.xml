@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <config>
 	<word>
-		<abbreviations>ENabbreviations.txt</abbreviations>
+		<abbreviations>abbreviations.txt</abbreviations>
 	</word>
 	<sentence>
 		<badStart>bad_sent_start.txt</badStart>

@@ -1,0 +1,2274 @@
+<!DOCTYPE art SYSTEM "article.dtd">
+<art>
+   <ui>scrt6</ui>
+   <ji>1757-6512</ji>
+   <fm>
+      <dochead>Research</dochead>
+      <bibl>
+         <title>
+            <p>Switching of mesodermal and endodermal properties in hTERT-modified and expanded fetal human pancreatic progenitor cells</p>
+         </title>
+         <aug>
+            <au id="A1">
+               <snm>Cheng</snm>
+               <fnm>Kang</fnm>
+               <insr iid="I1"/>
+               <email>kcheng@aecom.yu.edu</email>
+            </au>
+            <au id="A2">
+               <snm>Follenzi</snm>
+               <fnm>Antonia</fnm>
+               <insr iid="I2"/>
+               <email>follenz@aecom.yu.edu</email>
+            </au>
+            <au id="A3">
+               <snm>Surana</snm>
+               <fnm>Manju</fnm>
+               <insr iid="I3"/>
+               <email>surana@aecom.yu.edu</email>
+            </au>
+            <au id="A4">
+               <snm>Fleischer</snm>
+               <fnm>Norman</fnm>
+               <insr iid="I3"/>
+               <email>fleisch@aecom.yu.edu</email>
+            </au>
+            <au ca="yes" id="A5">
+               <snm>Gupta</snm>
+               <fnm>Sanjeev</fnm>
+               <insr iid="I4"/>
+               <email>sanjvgupta@pol.net</email>
+            </au>
+         </aug>
+         <insg>
+            <ins id="I1">
+               <p>Hepatology Division, Department of Medicine, Albert Einstein College of Medicine, Ullmann Bldg., Rm 625, 1300 Morris Park Avenue, Bronx, NY 10461, USA</p>
+            </ins>
+            <ins id="I2">
+               <p>Department of Pathology, Albert Einstein College of Medicine, Ullmann Bldg., Rm 625, 1300 Morris Park Avenue, Bronx, NY 10461, USA</p>
+            </ins>
+            <ins id="I3">
+               <p>Endocrinology Division, Department of Medicine, Diabetes Research Center, Albert Einstein College of Medicine, Forchheimer Bldg., Rm 505, 1300 Morris Park Avenue, Bronx, NY 10461, USA</p>
+            </ins>
+            <ins id="I4">
+               <p>Hepatology Division, Department of Medicine, Cancer Research Center, Diabetes Research Center, Center for Human Embryonic Stem Cell Research, Marion Bessin Liver Research Center, Ruth L. and David S. Gottesman Institute for Stem Cell and Regenerative Medicine Research, and Institute for Clinical and Translational Research, Albert Einstein College of Medicine, Ullmann Bldg., Rm 625, 1300 Morris Park Avenue, Bronx, NY 10461, USA</p>
+            </ins>
+         </insg>
+         <source>Stem Cell Research &amp; Therapy</source>
+         <issn>1757-6512</issn>
+         <pubdate>2010</pubdate>
+         <volume>1</volume>
+         <issue>1</issue>
+         <fpage>6</fpage>
+         <url>http://stemcellres.com/content/1/1/6</url>
+         <xrefbib>
+            <pubid idtype="doi">10.1186/scrt6</pubid>
+         </xrefbib>
+      </bibl>
+      <history>
+         <rec>
+            <date>
+               <day>3</day>
+               <month>7</month>
+               <year>2009</year>
+            </date>
+         </rec>
+         <revreq>
+            <date>
+               <day>28</day>
+               <month>8</month>
+               <year>2009</year>
+            </date>
+         </revreq>
+         <revrec>
+            <date>
+               <day>14</day>
+               <month>9</month>
+               <year>2009</year>
+            </date>
+         </revrec>
+         <acc>
+            <date>
+               <day>15</day>
+               <month>3</month>
+               <year>2010</year>
+            </date>
+         </acc>
+         <pub>
+            <date>
+               <day>15</day>
+               <month>3</month>
+               <year>2010</year>
+            </date>
+         </pub>
+      </history>
+      <cpyrt>
+         <year>2010</year>
+         <collab>Cheng et al.; licensee BioMed Central Ltd.</collab>
+         <note>This is an open access article distributed under the terms of the Creative Commons Attribution License (<url>http://creativecommons.org/licenses/by/2.0</url>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</note>
+      </cpyrt>
+      <abs>
+         <sec>
+            <st>
+               <p>Abstract</p>
+            </st>
+            <sec>
+               <st>
+                  <p>Introduction</p>
+               </st>
+               <p>The ability to expand organ-specific stem/progenitor cells is critical for translational applications, although uncertainties often arise in identifying the lineage of expanded cells. Therefore, superior insights into lineage maintenance mechanisms will be helpful for cell/gene therapy.</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>Methods</p>
+               </st>
+               <p>We studied epithelial cells isolated from fetal human pancreas to assess their proliferation potential, changes in lineage markers during culture, and capacity for generating insulin-expressing beta cells. Cells were isolated by immunomagnetic sorting for epithelial cell adhesion molecule (EpCAM), and characterized for islet-associated transcription factors, hormones, and ductal markers. Further studies were performed after modification of cells with the catalytic subunit of human telomerase reverse transcriptase (hTERT).</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>Results</p>
+               </st>
+               <p>Fetal pancreatic progenitor cells efficiently formed primary cultures, although their replication capacity was limited. This was overcome by introduction and expression of hTERT with a retroviral vector, which greatly enhanced cellular replication <it>in vitro</it>. However, we found that during culture hTERT-modified pancreatic progenitor cells switched their phenotype with gain of additional mesodermal properties. This phenotypic switching was inhibited when a pancreas-duodenal homeobox (Pdx)-1 transgene was expressed in hTERT-modified cells with a lentiviral vector, along with inductive signaling through activin A and serum deprivation. This restored endocrine properties of hTERT-modified cells <it>in vitro</it>. Moreover, transplantation studies in immunodeficient mice verified the capacity of these cells for expressing insulin <it>in vivo</it>.</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>Conclusions</p>
+               </st>
+               <p>Limited replication capacity of pancreatic endocrine progenitor cells was overcome by the hTERT mechanism, which should facilitate further studies of such cells, although mechanisms regulating switches between meso-endodermal fates of expanded cells will need to be controlled for developing specific applications. The availability of hTERT-expanded fetal pancreatic endocrine progenitor cells will be helpful for studying and recapitulating stage-specific beta lineage advancement in pluripotent stem cells.</p>
+            </sec>
+         </sec>
+      </abs>
+   </fm>
+   <bdy>
+      <sec>
+         <st>
+            <p>Introduction</p>
+         </st>
+         <p>Cell therapy for diabetes mellitus will be advanced by the availability of additional donor cells. Islet cells may originate from pancreatic ductal or other epithelial cells, especially after damage in the adult pancreas <abbrgrp><abbr bid="B1">1</abbr><abbr bid="B2">2</abbr></abbrgrp>. However, the replication potential of human pancreatic islet cells is limited, which generally restricts expansion of these cells under culture conditions <abbrgrp><abbr bid="B3">3</abbr></abbrgrp>. Although cell lines have been generated by oncogenetic transformation of islet cells <abbrgrp><abbr bid="B4">4</abbr><abbr bid="B5">5</abbr></abbrgrp> tumorigenic cells will obviously be unsuitable for basic studies under various contexts, as well as for cell therapy. This problem of genetic transformation afflicts other sources of cells, for example, inducible pluripotential stem cells (iPS), which are teratogenic <abbrgrp><abbr bid="B6">6</abbr></abbrgrp>. Whereas reprogramming of cells through transcription factor modifications was recently found to be effective for transdifferentiating pancreatic exocrine cells to endocrine beta cells in vivo <abbrgrp><abbr bid="B7">7</abbr></abbrgrp>, generalization of this observation in developing treatments for diabetes mellitus requires much more work.</p>
+         <p>We consider fetal tissues to be of considerable interest as cell donors because these are particularly enriched in lineage-committed stem/progenitor cells. However, in comparison with pluripotent human embryonic stem cells (hESC) or iPS, the replication potential of fetal cells was limited <abbrgrp><abbr bid="B8">8</abbr><abbr bid="B9">9</abbr></abbrgrp>, possibly due to telomere shortening <abbrgrp><abbr bid="B3">3</abbr><abbr bid="B10">10</abbr></abbrgrp>. Modification of fetal human liver cells with the catalytic subunit of human telomerase reverse transcriptase (hTERT) enhanced cell replication without loss of stem/progenitor cell properties and additional expression of pancreatic duodenal homeobox (Pdx)-1 in these cells induced regulated insulin expression <abbrgrp><abbr bid="B10">10</abbr><abbr bid="B11">11</abbr></abbrgrp>. On the other hand, we recently determined that epithelial fetal human liver cells became altered under continuous culture, with development of a novel conjoint meso-endodermal phenotype under control of transcriptional regulation mechanisms <abbrgrp><abbr bid="B9">9</abbr></abbrgrp>. As nuclear transcription factors are of fundamental significance in directing embryonic development of the foregut endoderm, which originates both hepatic and pancreatic stem/progenitor cells <abbrgrp><abbr bid="B12">12</abbr></abbrgrp>, we considered that pancreatic fetal stem/progenitor cells may share this property of lineage switching.</p>
+         <p>Among lineage-specific mechanisms, some transcription factors are of particular significance in pancreatic lineage development, for example, Pdx1, Neurogenin 3 (NGN3), and others, while cytokine networks represent another level of endocrine regulation in stem cells, for example, activin A - a member of the transforming growth factor (TGF)-&#946; superfamily - inducts beta cell differentiation in hESC <abbrgrp><abbr bid="B2">2</abbr><abbr bid="B12">12</abbr><abbr bid="B13">13</abbr></abbrgrp>.</p>
+         <p>To generate further insights into fetal human endocrine stem/progenitor cells, we isolated epithelial cells characterized by the display of epithelial cell adhesion molecule (EpCAM), and studied mechanisms of proliferation and differentiation. This led us to define phenotypic changes in cells during culture, including after increased cell replication with hTERT expression. We found that the initial epithelial/endodermal phenotype of fetal endocrine cells was altered with gain of mesenchymal/mesodermal phenotype, which was similar to changes in stem/progenitor cells isolated from fetal human livers, further emphasizing sharing of mechanisms in cells originating from the foregut endoderm <abbrgrp><abbr bid="B9">9</abbr></abbrgrp>. The ability to control the phenotype of these cells through additional manipulations offers potential ways to regulate cell differentiation for superior &#946; cell functions and to understand mechanisms in stage-specific &#946; lineage advancement in other types of stem/progenitor cells.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Materials and methods</p>
+         </st>
+         <sec>
+            <st>
+               <p>Human UHHtissues</p>
+            </st>
+            <p>Fetal tissues of 17 to 24 week gestation were from Human Fetal Tissue Repository of Albert Einstein College of Medicine (Bronx, NY, USA). A total of 20 fetal pancreata were used. Mature pancreatic islets were from Islet Distribution Program of Juvenile Diabetes Research Foundation New York, NY, USA. Procedures for fetal tissue collection, including informed consent in writing from donors, as well as this research were approved by the Committee on Clinical Investigations (Institutional Review Board) at Einstein.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Cell isolation and culture</p>
+            </st>
+            <p>Fetal pancreases were rinsed in Leffert's buffer (10 mM HEPES, 3 mM KCl, 130 mM NaCl, 1 mM NaH<sub>2</sub>PO<sub>4 </sub>and 10 mM glucose, pH 7.4) with 5 mM CaCl<sub>2</sub>, 100 U/ml DNase (Worthington Biochemical Corp., Lakewood, NJ, USA), and 0.03% collagenase P (Roche Applied Science, Indianapolis, IN, USA). Tissue was repeatedly passed through 5 ml syringe and gently agitated in this buffer for 20 to 30 minutes at 37&#176;C. Dissociated cells were passed through 80 &#956;m dacron (Sefar Filtration Inc. Depew, NY, USA) and washed twice in phosphate buffered saline (PBS, pH 7.2), 2 mM EDTA, 0.5% BSA (wash buffer) under 800 &#215; g for five minutes at 4&#176;C. After resuspending 5 &#215; 10<sup>7 </sup>cells in 0.3 ml wash buffer, FcR blocking reagent was added, and cells were incubated with 100 &#956;l microbeads conjugated with antibody against human EpCAM (Miltenyi Biotec Inc, Bergisch Gladbach, Germany) for 30 minutes at 4&#176;C. To verify cell separation, aliquots were incubated with FITC-conjugated anti-EpCAM (Miltenyi Biotec) for 10 minutes at room temperature and examined under epifluorescence. Remaining cells were resuspended in 1 ml PBS with pelleting of EpCAM-positive and -negative fractions in wash buffer under 300 &#215; g for 10 minutes. Cell viability was determined by exclusion of 0.2% trypan blue dye.</p>
+            <p>For culture, 4 &#215; 10<sup>3 </sup>cells were plated in 35 mm dishes in Dulbecco's Minimal Eagle Medium (DMEM) (Life Technologies Inc., Rockville, MD, USA) with 2.5 mM glucose, 100 U/ml penicillin, 100 &#956;g/ml streptomycin, 250 ng/ml amphotericin B, and 10% fetal bovine serum (FBS, Atlanta Biologicals Inc., Norcross, GA, USA) in 5% CO<sub>2 </sub>at 37&#176;C. The medium was replaced twice weekly and near-confluent cells were subpassaged 1:3 with trypsin-EDTA for three minutes at 37&#176;C. We analyzed primary cells after short-term (1 to 2 d) or long-term (10 to 14 d) culture, followed by serial passages until cell replication declined. Cells expressing hTERT were cultured for >50 passages. Changes in cell population doublings were determined during culture by manual counting of cell numbers. To induce insulin expression, cells were cultured in serum-free medium for seven days and with 4 nM human recombinant activin A (R&amp;D Systems, Minneapolis, MN, USA) for another three days.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>hTERT retrovirus</p>
+            </st>
+            <p>The vector encoding hTERT and puromycin selection marker was previously described <abbrgrp><abbr bid="B10">10</abbr></abbrgrp>. EpCAM-positive cells were transduced with 2 to 4 &#215; 10<sup>4 </sup>units/ml of hTERT retrovirus. Fresh DMEM was added after 24 h and cells were cultured to 70-80% confluency before adding 0.75 &#956;M puromycin (Sigma Biochemical Co., St. Louis, MO, USA). A clone of EpCAM-positive cells transduced with hTERT was designated hTERT-FPC.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Pdx1 lentivirus vector (LV)</p>
+            </st>
+            <p>The pONY4-Pdx1 plasmid containing rat Pdx1 cDNA was provided by Dr. S. Efrat (Tel Aviv University, Tel Aviv, Israel). Pdx1 cDNA was excised by BamHI and SalI and 850 base pair fragment was subcloned into pCCLsinPPT.hPGK.IRES.GFP.Wpre plasmid to obtain transfer plasmid designated pCCLsinPPT.hPGK.Pdx1.IRES.GFP.Wpre. Pdx1-LV was produced by calcium phosphate transfection of 293T cells as described <abbrgrp><abbr bid="B14">14</abbr></abbrgrp>. pMDLg/pRRE was the HIV-derived packaging construct, pRSV-Rev construct expressed Rev regulatory protein and pMD2.G construct expressed VSV-G envelope protein. To obtain high-titer LV, 293T medium was concentrated under 50,000 &#215; g for 140 minutes with tittering of LV in HeLa cells. To transduce cells, LV under 10 multiplicities of infection (MOI) was added to cells overnight at 37&#176;C. Cell transduction was analyzed after 72 h with flow cytometry for green fluorescent protein (GFP).</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Cytostainings</p>
+            </st>
+            <p>A total of 4 &#215; 10<sup>3 </sup>cells were cultured on glass cover slips and fixed in cold ethanol for 10 minutes. Histochemical staining for glycogen, dipeptidyl peptidase IV (DPPIV) and &#947;-glutamyl transpeptidase (GGT) was as previously described <abbrgrp><abbr bid="B9">9</abbr></abbrgrp>. For immunostaining, cells were fixed in 4% paraformaldehyde, blocked in goat or donkey serum with 0.1% Triton X-100 in PBS for 10 minutes, and incubated for one hour with antibodies at room temperature (Table <tblr tid="T1">1</tblr>). To measure intensity of immunostaining, microphotographs were analyzed with ImageJ software (NIH, Bethesda, MD, USA).</p>
+            <tbl id="T1">
+               <title>
+                  <p>Table 1</p>
+               </title>
+               <caption>
+                  <p>Immunostaining protocols</p>
+               </caption>
+               <tblbdy cols="6">
+                  <r>
+                     <c ca="center">
+                        <p><b>Antigen</b></p>
+                     </c>
+                     <c ca="center">
+                        <p><b>Blocking</b></p>
+                     </c>
+                     <c ca="center">
+                        <p><b>Primary Antibody</b></p>
+                     </c>
+                     <c ca="center">
+                        <p><b>Dilution</b></p>
+                     </c>
+                     <c ca="center">
+                        <p><b>Secondary Antibody</b></p>
+                     </c>
+                     <c ca="center">
+                        <p><b>Dilution</b></p>
+                     </c>
+                  </r>
+                  <r>
+                     <c cspan="6">
+                        <hr/>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="center">
+                        <p><b>Insulin</b></p>
+                     </c>
+                     <c ca="center">
+                        <p>3% Goat serum</p>
+                     </c>
+                     <c ca="center">
+                        <p>AB3440, Guinea Pig anti-human insulin (Chemicon El Segundo, CA)</p>
+                     </c>
+                     <c ca="center">
+                        <p>1:100</p>
+                     </c>
+                     <c ca="center">
+                        <p>Rhodamine-conjugated anti-guinea pig IgG (AB7136, Abcam, Cambridge, MA)</p>
+                     </c>
+                     <c ca="center">
+                        <p>1:500</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="center">
+                        <p><b>Glucagon</b></p>
+                     </c>
+                     <c ca="center">
+                        <p>3% Goat serum</p>
+                     </c>
+                     <c ca="center">
+                        <p>AB932, Rabbit anti-Glucagon (Chemicon El Segundo, CA)</p>
+                     </c>
+                     <c ca="center">
+                        <p>1:100</p>
+                     </c>
+                     <c ca="center">
+                        <p>Goat anti-Rabbit IgG, Cy3-conjugated (AP132C, Chemicon)</p>
+                     </c>
+                     <c ca="center">
+                        <p>1:500</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="center">
+                        <p><b>C-peptide</b></p>
+                     </c>
+                     <c ca="center">
+                        <p>3% Goat serum</p>
+                     </c>
+                     <c ca="center">
+                        <p>ab14181, Rabbit anti-c-peptide (Abcam Inc, Cambridge, MA)</p>
+                     </c>
+                     <c ca="center">
+                        <p>1:100</p>
+                     </c>
+                     <c ca="center">
+                        <p>Goat anti-Rabbit IgG, Cy3-conjugated (AP132C, Chemicon)</p>
+                     </c>
+                     <c ca="center">
+                        <p>1:500</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="center">
+                        <p><b>Vimentin</b></p>
+                     </c>
+                     <c ca="center">
+                        <p>5% Donkey serum</p>
+                     </c>
+                     <c ca="center">
+                        <p>V212210, (United States Biologicals, Swampscott, MA)</p>
+                     </c>
+                     <c ca="center">
+                        <p>1:100</p>
+                     </c>
+                     <c ca="center">
+                        <p>Rhodamine-conjugated anti mouse IgG (#715-295-150, Jackson Immuno Research)</p>
+                     </c>
+                     <c ca="center">
+                        <p>1:500</p>
+                     </c>
+                  </r>
+               </tblbdy>
+               <tblfn>
+                  <p>IgG, Immunoglobulin G.</p>
+               </tblfn>
+            </tbl>
+         </sec>
+         <sec>
+            <st>
+               <p>Insulin radioimmunoassay</p>
+            </st>
+            <p>Cells were lysed for measuring insulin and c-peptide as previously described <abbrgrp><abbr bid="B4">4</abbr></abbrgrp>. Data were normalized to cell numbers.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Reverse-transcription polymerase chain reaction (RT-PCR)</p>
+            </st>
+            <p>Total RNA was extracted with Trizol Reagent (Invitrogen Life Technologies, Carlsbad, CA, USA). After incubation with Amplification Grade DNase I (Invitrogen), RNAs were reverse transcribed with Omniscript RT system (Qiagen Inc., Valencia, CA, USA). Equal amounts of cDNAs were amplified with Platinum PCR Supermix (Invitrogen) as follows: 94&#176;C &#215; 5 minutes and 35 cycles at 94&#176;C &#215; 30 sec, annealing at various temperatures for 30 sec, and 72&#176;C for one minute, with final extension at 72&#176;C for seven minutes. PCR products were resolved in 1.5% agarose containing ethidium bromide. Oligonucleotide primers, annealing conditions and expected product sizes are listed in Table <tblr tid="T2">2</tblr>, including previously published conditions <abbrgrp><abbr bid="B9">9</abbr><abbr bid="B10">10</abbr><abbr bid="B11">11</abbr><abbr bid="B15">15</abbr><abbr bid="B16">16</abbr><abbr bid="B17">17</abbr></abbrgrp>.</p>
+            <tbl id="T2">
+               <title>
+                  <p>Table 2</p>
+               </title>
+               <caption>
+                  <p>RT-PCR Primers</p>
+               </caption>
+               <tblbdy cols="5">
+                  <r>
+                     <c ca="left">
+                        <p><b>Gene</b></p>
+                     </c>
+                     <c ca="left">
+                        <p><b>Primer sequences (5'-3'): Forward and Reverse</b></p>
+                     </c>
+                     <c ca="center">
+                        <p><b>Tm (&#176;C)</b></p>
+                     </c>
+                     <c ca="center">
+                        <p><b>Product (basepairs)</b></p>
+                     </c>
+                     <c ca="center">
+                        <p><b>References</b></p>
+                     </c>
+                  </r>
+                  <r>
+                     <c cspan="5">
+                        <hr/>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>Insulin</p>
+                     </c>
+                     <c ca="left">
+                        <p>GCTGCATCAGAAGAGGCCATCAGGC</p>
+                        <p>GCGTCTAGTTGCAGTAGTTCTCCAG</p>
+                     </c>
+                     <c ca="center">
+                        <p>58</p>
+                     </c>
+                     <c ca="center">
+                        <p>380</p>
+                     </c>
+                     <c ca="center">
+                        <p><abbrgrp><abbr bid="B11">11</abbr></abbrgrp></p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>Glucagon</p>
+                     </c>
+                     <c ca="left">
+                        <p>GAATTCATTGCTTGGCTGGTGAAAGGC</p>
+                        <p>CATTTCAAACATCCCACGTGGCATGCA</p>
+                     </c>
+                     <c ca="center">
+                        <p>60</p>
+                     </c>
+                     <c ca="center">
+                        <p>255</p>
+                     </c>
+                     <c ca="center">
+                        <p><abbrgrp><abbr bid="B11">11</abbr></abbrgrp></p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>Pancreatic Polypeptide</p>
+                     </c>
+                     <c ca="left">
+                        <p>CTGCTGCTGCTGTCCACCTGCGTG</p>
+                        <p>CTCCGAGAAGGCCAGCGTGTCCTC</p>
+                     </c>
+                     <c ca="center">
+                        <p>60</p>
+                     </c>
+                     <c ca="center">
+                        <p>206</p>
+                     </c>
+                     <c ca="center">
+                        <p><abbrgrp><abbr bid="B11">11</abbr></abbrgrp></p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>Somatostatin</p>
+                     </c>
+                     <c ca="left">
+                        <p>CGTCAGTTTCTGCAGAAGTCCCTGGCT</p>
+                        <p>CCATAGCCGGGTTTGAGTTAGCAGATC</p>
+                     </c>
+                     <c ca="center">
+                        <p>60</p>
+                     </c>
+                     <c ca="center">
+                        <p>206</p>
+                     </c>
+                     <c ca="center">
+                        <p><abbrgrp><abbr bid="B11">11</abbr></abbrgrp></p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>NeuroD</p>
+                     </c>
+                     <c ca="left">
+                        <p>ATCCCAACCCACCACCAACC</p>
+                        <p>CAGCGGTGCCTGAGAAGATT</p>
+                     </c>
+                     <c ca="center">
+                        <p>60</p>
+                     </c>
+                     <c ca="center">
+                        <p>440</p>
+                     </c>
+                     <c ca="center">
+                        <p><abbrgrp><abbr bid="B15">15</abbr></abbrgrp></p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>Pancreatic duodenal homeobox1 gene (Pdx1)</p>
+                     </c>
+                     <c ca="left">
+                        <p>CTGCCTTTCCCATGGATGAA</p>
+                        <p>CGCTTCTTGTCCTCCTCCTTT</p>
+                     </c>
+                     <c ca="center">
+                        <p>58</p>
+                     </c>
+                     <c ca="center">
+                        <p>277</p>
+                     </c>
+                     <c ca="center">
+                        <p><abbrgrp><abbr bid="B15">15</abbr></abbrgrp></p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>Prohormone convertase (PC1/3)</p>
+                     </c>
+                     <c ca="left">
+                        <p>TTGGCTGAAAGAGAACGGGATACATCT</p>
+                        <p>ACTTCTTTGGTCATTGCTTTGGCGGTG</p>
+                     </c>
+                     <c ca="center">
+                        <p>65</p>
+                     </c>
+                     <c ca="center">
+                        <p>456</p>
+                     </c>
+                     <c ca="center">
+                        <p><abbrgrp><abbr bid="B11">11</abbr></abbrgrp></p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>Prohormone convertase (PC2)</p>
+                     </c>
+                     <c ca="left">
+                        <p>GCATCAAGCACAGACCTACACTGG</p>
+                        <p>GAGACACAAACCACCCTTCATCCTTC</p>
+                     </c>
+                     <c ca="center">
+                        <p>60</p>
+                     </c>
+                     <c ca="center">
+                        <p>308</p>
+                     </c>
+                     <c ca="center">
+                        <p><abbrgrp><abbr bid="B11">11</abbr></abbrgrp></p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>Chromogranin-A</p>
+                     </c>
+                     <c ca="left">
+                        <p>CGGACAGTTCCATGAAGCTCTC</p>
+                        <p>GAGTCAGGAGTAGGAGACAAGG</p>
+                     </c>
+                     <c ca="center">
+                        <p>58</p>
+                     </c>
+                     <c ca="center">
+                        <p>444</p>
+                     </c>
+                     <c ca="center">
+                        <p><abbrgrp><abbr bid="B11">11</abbr></abbrgrp></p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>Glucokinase</p>
+                     </c>
+                     <c ca="left">
+                        <p>GACGAGTTCCTGCTGGAGTATGAC</p>
+                        <p>GACTCGATGAAGGTGATCTCGCAGCTG</p>
+                     </c>
+                     <c ca="center">
+                        <p>65</p>
+                     </c>
+                     <c ca="center">
+                        <p>523</p>
+                     </c>
+                     <c ca="center">
+                        <p><abbrgrp><abbr bid="B11">11</abbr></abbrgrp></p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>Paired homeobox gene4 (PAX4)</p>
+                     </c>
+                     <c ca="left">
+                        <p>CACCTCTCTGCCTGAGGACACGGTGAG</p>
+                        <p>CTGCCTCATTCCAAGCCATACAGTAGTG</p>
+                     </c>
+                     <c ca="center">
+                        <p>64</p>
+                     </c>
+                     <c ca="center">
+                        <p>443</p>
+                     </c>
+                     <c ca="center">
+                        <p><abbrgrp><abbr bid="B11">11</abbr></abbrgrp></p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>Paired homeobox gene 6 (PAX6)</p>
+                     </c>
+                     <c ca="left">
+                        <p>CAGTCACAGCGGAGTGAATCAGC</p>
+                        <p>GCCATCTTGCGTAGGTTGCCCTG</p>
+                     </c>
+                     <c ca="center">
+                        <p>58</p>
+                     </c>
+                     <c ca="center">
+                        <p>519</p>
+                     </c>
+                     <c ca="center">
+                        <p><abbrgrp><abbr bid="B11">11</abbr></abbrgrp></p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>Glucose transporter2 (GLUT2)</p>
+                     </c>
+                     <c ca="left">
+                        <p>GCCATCCTTCAGTCTCTGCTACTC</p>
+                        <p>GCTATCATGCTCACATAACTCATCCA</p>
+                     </c>
+                     <c ca="center">
+                        <p>65</p>
+                     </c>
+                     <c ca="center">
+                        <p>523</p>
+                     </c>
+                     <c ca="center">
+                        <p><abbrgrp><abbr bid="B11">11</abbr></abbrgrp></p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>Betacellulin2 (BETA2)</p>
+                     </c>
+                     <c ca="left">
+                        <p>CCTGAGCAGAACCAGGACATGCC</p>
+                        <p>ATCAAAGGAAGGGCTGGTGCAATCA</p>
+                     </c>
+                     <c ca="center">
+                        <p>58</p>
+                     </c>
+                     <c ca="center">
+                        <p>221</p>
+                     </c>
+                     <c ca="center">
+                        <p><abbrgrp><abbr bid="B11">11</abbr></abbrgrp></p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>Neurogenin3 (NGN3)</p>
+                     </c>
+                     <c ca="left">
+                        <p>ACTGAGCAAGCAGCGACGGAGTC</p>
+                        <p>GCACCCACAGCCGAGCGACAGAC</p>
+                     </c>
+                     <c ca="center">
+                        <p>65</p>
+                     </c>
+                     <c ca="center">
+                        <p>448</p>
+                     </c>
+                     <c ca="center">
+                        <p><abbrgrp><abbr bid="B11">11</abbr></abbrgrp></p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>NK homeobox protein 6.1 (NKX6 1)</p>
+                     </c>
+                     <c ca="left">
+                        <p>CTCCTCCTCGTCCTCGTCGTCGTC</p>
+                        <p>CTTGACCTGACTCTCTGTCATC</p>
+                     </c>
+                     <c ca="center">
+                        <p>60</p>
+                     </c>
+                     <c ca="center">
+                        <p>699</p>
+                     </c>
+                     <c ca="center">
+                        <p><abbrgrp><abbr bid="B11">11</abbr></abbrgrp></p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>NK homeobox protein 2.2 (NKX2 2)</p>
+                     </c>
+                     <c ca="left">
+                        <p>CGGACAATGACAAGGAGACCCCG</p>
+                        <p>CGCTCACCAAGTCCACTGCTGCTGG</p>
+                     </c>
+                     <c ca="center">
+                        <p>65</p>
+                     </c>
+                     <c ca="center">
+                        <p>490</p>
+                     </c>
+                     <c ca="center">
+                        <p><abbrgrp><abbr bid="B11">11</abbr></abbrgrp></p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>Islet1 (ISL1)</p>
+                     </c>
+                     <c ca="left">
+                        <p>GTGCGGAGTGTAATCAGTATTTGG</p>
+                        <p>GTCATCTCTACCAGTTGCTCCTTC</p>
+                     </c>
+                     <c ca="center">
+                        <p>58</p>
+                     </c>
+                     <c ca="center">
+                        <p>519</p>
+                     </c>
+                     <c ca="center">
+                        <p><abbrgrp><abbr bid="B11">11</abbr></abbrgrp></p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>GATA2 transcription factor</p>
+                     </c>
+                     <c ca="left">
+                        <p>CGTCTTCTTCAATCACCTCG</p>
+                        <p>CGTCTTGGAGAAGGGGCTC</p>
+                     </c>
+                     <c ca="center">
+                        <p>55</p>
+                     </c>
+                     <c ca="center">
+                        <p>225</p>
+                     </c>
+                     <c ca="center">
+                        <p><abbrgrp><abbr bid="B10">10</abbr></abbrgrp></p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>GATA6 transcription factor</p>
+                     </c>
+                     <c ca="left">
+                        <p>GAAGAAGCACATGATTTTGGAC</p>
+                        <p>GATGGAAGGGAAGGGCCAG</p>
+                     </c>
+                     <c ca="center">
+                        <p>58</p>
+                     </c>
+                     <c ca="center">
+                        <p>181</p>
+                     </c>
+                     <c ca="center">
+                        <p><abbrgrp><abbr bid="B10">10</abbr></abbrgrp></p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>Transforming growth factor alpha (TGF&#945;)</p>
+                     </c>
+                     <c ca="left">
+                        <p>ATGGTCCCCTCGGCTGGA</p>
+                        <p>GGCCTGCTTCTTCTGGCTGGCA</p>
+                     </c>
+                     <c ca="center">
+                        <p>58</p>
+                     </c>
+                     <c ca="center">
+                        <p>297</p>
+                     </c>
+                     <c ca="center">
+                        <p><abbrgrp><abbr bid="B10">10</abbr></abbrgrp></p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>Transforming growth factor beta1 (TGF&#946;1)</p>
+                     </c>
+                     <c ca="left">
+                        <p>GCCCTGGACACCAACTATTGCT</p>
+                        <p>AGGCTCCAAATGTAGGGGCAGG</p>
+                     </c>
+                     <c ca="center">
+                        <p>58</p>
+                     </c>
+                     <c ca="center">
+                        <p>161</p>
+                     </c>
+                     <c ca="center">
+                        <p><abbrgrp><abbr bid="B10">10</abbr></abbrgrp></p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>Transforming growth factor beta2 (TGF&#946;2)</p>
+                     </c>
+                     <c ca="left">
+                        <p>GATTTCCATCTACAAGACCACGAGGGACTTGC</p>
+                        <p>CAGCATCAGTTACATCGAAGGAGAGCCATTCG</p>
+                     </c>
+                     <c ca="center">
+                        <p>65</p>
+                     </c>
+                     <c ca="center">
+                        <p>503</p>
+                     </c>
+                     <c ca="center">
+                        <p><abbrgrp><abbr bid="B10">10</abbr></abbrgrp></p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>Transforming growth factor beta1 receptor (TGF&#946;1R)</p>
+                     </c>
+                     <c ca="left">
+                        <p>CGTGCTGACATCTATGCAAT</p>
+                        <p>AGCTGCTCCATTGGCATAC</p>
+                     </c>
+                     <c ca="center">
+                        <p>54</p>
+                     </c>
+                     <c ca="center">
+                        <p>251</p>
+                     </c>
+                     <c ca="center">
+                        <p><abbrgrp><abbr bid="B10">10</abbr></abbrgrp></p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>Transforming growth factor beta2 receptor (TGF&#946;2R)</p>
+                     </c>
+                     <c ca="left">
+                        <p>TGCACATCGTCCTGTGGAC</p>
+                        <p>GTCTCAAACTGCTCTGAAGTGTTC</p>
+                     </c>
+                     <c ca="center">
+                        <p>58</p>
+                     </c>
+                     <c ca="center">
+                        <p>784</p>
+                     </c>
+                     <c ca="center">
+                        <p><abbrgrp><abbr bid="B10">10</abbr></abbrgrp></p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>Insulin-like growth factor receptor (IGFR)</p>
+                     </c>
+                     <c ca="left">
+                        <p>ACCCGGAGTACTTCAGCGCT</p>
+                        <p>CACAGAAGCTTCGTTGAGAA</p>
+                     </c>
+                     <c ca="center">
+                        <p>55</p>
+                     </c>
+                     <c ca="center">
+                        <p>229</p>
+                     </c>
+                     <c ca="center">
+                        <p><abbrgrp><abbr bid="B10">10</abbr></abbrgrp></p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>Cytokeratin-19</p>
+                     </c>
+                     <c ca="left">
+                        <p>ATGGCCGAGCAGAACCGGAA</p>
+                        <p>CCATGAGCCGCTGGTACTCC</p>
+                     </c>
+                     <c ca="center">
+                        <p>60</p>
+                     </c>
+                     <c ca="center">
+                        <p>308</p>
+                     </c>
+                     <c ca="center">
+                        <p><abbrgrp><abbr bid="B16">16</abbr></abbrgrp></p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>&#945;-Smooth muscle actin</p>
+                     </c>
+                     <c ca="left">
+                        <p>AGTACCCGATAGAACATGG</p>
+                        <p>TTTTCTCCCGGTTGGC</p>
+                     </c>
+                     <c ca="center">
+                        <p>60</p>
+                     </c>
+                     <c ca="center">
+                        <p>153</p>
+                     </c>
+                     <c ca="center">
+                        <p><abbrgrp><abbr bid="B9">9</abbr></abbrgrp></p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>Vimentin</p>
+                     </c>
+                     <c ca="left">
+                        <p>CACCTACAGCCTCTACG</p>
+                        <p>AGCGGTCATTCAGCTC</p>
+                     </c>
+                     <c ca="center">
+                        <p>60</p>
+                     </c>
+                     <c ca="center">
+                        <p>170</p>
+                     </c>
+                     <c ca="center">
+                        <p><abbrgrp><abbr bid="B9">9</abbr></abbrgrp></p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>Human telomerase reverse transcriptase (hTERT)</p>
+                     </c>
+                     <c ca="left">
+                        <p>AAGTTCCTGCACTGGCTGATGAG</p>
+                        <p>TCGTAGTTGAGCACGCTGAACAG</p>
+                     </c>
+                     <c ca="center">
+                        <p>60</p>
+                     </c>
+                     <c ca="center">
+                        <p>378</p>
+                     </c>
+                     <c ca="center">
+                        <p><abbrgrp><abbr bid="B17">17</abbr></abbrgrp></p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>&#946;-actin</p>
+                     </c>
+                     <c ca="left">
+                        <p>AGAGCTATGAGCTGCCTGAC</p>
+                        <p>CTGATCCACATCTGCTGGAA</p>
+                     </c>
+                     <c ca="center">
+                        <p>55</p>
+                     </c>
+                     <c ca="center">
+                        <p>361</p>
+                     </c>
+                     <c ca="center">
+                        <p><abbrgrp><abbr bid="B15">15</abbr></abbrgrp></p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>Glyceraldehyde phosphate dehydrogenase (GAPDH)</p>
+                     </c>
+                     <c ca="left">
+                        <p>CCATGGAGAAGGCTGGGG</p>
+                        <p>CAAAGTTGTCATGGATGACC</p>
+                     </c>
+                     <c ca="center">
+                        <p>58</p>
+                     </c>
+                     <c ca="center">
+                        <p>194</p>
+                     </c>
+                     <c ca="center">
+                        <p><abbrgrp><abbr bid="B10">10</abbr></abbrgrp></p>
+                     </c>
+                  </r>
+               </tblbdy>
+            </tbl>
+         </sec>
+         <sec>
+            <st>
+               <p>Cell transplantation studies</p>
+            </st>
+            <p>The Animal Care and Use Committee of Albert Einstein College of Medicine approved animal use in conformity with National Research Council's <it>Guide for the Care and Use of Laboratory Animals </it>(United States Public Health Service publication, revised 1996). All animals were maintained in the Institute of Animal Studies at Albert Einstein College of Medicine. We transplanted 2 &#215; 10<sup>6 </sup>hTERT-FPC modified by Pdx1 LV in NOD-CB17-prkdc-SCID mice (Jackson Labs., Bar Harbor, ME, USA) into portal vein as described previously <abbrgrp><abbr bid="B18">18</abbr></abbrgrp>. Animals were sacrificed in groups (n = 3 each) 24 hours and one, two or four weeks after transplantation to analyze cell engraftment and gene expression. To verify presence of transplanted cells in the liver, genomic DNA was isolated by Trizol Reagent. A primate-specific sequence from the Charcot-Marie-Tooth (CMT)-1A element was amplified by PCR and in situ hybridization was performed with a pancentromere probe to identify human cells as described <abbrgrp><abbr bid="B19">19</abbr></abbrgrp>. GFP immunostaining was performed as described <abbrgrp><abbr bid="B18">18</abbr></abbrgrp>. In some studies, tissues were additionally stained for insulin as described above. After washing with PBS, tissues were counterstained with DAPI (4',6-diamidino-2-phenylindole)-antifade (Molecular Probes, Invitrogen Life Technologies Corporation, Carlsbad, CA, USA) and examined under epifluorescence.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Statistical analysis</p>
+            </st>
+            <p>Data are shown as means &#177; SD. Significances were examined by t-test. <it>P </it>values &lt; 0.05 were considered significant.</p>
+         </sec>
+      </sec>
+      <sec>
+         <st>
+            <p>Results</p>
+         </st>
+         <sec>
+            <st>
+               <p>Characterization of pancreatic epithelial cells</p>
+            </st>
+            <p>After immunomagnetic sorting, we obtained 1-3 &#215; 10<sup>7 </sup>EpCAM-positive epithelial cells per fetal pancreas with viability of 85 to 90%. Intact fetal pancreas showed primitive acini, as well as islets with ductal and vascular structures (Figure <figr fid="F1">1a</figr>). Cells in ductal, periductal and acinar regions expressed the ductal markers, DPPIV and GGT. EpCAM staining verified the presence of epithelial cells with DPPIV and GGT expression in those areas. Similarly, EpCAM-positive isolated cells expressed DPPIV and GGT, whereas cells with glycogen, which is a characteristic of pancreatic acinar cells and not beta cells, were not observed in this fraction (Figure <figr fid="F1">1b</figr>). By contrast, the EpCAM-negative cell fraction showed only infrequent EpCAM, DPPIV or GGT-positive cells, whereas cells with glycogen were frequent (Figure <figr fid="F1">1c</figr>).</p>
+            <fig id="F1">
+               <title>
+                  <p>Figure 1</p>
+               </title>
+               <caption>
+                  <p>Fractionation of EpCAM-positive epithelial cells from fetal human pancreas</p>
+               </caption>
+               <text>
+                  <p><b>Fractionation of EpCAM-positive epithelial cells from fetal human pancreas</b>. <b>(a) </b>shows intact 22-week fetal human pancreas with hematoxylin staining alone (extreme left) or histochemical staining for DPPIV, GGT and glycogen, as indicated, which were expressed in cells in ductal (arrows), periductal and acinar regions. <b>(b) </b>shows EpCAM-positive cells isolated by immunomagnetic cell sorting with EpCAM, DPPIV and GGT expression but absence of glycogen. <b>(c) </b>shows EpCAM-negative cell fraction with only occasional epithelial cells and more abundant glycogen-containing acinar cells (arrows, panel extreme right). Orig. mag., a, &#215;200; b and c, &#215;400.</p>
+               </text>
+               <graphic file="scrt6-1"/>
+            </fig>
+            <p>Cells in the EpCAM-positive fraction expressed insulin or glucagon, often both, whereas in the EpCAM-negative fraction, cells expressing insulin or glucagon were rare (Figure <figr fid="F2">2</figr>). Taken together, these findings indicated that EpCAM selected epithelial cells and that endocrine progenitor cells were present within epithelial cell niches in the fetal pancreas.</p>
+            <fig id="F2">
+               <title>
+                  <p>Figure 2</p>
+               </title>
+               <caption>
+                  <p>Endocrine phenotype of EpCAM-positive fetal pancreatic cells</p>
+               </caption>
+               <text>
+                  <p><b>Endocrine phenotype of EpCAM-positive fetal pancreatic cells</b>. <b>(a) </b>shows immunostaining of 22-week fetal human pancreas to demonstrate cells in primitive pancreatic islets with coexpression of insulin and glucagon. Negative controls, where primary antibodies were omitted, are on extreme right. <b>(b) </b>shows isolated freshly EpCAM-positive cells with coexpression of insulin and glucagon in some cells. <b>(c) </b>shows EpCAM-negative fraction showing occasional cells with glucagon. Orig. mag., a, &#215;200; b and c, &#215;400.</p>
+               </text>
+               <graphic file="scrt6-2"/>
+            </fig>
+            <p>After culture, differences in EpCAM-positive and -negative fractions were apparent, as the former retained epithelial morphology, whereas the latter showed spindle-shaped morphology (Figure <figr fid="F3">3a</figr> and <figr fid="F3">3b</figr>). In primary (P0) culture, EpCAM-positive cells proliferated within several days to form confluent monolayers of cells, although replication of cells declined over 10 to 12 passages, and cells required greater times to form confluent cultures. It was noteworthy that cells continued to express EpCAM, as shown by immunostaining, which simultaneously verified the absence of nonepithelial cells in cultures. Also, EpCAM-positive cells expressed pancreatic polypeptide (PP), somatostatin, glucagon and insulin in short-term culture (1 to 2 d), whereas after longer-term culture (10-14 d), PP was no longer expressed (Figure <figr fid="F3">3C</figr>). By contrast, in EpCAM-negative cells, insulin, glucagon and somatostatin were expressed at lower levels and only in the short-term, while PP was not expressed at all. Pdx1 was expressed in EpCAM-positive cells in short- and long-term cultures. BETA2 and NeuroD transcription factors, which regulate &#946;-cell differentiation, were expressed in EpCAM-positive cells, as were transcriptional regulators, GATA-2, GATA-4 and GATA-6, which govern differentiation of additional mesodermal lineages. NGN3 was expressed in EpCAM-positive cells. Other regulatory transcription factors, for example, Pax-4, Pax-6, Nkx-2.2 and Nkx-6.1, were either not expressed, or were expressed less well in EpCAM-positive cells, although Isl-1, which promotes islet cell development, was expressed during short-term cell culture. The glucose transporter, GLUT-2, and glucokinase (GK), which participate in signal-secretion coupling in &#946;-cells, were expressed in only EpCAM-positive cells. These cells expressed proinsulin processing enzymes, prohormone convertases, PC1/3 and PC2, and chromogranin A (CGA), the major component of dense-core secretory granules. Finally, growth factor genes regulating islet and &#946;-cell development, for example, TGF-&#945;, TGF-&#946;1, TGF-&#946;2, and their receptors, as well as insulin-like growth factor-1 receptor (IGF-1R), were expressed.</p>
+            <fig id="F3">
+               <title>
+                  <p>Figure 3</p>
+               </title>
+               <caption>
+                  <p>Initial characterization of fetal pancreatic cells</p>
+               </caption>
+               <text>
+                  <p><b>Initial characterization of fetal pancreatic cells</b>. <b>(a) </b>and <b>(b) </b>show morphology of cells in culture after 2 d and 7 d. Note epithelial morphology of EpCAM-positive cells. <b>(c) </b>shows RT-PCR for genes as indicated. Lanes 1 to 6 show results from mature human pancreatic islets, intact fetal pancreas, cells after early term culture (1 to 2 d) or longer culture (10 to 14 d). For comparisons, &#946;-actin and glyceraldehyde phosphate dehydrogenase (GAPDH) genes were included.</p>
+               </text>
+               <graphic file="scrt6-3"/>
+            </fig>
+         </sec>
+         <sec>
+            <st>
+               <p>Proliferation of EpCAM-positive cells after telomerase reconstitution</p>
+            </st>
+            <p>In mature pancreatic islets or in fetal pancreas, hTERT mRNA was absent (Figure <figr fid="F4">4a</figr>). After hTERT introduction, RT-PCR showed hTERT mRNA in transduced cells, similar to hTERT-FH-B fetal human liver cells <abbrgrp><abbr bid="B10">10</abbr></abbrgrp>. Serial cultures of hTERT-FPC demonstrated robust proliferation despite >50 passages, during which >170 estimated cell population doublings occurred, which was beyond the boundaries of replicative senescence in somatic cells. Comparison of cell doubling rates showed proliferation was significantly increased in FPC after expression of hTERT (Figure <figr fid="F4">4b</figr>). The human identity of hTERT-FPC was verified by PCR of DNA with human-specific CMT-1A probe, as well as in situ hybridization for primate-specific alphoid satellite sequences in centromeres <abbrgrp><abbr bid="B19">19</abbr></abbrgrp>. Morphologically, hTERT-FPC resembled unmanipulated primary EpCAM-positive fetal cells. To address whether hTERT-FPC maintained endocrine functions, we determined insulin expression (Figure <figr fid="F4">4c</figr>). Primary EpCAM-positive fetal cells expressed insulin during culture over up to two weeks and insulin was expressed in cultured hTERT-FPC after up to four passages (P4). Subsequently, insulin expression declined in hTERT-FPC, and was undetectable after 10 passages. This was associated with a parallel decline, and eventual loss, of Pdx1 expression in hTERT-FPC, indicating that the &#946;-cell phenotype of hTERT-FPC was perturbed during cell culture.</p>
+            <fig id="F4">
+               <title>
+                  <p>Figure 4</p>
+               </title>
+               <caption>
+                  <p>Immortalization of EpCAM-positive fetal pancreatic cells by hTERT</p>
+               </caption>
+               <text>
+                  <p><b>Immortalization of EpCAM-positive fetal pancreatic cells by hTERT</b>. <b>(a) </b>shows RT-PCR for hTERT expression after early and late passages of hTERT-FPC. Note the absence of hTERT expression in mature human islets and fetal pancreas, whereas hTERT-FH-B fetal human liver cells expressed hTERT (positive control). <b>(b) </b>shows kinetics of proliferation in primary EpCAM-positive fetal pancreatic cells and hTERT-FPC during culture over up to four weeks, which was 4-6-fold greater in the latter. Asterisks indicate <it>P </it>&lt; 0.05. <b>(c) </b>shows RT-PCR for insulin, which was expressed in mature islets (lane 1), fetal pancreas (lane 2) and primary EpCAM-positive cells during early and late culture (lanes 3 and 4), as well as an early passage (P3) of hTERT-FPC (lane 5) but not in hTERT-FPC after further cell culture (lane 6).</p>
+               </text>
+               <graphic file="scrt6-4"/>
+            </fig>
+         </sec>
+         <sec>
+            <st>
+               <p>Restoration of endocrine phenotype in hTERT-FPC</p>
+            </st>
+            <p>We studied whether restoring Pdx1 expression will reconstitute the endocrine phenotype of hTERT-FPC. Therefore, we expressed rat Pdx1 and green fluorescent protein (GFP) under phosphogylcerate kinase (PGK) promoter, which is ubiquitously active (Figure <figr fid="F5">5a</figr>). After transduction of hTERT-FPC with Pdx1 LV >90% cells were GFP-positive (Figure <figr fid="F5">5b</figr> and <figr fid="F5">5c</figr>). GFP expression was maintained over multiple cell passages. Rat Pdx1 induced glucagon and ISL1 expression in hTERT-FPC, without expression of endogenous hPdx1 or insulin under basal conditions (Figure <figr fid="F5">5d</figr>). However, when hTERT-FPC were cultured in serum-free medium with activin A, hPdx1 and insulin mRNA were expressed and hTERT-FPC-Pdx1 also contained immunostainable insulin and c-peptide. Neither hPdx1 nor insulin was detected in hTERT-FPC without transduction with Pdx1 LV. No insulin was detected by immunoassay in undifferentiated hTERT-FPC, whereas hTERT-FPC-Pdx1 cells cultured without serum and with activin A contained 5 &#177; 3 ng insulin per 1 &#215; 10<sup>6 </sup>cells. This indicated that Pdx1 restored endocrine progenitor phenotype in hTERT-FPC, although activin A was required. Detailed studies of regulated insulin secretion were not attempted in view of relatively limited insulin expression in hTERT-FPC-Pdx1 cells and requirement of further differentiation in cells.</p>
+            <fig id="F5">
+               <title>
+                  <p>Figure 5</p>
+               </title>
+               <caption>
+                  <p>Induction of insulin-expression in hTERT-FPC by Pdx1-LV</p>
+               </caption>
+               <text>
+                  <p><b>Induction of insulin-expression in hTERT-FPC by Pdx1-LV</b>. <b>(a) </b>shows schematic of LV with rat Pdx1 and GFP genes driven by hPGK promoter - IRES, intervening internal ribosomal entry site, cPPT, central polypurine tract, Wpre, posttranscriptional regulatory element of the woodchuck hepadnavirus. <b>(b) </b>shows Pdx1-LV-transduced hTERT-FPC under phase contrast (top) and under epifluorescence for GFP. <b>(c) </b>shows flow cytometric quantitation of GFP in nontransduced cells (top panel) and Pdx1-LV-transduced hTERT-FPC. MFI = mean fluorescence intensity. <b>(d) </b>shows RT-PCR for gene expression in control hTERT-FPC (lane 1), Pdx1-LV-transduced hTERT-FPC cultured without serum (lane 2) and without serum plus activin A (lane 3), and mature pancreatic islets (lane 4). <b>(e) </b>shows insulin and c-peptide expression in negative control hTERT-FPC-Pdx1 cells, where primary antibodies were omitted, and cells with expression of both insulin and c-peptide. Orig. Mag., &#215; 200.</p>
+               </text>
+               <graphic file="scrt6-5"/>
+            </fig>
+         </sec>
+         <sec>
+            <st>
+               <p>Endodermal-mesenchymal phenotype conversions</p>
+            </st>
+            <p>To examine the phenotype-regulating mechanism of activin A, we determined whether hTERT-FPC transitioned to an epithelial-mesenchymal state, which was recently recognized in endodermal cells <abbrgrp><abbr bid="B9">9</abbr></abbrgrp>. We found that EpCAM-positive fetal pancreatic cells expressed the intermediate filament characteristic of epithelial cells, cytokeratin (CK)-19, with minimal expression of the mesenchymal filament, vimentin (Figure <figr fid="F6">6a</figr>). By contrast, in Pdx1-LV-transduced hTERT-FPC, expression of vimentin increased, while CK-19 was also expressed, indicating a mixed epithelial-mesenchymal phenotype. After activin A, expression of vimentin declined without affecting CK-19 expression. It was noteworthy that expression of TGF-&#946;1, TGF-&#946;2 and their receptors was unchanged. This was associated with changes in cell morphology, such that cultured hTERT-FPC were larger and flatter in the presence of serum, whereas hTERT-FPC-Pdx1 cells became smaller and rounder when cultured without serum and in the presence of activin A (Figure <figr fid="F6">6b</figr>). Moreover, these morphological changes were accompanied by decreased expression of vimentin, which was verified by immunostaining of cultured cells (Figure <figr fid="F6">6c</figr>).</p>
+            <fig id="F6">
+               <title>
+                  <p>Figure 6</p>
+               </title>
+               <caption>
+                  <p>Phenotype alterations in fetal pancreatic cells</p>
+               </caption>
+               <text>
+                  <p><b>Phenotype alterations in fetal pancreatic cells</b>. <b>(a) </b>shows RT-PCR for epithelial marker, CK-19, and mesenchymal marker, vimentin, along with TGF-&#946;1, TGF&#946;2 and their receptors under various conditions indicated. <b>(b) </b>shows morphological changes in LV-Pdx1-transduced hTERT-FPC during culture with serum and in the absence of serum plus addition of Activin A (bottom panel). These data indicated that cells became more rounded and less flattened in the absence of serum and presence of Activin A. <b>(c) </b>shows changes in vimentin expression by immunostaining in LV-Pdx1-transduced hTERT-FPC cultured with serum (top left), and with Activin A and no serum (bottom left). No immunostaining was detected when vimentin antibody was omitted (top right). The panel at bottom right in c shows quantitation of vimentin immunofluorescence signals by image analysis to indicate that culture without serum and with activin A perturbed cell phenotype, which was in agreement with morphological changes in LV-Pdx1-transduced hTERT-FPC.</p>
+               </text>
+               <graphic file="scrt6-6"/>
+            </fig>
+         </sec>
+         <sec>
+            <st>
+               <p>Transplantation of hTERT-FPC cells in NOD/SCID mice</p>
+            </st>
+            <p>The fate of hTERT-FPC was established in vivo by transplantation studies in mice. Transplanted hTERT-FPC were present in the liver throughout the four-week period of studies (Figure <figr fid="F7">7a</figr>). Transplanted cells were localized in the liver by in situ hybridization (Figure <figr fid="F7">7b</figr> and <figr fid="F7">7f</figr>). Moreover, presence of GFP expression, as well as simultaneous expression of insulin in GFP-positive hTERT-FPC that had been modified by Pdx1-LV was observed (Figure <figr fid="F7">7g</figr> and <figr fid="F7">7i</figr>). No tumors were detected in animals after cell transplantation over the four-week period of the study.</p>
+            <fig id="F7">
+               <title>
+                  <p>Figure 7</p>
+               </title>
+               <caption>
+                  <p>Transplantation studies with hTERT-FPC</p>
+               </caption>
+               <text>
+                  <p><b>Transplantation studies with hTERT-FPC</b>. <b>(a) </b>shows DNA PCR for human sequences to identify hTERT-FPC in the liver of NOD/SCID mice 24 hours, 1 week, 2 weeks and 1 month after intrasplenic transplantation. <b>(b-f) </b>show in situ hybridization for alphoid satellite sequences in human centromeres to verify that transplanted cells were present in tissues. (b), fetal human liver as positive control to show hybridization signals in cell nuclei (arrow); (c), mouse liver showing absence of hybridization signals; (d), (e) and (f) show tissues from animals 24 hours, 1 week and 1 month after cell transplantation, respectively, with transplanted cells localized by nuclear in situ signals (arrows). <b>(g-i) </b>show sequential immunostaining for GFP (g) and insulin (h) with merged image of these two panels (i) two weeks after transplantation in the liver to verify &#946; cell phenotype in transplanted hTERT-FPC.</p>
+               </text>
+               <graphic file="scrt6-7"/>
+            </fig>
+         </sec>
+      </sec>
+      <sec>
+         <st>
+            <p>Discussion</p>
+         </st>
+         <p>We successfully isolated epithelial progenitor cells from the fetal human pancreas and isolated cells were greatly expanded after genetic modification with hTERT in vitro. These cells exhibited endocrine progenitor phenotype with multiple pancreatic hormones, although this phenotype was altered in culture conditions with acquisition of additional mesenchymal/mesodermal properties. As this phenotype change occurred through spontaneous processes, we believe the availability of hTERT-modified pancreatic cells will offer additional substrates for dissecting regulatory mechanisms in beta cell differentiation. In particular, our findings should be of interest in determining whether other stem/progenitor cells will transition through similar fetal stages during generation of &#946; or beta-like cells.</p>
+         <p>During development, pancreatic progenitor cells arise from the primitive foregut endoderm, with cell-specification requiring Pdx1 and other transcription factors, for example, HNF homeobox B, NGN3, pancreas-specific transcription factor 1a, GATA4, and HNF6 <abbrgrp><abbr bid="B12">12</abbr></abbrgrp>. We were able to isolate pancreatic epithelial progenitor cells characterized by the epithelial-specific adhesion molecule, EpCAM, which is a feature of endodermal stem/progenitor cells <abbrgrp><abbr bid="B8">8</abbr><abbr bid="B9">9</abbr></abbrgrp>, although these cells demonstrated limited proliferation capacity in culture conditions. The replication potential of fetal human liver stem/progenitor cells expressing EpCAM was similarly limited and was accompanied by telomere shortening, which could be circumvented by hTERT expression <abbrgrp><abbr bid="B10">10</abbr></abbrgrp>. In the same way, modification of pancreatic progenitor cells with hTERT greatly expanded their capacity to proliferate. The ability of other somatic cells, and even iPS cells, to assume greater proliferation capacity after modification with hTERT has been established <abbrgrp><abbr bid="B6">6</abbr><abbr bid="B10">10</abbr></abbrgrp>. This role of hTERT should be noteworthy because of the absence of tumorigenicity in hTERT-modified cells <abbrgrp><abbr bid="B10">10</abbr><abbr bid="B20">20</abbr></abbrgrp>, as shown previously, and again in our cell transplantation studies here, where transplanted cells did not generate foci of proliferating cells and no tumors were observed over at least four weeks.</p>
+         <p>We do not propose that genetically-modified cells with hTERT expression will be appropriate for immediate clinical applications, as more information will be needed in regards to their biological properties, regulation of differentiation through nonintegrating vectors in case of gene therapy-type approaches or of alternative small molecule approaches for this purpose, as recently identified during &#946; lineage derivation in hESC <abbrgrp><abbr bid="B21">21</abbr></abbrgrp>. The availability of fetal cells described here will permit comparative studies of differentiation mechanisms in pluripotent stem cells versus stem/progenitor cells with specific lineage commitment. Our preliminary studies indicated that (-)-indolactam V, which was effective for inducing beta cell maturation in hESC-derived cells <abbrgrp><abbr bid="B21">21</abbr></abbrgrp>, failed to enhance beta cell phenotype in hTERT-FPC, suggesting fundamental differences in regulation of beta cell differentiation in various types of stem/progenitor cells.</p>
+         <p>The loss of insulin expression in cultured FPC was in agreement with previous studies, for example, downregulation of hormone expression was a feature of immortalized human pancreatic cell lines, as well as of growth-stimulated primary human pancreatic cells <abbrgrp><abbr bid="B22">22</abbr><abbr bid="B23">23</abbr></abbrgrp>. Whether loss of gene expression was due to transcriptional downregulation, independent of cell differentiation, or switching of progenitor cells to more primitive states, were both possibilities. In our studies, EpCAM-positive fetal epithelial cells displayed properties of islet progenitor cells with expression of multiple hormones and relevant transcription factors in early cell culture conditions. We found that loss of insulin expression was coupled with simultaneous loss of Pdx1 expression in hTERT-FPC. Subsequently, we found that although this initial epithelial/endodermal phenotype was maintained in cells, additional properties typically encountered in mesenchymal/mesodermal cells, for example, vimentin expression, were displayed. This was strongly reminiscent of changes in EpCAM-positive fetal human liver stem/progenitor cells, where downregulation of the epithelial/endodermal phenotype was due to the onset of conjoint meso-endoderm (epithelial plus mesenchymal) phenotype under culture conditions <abbrgrp><abbr bid="B9">9</abbr></abbrgrp>. Also, these fetal human liver cells regained expression of epithelial genes after culture under serum-free conditions, which strengthened sharing of mechanisms observed in fetal pancreatic cells here.</p>
+         <p>Therefore, our findings of increased insulin expression in hTERT-FPC following culture under serum-free conditions with activin A were in agreement with the role of pathway-specific soluble signals in cell differentiation. The role of activin A in enhancing insulin expression in hTERT-FPC resembled the role of inductive signaling in generating &#946;-like cells from hESC <abbrgrp><abbr bid="B13">13</abbr></abbrgrp>, and of extrinsic signaling in inducing hepatic properties in fetal stem/progenitor cells <abbrgrp><abbr bid="B9">9</abbr></abbrgrp>. These shared mechanisms will offer new opportunities for exploring genetic and epigenetic processes in pancreatic lineage regulation, including induction of the beta cell phenotype. The availability of hTERT-FPC and hTERT-FH-B cells derived from fetal liver and pancreas, respectively, should provide important opportunities for comparing hESC- or iPS-derived cells in understanding transitions of embryonic-to-fetal and fetal-to-adult stages in the &#946; cell lineage. For instance, it should be relevant to determine whether candidate approaches capable of advancing &#946; cell maturation in hESC-derived cells, could be equally effective in hTERT-FPC or hTERT-FH-B cells.</p>
+         <p>As hTERT-FPC were capable of expressing insulin in vivo, this was similar to the expression of hepatic functions in fetal human liver epithelial cells following transplantation in xenotolerant mice <abbrgrp><abbr bid="B9">9</abbr></abbrgrp>. In other studies, transplantation of hTERT-FH-B fetal liver cells modified by Pdx1, was successful in correcting hyperglycemia in mice <abbrgrp><abbr bid="B11">11</abbr><abbr bid="B24">24</abbr></abbrgrp>. Here, our cell transplantation studies were limited to establishing differentiation of hTERT-FPC in the liver. Whether these cells could correct hyperglycemia in animals will require detailed studies in the future, particularly after further differentiation and maturation of cells along the &#946; lineage.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Conclusions</p>
+         </st>
+         <p>Insights into lineage-switching mechanisms during expansion of pancreatic stem/progenitor cells will be critical for understanding the fundamental nature of expanded cells. The availability of hTERT-FPC should facilitate efforts to identify effective mechanisms to maintain stem/progenitor cells under suitable states for cell expansion without extinction of differentiation capacity. This will be useful for translational applications, including cell therapy in type-1 diabetes mellitus.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Abbreviations</p>
+         </st>
+         <p>BETA2: betacellulin 2; BSA: bovine serum albumin; CaCl<sub>2</sub>: calcium chloride; cDNA: complementary deoxyribonucleic acid; CGA: chromogranin A; CK: cytokeratin; CMT: Charcot-Marie-Tooth; DMEM: Dulbecco's Minimal Eagle Medium; Dnase: deoxyribosenuclease; DPPIV: dipeptidyl peptidase IV; EDTA: ethylenediaminetetraacetic acid; EpCAM: epithelial cell adhesion molecule; FBS: fetal bovine serum; FITC: fluorescein isothiocyanate; GATA: GATA family of transcription factors; GFP: green fluorescent protein; GGT: &#947;-glutamyltranspeptidase; GK: glucokinase; GLUT: glucose transporter; HEPES: 4-(2-hydroxyethyl)-1-piperazineethanesulfonic acid; hESC: human embryonic stem cells; HNF: hepatic nuclear factor; hTERT: human telomerase reverse transcriptase; hTERT-FPC: human telomerase reverse transcriptase containing fetal pancreatic cells; IGF-1R: insulin-like growth factor-1 receptor; iPS: inducible pluripotential stem cells; Isl: islet; KCl:: potassium chloride; LV: lentivirus vector; NaCl: sodium chloride; NaH<sub>2</sub>PO<sub>4</sub>: sodium dihydrogen phosphate; NGN: Neurogenin; Nkx: NK homeobox protein; NOD-SCID: natural onset diabetes-severe combined immunodeficiency; Pax: paired homeobox gene; PBS: phosphate buffered saline; PC: prohormone convertase; pCCLsinPPT.hPGK.IRES.GFP.Wpre: third generation lentivirus plasmid; Pdx: pancreatic duodenal homeobox gene; PGK: phosphogylcerate kinase; pMD2.G: plasmid construct expressing vesicular stomatitis virus G envelope protein; pMDLg/pRRE: plasmid containing human immunodeficiency virus-derived packaging construct; PP: pancreatic polypeptide; pRSV-Rev: plasmid construct expressing Rev regulatory protein; RT-PCR: reverse-transcription polymerase chain reaction; TGF: transforming growth factor.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Competing interests</p>
+         </st>
+         <p>The authors declare that they have no competing interests.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Authors' contributions</p>
+         </st>
+         <p>KC performed studies, interpreted data, and prepared the manuscript. AF performed studies, interpreted data, and reviewed the manuscript. MS performed studies, interpreted data, and reviewed the manuscript. NF interpreted data, reviewed and approved the manuscript. SG designed studies, interpreted data and prepared the manuscript.</p>
+      </sec>
+   </bdy>
+   <bm>
+      <ack>
+         <sec>
+            <st>
+               <p>Acknowledgements</p>
+            </st>
+            <p>This work was supported in part by NIH grants P01 DK52956, P20 GM075037, R01 DK46952, R01 DK071111, P30 DK41296 and P30 CA13330. Mark Zern, MD, University of California, Davis, provided hTERT retrovirus and E. Vigna contributed to the lentiviral vector.</p>
+         </sec>
+      </ack>
+      <refgrp>
+         <bibl id="B1">
+            <title>
+               <p>Beta-cell differentiation from nonendocrine epithelial cells of the adult human pancreas</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Hao</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Tyrberg</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Itkin-Ansari</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Lakey</snm>
+                  <fnm>JR</fnm>
+               </au>
+               <au>
+                  <snm>Geron</snm>
+                  <fnm>I</fnm>
+               </au>
+               <au>
+                  <snm>Monosov</snm>
+                  <fnm>EZ</fnm>
+               </au>
+               <au>
+                  <snm>Barcova</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Mercola</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Levine</snm>
+                  <fnm>F</fnm>
+               </au>
+            </aug>
+            <source>Nat Med</source>
+            <pubdate>2006</pubdate>
+            <volume>12</volume>
+            <fpage>310</fpage>
+            <lpage>316</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/nm1367</pubid>
+                  <pubid idtype="pmpid" link="fulltext">16491084</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B2">
+            <title>
+               <p>&#946; Cells Can Be Generated from Endogenous Progenitors in Injured Adult Mouse Pancreas</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Xu</snm>
+                  <fnm>X</fnm>
+               </au>
+               <au>
+                  <snm>D'Hoker</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Stang&#233;</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Bonn&#233;</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>De Leu</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Xiao</snm>
+                  <fnm>X</fnm>
+               </au>
+               <au>
+                  <snm>Casteele</snm>
+                  <mnm>Van de</mnm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Mellitzer</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Ling</snm>
+                  <fnm>Z</fnm>
+               </au>
+               <au>
+                  <snm>Pipeleers</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Bouwens</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Scharfmann</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Gradwohl</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Heimberg</snm>
+                  <fnm>H</fnm>
+               </au>
+            </aug>
+            <source>Cell</source>
+            <pubdate>2008</pubdate>
+            <volume>132</volume>
+            <fpage>197</fpage>
+            <lpage>207</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.cell.2007.12.015</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18243096</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B3">
+            <title>
+               <p>Accelerated telomere shortening and senescence in human pancreatic islet cells stimulated to divide in vitro</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Halvorsen</snm>
+                  <fnm>TL</fnm>
+               </au>
+               <au>
+                  <snm>Beattie</snm>
+                  <fnm>GM</fnm>
+               </au>
+               <au>
+                  <snm>Lopez</snm>
+                  <fnm>AD</fnm>
+               </au>
+               <au>
+                  <snm>Hayek</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Levine</snm>
+                  <fnm>F</fnm>
+               </au>
+            </aug>
+            <source>J Endocrinol</source>
+            <pubdate>2000</pubdate>
+            <volume>166</volume>
+            <fpage>103</fpage>
+            <lpage>109</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1677/joe.0.1660103</pubid>
+                  <pubid idtype="pmpid" link="fulltext">10856888</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B4">
+            <title>
+               <p>Functional analysis of a conditionally transformed pancreatic beta-cell line</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Fleischer</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Chen</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Surana</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Leiser</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Rossetti</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Pralong</snm>
+                  <fnm>W</fnm>
+               </au>
+               <au>
+                  <snm>Efrat</snm>
+                  <fnm>S</fnm>
+               </au>
+            </aug>
+            <source>Diabetes</source>
+            <pubdate>1998</pubdate>
+            <volume>47</volume>
+            <fpage>1419</fpage>
+            <lpage>1425</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.2337/diabetes.47.9.1419</pubid>
+                  <pubid idtype="pmpid" link="fulltext">9726230</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B5">
+            <title>
+               <p>Isolation and characterization of a cell line from the epithelial cells of the human fetal pancreas</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Wang</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Beattie</snm>
+                  <fnm>GM</fnm>
+               </au>
+               <au>
+                  <snm>Mally</snm>
+                  <fnm>MI</fnm>
+               </au>
+               <au>
+                  <snm>Cirulli</snm>
+                  <fnm>V</fnm>
+               </au>
+               <au>
+                  <snm>Itlin-Ansari</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Lopez</snm>
+                  <fnm>AD</fnm>
+               </au>
+               <au>
+                  <snm>Hayek</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Levine</snm>
+                  <fnm>F</fnm>
+               </au>
+            </aug>
+            <source>Cell Transplant</source>
+            <pubdate>1997</pubdate>
+            <volume>6</volume>
+            <fpage>59</fpage>
+            <lpage>67</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/S0963-6897(96)00120-0</pubid>
+                  <pubid idtype="pmpid">9040956</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B6">
+            <title>
+               <p>Reprogramming of human somatic cells to pluripotency with defined factors</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Park</snm>
+                  <fnm>IH</fnm>
+               </au>
+               <au>
+                  <snm>Zhao</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>West</snm>
+                  <fnm>JA</fnm>
+               </au>
+               <au>
+                  <snm>Yabuuchi</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Huo</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Ince</snm>
+                  <fnm>TA</fnm>
+               </au>
+               <au>
+                  <snm>Lerou</snm>
+                  <fnm>PH</fnm>
+               </au>
+               <au>
+                  <snm>Lensch</snm>
+                  <fnm>MW</fnm>
+               </au>
+               <au>
+                  <snm>Daley</snm>
+                  <fnm>GQ</fnm>
+               </au>
+            </aug>
+            <source>Nature</source>
+            <pubdate>2008</pubdate>
+            <volume>451</volume>
+            <fpage>141</fpage>
+            <lpage>146</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/nature06534</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18157115</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B7">
+            <title>
+               <p>In vivo reprogramming of adult pancreatic exocrine cells to beta-cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Zhou</snm>
+                  <fnm>Q</fnm>
+               </au>
+               <au>
+                  <snm>Brown</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Kanarek</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Rajagopal</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Melton</snm>
+                  <fnm>DA</fnm>
+               </au>
+            </aug>
+            <source>Nature</source>
+            <pubdate>2008</pubdate>
+            <volume>455</volume>
+            <fpage>627</fpage>
+            <lpage>632</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/nature07314</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18754011</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B8">
+            <title>
+               <p>Stage-specific regulation of adhesion molecule expression segregates epithelial stem/progenitor cells in fetal and adult human livers</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Inada</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Benten</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Cheng</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Joseph</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Berishvili</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Badve</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Logdberg</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Dabeva</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Gupta</snm>
+                  <fnm>S</fnm>
+               </au>
+            </aug>
+            <source>Hepatol Int</source>
+            <pubdate>2008</pubdate>
+            <volume>2</volume>
+            <fpage>50</fpage>
+            <lpage>62</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1007/s12072-007-9023-4</pubid>
+                  <pubid idtype="pmcid">2716863</pubid>
+                  <pubid idtype="pmpid">19669279</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B9">
+            <title>
+               <p>Phenotype reversion in fetal human liver epithelial cells identifies the role of an intermediate meso-endodermal stage before hepatic maturation</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Inada</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Follenzi</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Cheng</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Surana</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Joseph</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Benten</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Bandi</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Qian</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Gupta</snm>
+                  <fnm>S</fnm>
+               </au>
+            </aug>
+            <source>J Cell Sci</source>
+            <pubdate>2008</pubdate>
+            <volume>121</volume>
+            <fpage>1002</fpage>
+            <lpage>1013</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1242/jcs.019315</pubid>
+                  <pubid idtype="pmcid">2695499</pubid>
+                  <pubid idtype="pmpid">18319302</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B10">
+            <title>
+               <p>Telomerase reconstitution immortalizes human fetal hepatocytes without disrupting their differentiation potential</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Wege</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Le</snm>
+                  <fnm>HT</fnm>
+               </au>
+               <au>
+                  <snm>Chui</snm>
+                  <fnm>MS</fnm>
+               </au>
+               <au>
+                  <snm>Liu</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Wu</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Giri</snm>
+                  <fnm>RK</fnm>
+               </au>
+               <au>
+                  <snm>Malhi</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Sappal</snm>
+                  <fnm>BS</fnm>
+               </au>
+               <au>
+                  <snm>Kumaran</snm>
+                  <fnm>V</fnm>
+               </au>
+               <au>
+                  <snm>Gupta</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Zern</snm>
+                  <fnm>MA</fnm>
+               </au>
+            </aug>
+            <source>Gastroenterology</source>
+            <pubdate>2003</pubdate>
+            <volume>124</volume>
+            <fpage>432</fpage>
+            <lpage>444</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1053/gast.2003.50064</pubid>
+                  <pubid idtype="pmpid" link="fulltext">12557149</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B11">
+            <title>
+               <p>Reversal of hyperglycemia in mice using human expandable insulin-producing cells differentiated from fetal liver progenitor cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Zalzman</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Gupta</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Giri</snm>
+                  <fnm>RK</fnm>
+               </au>
+               <au>
+                  <snm>Berkovich</snm>
+                  <fnm>I</fnm>
+               </au>
+               <au>
+                  <snm>Sappal</snm>
+                  <fnm>BS</fnm>
+               </au>
+               <au>
+                  <snm>Karnieli</snm>
+                  <fnm>O</fnm>
+               </au>
+               <au>
+                  <snm>Zern</snm>
+                  <fnm>MA</fnm>
+               </au>
+               <au>
+                  <snm>Fleischer</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Efrat</snm>
+                  <fnm>S</fnm>
+               </au>
+            </aug>
+            <source>Proc Natl Acad Sci USA</source>
+            <pubdate>2003</pubdate>
+            <volume>100</volume>
+            <fpage>7253</fpage>
+            <lpage>7258</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1073/pnas.1136854100</pubid>
+                  <pubid idtype="pmcid">165862</pubid>
+                  <pubid idtype="pmpid">12756298</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B12">
+            <title>
+               <p>Genetic programming of liver and pancreas progenitors: lessons for stem-cell differentiation</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Zaret</snm>
+                  <fnm>KS</fnm>
+               </au>
+            </aug>
+            <source>Nat Rev Genet</source>
+            <pubdate>2008</pubdate>
+            <volume>9</volume>
+            <fpage>329</fpage>
+            <lpage>340</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/nrg2318</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18398419</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B13">
+            <title>
+               <p>Guided differentiation of embryonic stem cells into Pdx1-expressing regional-specific definitive endoderm</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Shiraki</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Yoshida</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Araki</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Umezawa</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Higuchi</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Goto</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Kume</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Kume</snm>
+                  <fnm>S</fnm>
+               </au>
+            </aug>
+            <source>Stem Cells</source>
+            <pubdate>2008</pubdate>
+            <volume>26</volume>
+            <fpage>874</fpage>
+            <lpage>885</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1634/stemcells.2007-0608</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18238854</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B14">
+            <title>
+               <p>Gene transfer by lentiviral vectors is limited by nuclear translocation and rescued by HIV-1 pol sequences</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Follenzi</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Ailles</snm>
+                  <fnm>LE</fnm>
+               </au>
+               <au>
+                  <snm>Bakovic</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Geuna</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Naldini</snm>
+                  <fnm>L</fnm>
+               </au>
+            </aug>
+            <source>Nat Genet</source>
+            <pubdate>2000</pubdate>
+            <volume>25</volume>
+            <fpage>217</fpage>
+            <lpage>222</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/76095</pubid>
+                  <pubid idtype="pmpid" link="fulltext">10835641</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B15">
+            <title>
+               <p>Recapitulation of embryonic neuroendocrine differentiation in adult human pancreatic duct cells expressing neurogenin 3</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Heremans</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Casteele</snm>
+                  <mnm>Van De</mnm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>in't Veld</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Gradwohl</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Serup</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Madsen</snm>
+                  <fnm>O</fnm>
+               </au>
+               <au>
+                  <snm>Pipeleers</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Heimberg</snm>
+                  <fnm>H</fnm>
+               </au>
+            </aug>
+            <source>J Cell Biol</source>
+            <pubdate>2002</pubdate>
+            <volume>159</volume>
+            <fpage>303</fpage>
+            <lpage>312</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1083/jcb.200203074</pubid>
+                  <pubid idtype="pmcid">2173047</pubid>
+                  <pubid idtype="pmpid">12403815</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B16">
+            <title>
+               <p>Multipotent adult progenitor cells from bone marrow differentiate into functional hepatocyte-like cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Schwartz</snm>
+                  <fnm>RE</fnm>
+               </au>
+               <au>
+                  <snm>Reyes</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Koodie</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Jiang</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Blackstad</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Lund</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Lenvik</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Johnson</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Hu</snm>
+                  <fnm>WS</fnm>
+               </au>
+               <au>
+                  <snm>Verfaillie</snm>
+                  <fnm>CM</fnm>
+               </au>
+            </aug>
+            <source>J Clin Invest</source>
+            <pubdate>2002</pubdate>
+            <volume>109</volume>
+            <fpage>1291</fpage>
+            <lpage>1302</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="pmcid">150983</pubid>
+                  <pubid idtype="pmpid">12021244</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B17">
+            <title>
+               <p>Immortalization of human small airway epithelial cells by ectopic expression of telomerase</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Piao</snm>
+                  <fnm>CQ</fnm>
+               </au>
+               <au>
+                  <snm>Liu</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Zhao</snm>
+                  <fnm>YL</fnm>
+               </au>
+               <au>
+                  <snm>Balajee</snm>
+                  <fnm>AS</fnm>
+               </au>
+               <au>
+                  <snm>Suzuki</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Hei</snm>
+                  <fnm>TK</fnm>
+               </au>
+            </aug>
+            <source>Carcinogenesis</source>
+            <pubdate>2005</pubdate>
+            <volume>26</volume>
+            <fpage>725</fpage>
+            <lpage>731</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1093/carcin/bgi016</pubid>
+                  <pubid idtype="pmpid" link="fulltext">15677631</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B18">
+            <title>
+               <p>Hepatic targeting of transplanted liver sinusoidal endothelial cells in intact mice</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Benten</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Follenzi</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Bhargava</snm>
+                  <fnm>KK</fnm>
+               </au>
+               <au>
+                  <snm>Kumaran</snm>
+                  <fnm>V</fnm>
+               </au>
+               <au>
+                  <snm>Palestro</snm>
+                  <fnm>CJ</fnm>
+               </au>
+               <au>
+                  <snm>Gupta</snm>
+                  <fnm>S</fnm>
+               </au>
+            </aug>
+            <source>Hepatology</source>
+            <pubdate>2005</pubdate>
+            <volume>42</volume>
+            <fpage>140</fpage>
+            <lpage>148</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1002/hep.20746</pubid>
+                  <pubid idtype="pmpid" link="fulltext">15918158</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B19">
+            <title>
+               <p>Identification of transplanted human cells in animal tissues</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Benten</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Cheng</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Gupta</snm>
+                  <fnm>S</fnm>
+               </au>
+            </aug>
+            <source>Methods Mol Biol</source>
+            <pubdate>2006</pubdate>
+            <volume>326</volume>
+            <fpage>189</fpage>
+            <lpage>201</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid">16780202 </pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B20">
+            <title>
+               <p>Telomerase expression in human somatic cells does not induce changes associated with a transformed phenotype</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Jiang</snm>
+                  <fnm>XR</fnm>
+               </au>
+               <au>
+                  <snm>Jimenez</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Chang</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Frolkis</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Kusler</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Sage</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Beeche</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Bodnar</snm>
+                  <fnm>AG</fnm>
+               </au>
+               <au>
+                  <snm>Wahl</snm>
+                  <fnm>GM</fnm>
+               </au>
+               <au>
+                  <snm>Tlsty</snm>
+                  <fnm>TD</fnm>
+               </au>
+               <au>
+                  <snm>Chiu</snm>
+                  <fnm>CP</fnm>
+               </au>
+            </aug>
+            <source>Nat Genet</source>
+            <pubdate>1999</pubdate>
+            <volume>21</volume>
+            <fpage>111</fpage>
+            <lpage>114</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/5056</pubid>
+                  <pubid idtype="pmpid" link="fulltext">9916802</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B21">
+            <title>
+               <p>A small molecule that directs differentiation of human ESCs into the pancreatic lineage</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Chen</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Borowiak</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Fox</snm>
+                  <fnm>JL</fnm>
+               </au>
+               <au>
+                  <snm>Maehr</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Osafune</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Davidow</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Lam</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Peng</snm>
+                  <fnm>LF</fnm>
+               </au>
+               <au>
+                  <snm>Schreiber</snm>
+                  <fnm>SL</fnm>
+               </au>
+               <au>
+                  <snm>Rubin</snm>
+                  <fnm>LL</fnm>
+               </au>
+               <au>
+                  <snm>Melton</snm>
+                  <fnm>D</fnm>
+               </au>
+            </aug>
+            <source>Nat Chem Biol</source>
+            <pubdate>2009</pubdate>
+            <volume>5</volume>
+            <fpage>258</fpage>
+            <lpage>265</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/nchembio.154</pubid>
+                  <pubid idtype="pmpid" link="fulltext">19287398</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B22">
+            <title>
+               <p>Pdx1 and cell-cell contact act in synergy to promote &#948;-cell development in a human pancreatic endocrine precursor cell line</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Itkin-Ansari</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Demeterco</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Bossie</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Tour</snm>
+                  <fnm>DD</fnm>
+               </au>
+               <au>
+                  <snm>Beattie</snm>
+                  <fnm>GM</fnm>
+               </au>
+               <au>
+                  <snm>Movassat</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Movassat</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Mally</snm>
+                  <fnm>MI</fnm>
+               </au>
+               <au>
+                  <snm>Hayek</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Levine</snm>
+                  <fnm>F</fnm>
+               </au>
+            </aug>
+            <source>Mol Endocrinol</source>
+            <pubdate>2000</pubdate>
+            <volume>14</volume>
+            <fpage>814</fpage>
+            <lpage>822</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1210/me.14.6.814</pubid>
+                  <pubid idtype="pmpid" link="fulltext">10847584</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B23">
+            <title>
+               <p>Reversal of insulin-dependent diabetes using islets generated in vitro from pancreatic stem cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Ramiya</snm>
+                  <fnm>VK</fnm>
+               </au>
+               <au>
+                  <snm>Maraist</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Arfors</snm>
+                  <fnm>KE</fnm>
+               </au>
+               <au>
+                  <snm>Schatz</snm>
+                  <fnm>DA</fnm>
+               </au>
+               <au>
+                  <snm>Peck</snm>
+                  <fnm>AB</fnm>
+               </au>
+               <au>
+                  <snm>Cornelius</snm>
+                  <fnm>JG</fnm>
+               </au>
+            </aug>
+            <source>Nat Med</source>
+            <pubdate>2000</pubdate>
+            <volume>6</volume>
+            <fpage>278</fpage>
+            <lpage>282</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/73128</pubid>
+                  <pubid idtype="pmpid" link="fulltext">10700229</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B24">
+            <title>
+               <p>Differentiation of human liver-derived, insulin-producing cells toward the beta-cell phenotype</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Zalzman</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Anker-Kitai</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Efrat</snm>
+                  <fnm>S</fnm>
+               </au>
+            </aug>
+            <source>Diabetes</source>
+            <pubdate>2005</pubdate>
+            <volume>54</volume>
+            <fpage>2568</fpage>
+            <lpage>2575</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.2337/diabetes.54.9.2568</pubid>
+                  <pubid idtype="pmpid" link="fulltext">16123344</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+      </refgrp>
+   </bm>
+</art>

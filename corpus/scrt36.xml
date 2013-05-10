@@ -1,0 +1,2046 @@
+<!DOCTYPE art SYSTEM "article.dtd">
+<art>
+   <ui>scrt36</ui>
+   <ji>1757-6512</ji>
+   <fm>
+      <dochead>Research</dochead>
+      <bibl>
+         <title>
+            <p>Neurotransplantation of stem cells genetically modified to express human dopamine transporter reduces alcohol consumption</p>
+         </title>
+         <aug>
+            <au id="A1" ce="yes">
+               <snm>Grammatopoulos</snm>
+               <mi>N</mi>
+               <fnm>Tom</fnm>
+               <insr iid="I1"/>
+               <email>thangram@hotmail.com</email>
+            </au>
+            <au id="A2" ce="yes">
+               <snm>Jones</snm>
+               <mi>M</mi>
+               <fnm>Susan</fnm>
+               <insr iid="I1"/>
+               <email>susanj@cbsi.md</email>
+            </au>
+            <au id="A3">
+               <snm>Yoshimura</snm>
+               <fnm>Masami</fnm>
+               <insr iid="I2"/>
+               <email>MYoshimura@vetmed.lsu.edu</email>
+            </au>
+            <au id="A4">
+               <snm>Hoover</snm>
+               <mi>R</mi>
+               <fnm>Brian</fnm>
+               <insr iid="I2"/>
+               <email>hoove086@umn.edu</email>
+            </au>
+            <au id="A5">
+               <snm>Das</snm>
+               <fnm>Mita</fnm>
+               <insr iid="I3"/>
+               <email>mita.das5000@gmail.com</email>
+            </au>
+            <au id="A6">
+               <snm>Snyder</snm>
+               <mi>Y</mi>
+               <fnm>Evan</fnm>
+               <insr iid="I5"/>
+               <email>esnyder@burnham.org</email>
+            </au>
+            <au id="A7">
+               <snm>Larson</snm>
+               <mi>A</mi>
+               <fnm>Gaynor</fnm>
+               <insr iid="I2"/>
+               <email>Gaynor.Larson@ucdenver.edu</email>
+            </au>
+            <au id="A8">
+               <snm>Zahniser</snm>
+               <mi>R</mi>
+               <fnm>Nancy</fnm>
+               <insr iid="I2"/>
+               <email>Nancy.Zahniser@ucdenver.edu</email>
+            </au>
+            <au id="A9">
+               <snm>Tabakoff</snm>
+               <fnm>Boris</fnm>
+               <insr iid="I2"/>
+               <email>boris.tabakoff@ucdenver.edu</email>
+            </au>
+            <au ca="yes" id="A10">
+               <snm>Zawada</snm>
+               <fnm>W Michael</fnm>
+               <insr iid="I3"/>
+               <insr iid="I4"/>
+               <email>mike.zawada5000@gmail.com</email>
+            </au>
+         </aug>
+         <insg>
+            <ins id="I1">
+               <p>Department of Medicine, University of Colorado Denver, 12800 East 19th Avenue, Aurora, CO 80045, USA</p>
+            </ins>
+            <ins id="I2">
+               <p>Department of Pharmacology, University of Colorado Denver, 12800 East 19th Avenue, Aurora, CO 80045, USA</p>
+            </ins>
+            <ins id="I3">
+               <p>Division of Pharmaceutical Sciences, School of Pharmacy, University of Wyoming, 1000 East University Avenue, Laramie, WY 82071, USA</p>
+            </ins>
+            <ins id="I4">
+               <p>Neuroscience Program, University of Wyoming, 1000 East University Avenue, Laramie, WY 82071, USA</p>
+            </ins>
+            <ins id="I5">
+               <p>The Sanford Burnham Medical Research Institute, 10901 North Torrey Pines Road, La Jolla, CA 92037, USA</p>
+            </ins>
+         </insg>
+         <source>Stem Cell Research &amp; Therapy</source>
+         <issn>1757-6512</issn>
+         <pubdate>2010</pubdate>
+         <volume>1</volume>
+         <issue>5</issue>
+         <fpage>36</fpage>
+         <url>http://stemcellres.com/content/1/5/36</url>
+         <xrefbib>
+            <pubidlist>
+               <pubid idtype="doi">10.1186/scrt36</pubid>
+               <pubid idtype="pmpid">21122109</pubid>
+            </pubidlist>
+         </xrefbib>
+      </bibl>
+      <history>
+         <rec>
+            <date>
+               <day>7</day>
+               <month>8</month>
+               <year>2010</year>
+            </date>
+         </rec>
+         <acc>
+            <date>
+               <day>1</day>
+               <month>12</month>
+               <year>2010</year>
+            </date>
+         </acc>
+         <pub>
+            <date>
+               <day>1</day>
+               <month>12</month>
+               <year>2010</year>
+            </date>
+         </pub>
+      </history>
+      <cpyrt>
+         <year>2010</year>
+         <collab>Zawada et al.; licensee BioMed Central Ltd.</collab>
+         <note>This is an open access article distributed under the terms of the Creative Commons Attribution License (&lt;url>http://creativecommons.org/licenses/by/2.0&lt;/url>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</note>
+      </cpyrt>
+      <abs>
+         <sec>
+            <st>
+               <p>Abstract</p>
+            </st>
+            <sec>
+               <st>
+                  <p>Introduction</p>
+               </st>
+               <p>Regulated neurotransmitter actions in the mammalian central nervous system determine brain function and control peripheral organs and behavior. Although drug-seeking behaviors, including alcohol consumption, depend on central neurotransmission, modification of neurotransmitter actions in specific brain nuclei remains challenging. Herein, we report a novel approach for neurotransmission modification <it>in vivo </it>by transplantation of stem cells engineered to take up the neurotransmitter dopamine (DA) efficiently through the action of the human dopamine transporter (hDAT). As a functional test in mice, we used voluntary alcohol consumption, which is known to release DA in nucleus accumbens (NAC), an event hypothesized to help maintain drug-seeking behavior. We reasoned that reducing extracellular DA levels, by engrafting into NAC DA-sequestering stem cells expressing hDAT, would alter alcohol intake.</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>Methods</p>
+               </st>
+               <p>We have generated a neural stem cell line stably expressing the hDAT. Uptake kinetics of DA were determined to select a clone for transplantation. These genetically modified stem cells (or cells transfected with a construct lacking the hDAT sequence) were transplanted bilaterally into the NAC of wild-type mice trained to consume 10% alcohol in a two-bottle free-choice test for alcohol consumption. Alcohol intake was then ascertained for 1 week after transplantation, and brain sections through the NAC were examined for surviving grafted cells.</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>Results</p>
+               </st>
+               <p>Modified stem cells expressed hDAT and uptaken DA selectively via hDAT. Mice accustomed to drinking 10% ethanol by free choice reduced their alcohol consumption after being transplanted with hDAT-expressing stem cells. By contrast, control stem cells lacked that effect. Histologic examination revealed surviving stem cells in the NAC of all engrafted brains.</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>Conclusions</p>
+               </st>
+               <p>Our findings represent proof of principle suggesting that genetically engineered stem cells can be useful for exploring the role of neurotransmitters (or other signaling molecules) in alcohol consumption and potentially in other aspects of brain function.</p>
+            </sec>
+         </sec>
+      </abs>
+   </fm>
+   <bdy>
+      <sec>
+         <st>
+            <p>Introduction</p>
+         </st>
+         <p>It has been 50 years since Olds and Milner <abbrgrp><abbr bid="B1">1</abbr></abbrgrp> described the existence of reward pathways in the brain, based on their experiments showing that electrical stimulation of certain brain areas is rewarding to rats. Today's understanding of common reward pathways in the brain involves the mesocorticolimbic circuitry consisting of dopaminergic cell bodies in the ventral tegmental area (VTA) and their projections to terminal areas of the prefrontal cortex and the "extended amygdala" (the NAC, substantia innominata, bed nucleus of the stria terminalis and amygdala). Rewarding stimuli such as food, sex, and drugs of abuse, including ethanol, result in the release of DA in terminal areas, particularly the NAC <abbrgrp><abbr bid="B2">2</abbr></abbrgrp>. Although the dopaminergic mesocorticolimbic pathway is clearly involved in reward mechanisms, questions about the precise role of DA in drug addiction remain. We hypothesize that because the DAT regulates the concentration and duration of synaptic DA available to stimulate postsynaptic D<sub>1 </sub>and D<sub>2 </sub>receptors <abbrgrp><abbr bid="B3">3</abbr></abbrgrp>, overexpression of DAT should decrease the accumulation of released DA and reduce the ethanol consumption observed in mice.</p>
+         <p>To this end, we generated a cell line of C17.2 neural stem cells that stably overexpresses the hDAT and then transplanted these cells into the NAC of alcohol-preferring female C57BL/6J mice. Transplantation of embryonic neurons or neural stem cells into brains of animals serving as models of neural disorders has recently attracted more attention. For example, several studies have shown that transplantation of C17.2 cells into the CNS can repair a genetic defect such as dysmyelination <abbrgrp><abbr bid="B4">4</abbr></abbrgrp> and that when overexpressing glucuronidase corrects lysosomal storage deficiency <abbrgrp><abbr bid="B5">5</abbr></abbrgrp>. Ours is the first report of using stem cells for modification of neurotransmission in a model of drug preference. The plasticity and ease of genetic manipulation of these cells makes them ideal candidates for neurotransplantation designed to alter endogenous levels of a single molecule; in this case, the hDAT. By manipulating the expression of the hDAT, we sought selectively to affect dopaminergic neurotransmission and ethanol consumption.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Materials and methods</p>
+         </st>
+         <sec>
+            <st>
+               <p>Animals and cell culture</p>
+            </st>
+            <p>Animal protocols and use were in strict accordance with the NIH <it>Guide for the Care and Use of Laboratory Animals </it>and were approved by the Institutional Animal Care and Use Committee at the University of Colorado Denver. Male Sprague-Dawley rats (<it>n </it>= 3; 175 to 225 g; Charles River Laboratories) housed on a 12-h light/dark cycle with <it>ad libitum </it>food and water were used in experiments examining synaptosomal DA uptake. We used female C57BL/6J mice from Jackson Laboratories (6 weeks old at the beginning of the study; 15 to 18 g) for studies of ethanol preference (<it>n </it>= 30) and chronoamperometry (<it>n </it>= 5). Mice were housed individually on a 12-h light/dark cycle with food and water <it>ad libitum</it>.</p>
+            <p>The C17.2 neural stem cells were derived from postnatal mouse cerebellum, express &#946;-galactosidase <abbrgrp><abbr bid="B6">6</abbr></abbrgrp>, and graft well into rodent CNS. After transplantation, C17.2 cells differentiate into several types of neurons, astrocytes, and oligodendrocytes naturally occurring at the site of transplantation <abbrgrp><abbr bid="B7">7</abbr></abbrgrp>, and home into areas of brain damage <abbrgrp><abbr bid="B8">8</abbr></abbrgrp>. These studies also demonstrate that C17.2 cells do not form tumors, as their growth in contact is inhibited. The C17.2 neural stem cell line and its clones were grown in DMEM/10% fetal bovine serum/5% horse serum, supplemented with glutamine (2 m<it>M</it>), sodium pyruvate (1 m<it>M</it>), and penicillin/streptomycin/Fungizone (100&#215; containing 10,000 units penicillin, 10,000 &#956;g streptomycin, and 25 &#956;g amphotericin B; Gibco, Rockville, MD), in a 37&#176;C incubator at 5% CO<sub>2</sub>.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Plasmid construction and transfection of neural stem cells</p>
+            </st>
+            <p>To ensure a strong expression of hDAT in C17.2 cells after transplantation and differentiation, a combination of the cytomegalovirus enhancer and the chicken beta actin promoter in a pCAIP<sub>2 </sub>plasmid was used (kindly provided by Ernest Arenas of Karolinska Institutet). The construct contains the coding sequence of hDAT, an intron (IVS), an internal ribosome entry site (IRES), and the coding sequence of the puromycin resistance gene. The arrangement facilitates screening of stable transfectants that express hDAT. The hDAT cDNA was obtained from Jonathan A. Javitch, Columbia University. Exponentially growing C17.2 cells were trypsinized, plated into 10-cm tissue-culture dishes, and grown overnight in growth medium. Plasmid DNA (20 &#956;g) was mixed with 0.5 ml of CaCl<sub>2 </sub>(0.25 <it>M</it>) and 0.5 ml BES-buffered saline (BBS), and incubated for 20 min at room temperature. DNA/CaCl<sub>2</sub>/BBS mixture was added drop-wise to the dishes, which were incubated overnight. C17.mock clones were transfected with plasmid not containing hDAT cDNA. The next morning, the cultures were rinsed twice with Hank's Balanced Salt Solution (HBSS) and returned to the growth medium. Forty-eight hours later, the medium was replaced with fresh medium containing puromycin (2.5 &#956;g/ml). The medium containing puromycin was replaced daily. Six days after selection began, individual colonies of cells were gently lifted and transferred to individual wells of a 96-well plate. Clones were expanded when they became confluent. C17.hDAT and C17.mock clones were frozen after DA uptake was determined, within five to six passages after selection.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Preparation of synaptosomes from dorsal striatum</p>
+            </st>
+            <p>After decapitation, rat brains were rapidly removed and placed in an ice-cooled dish where both hemispheres of dorsal striatum were dissected. Striatal tissue was homogenized in 2 ml of ice-cold phosphate buffer (3.3 m<it>M </it>NaH<sub>2</sub>PO<sub>4 </sub>+ 12.7 m<it>M </it>Na<sub>2</sub>HPO<sub>4</sub>) containing 0.32 <it>M </it>sucrose (pH 7.4) with a glass homogenization tube and a Teflon pestle. Homogenization was followed by centrifugation at 1,000 <it>g </it>for 12 minutes at 4&#176;C. The supernatant was centrifuged at 12,500 <it>g </it>to isolate the P2 pellet and then resuspended at 15 mg/ml (wet weight of tissue). The resuspended P2 synaptosomal pellet was further washed by centrifugation to isolate the P4 synaptosomal pellet, which, on resuspension, was used in the uptake assay.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>[<sup>3</sup>H]DA uptake in synaptosomes</p>
+            </st>
+            <p>Chemicals were purchased from RBI/Sigma (St. Louis, MO, USA) with the following exceptions: (-)-cocaine HCl was obtained from the National Institute on Drug Abuse (Research Triangle Institute International, Research Triangle Park, NC), and [<sup>3</sup>H]DA was purchased from PerkinElmer Life Sciences (Boston, MA, USA). Striatal synaptosomal tissue was incubated with assay buffer (134 m<it>M </it>NaCl, 240 m<it>M </it>KCl, 65 m<it>M </it>CaCl<sub>2</sub>, 70 m<it>M </it>MgSO<sub>4</sub>, 3.3 m<it>M </it>NaH<sub>2</sub>PO<sub>4</sub>, 12.7 m<it>M </it>Na<sub>2</sub>HPO<sub>4</sub>, 11 m<it>M </it>glucose, and 1 m<it>M </it>ascorbic acid, pH 7.4) containing 1 &#956;<it>M </it>pargyline for 10 minutes at 37&#176;C. [<sup>3</sup>H]DA was added at a final concentration of 0.5 n<it>M </it>(54.1 to 59.3 Ci/mmol) in addition to increasing concentrations of unlabeled DA (0.5, 5, 50, 500, 1,000, and 10,000 n<it>M</it>). The uptake assay was performed at 37&#176;C for 3 minutes. Nonspecific uptake of [<sup>3</sup>H]DA was determined in samples incubated with 1 m<it>M </it>cocaine. The assay was halted by placing the samples on ice and adding 3 ml of ice-cold 0.32 <it>M </it>sucrose solution before filtering through Whatman GF/C glass microfiber filters with a cell harvester. The filters were washed an additional 2 times with the sucrose solution before being placed in scintillation vials filled with 4 ml of scintillation cocktail. Radioactivity was determined with liquid scintillation spectrometry. The protein concentration of the P4 synaptosomal pellet was determined according to the method of Bradford (1976), by using bovine serum albumin as the standard. K<sub>m </sub>and V<sub>max </sub>values for [<sup>3</sup>H]DA uptake were calculated with nonlinear regression fitting by using Graph Pad Prism software (San Diego, CA). All uptake studies involved three independent experiments with samples tested in triplicates.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>[<sup>3</sup>H]DA uptake in cultured neural stem cells</p>
+            </st>
+            <p>After thawing, clones were split once by trypsinization and plated into 12-well tissue-culture plates that were precoated with poly-<smcaps>L</smcaps>-lysine (Sigma; 10 &#956;g/ml). Cells were grown for 48 hours before uptake was measured. The cells were rinsed and then assayed at 37&#176;C in Krebs-Ringer HEPES buffer (KRH; 120 m<it>M </it>NaCl, 4.7 m<it>M </it>KCl, 2.2 m<it>M </it>CaCl<sub>2</sub>, 1.2 m<it>M </it>Mg SO<sub>4</sub>, 1.2 m<it>M </it>KH<sub>2</sub>PO<sub>4</sub>, 10 m<it>M </it>glucose, 10 m<it>M </it>HEPES, pH 7.4) supplemented with 10 &#956;<it>M </it>pargyline, 10 &#956;<it>M </it>ascorbic acid, and 10 &#956;<it>M </it>catechol. Assays (1 ml) included 50 n<it>M </it>[<sup>3</sup>H]DA (54.7 to 59.3 Ci/mmol). Nonspecific [<sup>3</sup>H]DA accumulation was determined in the presence of 1 m<it>M </it>(-)cocaine hydrochloride. After 10 minutes of incubation at 37&#176;C, uptake was terminated by quickly washing the cells 3 times with 1 ml of ice-cold KRH. Cells were then solubilized in 0.5 ml of 3% trichloroacetic acid for 60 minutes with gentle shaking. Accumulated [<sup>3</sup>H]DA was determined by liquid scintillation counting. Clones showing robust uptake at 50 n<it>M </it>[<sup>3</sup>H]DA were then chosen for further studies of saturation kinetics in the presence of various concentrations of DA, or selectivity in the presence of 1 &#956;<it>M </it>GBR 12909, desipramine, or fluoxetine. Kinetic parameters were calculated as described earlier.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Stem cell transplantation</p>
+            </st>
+            <p>C17.hDAT or C17.mock transfected cells were thawed into a 60-mm tissue-culture plate 4 to 7 days before transplantation. They were rinsed 4 to 6 hours after thawing and then split by trypsinization after 3 or 4 days, when they were 85% confluent. On the day of surgery, cells were used only if less than 90% confluent. They were trypsinized, spun at 300 <it>g</it>, and rinsed 4 times with HBSS before resuspension in HBSS at a density of 50,000 cells/&#956;l. The cells were kept above ice until transplanted. Cells left over after surgery were plated into DMEM growth media and allowed to attach before staining with x-gal to verify &#946;-galactosidase expression. Mice were anesthetized with isoflurane, and holes were drilled in the skull bilaterally at 1.4 mm anterior, and &#177;0.8 mm lateral to bregma (coordinates from <abbrgrp><abbr bid="B9">9</abbr></abbrgrp>). A stainless steel guide cannula (27 gauge) with solid blunt insert was lowered 3 mm below the dura. The solid insert was then replaced with a 29-gauge cannula, which extended 1.5 mm past the end of the guide cannula and was attached to PE tubing and a 10-&#956;l Hamilton syringe. Then 100,000 cells were injected from the cannula at a rate of 1 &#956;l/min, while the cannula was raised 1 mm, depositing the cells over a 1-mm track. The cannula was left in place for an additional 2 minutes before removing it from the brain. Three groups of mice (nine per group) received either bilateral saline injection into the NAC, or bilateral transplants of C17.hDAT cells, a clone with functional DA transporter, or C17.mock, a clone mock-transfected with an empty plasmid.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Two-bottle choice test</p>
+            </st>
+            <p>Alcohol preference was tested in 30 mice by introducing two water bottles for 3 days, and then replacing the water in one of the bottles with ethanol (3% wt/vol for 6 days, then 10% wt/vol for 8 days). Body weight and the volume of water and ethanol consumed from each bottle were measured every 3 days, at which time fresh ethanol and water were provided, and the positions of the bottles switched. The mice were given 3 days without ethanol before transplantation, followed by 3 days of recovery before preference was again tested with 10% ethanol in one of the two bottles. The ratio of the volume of ethanol to the total fluid consumed was calculated. Ethanol consumption was calculated in grams ethanol/kg body weight/day. Three mice were eliminated based on their pretransplantation ratios (&lt;0.55), leaving nine mice per group for transplantation (27 mice total). Posttransplant alcohol consumption was not measured for one animal in the C17.mock group because it died postsurgically. All animals that survived transplantation had surviving bilateral grafts, and all of these animals were included in the alcohol-consumption analysis.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Electrochemical recording of DA clearance</p>
+            </st>
+            <p>The method used is explained in detail in Hoffman <it>et </it><it>al</it>. <abbrgrp><abbr bid="B10">10</abbr></abbrgrp> and modified by Gulley <it>et </it><it>al</it>. <abbrgrp><abbr bid="B11">11</abbr></abbrgrp>. DA clearance was determined in C17.mock clone and C17.hDAT clone 5 to 7 days after transplantation into the right and left, respectively, cerebral cortex of each of the five mice used. Mice were killed by cervical dislocation, and their brains were rapidly chilled in ice-cold artificial cerebrospinal fluid (aCSF; 126 m<it>M </it>NaCl, 2.9 m<it>M </it>KCl, 1.5 m<it>M </it>MgCl<sub>2</sub>, 2.5 m<it>M </it>CaCl<sub>2</sub>, 1.4 m<it>M </it>NaH<sub>2</sub>PO<sub>4</sub>, 10 m<it>M </it>glucose, 25 m<it>M </it>NaHCO<sub>3 </sub>and 200 &#956;<it>M </it>ascorbate, continuously bubbled with 95% O<sub>2</sub>/5% CO<sub>2</sub>; pH 7.4). Coronal brain sections (400 &#956;m) containing the transplanted cell tracks in the cerebral cortex were cut with a Vibratome (Ted Pella, Inc., Redding, CA). After slice recovery at 22&#176;C in aCSF for &#8805;1 hour, slices were transferred to a recording chamber, perfused with aCSF at a rate of 2 ml/min, and maintained at 32&#176; to 33&#176;C. High-speed chronoamperometric measurements were carried out by using an IVEC-10 system (Medical Systems, Greenvale, NY). Single-carbon-fiber electrodes (30 &#956;m diameter, coated with 5% wt/vol Nafion solution; Sigma-Aldrich, St. Louis, MO) were calibrated <it>in vitro </it>and used only if their responses were linear to DA (<it>r</it><sup>2 </sup>&#8805; 0.997) and selective (&#8805;1,000:1) for DA over ascorbic acid. Electrode-micropipette assemblies were constructed by attaching a micropipette (A-M Systems, Everett, WA; 10- to 15-&#956;m tip diameter) to the electrode at a distance of 200 to 250 &#956;m. This assembly was lowered to a depth of 100 to 150 &#956;m from the slice surface into the cerebral cortex just adjacent to the surgical track left from the cell implantation. To detect DA, square-wave pulses of 0.00 to +0.55 V, with respect to an Ag/AgCl reference electrode, were applied at a frequency of 5 Hz. DA (200 &#956;<it>M </it>in phosphate-buffered saline (pH 7.4, adjusted with NaOH) and 100 &#956;<it>M </it>ascorbic acid) was pressure-ejected (6 to 15 psi for 0.1 to 2 seconds; Picospritzer II; General Valve Corp., Fairfield, NJ) until a maximal DA signal amplitude (A<sub>max</sub>) of 1 to 3 &#956;<it>M </it>was obtained. DA was pressure-ejected with these settings kept constant at 5-minute intervals for a minimum of three consistent recordings (&#8804;15% variation in A<sub>max </sub>values) at a particular recording site. Clearance time (T<sub>80</sub>; seconds), the time for the signal to increase to A<sub>max </sub>and then to decay by 80%, and clearance rate (&#956;<it>M</it>/sec), the change in DA signal amplitude between the T<sub>20-60 </sub>time points and the most linear portion of the DA signal-decay curve, were measured. For each transplant, two to four recording sites in different brain slices were sampled, and these were used to calculate mean values for each parameter for the two types of stem cells. Mean values &#177; SEM are reported for <it>n </it>= number of mice.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Immunohistochemical analysis</p>
+            </st>
+            <p>Animals were deeply anesthetized and transcardially perfused with saline followed by 4% paraformaldehyde. The brains were cryoprotected in 30% sucrose for 2 days before sectioning at 40 &#956;m. Sections were rinsed and quenched in 1% H<sub>2</sub>O<sub>2 </sub>for 10 minutes before blocking in 10% normal goat serum in Tris-buffered saline containing 1% BSA and 0.1% Triton X-100 (TBST). Sections were incubated in a primary antibody to hDAT (1:200, Chemicon) overnight at room temperature. After rinsing, sections were incubated in anti-rat IgG (1:250, Vector) for 1 hour at room temperature. After additional rinses, incubation with ABC solution (Vectastain, Vector) for 1 hour and then nickel-enhanced diaminobenzidine (Vector) permitted visualization of labeled cells.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Beta-galactosidase activity assay and localization of transplanted cells</p>
+            </st>
+            <p>Cells in culture or sections were stained for &#946;-galactosidase by incubating with 5-bromo-4-chloro-3-indolyl-&#946;-<smcaps>D</smcaps>-galactosidase (X-gal) (1 mg/ml in 5 m<it>M </it>potassium ferrocyanide/potassium ferricyanide and 2 m<it>M </it>MgCl<sub>2 </sub>buffer) for 2 to 18 hours at 37&#176;C. Because the actual number of transplanted cells would be impossible to count, the localization of transplanted cells in each group was summarized by scoring the relative abundance of &#946;-galactosidase-positive cells present in a grid location overlaid on three stained sections from each mouse. Sections showing the most cells bilaterally were chosen for analysis, roughly approximating rostral, middle, and caudal extent of the track. Some transplants were localized bilaterally in more anterior sections of the NAC, and some were slightly more caudal in the NAC. Each square of the grid was scored as containing no cells (0), a few sparse cells in less than one fourth of the square (1), sparse cells covering about half of the square (2), densely packed cells occupying about half of the square (3), densely packed cells occupying three fourths of the square (4), or densely packed cells entirely filling the square (5). The scores of each animal in a group of either anterior or posterior NAC were summed and used as the z coordinate for a colorized xyz isocontour plot (SigmaPlot; SysStat, Point Richmond, CA), where x and y represented the square coordinates of the grid (0, white; 1, purple/blue; 2, dark green; 3, light green; 4, yellow; 5, orange/red). For clarity, details of this method are illustrated in example micrographs in Supplementary figure S1 in Additional file <supplr sid="S1">1</supplr>. The number of sections contributing to each cumulative plot was between 9 and 15.</p>
+            <suppl id="S1">
+               <title>
+                  <p>Additional file 1</p>
+               </title>
+               <text>
+                  <p><b>Figure S1. Micrographs illustrating the method used for estimation of relative abundance of x-gal-positive cells in transplants</b>. The localizations of transplanted cells in the C17.hDAT group <b>(a) </b>and C17.mock. <b>(b) </b>were summarized by scoring the relative abundance of x-gal-positive cells present in a grid location overlaid on three stained sections from each mouse. Each square of the grid was scored and assigned a color in the isoplots in the following way: 0, containing no cells (white); 1, a few sparse cells in less than one fourth of the square (purple/blue); 2, sparse cells covering about half of the square (dark green); 3, densely packed cells occupying about half of the square (light green); 4, densely packed cells occupying three fourths of the square (yellow); 5, densely packed cells entirely filling the square (orange/red).</p>
+               </text>
+               <file name="scrt36-S1.PDF">
+                  <p>Click here for file</p>
+               </file>
+            </suppl>
+         </sec>
+         <sec>
+            <st>
+               <p>Statistical analysis</p>
+            </st>
+            <p>Data are reported as the mean &#177; SEM. One mouse from each group was eliminated because their alcohol preference ratio was &lt;0.55 before transplantation. The inhibition of DA uptake by selective inhibitors was analyzed by one-way ANOVA by using SigmaStat with Tukey <it>post </it><it>hoc </it>comparisons. Body weight and total daily fluid consumption were averaged to yield pre- and postsurgery values. Alcohol consumption (grams ethanol/kg body weight/day) was averaged at each concentration of ethanol before transplant and after transplant. Ethanol consumption, total fluid consumption, and body-weight data were analyzed by two-way ANOVA by using version 6.5 of GB-STAT (Dynamic Microsystems Inc., Silver Spring, MD) with DAY as a repeated measure. <it>Post </it><it>hoc </it>analyses were done with the Fisher LSD test.</p>
+         </sec>
+      </sec>
+      <sec>
+         <st>
+            <p>Results</p>
+         </st>
+         <sec>
+            <st>
+               <p>Generation and characterization of hDAT-expressing neural stem cells</p>
+            </st>
+            <p>Because reliable and enduring expression of functional hDAT is required for transplantation, we first generated clones of C17.2 neural stem cells that stably expressed hDAT under the control of a chicken &#946;-actin promoter and a cytomegalovirus enhancer. This promoter has been used successfully to express a transcription factor, Nurr1, and glial cell line-derived neurotrophic factor in C17.2 stem cells <abbrgrp><abbr bid="B12">12</abbr><abbr bid="B13">13</abbr></abbrgrp>. Two plasmids were created, one with the hDAT cDNA (Figure <figr fid="F1">1a</figr>) and the other (mock plasmid) lacking any cDNA at the position of hDAT cDNA. Cells were transfected with these plasmids, by using the calcium phosphate method, and were subsequently grown in the presence of puromycin for selection.</p>
+            <fig id="F1">
+               <title>
+                  <p>Figure 1</p>
+               </title>
+               <caption>
+                  <p>Human DAT construct used in the stable transfection of C17.2 neural stem cells and characterization of its functional expression in selected clones</p>
+               </caption>
+               <text>
+                  <p><b>Human DAT construct used in the stable transfection of C17.2 neural stem cells and characterization of its functional expression in selected clones</b>. <b>(a) </b>Expression vector used for transfection. The construct contained the cytomegalovirus (CMV) enhancer element, chicken &#946;-actin promoter, the coding sequence of hDAT, an intron (IVS), an internal ribosome entry site (IRES), and the coding sequence of the puromycin resistance gene. <b>(b) </b>Clones that survived selection with puromycin were screened for specific [<sup>3</sup>H]DA uptake (&#177;1 m<it>M </it>cocaine). Several clones were chosen for expansion and further analysis based on their uptake of DA (arrows). Clones b7 (C17.hDAT) and f2 (C17.mock), identified by black arrows, were chosen for the transplantation and alcohol-consumption experiments. <b>(c) </b>Kinetic analysis of specific [<sup>3</sup>H]DA uptake in a C17.hDAT clone. Three independent experiments revealed average values for <it>K</it><sub>m </sub>of 5 &#177; 1 &#956;<it>M </it>and <it>V</it><sub>max </sub>of 180 &#177; 5 pmol/min/mg protein. <b>(d) </b>In similar [<sup>3</sup>H]DA-uptake kinetic experiments, rat striatal synaptosomes had values for <it>K</it><sub>m </sub>of 0.10 &#177; 0.02 &#956;<it>M </it>and <it>V</it><sub>max </sub>of 108 &#177; 27 pmol/min/mg protein (<it>n </it>= 3). <b>(e) </b>Selectivity experiments in the C17.hDAT clone revealed that [<sup>3</sup>H]DA uptake was blocked only by the DAT inhibitor (GBR 12909, 1 &#956;<it>M</it>), but not by selective inhibitors of norepinephrine or serotonin transporters, desipramine, or fluoxetine (1 &#956;<it>M</it>), respectively. *<it>P </it>&lt; 0.01 compared with control, Tukey test (three independent experiments). <b>(f) </b>Western immunoblot for hDAT showing both mature, glycosylated (DAT) and immature, nonglycosylated forms of hDAT (ngDAT) in the C17.hDAT clone. Beta-actin was detected as a control for protein loading.</p>
+               </text>
+               <graphic file="scrt36-1" hint_layout="double"/>
+            </fig>
+            <p>After selection with puromycin, 36 hDAT-transfected colonies and 36 mock plasmid colonies were grown individually in 96-well plates. Sixteen of the hDAT clones and eight of the mock plasmid clones were randomly chosen, and specific [<sup>3</sup>H]DA uptake was determined (50 n<it>M </it>[<sup>3</sup>H]DA &#177; 1 m<it>M </it>cocaine). Seven of 16 hDAT clones assayed exhibited moderate to high levels of uptake (Figure <figr fid="F1">1b</figr>). Specific [<sup>3</sup>H]DA uptake was undetectable in all mock plasmid transfected clones, as well as in nine of the hDAT clones. Four of the hDAT clones (a7, b1, b7, and c1) that exhibited a wide range of uptake levels were chosen for full kinetic uptake analyses. Results are shown for the b7 clone (Figure <figr fid="F1">1c</figr>), which was selected for transplantation experiments (see later), and from this point on, referred to as C17.hDAT. The clones exhibited affinities (<it>K</it><sub>m</sub>) between 5 and 9 &#956;<it>M </it>and a range of saturation velocities (<it>V</it><sub>max</sub>) between 43 and 180 pmol/min/mg protein. To achieve efficient uptake kinetics from genetically modified clones, their uptake should resemble that of the naturally occurring DAT. The <it>V</it><sub>max </sub>values from our DAT clones examined were found to be comparable to those obtained from rat striatal synaptosomes, with somewhat lower affinities (<it>K</it><sub>m </sub>of 0.10 &#177; 0.02 &#956;<it>M </it>and <it>V</it><sub>max </sub>of 108 &#177; 27 pmol/min/mg protein; Figure <figr fid="F1">1d</figr>) and those recently reported for rat NAC synaptosomes (<it>K</it><sub>m </sub>of 0.20 &#177; 0.04 &#956;<it>M </it>and <it>V</it><sub>max </sub>of 57 &#177; 11 pmol/min/mg protein) <abbrgrp><abbr bid="B14">14</abbr></abbrgrp>. The four clones also exhibited selectivity for [<sup>3</sup>H]DA transport, as GBR 12909 (DAT inhibitor) blocked specific [<sup>3</sup>H]DA uptake by 90% (Figure <figr fid="F1">1e</figr>). By contrast, desipramine (norepinephrine transporter inhibitor) and fluoxetine (serotonin transporter inhibitor) had no effect on the uptake.</p>
+            <p>In addition to the efficient and selective uptake of DA resembling naturally occurring DAT, other reasons for choosing the C17.hDAT clone for transplantation included (1) a consistent &#946;-galactosidase expression in more than 95% of this clone's cells, an asset for identification of the cells in transplants; (2) a good proliferative capacity crucial for expansion before transplantation; and (3) a high survival rate after transplantation into the CNS. Although the presence of functional DAT is an unquestionable indication of the transporter's appropriate insertion into the cell membrane, we additionally quantitated the expression levels of hDAT by using Western immunoblotting (Figure <figr fid="F1">1f</figr>). This analysis revealed that the C17.hDAT clone expressed two forms of hDAT. The first was a 68-kDa mature form, which is glycosylated and exclusively found inserted into the cell membrane <abbrgrp><abbr bid="B15">15</abbr></abbrgrp>. The second form of hDAT was a band at 50 kDa, consistent with an immature, unglycosylated form usually found in the cytoplasmic compartment. The C17.hDAT clone expressed about 95% of the hDAT as the mature (68 kDa) form and about 5% as the immature (50 kDa) form. The na&#239;ve C17.2 stem cells and the mock-transfected f2 clone (C17.mock) contained only trace amounts of immunoreactivity for hDAT.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Establishing alcohol-drinking model in wild-type mice and transplantation of hDAT-expressing neural stem cells into the NAC</p>
+            </st>
+            <p>Before transplantation into the NAC, the mice were allowed to develop a preference for alcohol drinking, the variable that we would then attempt to alter by grafting hDAT-expressing stem cells. A timeline for the <it>in vivo </it>experiments is shown in Figure <figr fid="F2">2</figr>. Singly housed mice were given free and unrestricted choice of water or ethanol from two bottles for 24 hours a day in their home cage (two-bottle preference test). The initial ethanol concentration was 3% for 6 days and then increased to 10% for the next 8 days. By the end of this training period and before transplantation, mice consumed on average 16 g/kg/day of alcohol, and about 75% of their total fluid intake was from the alcohol-containing bottle. As illustrated in Figure <figr fid="F3">3</figr>, alcohol consumption increased similarly in all mice before transplantation. Initially the preference ratio (proportion of ethanol relative to total fluid consumed) was around 0.50, but gradually increased until day 14, when most mice had ratios above 0.70 (mean, 0.75 &#177; 0.04; <it>n </it>= 30). All animals with preference ratios above 0.55 (<it>n </it>= 27) were included and divided equally based on their preference ratio among the three groups receiving transplants. For 3 days before, as well as 3 days after, transplantation, all mice were given only water to drink to circumvent any potential adverse effects of ethanol during surgery and recovery.</p>
+            <fig id="F2">
+               <title>
+                  <p>Figure 2</p>
+               </title>
+               <caption>
+                  <p>Experimental timeline</p>
+               </caption>
+               <text>
+                  <p><b>Experimental timeline</b>. Animals were allowed free choice between water or ethanol (3% for days 1 to 6, 10% for days 7 to 14). Transplants (saline control, C17.mock, or C17.hDAT; <it>n </it>= 9 in each group) into NAC, were performed after 3 days off alcohol, and then preference for 10% ethanol was measured again after 3 days of recovery from surgery for an additional 6 days. All animals were sacrificed 10 days after transplantation.</p>
+               </text>
+               <graphic file="scrt36-2" hint_layout="double"/>
+            </fig>
+            <fig id="F3">
+               <title>
+                  <p>Figure 3</p>
+               </title>
+               <caption>
+                  <p>Determination of alcohol consumption before transplantation</p>
+               </caption>
+               <text>
+                  <p><b>Determination of alcohol consumption before transplantation</b>. Ethanol consumption (g/kg/day) was measured during the acquisition of the alcohol-preference phase over 14 days before transplant (day 17) in each group of animals. Consumption increased with time and ethanol concentration.</p>
+               </text>
+               <graphic file="scrt36-3" hint_layout="single"/>
+            </fig>
+            <p>On day 18, two groups of animals were transplanted bilaterally with 1 &#215; 10<sup>5 </sup>viable cells (either C17.hDAT clone or C17.mock clone) in the NAC on each side of the brain. Saline injected bilaterally into the NAC served as a surgical control (the third group that we refer to as saline control). Each transplant was delivered in a volume of 2 &#956;l, by using a stainless steel transplant cannula (see Materials and methods). To assure that transplantation did not alter normal patterns of body weight and total fluid consumption, both parameters were measured every 3 days throughout the study. Body weight increased in all groups over the course of the experiment (<it>F</it><sub>1, 23 </sub>= 72.35; <it>P </it>&lt; 0.0001; Table <tblr tid="T1">1</tblr>). However, it did not differ among the transplant groups (<it>F</it><sub>3, 23 </sub>= 0.77; <it>P </it>= 0.47), and no significant interaction was found (<it>F</it><sub>2, 23 </sub>= 1.24; <it>P </it>= 0.31). The values are similar to body weights reported for female C57BL/6J mice between 6 weeks and 10 weeks of age (Jackson Laboratories). Similarly, total fluid consumption increased over the course of the experiment (<it>F</it><sub>1, 24 </sub>= 9.27; <it>P </it>= 0.006; Table <tblr tid="T1">1</tblr>). However, it did not differ among groups (<it>F</it><sub>3, 24 </sub>= 0.19; <it>P </it>= 0.83), and no significant interaction was observed (<it>F</it><sub>2, 24 </sub>= 1.16; <it>P </it>= 0.33). The lack of differences in body weight and fluid consumption between the groups indicates that the transplantation surgery was not detrimental to the general health of the animals. Additionally, no noticeable changes were observed in the behavior of the mice after surgery.</p>
+            <tbl hint_layout="double" id="T1">
+               <title>
+                  <p>Table 1</p>
+               </title>
+               <caption>
+                  <p>Body weight and daily fluid consumption before and after transplantation (TX)</p>
+               </caption>
+               <tblbdy cols="5">
+                  <r>
+                     <c>
+                        <p/>
+                     </c>
+                     <c cspan="2" ca="center">
+                        <p><b>Body weight (g)</b></p>
+                     </c>
+                     <c cspan="2" ca="center">
+                        <p><b>Average daily fluid consumption (ml/day)</b></p>
+                     </c>
+                  </r>
+                  <r>
+                     <c>
+                        <p/>
+                     </c>
+                     <c cspan="2">
+                        <hr/>
+                     </c>
+                     <c cspan="2">
+                        <hr/>
+                     </c>
+                  </r>
+                  <r>
+                     <c>
+                        <p/>
+                     </c>
+                     <c ca="left">
+                        <p><b>Before TX</b></p>
+                     </c>
+                     <c ca="left">
+                        <p><b>After TX</b></p>
+                     </c>
+                     <c ca="left">
+                        <p><b>Before TX</b></p>
+                     </c>
+                     <c ca="left">
+                        <p><b>After TX</b></p>
+                     </c>
+                  </r>
+                  <r>
+                     <c cspan="5">
+                        <hr/>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>Saline</p>
+                     </c>
+                     <c ca="left">
+                        <p>18.8 &#177; 0.36</p>
+                     </c>
+                     <c ca="left">
+                        <p>19.8 &#177; 0.36</p>
+                     </c>
+                     <c ca="left">
+                        <p>5.4 &#177; 0.21</p>
+                     </c>
+                     <c ca="left">
+                        <p>5.7 &#177; 0.26</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>C17.mock</p>
+                     </c>
+                     <c ca="left">
+                        <p>18.2 &#177; 0.29</p>
+                     </c>
+                     <c ca="left">
+                        <p>19.3 &#177; 0.54</p>
+                     </c>
+                     <c ca="left">
+                        <p>5.0 &#177; 0.14</p>
+                     </c>
+                     <c ca="left">
+                        <p>5.7 &#177; 0.24</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>C17.hDAT</p>
+                     </c>
+                     <c ca="left">
+                        <p>18.5 &#177; 0.26</p>
+                     </c>
+                     <c ca="left">
+                        <p>20.0 &#177; 0.36</p>
+                     </c>
+                     <c ca="left">
+                        <p>5.2 &#177; 0.21</p>
+                     </c>
+                     <c ca="left">
+                        <p>5.6 &#177; 0.33</p>
+                     </c>
+                  </r>
+               </tblbdy>
+               <tblfn>
+                  <p>C17.hDAT, C17.2 neural stem cell line stably expressing a construct containing the hDAT sequence; C17.mock, C17.2 neural stem cell line stably expressing a construct lacking the hDAT sequence; TX, transplantation.</p>
+               </tblfn>
+            </tbl>
+         </sec>
+         <sec>
+            <st>
+               <p>Characterization of hDAT-expressing neural stem cell grafts</p>
+            </st>
+            <p>Graft placement, determined from X-gal staining (Figure <figr fid="F4">4a</figr> and <figr fid="F4">4b</figr>) 10 days after transplantation, revealed that the majority of transplanted cells remained either within the transplant track or in its immediate vicinity, with a few cells seen 100 to 200 &#956;m away from the track. X-gal staining was evident in all of the mice transplanted with C17.hDAT or C17.mock stem cells. The localization of the transplanted cells in all of the mice in each of these two groups was summarized by scoring the abundance of transplanted cells in three representative coronal sections from each mouse (Figure <figr fid="F4">4c</figr>). The transplants were targeted into the NAC, which is a relatively small structure in the mouse brain, reaching a maximal width of 2 mm <abbrgrp><abbr bid="B9">9</abbr></abbrgrp>. Although current technology makes it difficult to achieve consistently more precise graft placement, continual refinements in the transplantation technique and equipment will enable more precise targeting in the future.</p>
+            <fig id="F4">
+               <title>
+                  <p>Figure 4</p>
+               </title>
+               <caption>
+                  <p>Histologic analysis of grafted neural stem cells</p>
+               </caption>
+               <text>
+                  <p><b>Histologic analysis of grafted neural stem cells</b>. <b>(a) </b>A representative coronal section from a mouse transplanted with C17.hDAT clone. Section stained for &#946;-galactosidase by using x-gal histochemistry revealed bilateral distribution of surviving grafted cells 10 days after transplantation. <b>(b) </b>Magnified area of the graft shows cells with various morphologies; some extending processes. <b>(c) </b>Summary of the localization of transplanted cells. Relative abundance of x-gal-positive cells in all mice in both groups receiving cell transplants is represented as a colorized xyz isocontour plot (for details, refer to Materials and methods). Cumulative scores from three sections per mouse ranged from few cells (1, blue) to many densely packed cells (5, red). For clarity, details of this method are illustrated in example micrographs in Supplementary Figure S2 in Additional file <supplr sid="S3">3</supplr>. <b>(d) </b>Coronal section at the level of NAC stained with an antibody against DAT. Although the antibodies used do not distinguish endogenous DAT from that found in the transplanted C17.hDAT cells, the ectopic expression of DAT evident in the cortical region of the transplant track is consistent with the exogenous hDAT. Such ectopic placement of a transplant is not representative of other animals examined in this study. <b>(e) </b>In contrast, a transplant of the C17.mock stem cells into striatum, shown here in a coronal section, is not labeled with the anti-DAT antibody and is clearly visible as a vertical clear track in the right hemisphere, which labeled strongly, revealing the endogenous DAT. CC, corpus callosum; AC, anterior commissure. Scale bars = 1 mm for panels a and c through e; and 200 &#956;m for panel b.</p>
+               </text>
+               <graphic file="scrt36-4" hint_layout="double"/>
+            </fig>
+            <p>Currently available anti-DAT antibodies used recognize both endogenous (murine) and exogenous (human) DAT. Nonetheless, we were able to observe (albeit rarely) ectopic localization and elevated levels of DAT immunoreactivity in sections obtained from animals receiving the C17.hDAT clone (Figure <figr fid="F4">4d</figr>), whereas in contrast, transplants of the C17.mock neural stem cells completely lacked DAT-immunoreactivity (Figure <figr fid="F4">4e</figr>).</p>
+            <p>To confirm that C17.hDAT cells retain their ability to take up DA after transplantation, we measured the rate of DA clearance in transplanted cells in a group of five mice. Clearance of locally applied exogenous DA, as measured by high-speed chronoamperometric recording, is determined to a large extent by the activity of the DAT <abbrgrp><abbr bid="B11">11</abbr><abbr bid="B16">16</abbr></abbrgrp>. Cortex was used as the site for transplantation because its relatively sparse DA innervation and low DA clearance rate, relative to striatum, provides a low back-ground clearance and would thereby enhance detection of any increase in clearance rate due to the hDAT-expressing stem cells. Consistent with this idea, the DA clearance rate in brain slices from na&#239;ve rats is threefold higher in striatum (0.115 &#177; 0.035 &#956;<it>M</it>/sec; <it>n </it>= 4) than cerebral cortex (0.036 &#177; 0.009; unpublished observations, Gaynor A. Larson and Nancy R. Zahniser). Similarly, we observed a fourfold higher striatal clearance rate in brain slices from na&#239;ve mice (striatum, 0.148 &#956;<it>M</it>/sec; cortex, 0.032; <it>n </it>= 2).</p>
+            <p>Here, we used this method to compare DA clearance in C17.hDAT and C17.mock grafts transplanted 5 to 7 days earlier into mouse cerebral cortex. Brain slices were prepared from five mice, each of which had the C17.mock control cells implanted into the right cerebral cortex, and the C17.hDAT cells, into the left cortex. A trend for a faster clearance rate (20% increase) was noted in the C17.hDAT transplants (0.054 &#177; 0.009 &#956;<it>M</it>/sec), compared with C17.mock (0.045 &#177; 0.006; Table S1 in Additional file <supplr sid="S2">2</supplr> and Supplementary figure S2 in Additional file <supplr sid="S3">3</supplr>). Both clearance rates were somewhat faster than the rate we observed previously in na&#239;ve mouse cortical slices (see earlier).</p>
+            <suppl id="S2">
+               <title>
+                  <p>Additional file 2</p>
+               </title>
+               <text>
+                  <p><b>Table S1</b>. Dopamine clearance rates <it>in vivo</it>.</p>
+               </text>
+               <file name="scrt36-S2.PDF">
+                  <p>Click here for file</p>
+               </file>
+            </suppl>
+            <suppl id="S3">
+               <title>
+                  <p>Additional file 3</p>
+               </title>
+               <text>
+                  <p><b>Figure S2. DA clearance parameters measured in C17.mock and C17.hDAT stem cells transplanted into mouse cerebral cortex</b>.</p>
+               </text>
+               <file name="scrt36-S3.PDF">
+                  <p>Click here for file</p>
+               </file>
+            </suppl>
+         </sec>
+         <sec>
+            <st>
+               <p>Transplantation of DA-sequestering neural stem cells reduces intake of alcohol in wild-type mice</p>
+            </st>
+            <p>Measurement of alcohol consumption was resumed 3 days after the surgery for an additional 6 days. In the majority of the animals that received saline or C17.mock cells, the preference for 10% ethanol remained unchanged or slightly increased after transplantation (Figure <figr fid="F5">5</figr>). Analysis of the average alcohol consumption before transplantation (3% and 10%) and postsurgically showed a significant main effect of Day (<it>F</it><sub>2, 46 </sub>= 190.85; <it>P </it>&lt; 0.0001), but not Group (<it>F</it><sub>2, 23 </sub>= 0.99; <it>P </it>= 0.39). Additional analysis revealed a significant interaction of Day and Transplant group (<it>F</it><sub>4, 46 </sub>= 2.86; <it>P </it>= 0.034). After transplantation, the mice in the C17.hDAT group significantly reduced their ethanol consumption by 18% from 17 to 14 g/kg/day when compared with the C17.mock group (<it>P </it>&lt; 0.05; Figure <figr fid="F5">5a</figr>). Values for individual animals in each group are shown in Figure <figr fid="F5">5b</figr>.</p>
+            <fig id="F5">
+               <title>
+                  <p>Figure 5</p>
+               </title>
+               <caption>
+                  <p>Comparison of alcohol consumption before and after transplantation</p>
+               </caption>
+               <text>
+                  <p><b>Comparison of alcohol consumption before and after transplantation</b>. <b>(a) </b>Consumption of 10% ethanol was lower after transplantation in mice transplanted with C17.hDAT cells when compared with mice receiving C17.mock cells. While average pre- versus posttransplant consumption was reduced in most of the C17.hDAT animals, it remained unchanged or slightly elevated in saline control and C17.mock groups, respectively. *<it>P </it>&lt; 0.05 comparing posttransplant C17.hDAT with posttransplant C17.mock group. <b>(b) </b>Average consumption of 10% alcohol before and after transplantation in individual animals. The effects on consumption between pre and post measurements are depicted by different line colors: red (reduction in consumption), black lines (increase), and blue (no change). Mean group value is represented by a green horizontal bar for each group. Although five of nine C17.hDAT animals reduced their consumption, only two of eight C17.mock animals did. Pre, before transplantation; post, after transplantation.</p>
+               </text>
+               <graphic file="scrt36-5" hint_layout="single"/>
+            </fig>
+         </sec>
+      </sec>
+      <sec>
+         <st>
+            <p>Discussion</p>
+         </st>
+         <p>Here, we demonstrate that overexpression of DAT alters ethanol drinking in C57BL/6 mice. Because mesocorticolimbic DA is postulated to contribute to alcohol consumption, we transplanted neural stem cells modified to overexpress the hDAT into the NAC of C57BL/6 adult female mice. We postulated that grafted C17.hDAT cells that express high levels of the DAT should clear the extracellular DA faster than the surrounding tissue. High-speed chronoamperometric measurements showed a trend toward faster DA clearance rates in cortical C17.hDAT transplants compared with C17.mock transplants. The reduction in alcohol intake that was observed in mice with the C17.hDAT transplants in NAC is consistent with the idea that NAC DA might affect ethanol consumption.</p>
+         <p>Our ethanol-consumption data are in agreement with studies showing that D<sub>1 </sub>and D<sub>2 </sub>receptor antagonists, injected systemically or locally into the NAC, decrease alcohol consumption and operant responding to alcohol <abbrgrp><abbr bid="B17">17</abbr><abbr bid="B18">18</abbr></abbrgrp>. Mice lacking D<sub>1 </sub>receptors also show decreased ethanol consumption in a two-bottle choice test compared with wild-type mice <abbrgrp><abbr bid="B19">19</abbr></abbrgrp>. Extracellular DA levels are increased in the NAC by systemic alcohol administration <abbrgrp><abbr bid="B20">20</abbr><abbr bid="B21">21</abbr><abbr bid="B22">22</abbr><abbr bid="B23">23</abbr></abbrgrp>. These findings are consistent with the theory that DA neurotransmission in the NAC is necessary for the rewarding properties of alcohol. However, despite numerous studies examining the involvement of the dopaminergic system in reward, the precise role for DA in drug addiction is still far from clear.</p>
+         <p>The DAT is the primary physiologic mechanism for terminating DA neurotransmission in the CNS. By inhibiting the DAT, drugs of abuse like cocaine and phencyclidine preferentially increase extracellular DA in NAC, as compared with dorsal striatum. Ethanol also elevates DA levels in the NAC. However, unlike cocaine, ethanol does this by increasing the firing of DA neurons in the VTA <abbrgrp><abbr bid="B24">24</abbr></abbrgrp>. Alcohol-preferring rats will self-administer ethanol into the VTA <abbrgrp><abbr bid="B25">25</abbr></abbrgrp>. Ethanol exerts its actions by potentiating GABAergic inhibition of inhibitory interneurons in the VTA <abbrgrp><abbr bid="B26">26</abbr><abbr bid="B27">27</abbr></abbrgrp>, leading to disinhibition of DA neurons. As with other drugs of abuse, the increased firing of VTA neurons results in enhanced release of DA in the NAC <abbrgrp><abbr bid="B22">22</abbr><abbr bid="B28">28</abbr><abbr bid="B29">29</abbr></abbrgrp>.</p>
+         <p>Some studies have reported that D<sub>1 </sub>and D<sub>2 </sub>receptor agonists, as well as pharmacologic agents that elevate DA levels, also reduce ethanol self-administration <abbrgrp><abbr bid="B30">30</abbr><abbr bid="B31">31</abbr><abbr bid="B32">32</abbr></abbrgrp>. Conceivably, the reduced drug-seeking behavior resulting from activation of D<sub>1 </sub>or D<sub>2 </sub>receptors in these studies may be due to either a decrease in the rewarding properties of alcohol or a feedback-mediated elevation of endogenous DA, which reduces the drive for alcohol <abbrgrp><abbr bid="B19">19</abbr></abbrgrp>. Enhancing extracellular DA in the NAC with GBR12909, a DA-uptake inhibitor, decreased DA levels in the VTA, suggesting the presence of a negative-feedback loop in the regulation of DA release <abbrgrp><abbr bid="B33">33</abbr></abbrgrp>. The regulation of DAT by alcohol might also have a role in the control of alcohol intake, as supported by the observation that chronic (8-week) consumption of 15% alcohol increases DA uptake in the NAC of selectively bred high-alcohol-drinking (HAD) female rats <abbrgrp><abbr bid="B34">34</abbr></abbrgrp>. Although our study differs by using wild-type female mice in a shorter (27-day) experimental paradigm with a maximum alcohol concentration of 10%, both studies imply that plasticity in the reward circuitry involving DAT might be a modifier of alcohol drinking.</p>
+         <p>Recently, two alternative approaches for overexpression of DAT have been used. The first is a global one achieved by creating transgenic mice harboring a bacterial artificial chromosome containing the murine DAT gene <abbrgrp><abbr bid="B35">35</abbr></abbrgrp>. Although these mice display an increased locomotor response to amphetamine compared to wild-type mice, they have a reduced operant response to a natural sweet-food reward, a finding that in principle supports our observations. A second study used direct injection into rat NAC of a lentiviral construct encoding rat DAT, which led to an impulsive and risk-prone phenotype <abbrgrp><abbr bid="B36">36</abbr></abbrgrp>. This approach varies from ours in that lentivirus-infected neurons in the NAC can retrogradely transport DAT product into the VTA, whereas the hDAT expressed by C17.hDAT cells in our study is not transported and remains within the confines of the engrafted area.</p>
+         <p>Alcohol-preferring strains of rats, as well as the C57BL/6J mouse used here, have lower basal levels of dopaminergic function (decreased DA levels and turnover) than do non-alcohol-preferring strains <abbrgrp><abbr bid="B30">30</abbr><abbr bid="B37">37</abbr><abbr bid="B38">38</abbr></abbrgrp>. In the C57BL/6J mice, enhancing synaptic DA decreased ethanol consumption, an effect that could be mimicked with DA-receptor agonists or blocked by DA-receptor antagonists <abbrgrp><abbr bid="B30">30</abbr></abbrgrp>. These results suggest that voluntary ethanol consumption is higher in these mice because of increased drive (that is, they need more ethanol to get the same reward). If this were simply the case, we might have expected that the overexpression of DAT (lowering the amount of released DA to interact with postsynaptic receptors) would increase drive and ethanol consumption. Our finding of decreased ethanol consumption after the overexpression of DAT is inconsistent with the theory that increased preference and consumption in C57BL/6 mice is due to increased drive. The alternative theory, as to why the hypodopaminergic C57BL/6 mouse is alcohol preferring, is that the ethanol-induced release of DA on top of a low baseline is perceived as a larger reward (signal-to-noise difference). However, by overexpressing DAT, we might be diminishing the actions of DA and thereby reducing the stimulation of postsynaptic DA receptors, leading to decreased consumption. Thus, our mice are not simply hypodopaminergic, but might rather have dopaminergic neurotransmission through the NAC-reward pathway selectively inhibited.</p>
+         <p>Because we have measured DA clearance by stem cell transplants within cerebral cortical slices, in future experiments, both behavior and DA clearance must be measured simultaneously in the mice to assess whether a relation exists between changes in ethanol drinking and DA uptake by the C17.hDAT stem cells transplanted into the NAC. It is intriguing to speculate that stem cells engineered to express hDAT will adjust their capacity to clear DA, based on the transplant location in the brain or the level and duration of exposure to ethanol or both. Although the current study was not specifically designed to answer this question, addressing this issue represents an important direction for future explorations.</p>
+         <p>We chose to examine female C57BL/6J mice in our study based on the reported higher preference seen in females than males of this strain of mice. Because we did not use high and aversive concentrations of ethanol for our posttransplantation preference, an increase in consumption or preference ratio would have been detectable in our study. Lesions of the NAC with 6-hydroxydopamine decrease the acquisition, but not the maintenance of alcohol preference in alcohol-preferring rats <abbrgrp><abbr bid="B39">39</abbr></abbrgrp>. This study suggests that preference, once established, is difficult to disrupt. It is possible that the observed effect on alcohol consumption would have been greater in magnitude if we had performed the transplants before the acquisition of alcohol preference. Alternatively, stem cells engineered to support higher dopamine clearance <it>in vivo </it>might also produce a larger reduction in ethanol consumption. The extent to which the posttransplantation decreases in alcohol intake might reflect changes in the reinforcing properties of ethanol should be confirmed in the future by using operant self-administration.</p>
+         <p>Studies presented here examine a very short experimental period. Future experiments will be designed to examine long-term survival of the transplanted stem cells, expression of hDAT, DA clearance, and to answer whether the effects on alcohol consumption persist. Long-term outcomes assessed over several weeks (or longer) will be therefore necessary to test our approach fully and to determine its broader usefulness.</p>
+         <p>Blood ethanol concentration (BEC) depends on alcohol intake and on the pharmacokinetics of alcohol metabolism, both of which vary between species and genders. Time of sampling is also critical for the estimation of BEC. In nocturnal animals such as mice, more than 90% of daily alcohol intake occurs during the dark <abbrgrp><abbr bid="B40">40</abbr></abbrgrp>. When access to alcohol is continuous, C57BL/6J females drink as much as twice the amount of 10% alcohol typically consumed by the males <abbrgrp><abbr bid="B41">41</abbr></abbrgrp>. In one report, male C57BL/6J mice drinking 10% ethanol in the unrestricted-access two-bottle preference test (same paradigm as the one used by us) exhibited BECs up to 150 mg/dl (in the dark) while consuming about 5 g/kg/day <abbrgrp><abbr bid="B40">40</abbr></abbrgrp>. In a similar experiment, which used a drinking-in-the dark paradigm with a 4-hour 20% alcohol access, a mixed group of male and female C57BL/6J mice consumed on average 7 g/kg of alcohol in 4 hours, which resulted in a BEC of 100 mg/dl <abbrgrp><abbr bid="B42">42</abbr></abbrgrp>. Because female mice used in our study had alcohol intakes between 15 and 18 g/kg/day, it is likely that the resulting BECs could have been even higher, particularly if measured in the dark. Because in humans, BECs around 80 mg/dl (the legal limit for driving while impaired in the United States) coincide with altered emotions, loss of control of fine motor movements, and affected driving performance <abbrgrp><abbr bid="B43">43</abbr></abbrgrp>, our consumption model is relevant to the human condition.</p>
+         <p>Our study demonstrates a novel strategy of using stem cell transplantation for moderating alcohol effects and intake, and our approach may provide future insights into better understanding of the mechanism of alcohol reward and addiction. This technique, when combined with the use of stem cells capable of metabolizing molecules of interest, could be of importance in studies requiring sequestration and degradation of molecular signals as well as neurotoxins. For example, glutamate neurotoxicity can be reduced by increasing expression of glutamate transporters <abbrgrp><abbr bid="B44">44</abbr></abbrgrp>. Similar approaches could be used to study multidrug resistance-associated transporter proteins, which are important in the context of treatment of epilepsy and brain cancers <abbrgrp><abbr bid="B45">45</abbr></abbrgrp> and transport across the blood-brain barrier for delivery of neuropharmaceuticals into the CNS <abbrgrp><abbr bid="B46">46</abbr></abbrgrp>.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Conclusions</p>
+         </st>
+         <p>In summary, we determined that ethanol consumption is reduced by grafting stem cells overexpressing hDAT in the NAC. These data support the hypothesis that released DA in the NAC contributes to alcohol preference, and proposes DAT as a target for reducing alcohol drinking. Our findings also provide the first evidence for use of stem cells as vehicles for modification of neurotransmitter-mediated actions in the CNS.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Abbreviations</p>
+         </st>
+         <p>AC: anterior commissure; BEC: blood ethanol concentration; CC: corpus callosum; CNS: central nervous system; DA: dopamine; DAT: dopamine transporter; HAD: high-alcohol drinking; hDAT: human DAT; IRES: internal ribosome entry site; IVS: intron; NAC: nucleus accumbens; VTA: ventral tegmental area; TX: transplantation.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Competing interests</p>
+         </st>
+         <p>The authors declare that they have no competing interests.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Authors' contributions</p>
+         </st>
+         <p>TNG, SMJ, MD, EYS, NRZ, BT, and WMZ contributed intellectually to the hypothesis and worked on the experimental design, interpretation of the data, and drafting of the manuscript. TNG, SMJ, BRH, MS, and GAL performed the experiments and collected data. All authors read and approved the final manuscript.</p>
+      </sec>
+   </bdy>
+   <bm>
+      <ack>
+         <sec>
+            <st>
+               <p>Acknowledgements</p>
+            </st>
+            <p>This study was supported by NIH NIAAA U01 AA13473 (INIA West project) and T32 AA07464. We thank Jonathan A. Javitch of Columbia University for providing the hDAT cDNA, Ernest Arenas of Karolinska Institutet for the pCAIP<sub>2 </sub>plasmid, and Suzanne Doolen and Andy Poczobutt for technical assistance.</p>
+         </sec>
+      </ack>
+      <refgrp>
+         <bibl id="B1">
+            <title>
+               <p>Positive reinforcement produced by electrical stimulation of septal area and other regions of rat brain</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Olds</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Milner</snm>
+                  <fnm>P</fnm>
+               </au>
+            </aug>
+            <source>J Comp Physiol Psychol</source>
+            <pubdate>1954</pubdate>
+            <volume>47</volume>
+            <fpage>419</fpage>
+            <lpage>427</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1037/h0058775</pubid>
+                  <pubid idtype="pmpid">13233369</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B2">
+            <title>
+               <p>Amphetamine, cocaine, phencyclidine and nomifensine increase extracellular dopamine concentrations preferentially in the nucleus accumbens of freely moving rats</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Carboni</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Imperato</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Perezzani</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Di Chiara</snm>
+                  <fnm>G</fnm>
+               </au>
+            </aug>
+            <source>Neuroscience</source>
+            <pubdate>1989</pubdate>
+            <volume>28</volume>
+            <fpage>653</fpage>
+            <lpage>661</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/0306-4522(89)90012-2</pubid>
+                  <pubid idtype="pmpid">2710338</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B3">
+            <title>
+               <p>Rapid regulation of the dopamine transporter: role in stimulant addiction?</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Zahniser</snm>
+                  <fnm>NR</fnm>
+               </au>
+               <au>
+                  <snm>Sorkin</snm>
+                  <fnm>A</fnm>
+               </au>
+            </aug>
+            <source>Neuropharmacology</source>
+            <pubdate>2004</pubdate>
+            <volume>47</volume>
+            <issue>Suppl 1</issue>
+            <fpage>80</fpage>
+            <lpage>91</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.neuropharm.2004.07.010</pubid>
+                  <pubid idtype="pmpid" link="fulltext">15464127</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B4">
+            <title>
+               <p>"Global" cell replacement is feasible via neural stem cell transplantation: evidence from the dysmyelinated shiverer mouse brain</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Yandava</snm>
+                  <fnm>BD</fnm>
+               </au>
+               <au>
+                  <snm>Billinghurst</snm>
+                  <fnm>LL</fnm>
+               </au>
+               <au>
+                  <snm>Snyder</snm>
+                  <fnm>EY</fnm>
+               </au>
+            </aug>
+            <source>Proc Natl Acad Sci USA</source>
+            <pubdate>1999</pubdate>
+            <volume>96</volume>
+            <fpage>7029</fpage>
+            <lpage>7034</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1073/pnas.96.12.7029</pubid>
+                  <pubid idtype="pmcid">22044</pubid>
+                  <pubid idtype="pmpid">10359833</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B5">
+            <title>
+               <p>Neural progenitor cell engraftment corrects lysosomal storage throughout the MPS VII mouse brain</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Snyder</snm>
+                  <fnm>EY</fnm>
+               </au>
+               <au>
+                  <snm>Taylor</snm>
+                  <fnm>RM</fnm>
+               </au>
+               <au>
+                  <snm>Wolfe</snm>
+                  <fnm>JH</fnm>
+               </au>
+            </aug>
+            <source>Nature</source>
+            <pubdate>1995</pubdate>
+            <volume>374</volume>
+            <fpage>367</fpage>
+            <lpage>370</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/374367a0</pubid>
+                  <pubid idtype="pmpid" link="fulltext">7885477</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B6">
+            <title>
+               <p>Establishment and characterization of multipotent neural cell lines using retrovirus vector-mediated oncogene transfer</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Ryder</snm>
+                  <fnm>EF</fnm>
+               </au>
+               <au>
+                  <snm>Snyder</snm>
+                  <fnm>EY</fnm>
+               </au>
+               <au>
+                  <snm>Cepko</snm>
+                  <fnm>CL</fnm>
+               </au>
+            </aug>
+            <source>J Neurobiol</source>
+            <pubdate>1990</pubdate>
+            <volume>21</volume>
+            <fpage>356</fpage>
+            <lpage>375</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1002/neu.480210209</pubid>
+                  <pubid idtype="pmpid">2307979</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B7">
+            <title>
+               <p>Multipotent neural cell lines can engraft and participate in development of mouse cerebellum</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Snyder</snm>
+                  <fnm>EY</fnm>
+               </au>
+               <au>
+                  <snm>Deitcher</snm>
+                  <fnm>DL</fnm>
+               </au>
+               <au>
+                  <snm>Walsh</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Arnold-Aldea</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Hartwieg</snm>
+                  <fnm>EA</fnm>
+               </au>
+               <au>
+                  <snm>Cepko</snm>
+                  <fnm>CL</fnm>
+               </au>
+            </aug>
+            <source>Cell</source>
+            <pubdate>1992</pubdate>
+            <volume>68</volume>
+            <fpage>33</fpage>
+            <lpage>51</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/0092-8674(92)90204-P</pubid>
+                  <pubid idtype="pmpid" link="fulltext">1732063</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B8">
+            <title>
+               <p>Experimental traumatic brain injury modulates the survival, migration, and terminal phenotype of transplanted epidermal growth factor receptor-activated neural stem cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Boockvar</snm>
+                  <fnm>JA</fnm>
+               </au>
+               <au>
+                  <snm>Schouten</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Royo</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Millard</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Spangler</snm>
+                  <fnm>Z</fnm>
+               </au>
+               <au>
+                  <snm>Castelbuono</snm>
+                  <fnm>D</fnm>
+               </au>
+               <etal/>
+            </aug>
+            <source>Neurosurgery</source>
+            <pubdate>2005</pubdate>
+            <volume>56</volume>
+            <fpage>163</fpage>
+            <lpage>171</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid" link="fulltext">15617599</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B9">
+            <aug>
+               <au>
+                  <snm>Hof</snm>
+                  <fnm>PR</fnm>
+               </au>
+               <au>
+                  <snm>Young</snm>
+                  <fnm>WG</fnm>
+               </au>
+               <au>
+                  <snm>Bloom</snm>
+                  <fnm>FE</fnm>
+               </au>
+               <au>
+                  <snm>Belichenko</snm>
+                  <fnm>PV</fnm>
+               </au>
+               <au>
+                  <snm>Celio</snm>
+                  <fnm>MR</fnm>
+               </au>
+            </aug>
+            <source>Comparative Cytoarchitectonic Atlas of the C57BL/6 and 129/Sv Mouse Brains</source>
+            <publisher>New York: Elsevier</publisher>
+            <pubdate>2000</pubdate>
+         </bibl>
+         <bibl id="B10">
+            <title>
+               <p>Dopamine transporter activity in the substantia nigra and striatum assessed by high-speed chronoamperometric recordings in brain slices</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Hoffman</snm>
+                  <fnm>AF</fnm>
+               </au>
+               <au>
+                  <snm>Lupica</snm>
+                  <fnm>CR</fnm>
+               </au>
+               <au>
+                  <snm>Gerhardt</snm>
+                  <fnm>GA</fnm>
+               </au>
+            </aug>
+            <source>J Pharmacol Exp Ther</source>
+            <pubdate>1998</pubdate>
+            <volume>287</volume>
+            <fpage>487</fpage>
+            <lpage>496</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid" link="fulltext">9808671</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B11">
+            <title>
+               <p>Using high-speed chronoamperometry coupled with local dopamine application to assess dopamine transporter function</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Gulley</snm>
+                  <fnm>JM</fnm>
+               </au>
+               <au>
+                  <snm>Larson</snm>
+                  <fnm>GA</fnm>
+               </au>
+               <au>
+                  <snm>Zahniser</snm>
+                  <fnm>NR</fnm>
+               </au>
+            </aug>
+            <source>Electrochemical Methods in Neuroscience</source>
+            <publisher>Boca Raton: CRC Press</publisher>
+            <editor>Michael AC, Borland LM</editor>
+            <pubdate>2006</pubdate>
+            <fpage>83</fpage>
+            <lpage>102</lpage>
+            <xrefbib>
+               <pubid idtype="doi">full_text</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B12">
+            <title>
+               <p>Induction of a midbrain dopaminergic phenotype in Nurr1-overexpressing neural stem cells by type 1 astrocytes</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Wagner</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Akerud</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Castro</snm>
+                  <fnm>DS</fnm>
+               </au>
+               <au>
+                  <snm>Holm</snm>
+                  <fnm>PC</fnm>
+               </au>
+               <au>
+                  <snm>Canals</snm>
+                  <fnm>JM</fnm>
+               </au>
+               <au>
+                  <snm>Snyder</snm>
+                  <fnm>EY</fnm>
+               </au>
+               <etal/>
+            </aug>
+            <source>Nat Biotechnol</source>
+            <pubdate>1999</pubdate>
+            <volume>17</volume>
+            <fpage>653</fpage>
+            <lpage>659</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/10862</pubid>
+                  <pubid idtype="pmpid" link="fulltext">10404157</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B13">
+            <title>
+               <p>Neuroprotection through delivery of glial cell line-derived neurotrophic factor by neural stem cells in a mouse model of Parkinson's disease</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Akerud</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Canals</snm>
+                  <fnm>JM</fnm>
+               </au>
+               <au>
+                  <snm>Snyder</snm>
+                  <fnm>EY</fnm>
+               </au>
+               <au>
+                  <snm>Arenas</snm>
+                  <fnm>E</fnm>
+               </au>
+            </aug>
+            <source>J Neurosci</source>
+            <pubdate>2001</pubdate>
+            <volume>21</volume>
+            <fpage>8108</fpage>
+            <lpage>8118</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid" link="fulltext">11588183</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B14">
+            <title>
+               <p>Rapid substrate-induced down-regulation in function and surface localization of dopamine transporters: rat dorsal striatum versus nucleus accumbens</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Richards</snm>
+                  <fnm>TL</fnm>
+               </au>
+               <au>
+                  <snm>Zahniser</snm>
+                  <fnm>NR</fnm>
+               </au>
+            </aug>
+            <source>J Neurochem</source>
+            <pubdate>2009</pubdate>
+            <volume>108</volume>
+            <fpage>1575</fpage>
+            <lpage>1584</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1111/j.1471-4159.2009.05910.x</pubid>
+                  <pubid idtype="pmcid">2885765</pubid>
+                  <pubid idtype="pmpid">19183252</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B15">
+            <title>
+               <p>Multiple molecular determinants in the carboxyl terminus regulate dopamine transporter export from endoplasmic reticulum</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Miranda</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Sorkina</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Grammatopoulos</snm>
+                  <fnm>TN</fnm>
+               </au>
+               <au>
+                  <snm>Zawada</snm>
+                  <fnm>WM</fnm>
+               </au>
+               <au>
+                  <snm>Sorkin</snm>
+                  <fnm>A</fnm>
+               </au>
+            </aug>
+            <source>J Biol Chem</source>
+            <pubdate>2004</pubdate>
+            <volume>279</volume>
+            <fpage>30760</fpage>
+            <lpage>30770</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1074/jbc.M312774200</pubid>
+                  <pubid idtype="pmpid" link="fulltext">15128747</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B16">
+            <title>
+               <p>Clearance of exogenous dopamine in rat dorsal striatum and nucleus accumbens: role of metabolism and effects of locally applied uptake inhibitors</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Cass</snm>
+                  <fnm>WA</fnm>
+               </au>
+               <au>
+                  <snm>Zahniser</snm>
+                  <fnm>NR</fnm>
+               </au>
+               <au>
+                  <snm>Flach</snm>
+                  <fnm>KA</fnm>
+               </au>
+               <au>
+                  <snm>Gerhardt</snm>
+                  <fnm>GA</fnm>
+               </au>
+            </aug>
+            <source>J Neurochem</source>
+            <pubdate>1993</pubdate>
+            <volume>61</volume>
+            <fpage>2269</fpage>
+            <lpage>2278</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1111/j.1471-4159.1993.tb07469.x</pubid>
+                  <pubid idtype="pmpid">8245977</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B17">
+            <title>
+               <p>Alcohol self-administration: further examination of the role of dopamine receptors in the nucleus accumbens</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Hodge</snm>
+                  <fnm>CW</fnm>
+               </au>
+               <au>
+                  <snm>Samson</snm>
+                  <fnm>HH</fnm>
+               </au>
+               <au>
+                  <snm>Chappelle</snm>
+                  <fnm>AM</fnm>
+               </au>
+            </aug>
+            <source>Alcohol Clin Exp Res</source>
+            <pubdate>1997</pubdate>
+            <volume>21</volume>
+            <fpage>1083</fpage>
+            <lpage>1091</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid" link="fulltext">9309321</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B18">
+            <title>
+               <p>Oral ethanol self-administration in rats is reduced by the administration of dopamine and glutamate receptor antagonists into the nucleus accumbens</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Rassnick</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Pulvirenti</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Koob</snm>
+                  <fnm>GF</fnm>
+               </au>
+            </aug>
+            <source>Psychopharmacology (Berl)</source>
+            <pubdate>1992</pubdate>
+            <volume>109</volume>
+            <fpage>92</fpage>
+            <lpage>98</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid">1365677</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B19">
+            <title>
+               <p>Disruption of dopamine D1 receptor gene expression attenuates alcohol-seeking behavior</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>El Ghundi</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>George</snm>
+                  <fnm>SR</fnm>
+               </au>
+               <au>
+                  <snm>Drago</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Fletcher</snm>
+                  <fnm>PJ</fnm>
+               </au>
+               <au>
+                  <snm>Fan</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Nguyen</snm>
+                  <fnm>T</fnm>
+               </au>
+               <etal/>
+            </aug>
+            <source>Eur J Pharmacol</source>
+            <pubdate>1998</pubdate>
+            <volume>353</volume>
+            <fpage>149</fpage>
+            <lpage>158</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/S0014-2999(98)00414-2</pubid>
+                  <pubid idtype="pmpid" link="fulltext">9726645</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B20">
+            <title>
+               <p>Ethanol preferentially stimulates dopamine release in the nucleus accumbens of freely moving rats</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Di</snm>
+                  <fnm>CG</fnm>
+               </au>
+               <au>
+                  <snm>Imperato</snm>
+                  <fnm>A</fnm>
+               </au>
+            </aug>
+            <source>Eur J Pharmacol</source>
+            <pubdate>1985</pubdate>
+            <volume>115</volume>
+            <fpage>131</fpage>
+            <lpage>132</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/0014-2999(85)90598-9</pubid>
+                  <pubid idtype="pmpid" link="fulltext">4043232</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B21">
+            <title>
+               <p>Ethanol-induced increases in dopamine extracellular concentration in rat nucleus accumbens are accounted for by increased release and not uptake inhibition</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Yim</snm>
+                  <fnm>HJ</fnm>
+               </au>
+               <au>
+                  <snm>Gonzales</snm>
+                  <fnm>RA</fnm>
+               </au>
+            </aug>
+            <source>Alcohol</source>
+            <pubdate>2000</pubdate>
+            <volume>22</volume>
+            <fpage>107</fpage>
+            <lpage>115</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/S0741-8329(00)00121-X</pubid>
+                  <pubid idtype="pmpid" link="fulltext">11113625</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B22">
+            <title>
+               <p>Ethanol enhances the release of dopamine and serotonin in the nucleus accumbens of HAD and LAD lines of rats</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Yoshimoto</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>McBride</snm>
+                  <fnm>WJ</fnm>
+               </au>
+               <au>
+                  <snm>Lumeng</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Li</snm>
+                  <fnm>TK</fnm>
+               </au>
+            </aug>
+            <source>Alcohol Clin Exp Res</source>
+            <pubdate>1992</pubdate>
+            <volume>16</volume>
+            <fpage>781</fpage>
+            <lpage>785</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1111/j.1530-0277.1992.tb00678.x</pubid>
+                  <pubid idtype="pmpid" link="fulltext">1382391</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B23">
+            <title>
+               <p>Alcohol stimulates the release of dopamine and serotonin in the nucleus accumbens</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Yoshimoto</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>McBride</snm>
+                  <fnm>WJ</fnm>
+               </au>
+               <au>
+                  <snm>Lumeng</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Li</snm>
+                  <fnm>TK</fnm>
+               </au>
+            </aug>
+            <source>Alcohol</source>
+            <pubdate>1992</pubdate>
+            <volume>9</volume>
+            <fpage>17</fpage>
+            <lpage>22</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/0741-8329(92)90004-T</pubid>
+                  <pubid idtype="pmpid" link="fulltext">1370758</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B24">
+            <title>
+               <p>Low doses of ethanol activate dopaminergic neurons in the ventral tegmental area</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Gessa</snm>
+                  <fnm>GL</fnm>
+               </au>
+               <au>
+                  <snm>Muntoni</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Collu</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Vargiu</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Mereu</snm>
+                  <fnm>G</fnm>
+               </au>
+            </aug>
+            <source>Brain Res</source>
+            <pubdate>1985</pubdate>
+            <volume>348</volume>
+            <fpage>201</fpage>
+            <lpage>203</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/0006-8993(85)90381-6</pubid>
+                  <pubid idtype="pmpid" link="fulltext">2998561</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B25">
+            <title>
+               <p>Ethanol self-infusion into the ventral tegmental area by alcohol-preferring rats</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Gatto</snm>
+                  <fnm>GJ</fnm>
+               </au>
+               <au>
+                  <snm>McBride</snm>
+                  <fnm>WJ</fnm>
+               </au>
+               <au>
+                  <snm>Murphy</snm>
+                  <fnm>JM</fnm>
+               </au>
+               <au>
+                  <snm>Lumeng</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Li</snm>
+                  <fnm>TK</fnm>
+               </au>
+            </aug>
+            <source>Alcohol</source>
+            <pubdate>1994</pubdate>
+            <volume>11</volume>
+            <fpage>557</fpage>
+            <lpage>564</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/0741-8329(94)90083-3</pubid>
+                  <pubid idtype="pmpid" link="fulltext">7865158</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B26">
+            <title>
+               <p>Ethanol increases the firing rate of dopamine neurons of the rat ventral tegmental area in vitro</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Brodie</snm>
+                  <fnm>MS</fnm>
+               </au>
+               <au>
+                  <snm>Shefner</snm>
+                  <fnm>SA</fnm>
+               </au>
+               <au>
+                  <snm>Dunwiddie</snm>
+                  <fnm>TV</fnm>
+               </au>
+            </aug>
+            <source>Brain Res</source>
+            <pubdate>1990</pubdate>
+            <volume>508</volume>
+            <fpage>65</fpage>
+            <lpage>69</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/0006-8993(90)91118-Z</pubid>
+                  <pubid idtype="pmpid" link="fulltext">2337793</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B27">
+            <title>
+               <p>Localization of brain reinforcement mechanisms: intracranial self-administration and intracranial place-conditioning studies</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>McBride</snm>
+                  <fnm>WJ</fnm>
+               </au>
+               <au>
+                  <snm>Murphy</snm>
+                  <fnm>JM</fnm>
+               </au>
+               <au>
+                  <snm>Ikemoto</snm>
+                  <fnm>S</fnm>
+               </au>
+            </aug>
+            <source>Behav Brain Res</source>
+            <pubdate>1999</pubdate>
+            <volume>101</volume>
+            <fpage>129</fpage>
+            <lpage>152</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/S0166-4328(99)00022-4</pubid>
+                  <pubid idtype="pmpid" link="fulltext">10372570</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B28">
+            <title>
+               <p>Behavioral neurobiology of alcohol addiction: recent advances and challenges</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Weiss</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Porrino</snm>
+                  <fnm>LJ</fnm>
+               </au>
+            </aug>
+            <source>J Neurosci</source>
+            <pubdate>2002</pubdate>
+            <volume>22</volume>
+            <fpage>3332</fpage>
+            <lpage>3337</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid" link="fulltext">11978808</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B29">
+            <title>
+               <p>Preferential stimulation of dopamine release in the nucleus accumbens of freely moving rats by ethanol</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Imperato</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Di Chiara</snm>
+                  <fnm>G</fnm>
+               </au>
+            </aug>
+            <source>J Pharmacol Exp Ther</source>
+            <pubdate>1986</pubdate>
+            <volume>239</volume>
+            <fpage>219</fpage>
+            <lpage>228</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid" link="fulltext">3761194</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B30">
+            <title>
+               <p>Low endogenous dopamine function in brain predisposes to high alcohol preference and consumption: reversal by increasing synaptic dopamine</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>George</snm>
+                  <fnm>SR</fnm>
+               </au>
+               <au>
+                  <snm>Fan</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Ng</snm>
+                  <fnm>GY</fnm>
+               </au>
+               <au>
+                  <snm>Jung</snm>
+                  <fnm>SY</fnm>
+               </au>
+               <au>
+                  <snm>O'Dowd</snm>
+                  <fnm>BF</fnm>
+               </au>
+               <au>
+                  <snm>Naranjo</snm>
+                  <fnm>CA</fnm>
+               </au>
+            </aug>
+            <source>J Pharmacol Exp Ther</source>
+            <pubdate>1995</pubdate>
+            <volume>273</volume>
+            <fpage>373</fpage>
+            <lpage>379</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid" link="fulltext">7714791</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B31">
+            <title>
+               <p>Genotypic differences in brain dopamine receptor function in the DBA/2J and C57BL/6J inbred mouse strains</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Ng</snm>
+                  <fnm>GY</fnm>
+               </au>
+               <au>
+                  <snm>O'Dowd</snm>
+                  <fnm>BF</fnm>
+               </au>
+               <au>
+                  <snm>George</snm>
+                  <fnm>SR</fnm>
+               </au>
+            </aug>
+            <source>Eur J Pharmacol</source>
+            <pubdate>1994</pubdate>
+            <volume>269</volume>
+            <fpage>349</fpage>
+            <lpage>364</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/0922-4106(94)90043-4</pubid>
+                  <pubid idtype="pmpid">7895774</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B32">
+            <title>
+               <p>The effects of 6-hydroxydopamine lesions of the nucleus accumbens and the mesolimbic dopamine system on oral self-administration of ethanol in the rat</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Rassnick</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Stinus</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Koob</snm>
+                  <fnm>GF</fnm>
+               </au>
+            </aug>
+            <source>Brain Res</source>
+            <pubdate>1993</pubdate>
+            <volume>623</volume>
+            <fpage>16</fpage>
+            <lpage>24</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/0006-8993(93)90004-7</pubid>
+                  <pubid idtype="pmpid" link="fulltext">8221085</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B33">
+            <title>
+               <p>Ethanol and negative feedback regulation of mesolimbic dopamine release in rats</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Kohl</snm>
+                  <fnm>RR</fnm>
+               </au>
+               <au>
+                  <snm>Katner</snm>
+                  <fnm>JS</fnm>
+               </au>
+               <au>
+                  <snm>Chernet</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>McBride</snm>
+                  <fnm>WJ</fnm>
+               </au>
+            </aug>
+            <source>Psychopharmacology (Berl)</source>
+            <pubdate>1998</pubdate>
+            <volume>139</volume>
+            <fpage>79</fpage>
+            <lpage>85</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1007/s002130050692</pubid>
+                  <pubid idtype="pmpid" link="fulltext">9768545</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B34">
+            <title>
+               <p>Chronic ethanol consumption increases dopamine uptake in the nucleus accumbens of high alcohol drinking rats</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Carroll</snm>
+                  <fnm>MR</fnm>
+               </au>
+               <au>
+                  <snm>Rodd</snm>
+                  <fnm>ZA</fnm>
+               </au>
+               <au>
+                  <snm>Murphy</snm>
+                  <fnm>JM</fnm>
+               </au>
+               <au>
+                  <snm>Simon</snm>
+                  <fnm>JR</fnm>
+               </au>
+            </aug>
+            <source>Alcohol</source>
+            <pubdate>2006</pubdate>
+            <volume>40</volume>
+            <fpage>103</fpage>
+            <lpage>109</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.alcohol.2006.10.003</pubid>
+                  <pubid idtype="pmcid">1839919</pubid>
+                  <pubid idtype="pmpid">17307646</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B35">
+            <title>
+               <p>Increased amphetamine-induced hyperactivity and reward in mice overexpressing the dopamine transporter</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Salahpour</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Ramsey</snm>
+                  <fnm>AJ</fnm>
+               </au>
+               <au>
+                  <snm>Medvedev</snm>
+                  <fnm>IO</fnm>
+               </au>
+               <au>
+                  <snm>Kile</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Sotnikova</snm>
+                  <fnm>TD</fnm>
+               </au>
+               <au>
+                  <snm>Holmstrand</snm>
+                  <fnm>E</fnm>
+               </au>
+               <etal/>
+            </aug>
+            <source>Proc Natl Acad Sci USA</source>
+            <pubdate>2008</pubdate>
+            <volume>105</volume>
+            <fpage>4405</fpage>
+            <lpage>4410</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1073/pnas.0707646105</pubid>
+                  <pubid idtype="pmcid">2393812</pubid>
+                  <pubid idtype="pmpid">18347339</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B36">
+            <title>
+               <p>Increased impulsive behavior and risk proneness following lentivirus-mediated dopamine transporter over-expression in rats' nucleus accumbens</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Adriani</snm>
+                  <fnm>W</fnm>
+               </au>
+               <au>
+                  <snm>Boyer</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Gioiosa</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Macri</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Dreyer</snm>
+                  <fnm>JL</fnm>
+               </au>
+               <au>
+                  <snm>Laviola</snm>
+                  <fnm>G</fnm>
+               </au>
+            </aug>
+            <source>Neuroscience</source>
+            <pubdate>2009</pubdate>
+            <volume>159</volume>
+            <fpage>47</fpage>
+            <lpage>58</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.neuroscience.2008.11.042</pubid>
+                  <pubid idtype="pmpid" link="fulltext">19135135</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B37">
+            <title>
+               <p>Mesolimbic dopamine system in alcohol-preferring rats</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Zhou</snm>
+                  <fnm>FC</fnm>
+               </au>
+               <au>
+                  <snm>Zhang</snm>
+                  <fnm>JK</fnm>
+               </au>
+               <au>
+                  <snm>Lumeng</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Li</snm>
+                  <fnm>TK</fnm>
+               </au>
+            </aug>
+            <source>Alcohol</source>
+            <pubdate>1995</pubdate>
+            <volume>12</volume>
+            <fpage>403</fpage>
+            <lpage>412</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/0741-8329(95)00010-O</pubid>
+                  <pubid idtype="pmpid" link="fulltext">8519434</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B38">
+            <title>
+               <p>Reduced DAT- and DBH-immunostaining in the limbic system of Sardinian alcohol-preferring rats</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Casu</snm>
+                  <fnm>MA</fnm>
+               </au>
+               <au>
+                  <snm>Dinucci</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Colombo</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Gessa</snm>
+                  <fnm>GL</fnm>
+               </au>
+               <au>
+                  <snm>Pani</snm>
+                  <fnm>L</fnm>
+               </au>
+            </aug>
+            <source>Brain Res</source>
+            <pubdate>2002</pubdate>
+            <volume>948</volume>
+            <fpage>192</fpage>
+            <lpage>202</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/S0006-8993(02)03220-1</pubid>
+                  <pubid idtype="pmpid" link="fulltext">12383975</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B39">
+            <title>
+               <p>6-OHDA-lesions of the nucleus accumbens disrupt the acquisition but not the maintenance of ethanol consumption in the alcohol-preferring P line of rats</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Ikemoto</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>McBride</snm>
+                  <fnm>WJ</fnm>
+               </au>
+               <au>
+                  <snm>Murphy</snm>
+                  <fnm>JM</fnm>
+               </au>
+               <au>
+                  <snm>Lumeng</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Li</snm>
+                  <fnm>TK</fnm>
+               </au>
+            </aug>
+            <source>Alcohol Clin Exp Res</source>
+            <pubdate>1997</pubdate>
+            <volume>21</volume>
+            <fpage>1042</fpage>
+            <lpage>1046</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid" link="fulltext">9309315</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B40">
+            <title>
+               <p>Toward an analogue of alcoholism in mice: scale factors in the model</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Dole</snm>
+                  <fnm>VP</fnm>
+               </au>
+               <au>
+                  <snm>Gentry</snm>
+                  <fnm>RT</fnm>
+               </au>
+            </aug>
+            <source>Proc Natl Acad Sci USA</source>
+            <pubdate>1984</pubdate>
+            <volume>81</volume>
+            <fpage>3543</fpage>
+            <lpage>3546</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1073/pnas.81.11.3543</pubid>
+                  <pubid idtype="pmcid">345545</pubid>
+                  <pubid idtype="pmpid">6587369</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B41">
+            <title>
+               <p>Ethanol consumption by C57BL/6 mice: influence of gender and procedural variables</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Middaugh</snm>
+                  <fnm>LD</fnm>
+               </au>
+               <au>
+                  <snm>Kelley</snm>
+                  <fnm>BM</fnm>
+               </au>
+               <au>
+                  <snm>Bandy</snm>
+                  <fnm>AL</fnm>
+               </au>
+               <au>
+                  <snm>McGroarty</snm>
+                  <fnm>KK</fnm>
+               </au>
+            </aug>
+            <source>Alcohol</source>
+            <pubdate>1999</pubdate>
+            <volume>17</volume>
+            <fpage>175</fpage>
+            <lpage>183</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/S0741-8329(98)00055-X</pubid>
+                  <pubid idtype="pmpid" link="fulltext">10231165</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B42">
+            <title>
+               <p>Mouse inbred strain differences in ethanol drinking to intoxication</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Rhodes</snm>
+                  <fnm>JS</fnm>
+               </au>
+               <au>
+                  <snm>Ford</snm>
+                  <fnm>MM</fnm>
+               </au>
+               <au>
+                  <snm>Yu</snm>
+                  <fnm>CH</fnm>
+               </au>
+               <au>
+                  <snm>Brown</snm>
+                  <fnm>LL</fnm>
+               </au>
+               <au>
+                  <snm>Finn</snm>
+                  <fnm>DA</fnm>
+               </au>
+               <au>
+                  <snm>Garland</snm>
+                  <fnm>T</fnm>
+                  <suf>Jr</suf>
+               </au>
+               <etal/>
+            </aug>
+            <source>Genes Brain Behav</source>
+            <pubdate>2007</pubdate>
+            <volume>6</volume>
+            <fpage>1</fpage>
+            <lpage>18</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1111/j.1601-183X.2006.00210.x</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17233637</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B43">
+            <title>
+               <p>Acute disinhibiting effects of alcohol as a factor in risky driving behavior</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Fillmore</snm>
+                  <fnm>MT</fnm>
+               </au>
+               <au>
+                  <snm>Blackburn</snm>
+                  <fnm>JS</fnm>
+               </au>
+               <au>
+                  <snm>Harrison</snm>
+                  <fnm>EL</fnm>
+               </au>
+            </aug>
+            <source>Drug Alcohol Depend</source>
+            <pubdate>2008</pubdate>
+            <volume>95</volume>
+            <fpage>97</fpage>
+            <lpage>106</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.drugalcdep.2007.12.018</pubid>
+                  <pubid idtype="pmcid">2376256</pubid>
+                  <pubid idtype="pmpid">18325693</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B44">
+            <title>
+               <p>Beta-lactam antibiotics offer neuroprotection by increasing glutamate transporter expression</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Rothstein</snm>
+                  <fnm>JD</fnm>
+               </au>
+               <au>
+                  <snm>Patel</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Regan</snm>
+                  <fnm>MR</fnm>
+               </au>
+               <au>
+                  <snm>Haenggeli</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Huang</snm>
+                  <fnm>YH</fnm>
+               </au>
+               <au>
+                  <snm>Bergles</snm>
+                  <fnm>DE</fnm>
+               </au>
+               <etal/>
+            </aug>
+            <source>Nature</source>
+            <pubdate>2005</pubdate>
+            <volume>433</volume>
+            <fpage>73</fpage>
+            <lpage>77</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/nature03180</pubid>
+                  <pubid idtype="pmpid" link="fulltext">15635412</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B45">
+            <title>
+               <p>Multidrug resistance-associated proteins: expression and function in the central nervous system</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Dallas</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Miller</snm>
+                  <fnm>DS</fnm>
+               </au>
+               <au>
+                  <snm>Bendayan</snm>
+                  <fnm>R</fnm>
+               </au>
+            </aug>
+            <source>Pharmacol Rev</source>
+            <pubdate>2006</pubdate>
+            <volume>58</volume>
+            <fpage>140</fpage>
+            <lpage>161</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1124/pr.58.2.3</pubid>
+                  <pubid idtype="pmpid" link="fulltext">16714484</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B46">
+            <title>
+               <p>Blood-brain barrier delivery</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Pardridge</snm>
+                  <fnm>WM</fnm>
+               </au>
+            </aug>
+            <source>Drug Discov Today</source>
+            <pubdate>2007</pubdate>
+            <volume>12</volume>
+            <fpage>54</fpage>
+            <lpage>61</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.drudis.2006.10.013</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17198973</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+      </refgrp>
+   </bm>
+</art>

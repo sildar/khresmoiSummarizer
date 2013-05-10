@@ -1,0 +1,2484 @@
+<!DOCTYPE art SYSTEM "article.dtd">
+<art>
+   <ui>scrt184</ui>
+   <ji>1757-6512</ji>
+   <fm>
+      <dochead>Research</dochead>
+      <bibl>
+         <title>
+            <p>Simulated microgravity facilitates cell migration and neuroprotection after bone marrow stromal cell transplantation in spinal cord injury</p>
+         </title>
+         <aug>
+            <au id="A1" ca="yes">
+               <snm>Mitsuhara</snm>
+               <fnm>Takafumi</fnm>
+               <insr iid="I1"/>
+               <email>mitsuhar@hiroshima-u.ac.jp</email>
+            </au>
+            <au id="A2">
+               <snm>Takeda</snm>
+               <fnm>Masaaki</fnm>
+               <insr iid="I1"/>
+               <email>tkdmsk@hiroshima-u.ac.jp</email>
+            </au>
+            <au id="A3">
+               <snm>Yamaguchi</snm>
+               <fnm>Satoshi</fnm>
+               <insr iid="I1"/>
+               <email>satoya@hiroshima-u.ac.jp</email>
+            </au>
+            <au id="A4">
+               <snm>Manabe</snm>
+               <fnm>Tomotaka</fnm>
+               <insr iid="I2"/>
+               <email>mnbtmtk@med.nagoya-u.ac.jp</email>
+            </au>
+            <au id="A5">
+               <snm>Matsumoto</snm>
+               <fnm>Masaya</fnm>
+               <insr iid="I2"/>
+               <email>d100851@hiroshima-u.ac.jp</email>
+            </au>
+            <au id="A6">
+               <snm>Kawahara</snm>
+               <fnm>Yumi</fnm>
+               <insr iid="I2"/>
+               <email>yumi@hiroshima-u.ac.jp</email>
+            </au>
+            <au id="A7">
+               <snm>Yuge</snm>
+               <fnm>Louis</fnm>
+               <insr iid="I2"/>
+               <email>ryuge@hiroshima-u.ac.jp</email>
+            </au>
+            <au id="A8">
+               <snm>Kurisu</snm>
+               <fnm>Kaoru</fnm>
+               <insr iid="I1"/>
+               <email>kuka422@hiroshima-u.ac.jp</email>
+            </au>
+         </aug>
+         <insg>
+            <ins id="I1">
+               <p>Department of Neurosurgery, Graduate School of Biomedical and Health Sciences, Hiroshima University, 1-2-3 Kasumi, Hiroshima, Minami-ku 734-8551, Japan</p>
+            </ins>
+            <ins id="I2">
+               <p>Division of Bio-Environmental Adaptation Sciences, Graduate School of Biomedical and Health Sciences, Hiroshima University, Hiroshima, Japan</p>
+            </ins>
+         </insg>
+         <source>Stem Cell Research &amp; Therapy</source>
+         <issn>1757-6512</issn>
+         <pubdate>2013</pubdate>
+         <volume>4</volume>
+         <issue>2</issue>
+         <fpage>35</fpage>
+         <url>http://stemcellres.com/content/4/2/35</url>
+         <xrefbib>
+            <pubidlist>
+               <pubid idtype="doi">10.1186/scrt184</pubid>
+               <pubid idtype="pmpid">23548163</pubid>
+            </pubidlist>
+         </xrefbib>
+      </bibl>
+      <history>
+         <rec>
+            <date>
+               <day>30</day>
+               <month>11</month>
+               <year>2012</year>
+            </date>
+         </rec>
+         <revrec>
+            <date>
+               <day>22</day>
+               <month>2</month>
+               <year>2013</year>
+            </date>
+         </revrec>
+         <acc>
+            <date>
+               <day>8</day>
+               <month>3</month>
+               <year>2013</year>
+            </date>
+         </acc>
+         <pub>
+            <date>
+               <day>1</day>
+               <month>4</month>
+               <year>2013</year>
+            </date>
+         </pub>
+      </history>
+      <cpyrt>
+         <year>2013</year>
+         <collab>Mitsuhara et al.; licensee BioMed Central Ltd.</collab>
+         <note>This is an Open Access article distributed under the terms of the Creative Commons Attribution License (<url>http://creativecommons.org/licenses/by/2.0</url>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</note>
+      </cpyrt>
+      <kwdg>
+         <kwd>Bone marrow stromal cell</kwd>
+         <kwd>Migration</kwd>
+         <kwd>Simulated microgravity</kwd>
+         <kwd>Spinal cord injury</kwd>
+         <kwd>Survival</kwd>
+         <kwd>Trophic factor</kwd>
+      </kwdg>
+      <abs>
+         <sec>
+            <st>
+               <p>Abstract</p>
+            </st>
+            <sec>
+               <st>
+                  <p>Introduction</p>
+               </st>
+               <p>Recently, cell-based therapy has gained significant attention for the treatment of central nervous system diseases. Although bone marrow stromal cells (BMSCs) are considered to have good engraftment potential, challenges due to <it>in vitro</it> culturing, such as a decline in their functional potency, have been reported. Here, we investigated the efficacy of rat BMSCs (rBMSCs) cultured under simulated microgravity conditions, for transplantation into a rat model of spinal cord injury (SCI).</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>Methods</p>
+               </st>
+               <p>rBMSCs were cultured under two different conditions: standard gravity (1G) and simulated microgravity attained by using the 3D-clinostat. After 7 days of culture, the rBMSCs were analyzed morphologically, with RT-PCR and immunostaining, and were used for grafting. Adult rats were used for constructing SCI models by using a weight-dropping method and were grouped into three experimental groups for comparison. rBMSCs cultured under 1 <it>g</it> and simulated microgravity were transplanted intravenously immediately after SCI. We evaluated the hindlimb functional improvement for 3 weeks. Tissue repair after SCI was examined by calculating the cavity area ratio and immunohistochemistry.</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>Results</p>
+               </st>
+               <p>rBMSCs cultured under simulated microgravity expressed <it>Oct-4</it> and <it>CXCR4</it>, in contrast to those cultured under 1 <it>g</it> conditions. Therefore, rBMSCs cultured under simulated microgravity were considered to be in an undifferentiated state and thus to possess high migration ability. After transplantation, grafted rBMSCs cultured under microgravity exhibited greater survival at the periphery of the lesion, and the motor functions of the rats that received these grafts improved significantly compared with the rats that received rBMSCs cultured in 1 <it>g</it>. In addition, rBMSCs cultured under microgravity were thought to have greater trophic effects on reestablishment and survival of host spinal neural tissues because cavity formations were reduced, and apoptosis-inhibiting factor expression was high at the periphery of the SCI lesion.</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>Conclusions</p>
+               </st>
+               <p>Here we show that transplantation of rBMSCs cultured under simulated microgravity facilitates functional recovery from SCI rather than those cultured under 1 <it>g</it> conditions.</p>
+            </sec>
+         </sec>
+      </abs>
+   </fm>
+   <bdy>
+      <sec>
+         <st>
+            <p>Introduction</p>
+         </st>
+         <p>In the last decade, a variety of cell types, including human neural stem cells <abbrgrp><abbr bid="B1">1</abbr></abbrgrp>, embryonic stem (ES) cell derivatives <abbrgrp><abbr bid="B2">2</abbr><abbr bid="B3">3</abbr></abbrgrp>, and adult bone marrow stromal cells (BMSCs) <abbrgrp><abbr bid="B4">4</abbr><abbr bid="B5">5</abbr><abbr bid="B6">6</abbr></abbrgrp>, have been transplanted into the injured spinal cord of rats or mice, to their neuroregenerative activities. These preclinical studies showed that engrafted stem cells promote substantial functional recovery after spinal cord injury (SCI) through both cell-autonomous/cell-replacement and paracrine/trophic effects <abbrgrp><abbr bid="B7">7</abbr></abbrgrp>. BMSCs are suggested to have the capacity to differentiate into neural lineages <abbrgrp><abbr bid="B8">8</abbr></abbrgrp> and are advantageous with regard to less-invasive harvest procedures and large cell yields. BMSCs are also clinically attractive because they lend themselves to autologous transplantation in humans. Neural-like cells derived from BMSCs could be used in cell therapy for degenerative or traumatic diseases of the central nerve system <abbrgrp><abbr bid="B9">9</abbr><abbr bid="B10">10</abbr><abbr bid="B11">11</abbr></abbrgrp>; thus, the efficacy of these cells as transplants has been investigated for the treatment of SCI <abbrgrp><abbr bid="B4">4</abbr><abbr bid="B6">6</abbr><abbr bid="B12">12</abbr><abbr bid="B13">13</abbr></abbrgrp>.</p>
+         <p>We have focused on culturing BMSCs under simulated microgravity and reported its influence on important cellular events, such as cell cycling, proliferation, and differentiation <abbrgrp><abbr bid="B14">14</abbr><abbr bid="B15">15</abbr><abbr bid="B16">16</abbr><abbr bid="B17">17</abbr></abbrgrp>. Previous studies using human mesenchymal stem cells and human hematopoietic progenitor cells have indicated that simulated microgravity suppresses cellular differentiation, while favoring cell proliferation <abbrgrp><abbr bid="B16">16</abbr><abbr bid="B18">18</abbr></abbrgrp>. Our previous study showed that culturing of mouse BMSCs under simulated microgravity enhances the survival percentage, through maintenance of an undifferentiated state of pluripotent cells <abbrgrp><abbr bid="B17">17</abbr></abbrgrp>. Moreover, in a mouse model of cerebral contusion, the efficacy of grafting mice BMSCs into the damaged brain appeared to be attributed not only to cells differentiating into neuronal cells but also to the factors derived by the grafted cells. These factors suppressed the formation of a glial scar and enhanced the elongation of the axons. In particular, mice BMSCs cultured under simulated microgravity expressed CXCR4 on their cell membrane; this expression was increased over cells grown under standard 1 <it>g</it> conditions, and the motor function of mice receiving grafts of BMSCs cultured under simulated microgravity improved significantly. These advantages make BMSCs cultured under simulated microgravity a strong candidate for cell-transplantation therapy for SCI.</p>
+         <p>In this study, we investigated the morphologic changes and trophic effects of rat BMSCs cultured under simulated microgravity on neural migration and survival, and on functional improvements after SCI in a rat model.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Materials and methods</p>
+         </st>
+         <p>All study protocols were approved by the Animal Testing Committee Guidelines at Hiroshima University and/or the regulations of Animal Testing Facility of the Hiroshima University Natural Science Support Center. Animal care and handling procedures were in accordance with National Institutes of Health guidelines.</p>
+         <sec>
+            <st>
+               <p>Preparation of rBMSCs</p>
+            </st>
+            <p>Bone marrow cells of 5-week-old female Fischer/F344 rats were obtained from the bilateral femoral and tibial bones, and 1.0 &#215; 10<sup>7</sup> cells were suspended in Dulbecco modified Eagle medium, low glucose (Sigma-Aldrich Co., Saint Louis, MO, USA), with 10% fetal bovine serum (Thermo Fisher Scientific HyClone, South Logan, UT, USA), penicillin (100 units/ml), and streptomycin (100 &#956;g/ml; both from Sigma-Aldrich) in 90-mm-diameter culture dishes (Thermo Fisher Scientific Nunc A/S, Roskilde, Denmark). Cells were maintained at 37&#176;C with 5% CO<sub>2</sub> in a humidified chamber, and the medium was exchanged to eliminate floating cells after 48 hours. Rat BMSCs (rBMSCs) adhering to the bottom of the culture dish were used as culture cells.</p>
+            <p>To obtain a sufficient population of cells for the experiment, two subcultures of rBMSCs were proliferated and plated by using OptiCell (Thermo Fisher Scientific Nunc A/S) at a density of 2.0 &#215; 10<sup>4</sup> cells/cm<sup>2</sup>. At 70% confluency, the cells were divided (day 0) and cultured under two different conditions: standard gravity (group 1G) and microgravity attained using the 3D-clinostat (group CL). After 7 days of culture, the rBMSCs were analyzed morphologically, with RT-PCR and immunostaining, and were used for grafting.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>3D-clinostat</p>
+            </st>
+            <p>Microgravity conditions can be produced either by space flight or by free fall; to simulate microgravity, we used a 3D-clinostat (Mitsubishi Heavy Industries, Ltd., Kobe, Japan), as previously patented (undifferentiated pluripotent stem cell proliferation/differentiation regulation method and system, patent 2001&#8211;197182, Japanese published unexamined application 2003&#8211;9852, Foreign patent WO2004/061092 A1 PCT; US, EU, 2004). This device produces an environment similar to that of outer space (10<sup>-3</sup><it>g</it>) by rotating a sample around two axes, integrating the gravity vector with the temporal axis. This is accomplished by rotation of a chamber at the center of the device, resulting in uniform dispersion of the gravity vector within a spherical volume, with a constant angular velocity. These specific conditions produced a simulated environment of 10<sup>-3</sup><it>g</it> in 10 minutes.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Morphologic changes</p>
+            </st>
+            <p>Morphologic changes of the cells were examined by using an inverted phase-contrast microscope (Eclipse TE 300; Nikon Co., Tokyo, Japan), and were recorded by taking images at random.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>RT-PCR</p>
+            </st>
+            <p>Cultured cells were collected by using ISOGEN (Nippon Gene Co., Ltd., Toyama, Japan), and RNA was isolated according to the manufacturer&#8217;s protocol. Reverse transcription was performed with ReverTra Ace-&#945;- (Toyobo Co. Ltd., Osaka, Japan). By using cDNA as the template, PCR was performed by using BD Advantage 2 PCR Kits (BD Biosciences Clontech, Palo Alto, CA, USA). We used <it>Oct-4</it> as a pluripotency marker and CXC-chemokine receptor 4 (<it>CXCR4</it>) as the cell-migration marker. We also investigated the expression of neurotrophins (nerve growth factor (<it>NGF</it>) and brain-derived neurotrophic factor (<it>BDNF</it>)). Glyceraldehyde-3-phosphate dehydrogenase (<it>G3PDH</it>) was used as a housekeeping gene. The sequences of the primers as well as the PCR conditions used are shown in Additional file <supplr sid="S1">1</supplr>: Table S1.</p>
+            <suppl id="S1">
+               <title>
+                  <p>Additional file 1: Table S1</p>
+               </title>
+               <text>
+                  <p>Polymerase chain reaction primers and conditions.</p>
+               </text>
+               <file name="scrt184-S1.doc">
+                  <p>Click here for file</p>
+               </file>
+            </suppl>
+         </sec>
+         <sec>
+            <st>
+               <p>Immunostaining of cell-migration marker</p>
+            </st>
+            <p>Fixed rBMSCs were stained by using an immunostaining method and were examined by using a multifunctional microscope (BZ-9000; KEYENCE Co., Osaka, Japan). For CXCR4, a 400-fold dilution of monoclonal anti-CXCR4 (fusin; Santa Cruz Biotechnology, Santa Cruz, CA, USA) was used as the primary antibody, followed by Alexa Fluor 488 goat anti-mouse IgG (H + L) (Invitrogen Co., Carlsbad, CA, USA). For nuclear staining, a 500-fold dilution of 4<sup>&#8242;</sup>,6-diamidine-2-phenylindole dihydrochloride (DAPI; Kirkegaard &amp; Perry Laboratories, Gaithersburg, MD, USA) was used. Images were stored on a computer for later analysis, and the percentage of positivity was calculated by dividing the number of positive cells by the total number of cells.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Construction of a rat model of spinal contusion and cell grafting</p>
+            </st>
+            <p>Adult female Fischer/F344 rats weighing 150 to 200 g were purchased from Charles River Breeding Company (Yokohama, Japan) and were used for constructing a spinal-contusion model by using a weight-dropping method <abbrgrp><abbr bid="B13">13</abbr><abbr bid="B19">19</abbr><abbr bid="B20">20</abbr></abbrgrp>. Rats were anesthetized, and a midline linear incision was made over the T9 to T11 spinous processes. By dissecting the bilateral paraspinal muscle laterally, the laminae of T9 to T11 were exposed. Laminectomy was carried out at T10. A cylindrical brass weight (10 g) was dropped down a stationary rod onto an impactor rod that rested on surface of the T12 dorsal dura mater. Spinal contusion was achieved with a force of 50 <it>g</it>/cm. The rats that underwent SCI received forced exercises for motor recovery of hindlimbs daily after the surgical procedure. Prophylactic antibiotics were administered for 7 days after the surgical procedure, and the bladders of these rats were expressed manually twice daily until spontaneous urine voiding was achieved.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Experimental groups and cell transplantation</p>
+            </st>
+            <p>Rats were grouped into three experimental groups for comparison in our study; Group Control, in which PBS was administered immediately intravenously after the spinal contusion; Group 1G, which received intravenous injection of rBMSCs of group 1G cells immediately after spinal contusion; and Group CL, which received intravenous injection of rBMSCs of group CL cells immediately after spinal contusion.</p>
+            <p>Rats in groups CL and 1G received cellular grafting by injection of 3.0 &#215; 10<sup>5</sup> cultured cells diluted in 100 &#956;l PBS into a tail vein. For the evaluation of survival and migration of BMSCs <it>in vitro</it>, the grafted rBMSCs were labeled by using PKH-26 (Sigma-Aldrich) as per established protocols <abbrgrp><abbr bid="B21">21</abbr></abbrgrp>. Immunosuppressants were not used in any animals.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Behavioral analysis</p>
+            </st>
+            <p>The Basso-Beattie-Bresnahan locomotor rating scale (BBB scale) <abbrgrp><abbr bid="B19">19</abbr><abbr bid="B22">22</abbr></abbrgrp> and inclined-plane task score were used to evaluate the hindlimb functional improvement of treated animals with spinal cord contusion. The BBB scale is a 22-point scale that systematically and logically follows recovery of hindlimb function, and ranges from a score of 0, indicative of no observed hindlimb movements, to a score of 21, representative of a normal ambulating rodent <abbrgrp><abbr bid="B23">23</abbr></abbrgrp>. The inclined-plane task score assesses the maximum angle at which the animal could maintain its position for 5 seconds on an inclined plane. In this study, behavioral analysis was performed just before spinal injury, again every day from day 0 to 7, day 14, and day 21 after injury. All evaluations of motor function were performed by an observer lacking knowledge of group identities.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Histologic and immunohistochemical analysis</p>
+            </st>
+            <p>At 3 weeks after transplantation, animals were deeply anesthetized and transcardially perfused with 4% paraformaldehyde for histologic and immunohistochemical analyses. The injured spinal cords were freed from the vertebral columns and cryoprotected in 30% sucrose. Fixed spinal cords were embedded in Tissue-Tek O.C.T compound (Sakura Finetechnical Co., Tokyo, Japan), frozen in liquid nitrogen, and sliced coronally into 7-&#956;m-thick sections by using a cryostat (Leica Microsystems GmbH, Wetzlar, Germany). The segments were mounted on microscope slides to be used for hematoxylin and eosin (H&amp;E) staining, staining of neurofilament heavy chain (NF-H) as a neural differentiation marker, and staining of glial fibrillary acidic protein (GFAP) as a glial differentiation marker. H&amp;E-stained segments were examined under a multifunctional microscope (BZ-9000; KEYENCE Co.), and the areas of injured cavities were measured in group Control, group 1G, and group CL, by using digital image-processing software (ImageJ; National Institutes of Health, Bethesda, MD, USA). The cavity area ratio of each group was calculated by dividing the cavity area by the total coronally resected spinal cord area.</p>
+            <p>The following primary antibodies were used: monoclonal anti-neurofilament 200 (Sigma-Aldrich) for NF-H and monoclonal anti-GFAP (Sigma-Aldrich) for GFAP. Alexa Fluor 488 goat anti-mouse IgG (H+L; Invitrogen) was used as the secondary antibody. Stained segments were examined under a multifunctional microscope (BZ-9000). Transplanted PKH-26 labeled cells were also observed under this microscope.</p>
+            <p>Immunostaining of apoptosis-associated markers was performed for the apoptosis-promoting marker Bcl-2-associated X protein (Bax), and for the apoptosis-inhibiting markers B-cell CLL/lymphoma 2 (Bcl-2) and survivin. The following primary antibodies were used: anti-Bax monoclonal antibody for Bax, anti-Bcl-2 polyclonal antibody for Bcl-2, and anti-survivin polyclonal antibody (all; Santa Cruz Biotechnology, Santa Cruz, CA, USA). Secondary antibodies included enzyme-conjugated anti-mouse Bax monoclonal antibody for Bax, enzyme-conjugated anti-rabbit Bcl-2 polyclonal antibody for Bcl-2, and enzyme-conjugated anti-rabbit survivin polyclonal antibody for survivin (all, Santa Cruz Biotechnology). Mayer hematoxylin was used to stain nuclei. Stained segments were examined under a multifunctional microscope (BZ-9000), and the positivity ratios calculated by dividing the number of positive cells by the total number of cells.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Statistical analysis</p>
+            </st>
+            <p>All data are expressed as mean &#177; SD of individual samples per group and were analyzed by one-way analysis of variance by using the Statistical Package for Social Sciences 19 software package for Windows (SPSS, Chicago, IL, USA). Differences between the values of two groups were assessed by using the Mann&#8211;Whitney <it>U</it> test. A <it>P</it> value of &lt;0.05 was considered statistically significant.</p>
+         </sec>
+      </sec>
+      <sec>
+         <st>
+            <p>Results</p>
+         </st>
+         <sec>
+            <st>
+               <p>Effects of simulated microgravity for rBMSCs</p>
+            </st>
+            <p>Cells of both groups showed a spindle and oval shape, but the rBMSC morphology cultured under simulated microgravity was changed to &#8220;dome like&#8221; shape, and the cells were smaller than those cultured under 1 <it>g</it> (Figure&#160;<figr fid="F1">1</figr>A, B) (See Additional file <supplr sid="S2">2</supplr>: Figure S1: morphologic change of rBMSCs under simulated microgravity in detail). On day 7, expression of <it>Oct-4</it> and <it>CXCR4</it> mRNAs was observed to be stronger in group CL cells (Figure&#160;<figr fid="F2">2</figr>A). No difference was found between groups 1G and CL with regard to the expression of <it>NGF</it> and <it>BDNF</it> mRNAs. The number of cells positively stained for CXCR4 was significantly higher (<it>P</it> &lt; 0.01) in group CL cells than in group 1G cells (Figure&#160;<figr fid="F2">2</figr>B).</p>
+            <fig id="F1">
+               <title>
+                  <p>Figure 1</p>
+               </title>
+               <caption>
+                  <p>Morphologic changes of each group</p>
+               </caption>
+               <text>
+                  <p><b>Morphologic changes of each group.</b> Morphologic changes (<b>A</b>) group 1G; (<b>B</b>) group CL). The cells cultured under simulated microgravity (group CL) were changed to dome-like shape and were smaller than those cultured under 1 <it>g</it> (group 1G). Scale bars, 100 &#956;m.</p>
+               </text>
+               <graphic file="scrt184-1"/>
+            </fig>
+            <suppl id="S2">
+               <title>
+                  <p>Additional file 2: Figure S1</p>
+               </title>
+               <text>
+                  <p>The morphologic changes of rBMSCs cultured under microgravity. On Day 4, the cells became smaller and rounder. On Day 7, the cells became much smaller and dome-like in shape. Scale bars, 100 &#956;m.</p>
+               </text>
+               <file name="scrt184-S2.tiff">
+                  <p>Click here for file</p>
+               </file>
+            </suppl>
+            <fig id="F2">
+               <title>
+                  <p>Figure 2</p>
+               </title>
+               <caption>
+                  <p>mRNA expressions of the graft cells</p>
+               </caption>
+               <text>
+                  <p><b>mRNA expressions of the graft cells.</b> Effect of simulated microgravity on the graft cells. (<b>A</b>) mRNA expressions of <it>Oct-4</it>, <it>CXCR4</it>, <it>NGF</it>, and <it>BDNF</it> at day 7. The expression of <it>Oct-4</it> and <it>CXCR4</it> mRNAs was observed to be stronger in group CL cells. Expression of the housekeeping gene <it>G3PDH</it> was used to standardize expression. Immunostaining (<b>B</b>) indicated that the number of CXCR4-positive cells was significantly greater (<it>P</it> &lt; 0.01) in group CL than in group 1G (<it>n</it> = 5 per group). Data are expressed as mean &#177; SD. CXCR4-positive cell percentage was significantly higher (<it>P</it> value &lt; 0.01) in group CL than in group 1G.</p>
+               </text>
+               <graphic file="scrt184-2"/>
+            </fig>
+         </sec>
+         <sec>
+            <st>
+               <p>Effects of cell transplantation in SCI model rats: recovery of motor function, cavity repair, and migration of transplanted rBMSCs</p>
+            </st>
+            <p>In total, 29 adult female Fischer/F344 rats received a standardized contusion of the spinal cord (11 each in Control and 1G groups, seven in group CL). Dropping a weight with a force of 50 g/cm resulted in complete paraparesis, and rBMSCs of either group were transplanted immediately after the crush injury. For 21 days after the crush injury, the BBB and inclined-plane task scores gradually improved in all rats (Figure&#160;<figr fid="F3">3</figr>A, B). Group CL showed the greatest improvement in motor function from 5 to 21 days after SCI, as compared with the controls and group 1G. The difference in the BBB and inclined-plane task scores between group CL and group 1G reached statistical significance by 5 days after the injury.</p>
+            <fig id="F3">
+               <title>
+                  <p>Figure 3</p>
+               </title>
+               <caption>
+                  <p>Locomotor recovery</p>
+               </caption>
+               <text>
+                  <p><b>Locomotor recovery.</b> These graphs show the analysis of locomotor recovery as measured by the BBB score and the inclined-plane task score from the day on which SCI was induced (day 0) to 21 days later. (<b>A</b>) BBB scores were significantly higher in group CL than in group 1G from day 5 to day 21 after SCI (<it>P</it> value &lt; 0.01). (<b>B</b>) The angle of the inclined plane was also significantly greater in group CL from day 5 to day 21 (<it>P</it> value &lt; 0.01).</p>
+               </text>
+               <graphic file="scrt184-3"/>
+            </fig>
+            <p>The cavity formations, as assessed by H&amp;E staining of coronal sections at 21 days after SCI, were markedly reduced in the groups that had received rBMSC transplants (Figure&#160;<figr fid="F4">4</figr>A-C). Only very small cavities were identified within the SCI lesions in group CL; the cavity ratio of group CL was also significantly reduced compared with that of group Control (<it>P</it> &lt; 0.05; Figure&#160;<figr fid="F4">4</figr>D).</p>
+            <fig id="F4">
+               <title>
+                  <p>Figure 4</p>
+               </title>
+               <caption>
+                  <p>Cavity formation after SCI</p>
+               </caption>
+               <text>
+                  <p><b>Cavity formation after SCI.</b> Cavity formation after SCI stained with hematoxylin and eosin (<b>A</b>) rat uninjured spinal cord, (<b>B</b>) group Control, (<b>C</b>) group 1G and (<b>D</b>) group CL). Scale bars, 300 &#956;m. The cavity formations (arrows) were markedly reduced in the groups that had received rBMSC transplants. Only very small cavities were identified within the SCI lesions in group CL. The graph (<b>D</b>) shows the difference in the volume of cavities at 21 days after SCI among group Control (<it>n</it> = 7), group 1G (<it>n</it> = 7), and group CL (<it>n</it> = 6). Data are expressed as mean &#177; SD. The values of the cavity size were significantly different between group CL and group Control (<it>P</it> value &lt; 0.05). Group C, <it>n</it> = 11; Group 1G, <it>n</it> = 11; Group CL, <it>n</it> = 7.</p>
+               </text>
+               <graphic file="scrt184-4"/>
+            </fig>
+            <p>On evaluation at 21 days after SCI, many transplanted rBMSCs, labeled with PKH-26, had migrated into the SCI lesions; the number of PKH-positive cells was noticeably higher in group CL than in group 1G (Figure&#160;<figr fid="F5">5</figr>A, B) (see Additional file <supplr sid="S3">3</supplr>: Figure S2: the phase-contrast images of rat uninjured spinal cord and contusional spinal cord without cell transplantation). Furthermore, clustering of the migrated cells was observed in the SCI lesion in group CL (Figure&#160;<figr fid="F5">5</figr>B).</p>
+            <fig id="F5">
+               <title>
+                  <p>Figure 5</p>
+               </title>
+               <caption>
+                  <p>Immunostained images of each group at 21 days after transplantation</p>
+               </caption>
+               <text>
+                  <p><b>Immunostained images of each group at 21 days after transplantation.</b> Phase-contrast microscopic images of spinal cord from each group (<b>a</b>, <b>e</b>), and transplanted cells labeled with PKH-26 (<b>b, f, g</b>) are shown. In group CL, clustering of the migrated PKH-26-positive cells was observed around the SCI lesion (<b>f</b>, <b>g</b>). Immunostained images of each group are shown &#169; NF-H in group 1G, (<b>d</b>) GFAP in group 1G, (<b>h</b>) NF-H in group CL, (<b>i</b>) GFAP in group CL). Green staining indicates cells positive for the differentiation marker. Yellow-staining cells indicate grafted cells expressing each neural marker. Transplanted cells had a tendency to express higher levels of GFAP than NF-H in group 1G and in group CL (<b>c, d, h, i</b>). Scale bars, 300 &#956;m (<b>b</b> and <b>f</b>), and 100 &#956;m (<b>c</b>, <b>d</b>, <b>g</b>, <b>h,</b> and <b>i</b>).</p>
+               </text>
+               <graphic file="scrt184-5"/>
+            </fig>
+            <suppl id="S3">
+               <title>
+                  <p>Additional file 3: Figure S2</p>
+               </title>
+               <text>
+                  <p>The phase-contrast images of rat spinal cord. (A) Rat uninjured spinal cord. (B) Rat contusional spinal cord without cell transplantation. Scale bars, 300 &#956;m.</p>
+               </text>
+               <file name="scrt184-S3.tiff">
+                  <p>Click here for file</p>
+               </file>
+            </suppl>
+         </sec>
+         <sec>
+            <st>
+               <p>Effects of cell transplantation in SCI model rats: immunohistochemical analysis</p>
+            </st>
+            <p>Transplanted cells showed higher expression of GFAP than of NF-H in both groups 1G and CL. No statistically significant difference was noted in the number of GFAP-positive cells between the 1G and CL groups (Figure&#160;<figr fid="F5">5</figr>A, B).</p>
+            <p>Expression of the apoptosis markers Bax2, Bcl-2, and survivin were examined in the frozen sections of each group on day 21 (Figure&#160;<figr fid="F6">6</figr>). The positive cell percentage for the apoptosis-promoting factor Bax was significantly decreased in group CL compared with group Control and group 1G. Moreover, the expression of the apoptosis-inhibitory factor survivin was significantly increased in group 1G and CL compared with the control. Bcl-2 expression was not significantly different among the groups.</p>
+            <fig id="F6">
+               <title>
+                  <p>Figure 6</p>
+               </title>
+               <caption>
+                  <p>Expression of apoptosis markers</p>
+               </caption>
+               <text>
+                  <p><b>Expression of apoptosis markers.</b> Frozen sections were stained with apoptosis markers, Bax (<b>B</b>), Bcl-2 (<b>C</b>), and survivin (<b>D</b>), to examine the neurotrophic effects activated by grafted cells against apoptosis. The graph shows the positive cell percentage around SCI lesion in the frozen spinal cord sections (<b>A</b>) of each group (<it>n</it> = 6 per group). The number of Bax-positive cells was significantly decreased in group CL rats compared with the control group (<it>P</it> value &lt; 0.01) and group 1G (<it>P</it> value &lt; 0.05). Moreover, the number of survivin-positive cells was significantly increased in groups 1G and CL compared with the control (<it>P</it> value &lt; 0.01; <it>P</it> value &lt; 0.05). Bcl-2 expression was not statistically significantly different between groups. Data are expressed as mean &#177; SD. Scale bars, 300 &#956;m (<b>A</b>), 100 &#956;m (<b>B</b>, <b>C</b>, and <b>D</b>).</p>
+               </text>
+               <graphic file="scrt184-6"/>
+            </fig>
+            <p>Taken together, the findings indicate that transplantation of the rBMSCs in group CL contributed to a significant improvement of motor function and morphologic features compared with the improvement observed in group 1G.</p>
+         </sec>
+      </sec>
+      <sec>
+         <st>
+            <p>Discussion</p>
+         </st>
+         <p>We report here the remarkable neuroregenerative effect of rBMSCs cultured in simulated microgravity on functional recovery after SCI; to our knowledge, this is the first study in which rBMSCs cultured in simulated microgravity were transplanted into an SCI model.</p>
+         <p>Previously, BMSCs have been reported to exhibit distinct effects on the recovery of injured spinal cords and to improve locomotion in SCI rats; moreover, cavity formation in the spinal cord was reported to be reduced when BMSCs were infused into the cerebrospinal fluid with acute SCI <abbrgrp><abbr bid="B24">24</abbr><abbr bid="B25">25</abbr></abbrgrp>. To examine possible future clinical applications of cells grown in simulated microgravity, we used a spinal-contusion model involving a weight-dropping method. In this study, grafted rBMSCs promoted functional improvement, which was accompanied by the suppression of cavity formation 3 weeks after SCI. As previously reported <abbrgrp><abbr bid="B13">13</abbr></abbrgrp>, functional recovery of the spinal-contusion models by using a weight-dropping method was less prominent and reached a plateau during the third week after SCI. In this study, we transplanted cells immediately after a surgical procedure to examine the therapeutic benefits of the transplanted cells concerning the multiple pathogenic signals that function synergistically during the early phase after SCI. The present study confirmed possibilities that rBMSCs cultured under simulated microgravity have the pluripotency and the advantage as grafting cells for the early phase of SCI repair.</p>
+         <p>Previous studies have shown that microgravity suppresses the differentiation of human osteoblast cells <abbrgrp><abbr bid="B15">15</abbr></abbrgrp>, human hematopoietic progenitor cells <abbrgrp><abbr bid="B18">18</abbr></abbrgrp>, and rat myoblasts <abbrgrp><abbr bid="B16">16</abbr></abbrgrp>. Simulated microgravity also allows novel culture methods for mouse ES cells that do not require leukemia inhibitory factor or animal-derived supplements <abbrgrp><abbr bid="B14">14</abbr></abbrgrp>. The 3D-clinostat is a device that allows generation of a multidirectional <it>g</it> force, resulting in an environment with an average of 10<sup>-3</sup><it>g</it><abbrgrp><abbr bid="B14">14</abbr><abbr bid="B16">16</abbr></abbrgrp>. Our previous study showed that cells cultured in a 3D-clinostat exhibit suppressed cell differentiation <abbrgrp><abbr bid="B16">16</abbr><abbr bid="B17">17</abbr><abbr bid="B26">26</abbr></abbrgrp> and induction of growth inhibition through reduction of mitochondrial activity <abbrgrp><abbr bid="B17">17</abbr></abbrgrp>; moreover, simulated microgravity enhanced the chemosensitivity of malignant glioma cells <abbrgrp><abbr bid="B27">27</abbr></abbrgrp>.</p>
+         <p>In the present study, simulated microgravity was considered to induce growth inhibition and to maintain the undifferentiated state of rBMSCs, because the rBMSCs cultured under simulated microgravity were smaller and had a dome-like shape, and the expression of <it>Oct-4</it> mRNA was observed only in group CL cells.</p>
+         <p>A recent study showed that when undifferentiated ES cells are transplanted, they act in a neuroprotective manner and exert antinociceptive and therapeutic effects after excitotoxic SCI <abbrgrp><abbr bid="B28">28</abbr></abbrgrp>. Another study showed that transplantation of murine ES cells that had been undifferentiated into GABAergic neurons significantly induced recovery of sensorimotor function after traumatic brain injury, whereas animals transplanted with astrocytes did not show any recovery <abbrgrp><abbr bid="B29">29</abbr></abbrgrp>. Several studies have shown the superiority of using undifferentiated stem cells for transplantation after SCI for facilitating functional recovery <abbrgrp><abbr bid="B29">29</abbr><abbr bid="B30">30</abbr><abbr bid="B31">31</abbr></abbrgrp>; the results of the present study were consistent with the findings of other transplantation studies, because simulated microgravity induced an undifferentiated state in the grafted rBMSCs.</p>
+         <p>By using the specific SDF-1 receptor (CXCR4), we found significant expression of the chemokine stromal-cell-derived factor-1 (SDF-1) in rBMSCs cultured under simulated microgravity. The interaction of SDF-1 with CXCR4 mediates the homing of hematopoietic stem cells to the bone marrow <abbrgrp><abbr bid="B32">32</abbr></abbrgrp>; SDF-1 is also known to induce migration of neural cells <abbrgrp><abbr bid="B30">30</abbr><abbr bid="B33">33</abbr></abbrgrp>. In this study, the number of transplanted rBMSCs that had migrated into the SCI lesion was markedly greater in group CL and the cavity formation after SCI was markedly reduced in group CL compared with group 1G. Our results suggest that simulated microgravity mediated the extended expression of CXCR4 in the rBMSCs, and that the interaction of SDF-1 with CXCR4 then facilitated the trafficking of rBMSCs to the SCI site.</p>
+         <p>Several studies have shown that BMSCs differentiate into neural cells, including astrocytes and neurons <abbrgrp><abbr bid="B6">6</abbr><abbr bid="B34">34</abbr><abbr bid="B35">35</abbr></abbrgrp>; conversely, other studies have indicated that transplanted BMSCs do not differentiate into neural cells in the spinal cord <abbrgrp><abbr bid="B12">12</abbr><abbr bid="B20">20</abbr></abbrgrp>. Our previous study, by using a mouse model of cerebral contusion, showed that the efficacy of grafting mouse BMSCs was attributed not only to the cells differentiating into neuronal cells but also to the factors released by grafted cells that suppressed the formation of a glial scar and that enhanced the elongation of axons <abbrgrp><abbr bid="B17">17</abbr></abbrgrp>. It has been suggested that transplanted BMSCs may not survive long enough to be integrated into the spinal cord tissue <abbrgrp><abbr bid="B12">12</abbr><abbr bid="B36">36</abbr></abbrgrp> and that BMSCs, despite their limited survival time, enhance tissue matrix formation and axonal outgrowth in SCI by releasing diffusible neuroprotective factors <abbrgrp><abbr bid="B6">6</abbr><abbr bid="B25">25</abbr><abbr bid="B30">30</abbr><abbr bid="B34">34</abbr><abbr bid="B37">37</abbr></abbrgrp>. This probably contributed to the distinct improvement of locomotor behavior as well as the reduction of the cavity formation noted in our study. Although, in our study, the transplanted rBMSCs expressed the differentiation marker GFAP, it is unlikely that the efficacy of rBMSCs for improving the injured spinal cord relates to these cells forming spinal cord tissue, because of the small number of rBMSCs used for transplantation.</p>
+         <p>It has been shown that stem cell transplantation can improve neurologic function by several mechanisms, some of which are neuroprotective effects on host neurons from trophic factors secreted by transplanted cells, and the reestablishment of functional neural networks through the integration of transplanted cells <abbrgrp><abbr bid="B38">38</abbr><abbr bid="B39">39</abbr></abbrgrp>. All things considered, the beneficial effect may rather relate to the release of neuroprotective factors by the BMSCs <abbrgrp><abbr bid="B40">40</abbr><abbr bid="B41">41</abbr><abbr bid="B42">42</abbr></abbrgrp>.</p>
+         <p>Neurotrophins are a family of proteins that are best characterized by their modulation of survival, differentiation, and apoptosis of cells in the nervous system, and exogenously applied trophic factors, including BDNF, IGF-1, NT-3, GDNF, and HGF, have been shown to be effective for SCI. Although the trophic factors derived from BMSCs promote neurite extension and survival <it>in vitro</it>, their roles in the functional recovery of SCI are still largely unknown. In this study, we investigated the expression of <it>NGF</it> and <it>BDNF</it> mRNAs in graft cells, but found no difference between groups 1G and CL with regard to the expression of these mRNAs. The mRNA expressions of NGF and BDNF are only by a semiquantitative method. Therefore, to investigate the trophic effect of the grafted rBMSCs, we analyzed apoptosis markers in the SCI lesions, because SCI induces a series of endogenous biochemical changes that lead to secondary degeneration, including apoptosis. Mitochondrial apoptosis mediated by p53 is likely to be an important mechanism of cell death in SCI. Expression of p53 was observed in neurons, oligodendrocytes, and astrocytes after SCI, and upregulation of phospho-p53 and Bax, and downregulation of Bcl2, were detected after SCI <abbrgrp><abbr bid="B43">43</abbr></abbrgrp>. In this study, the fact that the expression of the apoptosis-promoting factor Bax significantly decreased and that of the apoptosis-inhibitory factor survivin significantly increased in group 1G and CL rats compared with group Control, demonstrated the trophic, antiapoptotic effect of the grafted rBMSCs. Apoptosis and free-radical damage are the prominent processes involved in secondary degeneration after SCI <abbrgrp><abbr bid="B43">43</abbr><abbr bid="B44">44</abbr></abbrgrp>. Our results suggest that the grafted BMSCs immediately after injury prevented the secondary degeneration and enhanced the proliferation of the axons to a greater extent in group CL rather than in group 1G.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Conclusion</p>
+         </st>
+         <p>rBMSCs cultured under simulated microgravity suggested to be induced undifferentiated state and migration ability. rBMSCs cultured under simulated microgravity had greater trophic effects on reestablishment and survival of host spinal neural tissues than those cultured under 1g, and contributed to enhanced functional improvement after SCI <it>in vivo</it>.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Abbreviations</p>
+         </st>
+         <p>Bax: B-cell CLL/lymphoma 2-associated X protein; BBB scale: Basso-Beattie-Bresnahan locomotor rating scale; Bcl-2: B-cell CLL/lymphoma 2; BDNF: brain-derived neurotrophic factor; BMSC: bone marrow stromal cell; CXCR4: CXC-chemokine receptor 4; ES cell: embryonic stem cell; GFAP: glial fibrillary acidic protein; G3PDH: glyceraldehyde-3-phosphate dehydrogenase; GDNF: glial cell line-derived neurotrophic factor; HGF: hepatocyte growth factor; H&amp;E: hematoxylin and eosin; IGF-1: insulin-like growth factor-1; NF-H: neurofilament heavy chain; NGF: nerve growth factor; NT-3: neurotrophin-3; Oct-4: octamer-binding transcription factor 4; PBS: phosphate-buffered saline; rBMSC: rat BMSC; RT-PCR: reverse transcription polymerase chain reaction; SCI: spinal cord injury; SDF-1: stromal-cell-derived factor-1.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Competing interests</p>
+         </st>
+         <p>The authors have no personal financial or institutional interest in any of drugs, materials, or devices described in this article.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Authors&#8217; contributions</p>
+         </st>
+         <p>TM participated in the design of the study, carried out the experiments of the <it>in vitro</it> and <it>in vivo</it> study, data analysis and interpretation, and manuscript writing. MT conceived of the study, participated in its design and coordination, carried out the <it>in vitro</it> and <it>in vivo</it> study, data analysis, and interpretation, and final approval of manuscript. SY participated in the design of the study, data analysis and interpretation, and financial support. TM participated in the design of the study, carried out the <it>in vitro</it> and <it>in vivo</it> experiments, data analysis and interpretation, and performed the statistical analysis. MM participated in the design of the study, carried out the experiments <it>in vitro</it> and <it>in vivo,</it> and data analysis and interpretation. YK participated in the design of the study, data analysis, and interpretation. LY conceived of the study, participated in its design and coordination, data analysis, and interpretation, final approval of the manuscript, and financial support. KK participated in its design and coordination, data analysis and interpretation, helped to draft, and gave final approval of the manuscript and financial support. All authors read and approved the final manuscript for publication.</p>
+      </sec>
+   </bdy>
+   <bm>
+      <ack>
+         <sec>
+            <st>
+               <p>Acknowledgements</p>
+            </st>
+            <p>This work was supported in part by Grants-in-Aid for Scientific Research from the Japan Society for the Promotion of Science (JSPS KAKENHI grant numbers 19659368 and 23592127).</p>
+         </sec>
+      </ack>
+      <refgrp>
+         <bibl id="B1">
+            <title>
+               <p>Human neural stem cells differentiate and promote locomotor recovery in spinal cord-injured mice</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Cummings</snm>
+                  <fnm>BJ</fnm>
+               </au>
+               <au>
+                  <snm>Uchida</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Tamaki</snm>
+                  <fnm>SJ</fnm>
+               </au>
+               <au>
+                  <snm>Salazar</snm>
+                  <fnm>DL</fnm>
+               </au>
+               <au>
+                  <snm>Hooshmand</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Summers</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Gage</snm>
+                  <fnm>FH</fnm>
+               </au>
+               <au>
+                  <snm>Anderson</snm>
+                  <fnm>AJ</fnm>
+               </au>
+            </aug>
+            <source>Proc Natl Acad Sci USA</source>
+            <pubdate>2005</pubdate>
+            <volume>102</volume>
+            <fpage>14069</fpage>
+            <lpage>14074</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1073/pnas.0507063102</pubid>
+                  <pubid idtype="pmcid">1216836</pubid>
+                  <pubid idtype="pmpid" link="fulltext">16172374</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B2">
+            <title>
+               <p>Roles of ES cell-derived gliogenic neural stem/progenitor cells in functional recovery after spinal cord injury</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Kumagai</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Okada</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Yamane</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Nagoshi</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Kitamura</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Mukaino</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Tsuji</snm>
+                  <fnm>O</fnm>
+               </au>
+               <au>
+                  <snm>Fujiyoshi</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Katoh</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Okada</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Shibata</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Matsuzaki</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Toh</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Toyama</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Nakamura</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Okano</snm>
+                  <fnm>H</fnm>
+               </au>
+            </aug>
+            <source>PLoS One</source>
+            <pubdate>2009</pubdate>
+            <volume>4</volume>
+            <fpage>e7706</fpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1371/journal.pone.0007706</pubid>
+                  <pubid idtype="pmcid">2768792</pubid>
+                  <pubid idtype="pmpid" link="fulltext">19893739</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B3">
+            <title>
+               <p>Human embryonic stem cell-derived oligodendrocyte progenitor cell transplants remyelinate and restore locomotion after spinal cord injury</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Keirstead</snm>
+                  <fnm>HS</fnm>
+               </au>
+               <au>
+                  <snm>Nistor</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Bernal</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Totoiu</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Cloutier</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Sharp</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Steward</snm>
+                  <fnm>O</fnm>
+               </au>
+            </aug>
+            <source>J Neurosci</source>
+            <pubdate>2005</pubdate>
+            <volume>25</volume>
+            <fpage>4694</fpage>
+            <lpage>4705</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1523/JNEUROSCI.0311-05.2005</pubid>
+                  <pubid idtype="pmpid" link="fulltext">15888645</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B4">
+            <title>
+               <p>Transplants of human mesenchymal stem cells improve functional recovery after spinal cord injury in the rat</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Cizkova</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Rosocha</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Vanicky</snm>
+                  <fnm>I</fnm>
+               </au>
+               <au>
+                  <snm>Jergova</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Cizek</snm>
+                  <fnm>M</fnm>
+               </au>
+            </aug>
+            <source>Cell Mol Neurobiol</source>
+            <pubdate>2006</pubdate>
+            <volume>26</volume>
+            <fpage>1167</fpage>
+            <lpage>1180</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid" link="fulltext">16897366</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B5">
+            <title>
+               <p>Marrow stromal cells form guiding strands in the injured spinal cord and promote recovery</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Hofstetter</snm>
+                  <fnm>CP</fnm>
+               </au>
+               <au>
+                  <snm>Schwarz</snm>
+                  <fnm>EJ</fnm>
+               </au>
+               <au>
+                  <snm>Hess</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Widenfalk</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>El Manira</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Prockop</snm>
+                  <fnm>DJ</fnm>
+               </au>
+               <au>
+                  <snm>Olson</snm>
+                  <fnm>L</fnm>
+               </au>
+            </aug>
+            <source>Proc Natl Acad Sci USA</source>
+            <pubdate>2002</pubdate>
+            <volume>99</volume>
+            <fpage>2199</fpage>
+            <lpage>2204</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1073/pnas.042678299</pubid>
+                  <pubid idtype="pmcid">122342</pubid>
+                  <pubid idtype="pmpid" link="fulltext">11854516</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B6">
+            <title>
+               <p>Spinal cord injury in rat: treatment with bone marrow stromal cell transplantation</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Chopp</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Zhang</snm>
+                  <fnm>XH</fnm>
+               </au>
+               <au>
+                  <snm>Li</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Wang</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Chen</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Lu</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Lu</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Rosenblum</snm>
+                  <fnm>M</fnm>
+               </au>
+            </aug>
+            <source>NeuroReport</source>
+            <pubdate>2000</pubdate>
+            <volume>11</volume>
+            <fpage>3001</fpage>
+            <lpage>3005</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1097/00001756-200009110-00035</pubid>
+                  <pubid idtype="pmpid" link="fulltext">11006983</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B7">
+            <title>
+               <p>Therapeutic applications of oligodendrocyte precursors derived from human embryonic stem cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Sharp</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Keirstead</snm>
+                  <fnm>HS</fnm>
+               </au>
+            </aug>
+            <source>Curr Opin Biotechnol</source>
+            <pubdate>2007</pubdate>
+            <volume>18</volume>
+            <fpage>434</fpage>
+            <lpage>440</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.copbio.2007.10.006</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18023336</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B8">
+            <title>
+               <p>Adult bone marrow stromal cells differentiate into neural cells in vitro</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Sanchez-Ramos</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Song</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Cardozo-Pelaez</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Hazzi</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Stedeford</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Willing</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Freeman</snm>
+                  <fnm>TB</fnm>
+               </au>
+               <au>
+                  <snm>Saporta</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Janssen</snm>
+                  <fnm>W</fnm>
+               </au>
+               <au>
+                  <snm>Patel</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Cooper</snm>
+                  <fnm>DR</fnm>
+               </au>
+               <au>
+                  <snm>Sanberg</snm>
+                  <fnm>PR</fnm>
+               </au>
+            </aug>
+            <source>Exp Neurol</source>
+            <pubdate>2000</pubdate>
+            <volume>164</volume>
+            <fpage>247</fpage>
+            <lpage>256</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1006/exnr.2000.7389</pubid>
+                  <pubid idtype="pmpid" link="fulltext">10915564</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B9">
+            <title>
+               <p>Specific induction of neuronal cells from bone marrow stromal cells and application for autologous transplantation</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Dezawa</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Kanno</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Hoshino</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Cho</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Matsumoto</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Itokazu</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Tajima</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Yamada</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Sawada</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Ishikawa</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Mimura</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Kitada</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Suzuki</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Ide</snm>
+                  <fnm>C</fnm>
+               </au>
+            </aug>
+            <source>J Clin Invest</source>
+            <pubdate>2004</pubdate>
+            <volume>113</volume>
+            <fpage>1701</fpage>
+            <lpage>1710</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="pmcid">420509</pubid>
+                  <pubid idtype="pmpid" link="fulltext">15199405</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B10">
+            <title>
+               <p>Treatment of traumatic brain injury in adult rats with intravenous administration of human bone marrow stromal cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Mahmood</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Lu</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Lu</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Chopp</snm>
+                  <fnm>M</fnm>
+               </au>
+            </aug>
+            <source>Neurosurgery</source>
+            <pubdate>2003</pubdate>
+            <volume>53</volume>
+            <fpage>697</fpage>
+            <lpage>702</lpage>
+            <note>discussion 693&#8211;702</note>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1227/01.NEU.0000079333.61863.AA</pubid>
+                  <pubid idtype="pmpid" link="fulltext">12943585</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B11">
+            <title>
+               <p>p75NTR suppression in rat bone marrow stromal stem cells significantly reduced their rate of apoptosis during neural differentiation</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Edalat</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Hajebrahimi</snm>
+                  <fnm>Z</fnm>
+               </au>
+               <au>
+                  <snm>Movahedin</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Tavallaei</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Amiri</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Mowla</snm>
+                  <fnm>SJ</fnm>
+               </au>
+            </aug>
+            <source>Neurosci Lett</source>
+            <pubdate>2011</pubdate>
+            <volume>498</volume>
+            <fpage>15</fpage>
+            <lpage>19</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.neulet.2011.04.050</pubid>
+                  <pubid idtype="pmpid" link="fulltext">21539892</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B12">
+            <title>
+               <p>Bone marrow stromal cell transplantation for treatment of sub-acute spinal cord injury in the rat</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Ide</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Nakai</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Nakano</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Seo</snm>
+                  <fnm>TB</fnm>
+               </au>
+               <au>
+                  <snm>Yamada</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Endo</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Noda</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Saito</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Suzuki</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Fukushima</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Nakatani</snm>
+                  <fnm>T</fnm>
+               </au>
+            </aug>
+            <source>Brain Res</source>
+            <pubdate>2010</pubdate>
+            <volume>1332</volume>
+            <fpage>32</fpage>
+            <lpage>47</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid" link="fulltext">20307513</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B13">
+            <title>
+               <p>Neuroprotection and enhanced recovery with edaravone after acute spinal cord injury in rats</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Ohta</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Iwashita</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Takada</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Kuno</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Nakamura</snm>
+                  <fnm>T</fnm>
+               </au>
+            </aug>
+            <source>Spine</source>
+            <pubdate>2005</pubdate>
+            <volume>30</volume>
+            <fpage>1154</fpage>
+            <lpage>1158</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1097/01.brs.0000162402.79482.fd</pubid>
+                  <pubid idtype="pmpid" link="fulltext">15897829</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B14">
+            <title>
+               <p>LIF-free embryonic stem cell culture in simulated microgravity</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Kawahara</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Manabe</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Matsumoto</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Kajiume</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Yuge</snm>
+                  <fnm>L</fnm>
+               </au>
+            </aug>
+            <source>PLoS One</source>
+            <pubdate>2009</pubdate>
+            <volume>4</volume>
+            <fpage>e6343</fpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1371/journal.pone.0006343</pubid>
+                  <pubid idtype="pmcid">2710515</pubid>
+                  <pubid idtype="pmpid" link="fulltext">19626124</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B15">
+            <title>
+               <p>Cell differentiation and p38 (MAPK) cascade are inhibited in human osteoblasts cultured in a three-dimensional clinostat</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Yuge</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Hide</snm>
+                  <fnm>I</fnm>
+               </au>
+               <au>
+                  <snm>Kumagai</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Kumei</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Takeda</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Kanno</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Sugiyama</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Kataoka</snm>
+                  <fnm>K</fnm>
+               </au>
+            </aug>
+            <source>In Vitro Cell Dev Biol Anim</source>
+            <pubdate>2003</pubdate>
+            <volume>39</volume>
+            <fpage>89</fpage>
+            <lpage>97</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1290/1543-706X(2003)039&lt;0089:CDAPCA>2.0.CO;2</pubid>
+                  <pubid idtype="pmpid" link="fulltext">12892532</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B16">
+            <title>
+               <p>Microgravity potentiates stem cell proliferation while sustaining the capability of differentiation</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Yuge</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Kajiume</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Tahara</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Kawahara</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Umeda</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Yoshimoto</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Wu</snm>
+                  <fnm>SL</fnm>
+               </au>
+               <au>
+                  <snm>Yamaoka</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Asashima</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Kataoka</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Ide</snm>
+                  <fnm>T</fnm>
+               </au>
+            </aug>
+            <source>Stem Cells Dev</source>
+            <pubdate>2006</pubdate>
+            <volume>15</volume>
+            <fpage>921</fpage>
+            <lpage>929</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1089/scd.2006.15.921</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17253953</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B17">
+            <title>
+               <p>Simulated microgravity maintains the undifferentiated state and enhances the neural repair potential of bone marrow stromal cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Yuge</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Sasaki</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Kawahara</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Wu</snm>
+                  <fnm>SL</fnm>
+               </au>
+               <au>
+                  <snm>Matsumoto</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Manabe</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Kajiume</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Takeda</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Magaki</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Takahashi</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Kurisu</snm>
+                  <fnm>K</fnm>
+               </au>
+            </aug>
+            <source>Stem Cells Dev</source>
+            <pubdate>2011</pubdate>
+            <volume>20</volume>
+            <fpage>893</fpage>
+            <lpage>900</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1089/scd.2010.0294</pubid>
+                  <pubid idtype="pmpid" link="fulltext">20828292</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B18">
+            <title>
+               <p>Impact of modeled microgravity on migration, differentiation, and cell cycle control of primitive human hematopoietic progenitor cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Plett</snm>
+                  <fnm>PA</fnm>
+               </au>
+               <au>
+                  <snm>Abonour</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Frankovitz</snm>
+                  <fnm>SM</fnm>
+               </au>
+               <au>
+                  <snm>Orschell</snm>
+                  <fnm>CM</fnm>
+               </au>
+            </aug>
+            <source>Exp Hematol</source>
+            <pubdate>2004</pubdate>
+            <volume>32</volume>
+            <fpage>773</fpage>
+            <lpage>781</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.exphem.2004.03.014</pubid>
+                  <pubid idtype="pmpid" link="fulltext">15308329</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B19">
+            <title>
+               <p>Graded histological and locomotor outcomes after spinal cord contusion using the NYU weight-drop device versus transection</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Basso</snm>
+                  <fnm>DM</fnm>
+               </au>
+               <au>
+                  <snm>Beattie</snm>
+                  <fnm>MS</fnm>
+               </au>
+               <au>
+                  <snm>Bresnahan</snm>
+                  <fnm>JC</fnm>
+               </au>
+            </aug>
+            <source>Exp Neurol</source>
+            <pubdate>1996</pubdate>
+            <volume>139</volume>
+            <fpage>244</fpage>
+            <lpage>256</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1006/exnr.1996.0098</pubid>
+                  <pubid idtype="pmpid" link="fulltext">8654527</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B20">
+            <title>
+               <p>Transplantation of human bone marrow-derived stromal cells into the contused spinal cord of nude rats</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Sheth</snm>
+                  <fnm>RN</fnm>
+               </au>
+               <au>
+                  <snm>Manzano</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Li</snm>
+                  <fnm>X</fnm>
+               </au>
+               <au>
+                  <snm>Levi</snm>
+                  <fnm>AD</fnm>
+               </au>
+            </aug>
+            <source>J Neurosurg Spine</source>
+            <pubdate>2008</pubdate>
+            <volume>8</volume>
+            <fpage>153</fpage>
+            <lpage>162</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.3171/SPI/2008/8/2/153</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18248287</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B21">
+            <title>
+               <p>Immunocytochemical characterization of in vitro PKH26-labelled and intracerebrally transplanted neonatal cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Haas</snm>
+                  <fnm>SJ</fnm>
+               </au>
+               <au>
+                  <snm>Bauer</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Rolfs</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Wree</snm>
+                  <fnm>A</fnm>
+               </au>
+            </aug>
+            <source>Acta Histochem</source>
+            <pubdate>2000</pubdate>
+            <volume>102</volume>
+            <fpage>273</fpage>
+            <lpage>280</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1078/S0065-1281(04)70035-5</pubid>
+                  <pubid idtype="pmpid">10990065</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B22">
+            <title>
+               <p>A sensitive and reliable locomotor rating scale for open field testing in rats</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Basso</snm>
+                  <fnm>DM</fnm>
+               </au>
+               <au>
+                  <snm>Beattie</snm>
+                  <fnm>MS</fnm>
+               </au>
+               <au>
+                  <snm>Bresnahan</snm>
+                  <fnm>JC</fnm>
+               </au>
+            </aug>
+            <source>J Neurotrauma</source>
+            <pubdate>1995</pubdate>
+            <volume>12</volume>
+            <fpage>1</fpage>
+            <lpage>21</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1089/neu.1995.12.1</pubid>
+                  <pubid idtype="pmpid">7783230</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B23">
+            <title>
+               <p>An adverse role for matrix metalloproteinase 12 after spinal cord injury in mice</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Wells</snm>
+                  <fnm>JE</fnm>
+               </au>
+               <au>
+                  <snm>Rice</snm>
+                  <fnm>TK</fnm>
+               </au>
+               <au>
+                  <snm>Nuttall</snm>
+                  <fnm>RK</fnm>
+               </au>
+               <au>
+                  <snm>Edwards</snm>
+                  <fnm>DR</fnm>
+               </au>
+               <au>
+                  <snm>Zekki</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Rivest</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Yong</snm>
+                  <fnm>VW</fnm>
+               </au>
+            </aug>
+            <source>J Neurosci</source>
+            <pubdate>2003</pubdate>
+            <volume>23</volume>
+            <fpage>10107</fpage>
+            <lpage>10115</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid" link="fulltext">14602826</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B24">
+            <title>
+               <p>Bone marrow stromal cells infused into the cerebrospinal fluid promote functional recovery of the injured rat spinal cord with reduced cavity formation</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Ohta</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Suzuki</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Noda</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Ejiri</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Dezawa</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Kataoka</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Chou</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Ishikawa</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Matsumoto</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Iwashita</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Mizuta</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Kuno</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Ide</snm>
+                  <fnm>C</fnm>
+               </au>
+            </aug>
+            <source>Exp Neurol</source>
+            <pubdate>2004</pubdate>
+            <volume>187</volume>
+            <fpage>266</fpage>
+            <lpage>278</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.expneurol.2004.01.021</pubid>
+                  <pubid idtype="pmpid" link="fulltext">15144853</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B25">
+            <title>
+               <p>Neuroprotective effect of bone marrow-derived mononuclear cells promoting functional recovery from spinal cord injury</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Yoshihara</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Ohta</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Itokazu</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Matsumoto</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Dezawa</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Suzuki</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Taguchi</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Watanabe</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Adachi</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Ikehara</snm>
+                  <fnm>S</fnm>
+               </au>
+            </aug>
+            <source>J Neurotrauma</source>
+            <pubdate>2007</pubdate>
+            <volume>24</volume>
+            <fpage>1026</fpage>
+            <lpage>1036</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1089/neu.2007.132R</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17600518</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B26">
+            <title>
+               <p>Clinorotation prevents differentiation of rat myoblastic L6 cells in association with reduced NF-kappa B signaling</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Hirasaka</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Nikawa</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Yuge</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Ishihara</snm>
+                  <fnm>I</fnm>
+               </au>
+               <au>
+                  <snm>Higashibata</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Ishioka</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Okubo</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Miyashita</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Suzue</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Ogawa</snm>
+                  <fnm>T</fnm>
+               </au>
+            </aug>
+            <source>Biochim Biophys Acta</source>
+            <pubdate>2005</pubdate>
+            <volume>1743</volume>
+            <fpage>130</fpage>
+            <lpage>140</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.bbamcr.2004.09.013</pubid>
+                  <pubid idtype="pmpid" link="fulltext">15777848</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B27">
+            <title>
+               <p>Effects of simulated microgravity on proliferation and chemosensitivity in malignant glioma cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Takeda</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Magaki</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Okazaki</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Kawahara</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Manabe</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Yuge</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Kurisu</snm>
+                  <fnm>K</fnm>
+               </au>
+            </aug>
+            <source>Neurosci Lett</source>
+            <pubdate>2009</pubdate>
+            <volume>463</volume>
+            <fpage>54</fpage>
+            <lpage>59</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.neulet.2009.07.045</pubid>
+                  <pubid idtype="pmpid" link="fulltext">19628020</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B28">
+            <title>
+               <p>Predifferentiated embryonic stem cells prevent chronic pain behaviors and restore sensory function following spinal cord injury in mice</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Hendricks</snm>
+                  <fnm>WA</fnm>
+               </au>
+               <au>
+                  <snm>Pak</snm>
+                  <fnm>ES</fnm>
+               </au>
+               <au>
+                  <snm>Owensby</snm>
+                  <fnm>JP</fnm>
+               </au>
+               <au>
+                  <snm>Menta</snm>
+                  <fnm>KJ</fnm>
+               </au>
+               <au>
+                  <snm>Glazova</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Moretto</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Hollis</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Brewer</snm>
+                  <fnm>KL</fnm>
+               </au>
+               <au>
+                  <snm>Murashov</snm>
+                  <fnm>AK</fnm>
+               </au>
+            </aug>
+            <source>Mol Med</source>
+            <pubdate>2006</pubdate>
+            <volume>12</volume>
+            <fpage>34</fpage>
+            <lpage>46</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="pmcid">1514553</pubid>
+                  <pubid idtype="pmpid">16838066</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B29">
+            <title>
+               <p>Transplantation of GABAergic neurons but not astrocytes induces recovery of sensorimotor function in the traumatically injured brain</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Becerra</snm>
+                  <fnm>GD</fnm>
+               </au>
+               <au>
+                  <snm>Tatko</snm>
+                  <fnm>LM</fnm>
+               </au>
+               <au>
+                  <snm>Pak</snm>
+                  <fnm>ES</fnm>
+               </au>
+               <au>
+                  <snm>Murashov</snm>
+                  <fnm>AK</fnm>
+               </au>
+               <au>
+                  <snm>Hoane</snm>
+                  <fnm>MR</fnm>
+               </au>
+            </aug>
+            <source>Behav Brain Res</source>
+            <pubdate>2007</pubdate>
+            <volume>179</volume>
+            <fpage>118</fpage>
+            <lpage>125</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.bbr.2007.01.024</pubid>
+                  <pubid idtype="pmcid">1880895</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17324477</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B30">
+            <title>
+               <p>Therapeutic benefit of bone marrow stromal cells administered 1 month after stroke</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Shen</snm>
+                  <fnm>LH</fnm>
+               </au>
+               <au>
+                  <snm>Li</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Chen</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Zacharek</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Gao</snm>
+                  <fnm>Q</fnm>
+               </au>
+               <au>
+                  <snm>Kapke</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Lu</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Raginski</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Vanguri</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Smith</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Chopp</snm>
+                  <fnm>M</fnm>
+               </au>
+            </aug>
+            <source>J Cereb Blood Flow Metab</source>
+            <pubdate>2007</pubdate>
+            <volume>27</volume>
+            <fpage>6</fpage>
+            <lpage>13</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/sj.jcbfm.9600311</pubid>
+                  <pubid idtype="pmpid" link="fulltext">16596121</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B31">
+            <title>
+               <p>Anatomical and functional recovery by embryonic stem cell-derived neural tissue of a mouse model of brain damage</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Chiba</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Ikeda</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Kurokawa</snm>
+                  <fnm>MS</fnm>
+               </au>
+               <au>
+                  <snm>Yoshikawa</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Takeno</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Nagafuchi</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Tadokoro</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Sekino</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Hashimoto</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Suzuki</snm>
+                  <fnm>N</fnm>
+               </au>
+            </aug>
+            <source>J Neurol Sci</source>
+            <pubdate>2004</pubdate>
+            <volume>219</volume>
+            <fpage>107</fpage>
+            <lpage>117</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.jns.2004.01.006</pubid>
+                  <pubid idtype="pmpid" link="fulltext">15050446</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B32">
+            <title>
+               <p>Dependence of human stem cell engraftment and repopulation of NOD/SCID mice on CXCR4</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Peled</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Petit</snm>
+                  <fnm>I</fnm>
+               </au>
+               <au>
+                  <snm>Kollet</snm>
+                  <fnm>O</fnm>
+               </au>
+               <au>
+                  <snm>Magid</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Ponomaryov</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Byk</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Nagler</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Ben-Hur</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Many</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Shultz</snm>
+                  <fnm>L</fnm>
+               </au>
+            </aug>
+            <source>Science</source>
+            <pubdate>1999</pubdate>
+            <volume>283</volume>
+            <fpage>845</fpage>
+            <lpage>848</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1126/science.283.5403.845</pubid>
+                  <pubid idtype="pmpid" link="fulltext">9933168</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B33">
+            <title>
+               <p>Interactions of chemokines and chemokine receptors mediate the migration of mesenchymal stem cells to the impaired site in the brain after hypoglossal nerve injury</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Ji</snm>
+                  <fnm>JF</fnm>
+               </au>
+               <au>
+                  <snm>He</snm>
+                  <fnm>BP</fnm>
+               </au>
+               <au>
+                  <snm>Dheen</snm>
+                  <fnm>ST</fnm>
+               </au>
+               <au>
+                  <snm>Tay</snm>
+                  <fnm>SS</fnm>
+               </au>
+            </aug>
+            <source>Stem Cells</source>
+            <pubdate>2004</pubdate>
+            <volume>22</volume>
+            <fpage>415</fpage>
+            <lpage>427</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1634/stemcells.22-3-415</pubid>
+                  <pubid idtype="pmpid" link="fulltext">15153618</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B34">
+            <title>
+               <p>Bone marrow transplants provide tissue protection and directional guidance for axons after contusive spinal cord injury in rats</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Ankeny</snm>
+                  <fnm>DP</fnm>
+               </au>
+               <au>
+                  <snm>McTigue</snm>
+                  <fnm>DM</fnm>
+               </au>
+               <au>
+                  <snm>Jakeman</snm>
+                  <fnm>LB</fnm>
+               </au>
+            </aug>
+            <source>Exp Neurol</source>
+            <pubdate>2004</pubdate>
+            <volume>190</volume>
+            <fpage>17</fpage>
+            <lpage>31</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.expneurol.2004.05.045</pubid>
+                  <pubid idtype="pmpid" link="fulltext">15473977</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B35">
+            <title>
+               <p>Transplanted hematopoietic stem cells from bone marrow differentiate into neural lineage cells and promote functional recovery after spinal cord injury in mice</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Koshizuka</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Okada</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Okawa</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Koda</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Murasawa</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Hashimoto</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Kamada</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Yoshinaga</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Murakami</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Moriya</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Yamazaki</snm>
+                  <fnm>M</fnm>
+               </au>
+            </aug>
+            <source>J Neuropathol Exp Neurol</source>
+            <pubdate>2004</pubdate>
+            <volume>63</volume>
+            <fpage>64</fpage>
+            <lpage>72</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid" link="fulltext">14748562</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B36">
+            <title>
+               <p>Stem/progenitor cells from bone marrow decrease neuronal death in global ischemia by modulation of inflammatory/immune responses</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Ohtaki</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Ylostalo</snm>
+                  <fnm>JH</fnm>
+               </au>
+               <au>
+                  <snm>Foraker</snm>
+                  <fnm>JE</fnm>
+               </au>
+               <au>
+                  <snm>Robinson</snm>
+                  <fnm>AP</fnm>
+               </au>
+               <au>
+                  <snm>Reger</snm>
+                  <fnm>RL</fnm>
+               </au>
+               <au>
+                  <snm>Shioda</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Prockop</snm>
+                  <fnm>DJ</fnm>
+               </au>
+            </aug>
+            <source>Proc Natl Acad Sci USA</source>
+            <pubdate>2008</pubdate>
+            <volume>105</volume>
+            <fpage>14638</fpage>
+            <lpage>14643</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1073/pnas.0803670105</pubid>
+                  <pubid idtype="pmcid">2567180</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18794523</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B37">
+            <title>
+               <p>Regeneration of the central nervous system using endogenous repair mechanisms</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Okano</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Sakaguchi</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Ohki</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Suzuki</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Sawamoto</snm>
+                  <fnm>K</fnm>
+               </au>
+            </aug>
+            <source>J Neurochem</source>
+            <pubdate>2007</pubdate>
+            <volume>102</volume>
+            <fpage>1459</fpage>
+            <lpage>1465</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1111/j.1471-4159.2007.04674.x</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17697047</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B38">
+            <title>
+               <p>Recovery and rehabilitation in stroke: stem cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Lindvall</snm>
+                  <fnm>O</fnm>
+               </au>
+               <au>
+                  <snm>Kokaia</snm>
+                  <fnm>Z</fnm>
+               </au>
+            </aug>
+            <source>Stroke</source>
+            <pubdate>2004</pubdate>
+            <volume>35</volume>
+            <fpage>2691</fpage>
+            <lpage>2694</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1161/01.STR.0000143323.84008.f4</pubid>
+                  <pubid idtype="pmpid" link="fulltext">15459434</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B39">
+            <title>
+               <p>Stem cell therapy for the spinal cord</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Donnelly</snm>
+                  <fnm>EM</fnm>
+               </au>
+               <au>
+                  <snm>Lamanna</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Boulis</snm>
+                  <fnm>NM</fnm>
+               </au>
+            </aug>
+            <source>Stem Cell Res Ther</source>
+            <pubdate>2012</pubdate>
+            <volume>3</volume>
+            <fpage>24</fpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1186/scrt115</pubid>
+                  <pubid idtype="pmpid" link="fulltext">22776143</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B40">
+            <title>
+               <p>A select combination of neurotrophins enhances neuroprotection and functional recovery following spinal cord injury</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Sharma</snm>
+                  <fnm>HS</fnm>
+               </au>
+            </aug>
+            <source>Ann N Y Acad Sci</source>
+            <pubdate>2007</pubdate>
+            <volume>1122</volume>
+            <fpage>95</fpage>
+            <lpage>111</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1196/annals.1403.007</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18077567</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B41">
+            <title>
+               <p>Nerve growth factor (NGF) influences differentiation and proliferation of myogenic cells in vitro via TrKA</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Rende</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Brizi</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Conner</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Treves</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Censier</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Provenzano</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Taglialatela</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Sanna</snm>
+                  <fnm>PP</fnm>
+               </au>
+               <au>
+                  <snm>Donato</snm>
+                  <fnm>R</fnm>
+               </au>
+            </aug>
+            <source>Int J Dev Neurosci</source>
+            <pubdate>2000</pubdate>
+            <volume>18</volume>
+            <fpage>869</fpage>
+            <lpage>885</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/S0736-5748(00)00041-1</pubid>
+                  <pubid idtype="pmpid" link="fulltext">11154856</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B42">
+            <title>
+               <p>Hepatocyte growth factor promotes endogenous repair and functional recovery after spinal cord injury</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Kitamura</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Iwanami</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Nakamura</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Yamane</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Watanabe</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Suzuki</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Miyazawa</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Shibata</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Funakoshi</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Miyatake</snm>
+                  <fnm>S</fnm>
+               </au>
+            </aug>
+            <source>J Neurosci Res</source>
+            <pubdate>2007</pubdate>
+            <volume>85</volume>
+            <fpage>2332</fpage>
+            <lpage>2342</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1002/jnr.21372</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17549731</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B43">
+            <title>
+               <p>p53- and Bax-mediated apoptosis in injured rat spinal cord</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Kotipatruni</snm>
+                  <fnm>RR</fnm>
+               </au>
+               <au>
+                  <snm>Dasari</snm>
+                  <fnm>VR</fnm>
+               </au>
+               <au>
+                  <snm>Veeravalli</snm>
+                  <fnm>KK</fnm>
+               </au>
+               <au>
+                  <snm>Dinh</snm>
+                  <fnm>DH</fnm>
+               </au>
+               <au>
+                  <snm>Fassett</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Rao</snm>
+                  <fnm>JS</fnm>
+               </au>
+            </aug>
+            <source>Neurochem Res</source>
+            <pubdate>2011</pubdate>
+            <volume>36</volume>
+            <fpage>2063</fpage>
+            <lpage>2074</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1007/s11064-011-0530-2</pubid>
+                  <pubid idtype="pmpid" link="fulltext">21748659</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B44">
+            <title>
+               <p>Bcl-xL expression after contusion to the rat spinal cord</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Qiu</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Nesic</snm>
+                  <fnm>O</fnm>
+               </au>
+               <au>
+                  <snm>Ye</snm>
+                  <fnm>Z</fnm>
+               </au>
+               <au>
+                  <snm>Rea</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Westlund</snm>
+                  <fnm>KN</fnm>
+               </au>
+               <au>
+                  <snm>Xu</snm>
+                  <fnm>GY</fnm>
+               </au>
+               <au>
+                  <snm>McAdoo</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Hulsebosch</snm>
+                  <fnm>CE</fnm>
+               </au>
+               <au>
+                  <snm>Perez-Polo</snm>
+                  <fnm>JR</fnm>
+               </au>
+            </aug>
+            <source>J Neurotrauma</source>
+            <pubdate>2001</pubdate>
+            <volume>18</volume>
+            <fpage>1267</fpage>
+            <lpage>1278</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1089/089771501317095304</pubid>
+                  <pubid idtype="pmpid" link="fulltext">11721745</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+      </refgrp>
+   </bm>
+</art>

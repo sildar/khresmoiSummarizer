@@ -1,0 +1,2752 @@
+<!DOCTYPE art SYSTEM "article.dtd">
+<art>
+   <ui>scrt163</ui>
+   <ji>1757-6512</ji>
+   <fm>
+      <dochead>Research</dochead>
+      <bibl>
+         <title>
+            <p>BAY11 enhances OCT4 synthetic mRNA expression in adult human skin cells</p>
+         </title>
+         <aug>
+            <au id="A1">
+               <snm>Awe</snm>
+               <mi>P</mi>
+               <fnm>Jason</fnm>
+               <insr iid="I1"/>
+               <insr iid="I2"/>
+               <email>JAwe@mednet.ucla.edu</email>
+            </au>
+            <au id="A2">
+               <snm>Crespo</snm>
+               <mnm>Vega</mnm>
+               <fnm>Agustin</fnm>
+               <insr iid="I1"/>
+               <insr iid="I2"/>
+               <email>avegacrespo@mednet.ucla.edu</email>
+            </au>
+            <au id="A3">
+               <snm>Li</snm>
+               <fnm>You</fnm>
+               <insr iid="I3"/>
+               <email>youli@eden.rutgers.edu</email>
+            </au>
+            <au id="A4">
+               <snm>Kiledjian</snm>
+               <fnm>Megerditch</fnm>
+               <insr iid="I3"/>
+               <email>kiledjian@dls.rutgers.edu</email>
+            </au>
+            <au id="A5" ca="yes">
+               <snm>Byrne</snm>
+               <mi>A</mi>
+               <fnm>James</fnm>
+               <insr iid="I1"/>
+               <insr iid="I2"/>
+               <email>jbyrne@mednet.ucla.edu</email>
+            </au>
+         </aug>
+         <insg>
+            <ins id="I1">
+               <p>Department of Molecular and Medical Pharmacology, University of California, Los Angeles, 650 Charles E. Young Drive South, 23-120 Center for Health Sciences, Los Angeles, CA 90095, USA</p>
+            </ins>
+            <ins id="I2">
+               <p>Eli and Edythe Broad Center of Regenerative Medicine and Stem Cell Research, University of California, Los Angeles, 615 Charles E Young Drive South, Los Angeles, CA 90095, USA</p>
+            </ins>
+            <ins id="I3">
+               <p>Department of Cell Biology &amp; Neuroscience, Rutgers University, 604 Allison Road, Piscataway, NJ 08854, USA</p>
+            </ins>
+         </insg>
+         <source>Stem Cell Research &amp; Therapy</source>
+         <issn>1757-6512</issn>
+         <pubdate>2013</pubdate>
+         <volume>4</volume>
+         <issue>1</issue>
+         <fpage>15</fpage>
+         <url>http://stemcellres.com/content/4/1/15</url>
+         <xrefbib>
+            <pubidlist>
+               <pubid idtype="doi">10.1186/scrt163</pubid>
+               <pubid idtype="pmpid">23388106</pubid>
+            </pubidlist>
+         </xrefbib>
+      </bibl>
+      <history>
+         <rec>
+            <date>
+               <day>25</day>
+               <month>8</month>
+               <year>2012</year>
+            </date>
+         </rec>
+         <revrec>
+            <date>
+               <day>10</day>
+               <month>1</month>
+               <year>2013</year>
+            </date>
+         </revrec>
+         <acc>
+            <date>
+               <day>30</day>
+               <month>1</month>
+               <year>2013</year>
+            </date>
+         </acc>
+         <pub>
+            <date>
+               <day>6</day>
+               <month>2</month>
+               <year>2013</year>
+            </date>
+         </pub>
+      </history>
+      <cpyrt>
+         <year>2013</year>
+         <collab>Awe et al.; licensee BioMed Central Ltd.</collab>
+         <note>This is an open access article distributed under the terms of the Creative Commons Attribution License (<url>http://creativecommons.org/licenses/by/2.0</url>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</note>
+      </cpyrt>
+      <abs>
+         <sec>
+            <st>
+               <p>Abstract</p>
+            </st>
+            <sec>
+               <st>
+                  <p>Introduction</p>
+               </st>
+               <p>The <it>OCT4 </it>transcription factor is involved in many cellular processes, including development, reprogramming, maintaining pluripotency and differentiation. Synthetic <it>OCT4 </it>mRNA was recently used (in conjunction with other reprogramming factors) to generate human induced pluripotent stem cells. Here, we discovered that BAY 11-7082 (BAY11), at least partially through an NF-&#954;B-inhibition based mechanism, could significantly increase the expression of OCT4 following transfection of synthetic mRNA (synRNA) into adult human skin cells.</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>Methods</p>
+               </st>
+               <p>We tested various chemical and molecular small molecules on their ability to suppress the innate immune response seen upon synthetic mRNA transfection. Three molecules - B18R, BX795, and BAY11 - were used in immunocytochemical and proliferation-based assays. We also utilized global transcriptional meta-analysis coupled with quantitative PCR to identify relative gene expression downstream of OCT4.</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>Results</p>
+               </st>
+               <p>We found that human skin cells cultured in the presence of BAY11 resulted in reproducible increased expression of OCT4 that did not inhibit normal cell proliferation. The increased levels of OCT4 resulted in significantly increased expression of genes downstream of OCT4, including the previously identified <it>SPP1, DUSP4 </it>and <it>GADD45G</it>, suggesting the expressed OCT4 was functional. We also discovered a novel OCT4 putative downstream target gene <it>SLC16A9 </it>which demonstrated significantly increased expression following elevation of OCT4 levels.</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>Conclusions</p>
+               </st>
+               <p>For the first time we have shown that small molecule-based stabilization of synthetic mRNA expression can be achieved with use of BAY11. This small molecule-based inhibition of innate immune responses and subsequent robust expression of transfected synthetic mRNAs may have multiple applications for future cell-based research and therapeutics.</p>
+            </sec>
+         </sec>
+      </abs>
+   </fm>
+   <bdy>
+      <sec>
+         <st>
+            <p>Introduction</p>
+         </st>
+         <p>Early embryonic development creates an inner cell mass in the developing embryo that, after delamination into the epiblast, initially lends itself exclusively to pluripotent stem cells capable of differentiating into any of over 200 cell types of the human body. The gene expression and transcriptional network that are expressed and regulated are well characterized <abbrgrp><abbr bid="B1">1</abbr><abbr bid="B2">2</abbr><abbr bid="B3">3</abbr><abbr bid="B4">4</abbr></abbrgrp>. One of the key pluripotency factors, <it>OCT4</it>, a Pou class 5 homeobox 1 transcription factor known as POU5F1, is expressed in human embryonic stem cells (hESCs), induced pluripotent stem cells, early epiblast, and germ cells, including primordial germ cells <abbrgrp><abbr bid="B5">5</abbr><abbr bid="B6">6</abbr></abbrgrp>. This transcription factor has been implicated in key pluripotency maintenance functions in both early embryogenesis, including acting as a master regulator in segmentation morphology and organogenesis via activation of key downstream signaling pathways, and activating tissue-specific transcription factors <abbrgrp><abbr bid="B7">7</abbr></abbrgrp>. Interestingly, it has been shown that precise levels of OCT4 are needed during development, as repression leads to loss of pluripotency and subsequent trophectoderm differentiation and overexpression lead to differentiation into primitive endoderm and mesoderm, respectively <abbrgrp><abbr bid="B8">8</abbr></abbrgrp>. It is clear that OCT4 plays a critical function in human developmental biology, and its role has been well defined in that it associates with other pluripotency factors, <it>SOX2 </it>and <it>NANOG</it>, whose mechanism to maintain a pluripotent phenotype involves upregulation and downregulation of over 4,600 genes through a protein network of these three proteins <abbrgrp><abbr bid="B9">9</abbr><abbr bid="B10">10</abbr><abbr bid="B11">11</abbr></abbrgrp>. Thus, the delivery and stable expression of synthetic <it>OCT4 </it>mRNA and other synthetic mRNAs (synRNAs) may have multiple applications for future cell-based research and therapeutics.</p>
+         <p>The ability to reprogram easily obtainable human cells, such as skin cells, back into a pluripotent epigenetic state provides exciting new possibilities for <it>in vitro </it>research and patient-specific cellular therapeutics to regenerate our bodies following injury, disease, and age-based tissue degeneration <abbrgrp><abbr bid="B12">12</abbr></abbrgrp>. However, the most promising method for reprogramming human somatic cells back into a pluripotent state - referred to as induced pluripotent stem cells - uses viruses to deliver the reprogramming factors (<it>OCT4, SOX2 </it>combined with <it>KLF4 </it>and <it>cMYC </it>or with <it>NANOG </it>and <it>LIN28</it>) into human somatic cells <abbrgrp><abbr bid="B13">13</abbr><abbr bid="B14">14</abbr></abbrgrp>. As these viruses randomly integrate into the genome, insertional mutagenesis is an important safety concern <abbrgrp><abbr bid="B15">15</abbr><abbr bid="B16">16</abbr><abbr bid="B17">17</abbr></abbrgrp>. Alternatives to integrating DNA virus-based reprogramming include the use of episomal plasmids <abbrgrp><abbr bid="B18">18</abbr></abbrgrp> and minicircles <abbrgrp><abbr bid="B19">19</abbr></abbrgrp>, protein-based reprogramming <abbrgrp><abbr bid="B20">20</abbr></abbrgrp>, and Sendai virus-based reprogramming <abbrgrp><abbr bid="B21">21</abbr></abbrgrp>. Both of the episomal DNA-based reprogramming methodologies, however, still entail some risk of genomic recombination or insertional mutagenesis. The recombinant proteins used in protein-based reprogramming are challenging to generate and purify in the quantities required, and the RNA-based Sendai virus requires an extended period of culture in order to dilute out the viral particles <abbrgrp><abbr bid="B22">22</abbr></abbrgrp>. Perhaps the most promising current integration-free reprogramming methodology for future patient-specific cellular therapeutics involves the direct transfection of RNAs into somatic cells (that is, synthetic whole mRNAs <abbrgrp><abbr bid="B23">23</abbr></abbrgrp> or microRNAs <abbrgrp><abbr bid="B24">24</abbr></abbrgrp> or both). SynRNAs encoding for five of the reprogramming factors (<it>OCT4, SOX2, KLF4, cMYC</it>, and <it>LIN28</it>) have been shown to reprogram human somatic cells back into a pluripotent state <abbrgrp><abbr bid="B23">23</abbr></abbrgrp>. The most important of these delivered reprogramming factors is <it>OCT4</it>, as recent research has demonstrated that <it>OCT4</it>, in combination with certain small molecules, can itself induce a somatic cell to reprogram to pluripotency without requiring assistance from the other factors <abbrgrp><abbr bid="B25">25</abbr></abbrgrp>.</p>
+         <p>Here, we examined the expression of synthetic <it>OCT4 </it>mRNA following transfection into adult human skin cells, investigated whether various small molecules (B18R, BX795, and BAY11) could significantly increase synthetic <it>OCT4 </it>mRNA expression, and used transcriptional analysis of OCT4 downstream genes to determine whether the OCT4 protein maintained its functionality as a transcription factor.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Materials and methods</p>
+         </st>
+         <sec>
+            <st>
+               <p>Ethics statement</p>
+            </st>
+            <p>Written approval for human skin biopsy procedures and human fibroblast derivation, culture, and experimental use was obtained from the Stanford University Institutional Review Board, the Stanford University Stem Cell Research Oversight (SCRO) committee, and written informed consent was obtained from each individual participant. Biopsy material used in this study was obtained and initially analyzed at Stanford University, as previously described <abbrgrp><abbr bid="B26">26</abbr></abbrgrp>, and transferred to the University of California at Los Angeles (UCLA) through a material transfer agreement. Written approvals for the experiments performed in this study were obtained from the UCLA Institute Biosafety Committee and the UCLA SCRO committee.</p>
+         </sec>
+         <sec>
+            <st>
+               <p><it>In vitro </it>culture of primary human skin cells</p>
+            </st>
+            <p>The human skin-derived (HUF1) primary cell line used in this study was obtained from a 4-mm adult skin punch biopsy and cultured as described <abbrgrp><abbr bid="B26">26</abbr></abbrgrp>. Briefly, all human biopsy-derived cells were cultured in complete DMEM/F-12 media consisting of Dulbecco's modified Eagle's medium nutrient mixture F-12 (DMEM/F-12) supplemented with 10% fetal bovine serum (FBS), 1 &#215; minimum essential medium (MEM) non-essential amino acids, 1 &#215; Glutamax, and 100 IU/mL penicillin-streptomycin (all from Invitrogen Corporation/Gibco, Grand Island, NY, USA) and maintained at 37&#176;C in a 5% CO<sub>2</sub> incubator. Culture media were changed every two days. Cells were allowed to expand to 80% to 90% confluency before passaging with 0.05% trypsin-EDTA (Invitrogen Corporation) and replating at a 1:3 ratio. A large bank of early-passage HUF1 cells was cryopreserved in culture media supplemented with 10% dimethyl sulphoxide (DMSO) (Sigma-Aldrich, St. Louis, MO, USA). All research adhered to National Academy of Sciences guidelines.</p>
+         </sec>
+         <sec>
+            <st>
+               <p><it>In vitro </it>culture of H9 human embryonic stem cells</p>
+            </st>
+            <p>H9 hESCs (UCLA Broad Stem Cell Research Center-Stem Cell Core) were cultured in standard ESC conditions as published <abbrgrp><abbr bid="B26">26</abbr></abbrgrp>. Briefly, hESCs were cultured in medium consisting of DMEM/F-12 supplemented with 20% knockout serum replacement, 1 &#215; Glutamax, 1 &#215; non-essential amino acids, 100 IU/mL penicillin-streptomycin (all from Invitrogen Corporation), 1 &#215; &#946;-mercaptoethanol (Millipore Corporation, Billerica, MA, USA), and 10 ng/mL recombinant human basic fibroblast growth factor (Globalstem, Rockville, MD, USA) and maintained at 37&#176;C in a 5% CO<sub>2</sub> incubator. Media were changed daily.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Cell proliferation analysis</p>
+            </st>
+            <p>BAY11 and BX795 were purchased from InvivoGen (San Diego, CA, USA) (catalog code tlrl-b82 and tlrl-bx7). Both inhibitors were diluted initially in DMSO to a stock concentration of 100 mM and stored in aliquots at &#8722;20&#176;C. All further dilutions to working concentrations were carried out in filter-sterilized Millipore water. Fresh aliquots were used for each daily transfection. B18R recombinant protein was purchased from eBioscience (San Diego, CA, USA), aliquoted, and stored at &#8722;80&#176;C. HUF1 cells were grown as described alone in complete DMEM/F-12 media. For cell proliferation experiments, HUF1 cells were plated onto gelatin-coated six-well plates (Sigma-Aldrich) at a concentration of 50,000 cells (based on a doubling time of 34 hours) and left to sit for 24 hours to adhere in the presence of BAY11 or BX795 (as indicated in Figure <figr fid="F1">1</figr>), and this was considered day 0. Every day at the 24-hour mark, media were changed with fresh drug and B18R (when applicable). On day 5, cells were washed twice with 1 &#215; phosphate-buffered saline (PBS) (Invitrogen Corporation) and cells detached with 1 mL per well of a six-well plate via 0.05% trypsin-EDTA for 5 minutes at 37&#176;C in a 5% CO<sub>2</sub> incubator. Cells were then quenched with 4 mL of standard fibroblast culture media, centrifuged at 120<it>g </it>for 5 minutes, and resuspended in 1 mL of culture media along with Trypan blue stain (Invitrogen Corporation) for cell counting by using a standard hemocytometer. All cell counts were performed in quadruplicate.</p>
+            <fig id="F1">
+               <title>
+                  <p>Figure 1</p>
+               </title>
+               <caption>
+                  <p>Immunocytochemical analysis of OCT4 expression</p>
+               </caption>
+               <text>
+                  <p><b>Immunocytochemical analysis of OCT4 expression</b>. <b>(a-j) </b>Adult human dermal fibroblasts (HUF1) were exposed to different synthetic mRNA (synRNA) concentrations to stabilize and promote homogenous OCT4 expression. Addition of 1 &#215; or 4.5 &#215; synRNA did not yield significantly higher OCT4 expression (b,d). Addition of B18R was added to assuage interferon (IFN) signaling, although 1 &#215; and 3 &#215; concentrations did not yield significant increases in OCT4 expression (c,e). 4.5 &#215; mRNA at 520 ng and 3 &#215; B18R at 600 ng/mL also did not yield significant stabilization of OCT4 (f). Small-molecule compounds of BX795 at low (0.001 &#181;M) and high (1 &#181;M) concentrations did yield robust expression of OCT4 (g and h, respectively). BAY11 at low (0.01 &#181;M) and high (1 &#181;M) concentrations also stabilized OCT4 to an even greater degree than BX795 (i and j, respectively). Scale bar represents 100 &#181;M. DAPI (4&#8242;,6-diamidino-2-phenylindole) staining is represented in blue; OCT4 staining is represented in green. BAY11, BAY 11-7082.</p>
+               </text>
+               <graphic file="scrt163-1"/>
+            </fig>
+         </sec>
+         <sec>
+            <st>
+               <p>Synthetic mRNA dilutions</p>
+            </st>
+            <p>For the initial 'mRNA pooling' experiments, synRNA of each of the five reprogramming factors was generated in-house, aliquoted, and stored at &#8722;80&#176;C as previously described by Warren and colleagues <abbrgrp><abbr bid="B23">23</abbr></abbrgrp>. Briefly, in accordance with the approach of Warren and colleagues, a 170:160:420:130:120 stoichiometric ratio corresponding to 'KMOSL' factors (which consisted of <it>KLF4</it>:<it>c-MYC</it>:<it>OCT4</it>:<it>SOX2</it>:<it>LIN28</it>, respectively) was used for the initial 'pooling' experiments. SynRNA stock concentrations for KMOSL were 1,200, 750, 1,500, 650, and 600 ng/&#181;L, respectively, and were all diluted to 100 ng/&#181;L stocks with Tris-EDTA pH 7.0. To pool these together with the same stoichiometric ratios used by Warren and colleagues, 121.4, 114.3, 300, 92.9, and 64.3 &#181;L, respectively, were added together on ice and under sterile conditions, mixed, and immediately placed into 12-&#181;L aliquots for storage at &#8722;80&#176;C. Thus, each vial had a cocktail of the five factors at 100 ng/&#181;L to yield 1,200 ng total per aliquot of synRNA, and the synRNA cocktails - except for <it>OCT4</it>, which was present at a 3 &#215; molar concentration - were formulated to yield equal molarity. For the later <it>OCT4 </it>mRNA experiments, only <it>OCT4 </it>synRNA, obtained from a commercial vendor (Stemgent, San Diego, CA, USA), was used.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Synthetic mRNA transfection</p>
+            </st>
+            <p>All work was carried out in strict RNAse-free conditions. SynRNA was thawed on ice and quickly diluted before degradation. SynRNA was diluted 5 &#215; by using Opti-MEM basal media (Invitrogen Corporation) with 12 &#181;L of synRNA at 100 ng/&#181;L placed into 48 &#181;L of Opti-MEM. RNAiMAX was used at 5 &#181;L per microgram of RNA - 1.2 &#181;g of total synRNA and thus 6 &#181;L of RNAiMAX - and was diluted 10 &#215; by diluting 6 &#181;L of RNAiMAX into 54 &#181;L of Opti-MEM. Each dilution was separate, and the tube was mixed. The two dilutions were pooled, mixed, and incubated at room temperature for 15 minutes. This mixture was added directly into fibroblast culture media without antibiotics, as required by protocol. Final culture volumes in each well were 500 &#181;L. The cells were left to incubate with the synRNA for 4 hours, after which the media were replaced with fresh BAY11 or BX795 along with B18R all in standard fibroblast media. For the <it>OCT4 </it>mRNA single-factor assay, daily transfections were carried out as above onto 25,000 HUF1 cells plated into a 24-well plate by using synthetic <it>OCT4 </it>mRNA (Stemgent) over the course of 5 days, with or without the addition of BAY11. B18R was not included during the single-factor transfections.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Immunocytochemistry</p>
+            </st>
+            <p>Cultured cells were fixed in 4% paraformaldehyde/1 &#215; PBS for 15 minutes, washed twice with 1 &#215; PBS supplemented with 100 mM glycine for 5 minutes, and incubated with permeabilization buffer consisting of 0.1% Triton X-100 (Sigma-Aldrich) in 1 &#215; PBS for 30 minutes at room temperature. Blocking was performed with 4% goat serum in Blocker Casein in PBS (Thermo Scientific, Rockford, IL, USA) for 60 minutes at room temperature. Then OCT4 (C-10) mouse anti-human monoclonal IgG<sub>2b</sub> 1:200 (Santa Cruz Biotechnology, Inc., Santa Cruz, CA, USA; catalog code sc-5279) was added to 4% goat serum in Casein-PBS and incubated overnight at 4&#176;C. The next day, cells were washed three times with 1 &#215; PBS before Alexa Fluor 488 goat anti-mouse IgG 1:200 (Invitrogen Corporation) was added to 4% goat serum in Casein-PBS and incubated for 1 hour at room temperature. The cells were rinsed and stained with SlowFade Gold antifade reagent with 4&#8242;,6-diamidino-2-phenylindole (DAPI) (Invitrogen Corporation) for 10 minutes, followed by two 1 &#215; PBS washes. Cultures were visualized with an AxioCam MR Monocolor Camera by using AxioVision Digital Image Processing Software (Axio Observer Inverted Microscope; Carl Zeiss, Jena, Germany). Three images per well were used for luminosity cell counts evaluated with Adobe Photoshop (Adobe Systems, Mountain View, CA, USA). In each replicate, 10 cells located in the top left frame of the picture were characterized with the luminosity tool in Photoshop.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>OCT4 quantification</p>
+            </st>
+            <p>The OCT4 stabilization assay was carried out via a 10 &#215; dilution of the 100 ng/&#181;L synRNA stock across 10 wells for a total of 120 ng per well in a 24-well plate. In total, 10,000 cells per well were plated, and all synRNA dilutions were carried out as stated above. Cells were cultured in standard fibroblast media, without antibiotics, overnight. The day after the initial plating, each combination of BAY11 or BX795, with or without B18R, was diluted directly into cell culture medium for 24 hours to precondition the medium. SynRNA was then transfected in every 24 hours with fresh replacement of media and drug for 5 days. OCT4 was then quantified via immunocytochemical analysis and analyzed as previously mentioned via immunocytochemical and luminosity measurements in Photoshop.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Global transcriptional meta-analysis</p>
+            </st>
+            <p>In total, 25,000 passage 5 HUF cells were plated into individual wells in a 24-well plate in standard DMEM/FBS media without antibiotics. Twelve hours later, the cells were incubated with 1 &#181;M BAY11 + 200 ng/mL B18R over two wells, whereas the other two wells received just B18R at 200 ng/mL final concentration. The final volume was 500 &#181;L in each well. After 24 hours of incubation, the cells were transfected with the modified synRNA as detailed above. This was carried out every day for 3 days, and after the last incubation period of 24 hours, the cells were harvested for mRNA by using a Roche High Pure RNA Isolation Kit in accordance with the instructions of the manufacturer (Roche, Indianapolis, IN, USA). hESCs and control fibroblasts were harvested in the same manner. Microarray analysis was carried out as published <abbrgrp><abbr bid="B27">27</abbr></abbrgrp>. Briefly, total RNA was used for an Affymetrix Differential Gene Expression Assay Human Genome U133 Plus 2.0 Array (Genoseq UCLA) for global transcriptional analysis by using standard Affymetrix protocols (Affymetrix GeneChip Expression Analysis Technical Manual, rev. 3. 2001). Uploading and cluster analysis of the CEL files between replicate samples were carried out through GeneSifter (VizX Labs, Seattle, WA, USA<abbrgrp><abbr bid="B28">28</abbr></abbrgrp>) by using the Advanced Upload Method and were normalized by using the Affymetrix Microarray Analysis Suite (MAS) 5.0 algorithm. The following CEL files were used for this analysis: HUF1 cells transfected with synRNA but not treated with BAY11 (GSM994323 and GSM994324), HUF1 cells transfected with synRNA and treated with BAY11 (GSM994325 and GSM994326), HUF1 cells not transfected with synRNA and not treated with BAY11 (GSM994327 and GSM994328)</p>
+            <p>and H9 human embryonic stem cells (GSM994321 and GSM994322). Data from control HUF cells were used as a baseline control to compare the replicates of HUF cells with or without BAY11 and hESCs. All experimental details for the microarray analysis, including all original CEL files, have been made publically available at the Gene Expression Omnibus <abbrgrp><abbr bid="B29">29</abbr></abbrgrp> GSE40444.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Quantitative polymerase chain reaction analysis</p>
+            </st>
+            <p>Total mRNA that was harvested from the global transcriptional meta-analysis was also used in reverse transcription-polymerase chain reaction (RT-PCR) for quantitative PCR analysis. The RNA yield and quality were determined by using the GE NanoVue Spectrophotometer (GE Healthcare Life Sciences, Piscataway, NJ, USA). For hESCs and for all HUF lines, 1 &#181;g and 180 ng of RNA, respectively, were reverse-transcribed by using the Transcriptor First Strand cDNA Synthesis Kit (Roche) and anchored-oligo(dT)<sub>18</sub> and random hexamer primers. Quantitative RT-PCR (QPCR) relative expression experiments used a LightCycler 480 Real-Time PCR System (Roche), and data were further analyzed with LightCycler 480 Software release 1.5.0. Primers and probes were designed and ordered from Roche's Universal ProbeLibrary. Primers for the genes are listed as follows: Homo sapiens secreted phosphoprotein 1 (<it>SPP1</it>), transcript variant 2, mRNA (NM_000582.2) forward primer: cgcagacctgacatccagt, reverse primer: ggctgtcccaatcagaagg, probe #61; Homo sapiens solute carrier family 16, member 9 (monocarboxylic acid transporter 9) (<it>SLC16A9</it>), mRNA, (NM_194298.2), forward primer: gatgcctttggtgaaggaaa, reverse primer: cacagagactgcagacaggact, probe #64; Homo sapiens growth arrest and DNA-damage-inducible, gamma (<it>GADD45G</it>), mRNA, (NM_006705.3), forward primer: cagccaaagtcttgaacgtg, reverse primer: cctggatcagcgtaaaatgg, probe #71; <it>DUSP4</it>-001 dual-specificity protein phosphatase 4 (ENST00000240100.2), forward primer: tgcatcccagtggaagataac, reverse primer: gcagtccttcacggcat, probe #17; Homo sapiens hypoxanthine phosphoribosyltransferase 1 (<it>HPRT1</it>), mRNA, (NM_000194.2), forward primer: tgaccttgatttattttgcatacc, reverse primer: cgagcaagacgttcagtcct, probe #73; <it>GAPDH</it>-001 glyceraldehyde-3-phosphate dehydrogenase (ENST00000229239.5), forward primer: gctctctgctcctcctgttc, reverse primer: acgaccaaatccgttgactc, probe #60. cDNA (5 ng) that was reverse-transcribed in the RT-PCR per sample was used in a 20-&#181;L reaction that consisted of 10 &#181;M UPL probe, 2 &#215; LightCycler 480 Probes Master, and 20 &#181;M forward and reverse primers. Duplicate experimental samples were paired by using the all-to-mean pairing rule with two housekeeping genes run in duplicate for advanced relative quantification.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Statistical analysis</p>
+            </st>
+            <p>Results are presented as mean &#177; standard deviation. The statistical significance of differences for cell proliferation analysis, immunocytochemical luminosity-based quantification, and QPCR results were evaluated by using Statistical Package for the Social Sciences (SPSS) 20 (IBM Corporation, Chicago, IL, USA). Analysis of variance, <it>t </it>test for independent samples, and Mann-Whitney <it>U </it>test were considered statistically significant at a <it>P </it>value of less than 0.05.</p>
+         </sec>
+      </sec>
+      <sec>
+         <st>
+            <p>Results</p>
+         </st>
+         <sec>
+            <st>
+               <p>Immunocytochemical detection of OCT4 demonstrating robust stabilization</p>
+            </st>
+            <p>In our initial attempts to repeat the reprogramming methodology of Warren and colleagues <abbrgrp><abbr bid="B23">23</abbr></abbrgrp> for transfecting synthetic (syn) <it>OCT4 </it>mRNA into human adult fibroblasts, we observed significant degradation (defined here by low-level and heterogeneous OCT4 expression) of the <it>OCT4 </it>synRNA. Interestingly, this degradation appeared to be specific to <it>OCT4 </it>and did not affect <it>SOX2, KL4, cMYC</it>, and <it>LIN28 </it>(data not shown), but the reasons for this are not yet clear. No detectable OCT4 protein was observed in the untransfected human adult fibroblasts (HUF1) (Figure <figr fid="F1">1a</figr>). After transfection of 120 ng of synRNA (as reported by Warren and colleagues <abbrgrp><abbr bid="B23">23</abbr></abbrgrp>), we saw broad heterogeneity and very low expression of OCT4 upon immunocytochemical analysis (Figure <figr fid="F1">1b</figr>). Secondly, addition of Vaccinia virus decoy receptor for type I interferons (IFNs), identified as B18R, resulted in no statistically significant increase in OCT4 expression (Figure <figr fid="F1">1c</figr>), and no significant increase was observed following the use of higher amounts of synRNA (Figure <figr fid="F1">1d</figr>), B18R (Figure <figr fid="F1">1e</figr>), or both (Figure <figr fid="F1">1f</figr>). These results demonstrate that increasing synRNA concentration and mitigating IFN signaling via B18R are not sufficient to permit robust OCT4 expression from synRNA.Next, we analyzed the immune response pathways to identify alternative potential small-molecule candidates that could potentially block the intra-cellular immune response pathway and thus stabilize OCT4 expression from synRNA (Figure <figr fid="F2">2a</figr>). The degradation of synthetic single-stranded RNA (ssRNA) is elicited through two distinct pathways (Figure <figr fid="F2">2a</figr>). First, interaction between pathogen-associated molecular patterns, including ssRNA <abbrgrp><abbr bid="B30">30</abbr></abbrgrp>, leads to activation of the mitogen-activated protein kinases (MAPKs) and the I&#954;B kinase (IKK&#945; and IKK&#946;), which subsequently turn on nuclear factor-kappa-B (NF-&#954;B), via phosphorylating I&#954;B&#945; <abbrgrp><abbr bid="B31">31</abbr></abbrgrp>. The second pathway uses another subset of pattern recognition receptors - endosomal Toll-like receptors <abbrgrp><abbr bid="B32">32</abbr></abbrgrp>, melanoma differentiation-associated gene 5 (MDA-5), and retinoic acid-inducible gene I (RIG-1) - that activate a distinct pathway which requires IKK-related kinases, IKK&#949;, and TANK-binding kinase 1 (TBK<sub>1</sub>) and which also leads to activation of NF-&#954;B and NF-&#954;B-based gene transcription <abbrgrp><abbr bid="B31">31</abbr></abbrgrp>. Both pathways recognize foreign RNA, and subsequent NF-&#954;B-based activation of IFN regulatory factor (IRF) leads to type I IFN production <abbrgrp><abbr bid="B33">33</abbr><abbr bid="B34">34</abbr><abbr bid="B35">35</abbr></abbrgrp>. Thus, inhibitor &#954;B (I&#954;B) proteins, normally sequestering NF-&#954;B in the cytoplasm, must undergo phosphorylation via I&#954;B kinase &#945; (IKK) and subsequent rapid proteasome degradation, allowing NF-&#954;B transcriptionally based regulated IFN production <abbrgrp><abbr bid="B36">36</abbr></abbrgrp>. BAY11 inhibits I&#954;B&#945; phosphorylation (specifically, IRF7 production) <abbrgrp><abbr bid="B37">37</abbr><abbr bid="B38">38</abbr></abbrgrp>, whereas BX795 inhibits TBK<sub>1</sub> and IKK&#949;. Both BAY11 and BX795 ultimately may inhibit many degradation-associated cytokines, RNAse L, and chemokines <abbrgrp><abbr bid="B31">31</abbr></abbrgrp> (Figure <figr fid="F2">2a</figr>). Warren and colleagues found that use of modified ribonucleoside bases and a phosphatase treatment to reduce the signaling through RIG-1, coupled with an IFN inhibitor B18R, led to significantly reduced innate immune responses <abbrgrp><abbr bid="B39">39</abbr></abbrgrp>, although it did not completely eliminate this synRNA degradation in our experiments. We then asked whether two other candidate small molecules (BX795 and BAY11) might efficiently block the intracellular immune response to synthetic RNA and stabilize OCT4 expression (Figure <figr fid="F2">2a</figr>). When combined with 120 ng of total synRNA, BX795 at the low concentration (0.001 &#181;M) induced broad stabilization and homogenous expression of OCT4 (Figure <figr fid="F1">1g</figr>). We then investigated whether increasing the concentration of BX795 to 1 &#181;M would increase OCT4 expression. As shown in Figure <figr fid="F1">1h, a</figr> greater number of cells did express OCT4 but at a level comparable to that of BX795 at 0.001 &#181;M (Figure <figr fid="F1">1g</figr>). Next, we tested a similar compound, BAY11, at a low concentration (0.01 &#181;M) and obtained robust OCT4 stabilization and more uniform expression (Figure <figr fid="F1">1i</figr>). This was followed by one last condition tested with BAY11 at a high concentration (1 &#181;M), and we found dramatically increased OCT4 expression (Figure <figr fid="F1">1j</figr>). In comparison, the original conditions of just synRNA and B18R yielded low and very heterogeneous expression of OCT4 (Figure <figr fid="F1">1b,c</figr>). To further investigate the reproducibility of this phenomenon, we used <it>OCT4 </it>synRNA alone, bought from an independent commercial manufacturer (Stemgent), and were able to duplicate the response seen in Figure <figr fid="F1">1</figr>, even in the absence of B18R (Figure <figr fid="F3">3a-c</figr>). This indicates that BAY11, and not the modified nucleobases or B18R, is the main contributing factor that is allowing the mRNA stabilization. In an effort to investigate whether the NF-&#954;B-based innate immune response pathway is involved in this <it>OCT4 </it>stabilization phenomenon (as we hypothesized), we performed an assay without transfection of B18R or multiple pooled mRNAs. Not only did we still observe the stabilization of OCT4 expression but we also observed, through quantitative PCR, a statistically significant decrease in NF-&#954;B expression when in the presence of BAY11 after daily transfection of synthetic <it>OCT4 </it>mRNA alone (Figure <figr fid="F2">2b</figr>). This correlative evidence suggests that the reproducible and robust increase in <it>OCT4 </it>mRNA expression we have observed is due, at least in part, to the inhibition of the NF-&#954;B-based innate immune response pathway.</p>
+            <fig id="F2">
+               <title>
+                  <p>Figure 2</p>
+               </title>
+               <caption>
+                  <p>Overview of molecular signaling pathway and quantitative real-time polymerase chain reaction analysis of nuclear factor-kappa-B (NF-&#954;B)</p>
+               </caption>
+               <text>
+                  <p><b>Overview of molecular signaling pathway and quantitative real-time polymerase chain reaction analysis of nuclear factor-kappa-B (NF-&#954;B)</b>. <b>(a) </b>Dotted line represents the molecular pathway that BX795 inhibits, specifically at IKK&#949;. The pathway with non-dotted lines represents the additional pathways that BAY11 inhibits, including the IKK&#946; and IRF7 pathways. <b>(b) </b>Relative NF-&#954;B levels with and without BAY11. Overall levels decrease in the presence of BAY11, contributing to the increase in OCT4 expression previously seen. Asterisks indicate statistically significant changes in expression where <it>P </it>value was less than 0.05. BAY11, BAY 11-7082; IFNAR, interferon-&#945;/&#946; receptor; IKK, I&#954;B kinase; IRAK1, interleukin-1R-associated kinase 1; IRF, interferon regulatory factor; ; ISRE, interferon stimulated response element; MDA5, melanoma differentiation-associated gene 5; MYD88, myeloid differentiation primary-response gene 88; RIG-I, retinoic acid-inducible gene I; STAT1/2, signal transducer and activator of transcription 1/2; TLR7/8; TRAF6, tumor necrosis factor receptor-associated factor 6.</p>
+               </text>
+               <graphic file="scrt163-2"/>
+            </fig>
+            <fig id="F3">
+               <title>
+                  <p>Figure 3</p>
+               </title>
+               <caption>
+                  <p>Immunocytochemical analysis of OCT4 expression with <it>OCT4 </it>mRNA alone</p>
+               </caption>
+               <text>
+                  <p><b>Immunocytochemical analysis of OCT4 expression with <it>OCT4 </it>mRNA alone</b>. <b>(a-c) </b>HUF1 cells were exposed to 0 &#215; and 1 &#215; synthetic <it>OCT4 </it>mRNA without B18R and in the presence or absence of BAY11. The addition of BAY11 was noted to again stabilize and allow homogenous expression of OCT4 without the presence of B18R or any other mRNAs in culture. Scale bar represents 100 &#181;M. DAPI (4&#8242;,6-diamidino-2-phenylindole) staining is represented in blue; OCT4 staining is represented in green. BAY11, BAY 11-7082; synRNA, synthetic mRNA.</p>
+               </text>
+               <graphic file="scrt163-3"/>
+            </fig>
+         </sec>
+         <sec>
+            <st>
+               <p>Quantitation of immunocytochemistry and cell proliferation analysis</p>
+            </st>
+            <p>Luminosity-based measurements were used to quantify which conditions yielded significantly increased relative expression of OCT4. Fluorescent imaging demonstrated that BAY11 at 1 &#181;M yielded the highest statistically significant relative expression of OCT4, followed closely by BAY11 at 0.01 &#181;M (Figure <figr fid="F4">4a</figr>). There were no differences between the expression levels of OCT4 induced by BX795, and both were lower than the BAY11 concentrations (Figure <figr fid="F4">4a</figr>). We then conducted a cell proliferation assay on the HUF cells and found that both concentrations of BX795 and BAY11 at 1 &#181;M have significant cell proliferative defects when compared with controls. However, BAY11 at 0.01 &#181;M had the best compromise between robust OCT4 expression and no statistically significant reduction in cell proliferation compared with controls (Figure <figr fid="F4">4b</figr>). According to these findings, BAY11 used at 0.01 &#181;M yielded optimal OCT4 expression without cell proliferative defects.</p>
+            <fig id="F4">
+               <title>
+                  <p>Figure 4</p>
+               </title>
+               <caption>
+                  <p>Relative OCT4 expression levels and relative proliferation rate</p>
+               </caption>
+               <text>
+                  <p><b>Relative OCT4 expression levels and relative proliferation rate</b>. <b>(a) </b>Quantitative analysis of immunocytochemically detected OCT4 expression. <b>(b) </b>Proliferation analysis following exposure to small molecules. Asterisks indicate statistically significant increases or decreases over controls where <it>P </it>value was less than 0.05. BAY11, BAY 11-7082; synRNA, synthetic mRNA.</p>
+               </text>
+               <graphic file="scrt163-4"/>
+            </fig>
+         </sec>
+         <sec>
+            <st>
+               <p>Global transcriptional meta-analysis and quantitative polymerase chain reaction</p>
+            </st>
+            <p>Next, we investigated whether global transcriptional meta-analysis could ascertain any early easily activated downstream transcriptional targets of OCT4 that may also be upregulated because of <it>OCT4 </it>stabilization in the presence of BAY11. Pairwise analysis of control and BAY11-treated fibroblasts revealed a number of probe sets upregulated (<it>P </it>&lt;0.05, fold change >3). The differentially upregulated genes (when compared with our baseline HUF cells), in the presence of BAY11, were then cross-referenced with these genes in the ESC microarray. Further comparison of the downstream targets of OCT4 was carried out with previously reported results from the chromatin immunoprecipitation paired-end ditags methodology, global expression profiling, and chromatin-immunoprecipitation analysis <abbrgrp><abbr bid="B9">9</abbr><abbr bid="B10">10</abbr><abbr bid="B11">11</abbr></abbrgrp>. From these data, four putative gene targets were found to be consistently upregulated: <it>SPP1, DUSP4, GADD45G</it>, and <it>SLC16A9 </it>(Figure <figr fid="F5">5a</figr>). These putative genes were confirmed with QPCR; however, the differential levels of gene expression observed via QPCR were, for unknown reasons, generally lower than those observed for microarray analysis. We demonstrated that, in the presence of BAY11, the expression of these four OCT4 early target genes was significantly increased relative to untreated HUF cells (Figure <figr fid="F5">5b</figr>). Interestingly, in the presence of BAY11, HUF cell expression of these four genes more similarly matched expression levels of hESCs, suggesting that BAY11 could be useful in reprogramming by upregulating key pluripotency-associated genes. Additionally, while <it>SPP1, DUSP4</it>, and <it>GADD45G </it>were previously found to be bound and regulated by OCT4 <abbrgrp><abbr bid="B9">9</abbr><abbr bid="B10">10</abbr><abbr bid="B11">11</abbr></abbrgrp>, we found a putative novel OCT4 target gene, <it>SLC16A9</it>, that has been previously shown through microarray analysis to also be upregulated in ESCs. Thus, through microarray analysis and QPCR, we detected and confirmed four early gene targets that are upregulated in the presence of BAY11, indicative of functional OCT4 expression.</p>
+            <fig id="F5">
+               <title>
+                  <p>Figure 5</p>
+               </title>
+               <caption>
+                  <p>Microarray analysis and quantitative real-time polymerase chain reaction (QPCR) of genes upregulated by BAY11</p>
+               </caption>
+               <text>
+                  <p><b>Microarray analysis and quantitative real-time polymerase chain reaction (QPCR) of genes upregulated by BAY11</b>. <b>(a) </b>Microarray data show four putative gene targets that were identified by over 3 &#215; fold changes in human fibroblast (HUF) cells treated with BAY11compared with untreated HUF cells over the course of 3 days of daily synthetic mRNA transfections. <b>(b) </b>QPCR analysis confirmed microarray results for the four genes and demonstrated that relative expression of the four genes becomes more similar to human embryonic stem cell (hESC) expression in the presence of BAY11. Asterisks indicate statistically significant increases over control cells not receiving BAY11 where <it>P </it>value was less than 0.05. BAY11, BAY 11-7082; <it>DUSP4</it>, dual-specificity phosphatase 4; <it>SLC16A9</it>, solute carrier family 16, member 9.</p>
+               </text>
+               <graphic file="scrt163-5"/>
+            </fig>
+         </sec>
+      </sec>
+      <sec>
+         <st>
+            <p>Discussion</p>
+         </st>
+         <p>In this study, we provide the first significant and reproducible evidence, collected over four independent experiments, in support of the hypothesis that BAY11 can significantly increase the expression of OCT4 in human adult dermal fibroblasts from transfected synRNA without negatively impacting cell proliferation. We demonstrated that this response involves NF-&#954;B-based innate immune responses and is independent of the modified nucleobases and addition of B18R. Also, we were able to reproduce the robust expression of OCT4 by using single-factor mRNA synthesized from an independent company (Stemgent) rather than our original source of synRNA (generated in-house). Importantly, OCT4 can significantly upregulate its putative early target downstream genes, including <it>SPP1, DUSP4</it>, and <it>GADD45G</it>. For example, dual-specificity phosphatase 4 (<it>DUSP4</it>) plays a role in cellular proliferation and differentiation via phosphatase activity in the MAPK pathways, and previous studies reported that deletion of this gene causes a significant decrease in the cell proliferation rate <abbrgrp><abbr bid="B40">40</abbr></abbrgrp>. Similarly, <it>c-MYC </it>has many downstream targets that enhance cell proliferation <abbrgrp><abbr bid="B13">13</abbr></abbrgrp>, and <it>DUSP4 </it>may have similar functions in reprogramming to increase cell proliferation. We also used global transcriptional analysis to identify a novel OCT4 target gene (<it>SLC16A9</it>) and demonstrated that <it>SLC16A9 </it>was significantly upregulated following BAY11-based treatment of adult human skin cells transfected with synthetic <it>OCT4 </it>mRNA. <it>SLC16A9 </it>(or solute carrier family 16, member 9) is a monocarboxylic acid transporter, which is interesting as highly glycolytic cells commonly express monocarboxylate transporters <abbrgrp><abbr bid="B41">41</abbr></abbrgrp>. Interestingly, <it>SLC16A9 </it>is part of the monocarboxylate transporter family of H<sup>+</sup>/lactate symporters capable of bidirectional transport of lactic acid across the plasma membrane <abbrgrp><abbr bid="B42">42</abbr></abbrgrp>. This is an important finding as ESCs have been found to be primarily glycolytic and have very few mitochondria <abbrgrp><abbr bid="B43">43</abbr></abbrgrp>. Thus, ESCs, and most malignant cancers, express this glycolytic phenotype, even in the presence of oxygen, an effect known as the 'Warburg effect', and must efflux lactate to prevent toxic intracellular buildup of lactate <abbrgrp><abbr bid="B44">44</abbr></abbrgrp>. Therefore, upregulation of <it>SLC16A9 </it>could be another avenue by which to increase reprogramming efficiency not only in mRNA-based reprogramming but also in other reprogramming methodologies.</p>
+         <p>It is interesting to note that, out of the various reprogramming factors we analyzed (<it>OCT4, SOX2, KLF4, cMYC</it>, and <it>LIN28</it>), only <it>OCT4 </it>triggered an intracellular immune response that resulted in very low heterogeneous expression. Whether <it>OCT4 </it>more closely resembles an evolutionarily recognized single-stranded virus that human somatic cells have evolved defense mechanisms to is an interesting hypothesis but as of yet is unproven. Also, exactly how human fibroblasts recognize and degrade transfected human <it>OCT4 </it>RNA and whether the polyA or 3&#8242; untranslated region sequences play a role are unclear. We propose that human cells use the same intracellular immune response pathways that degrade viral single-stranded mRNA to degrade single-stranded <it>OCT4 </it>mRNA. The difference in recognition and degradation between synthetic <it>OCT4 </it>and endogenous <it>OCT4 </it>may reside in the relatively long half-life of viral mRNA and synRNA compared with the relatively short half-life of endogenous <it>OCT4 </it>mRNA (which is nevertheless continuously transcribed when expressed). This is an interesting area for future study. It should also be noted that, while the immunocytochemical assays we have used in this study do not distinguish between endogenous and exogenous OCT4 protein, we do not consider that this is a significant concern or changes the conclusions of our paper, as no detectable OCT4 protein was observed via the immunocytochemical assay in the human dermal fibroblasts without <it>OCT4 </it>synRNA transfection. It is also interesting to note that, for unknown reasons, the RT-PCR primers we have previously used to detect endogenous <it>OCT4 </it>mRNA did not work with synthetic <it>OCT4 </it>mRNA. Therefore, we focused our quantitative analysis in this study on the increased amount of OCT4 protein generated in the synRNA transfected cells and the significant upregulation of genes downstream of OCT4. In regard to the detection of only four OCT4 putative targets, it is unclear to us why a larger number of OCT4 downstream genes did not get upregulated, although we propose that the four putative OCT4 targets we identified in this study may potentially represent some of the earliest or easiest genes to upregulate (or both), hence their detection in our microarray and QPCR assays, while other OCT4 targets may require additional factors or time (or both) to express to detectable levels. To date, we have observed that BAY11 can significantly and reproducibly stabilize <it>OCT4 </it>over a 3-day and 5-day culture. It will be interesting to observe whether BAY11 can maintain this stabilized OCT4 expression over longer periods of time without inducing any negative or toxic effects (or both) on the cells. This long-term synRNA stabilization is critical toward almost all future applications of BAY11.</p>
+         <p>This research represents the first step toward using small molecules to augment the expression of various synRNAs in adult human somatic cells. At present, the molecular mechanism involved in the increased presence of OCT4 protein is not clear and may involve increased mRNA stability, translation, or improved transfection efficiency. Given that BAY11 has been found to suppress IRF7 production <abbrgrp><abbr bid="B37">37</abbr><abbr bid="B38">38</abbr></abbrgrp>, tempering the innate immune response-mediated decay of exogenous mRNA is a plausible mechanism and likely involves increased mRNA stability of the transfected <it>OCT4 </it>mRNA. This is an interesting area for future study. In addition, our results indicate that BAY11 may be an important adjuvant to augment reprogramming to pluripotency <abbrgrp><abbr bid="B23">23</abbr></abbrgrp>, differentiation to endoderm <abbrgrp><abbr bid="B8">8</abbr></abbrgrp>, and/or expression of other potentially useful synRNA-derived factors. One of the most promising aspects of this study is the potential that BAY11 may be useful in stabilizing synthetic <it>OCT4 </it>mRNA to facilitate the generation of patient-specific induced pluripotent stem cells. This is especially relevant given that past findings have detailed that perhaps one of the biggest roadblocks during reprogramming via frequent mRNA transfections is an innate immune response <abbrgrp><abbr bid="B45">45</abbr></abbrgrp>. Therefore, for the first time, we show that a small molecule, BAY11, can mitigate this innate immune response and partially prevent degradation of transfected synRNA.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Conclusions</p>
+         </st>
+         <p>We conclude that BAY 11-7082 (BAY11) can significantly increase the expression of OCT4 following transfection of synRNA into adult human skin cells. This small molecule-based stabilization of synRNA expression may have multiple applications for future cell-based research and therapeutics.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Abbreviations</p>
+         </st>
+         <p>BAY11, BAY 11-7082; DMEM/F-12, Dulbecco's modified Eagle's medium/F-12; DMSO, dimethyl sulphoxide; <it>DUSP4</it>, dual-specificity phosphatase 4; EDTA, ethylenediaminetetraacetic acid; ESC, embryonic stem cell; FBS, fetal bovine serum; hESC, human embryonic stem cell; HUF1, human fibroblast; I&#954;B, inhibitor &#954;B; IFN, interferon; IKK, inhibitor &#954;B kinase &#945;; IRF, interferon regulatory factor; KMOSL, <it>KLF4</it>:<it>c-MYC</it>:<it>OCT4</it>:<it>SOX2</it>:<it>LIN28</it>; MAPK, mitogen-activated protein kinase; MEM, minimum essential medium; NF-&#954;B, nuclear factor-kappa-B; PBS, phosphate-buffered saline; PCR, polymerase chain reaction; QPCR, quantitative real-time polymerase chain reaction; RIG-I, retinoic acid-inducible gene I; RT-PCR, reverse transcription-polymerase chain reaction; SCRO, Stem Cell Research Oversight; <it>SLC16A9</it>, solute carrier family 16, member 9; ssRNA, single-stranded RNA; synRNA, synthetic mRNA; TBK<sub>1</sub>, TANK-binding kinase 1; UCLA, University of California at Los Angeles.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Competing interests</p>
+         </st>
+         <p>JAB receives research funding and is a scientific consultant for Fibrocell Science, Inc. (Exton, PA, USA) and has a patent on the work included in this article. AVC receives research funding for Fibrocell Science, Inc. JPA has a patent on the work included in this article. YL and MK declare that they have no competing interests.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Authors' contributions</p>
+         </st>
+         <p>JAB helped to design experiments and write the manuscript. JPA helped to design experiments and write the manuscript and performed experiments. YL and MK generated synthetic mRNA. AVC assisted with cell culture. All authors read and approved the final manuscript.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Authors' information</p>
+         </st>
+         <p>JAB is an assistant professor at UCLA. The long-term aims of his research are to create and use patient-specific induced pluripotent stem cell technology to treat diseases such as Parkinson's, heart disease, and diabetes and to promote recovery from spinal cord injuries and regenerate human organs, tissues, and cells as they age, mutate, and die.</p>
+      </sec>
+   </bdy>
+   <bm>
+      <ack>
+         <sec>
+            <st>
+               <p>Acknowledgements</p>
+            </st>
+            <p>This work is based on a research collaboration with Fibrocell Science, Inc. and the Clinical Investigations for Dermal Mesenchymally Obtained Derivatives (CIDMOD) Initiative to generate safe patient-specific stem cell-based therapeutics. This work is supported by funding from the Eli and Edythe Broad Center of Regenerative Medicine and Stem Cell Research at UCLA, The Phelps Family Foundation, and Fibrocell Science, Inc. to JAB and National Institutes of Health grant GM67005 to MK. We would like to thank Renee Reijo Pera and Anne Chang for providing the human skin cell line for this study and Patricia Phelps for her valuable editorial assistance and advice.</p>
+         </sec>
+      </ack>
+      <refgrp>
+         <bibl id="B1">
+            <title>
+               <p>The molecular basis of pluripotency in mouse embryonic stem cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Chambers</snm>
+                  <fnm>I</fnm>
+               </au>
+            </aug>
+            <source>Cloning Stem Cells</source>
+            <pubdate>2004</pubdate>
+            <volume>6</volume>
+            <fpage>386</fpage>
+            <lpage>391</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1089/clo.2004.6.386</pubid>
+                  <pubid idtype="pmpid" link="fulltext">15671667</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B2">
+            <title>
+               <p>Oct-4 knockdown induces similar patterns of endoderm and trophoblast differentiation markers in human and mouse embryonic stem cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Hay</snm>
+                  <fnm>DC</fnm>
+               </au>
+               <au>
+                  <snm>Sutherland</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Clark</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Burdon</snm>
+                  <fnm>T</fnm>
+               </au>
+            </aug>
+            <source>Stem Cells</source>
+            <pubdate>2004</pubdate>
+            <volume>22</volume>
+            <fpage>225</fpage>
+            <lpage>235</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1634/stemcells.22-2-225</pubid>
+                  <pubid idtype="pmpid" link="fulltext">14990861</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B3">
+            <title>
+               <p>Core transcriptional regulatory circuitry in human embryonic stem cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Boyer</snm>
+                  <fnm>LA</fnm>
+               </au>
+               <au>
+                  <snm>Lee</snm>
+                  <fnm>TI</fnm>
+               </au>
+               <au>
+                  <snm>Cole</snm>
+                  <fnm>MF</fnm>
+               </au>
+               <au>
+                  <snm>Johnstone</snm>
+                  <fnm>SE</fnm>
+               </au>
+               <au>
+                  <snm>Levine</snm>
+                  <fnm>SS</fnm>
+               </au>
+               <au>
+                  <snm>Zucker</snm>
+                  <fnm>JP</fnm>
+               </au>
+               <au>
+                  <snm>Guenther</snm>
+                  <fnm>MG</fnm>
+               </au>
+               <au>
+                  <snm>Kumar</snm>
+                  <fnm>RM</fnm>
+               </au>
+               <au>
+                  <snm>Murray</snm>
+                  <fnm>HL</fnm>
+               </au>
+               <au>
+                  <snm>Jenner</snm>
+                  <fnm>RG</fnm>
+               </au>
+               <au>
+                  <snm>Gifford</snm>
+                  <fnm>DK</fnm>
+               </au>
+               <au>
+                  <snm>Melton</snm>
+                  <fnm>DA</fnm>
+               </au>
+               <au>
+                  <snm>Jaenisch</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Young</snm>
+                  <fnm>RA</fnm>
+               </au>
+            </aug>
+            <source>Cell</source>
+            <pubdate>2005</pubdate>
+            <volume>122</volume>
+            <fpage>947</fpage>
+            <lpage>956</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.cell.2005.08.020</pubid>
+                  <pubid idtype="pmcid">3006442</pubid>
+                  <pubid idtype="pmpid" link="fulltext">16153702</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B4">
+            <title>
+               <p>Transcriptional activation by oct4 is sufficient for the maintenance and induction of pluripotency</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Hammachi</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Morrison</snm>
+                  <fnm>GM</fnm>
+               </au>
+               <au>
+                  <snm>Sharov</snm>
+                  <fnm>AA</fnm>
+               </au>
+               <au>
+                  <snm>Livigni</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Narayan</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Papapetrou</snm>
+                  <fnm>EP</fnm>
+               </au>
+               <au>
+                  <snm>O'Malley</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Kaji</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Ko</snm>
+                  <fnm>MS</fnm>
+               </au>
+               <au>
+                  <snm>Ptashne</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Brickman</snm>
+                  <fnm>JM</fnm>
+               </au>
+            </aug>
+            <source>Cell Rep</source>
+            <pubdate>2012</pubdate>
+            <volume>1</volume>
+            <fpage>99</fpage>
+            <lpage>109</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.celrep.2011.12.002</pubid>
+                  <pubid idtype="pmpid" link="fulltext">22832160</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B5">
+            <title>
+               <p>POU5F1 (OCT3/4) identifies cells with pluripotent potential in human germ cell tumors</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Looijenga</snm>
+                  <fnm>LH</fnm>
+               </au>
+               <au>
+                  <snm>Stoop</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>de Leeuw</snm>
+                  <fnm>HP</fnm>
+               </au>
+               <au>
+                  <snm>de Gouveia Brazao</snm>
+                  <fnm>CA</fnm>
+               </au>
+               <au>
+                  <snm>Gillis</snm>
+                  <fnm>AJ</fnm>
+               </au>
+               <au>
+                  <snm>van Roozendaal</snm>
+                  <fnm>KE</fnm>
+               </au>
+               <au>
+                  <snm>van Zoelen</snm>
+                  <fnm>EJ</fnm>
+               </au>
+               <au>
+                  <snm>Weber</snm>
+                  <fnm>RF</fnm>
+               </au>
+               <au>
+                  <snm>Wolffenbuttel</snm>
+                  <fnm>KP</fnm>
+               </au>
+               <au>
+                  <snm>van Dekken</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Honecker</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Bokemeyer</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Perlman</snm>
+                  <fnm>EJ</fnm>
+               </au>
+               <au>
+                  <snm>Schneider</snm>
+                  <fnm>DT</fnm>
+               </au>
+               <au>
+                  <snm>Kononen</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Sauter</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Oosterhuis</snm>
+                  <fnm>JW</fnm>
+               </au>
+            </aug>
+            <source>Cancer Res</source>
+            <pubdate>2003</pubdate>
+            <volume>63</volume>
+            <fpage>2244</fpage>
+            <lpage>2250</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid" link="fulltext">12727846</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B6">
+            <title>
+               <p>Formation of pluripotent stem cells in the mammalian embryo depends on the POU transcription factor Oct4</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Nichols</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Zevnik</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Anastassiadis</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Niwa</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Klewe-Nebenius</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Chambers</snm>
+                  <fnm>I</fnm>
+               </au>
+               <au>
+                  <snm>Sch&#246;ler</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Smith</snm>
+                  <fnm>A</fnm>
+               </au>
+            </aug>
+            <source>Cell</source>
+            <pubdate>1998</pubdate>
+            <volume>95</volume>
+            <fpage>379</fpage>
+            <lpage>391</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/S0092-8674(00)81769-9</pubid>
+                  <pubid idtype="pmpid" link="fulltext">9814708</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B7">
+            <title>
+               <p>Beyond homeosis--HOX function in morphogenesis and organogenesis</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Hombria</snm>
+                  <fnm>JC</fnm>
+               </au>
+               <au>
+                  <snm>Lovegrove</snm>
+                  <fnm>B</fnm>
+               </au>
+            </aug>
+            <source>Differentiation</source>
+            <pubdate>2003</pubdate>
+            <volume>71</volume>
+            <fpage>461</fpage>
+            <lpage>476</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1046/j.1432-0436.2003.7108004.x</pubid>
+                  <pubid idtype="pmpid" link="fulltext">14641327</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B8">
+            <title>
+               <p>Quantitative expression of Oct-3/4 defines differentiation, dedifferentiation or self-renewal of ES cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Niwa</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Miyazaki</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Smith</snm>
+                  <fnm>AG</fnm>
+               </au>
+            </aug>
+            <source>Nat Genet</source>
+            <pubdate>2000</pubdate>
+            <volume>24</volume>
+            <fpage>372</fpage>
+            <lpage>376</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/74199</pubid>
+                  <pubid idtype="pmpid" link="fulltext">10742100</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B9">
+            <title>
+               <p>The Oct4 and Nanog transcription network regulates pluripotency in mouse embryonic stem cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Loh</snm>
+                  <fnm>YH</fnm>
+               </au>
+               <au>
+                  <snm>Wu</snm>
+                  <fnm>Q</fnm>
+               </au>
+               <au>
+                  <snm>Chew</snm>
+                  <fnm>JL</fnm>
+               </au>
+               <au>
+                  <snm>Vega</snm>
+                  <fnm>VB</fnm>
+               </au>
+               <au>
+                  <snm>Zhang</snm>
+                  <fnm>W</fnm>
+               </au>
+               <au>
+                  <snm>Chen</snm>
+                  <fnm>X</fnm>
+               </au>
+               <au>
+                  <snm>Bourque</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>George</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Leong</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Liu</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Wong</snm>
+                  <fnm>KY</fnm>
+               </au>
+               <au>
+                  <snm>Sung</snm>
+                  <fnm>KW</fnm>
+               </au>
+               <au>
+                  <snm>Lee</snm>
+                  <fnm>CW</fnm>
+               </au>
+               <au>
+                  <snm>Zhao</snm>
+                  <fnm>XD</fnm>
+               </au>
+               <au>
+                  <snm>Chiu</snm>
+                  <fnm>KP</fnm>
+               </au>
+               <au>
+                  <snm>Lipovich</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Kuznetsov</snm>
+                  <fnm>VA</fnm>
+               </au>
+               <au>
+                  <snm>Robson</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Stanton</snm>
+                  <fnm>LW</fnm>
+               </au>
+               <au>
+                  <snm>Wei</snm>
+                  <fnm>CL</fnm>
+               </au>
+               <au>
+                  <snm>Ruan</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Lim</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Ng</snm>
+                  <fnm>HH</fnm>
+               </au>
+            </aug>
+            <source>Nat Genet</source>
+            <pubdate>2006</pubdate>
+            <volume>38</volume>
+            <fpage>431</fpage>
+            <lpage>440</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/ng1760</pubid>
+                  <pubid idtype="pmpid" link="fulltext">16518401</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B10">
+            <title>
+               <p>Identification of Pou5f1, Sox2, and Nanog downstream target genes with statistical confidence by applying a novel algorithm to time course microarray and genome-wide chromatin immunoprecipitation data</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Sharov</snm>
+                  <fnm>AA</fnm>
+               </au>
+               <au>
+                  <snm>Masui</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Sharova</snm>
+                  <fnm>LV</fnm>
+               </au>
+               <au>
+                  <snm>Piao</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Aiba</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Matoba</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Xin</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Niwa</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Ko</snm>
+                  <fnm>MS</fnm>
+               </au>
+            </aug>
+            <source>BMC Genomics</source>
+            <pubdate>2008</pubdate>
+            <volume>9</volume>
+            <fpage>269</fpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1186/1471-2164-9-269</pubid>
+                  <pubid idtype="pmcid">2424064</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18522731</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B11">
+            <title>
+               <p>Dissecting Oct3/4-regulated gene networks in embryonic stem cells by expression profiling</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Matoba</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Niwa</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Masui</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Ohtsuka</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Carter</snm>
+                  <fnm>MG</fnm>
+               </au>
+               <au>
+                  <snm>Sharov</snm>
+                  <fnm>AA</fnm>
+               </au>
+               <au>
+                  <snm>Ko</snm>
+                  <fnm>MS</fnm>
+               </au>
+            </aug>
+            <source>PLoS One</source>
+            <pubdate>2006</pubdate>
+            <volume>1</volume>
+            <fpage>e26</fpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1371/journal.pone.0000026</pubid>
+                  <pubid idtype="pmcid">1762406</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17183653</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B12">
+            <title>
+               <p>Generation of isogenic pluripotent stem cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Byrne</snm>
+                  <fnm>JA</fnm>
+               </au>
+            </aug>
+            <source>Hum Mol Genet</source>
+            <pubdate>2008</pubdate>
+            <volume>17</volume>
+            <fpage>R37</fpage>
+            <lpage>41</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1093/hmg/ddn053</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18632695</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B13">
+            <title>
+               <p>Induction of pluripotent stem cells from mouse embryonic and adult fibroblast cultures by defined factors</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Takahashi</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Yamanaka</snm>
+                  <fnm>S</fnm>
+               </au>
+            </aug>
+            <source>Cell</source>
+            <pubdate>2006</pubdate>
+            <volume>126</volume>
+            <fpage>663</fpage>
+            <lpage>676</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.cell.2006.07.024</pubid>
+                  <pubid idtype="pmpid" link="fulltext">16904174</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B14">
+            <title>
+               <p>Induced pluripotent stem cell lines derived from human somatic cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Yu</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Vodyanik</snm>
+                  <fnm>MA</fnm>
+               </au>
+               <au>
+                  <snm>Smuga-Otto</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Antosiewicz-Bourget</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Frane</snm>
+                  <fnm>JL</fnm>
+               </au>
+               <au>
+                  <snm>Tian</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Nie</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Jonsdottir</snm>
+                  <fnm>GA</fnm>
+               </au>
+               <au>
+                  <snm>Ruotti</snm>
+                  <fnm>V</fnm>
+               </au>
+               <au>
+                  <snm>Stewart</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Slukvin</snm>
+                  <fnm>II</fnm>
+               </au>
+               <au>
+                  <snm>Thomson</snm>
+                  <fnm>JA</fnm>
+               </au>
+            </aug>
+            <source>Science</source>
+            <pubdate>2007</pubdate>
+            <volume>318</volume>
+            <fpage>1917</fpage>
+            <lpage>1920</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1126/science.1151526</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18029452</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B15">
+            <title>
+               <p>Genomic instability and myelodysplasia with monosomy 7 consequent to EVI1 activation after gene therapy for chronic granulomatous disease</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Stein</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Ott</snm>
+                  <fnm>MG</fnm>
+               </au>
+               <au>
+                  <snm>Schultze-Strasser</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Jauch</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Burwinkel</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Kinner</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Schmidt</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Kr&#228;mer</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Schw&#228;ble</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Glimm</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Koehl</snm>
+                  <fnm>U</fnm>
+               </au>
+               <au>
+                  <snm>Preiss</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Ball</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Martin</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>G&#246;hring</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Schwarzwaelder</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Hofmann</snm>
+                  <fnm>WK</fnm>
+               </au>
+               <au>
+                  <snm>Karakaya</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Tchatchou</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Yang</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Reinecke</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>K&#252;hlcke</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Schlegelberger</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Thrasher</snm>
+                  <fnm>AJ</fnm>
+               </au>
+               <au>
+                  <snm>Hoelzer</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Seger</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>von Kalle</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Grez</snm>
+                  <fnm>M</fnm>
+               </au>
+            </aug>
+            <source>Nat Med</source>
+            <pubdate>2010</pubdate>
+            <volume>16</volume>
+            <fpage>198</fpage>
+            <lpage>204</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/nm.2088</pubid>
+                  <pubid idtype="pmpid" link="fulltext">20098431</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B16">
+            <title>
+               <p>Insertional oncogenesis in 4 patients after retrovirus-mediated gene therapy of SCID-X1</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Hacein-Bey-Abina</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Garrigue</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Wang</snm>
+                  <fnm>GP</fnm>
+               </au>
+               <au>
+                  <snm>Soulier</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Lim</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Morillon</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Clappier</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Caccavelli</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Delabesse</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Beldjord</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Asnafi</snm>
+                  <fnm>V</fnm>
+               </au>
+               <au>
+                  <snm>MacIntyre</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Dal Cortivo</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Radford</snm>
+                  <fnm>I</fnm>
+               </au>
+               <au>
+                  <snm>Brousse</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Sigaux</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Moshous</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Hauer</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Borkhardt</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Belohradsky</snm>
+                  <fnm>BH</fnm>
+               </au>
+               <au>
+                  <snm>Wintergerst</snm>
+                  <fnm>U</fnm>
+               </au>
+               <au>
+                  <snm>Velez</snm>
+                  <fnm>MC</fnm>
+               </au>
+               <au>
+                  <snm>Leiva</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Sorensen</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Wulffraat</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Blanche</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Bushman</snm>
+                  <fnm>FD</fnm>
+               </au>
+               <au>
+                  <snm>Fischer</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Cavazzana-Calvo</snm>
+                  <fnm>M</fnm>
+               </au>
+            </aug>
+            <source>J Clin Invest</source>
+            <pubdate>2008</pubdate>
+            <volume>118</volume>
+            <fpage>3132</fpage>
+            <lpage>3142</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1172/JCI35700</pubid>
+                  <pubid idtype="pmcid">2496963</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18688285</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B17">
+            <title>
+               <p>Transfusion independence and HMGA2 activation after gene therapy of human beta-thalassaemia</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Cavazzana-Calvo</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Payen</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Negre</snm>
+                  <fnm>O</fnm>
+               </au>
+               <au>
+                  <snm>Wang</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Hehir</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Fusil</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Down</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Denaro</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Brady</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Westerman</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Cavallesco</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Gillet-Legrand</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Caccavelli</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Sgarra</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Maouche-Chr&#233;tien</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Bernaudin</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Girot</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Dorazio</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Mulder</snm>
+                  <fnm>GJ</fnm>
+               </au>
+               <au>
+                  <snm>Polack</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Bank</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Soulier</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Larghero</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Kabbara</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Dalle</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Gourmel</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Socie</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Chr&#233;tien</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Cartier</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Aubourg</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Fischer</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Cornetta</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Galacteros</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Beuzard</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Gluckman</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Bushman</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Hacein-Bey-Abina</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Leboulch</snm>
+                  <fnm>P</fnm>
+               </au>
+            </aug>
+            <source>Nature</source>
+            <pubdate>2010</pubdate>
+            <volume>467</volume>
+            <fpage>318</fpage>
+            <lpage>322</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/nature09328</pubid>
+                  <pubid idtype="pmcid">3355472</pubid>
+                  <pubid idtype="pmpid" link="fulltext">20844535</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B18">
+            <title>
+               <p>A more efficient method to generate integration-free human iPS cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Okita</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Matsumura</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Sato</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Okada</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Morizane</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Okamoto</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Hong</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Nakagawa</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Tanabe</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Tezuka</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Shibata</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Kunisada</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Takahashi</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Takahashi</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Saji</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Yamanaka</snm>
+                  <fnm>S</fnm>
+               </au>
+            </aug>
+            <source>Nat Methods</source>
+            <pubdate>2011</pubdate>
+            <volume>8</volume>
+            <fpage>409</fpage>
+            <lpage>412</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/nmeth.1591</pubid>
+                  <pubid idtype="pmpid" link="fulltext">21460823</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B19">
+            <title>
+               <p>A nonviral minicircle vector for deriving human iPS cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Jia</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Wilson</snm>
+                  <fnm>KD</fnm>
+               </au>
+               <au>
+                  <snm>Sun</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Gupta</snm>
+                  <fnm>DM</fnm>
+               </au>
+               <au>
+                  <snm>Huang</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Li</snm>
+                  <fnm>Z</fnm>
+               </au>
+               <au>
+                  <snm>Panetta</snm>
+                  <fnm>NJ</fnm>
+               </au>
+               <au>
+                  <snm>Chen</snm>
+                  <fnm>ZY</fnm>
+               </au>
+               <au>
+                  <snm>Robbins</snm>
+                  <fnm>RC</fnm>
+               </au>
+               <au>
+                  <snm>Kay</snm>
+                  <fnm>MA</fnm>
+               </au>
+               <au>
+                  <snm>Longaker</snm>
+                  <fnm>MT</fnm>
+               </au>
+               <au>
+                  <snm>Wu</snm>
+                  <fnm>JC</fnm>
+               </au>
+            </aug>
+            <source>Nat Methods</source>
+            <pubdate>2010</pubdate>
+            <volume>7</volume>
+            <fpage>197</fpage>
+            <lpage>199</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/nmeth.1426</pubid>
+                  <pubid idtype="pmcid">2892897</pubid>
+                  <pubid idtype="pmpid" link="fulltext">20139967</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B20">
+            <title>
+               <p>Generation of human induced pluripotent stem cells by direct delivery of reprogramming proteins</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Kim</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Kim</snm>
+                  <fnm>CH</fnm>
+               </au>
+               <au>
+                  <snm>Moon</snm>
+                  <fnm>JI</fnm>
+               </au>
+               <au>
+                  <snm>Chung</snm>
+                  <fnm>YG</fnm>
+               </au>
+               <au>
+                  <snm>Chang</snm>
+                  <fnm>MY</fnm>
+               </au>
+               <au>
+                  <snm>Han</snm>
+                  <fnm>BS</fnm>
+               </au>
+               <au>
+                  <snm>Ko</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Yang</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Cha</snm>
+                  <fnm>KY</fnm>
+               </au>
+               <au>
+                  <snm>Lanza</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Kim</snm>
+                  <fnm>KS</fnm>
+               </au>
+            </aug>
+            <source>Cell Stem Cell</source>
+            <pubdate>2009</pubdate>
+            <volume>4</volume>
+            <fpage>472</fpage>
+            <lpage>476</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.stem.2009.05.005</pubid>
+                  <pubid idtype="pmcid">2705327</pubid>
+                  <pubid idtype="pmpid" link="fulltext">19481515</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B21">
+            <title>
+               <p>Efficient generation of transgene-free human induced pluripotent stem cells (iPSCs) by temperature-sensitive Sendai virus vectors</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Ban</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Nishishita</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Fusaki</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Tabata</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Saeki</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Shikamura</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Takada</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Inoue</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Hasegawa</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Kawamata</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Nishikawa</snm>
+                  <fnm>S</fnm>
+               </au>
+            </aug>
+            <source>Proc Natl Acad Sci USA</source>
+            <pubdate>2011</pubdate>
+            <volume>108</volume>
+            <fpage>14234</fpage>
+            <lpage>14239</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1073/pnas.1103509108</pubid>
+                  <pubid idtype="pmcid">3161531</pubid>
+                  <pubid idtype="pmpid" link="fulltext">21821793</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B22">
+            <title>
+               <p>Efficient induction of transgene-free human pluripotent stem cells using a vector based on Sendai virus, an RNA virus that does not integrate into the host genome</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Fusaki</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Ban</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Nishiyama</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Saeki</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Hasegawa</snm>
+                  <fnm>M</fnm>
+               </au>
+            </aug>
+            <source>Proc Jpn Acad Ser B Phys Biol Sci</source>
+            <pubdate>2009</pubdate>
+            <volume>85</volume>
+            <fpage>348</fpage>
+            <lpage>362</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.2183/pjab.85.348</pubid>
+                  <pubid idtype="pmpid" link="fulltext">19838014</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B23">
+            <title>
+               <p>Highly efficient reprogramming to pluripotency and directed differentiation of human cells with synthetic modified mRNA</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Warren</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Manos</snm>
+                  <fnm>PD</fnm>
+               </au>
+               <au>
+                  <snm>Ahfeldt</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Loh</snm>
+                  <fnm>YH</fnm>
+               </au>
+               <au>
+                  <snm>Li</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Lau</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Ebina</snm>
+                  <fnm>W</fnm>
+               </au>
+               <au>
+                  <snm>Mandal</snm>
+                  <fnm>PK</fnm>
+               </au>
+               <au>
+                  <snm>Smith</snm>
+                  <fnm>ZD</fnm>
+               </au>
+               <au>
+                  <snm>Meissner</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Daley</snm>
+                  <fnm>GQ</fnm>
+               </au>
+               <au>
+                  <snm>Brack</snm>
+                  <fnm>AS</fnm>
+               </au>
+               <au>
+                  <snm>Collins</snm>
+                  <fnm>JJ</fnm>
+               </au>
+               <au>
+                  <snm>Cowan</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Schlaeger</snm>
+                  <fnm>TM</fnm>
+               </au>
+               <au>
+                  <snm>Rossi</snm>
+                  <fnm>DJ</fnm>
+               </au>
+            </aug>
+            <source>Cell Stem Cell</source>
+            <pubdate>2010</pubdate>
+            <volume>7</volume>
+            <fpage>618</fpage>
+            <lpage>630</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.stem.2010.08.012</pubid>
+                  <pubid idtype="pmpid" link="fulltext">20888316</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B24">
+            <title>
+               <p>Highly efficient miRNA-mediated reprogramming of mouse and human somatic cells to pluripotency</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Anokye-Danso</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Trivedi</snm>
+                  <fnm>CM</fnm>
+               </au>
+               <au>
+                  <snm>Juhr</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Gupta</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Cui</snm>
+                  <fnm>Z</fnm>
+               </au>
+               <au>
+                  <snm>Tian</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Zhang</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Yang</snm>
+                  <fnm>W</fnm>
+               </au>
+               <au>
+                  <snm>Gruber</snm>
+                  <fnm>PJ</fnm>
+               </au>
+               <au>
+                  <snm>Epstein</snm>
+                  <fnm>JA</fnm>
+               </au>
+               <au>
+                  <snm>Morrisey</snm>
+                  <fnm>EE</fnm>
+               </au>
+            </aug>
+            <source>Cell Stem Cell</source>
+            <pubdate>2011</pubdate>
+            <volume>8</volume>
+            <fpage>376</fpage>
+            <lpage>388</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.stem.2011.03.001</pubid>
+                  <pubid idtype="pmcid">3090650</pubid>
+                  <pubid idtype="pmpid" link="fulltext">21474102</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B25">
+            <title>
+               <p>Single transcription factor reprogramming of hair follicle dermal papilla cells to induced pluripotent stem cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Tsai</snm>
+                  <fnm>SY</fnm>
+               </au>
+               <au>
+                  <snm>Bouwman</snm>
+                  <fnm>BA</fnm>
+               </au>
+               <au>
+                  <snm>Ang</snm>
+                  <fnm>YS</fnm>
+               </au>
+               <au>
+                  <snm>Kim</snm>
+                  <fnm>SJ</fnm>
+               </au>
+               <au>
+                  <snm>Lee</snm>
+                  <fnm>DF</fnm>
+               </au>
+               <au>
+                  <snm>Lemischka</snm>
+                  <fnm>IR</fnm>
+               </au>
+               <au>
+                  <snm>Rendl</snm>
+                  <fnm>M</fnm>
+               </au>
+            </aug>
+            <source>Stem Cells</source>
+            <pubdate>2011</pubdate>
+            <volume>29</volume>
+            <fpage>964</fpage>
+            <lpage>971</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1002/stem.649</pubid>
+                  <pubid idtype="pmpid" link="fulltext">21563278</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B26">
+            <title>
+               <p>Enhanced generation of induced pluripotent stem cells from a subpopulation of human fibroblasts</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Byrne</snm>
+                  <fnm>JA</fnm>
+               </au>
+               <au>
+                  <snm>Nguyen</snm>
+                  <fnm>HN</fnm>
+               </au>
+               <au>
+                  <snm>Reijo Pera</snm>
+                  <fnm>RA</fnm>
+               </au>
+            </aug>
+            <source>PLoS One</source>
+            <pubdate>2009</pubdate>
+            <volume>4</volume>
+            <fpage>e7118</fpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1371/journal.pone.0007118</pubid>
+                  <pubid idtype="pmcid">2744017</pubid>
+                  <pubid idtype="pmpid" link="fulltext">19774082</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B27">
+            <title>
+               <p>Human skin cells that express stage-specific embryonic antigen 3 associate with dermal tissue regeneration</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Vega Crespo</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Awe</snm>
+                  <fnm>JP</fnm>
+               </au>
+               <au>
+                  <snm>Pera</snm>
+                  <fnm>RR</fnm>
+               </au>
+               <au>
+                  <snm>Byrne</snm>
+                  <fnm>JA</fnm>
+               </au>
+            </aug>
+            <source>BioResearch Open Access</source>
+            <pubdate>2012</pubdate>
+            <volume>1</volume>
+            <fpage>25</fpage>
+            <lpage>33</lpage>
+         </bibl>
+         <bibl id="B28">
+            <title>
+               <p>GeneSifter Microarray Analysis</p>
+            </title>
+            <url>http://www.geospiza.com</url>
+         </bibl>
+         <bibl id="B29">
+            <title>
+               <p>Gene Expression Omnibus Genomics Data Repository</p>
+            </title>
+            <url>http://ncbi.nlm.nih.gov/geo</url>
+         </bibl>
+         <bibl id="B30">
+            <title>
+               <p>Toll-like receptors</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Takeda</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Kaisho</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Akira</snm>
+                  <fnm>S</fnm>
+               </au>
+            </aug>
+            <source>Annu Rev Immunol</source>
+            <pubdate>2003</pubdate>
+            <volume>21</volume>
+            <fpage>335</fpage>
+            <lpage>376</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1146/annurev.immunol.21.120601.141126</pubid>
+                  <pubid idtype="pmpid" link="fulltext">12524386</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B31">
+            <title>
+               <p>Use of the pharmacological inhibitor BX795 to study the regulation and physiological roles of TBK1 and IkappaB kinase epsilon: a distinct upstream kinase mediates Ser-172 phosphorylation and activation</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Clark</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Plater</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Peggie</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Cohen</snm>
+                  <fnm>P</fnm>
+               </au>
+            </aug>
+            <source>J Biol Chem</source>
+            <pubdate>2009</pubdate>
+            <volume>284</volume>
+            <fpage>14136</fpage>
+            <lpage>14146</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1074/jbc.M109.000414</pubid>
+                  <pubid idtype="pmcid">2682862</pubid>
+                  <pubid idtype="pmpid" link="fulltext">19307177</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B32">
+            <title>
+               <p>Intracellular toll-like receptors</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Blasius</snm>
+                  <fnm>AL</fnm>
+               </au>
+               <au>
+                  <snm>Beutler</snm>
+                  <fnm>B</fnm>
+               </au>
+            </aug>
+            <source>Immunity</source>
+            <pubdate>2010</pubdate>
+            <volume>32</volume>
+            <fpage>305</fpage>
+            <lpage>315</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.immuni.2010.03.012</pubid>
+                  <pubid idtype="pmpid" link="fulltext">20346772</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B33">
+            <title>
+               <p>Innate immune responses in human monocyte-derived dendritic cells are highly dependent on the size and the 5' phosphorylation of RNA molecules</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Jiang</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Osterlund</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Sarin</snm>
+                  <fnm>LP</fnm>
+               </au>
+               <au>
+                  <snm>Poranen</snm>
+                  <fnm>MM</fnm>
+               </au>
+               <au>
+                  <snm>Bamford</snm>
+                  <fnm>DH</fnm>
+               </au>
+               <au>
+                  <snm>Guo</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Julkunen</snm>
+                  <fnm>I</fnm>
+               </au>
+            </aug>
+            <source>J Immunol</source>
+            <pubdate>2011</pubdate>
+            <volume>187</volume>
+            <fpage>1713</fpage>
+            <lpage>1721</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.4049/jimmunol.1100361</pubid>
+                  <pubid idtype="pmpid" link="fulltext">21742966</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B34">
+            <title>
+               <p>Antiviral signaling through pattern recognition receptors</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Kawai</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Akira</snm>
+                  <fnm>S</fnm>
+               </au>
+            </aug>
+            <source>J Biochem</source>
+            <pubdate>2007</pubdate>
+            <volume>141</volume>
+            <fpage>137</fpage>
+            <lpage>145</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid" link="fulltext">17190786</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B35">
+            <title>
+               <p>Innate antiviral responses by means of TLR7-mediated recognition of single-stranded RNA</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Diebold</snm>
+                  <fnm>SS</fnm>
+               </au>
+               <au>
+                  <snm>Kaisho</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Hemmi</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Akira</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Reis e Sousa</snm>
+                  <fnm>C</fnm>
+               </au>
+            </aug>
+            <source>Science</source>
+            <pubdate>2004</pubdate>
+            <volume>303</volume>
+            <fpage>1529</fpage>
+            <lpage>1531</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1126/science.1093616</pubid>
+                  <pubid idtype="pmpid" link="fulltext">14976261</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B36">
+            <title>
+               <p>Signaling to NF-kappaB by Toll-like receptors</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Kawai</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Akira</snm>
+                  <fnm>S</fnm>
+               </au>
+            </aug>
+            <source>Trends Mol Med</source>
+            <pubdate>2007</pubdate>
+            <volume>13</volume>
+            <fpage>460</fpage>
+            <lpage>469</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.molmed.2007.09.002</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18029230</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B37">
+            <title>
+               <p>Novel inhibitors of cytokine-induced IkappaBalpha phosphorylation and endothelial cell adhesion molecule expression show anti-inflammatory effects in vivo</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Pierce</snm>
+                  <fnm>JW</fnm>
+               </au>
+               <au>
+                  <snm>Schoenleber</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Jesmok</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Best</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Moore</snm>
+                  <fnm>SA</fnm>
+               </au>
+               <au>
+                  <snm>Collins</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Gerritsen</snm>
+                  <fnm>ME</fnm>
+               </au>
+            </aug>
+            <source>J Biol Chem</source>
+            <pubdate>1997</pubdate>
+            <volume>272</volume>
+            <fpage>21096</fpage>
+            <lpage>21103</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1074/jbc.272.34.21096</pubid>
+                  <pubid idtype="pmpid" link="fulltext">9261113</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B38">
+            <title>
+               <p>Inhibitor of IkappaB kinase activity, BAY 11-7082, interferes with interferon regulatory factor 7 nuclear translocation and type I interferon production by plasmacytoid dendritic cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Miyamoto</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Ito</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Nomura</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Amakawa</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Amuro</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Katashiba</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Ogata</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Murakami</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Shimamoto</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Yamazaki</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Hoshino</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Kaisho</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Fukuhara</snm>
+                  <fnm>S</fnm>
+               </au>
+            </aug>
+            <source>Arthritis Res Ther</source>
+            <pubdate>2010</pubdate>
+            <volume>12</volume>
+            <fpage>R87</fpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1186/ar3014</pubid>
+                  <pubid idtype="pmcid">2911871</pubid>
+                  <pubid idtype="pmpid" link="fulltext">20470398</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B39">
+            <title>
+               <p>5'-Triphosphate RNA is the ligand for RIG-I</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Hornung</snm>
+                  <fnm>V</fnm>
+               </au>
+               <au>
+                  <snm>Ellegast</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Kim</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Brz&#243;zka</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Jung</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Kato</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Poeck</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Akira</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Conzelmann</snm>
+                  <fnm>KK</fnm>
+               </au>
+               <au>
+                  <snm>Schlee</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Endres</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Hartmann</snm>
+                  <fnm>G</fnm>
+               </au>
+            </aug>
+            <source>Science</source>
+            <pubdate>2006</pubdate>
+            <volume>314</volume>
+            <fpage>994</fpage>
+            <lpage>997</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1126/science.1132505</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17038590</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B40">
+            <title>
+               <p>Deletion of the dual specific phosphatase-4 (DUSP-4) gene reveals an essential non-redundant role for MAP kinase phosphatase-2 (MKP-2) in proliferation and cell survival</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Lawan</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Al-Harthi</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Cadalbert</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>McCluskey</snm>
+                  <fnm>AG</fnm>
+               </au>
+               <au>
+                  <snm>Shweash</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Grassia</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Grant</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Boyd</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Currie</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Plevin</snm>
+                  <fnm>R</fnm>
+               </au>
+            </aug>
+            <source>J Biol Chem</source>
+            <pubdate>2011</pubdate>
+            <volume>286</volume>
+            <fpage>12933</fpage>
+            <lpage>12943</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1074/jbc.M110.181370</pubid>
+                  <pubid idtype="pmcid">3075640</pubid>
+                  <pubid idtype="pmpid" link="fulltext">21317287</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B41">
+            <title>
+               <p>The low-affinity monocarboxylate transporter MCT4 is adapted to the export of lactate in highly glycolytic cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Dimmer</snm>
+                  <fnm>KS</fnm>
+               </au>
+               <au>
+                  <snm>Friedrich</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Lang</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Deitmer</snm>
+                  <fnm>JW</fnm>
+               </au>
+               <au>
+                  <snm>Br&#246;er</snm>
+                  <fnm>S</fnm>
+               </au>
+            </aug>
+            <source>Biochem J</source>
+            <pubdate>2000</pubdate>
+            <volume>350</volume>
+            <fpage>219</fpage>
+            <lpage>227</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1042/0264-6021:3500219</pubid>
+                  <pubid idtype="pmcid">1221245</pubid>
+                  <pubid idtype="pmpid" link="fulltext">10926847</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B42">
+            <title>
+               <p>Regulation of monocarboxylate transporter MCT1 expression by p53 mediates inward and outward lactate fluxes in tumors</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Boidot</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>V&#233;gran</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Meulle</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Le Breton</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Dessy</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Sonveaux</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Lizard-Nacol</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Feron</snm>
+                  <fnm>O</fnm>
+               </au>
+            </aug>
+            <source>Cancer Res</source>
+            <pubdate>2012</pubdate>
+            <volume>72</volume>
+            <fpage>939</fpage>
+            <lpage>948</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1158/0008-5472.CAN-11-2474</pubid>
+                  <pubid idtype="pmpid" link="fulltext">22184616</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B43">
+            <title>
+               <p>Sodium butyrate-treated embryonic stem cells yield hepatocyte-like cells expressing a glycolytic phenotype</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Sharma</snm>
+                  <fnm>NS</fnm>
+               </au>
+               <au>
+                  <snm>Shikhanovich</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Schloss</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Yarmush</snm>
+                  <fnm>ML</fnm>
+               </au>
+            </aug>
+            <source>Biotechnol Bioeng</source>
+            <pubdate>2006</pubdate>
+            <volume>94</volume>
+            <fpage>1053</fpage>
+            <lpage>1063</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1002/bit.20936</pubid>
+                  <pubid idtype="pmpid" link="fulltext">16604521</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B44">
+            <title>
+               <p>Hyaluronan, CD44, and emmprin regulate lactate efflux and membrane localization of monocarboxylate transporters in human breast carcinoma cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Slomiany</snm>
+                  <fnm>MG</fnm>
+               </au>
+               <au>
+                  <snm>Grass</snm>
+                  <fnm>GD</fnm>
+               </au>
+               <au>
+                  <snm>Robertson</snm>
+                  <fnm>AD</fnm>
+               </au>
+               <au>
+                  <snm>Yang</snm>
+                  <fnm>XY</fnm>
+               </au>
+               <au>
+                  <snm>Maria</snm>
+                  <fnm>BL</fnm>
+               </au>
+               <au>
+                  <snm>Beeson</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Toole</snm>
+                  <fnm>BP</fnm>
+               </au>
+            </aug>
+            <source>Cancer Res</source>
+            <pubdate>2009</pubdate>
+            <volume>69</volume>
+            <fpage>1293</fpage>
+            <lpage>1301</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1158/0008-5472.CAN-08-2491</pubid>
+                  <pubid idtype="pmpid" link="fulltext">19176383</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B45">
+            <title>
+               <p>The cytotoxic and immunogenic hurdles associated with non-viral mRNA-mediated reprogramming of human fibroblasts</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Drews</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Tavernier</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Demeester</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Lehrach</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>De Smedt</snm>
+                  <fnm>SC</fnm>
+               </au>
+               <au>
+                  <snm>Rejman</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Adjaye</snm>
+                  <fnm>J</fnm>
+               </au>
+            </aug>
+            <source>Biomaterials</source>
+            <pubdate>2012</pubdate>
+            <volume>33</volume>
+            <fpage>4059</fpage>
+            <lpage>4068</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.biomaterials.2012.02.025</pubid>
+                  <pubid idtype="pmpid" link="fulltext">22381475</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+      </refgrp>
+   </bm>
+</art>

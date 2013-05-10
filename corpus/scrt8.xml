@@ -1,0 +1,1845 @@
+<!DOCTYPE art SYSTEM "article.dtd">
+<art>
+   <ui>scrt8</ui>
+   <ji>1757-6512</ji>
+   <fm>
+      <dochead>Research</dochead>
+      <bibl>
+         <title>
+            <p>A novel serum-free medium for the expansion of human mesenchymal stem cells</p>
+         </title>
+         <aug>
+            <au ca="yes" id="A1">
+               <snm>Chase</snm>
+               <mi>G</mi>
+               <fnm>Lucas</fnm>
+               <insr iid="I1"/>
+               <email>lucas.chase@lifetech.com</email>
+            </au>
+            <au id="A2">
+               <snm>Lakshmipathy</snm>
+               <fnm>Uma</fnm>
+               <insr iid="I2"/>
+               <email>uma.lakshmipathy@lifetech.com</email>
+            </au>
+            <au id="A3">
+               <snm>Solchaga</snm>
+               <mi>A</mi>
+               <fnm>Luis</fnm>
+               <insr iid="I3"/>
+               <email>lsolchaga@biomimetics.com</email>
+            </au>
+            <au id="A4">
+               <snm>Rao</snm>
+               <mi>S</mi>
+               <fnm>Mahendra</fnm>
+               <insr iid="I4"/>
+               <email>mahendra.rao@lifetech.com</email>
+            </au>
+            <au id="A5">
+               <snm>Vemuri</snm>
+               <mi>C</mi>
+               <fnm>Mohan</fnm>
+               <insr iid="I4"/>
+               <email>mohan.vemuri@lifetech.com</email>
+            </au>
+         </aug>
+         <insg>
+            <ins id="I1">
+               <p>Primary and Stem Cell Systems, Life Technologies, 501 Charmany Drive, Madison, WI 53719, USA</p>
+            </ins>
+            <ins id="I2">
+               <p>Primary and Stem Cell Systems, 5781 Van Allen Way, Carlsbad, CA 92008, USA</p>
+            </ins>
+            <ins id="I3">
+               <p>Department of General Medical Sciences, Division of Hematology and Oncology, Case Western Reserve University, 2103 Cornell Road, Cleveland, OH 44106, USA</p>
+            </ins>
+            <ins id="I4">
+               <p>Primary and Stem Cell Systems, Life Technologies, 7335 Executive Way, Frederick, MD 21704, USA</p>
+            </ins>
+         </insg>
+         <source>Stem Cell Research &amp; Therapy</source>
+         <issn>1757-6512</issn>
+         <pubdate>2010</pubdate>
+         <volume>1</volume>
+         <issue>1</issue>
+         <fpage>8</fpage>
+         <url>http://stemcellres.com/content/1/1/8</url>
+         <xrefbib>
+            <pubid idtype="doi">10.1186/scrt8</pubid>
+         </xrefbib>
+      </bibl>
+      <history>
+         <rec>
+            <date>
+               <day>21</day>
+               <month>7</month>
+               <year>2009</year>
+            </date>
+         </rec>
+         <acc>
+            <date>
+               <day>2</day>
+               <month>4</month>
+               <year>2010</year>
+            </date>
+         </acc>
+         <pub>
+            <date>
+               <day>2</day>
+               <month>4</month>
+               <year>2010</year>
+            </date>
+         </pub>
+      </history>
+      <cpyrt>
+         <year>2010</year>
+         <collab>Chase et al.; licensee BioMed Central Ltd.</collab>
+         <note>This is an open access article distributed under the terms of the Creative Commons Attribution License (<url>http://creativecommons.org/licenses/by/2.0</url>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</note>
+      </cpyrt>
+      <abs>
+         <sec>
+            <st>
+               <p>Abstract</p>
+            </st>
+            <sec>
+               <st>
+                  <p>Introduction</p>
+               </st>
+               <p>Human multipotent mesenchymal stem cell (MSC) therapies are being tested clinically for a variety of disorders, including Crohn's disease, multiple sclerosis, graft-<it>versus</it>-host disease, type 1 diabetes, bone fractures, and cartilage defects. However, despite the remarkable clinical advancements in this field, most applications still use traditional culture media containing fetal bovine serum. The ill-defined and highly variable nature of traditional culture media remains a challenge, hampering both the basic and clinical human MSC research fields. To date, no reliable serum-free medium for human MSCs has been available.</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>Methods</p>
+               </st>
+               <p>In this study, we developed and tested a serum-free growth medium on human bone marrow-derived MSCs through the investigation of multiple parameters including primary cell isolation, multipassage expansion, mesoderm differentiation, cellular phenotype, and gene-expression analysis.</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>Results</p>
+               </st>
+               <p>Similar to that achieved with traditional culture medium, human MSCs expanded in serum-free medium supplemented with recombinant human platelet-derived growth factor-BB (PDGF-BB), basic fibroblast growth factor (bFGF), and transforming growth factor (TGF)-&#946;1 showed extensive propagation with retained phenotypic, differentiation, and colony-forming unit potential. To monitor global gene expression, the transcriptomes of bone marrow-derived MSCs expanded under serum-free and serum-containing conditions were compared, revealing similar expression profiles. In addition, the described serum-free culture medium supported the isolation of human MSCs from primary human marrow aspirate with continual propagation.</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>Conclusions</p>
+               </st>
+               <p>Although the described serum-free MSC culture medium is not free of xenogeneic components, this medium provides a substitute for serum-containing medium for research applications, setting the stage for future clinical applications.</p>
+            </sec>
+         </sec>
+      </abs>
+   </fm>
+   <bdy>
+      <sec>
+         <st>
+            <p>Introduction</p>
+         </st>
+         <p>The human bone marrow contains a distinct stromal cell fraction referred to as multipotent mesenchymal stem (stromal) cells or MSCs <abbrgrp><abbr bid="B1">1</abbr></abbrgrp>. Although the stromal fraction of bone marrow was originally considered to be merely a structural supportive framework for the hematopoietic system, numerous studies have now shown that MSCs can give rise to a wide array of mesenchymal cell types, including bone, fat, and cartilage <abbrgrp><abbr bid="B1">1</abbr></abbrgrp>. Since the first published report by Friedenstein and colleagues <abbrgrp><abbr bid="B2">2</abbr></abbrgrp> describing the expansion of an adherent, spindle-shaped population of cells from whole human bone marrow, MSC or MSC-like cells have also been expanded from numerous other compartments, including skeletal muscle, adipose tissue, umbilical cord, synovium, dental pulp, amniotic fluid, human embryonic stem cells, and numerous other sources <abbrgrp><abbr bid="B3">3</abbr><abbr bid="B4">4</abbr></abbrgrp>. Although much focus has been placed on the use of MSCs for cell-based therapies <abbrgrp><abbr bid="B5">5</abbr></abbrgrp>, more recently, a great deal of attention has been given to the use of MSCs for paracrine support and immune modulation, including the prevention of graft-<it>versus</it>-host disease <abbrgrp><abbr bid="B6">6</abbr><abbr bid="B7">7</abbr><abbr bid="B8">8</abbr></abbrgrp>.</p>
+         <p>As it has been estimated that human MSCs comprise a mere 0.001 to 0.01% of total bone marrow mononuclear cells <abbrgrp><abbr bid="B9">9</abbr></abbrgrp>, this population requires extensive <it>in vitro </it>cell-culture expansion to obtain sufficient numbers for basic biologic or clinical applications. Historically, MSC culture medium has comprised a basal culture medium (i.e. Dulbecco's Modified Eagle's Medium or Minimum Essential Medium alpha) supplemented with fetal bovine serum (FBS) with or without additional growth factors (i.e. bFGF). Although these traditional formulations provide robust undifferentiated MSC expansion, the ill-defined nature of FBS is undesirable for downstream research and therapeutic applications and provides inconsistent lot-to-lot performance. To overcome the inconsistent performance associated with FBS, commercial vendors and researchers alike have implemented quality-control measures in which individual lots of FBS are prescreened for performance, a costly and time-consuming activity. In addition, the variability associated with FBS results in an overall inconsistent reagent and thereby introduces variability between experimental results, making data comparisons (i.e. cellular differentiation, genomics, and proteomics) more difficult. To circumvent this issue, a robust serum-free MSC culture medium has become absolutely necessary. We describe here a more-defined, serum-free MSC culture medium that can support the robust expansion of undifferentiated human MSCs. Characterization of this serum-free expanded MSC population reveals a similar phenotype and expression profile compared with cells expanded in traditional serum-containing medium, while maintaining the defining growth and differentiation characteristics of human MSCs. In addition, it is revealed that PDGF-BB, bFGF, and TGF-&#946;1, three growth factors we have previously shown to support the expansion of undifferentiated human MSCs <abbrgrp><abbr bid="B10">10</abbr></abbrgrp>, support human MSC expansion in a synergistic manner in this serum-free formulation. Although the described serum-free MSC culture medium is not free of xenogeneic components, this work sets the stage for serum-free MSC cell culture and thereby provides a necessary research tool for the basic biologic understanding of human MSCs cultured under serum-free conditions.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Materials and methods</p>
+         </st>
+         <sec>
+            <st>
+               <p>Human bone marrow MSC donor pool generation</p>
+            </st>
+            <p>To generate a passage 4, four-donor pool, human MSCs were obtained from two sources: (a) cryopreserved human MSCs or (b) human MSCs isolated from primary unprocessed human marrow (both from Lonza, Walkersville, MD). From each condition, MSCs were expanded in a serum-containing growth medium (SCM) consisting of low-glucose DMEM supplemented with 10% MSC-Qualified Fetal Bovine Serum (FBS), 2 mmol/L <smcaps>L</smcaps>-glutamine, and 5 &#956;g/ml gentamicin (all from Invitrogen, Carlsbad, CA) to passage 4, where equal numbers of MSCs from each donor were combined into a single MSC donor pool and cryopreserved at 1.0 &#215; 10<sup>6 </sup>cells/ml (0.5 ml/vial) in complete SCM supplemented with 10% DMSO (Sigma-Aldrich, St. Louis, MO).</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Human bone marrow-derived MSC recovery and expansion</p>
+            </st>
+            <p>To recover pooled passage 4 human MSCs, each vial (5 &#215; 10<sup>5 </sup>cells) was retrieved from liquid nitrogen and was quickly thawed and added to a 50-ml conical tube. To the recovered cell suspension, 10 ml of SCM was added by drops (~5 drops/10 seconds with mixing) and placed directly into T225 culture flasks (BD Biosciences, Franklin Lakes, NJ) containing 30 ml of equilibrated SCM. Assuming ~ 90% cell recovery, the estimated postthaw seed density was ~2 &#215; 10<sup>3 </sup>cells/cm<sup>2</sup>. After 24 hours, complete culture medium was changed to remove residual DMSO and thereafter changed every 2 to 3 days until 70-90% confluence was attained. To test the ability of serum-free medium (SFM; StemPro<sup>&#174; </sup>MSC SFM, Invitrogen) or SCM to support the expansion of human MSCs, recovered four-donor pooled human MSCs (passage 5 total) were harvested by using TrypLE&#8482; Express (Invitrogen) and seeded at 3,000 cells/cm<sup>2 </sup>(SCM) or 10,000 cells/cm<sup>2 </sup>(SFM) in triplicate wells of six-well plates (BD Biosciences). Throughout the duration of the cultures, individual wells remained separate and were propagated individually. For SFM conditions, culture vessels were coated with the defined, xenogeneic-free substrate CELLstart&#8482; (1:100 dilution) or human plasma fibronectin (5 &#956;g/cm<sup>2</sup>) (both from Invitrogen). On reaching ~70-90% confluence, all human MSC cultures were harvested by using TrypLE&#8482; Express (Invitrogen), counted by using a Coulter Counter (Beckman-Coulter, Fullerton, CA), and reseeded at the same seeding density through the duration of the study.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Primary human bone marrow-derived MSC isolation</p>
+            </st>
+            <p>Fresh unprocessed human bone marrow aspirate (Lonza) was obtained, and purified mononuclear cells were obtained by using a Histopaque-1077 density gradient (Sigma). To study the support of primary MSC expansion, 2.0 &#215; 10<sup>7 </sup>mononuclear cells were seeded into a T75 culture flask coated with 5 &#956;g/cm<sup>2 </sup>human plasma fibronectin (Invitrogen). After 3 days, complete medium was changed, and thereafter, changed every 2 to 3 days. After 8 days in culture, cells were harvested and propagated as described earlier.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Cell-proliferation assay</p>
+            </st>
+            <p>To optimize growth-factor requirements in SFM, cryopreserved four-donor pooled human MSCs recovered in SCM were harvested and seeded into 96-well black-wall tissue culture-treated plates (Corning Incorporated, Corning, NY) at 3,000 cells/cm<sup>2 </sup>in SCM or growth factor-deficient SFM supplemented with various combinations of the recombinant human growth factors PDGF-BB, bFGF, and TGF-&#946;1 (all from Invitrogen). After 4 days in culture, cell proliferation was measured by using the CyQUANT<sup>&#174; </sup>NF Cell Proliferation Assay (Invitrogen) by using a Gemini EM microplate spectrofluorometer (Molecular Devices, Sunnyvale, CA).</p>
+         </sec>
+         <sec>
+            <st>
+               <p>MSC differentiation and staining assays</p>
+            </st>
+            <p>Recovered passage 4 bone marrow MSCs from the four-donor pool (passage 5 total) were expanded in SFM (eight passages; passage 13 in total) and seeded into StemPro<sup>&#174; </sup>Osteogenesis, Adipogenesis or Chondrogenesis Differentiation medium (Invitrogen) in 12-well plates as per the manufacturers protocol. During differentiation, complete medium changes were made every 3 to 4 days. After 14 days, cultures were monitored for differentiation by using lineage-specific biologic stains. To monitor adipogenic differentiation, cultures were stained with Oil Red O (Sigma) (0.5% Oil Red O solution in 60% isopropanol), washed with distilled water, and visualized. For chondrogenic differentiation, micromass pellet cultures were fixed with 4% formaldehyde and stained with 1% Alcian Blue (Sigma). After staining, cultures were washed with 0.1N HCl and visualized. For osteogenesis, staining was performed by using the Leukocyte Alkaline Phosphatase Kit (Sigma), as per the manufacturer's protocol. In addition, to perform histologic staining on sectioned micromass pellet cultures, single-donor passage 1 bone marrow MSCs (isolated under standard SCM conditions) were propagated for three additional passages in SCM or SFM and were resuspended at 1.25 &#215; 10<sup>6 </sup>cells/ml in chondrogenic medium composed of high-glucose DMEM (Invitrogen) supplemented with 1% ITS+Premix (BD Biosciences), 100 &#956;mol/L ascorbate-2-phosphate (WAKO, Richmond, VA), 10<sup>-7 </sup>mol/L dexamethasone (Sigma), and 10 ng/ml TGF&#946;1 (Peprotech, Rocky Hill, NJ). To create chondrogenic micromass pellets, 2.5 &#215; 10<sup>5 </sup>cells from this cell solution were placed in 96-well polypropylene plates (Phenix, Hayward, CA), centrifuged at 500 &#215; <it>g</it>, and placed in an incubator at 37&#176;C, 95% air, and 5% CO<sub>2</sub>. Medium changes were made 3 times per week, and on day 21 of differentiation, cell pellets were harvested, fixed with 10% neutral-buffered formalin, paraffin-embedded, sectioned, and processed for histologic evaluation by staining with Toluidine blue.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Flow cytometry</p>
+            </st>
+            <p>Passage 3 human MSCs expanded in SCM or SFM were harvested by using TrypLE&#8482; Express and washed with DPBS (without Ca<sup>2+</sup>/Mg<sup>2+</sup>) supplemented with 5% FBS and stained with the following antibodies: CD11b (unconjugated, clone VIM12), CD34-APC (clone 581), CD45-AF405 (clone HI30), CD44-PE (clone MEM-85), CD105-APC (clone SN6), (all from Invitrogen); CD90 (clone 5E10), CD73-PE (clone AD2), (both from BD Biosciences); and where unconjugated primary antibodies were used, AlexaFluor<sup>&#174; </sup>488 anti-mouse (Invitrogen). To set background fluorescence levels, unstained and/or matched isotype controls were used.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Colony-forming unit-fibroblast assay</p>
+            </st>
+            <p>MSC cultures (SFM and SCM) were harvested by using TrypLE&#8482; Express, and the total cell number was determined by using a Coulter Counter. Harvested cells were reseeded into 5 &#215; 100-mm tissue culture dishes (BD Biosciences) at 150 cells/dish (in SCM without subsequent medium changes). After 14 days, cultures were washed with DPBS and stained with 0.5% Crystal Violet (Sigma) in methanol for 5 to 10 minutes at room temperature. After staining, dishes were again washed with DPBS, allowed to dry, and colonies (those greater than 50 cells) were counted by using a dissecting microscope. Data were reported as total colony number per dish (per 150 cells). Standard deviation (SD) was calculated.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>RNA Isolation and qRT-PCR</p>
+            </st>
+            <p>To measure gene expression of selected surface antigens or other MSC markers, passage 4 human MSC cell pellets (single biologic replicate, triplicate technical replicates) were collected, and RNA was isolated by using the PureLink Micro-to-Midi Total RNA Purification Kit, and total RNA was DNase I-treated off-the-column, as per manufacturer's protocol. To generate cDNA and run real-time quantitative PCR (qRT-PCR), the SuperScript III Platinum SYBR Green Two-Step qRT-PCR Kit was used. qRT-PCR analysis was completed by using technical duplicates. The following primer sets were used:</p>
+            <p>CD73 - F:CGCAACAATGGCACAATTAC, R:CAGGTTTTCGGGAAAGATCA;</p>
+            <p>CD90 - F:TCGCTCTCCTGCTAACAGTCT, R:CTCGTACTGGATGGGTGAACT;</p>
+            <p>CD105 - F:CACTAGCCAGGTCTCGAAGG, R:CTGAGGACCAGAAGCACCTC;</p>
+            <p>NESTIN - F:ACCTCAAGATGTCCCTCAGC, R:TGGGAGCAAAGATCCAAGAC (all reagents for RNA isolation and qRT-PCR were from Invitrogen).</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Illumina microarray gene-expression analysis</p>
+            </st>
+            <p>Genome-wide expression profiles of human bone marrow-derived MSCs grown in SFM and SCM were obtained by using Illumina Bead Arrays. Total RNA was extracted using TRIzol and further purified of contaminating genomic DNA by using DNA-free (Ambion/Applied Biosystems, Foster City, CA) for 30 minutes at 37&#176;C. RNA was precipitated and quantified spectrophotometrically, and its purity was assessed by gel electrophoresis. Sample amplification and biotinylated cRNA was prepared and generated from total RNA by using the Illumina total Prep kit (Ambion) according to the manufacturer's protocol. Array hybridization to the Sentrix Chip Array (Human WG-6) and processing procedures were performed according to protocols provided by the manufacturer (Illumina, San Diego, CA). Array data were processed and analyzed by using Illumina BeadStudio software.</p>
+         </sec>
+      </sec>
+      <sec>
+         <st>
+            <p>Results</p>
+         </st>
+         <p>The developed serum-free supplement consisted of a blend of essential amino acids, inorganic salts, and other components, along with an optimized mix of the recombinant human growth factors PDGF-BB, bFGF, and TGF-&#946;1. This blend was formulated based on the effect of each individual growth factor or combination of factors on human MSC proliferation. Although supplementation of certain individual factors or combinations of two factors provided enhanced expansion compared with a growth factor-deficient serum-free medium (SFM) or 10% fetal bovine serum-containing medium (SCM) (Figure <figr fid="F1">1a</figr>), it was the combination of all three growth factors together that provided a robust synergistic effect on human MSC proliferation. It is noteworthy that along with cell proliferation, a drastic change in cell morphology was observed in the presence of all three growth factors. Whereas growth factor-stimulated cells expanded in SFM displayed a small, spindle-shaped morphology, cells grown in SCM exhibited a more flattened, characteristic fibroblast-like morphology (Figure <figr fid="F1">1b</figr>). In addition, cells continually propagated in SFM tended to grow in distinct bundles of cells, as compared with cells in SCM, which grew as a more-flattened, uniform monolayer of cells. To test the ability of the optimized SFM to support continual propagation of multipotent MSCs, cryopreserved human bone marrow-derived MSCs from a passage 4, four-donor pool were used as an initial starting population. From this pool, cells were recovered in SCM and transitioned directly to SFM on CELLstart&#8482; or human plasma fibronectin-coated vessels. Cells cultured in SFM without the presence of a substrate on tissue culture-treated flasks were unable to achieve sufficient initial adherence after seeding and did not proliferate in culture (data not shown). From this point, human MSCs were expanded in the SFM for eight continual passages (48 days; passage 13 total) (Figure <figr fid="F1">1c</figr>), after which cultures slowed and were therefore terminated. It is noteworthy that cells expanded in this SFM required a higher cell-seeding density (~1 &#215; 10<sup>4 </sup>cells/cm<sup>2</sup>) compared with that historically recommended for traditional SCM cultures <abbrgrp><abbr bid="B11">11</abbr></abbrgrp>. As cells grown in SCM reached confluence at a lower density, the resultant optimal passaging frequency of cells seeded at the same density differed between SCM and SFM cultures and made a direct side-by-side comparison more difficult. To achieve such a side-by-side comparison, cells in SCM were seeded at a lower seeding density (~3 &#215; 10<sup>3 </sup>cells/cm<sup>2</sup>), and net population doubling was used as a measure to compare the culture systems. To test the multipotentiality of human marrow-derived MSCs expanded in SFM, a traditional trilineage mesoderm differentiation protocol was used. As shown in Figure <figr fid="F2">2a</figr>, human bone marrow-derived MSCs grown for eight passages in SFM retained the ability to differentiate into adipocytes, chondrocytes, and osteoblasts, as shown by Oil Red O, Alcian blue, and alkaline phosphatase staining, respectively. In addition, human bone marrow-derived MSCs expanded in SFM from a single donor, passage 1 bank revealed robust chondrogenesis after three passages in SFM, as shown by dark purple staining and the distinct morphologic presence of chondrocytes in micromass pellet cultures (Figure <figr fid="F2">2b</figr>). To explore the ability of SFM to support primary human bone marrow-derived MSC culture, fresh bone marrow mononuclear cells isolated by using a standard density-gradient centrifugation protocol were seeded into SFM and SCM. As shown in Figure <figr fid="F3">3b</figr>, after 8 days, primary MSCs (passage 0) in SFM displayed a distinct spindle-shaped morphology. In addition, MSCs isolated under serum-free conditions showed continued expansion potential with retained trilineage mesoderm differentiation potential (Figure <figr fid="F3">3a</figr> and <figr fid="F3">3b</figr>).</p>
+         <fig id="F1">
+            <title>
+               <p>Figure 1</p>
+            </title>
+            <caption>
+               <p>Optimization of a serum-free growth medium</p>
+            </caption>
+            <text>
+               <p><b>Optimization of a serum-free growth medium</b>. <b>(a) </b>Fluorescence-based quantification of human MSC proliferation in deficient serum-free medium (SFM) supplemented with various combinations of recombinant human growth factors or in serum-containing medium (SCM) by using the CyQUANT NF Cell Proliferation Assay. D, growth factor-deficient SFM; P, SFM supplemented with recombinant human PDGF-BB; B, SFM supplemented with recombinant human bFGF; T, SFM supplemented with recombinant human TGF-&#946;1. <b>(b) </b>Morphology of passage 4 human MSCs expanded in (a) SCM and (b) SFM. Magnification, 10&#215; objective. <b>(c) </b>Recovered four-donor pooled human MSCs (passage 5) expanded under optimized conditions for eight additional passages (48 days) in SFM or SCM.</p>
+            </text>
+            <graphic file="scrt8-1" hint_layout="double"/>
+         </fig>
+         <fig id="F2">
+            <title>
+               <p>Figure 2</p>
+            </title>
+            <caption>
+               <p>Differentiation capacity of serum-free expanded human MSCs</p>
+            </caption>
+            <text>
+               <p><b>Differentiation capacity of serum-free expanded human MSCs</b>. <b>(a) </b>Day 14 differentiation cultures from cells expanded for eight additional passages in SFM revealed trilineage mesoderm differentiation, as shown by positive (a) Oil Red O staining for adipocytes, (b) Alcian blue staining for chondrocytes, and (c) alkaline phosphatase staining for osteoblasts. (a, c) 10&#215;, (b) 20&#215; objective. <b>(b) </b>Toluidine blue staining of day 21 chondrogenic micromass-differentiation cultures after three passages in (a) serum-free medium or (b) serum-containing medium.</p>
+            </text>
+            <graphic file="scrt8-2" hint_layout="double"/>
+         </fig>
+         <fig id="F3">
+            <title>
+               <p>Figure 3</p>
+            </title>
+            <caption>
+               <p>Primary isolation, culture expansion, and differentiation of human bone marrow-derived MSCs</p>
+            </caption>
+            <text>
+               <p><b>Primary isolation, culture expansion, and differentiation of human bone marrow-derived MSCs</b>. <b>(a) </b>Net total cell expansion per flask for primary cultures grown in SFM for five continual passages. <b>(b) </b>(a) Morphology of passage 1 human bone marrow-derived MSCs in SFM. (b) Passage 5 MSCs in SFM were differentiated for 14 days and analyzed with (b) Oil Red O staining for adipocytes, (c) Alcian blue staining for chondrocytes, and (d) alkaline phosphatase staining for osteoblasts. a-d, 10&#215; objective.</p>
+            </text>
+            <graphic file="scrt8-3" hint_layout="double"/>
+         </fig>
+         <p>Historically, the colony-forming unit-fibroblast (CFU-F) assay has been used as a correlative assay to test the presence of clonal mesenchymal stem cells within a given cell population <abbrgrp><abbr bid="B2">2</abbr><abbr bid="B12">12</abbr></abbrgrp>. To test the potential of cells expanded in SCM versus SFM, human MSCs passaged under each respective condition were placed into a CFU-F assay. As shown in Figure <figr fid="F4">4</figr>, cells grown in SFM for two passages displayed a similar CFU-F potential compared with cells in SCM (11 &#177; 4 vs. 11 &#177; 5 (SD) respectively). In addition, cells continually propagated in SFM for nine passages displayed a similar CFU-F potential to that observed at passage 2.</p>
+         <fig id="F4">
+            <title>
+               <p>Figure 4</p>
+            </title>
+            <caption>
+               <p>CFU-F assay of serum-free expanded human MSCs</p>
+            </caption>
+            <text>
+               <p><b>CFU-F assay of serum-free expanded human MSCs</b>. <b>(a) </b>Representative images of 14-day CFU-F colonies initiated from (a) passage 2 SFM cultures (passage 7 total), (b) passage 2 SCM cultures (passage 7 total), and (c) passage 9 SFM cultures (passage 14 total). <b>(b) </b>Enumeration of CFU-F colonies (those &#8805; 50 cells) at each respective passage. Data shown represent <it>n </it>= 5 technical replicates.</p>
+            </text>
+            <graphic file="scrt8-4" hint_layout="double"/>
+         </fig>
+         <p>To test further the phenotype of human MSCs expanded in SFM, cell-surface antigens were analyzed by flow cytometry (passage 3) (Table <tblr tid="T1">1</tblr>) and qRT-PCR (passage 4) (Table <tblr tid="T2">2</tblr>). Human MSCs expanded in SFM displayed a characteristic surface profile <abbrgrp><abbr bid="B13">13</abbr></abbrgrp>, including positive expression of CD73, CD90, and CD105, as well as negative expression of CD11b, CD14, CD19, CD34, CD45, and CD79a. Interestingly, unlike cells grown in SCM, cells expanded in SFM displayed a significantly higher level of the type VI intermediate filament Nestin compared with cells expanded in SCM (Table <tblr tid="T2">2</tblr>).</p>
+         <tbl hint_layout="single" id="T1">
+            <title>
+               <p>Table 1</p>
+            </title>
+            <caption>
+               <p>Flow-cytometric analysis of expanded human MSCs</p>
+            </caption>
+            <tblbdy cols="3">
+               <r>
+                  <c ca="center">
+                     <p><b>Flow cytometry</b></p>
+                  </c>
+                  <c ca="center">
+                     <p><b>SFM</b></p>
+                  </c>
+                  <c ca="center">
+                     <p><b>SCM</b></p>
+                  </c>
+               </r>
+               <r>
+                  <c cspan="3">
+                     <hr/>
+                  </c>
+               </r>
+               <r>
+                  <c ca="center">
+                     <p><b>target</b></p>
+                  </c>
+                  <c cspan="2" ca="center">
+                     <p><b>% Positive (flow cytometry)</b></p>
+                  </c>
+               </r>
+               <r>
+                  <c cspan="3">
+                     <hr/>
+                  </c>
+               </r>
+               <r>
+                  <c cspan="3" ca="center">
+                     <p>Negative human MSC markers</p>
+                  </c>
+               </r>
+               <r>
+                  <c cspan="3">
+                     <hr/>
+                  </c>
+               </r>
+               <r>
+                  <c ca="center">
+                     <p>CD11b</p>
+                  </c>
+                  <c ca="center">
+                     <p>0.49</p>
+                  </c>
+                  <c ca="center">
+                     <p>0.50</p>
+                  </c>
+               </r>
+               <r>
+                  <c ca="center">
+                     <p>CD34</p>
+                  </c>
+                  <c ca="center">
+                     <p>0.26</p>
+                  </c>
+                  <c ca="center">
+                     <p>1.04</p>
+                  </c>
+               </r>
+               <r>
+                  <c ca="center">
+                     <p>CD45</p>
+                  </c>
+                  <c ca="center">
+                     <p>1.58</p>
+                  </c>
+                  <c ca="center">
+                     <p>1.91</p>
+                  </c>
+               </r>
+               <r>
+                  <c ca="center">
+                     <p>CD79a</p>
+                  </c>
+                  <c ca="center">
+                     <p>0.57</p>
+                  </c>
+                  <c ca="center">
+                     <p>0.90</p>
+                  </c>
+               </r>
+               <r>
+                  <c cspan="3">
+                     <hr/>
+                  </c>
+               </r>
+               <r>
+                  <c cspan="3" ca="center">
+                     <p>Positive human MSC markers</p>
+                  </c>
+               </r>
+               <r>
+                  <c cspan="3">
+                     <hr/>
+                  </c>
+               </r>
+               <r>
+                  <c ca="center">
+                     <p>CD44</p>
+                  </c>
+                  <c ca="center">
+                     <p>99.14</p>
+                  </c>
+                  <c ca="center">
+                     <p>99.73</p>
+                  </c>
+               </r>
+               <r>
+                  <c ca="center">
+                     <p>CD73</p>
+                  </c>
+                  <c ca="center">
+                     <p>99.38</p>
+                  </c>
+                  <c ca="center">
+                     <p>99.90</p>
+                  </c>
+               </r>
+               <r>
+                  <c ca="center">
+                     <p>CD90</p>
+                  </c>
+                  <c ca="center">
+                     <p>99.51</p>
+                  </c>
+                  <c ca="center">
+                     <p>99.63</p>
+                  </c>
+               </r>
+               <r>
+                  <c ca="center">
+                     <p>CD105</p>
+                  </c>
+                  <c ca="center">
+                     <p>97.95</p>
+                  </c>
+                  <c ca="center">
+                     <p>99.78</p>
+                  </c>
+               </r>
+            </tblbdy>
+            <tblfn>
+               <p>Analysis of known positive and negative human MSC surface antigens by flow cytometry for cells expanded in both SFM and SCM for three passages.</p>
+            </tblfn>
+         </tbl>
+         <tbl hint_layout="double" id="T2">
+            <title>
+               <p>Table 2</p>
+            </title>
+            <caption>
+               <p>Quantitative real-time PCR analysis of expanded human MSCs</p>
+            </caption>
+            <tblbdy cols="5">
+               <r>
+                  <c ca="center">
+                     <p><b>qRT-PCR</b></p>
+                  </c>
+                  <c cspan="2" ca="center">
+                     <p><b>SFM</b></p>
+                  </c>
+                  <c cspan="2" ca="center">
+                     <p><b>SCM</b></p>
+                  </c>
+               </r>
+               <r>
+                  <c cspan="5">
+                     <hr/>
+                  </c>
+               </r>
+               <r>
+                  <c ca="center">
+                     <p><b>Target</b></p>
+                  </c>
+                  <c ca="center">
+                     <p><b>Expression</b></p>
+                  </c>
+                  <c ca="center">
+                     <p><b>&#916;Ct</b></p>
+                  </c>
+                  <c ca="center">
+                     <p><b>Expression level</b></p>
+                  </c>
+                  <c ca="center">
+                     <p><b>&#916;Ct</b></p>
+                  </c>
+               </r>
+               <r>
+                  <c cspan="5">
+                     <hr/>
+                  </c>
+               </r>
+               <r>
+                  <c cspan="5" ca="center">
+                     <p>Positive Human MSC markers</p>
+                  </c>
+               </r>
+               <r>
+                  <c cspan="5">
+                     <hr/>
+                  </c>
+               </r>
+               <r>
+                  <c ca="center">
+                     <p>CD44</p>
+                  </c>
+                  <c ca="center">
+                     <p>N/A</p>
+                  </c>
+                  <c ca="center">
+                     <p>N/A</p>
+                  </c>
+                  <c ca="center">
+                     <p>N/A</p>
+                  </c>
+                  <c ca="center">
+                     <p>N/A</p>
+                  </c>
+               </r>
+               <r>
+                  <c ca="center">
+                     <p>CD73</p>
+                  </c>
+                  <c ca="center">
+                     <p>++++</p>
+                  </c>
+                  <c ca="center">
+                     <p>2.55</p>
+                  </c>
+                  <c ca="center">
+                     <p>++++</p>
+                  </c>
+                  <c ca="center">
+                     <p>3.53</p>
+                  </c>
+               </r>
+               <r>
+                  <c ca="center">
+                     <p>CD90</p>
+                  </c>
+                  <c ca="center">
+                     <p>++++</p>
+                  </c>
+                  <c ca="center">
+                     <p>2.40</p>
+                  </c>
+                  <c ca="center">
+                     <p>++++</p>
+                  </c>
+                  <c ca="center">
+                     <p>2.63</p>
+                  </c>
+               </r>
+               <r>
+                  <c ca="center">
+                     <p>CD105</p>
+                  </c>
+                  <c ca="center">
+                     <p>++++</p>
+                  </c>
+                  <c ca="center">
+                     <p>2.63</p>
+                  </c>
+                  <c ca="center">
+                     <p>++++</p>
+                  </c>
+                  <c ca="center">
+                     <p>1.82</p>
+                  </c>
+               </r>
+               <r>
+                  <c ca="center">
+                     <p>Nestin</p>
+                  </c>
+                  <c ca="center">
+                     <p>+++</p>
+                  </c>
+                  <c ca="center">
+                     <p>5.79</p>
+                  </c>
+                  <c ca="center">
+                     <p>++</p>
+                  </c>
+                  <c ca="center">
+                     <p>11.17</p>
+                  </c>
+               </r>
+            </tblbdy>
+            <tblfn>
+               <p>Quantitative real-time PCR analysis of known positive human MSC surface antigens for cells expanded in both SFM and SCM after four passages. &#916;Ct, Ct (gene-of-interest) - Ct (GAPDH), ++++, very high; +++, high; ++, moderate; +, low.</p>
+            </tblfn>
+         </tbl>
+         <p>To identify genotypic differences between cells expanded under these two expansion-media conditions, a global gene-expression analysis was used. Gene-expression analysis of MSC samples cultured in SCM or SFM was carried out by using the Illumina bead array containing 46,000 full-length and splice-variant transcripts from the Human RefSeq database. Each transcript is represented by a 50-mer probe present on an average of 30 beads within the BeadArray that provides high selectively and reproducible results. The total number of genes detected over 0.99 confidence was considered for analysis. Samples were clustered to plot a dendrogram (Figure <figr fid="F5">5a</figr>). Dendrograms represent a form of hierarchical clustering, and are plotted with the raw global gene-expression data to determine the relatedness of samples. Clustering of the samples represents the euclidean distance, with clustering together showing greater similarity than those far from each other. Cells grown in SFM for varying passages clustered closer to each other than cells grown in SCM. Further pairwise comparison by using scatterplots was carried out to determine the correlation between the global expression of cells grown for varying periods in SCM and SFM. This allows estimation of variability of the two samples based on the correlation coefficient (R<sup>2</sup>) value, with a value of closer to 1 indicating relatedness and a value farther from 1 indicating variability. Figure <figr fid="F5">5b</figr> shows a pairwise comparison of the global gene-expression profile of human MSCs expanded in SFM versus SCM. Despite the clustering of SCM cells away from SFM in the dendrogram, the R<sup>2 </sup>value determined by scatterplot is 0.9188, and hence, they are not drastically different from each other. Further continual propagation of MSCs in SFM medium shows minor changes in gene-expression profiles, and the extent of this change is similar to that observed with MSCs continually grown in traditional SCM. Further, cells continually propagated in either formulation for an additional four passages (Figure <figr fid="F5">5c</figr> and <figr fid="F5">5d</figr>) show close correlation with starting cultures, indicating that the cells do not have a significant deviation in gene expression as a result of continual propagation in either expansion medium. The complete gene-expression data are represented in Supplementary Table 1 in Additional file <supplr sid="S1">1</supplr>.</p>
+         <fig id="F5">
+            <title>
+               <p>Figure 5</p>
+            </title>
+            <caption>
+               <p>Transcriptome comparison of MSCs cultured in serum-free and serum-containing media</p>
+            </caption>
+            <text>
+               <p><b>Transcriptome comparison of MSCs cultured in serum-free and serum-containing media</b>. <b>(a) </b>Dendrogram showing the relatedness of cells based on global gene expression obtained by using Illumina bead array and analyzed by using Bead Studio. <b>(b-d) </b>Pairwise comparison of global gene-expression profiles of MSCs maintained in SCM and SFM. Data points >0.99 detection limit are represented in red. Points lying outside the green line represent genes with greater than twofold difference, whereas <it>R</it><sup>2 </sup>values closer to 1 suggest similarity in global gene expression. <b>(b) </b>Human MSCs in SCM and SFM after passage 2 (P2). <b>(c) </b>Comparison of cells grown for two passages (P2) versus cells grown for six passages (P6) in SCM. <b>(d) </b>Comparison of cells grown for two passages (P2) versus cells grown for six passages (P6) in SFM.</p>
+            </text>
+            <graphic file="scrt8-5" hint_layout="double"/>
+         </fig>
+         <suppl id="S1">
+            <title>
+               <p>Additional file 1</p>
+            </title>
+            <text>
+               <p><b>Supplemental Table 1: SCM vs. SFM Array Data</b>. Complete gene-expression data set (passages 2, 4, and 6) for human MSCs expanded in SCM and SFM.</p>
+            </text>
+            <file name="scrt8-S1.XLS">
+               <p>Click here for file</p>
+            </file>
+         </suppl>
+      </sec>
+      <sec>
+         <st>
+            <p>Discussion</p>
+         </st>
+         <p>To facilitate the transition of human MSC biology from basic studies to clinical application, advances in the reagents used to expand these therapeutically relevant cells has become an absolute necessity. One of the most important achievements in this area will be the transition from SCM to a better-defined SFM. Although recent efforts have shown that human placenta and bone marrow-derived MSCs can be isolated and expanded over the short term in serum-free medium <abbrgrp><abbr bid="B14">14</abbr></abbrgrp>, no published work had shown the ability to expand human MSCs under serum-free conditions for the long term in culture. To achieve such a feat, the optimized serum-free medium StemPro<sup>&#174; </sup>MSC SFM was developed <abbrgrp><abbr bid="B10">10</abbr></abbrgrp>. Perhaps one of the most important features of this serum-free formulation was the optimization of the growth factors required for optimal human MSC expansion. Three of the most important growth factors described as playing a role in both human MSC proliferation and differentiation are PDGF-BB, bFGF, and TGF-&#946;1 <abbrgrp><abbr bid="B10">10</abbr></abbrgrp>. Whereas PDGF-BB and bFGF had positive effects on cell growth individually, TGF-&#946;1 appeared to provide no enhancement of cell proliferation on its own. Interestingly, although combinations of any two growth factors appeared to provide minimal or no significant enhancement of cell proliferation compared with single factors, the combination of all three factors provided an obvious synergistic effect.</p>
+         <p>To test the ability of the optimized SFM to support continual propagation, established MSC cultures in SCM were transitioned directly into SFM. It is important to note the difference in morphology of cells in SFM versus SCM. On removing from serum, cells grown in SFM adopted a more spindle-shaped morphology with a distinct cell-growth pattern. This morphology allowed cells in SFM to be grown at much higher densities compared with cells grown in SCM. As a result, this morphologic change caused cells cultured in SCM versus SFM to require different seeding densities or passage frequencies or both. Also, unlike cells grown in SCM, which can be grown optimally at very low seeding densities, cells in SFM appeared to perform better at higher seeding densities (~1 &#215; 10<sup>4 </sup>cells/cm<sup>2</sup>), facilitating optimal cell expansion and continual propagation. The ability to expand human MSCs at high densities with retained multipotency provides a beneficial approach.</p>
+         <p>As the MSC field moves toward the establishment of more-robust and efficient clinical protocols, the ability to expand large numbers of cells at high density quickly by using fewer culture wares and reagents may prove very useful. It is noteworthy that cells transitioned directly from SCM to SFM may have shown enhanced proliferation for the first one to two passages directly out of SCM. After two passages, SFM cultures provided an average expansion rate (doubling time; average for eight passages) similar to that achieved with SCM (46.3 &#177; 7.1 versus 52.5 &#177; 6.9 (SD) hours, respectively). In addition, similar to that described recently <abbrgrp><abbr bid="B15">15</abbr></abbrgrp>, our optimized SFM was capable of supporting expansion of MSCs directly from primary human bone marrow. Unlike typical observations for primary cultures in SCM, those in SFM did not result in fibroblast colonies, but rather generated somewhat evenly distributed proliferative MSC-like cells throughout the culture flask. The reason for this different growth pattern is unknown, but may be a result of the substrate (human plasma fibronectin or CELLstart&#8482;) required for MSC growth in SFM or the presence of recombinant human growth factors (PDGF-BB, bFGF, and TGF-&#945;1), which have been described as having a migratory effect on MSCs <abbrgrp><abbr bid="B16">16</abbr><abbr bid="B17">17</abbr><abbr bid="B18">18</abbr><abbr bid="B19">19</abbr></abbrgrp>.</p>
+         <p>It is important to note that the described multipassage expansion experiments were conducted by using (a) pooled passage 4 human MSCs isolated in SCM from four individual donors and transitioned to SFM; (b) single-donor human MSCs isolated in SCM and transitioned to SFM; and (c) primary human MSCs isolated directly in SFM from a single donor. Although the presented data do not directly address donor-to-donor variability and the efficacy for human MSCs isolated in SCM versus SFM, it is noteworthy that Agata <it>et al</it>. <abbrgrp><abbr bid="B15">15</abbr></abbrgrp> directly addressed these questions. In this work, the authors concluded that the efficacy of primary cultures was greater in SFM compared with SCM and that this effect was independent of specific donors.</p>
+         <p>The use of pooled human MSCs in our study was intended to overcome donor-to-donor variability and provide a reliable and consistent population of MSCs for experimentation. Although this approach certainly provides a consistent average population of cells for relatively short-term cultures, it is possible during long-term culture that human MSCs from a single donor (or donors) with faster growth rates may overtake the cultures and therefore provide a less-average and more-optimal result.</p>
+         <p>Despite the nontraditional growth patterns, morphology, and expansion protocols required for growing human MSCs in SFM, expanded MSCs in this medium still displayed multipotentiality with successful differentiation to adipocytes, osteoblasts, and chondrocytes. As the chondrogenic potential of cultured MSCs is often the first differentiation capacity lost during <it>in vitro </it>expansion (unpublished results), the apparent retained robust chondrogenic differentiation potential shown through pellet cultures and Toludine Blue O staining is a promising characteristic provided by this serum-free medium. As described by Agata <it>et al</it>. <abbrgrp><abbr bid="B15">15</abbr></abbrgrp>, human bone marrow-derived MSCs isolated and expanded in SFM still retained the competence for osteogenic induction and ectopic bone formation.</p>
+         <p>As proposed previously by the International Society for Cell Therapy <abbrgrp><abbr bid="B13">13</abbr></abbrgrp>, a population of multipotent human MSCs must possess a specific cell-surface antigen expression profile. In accordance with that defined by this group, cells grown in SFM displayed positive expression of CD73, CD90, and CD105 and negative expression of CD11b, CD14, CD19, CD34, CD45, and CD79a, as detected by quantitative real-time PCR and flow cytometry. Interestingly, cells grown in SFM displayed significantly enhanced expression of the intermediate filament nestin. Whereas nestin was originally identified as a marker for neural stem cells <abbrgrp><abbr bid="B20">20</abbr></abbrgrp>, it has since been reported to be present in numerous cell types including human MSCs <abbrgrp><abbr bid="B21">21</abbr></abbrgrp>. As pericytes have been suggested the <it>in vivo </it>origin of <it>in vitro </it>expanded human MSCs <abbrgrp><abbr bid="B22">22</abbr><abbr bid="B23">23</abbr></abbrgrp> and have been reported to express nestin <it>in vivo </it><abbrgrp><abbr bid="B24">24</abbr><abbr bid="B25">25</abbr></abbrgrp>, it may be possible that nestin expression represents a more <it>in vivo </it>phenotype for expanded MSCs.</p>
+         <p>After an analysis of gene-expression data generated on SFM versus SCM cultures, dendrogram results reveal that, over multiple passages, cells grown in SFM clustered together and cells in SCM cluster together. Despite this clustering, the pairwise comparison of SFM versus SFM global gene expression (passage 2; <it>R</it><sup>2 </sup>= 0.9188) suggests a close correlation between the expression pattern of MSCs grown in SCM and SFM. In addition, cells grown in either medium for additional passages continue to show close correlation with earlier passaged cells in the same medium, suggesting minimal genotypic changes. Although differences in gene-expression analysis between MSCs grown in SFM and SCM do not seem to have an impact on either proliferation or multipotency, a more-detailed analysis on the effect these differentially expressed genes may play on overall MSC biology must be further explored. It is important to note that the bulk of the characterization data provided in this work was conducted on cells isolated by using SCM and thereafter transitioned to SFM and further expanded under such conditions. As the possibility exists that the standard SCM isolation procedure may result in the selection of a certain population of primary cells (MSCs) with a distinct phenotype, it cannot be ruled out that such characterization experiments (that is, gene-array studies) may differ when comparing cells isolated under SCM versus SFM conditions.</p>
+         <p>In addition to the data presented here focusing on the expansion of human bone marrow-derived MSCs, it has also been observed that the described SFM may be used for expansion of human MSCs from other sources including umbilical cord-derived MSCs and adipose-derived stem cells (ADSCs) (unpublished data). Despite the preliminary data suggesting the ability to expand these additional MSC populations in SFM, future studies will be necessary to determine whether additional supplementation is necessary most efficiently to expand these populations.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Conclusions</p>
+         </st>
+         <p>The development of a serum-free medium for the isolation and expansion of human MSCs represents a necessary step in developing the tools required to study human MSCs in a consistent and reproducible manner. By eliminating the use of fetal bovine serum, an inherently variable reagent, this novel serum-free medium will provide the ability for researchers from different laboratories to conduct studies with similar reagents, fostering scientific advances and discovery. Future studies will be necessary to realize completely the effect this medium has on MSC biology <it>in vivo</it>. Finally, as this described SFM contains nonhuman animal-origin materials, future optimization and medium development leading to a serum-free, xenogeneic-free and therefore a more clinically relevant culture system will be necessary.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Abbreviations</p>
+         </st>
+         <p>bFGF: basic fibroblast growth factor; CFU-F: colony-forming unit fibroblast; DMSO: dimethyl sulfoxide; DPBS: Dulbecco's phosphate-buffered saline; FBS: fetal bovine serum; MSC: mesenchymal stem cell; PDGF-BB: platelet-derived growth factor-BB; qRT-PCR: real-time quantitative PCR; SCM: serum-containing medium; SFM: serum-free medium; TGF-&#946;1: transforming growth factor, &#946;1.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Competing interests</p>
+         </st>
+         <p>LC, UL, MR, and MV declare financial competing interests, as all are employees of Life Technologies. Life Technologies markets reagents and tools for stem cell biology. LS declares no financial competing interests.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Authors' contributions</p>
+         </st>
+         <p>LS performed MSC chondrogenic differentiation experiments. UL performed gene array analysis, manuscript drafting, and editing. LC conceived the experiments, performed all remaining experiments, manuscript drafting, and editing. MR and MV participated in conceiving and coordinating the studies and edited the manuscript.</p>
+      </sec>
+   </bdy>
+   <bm>
+      <ack>
+         <sec>
+            <st>
+               <p>Acknowledgements</p>
+            </st>
+            <p>The authors thank David Judd for help with flow-cytometry data acquisition and analysis, and John Daley for technical assistance with primary MSC culture and experimental guidance. In addition, the authors thank Ron Hart (Rutgers University) for Illumina gene array sample preparation and processing. Work performed by LC, UL, MR, and MV was funded by Life technologies. LS work was funded by the Hematopoietic Stem Cell Core Facility of the Case Comprehensive Cancer Center (P30 CA43703).</p>
+            <p>Ethical considerations: All studies were performed on stem cells isolated from a commercially available primary cell source. No studies were performed in animals, and no human clinical trials were performed.</p>
+         </sec>
+      </ack>
+      <refgrp>
+         <bibl id="B1">
+            <title>
+               <p>Concise review: mesenchymal stem cells: their phenotype, differentiation capacity, immunological features, and potential for homing</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Chamberlain</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Fox</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Ashton</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Middleton</snm>
+                  <fnm>J</fnm>
+               </au>
+            </aug>
+            <source>Stem Cells</source>
+            <pubdate>2007</pubdate>
+            <volume>25</volume>
+            <fpage>2739</fpage>
+            <lpage>2749</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1634/stemcells.2007-0197</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17656645</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B2">
+            <title>
+               <p>Fibroblast precursors in normal and irradiated mouse hematopoietic organs</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Friedenstein</snm>
+                  <fnm>AJ</fnm>
+               </au>
+               <au>
+                  <snm>Gorskaja</snm>
+                  <fnm>JF</fnm>
+               </au>
+               <au>
+                  <snm>Kulagina</snm>
+                  <fnm>NN</fnm>
+               </au>
+            </aug>
+            <source>Exp Hematol</source>
+            <pubdate>1976</pubdate>
+            <volume>4</volume>
+            <fpage>267</fpage>
+            <lpage>274</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid">976387</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B3">
+            <title>
+               <p>Concise review: mesenchymal stem/multipotent stromal cells: the state of transdifferentiation and modes of tissue repair: current views</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Phinney</snm>
+                  <fnm>DG</fnm>
+               </au>
+               <au>
+                  <snm>Prockop</snm>
+                  <fnm>DJ</fnm>
+               </au>
+            </aug>
+            <source>Stem Cells</source>
+            <pubdate>2007</pubdate>
+            <volume>25</volume>
+            <fpage>2896</fpage>
+            <lpage>2902</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1634/stemcells.2007-0637</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17901396</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B4">
+            <title>
+               <p>Derivation of clinically compliant MSCs from CD105+, CD24- differentiated human ESCs</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Lian</snm>
+                  <fnm>Q</fnm>
+               </au>
+               <au>
+                  <snm>Lye</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Suan Yeo</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Khia Way Tan</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Salto-Tellez</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Liu</snm>
+                  <fnm>TM</fnm>
+               </au>
+               <au>
+                  <snm>Palanisamy</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>El Oakley</snm>
+                  <fnm>RM</fnm>
+               </au>
+               <au>
+                  <snm>Lee</snm>
+                  <fnm>EH</fnm>
+               </au>
+               <au>
+                  <snm>Lim</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Lim</snm>
+                  <fnm>SK</fnm>
+               </au>
+            </aug>
+            <source>Stem Cells</source>
+            <pubdate>2007</pubdate>
+            <volume>25</volume>
+            <fpage>425</fpage>
+            <lpage>436</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1634/stemcells.2006-0420</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17053208</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B5">
+            <title>
+               <p>Adult mesenchymal stem cells for tissue engineering versus regenerative medicine</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Caplan</snm>
+                  <fnm>AI</fnm>
+               </au>
+            </aug>
+            <source>J Cell Physiol</source>
+            <pubdate>2007</pubdate>
+            <volume>213</volume>
+            <fpage>341</fpage>
+            <lpage>347</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1002/jcp.21200</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17620285</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B6">
+            <title>
+               <p>Mesenchymal stem cells for treatment of therapy-resistant graft-versus-host disease</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Ringden</snm>
+                  <fnm>O</fnm>
+               </au>
+               <au>
+                  <snm>Uzunel</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Rasmusson</snm>
+                  <fnm>I</fnm>
+               </au>
+               <au>
+                  <snm>Remberger</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Sundberg</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Lonnies</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Marschall</snm>
+                  <fnm>HU</fnm>
+               </au>
+               <au>
+                  <snm>Dlugosz</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Szakos</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Hassan</snm>
+                  <fnm>Z</fnm>
+               </au>
+               <au>
+                  <snm>Omazic</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Aschan</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Barkholt</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Le Blanc</snm>
+                  <fnm>K</fnm>
+               </au>
+            </aug>
+            <source>Transplantation</source>
+            <pubdate>2006</pubdate>
+            <volume>81</volume>
+            <fpage>1390</fpage>
+            <lpage>1397</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1097/01.tp.0000214462.63943.14</pubid>
+                  <pubid idtype="pmpid" link="fulltext">16732175</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B7">
+            <title>
+               <p>Why are MSCs therapeutic? New data: new insight</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Caplan</snm>
+                  <fnm>AI</fnm>
+               </au>
+            </aug>
+            <source>J Pathol</source>
+            <pubdate>2009</pubdate>
+            <volume>217</volume>
+            <fpage>318</fpage>
+            <lpage>324</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1002/path.2469</pubid>
+                  <pubid idtype="pmpid" link="fulltext">19023885</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B8">
+            <title>
+               <p>Immunological properties of mesenchymal stem cells and clinical implications</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Patel</snm>
+                  <fnm>SA</fnm>
+               </au>
+               <au>
+                  <snm>Sherman</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Munoz</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Rameshwar</snm>
+                  <fnm>P</fnm>
+               </au>
+            </aug>
+            <source>Arch Immunol Ther Exp (Warsz)</source>
+            <pubdate>2008</pubdate>
+            <volume>56</volume>
+            <fpage>1</fpage>
+            <lpage>8</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1007/s00005-008-0001-x</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18250975</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B9">
+            <title>
+               <p>Multilineage potential of adult human mesenchymal stem cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Pittenger</snm>
+                  <fnm>MF</fnm>
+               </au>
+               <au>
+                  <snm>Mackay</snm>
+                  <fnm>AM</fnm>
+               </au>
+               <au>
+                  <snm>Beck</snm>
+                  <fnm>SC</fnm>
+               </au>
+               <au>
+                  <snm>Jaiswal</snm>
+                  <fnm>RK</fnm>
+               </au>
+               <au>
+                  <snm>Douglas</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Mosca</snm>
+                  <fnm>JD</fnm>
+               </au>
+               <au>
+                  <snm>Moorman</snm>
+                  <fnm>MA</fnm>
+               </au>
+               <au>
+                  <snm>Simonetti</snm>
+                  <fnm>DW</fnm>
+               </au>
+               <au>
+                  <snm>Craig</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Marshak</snm>
+                  <fnm>DR</fnm>
+               </au>
+            </aug>
+            <source>Science</source>
+            <pubdate>1999</pubdate>
+            <volume>284</volume>
+            <fpage>143</fpage>
+            <lpage>147</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1126/science.284.5411.143</pubid>
+                  <pubid idtype="pmpid" link="fulltext">10102814</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B10">
+            <title>
+               <p>PDGF, TGF-beta, and FGF signaling is important for differentiation and growth of mesenchymal stem cells (MSCs): transcriptional profiling can identify markers and signaling pathways important in differentiation of MSCs into adipogenic, chondrogenic, and osteogenic lineages</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Ng</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Boucher</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Koh</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Sastry</snm>
+                  <fnm>KS</fnm>
+               </au>
+               <au>
+                  <snm>Chase</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Lakshmipathy</snm>
+                  <fnm>U</fnm>
+               </au>
+               <au>
+                  <snm>Choong</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Yang</snm>
+                  <fnm>Z</fnm>
+               </au>
+               <au>
+                  <snm>Vemuri</snm>
+                  <fnm>MC</fnm>
+               </au>
+               <au>
+                  <snm>Rao</snm>
+                  <fnm>MS</fnm>
+               </au>
+               <au>
+                  <snm>Tanavde</snm>
+                  <fnm>V</fnm>
+               </au>
+            </aug>
+            <source>Blood</source>
+            <pubdate>2008</pubdate>
+            <volume>112</volume>
+            <fpage>295</fpage>
+            <lpage>307</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1182/blood-2007-07-103697</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18332228</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B11">
+            <title>
+               <p>Expansion of human adult stem cells from bone marrow stroma: conditions that maximize the yields of early progenitors and evaluate their quality</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Sekiya</snm>
+                  <fnm>I</fnm>
+               </au>
+               <au>
+                  <snm>Larson</snm>
+                  <fnm>BL</fnm>
+               </au>
+               <au>
+                  <snm>Smith</snm>
+                  <fnm>JR</fnm>
+               </au>
+               <au>
+                  <snm>Pochampally</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Cui</snm>
+                  <fnm>JG</fnm>
+               </au>
+               <au>
+                  <snm>Prockop</snm>
+                  <fnm>DJ</fnm>
+               </au>
+            </aug>
+            <source>Stem Cells</source>
+            <pubdate>2002</pubdate>
+            <volume>20</volume>
+            <fpage>530</fpage>
+            <lpage>541</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1634/stemcells.20-6-530</pubid>
+                  <pubid idtype="pmpid" link="fulltext">12456961</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B12">
+            <title>
+               <p>Precursors for fibroblasts in different populations of hematopoietic cells as detected by the in vitro colony assay method</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Friedenstein</snm>
+                  <fnm>AJ</fnm>
+               </au>
+               <au>
+                  <snm>Deriglasova</snm>
+                  <fnm>UF</fnm>
+               </au>
+               <au>
+                  <snm>Kulagina</snm>
+                  <fnm>NN</fnm>
+               </au>
+               <au>
+                  <snm>Panasuk</snm>
+                  <fnm>AF</fnm>
+               </au>
+               <au>
+                  <snm>Rudakowa</snm>
+                  <fnm>SF</fnm>
+               </au>
+               <au>
+                  <snm>Luria</snm>
+                  <fnm>EA</fnm>
+               </au>
+               <au>
+                  <snm>Ruadkow</snm>
+                  <fnm>IA</fnm>
+               </au>
+            </aug>
+            <source>Exp Hematol</source>
+            <pubdate>1974</pubdate>
+            <volume>2</volume>
+            <fpage>83</fpage>
+            <lpage>92</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid">4455512</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B13">
+            <title>
+               <p>Minimal criteria for defining multipotent mesenchymal stromal cells. The International Society for Cellular Therapy position statement</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Dominici</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Le Blanc</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Mueller</snm>
+                  <fnm>I</fnm>
+               </au>
+               <au>
+                  <snm>Slaper-Cortenbach</snm>
+                  <fnm>I</fnm>
+               </au>
+               <au>
+                  <snm>Marini</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Krause</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Deans</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Keating</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Prockop</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Horwitz</snm>
+                  <fnm>E</fnm>
+               </au>
+            </aug>
+            <source>Cytotherapy</source>
+            <pubdate>2006</pubdate>
+            <volume>8</volume>
+            <fpage>315</fpage>
+            <lpage>317</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1080/14653240600855905</pubid>
+                  <pubid idtype="pmpid" link="fulltext">16923606</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B14">
+            <title>
+               <p>Human placenta and bone marrow derived MSC cultured in serum-free, b-FGF-containing medium express cell surface frizzled-9 and SSEA-4 and give rise to multilineage differentiation</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Battula</snm>
+                  <fnm>VL</fnm>
+               </au>
+               <au>
+                  <snm>Bareiss</snm>
+                  <fnm>PM</fnm>
+               </au>
+               <au>
+                  <snm>Treml</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Conrad</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Albert</snm>
+                  <fnm>I</fnm>
+               </au>
+               <au>
+                  <snm>Hojak</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Abele</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Schewe</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Just</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Skutella</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Buhring</snm>
+                  <fnm>HJ</fnm>
+               </au>
+            </aug>
+            <source>Differentiation</source>
+            <pubdate>2007</pubdate>
+            <volume>75</volume>
+            <fpage>279</fpage>
+            <lpage>291</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1111/j.1432-0436.2006.00139.x</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17288545</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B15">
+            <title>
+               <p>Feasibility and efficacy of bone tissue engineering using human bone marrow stromal cells cultivated in serum-free conditions</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Agata</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Watanabe</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Ishii</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Kubo</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Ohshima</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Yamazaki</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Tojo</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Kagami</snm>
+                  <fnm>H</fnm>
+               </au>
+            </aug>
+            <source>Biochem Biophys Res Commun</source>
+            <pubdate>2009</pubdate>
+            <volume>382</volume>
+            <fpage>353</fpage>
+            <lpage>358</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.bbrc.2009.03.023</pubid>
+                  <pubid idtype="pmpid" link="fulltext">19281797</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B16">
+            <title>
+               <p>Basic fibroblast growth factor controls migration in human mesenchymal stem cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Schmidt</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Ladage</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Schinkothe</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Klausmann</snm>
+                  <fnm>U</fnm>
+               </au>
+               <au>
+                  <snm>Ulrichs</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Klinz</snm>
+                  <fnm>FJ</fnm>
+               </au>
+               <au>
+                  <snm>Brixius</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Arnhold</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Desai</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Mehlhorn</snm>
+                  <fnm>U</fnm>
+               </au>
+               <au>
+                  <snm>Schwinger</snm>
+                  <fnm>RH</fnm>
+               </au>
+               <au>
+                  <snm>Staib</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Addicks</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Bloch</snm>
+                  <fnm>W</fnm>
+               </au>
+            </aug>
+            <source>Stem Cells</source>
+            <pubdate>2006</pubdate>
+            <volume>24</volume>
+            <fpage>1750</fpage>
+            <lpage>1758</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1634/stemcells.2005-0191</pubid>
+                  <pubid idtype="pmpid" link="fulltext">16822883</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B17">
+            <title>
+               <p>The in vitro migration capacity of human bone marrow mesenchymal stem cells: comparison of chemokine and growth factor chemotactic activities</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Ponte</snm>
+                  <fnm>AL</fnm>
+               </au>
+               <au>
+                  <snm>Marais</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Gallay</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Langonne</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Delorme</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Herault</snm>
+                  <fnm>O</fnm>
+               </au>
+               <au>
+                  <snm>Charbord</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Domenech</snm>
+                  <fnm>J</fnm>
+               </au>
+            </aug>
+            <source>Stem Cells</source>
+            <pubdate>2007</pubdate>
+            <volume>25</volume>
+            <fpage>1737</fpage>
+            <lpage>1745</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1634/stemcells.2007-0054</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17395768</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B18">
+            <title>
+               <p>Comprehensive analysis of chemotactic factors for bone marrow mesenchymal stem cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Ozaki</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Nishimura</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Sekiya</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Suehiro</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Kanawa</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Nikawa</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Hamada</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Kato</snm>
+                  <fnm>Y</fnm>
+               </au>
+            </aug>
+            <source>Stem Cells Dev</source>
+            <pubdate>2007</pubdate>
+            <volume>16</volume>
+            <fpage>119</fpage>
+            <lpage>129</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1089/scd.2006.0032</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17348810</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B19">
+            <title>
+               <p>TGF-beta1-induced migration of bone mesenchymal stem cells couples bone resorption with formation</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Tang</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Wu</snm>
+                  <fnm>X</fnm>
+               </au>
+               <au>
+                  <snm>Lei</snm>
+                  <fnm>W</fnm>
+               </au>
+               <au>
+                  <snm>Pang</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Wan</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Shi</snm>
+                  <fnm>Z</fnm>
+               </au>
+               <au>
+                  <snm>Zhao</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Nagy</snm>
+                  <fnm>TR</fnm>
+               </au>
+               <au>
+                  <snm>Peng</snm>
+                  <fnm>X</fnm>
+               </au>
+               <au>
+                  <snm>Hu</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Feng</snm>
+                  <fnm>X</fnm>
+               </au>
+               <au>
+                  <snm>Van Hul</snm>
+                  <fnm>W</fnm>
+               </au>
+               <au>
+                  <snm>Wan</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Cao</snm>
+                  <fnm>X</fnm>
+               </au>
+            </aug>
+            <source>Nat Med</source>
+            <pubdate>2009</pubdate>
+            <volume>15</volume>
+            <fpage>757</fpage>
+            <lpage>765</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/nm.1979</pubid>
+                  <pubid idtype="pmcid">2727637</pubid>
+                  <pubid idtype="pmpid">19584867</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B20">
+            <title>
+               <p>CNS stem cells express a new class of intermediate filament protein</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Lendahl</snm>
+                  <fnm>U</fnm>
+               </au>
+               <au>
+                  <snm>Zimmerman</snm>
+                  <fnm>LB</fnm>
+               </au>
+               <au>
+                  <snm>McKay</snm>
+                  <fnm>RD</fnm>
+               </au>
+            </aug>
+            <source>Cell</source>
+            <pubdate>1990</pubdate>
+            <volume>60</volume>
+            <fpage>585</fpage>
+            <lpage>595</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/0092-8674(90)90662-X</pubid>
+                  <pubid idtype="pmpid" link="fulltext">1689217</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B21">
+            <title>
+               <p>Neural differentiation potential of human bone marrow-derived mesenchymal stromal cells: misleading marker gene expression</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Montzka</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Lassonczyk</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Tschoke</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Neuss</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Fuhrmann</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Franzen</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Smeets</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Brook</snm>
+                  <fnm>GA</fnm>
+               </au>
+               <au>
+                  <snm>Woltje</snm>
+                  <fnm>M</fnm>
+               </au>
+            </aug>
+            <source>BMC Neurosci</source>
+            <pubdate>2009</pubdate>
+            <volume>10</volume>
+            <fpage>16</fpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1186/1471-2202-10-16</pubid>
+                  <pubid idtype="pmcid">2655300</pubid>
+                  <pubid idtype="pmpid">19257891</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B22">
+            <title>
+               <p>In search of the in vivo identity of mesenchymal stem cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>da Silva Meirelles</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Caplan</snm>
+                  <fnm>AI</fnm>
+               </au>
+               <au>
+                  <snm>Nardi</snm>
+                  <fnm>NB</fnm>
+               </au>
+            </aug>
+            <source>Stem Cells</source>
+            <pubdate>2008</pubdate>
+            <volume>26</volume>
+            <fpage>2287</fpage>
+            <lpage>2299</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1634/stemcells.2007-1122</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18566331</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B23">
+            <title>
+               <p>A perivascular origin for mesenchymal stem cells in multiple human organs</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Crisan</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Yap</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Casteilla</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Chen</snm>
+                  <fnm>CW</fnm>
+               </au>
+               <au>
+                  <snm>Corselli</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Park</snm>
+                  <fnm>TS</fnm>
+               </au>
+               <au>
+                  <snm>Andriolo</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Sun</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Zheng</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Zhang</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Norotte</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Teng</snm>
+                  <fnm>PN</fnm>
+               </au>
+               <au>
+                  <snm>Traas</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Schugar</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Deasy</snm>
+                  <fnm>BM</fnm>
+               </au>
+               <au>
+                  <snm>Badylak</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Buhring</snm>
+                  <fnm>HJ</fnm>
+               </au>
+               <au>
+                  <snm>Giacobino</snm>
+                  <fnm>JP</fnm>
+               </au>
+               <au>
+                  <snm>Lazzari</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Huard</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Peault</snm>
+                  <fnm>B</fnm>
+               </au>
+            </aug>
+            <source>Cell Stem Cell</source>
+            <pubdate>2008</pubdate>
+            <volume>3</volume>
+            <fpage>301</fpage>
+            <lpage>313</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.stem.2008.07.003</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18786417</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B24">
+            <title>
+               <p>Pericytes and periendothelial cells of brain parenchyma vessels co-express aminopeptidase N, aminopeptidase A, and nestin</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Alliot</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Rutin</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Leenen</snm>
+                  <fnm>PJ</fnm>
+               </au>
+               <au>
+                  <snm>Pessac</snm>
+                  <fnm>B</fnm>
+               </au>
+            </aug>
+            <source>J Neurosci Res</source>
+            <pubdate>1999</pubdate>
+            <volume>58</volume>
+            <fpage>367</fpage>
+            <lpage>378</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1002/(SICI)1097-4547(19991101)58:3&lt;367::AID-JNR2>3.0.CO;2-T</pubid>
+                  <pubid idtype="pmpid" link="fulltext">10518110</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B25">
+            <title>
+               <p>CNS microvascular pericytes exhibit multipotential stem cell activity</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Dore-Duffy</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Katychev</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Wang</snm>
+                  <fnm>X</fnm>
+               </au>
+               <au>
+                  <snm>Van Buren</snm>
+                  <fnm>E</fnm>
+               </au>
+            </aug>
+            <source>J Cereb Blood Flow Metab</source>
+            <pubdate>2006</pubdate>
+            <volume>26</volume>
+            <fpage>613</fpage>
+            <lpage>624</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/sj.jcbfm.9600272</pubid>
+                  <pubid idtype="pmpid" link="fulltext">16421511</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+      </refgrp>
+   </bm>
+</art>

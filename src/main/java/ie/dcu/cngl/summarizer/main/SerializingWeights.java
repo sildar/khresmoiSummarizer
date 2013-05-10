@@ -26,6 +26,7 @@ public class SerializingWeights {
 		Weighter weighter = new Weighter();
 		ArrayList<Double[]> weights = new ArrayList<Double[]>();
 		weighter.setStructure(structure);
+		weighter.addAllFeatures();
 		weighter.calculateWeights(weights);
 		
 		try {

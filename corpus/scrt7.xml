@@ -1,0 +1,1876 @@
+<!DOCTYPE art SYSTEM "article.dtd">
+<art>
+   <ui>scrt7</ui>
+   <ji>1757-6512</ji>
+   <fm>
+      <dochead>Research</dochead>
+      <bibl>
+         <title>
+            <p>Selection and reliability of internal reference genes for quantitative PCR verification of transcriptomics during the differentiation process of porcine adult mesenchymal stem cells</p>
+         </title>
+         <aug>
+            <au id="A1">
+               <snm>Monaco</snm>
+               <fnm>Elisa</fnm>
+               <insr iid="I1"/>
+               <insr iid="I2"/>
+               <email>emonaco@illinois.edu</email>
+            </au>
+            <au id="A2">
+               <snm>Bionaz</snm>
+               <fnm>Massimo</fnm>
+               <insr iid="I1"/>
+               <insr iid="I2"/>
+               <email>bionaz@illinois.edu</email>
+            </au>
+            <au id="A3">
+               <snm>de Lima</snm>
+               <mnm>Sobreira</mnm>
+               <fnm>Alecsandra</fnm>
+               <insr iid="I1"/>
+               <email>lec.lima@gmail.com</email>
+            </au>
+            <au id="A4">
+               <snm>Hurley</snm>
+               <mi>L</mi>
+               <fnm>Walter</fnm>
+               <insr iid="I1"/>
+               <email>wlhurley@illinois.edu</email>
+            </au>
+            <au id="A5">
+               <snm>Loor</snm>
+               <mi>J</mi>
+               <fnm>Juan</fnm>
+               <insr iid="I3"/>
+               <email>jloor@illinois.edu</email>
+            </au>
+            <au ca="yes" id="A6">
+               <snm>Wheeler</snm>
+               <mi>B</mi>
+               <fnm>Matthew</fnm>
+               <insr iid="I1"/>
+               <insr iid="I2"/>
+               <email>mbwheele@illinois.edu</email>
+            </au>
+         </aug>
+         <insg>
+            <ins id="I1">
+               <p>Laboratory of Stem Cell Biology and Engineering, Department of Animal Sciences, University of Illinois at Urbana-Champaign, 1207 West Gregory Drive, Urbana, 61801, Illinois, USA</p>
+            </ins>
+            <ins id="I2">
+               <p>Institute for Genomic Biology, University of Illinois at Urbana-Champaign, 1207 West Gregory Drive, Urbana, 61801, Illinois, USA</p>
+            </ins>
+            <ins id="I3">
+               <p>Mammalian NutriPhysioGenomics, Department of Animal Sciences, University of Illinois at Urbana-Champaign, 1207 West Gregory Drive, Urbana, 61801, Illinois, USA</p>
+            </ins>
+         </insg>
+         <source>Stem Cell Research &amp; Therapy</source>
+         <issn>1757-6512</issn>
+         <pubdate>2010</pubdate>
+         <volume>1</volume>
+         <issue>1</issue>
+         <fpage>7</fpage>
+         <url>http://stemcellres.com/content/1/1/7</url>
+         <xrefbib>
+            <pubid idtype="doi">10.1186/scrt7</pubid>
+         </xrefbib>
+      </bibl>
+      <history>
+         <rec>
+            <date>
+               <day>21</day>
+               <month>7</month>
+               <year>2009</year>
+            </date>
+         </rec>
+         <revrec>
+            <date>
+               <day>2</day>
+               <month>12</month>
+               <year>2010</year>
+            </date>
+         </revrec>
+         <acc>
+            <date>
+               <day>30</day>
+               <month>3</month>
+               <year>2010</year>
+            </date>
+         </acc>
+         <pub>
+            <date>
+               <day>30</day>
+               <month>3</month>
+               <year>2010</year>
+            </date>
+         </pub>
+      </history>
+      <cpyrt>
+         <year>2010</year>
+         <collab>Monaco et al.; licensee BioMed Central Ltd.</collab>
+         <note>This is an open access article distributed under the terms of the Creative Commons Attribution License (<url>http://creativecommons.org/licenses/by/2.0</url>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</note>
+      </cpyrt>
+      <abs>
+         <sec>
+            <st>
+               <p>Abstract</p>
+            </st>
+            <sec>
+               <st>
+                  <p>Introduction</p>
+               </st>
+               <p>The objective of this study was to find highly reliable internal-control genes (ICGs) for normalization of qPCR data from porcine adult mesenchymal stem cells induced to differentiate toward adipogenic and osteogenic lineages.</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>Methods</p>
+               </st>
+               <p>Stem cells were acquired from subcutaneous back fat and bone marrow of three castrated Yorkshire crossbred male pigs. Adipose and bone marrow-derived stem cells (ADSCs and BMSCs) were cultured <it>in vitro </it>with specific osteogenic or adipogenic differentiation medium for 4 weeks. Total RNA was extract for microarray (13,000 oligonucleotides) and qPCR analyses. Microarray data were used to uncover the most stably expressed genes (that is, potential ICGs). Co-regulation among potential ICGs was evaluated with Ingenuity Pathway Analysis. qPCR was performed on the non-coregulated ICGs candidates and on specific osteogenic (<it>COL1A1</it>) and adipogenic (<it>DBI</it>) genes. geNorm was used to uncover the most reliable ICGs by using qPCR data and the optimal number of ICGs to be used to calculate the normalization factor.</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>Results</p>
+               </st>
+               <p>Microarray data analysis revealed 27 potential ICGs. Among those, 10 genes without known co-regulation were selected to perform qPCR. geNorm performed on qPCR data uncovered high stability in expression ratio among the selected ICGs. However, especially reliable normalization was obtained by geometric mean of <it>NSUN5</it>, <it>TIMM17B</it>, and <it>VPS4A</it>. The effect of normalization, assessed on specific osteogenic (<it>COL1A1</it>) and adipogenic (<it>DBI</it>) genes, was apparent for the adipogenic and less apparent for the osteogenic differentiation.</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>Conclusions</p>
+               </st>
+               <p>The combination of microarray data and pairwise gene analysis allowed identification of novel and highly reliable ICGs for qPCR data normalization of adult porcine stem cells induced to differentiate to adipogenic and osteogenic lineages.</p>
+            </sec>
+         </sec>
+      </abs>
+   </fm>
+   <bdy>
+      <sec>
+         <st>
+            <p>Introduction</p>
+         </st>
+         <p>The quantity and accessibility of subcutaneous adipose tissue in humans makes it an attractive alternative to bone marrow as a source of adult stem cells for therapeutic purposes <abbrgrp><abbr bid="B1">1</abbr></abbrgrp>. However, little is known about similarities and differences between adipose- (ADSCs) and bone marrow-(BMSCs) derived stem cells at the genetic level and during their differentiation into major mesenchymal cell types. Uncovering transcriptomic adaptations of porcine adult mesenchymal stem cells during <it>in vitro </it>differentiation toward a target tissue can provide crucial information for human adult stem cell therapeutic applications.</p>
+         <p>The two most common techniques currently used for gene-expression analysis are real-time RT PCR (qPCR) and microarray. qPCR is the method of choice for accurate mRNA expression analysis of selected genes, and it is used for verification of microarray results. Although qPCR can provide accurate estimates of mRNA abundance in experimental samples, the technique is subject to errors during the steps from RNA extraction to mRNA quantitative analysis <abbrgrp><abbr bid="B2">2</abbr></abbrgrp>. The qPCR data must be normalized to take those errors into account. To date, the most frequently used method to normalize qPCR data is through the use of internal control genes (ICGs), sometimes referred to as housekeeping genes (HKGs) <abbrgrp><abbr bid="B3">3</abbr></abbrgrp>. Housekeeping-gene expression should not vary in the cells under investigation, or in response to a treatment. However, the literature shows that HKGs expression, although occasionally constant in a given cell type or experimental condition, can vary considerably <abbrgrp><abbr bid="B4">4</abbr><abbr bid="B5">5</abbr><abbr bid="B6">6</abbr></abbrgrp>. As a consequence, the presumed stability of expression of these genes must be validated under the particular experimental conditions being investigated. In many studies, traditional HKGs (such as <it>ACTB</it>, <it>GAPDH</it>, <it>HPRT</it>, &#946;-<it>actin</it>) are used to normalize qPCR data without a proper evaluation of their presumed stability of expression <abbrgrp><abbr bid="B7">7</abbr><abbr bid="B8">8</abbr><abbr bid="B9">9</abbr></abbrgrp>. The use of appropriate ICGs to normalize qPCR data is an absolute prerequisite for reliable results.</p>
+         <p>The choice of IGCs using traditional approaches has been based strictly on the absence of statistical effects of a treatment or physiologic state on qPCR data. This criterion is not sufficiently stringent for studies in which a treatment or physiologic adaptation results in a large transcriptomic modification, as in case of cells undergoing differentiation <abbrgrp><abbr bid="B10">10</abbr></abbrgrp>. The protocols used for qPCR require use of the same amount of total RNA for RT of each sample; and in the case of a large change in expression of some transcripts, the relative mRNA abundance of other transcripts may appear concentrated or diluted <abbrgrp><abbr bid="B11">11</abbr></abbrgrp>. Genes with stable expression (that is, the ideal ICGs), also may appear to have a significant change in expression. Those genes would be considered unreliable as ICGs, even though the observed modification in expression is an artifact of the consistency of amount of starting RNA in each reaction <abbrgrp><abbr bid="B11">11</abbr><abbr bid="B12">12</abbr></abbrgrp>. The use of pair-wise expression ratio-stability comparisons among multiple candidate genes <abbrgrp><abbr bid="B3">3</abbr></abbrgrp> has been found to be an appropriate method to overcome these limitations. This method, developed by Vandesompele <it>et al. </it><abbrgrp><abbr bid="B3">3</abbr></abbrgrp> is based on the use of multiple control genes for accurate normalization of qPCR data. The procedure can be applied in many biologic contests because it takes into account large transcriptomic modification that can follow to a treatment or physiologic adaptation.</p>
+         <p>Differentiation of stem cells may be expected to result in significant changes in gene expression. Evaluation of expression of genes used as markers for differentiated cells requires identification and validation of appropriate ICGs before conclusions can be drawn relative to transcriptomic adaptations of the differentiation process. The objectives of this study were (a) to identify highly reliable ICGs for normalization of qPCR data for porcine ADSCs and BMSCs, each induced to differentiate toward the adipogenic and osteogenic lineages; and (b) to propose a protocol implemented from the method developed by Vandesompele <it>et al. </it><abbrgrp><abbr bid="B3">3</abbr></abbrgrp>, which can be used in many, if not all, cell/tissue-type experiments using qPCR. In addition, we provided a list of genes that can be considered suitable candidate ICGs to test in any experiment using porcine mesenchymal stem cells.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Materials and methods</p>
+         </st>
+         <sec>
+            <st>
+               <p>ADSCs and BMSCs isolation and culture <it>in vitro</it></p>
+            </st>
+            <p>Subcutaneous back fat and bone marrow were acquired from three castrated Yorkshire crossbred male pigs, at ~6 months of age, under protocols approved by the University of Illinois Institutional Animal Care and Use Committee (IACUC). Pigs were killed at the University of Illinois Meat Science Laboratory abattoir. Details on tissue harvesting and stem cells primary culture <it>in vitro </it>are as previously reported <abbrgrp><abbr bid="B13">13</abbr></abbrgrp>. In brief, subcutaneous back fat and bone marrow from femurs were harvested and processed in sterility to avoid contamination of the samples. They were minced with sterile scalpel blades and digested with 0.075% collagenase type I-A (Sigma Aldrich C2674, St. Louis, MO) at 37&#176;C for 90 min. After digestion, cells were separated by centrifugation at 200 <it>g </it>for 10 min at room temperature. The buoyant cell fraction and supernatant were discarded, and 2 ml of red blood cell lysis buffer (Sigma R7757) was added to the pellet and gently mixed for 2 min. Subsequently, 20 ml of Dulbecco's phosphate-buffered saline (DPBS, Sigma D5773) containing 1% penicillin G-streptomycin (Sigma P3539) and 5.0 mg/L of amphotericin B (Sigma A9528) were added to the tubes that were centrifuged at 200 <it>g </it>for 5 min, at room temperature, to obtain a cell pellet that was then resuspended in culture medium. The culture medium used was high-glucose Dulbecco's modified Eagle's medium (DMEM; Sigma D5648) supplemented with 10% fetal bovine serum (FBS, BenchMark; Gemini Bio Products, West Sacramento, CA) plus 1% penicillin G-streptomycin and 5.0 mg/L of amphotericin B. Cells were counted and plated in 75-cm<sup>2 </sup>Corning cell culture flasks at 7.5 &#215; 10<sup>5 </sup>cells for ADSCs and 1.6 &#215; 10<sup>6 </sup>cells for BMSCs in 15 ml of culture medium and incubated at 39&#176;C and 5% CO<sub>2 </sub>(passage 0 cells). Medium was changed every other day until cells reached 80% confluence (day 10 of culture). To keep the cells at a sufficiently low density to stimulate further growth, they were trypsinized with 0.25% Trypsin (Sigma T4799), 0.04% EDTA (Sigma E6753), and replated at the density indicated earlier (passage 1 cells). At 80% confluence, cells were trypsinized again and frozen and stored in liquid N<sub>2 </sub>until further use.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>ADSCs and BMSCs osteogenic and adipogenic differentiation <it>in vitro</it></p>
+            </st>
+            <p>Frozen ADSCs and BMSCs were thawed and plated (passage 2) at a density of 7.5 &#215; 10<sup>5 </sup>cells/75 cm<sup>2</sup>. Cells were cultured for 4 days, and then they were trypsinized, counted, and plated (passage 3) again for 4 days before induction of differentiation. To induce the differentiation of ADSCs and BMSCs into osteogenic or adipogenic cells <it>in vitro</it>, ADSCs and BMSCs were cultured with specific osteogenic or adipogenic differentiation medium. Osteogenic medium consisted of basic high-glucose DMEM supplemented with 100 nmol/L dexamethasone (Sigma D4902), 10 mmol/L &#946;-glycerophosphate (Sigma G6376), 0.05 mmol/L ascorbic acid-2-phosphate (Sigma A4403), 10% FBS, 1% penicillin G-streptomycin, and 5.6 mg/L of amphotericin B. Adipogenic medium consisted of basic high-glucose DMEM supplemented with 1.0 &#956;mol/L dexamethasone, 0.5 mmol/L isobutylmethylxanthine (IBMX, Sigma I5879), 10 &#956;mol/L insulin (Sigma I9278), 200 &#956;mol/L indomethacin (Sigma I7378), 10% FBS, 1% penicillin G-streptomycin, and 5.6 mg/L of amphotericin B. Cells were cultured in these media for 3 weeks, with media changed every 3 days.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>RNA Extraction, qPCR, and primer design and testing</p>
+            </st>
+            <p>At 0, 2, 7, and 21 days of differentiation (dd) cells were trypsinized, as described earlier and counted by hemocytometer. Total RNA was immediately isolated by using the RNeasy Mini Kit (Qiagen Sciences, Germantown, MD) according to the manufacturer's protocol. Any residual genomic DNA was eliminated by treatment with RNase-Free DNase Set (Qiagen). RNA concentration was measured with a NanoDrop ND-1000 spectrophotometer (NanoDrop Technologies, Wilmington, DE). A portion of the highly pure RNA (A260/A280 = 2.13 &#177; 0.05) was diluted to 100 mg/L by using DNase-RNase-free water before reverse transcription. Sufficient cDNA was prepared to run all selected genes. Each cDNA was synthesized by reverse transcription and used for qPCR, as described by Bionaz and Loor <abbrgrp><abbr bid="B11">11</abbr></abbrgrp>. Each sample was run in triplicate along with a 6-point relative standard curve plus the nontemplate control. The fivefold dilution standard curve was made by using cDNA from an RNA pool of four swine tissues: liver, mammary gland, jejunum, and kidney. The amplification reactions were conducted in an ABI Prism 7900 HT SDS instrument (Applied Biosystems) as follows: 2 min at 50&#176;C, 10 min at 95&#176;C, 40 cycles of 15 s at 95&#176;C, and 1 min at 60&#176;C. The presence of a single PCR product was verified by the dissociation protocol by using incremental temperatures to 95&#176;C for 15 seconds plus 65&#176;C for 15 seconds. Data were analyzed with the 7900 HT Sequence Detection Systems software (version 2.2.3, Applied Biosystems). Primer design and evaluation were performed as previously described by Tramontana <it>et al. </it><abbrgrp><abbr bid="B12">12</abbr></abbrgrp>.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Selection and evaluation of ICGs</p>
+            </st>
+            <p>For the purpose of identifying potential ICGs, porcine microarray (13,000 oligonucleotides) data generated by a dye-swap reference design <abbrgrp><abbr bid="B10">10</abbr></abbrgrp> were mined to uncover stable expressed genes during osteogenic and adipogenic differentiation <it>in vitro </it>of ADSCs and BMSCs. The protocol to select and evaluate ICGs by using microarray was as previously described <abbrgrp><abbr bid="B12">12</abbr></abbrgrp>.</p>
+            <p>The most stably expressed genes among all samples in the microarray data set were chosen by following these criteria: (a) only genes with median intensity &#8805;3 standard deviations above the median of the background were used; (b) filtered data were uploaded into GeneSpring GX7 software (Agilent Technologies) and normalized by using Lowess; (c) only genes with expression &#8805;100 relative fluorescent units (that is, medium-large mRNA abundance) were chosen; and (d) only genes with expression ratio ~1.0 between sample and reference (RNA mixture from porcine mammary gland, liver, kidney, and jejunum) and with complete annotation were selected.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Gene-stability evaluation</p>
+            </st>
+            <p>To uncover reliable ICGs, we used geNorm software, which is based on a pairwise expression ratio stability comparison method <abbrgrp><abbr bid="B3">3</abbr></abbrgrp>. geNorm measures the stability (<it>M</it>) of the ICGs- as the average pairwise expression ratio variation of qPCR data of a particular gene with all other control genes tested. Genes with the lowest <it>M </it>values have the most stable expression. geNorm also determines the optimal number of ICGs and calculates a normalization factor (NF) to be used for normalization <abbrgrp><abbr bid="B3">3</abbr></abbrgrp>. It uses a pairwise variation analysis between the normalization factors NFn and NFn+1 (V) to determine the number of control genes required for accurate normalization. The pairwise comparison requires evaluation of multiple genes to select appropriate internal controls. Critical for the use of the pairwise comparison method in selecting appropriate ICGs is the absence of co-regulation (common upstream regulator factor(s) or direct regulation of transcript expression between gene products) among the genes tested <abbrgrp><abbr bid="B3">3</abbr></abbrgrp>. Co-regulation was assessed by using Ingenuity Pathways Analysis (IPA; Ingenuity System). IPA is a web-based software that generates relations among human and rodent genes or proteins by using information from the published literature.</p>
+            <p>The evaluation of the appropriate number of ICGs to calculate the NF and the effect of normalization versus nonnormalization was evaluated by running qPCR for collagen type I alpha 1 (<it>COL1A1</it>) and diazepam-binding inhibitor (acyl-CoA-binding protein; <it>DBI</it>) which represented osteogenic and adipogenic gene markers, respectively.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Statistical analysis</p>
+            </st>
+            <p>A Mixed model with repeated measures (SAS, release 9.0; SAS Inst. Inc., Cary, NC) was used to evaluate the effect of time and differentiation on raw (that is, nonnormalized) and normalized mRNA abundance. Spatial power was a suitable covariate structure based on Akaike's information criterion (closer to 0) for the model used. However, other covariate structures, such as autoregressive order 1 and compound symmetry, had an identical fitting. The model included the fixed effect of time (0, 2, 7, and 21 days), differentiation (osteogenic and adipogenic), cell type (ADSCs, BMSCs), and all interactions (Table <tblr tid="T1">1</tblr>). Pig (n = 3) was considered a random effect. Statistical correlation between qPCR data of ICGs with total RNA, number of cells, and concentration of total RNA/cell was performed by using the PROC CORR procedure of SAS.</p>
+            <tbl id="T1">
+               <title>
+                  <p>Table 1</p>
+               </title>
+               <caption>
+                  <p>Statistical effect of each variable and combination of variables on 10 potential internal-control genes</p>
+               </caption>
+               <tblbdy cols="11">
+                  <r>
+                     <c ca="left">
+                        <p><b>Effect</b></p>
+                     </c>
+                     <c ca="center">
+                        <p><b>BANF1</b></p>
+                     </c>
+                     <c ca="center">
+                        <p><b>DAK</b></p>
+                     </c>
+                     <c ca="center">
+                        <p><b>DPH3</b></p>
+                     </c>
+                     <c ca="center">
+                        <p><b>GTF2H3</b></p>
+                     </c>
+                     <c ca="center">
+                        <p><b>NSUN5</b></p>
+                     </c>
+                     <c ca="center">
+                        <p><b>NUBP1</b></p>
+                     </c>
+                     <c ca="center">
+                        <p><b>PRR3</b></p>
+                     </c>
+                     <c ca="center">
+                        <p><b>SSU72</b></p>
+                     </c>
+                     <c ca="center">
+                        <p><b>TIMM17b</b></p>
+                     </c>
+                     <c ca="center">
+                        <p><b>VPS4A</b></p>
+                     </c>
+                  </r>
+                  <r>
+                     <c cspan="11">
+                        <hr/>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>Tissue</p>
+                     </c>
+                     <c ca="center">
+                        <p>0.074</p>
+                     </c>
+                     <c ca="center">
+                        <p>0.194</p>
+                     </c>
+                     <c ca="center">
+                        <p>&lt;.0001</p>
+                     </c>
+                     <c ca="center">
+                        <p>0.817</p>
+                     </c>
+                     <c ca="center">
+                        <p>0.279</p>
+                     </c>
+                     <c ca="center">
+                        <p>0.718</p>
+                     </c>
+                     <c ca="center">
+                        <p>0.144</p>
+                     </c>
+                     <c ca="center">
+                        <p>&lt;.0001</p>
+                     </c>
+                     <c ca="center">
+                        <p>0.259</p>
+                     </c>
+                     <c ca="center">
+                        <p>0.327</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>Differentiation</p>
+                     </c>
+                     <c ca="center">
+                        <p>&lt;.0001</p>
+                     </c>
+                     <c ca="center">
+                        <p>0.008</p>
+                     </c>
+                     <c ca="center">
+                        <p>0.006</p>
+                     </c>
+                     <c ca="center">
+                        <p>0.001</p>
+                     </c>
+                     <c ca="center">
+                        <p>0.889</p>
+                     </c>
+                     <c ca="center">
+                        <p>0.041</p>
+                     </c>
+                     <c ca="center">
+                        <p>&lt;.0001</p>
+                     </c>
+                     <c ca="center">
+                        <p>0.006</p>
+                     </c>
+                     <c ca="center">
+                        <p>0.428</p>
+                     </c>
+                     <c ca="center">
+                        <p>0.229</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>Day</p>
+                     </c>
+                     <c ca="center">
+                        <p>&lt;.0001</p>
+                     </c>
+                     <c ca="center">
+                        <p>&lt;.0001</p>
+                     </c>
+                     <c ca="center">
+                        <p>&lt;.0001</p>
+                     </c>
+                     <c ca="center">
+                        <p>0.002</p>
+                     </c>
+                     <c ca="center">
+                        <p>&lt;.0001</p>
+                     </c>
+                     <c ca="center">
+                        <p>&lt;.0001</p>
+                     </c>
+                     <c ca="center">
+                        <p>&lt;.0001</p>
+                     </c>
+                     <c ca="center">
+                        <p>0.001</p>
+                     </c>
+                     <c ca="center">
+                        <p>&lt;.0001</p>
+                     </c>
+                     <c ca="center">
+                        <p>&lt;.0001</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>Tissue* Differentiation</p>
+                     </c>
+                     <c ca="center">
+                        <p>0.003</p>
+                     </c>
+                     <c ca="center">
+                        <p>0.032</p>
+                     </c>
+                     <c ca="center">
+                        <p>0.061</p>
+                     </c>
+                     <c ca="center">
+                        <p>0.005</p>
+                     </c>
+                     <c ca="center">
+                        <p>0.011</p>
+                     </c>
+                     <c ca="center">
+                        <p>0.045</p>
+                     </c>
+                     <c ca="center">
+                        <p>&lt;.0001</p>
+                     </c>
+                     <c ca="center">
+                        <p>0.008</p>
+                     </c>
+                     <c ca="center">
+                        <p>0.026</p>
+                     </c>
+                     <c ca="center">
+                        <p>0.006</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>Tissue* Day</p>
+                     </c>
+                     <c ca="center">
+                        <p>&lt;.0001</p>
+                     </c>
+                     <c ca="center">
+                        <p>&lt;.0001</p>
+                     </c>
+                     <c ca="center">
+                        <p>&lt;.0001</p>
+                     </c>
+                     <c ca="center">
+                        <p>&lt;.0001</p>
+                     </c>
+                     <c ca="center">
+                        <p>&lt;.0001</p>
+                     </c>
+                     <c ca="center">
+                        <p>&lt;.0001</p>
+                     </c>
+                     <c ca="center">
+                        <p>&lt;.0001</p>
+                     </c>
+                     <c ca="center">
+                        <p>&lt;.0001</p>
+                     </c>
+                     <c ca="center">
+                        <p>&lt;.0001</p>
+                     </c>
+                     <c ca="center">
+                        <p>&lt;.0001</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>Differentiation* Day</p>
+                     </c>
+                     <c ca="center">
+                        <p>&lt;.0001</p>
+                     </c>
+                     <c ca="center">
+                        <p>0.022</p>
+                     </c>
+                     <c ca="center">
+                        <p>0.140</p>
+                     </c>
+                     <c ca="center">
+                        <p>0.000</p>
+                     </c>
+                     <c ca="center">
+                        <p>0.754</p>
+                     </c>
+                     <c ca="center">
+                        <p>0.004</p>
+                     </c>
+                     <c ca="center">
+                        <p>&lt;.0001</p>
+                     </c>
+                     <c ca="center">
+                        <p>0.002</p>
+                     </c>
+                     <c ca="center">
+                        <p>0.000</p>
+                     </c>
+                     <c ca="center">
+                        <p>0.201</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>Tissue* Different* Day</p>
+                     </c>
+                     <c ca="center">
+                        <p>0.271</p>
+                     </c>
+                     <c ca="center">
+                        <p>0.374</p>
+                     </c>
+                     <c ca="center">
+                        <p>0.033</p>
+                     </c>
+                     <c ca="center">
+                        <p>0.086</p>
+                     </c>
+                     <c ca="center">
+                        <p>0.395</p>
+                     </c>
+                     <c ca="center">
+                        <p>0.271</p>
+                     </c>
+                     <c ca="center">
+                        <p>0.009</p>
+                     </c>
+                     <c ca="center">
+                        <p>0.097</p>
+                     </c>
+                     <c ca="center">
+                        <p>0.503</p>
+                     </c>
+                     <c ca="center">
+                        <p>0.323</p>
+                     </c>
+                  </r>
+               </tblbdy>
+            </tbl>
+         </sec>
+      </sec>
+      <sec>
+         <st>
+            <p>Results and Discussion</p>
+         </st>
+         <sec>
+            <st>
+               <p>ICGs selection and evaluation</p>
+            </st>
+            <p>The use of microarray data <abbrgrp><abbr bid="B7">7</abbr></abbrgrp> allowed the identification of 27 stably expressed genes among >10,000 annotated transcripts (Table S1 in Additional file <supplr sid="S1">1</supplr>). The 27 genes were highly stable across all samples (ratio sample/reference = 0.99 &#177; 0.14) in at least 70 of 96 microarrays and represented a novel potential set of ICGs for qPCR analysis of porcine adult mesenchymal stem cells differentiated <it>in vitro</it>.</p>
+            <suppl id="S1">
+               <title>
+                  <p>Additional file 1</p>
+               </title>
+               <text>
+                  <p><b>Tables S1, S2 and S3</b>. <b>Table S1</b>: The ratio sample/reference and relative fluorescent units (RFUs) of the 27 selected genes with the most stable expression in 70 of 96 porcine microarray data from ADSCs and BMSCs induced to differentiate toward the osteogenic and adipogenic lineages. Annotation was based on similarity searches by using BLASTN and TBLASTX against human, mouse, and porcine UniGene databases, and the human genome. <b>Table S2: </b>The GenBank accession number, gene symbol, hybridization position, primer sequence, and amplicon size of primers used to analyze gene expression by qPCR. <b>Table S3: </b>The statistical effect of each variable and combination of variables on specific adipogenic (<it>DBI</it>) and osteogenic (<it>COL1A1</it>) genes nonnormalized (<it>NN</it>), normalized with three or five internal-control genes (ICGs).</p>
+               </text>
+               <file name="scrt7-S1.DOC">
+                  <p>Click here for file</p>
+               </file>
+            </suppl>
+            <p>This preliminary screening allowed the identification of genes with similar mRNA abundance between samples (ADSCs and BMSCs) and the mixture of porcine tissues (reference in the microarray). They were genes with potentially stable expression, similar to those that are considered HKGs <abbrgrp><abbr bid="B14">14</abbr></abbrgrp>. However, as previously suggested <abbrgrp><abbr bid="B11">11</abbr><abbr bid="B12">12</abbr><abbr bid="B15">15</abbr></abbrgrp>, the sole reliance on microarray data for evaluation of ICGs for qPCR normalization is inappropriate and should be considered only as a preliminary screening to identify genes with a potential for stable expression. The qPCR and array techniques differ in analytic procedure and sensitivity <abbrgrp><abbr bid="B16">16</abbr></abbrgrp>. To overcome these differences and optimize the evaluation of ICGs for qPCR normalization, several tools have been developed, based on specific algorithms <abbrgrp><abbr bid="B3">3</abbr><abbr bid="B17">17</abbr><abbr bid="B18">18</abbr></abbrgrp>. In particular, the geNorm software is a valuable tool to evaluate ICGs under diverse experimental conditions, and it is one of the most widely used softwares for evaluation of ICGs to date.</p>
+            <p>The appropriate evaluation of ICGs by using geNorm requires the absence of co-regulation between the selected genes <abbrgrp><abbr bid="B3">3</abbr></abbrgrp>. Co-regulated genes would be affected similarly under the same experimental conditions, which will bias the geNorm analysis (that is, ratio expression stability among two genes across samples). IPA was used to evaluate the presence of co-regulation among the 27 selected genes. This analysis allowed the identification of 20 genes without known co-regulation that were used for stability analysis (Figure <figr fid="F1">1</figr>). The genes that presented co-regulation were excluded from further analysis. Optimal primers were designed for and qPCR was performed on 10 of 20 genes without known co-regulation (Table S2 in Additional file <supplr sid="S1">1</supplr>). It was not possible to design appropriate primers for the remaining 10 genes without known co-regulation because of the absence of sequence availability or because of low primer-pair quality. The description of the 10 genes that were tested is reported in Table <tblr tid="T2">2</tblr>.</p>
+            <tbl id="T2">
+               <title>
+                  <p>Table 2</p>
+               </title>
+               <caption>
+                  <p>Description of 10 potential internal-control genes</p>
+               </caption>
+               <tblbdy cols="2">
+                  <r>
+                     <c ca="left">
+                        <p><b>Gene</b></p>
+                     </c>
+                     <c ca="left">
+                        <p><b>Description</b></p>
+                     </c>
+                  </r>
+                  <r>
+                     <c cspan="2">
+                        <hr/>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p><it>BANF1</it></p>
+                     </c>
+                     <c ca="left">
+                        <p>Barrier to autointegration factor 1</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p><it>DAK</it></p>
+                     </c>
+                     <c ca="left">
+                        <p>Dihydroxyacetone kinase 2 homologue (<it>S. cerevisiae</it>)</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p><it>DPH3</it></p>
+                     </c>
+                     <c ca="left">
+                        <p>KTI11 homologue (<it>S. cerevisiae</it>)</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p><it>GTF2H3</it></p>
+                     </c>
+                     <c ca="left">
+                        <p>Excision repair cross-complementing repair deficiency, complementation group 3</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p><it>NSUN5</it></p>
+                     </c>
+                     <c ca="left">
+                        <p>NOL1/NOP2/Sun domain family, member 5</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p><it>NUBP1</it></p>
+                     </c>
+                     <c ca="left">
+                        <p>Nucleotide-binding protein 1 (MinD homologue, <it>E. coli</it>)</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p><it>PRR3</it></p>
+                     </c>
+                     <c ca="left">
+                        <p>Proline-rich 3</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p><it>SSU72</it></p>
+                     </c>
+                     <c ca="left">
+                        <p>RNA polymerase II CTD phosphatase homologue (<it>S. cerevisiae</it>)</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p><it>TIMM17B</it></p>
+                     </c>
+                     <c ca="left">
+                        <p>Translocase of inner mitochondrial membrane 17 homologue B (yeast)</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p><it>VPS4A</it></p>
+                     </c>
+                     <c ca="left">
+                        <p>Vacuolar protein sorting 4 homologue A (<it>S. cerevisiae</it>)</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p><it>COL1A1</it></p>
+                     </c>
+                     <c ca="left">
+                        <p>Collagen, type I, alpha 1</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p><it>DBI</it></p>
+                     </c>
+                     <c ca="left">
+                        <p>Diazepam-binding inhibitor (acyl-coenzyme A-binding protein)</p>
+                     </c>
+                  </r>
+               </tblbdy>
+            </tbl>
+            <fig id="F1">
+               <title>
+                  <p>Figure 1</p>
+               </title>
+               <caption>
+                  <p>Potential internal-control genes network</p>
+               </caption>
+               <text>
+                  <p><b>Potential internal-control genes network</b>. Evaluation of potential co-regulation (that is, common upstream regulator(s), including endogenous chemical molecules) among the 27 genes with expression ratio between samples and reference close to 1 in a large microarray analysis.</p>
+               </text>
+               <graphic file="scrt7-1"/>
+            </fig>
+         </sec>
+         <sec>
+            <st>
+               <p>ICGs expression pattern</p>
+            </st>
+            <p>Large and significant time, time &#215; tissue, and tissue &#215; differentiation effects were observed in measured mRNA for all genes tested (Figure <figr fid="F2">2</figr>, Table <tblr tid="T1">1</tblr>). In general, a decrease in expression pattern was noted of almost all the 10 genes from dd 0 to dd 2, followed by an increased expression (Figure <figr fid="F2">2</figr>). The statistical effects of time, time &#215; tissue, and tissue &#215; differentiation on the potential ICGs did not exclude the possibility of a good fit for these genes as ICGs. In this regard, it has been demonstrated that the absence of statistical effect on the potential ICGs is not an essential condition to consider them reliable, and, in certain cases, the use of this as the only criterion for selecting appropriate ICGs can be a serious limitation <abbrgrp><abbr bid="B11">11</abbr><abbr bid="B12">12</abbr></abbrgrp>. Moreover, it has been shown that when a physiologic adaptation is featured by a large increase in mRNA synthesis of some abundantly expressed genes, the expression patterns of stably expressed genes appear downregulated because of a dilution effect, which is an artifact of the qPCR protocol <abbrgrp><abbr bid="B11">11</abbr></abbrgrp>. In this case, a significant inverse correlation between qPCR data of reliable ICGs and amount of total RNA/tissue was observed <abbrgrp><abbr bid="B11">11</abbr></abbrgrp>. However, in the present study, no apparent overall correlation was observed between the qPCR data of tested ICGs and the amount of RNA/cell (Table <tblr tid="T3">3</tblr>). Conversely, the negative correlation between number of cells and nanograms of RNA/cell (Table <tblr tid="T3">3</tblr>) suggests a decreased efficiency of RNA extraction with increasing cell number. Thus, correlations between ICGs and total RNA cannot be used to draw conclusions about a possible dilution (or concentration) effect of genes with stable expression (that is, ICGs) <abbrgrp><abbr bid="B11">11</abbr></abbrgrp>.</p>
+            <tbl id="T3">
+               <title>
+                  <p>Table 3</p>
+               </title>
+               <caption>
+                  <p>Correlation between number of cell, RNA, and raw qPCR data of internal control genes tested.</p>
+               </caption>
+               <tblbdy cols="13">
+                  <r>
+                     <c>
+                        <p/>
+                     </c>
+                     <c ca="center">
+                        <p><b># cell</b></p>
+                     </c>
+                     <c ca="center">
+                        <p><b>Tot RNA</b></p>
+                     </c>
+                     <c ca="center">
+                        <p><b><it>BANF1</it></b></p>
+                     </c>
+                     <c ca="center">
+                        <p><b><it>DAK</it></b></p>
+                     </c>
+                     <c ca="center">
+                        <p><b><it>DPH3</it></b></p>
+                     </c>
+                     <c ca="center">
+                        <p><b><it>GTF2H3</it></b></p>
+                     </c>
+                     <c ca="center">
+                        <p><b><it>NSUN5</it></b></p>
+                     </c>
+                     <c ca="center">
+                        <p><b><it>NUBP1</it></b></p>
+                     </c>
+                     <c ca="center">
+                        <p><b><it>PRR3</it></b></p>
+                     </c>
+                     <c ca="center">
+                        <p><b><it>SSU72</it></b></p>
+                     </c>
+                     <c ca="center">
+                        <p><b><it>TIMM17B</it></b></p>
+                     </c>
+                     <c ca="center">
+                        <p><b><it>VPS4A</it></b></p>
+                     </c>
+                  </r>
+                  <r>
+                     <c cspan="13">
+                        <hr/>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p># cell</p>
+                     </c>
+                     <c>
+                        <p/>
+                     </c>
+                     <c>
+                        <p/>
+                     </c>
+                     <c ca="right">
+                        <p>-0.05</p>
+                     </c>
+                     <c ca="right">
+                        <p>-0.08</p>
+                     </c>
+                     <c ca="right">
+                        <p>-0.15</p>
+                     </c>
+                     <c ca="right">
+                        <p>-0.26</p>
+                     </c>
+                     <c ca="right">
+                        <p>-0.20</p>
+                     </c>
+                     <c ca="right">
+                        <p>-0.18</p>
+                     </c>
+                     <c ca="right">
+                        <p>-0.31</p>
+                     </c>
+                     <c ca="right">
+                        <p>-0.11</p>
+                     </c>
+                     <c ca="right">
+                        <p><b><it>-0.35</it></b></p>
+                     </c>
+                     <c ca="right">
+                        <p>-0.11</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>Total RNA</p>
+                     </c>
+                     <c ca="center">
+                        <p><b><it>0.55</it></b></p>
+                     </c>
+                     <c>
+                        <p/>
+                     </c>
+                     <c ca="right">
+                        <p>0.07</p>
+                     </c>
+                     <c ca="right">
+                        <p>-0.21</p>
+                     </c>
+                     <c ca="right">
+                        <p>0.00</p>
+                     </c>
+                     <c ca="right">
+                        <p>-0.21</p>
+                     </c>
+                     <c ca="right">
+                        <p>-0.10</p>
+                     </c>
+                     <c ca="right">
+                        <p>-0.08</p>
+                     </c>
+                     <c ca="right">
+                        <p><b><it>-0.42</it></b></p>
+                     </c>
+                     <c ca="right">
+                        <p>-0.09</p>
+                     </c>
+                     <c ca="right">
+                        <p>-0.20</p>
+                     </c>
+                     <c ca="right">
+                        <p>-0.01</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>ng RNA/cell</p>
+                     </c>
+                     <c ca="center">
+                        <p><b><it>-0.42</it></b></p>
+                     </c>
+                     <c ca="center">
+                        <p><b><it>0.43</it></b></p>
+                     </c>
+                     <c ca="right">
+                        <p>0.06</p>
+                     </c>
+                     <c ca="right">
+                        <p>0.11</p>
+                     </c>
+                     <c ca="right">
+                        <p>0.20</p>
+                     </c>
+                     <c ca="right">
+                        <p>0.14</p>
+                     </c>
+                     <c ca="right">
+                        <p>0.20</p>
+                     </c>
+                     <c ca="right">
+                        <p>0.09</p>
+                     </c>
+                     <c ca="right">
+                        <p>0.06</p>
+                     </c>
+                     <c ca="right">
+                        <p>0.11</p>
+                     </c>
+                     <c ca="right">
+                        <p>0.28</p>
+                     </c>
+                     <c ca="right">
+                        <p>0.27</p>
+                     </c>
+                  </r>
+               </tblbdy>
+               <tblfn>
+                  <p>In <b><it>italicized bold</it></b>, correlation with <it>P </it>&lt; 0.05.</p>
+               </tblfn>
+            </tbl>
+            <fig id="F2">
+               <title>
+                  <p>Figure 2</p>
+               </title>
+               <caption>
+                  <p>Relative mRNA abundance of 10 potential internal-control genes</p>
+               </caption>
+               <text>
+                  <p><b>Relative mRNA abundance of 10 potential internal-control genes</b>. Pattern of relative mRNA abundance of 10 potential internal-control genes tested in ADSCs and BMSCs during osteogenic and adipogenic differentiation <it>in vitro</it>. These data are raw data (that is, not normalized).</p>
+               </text>
+               <graphic file="scrt7-2"/>
+            </fig>
+         </sec>
+         <sec>
+            <st>
+               <p>Considerations for selecting optimal number of ICGs</p>
+            </st>
+            <p>geNorm uncovered <it>TIMM17B </it>and <it>NSUN5 </it>as the genes with the most stable expression ratio (that is, lowest <it>M</it>) among evaluated ICGs calculated by pairwise comparison (Figure <figr fid="F3">3</figr>). As suggested, a minimum of three ICGs should be used to calculate the NF <abbrgrp><abbr bid="B3">3</abbr></abbrgrp>. However, geNorm analysis revealed nine ICGs as the optimal number to be used for NF calculation (pairwise variation V = 0.044). The use of eight or five genes also resulted in a high reliability (V = 0.045); in addition, the V value of three ICGs was particularly low (V = 0.073). Comparing normalized expression of <it>DBI </it>and <it>COL1A1 </it>by using the NF calculated by three versus five most-stable ICGs (Figure <figr fid="F4">4</figr>) confirmed that no apparent difference existed in normalized qPCR results by including the two additional ICGs to calculate NF. The final number of ICGs to be used to calculate the NF often is a tradeoff between practical considerations and accuracy <abbrgrp><abbr bid="B3">3</abbr></abbrgrp>. Including an increasing number of genes when the NF does not significantly change does not add to the value of the normalization analyses <abbrgrp><abbr bid="B3">3</abbr></abbrgrp>. Based on the results of gene stability, and on the limit of V &lt; 0.1, as previously suggested to be acceptable <abbrgrp><abbr bid="B11">11</abbr></abbrgrp>, we elected to use the three most-stable ICGs (<it>NSUN5, TIMM17B</it>, and <it>VPS4A</it>) to calculate the NF for normalization of qPCR data of porcine ADSCs and BMSCs induced to differentiate toward the adipogenic and osteogenic lineages. <it>NSUN5 </it>has not been characterized in the pig genome. In humans, this gene encodes a protein with similarity to p120 (NOL1) a 120-kDa proliferation-associated nucleolar antigen that is a member of an evolutionarily conserved protein family. It is expressed ubiquitously, with higher expression in heart, placenta, and skeletal muscle. <it>NSUN5 </it>is thought to function as an <it>S</it>-adenosyl-<smcaps>L</smcaps>-methionine-dependent methyl-transferase whose absence may be associated with the pathogenesis of William syndrome <abbrgrp><abbr bid="B19">19</abbr></abbrgrp>. <it>TIMM17B </it>is a gene localized on the X chromosome that encodes for a translocase present on the inner mitochondrial membrane in the human <abbrgrp><abbr bid="B20">20</abbr></abbrgrp>. Translocases in the mitochondrial inner and outer membranes mediate translocation of nuclear-encoded mitochondrial proteins. The location of the gene on the X-chromosome may question how gender may affect the reliability of this gene as an ICG. In this study, all the animals used were males, but because it has been demonstrated that, in females, one of the two X chromosomes is mainly silenced <abbrgrp><abbr bid="B21">21</abbr></abbrgrp>, we would expect similar reliability of this gene as an ICG for both genders. The <it>VPS4A </it>gene in humans encodes for the AAA protein family (ATPases associated with diverse cellular activities), and it is the homologue of the yeast <it>VPS4 </it>protein that is involved in the transport of proteins out of a prevacuolar/endosomal compartment. In a 1999 study, analysis of the promoter region of the gene revealed features common to HKGs <abbrgrp><abbr bid="B22">22</abbr></abbrgrp>.</p>
+            <fig id="F3">
+               <title>
+                  <p>Figure 3</p>
+               </title>
+               <caption>
+                  <p>Most-stable genes by geNorm and calculation of the optimal number of internal control genes</p>
+               </caption>
+               <text>
+                  <p><b>Most-stable genes by geNorm and calculation of the optimal number of internal control genes</b>. <b>(a) </b>geNorm results for the average expression ratio stability (<it>M</it>) of potential internal-control genes calculated by pairwise comparison. <b>(b) </b>determination of the optimal internal-control genes number for normalization (lowest <it>M</it>).</p>
+               </text>
+               <graphic file="scrt7-3"/>
+            </fig>
+            <fig id="F4">
+               <title>
+                  <p>Figure 4</p>
+               </title>
+               <caption>
+                  <p>Relative mRNA abundance of <it>COL1A1 </it>and <it>DBI </it>nonnormalized and normalized with three or five internal control genes</p>
+               </caption>
+               <text>
+                  <p><b>Relative mRNA abundance of <it>COL1A1 </it>and <it>DBI </it>nonnormalized and normalized with three or five internal control genes</b>. Pattern of <it>COL1A1 </it>and <it>DBI </it>expression before and after normalization by using a NF calculated with three or five most-stable internal control genes from geNorm analysis (see Figure 3). * <it>P </it>&lt; 0.05 for Tissue &#215; Day interaction; <sup>#</sup><it>P </it>&lt; 0.05 for Differentiation &#215; Day interaction at each time point. See Table S3 for overall statistical results.</p>
+               </text>
+               <graphic file="scrt7-4"/>
+            </fig>
+            <p>The effect of normalization on qPCR data is highlighted by <it>COL1A1 </it>and <it>DBI </it>expression patterns before and after normalization (Figure <figr fid="F4">4</figr>, Table S3 for overall statistical results). For <it>COL1A1</it>, the Tissue &#215; Day interaction was not significant when the gene was not normalized, but normalization with three or five ICGs gave a significant overall Tissue &#215; Day interaction (Table S3); differences were observed at 0 and 2 days. Similarly, overall Tissue &#215; Day interaction of <it>DBI </it>was significant before normalization, whereas after normalization, using three or five ICGs was not significant (Table S3), particularly for 0 days.</p>
+         </sec>
+      </sec>
+      <sec>
+         <st>
+            <p>Conclusions</p>
+         </st>
+         <p>Accurate normalization of qPCR data is an unavoidable step for obtaining reliable results. Many published studies dealing with the use of qPCR, however, do not report or follow a proper method to test for suitable ICGs. In this study, we indentified highly reliable ICGs for qPCR normalization data of porcine ADSCs and BMSCs. We also propose a protocol to select ICGs that can be used in many other cell/tissue-type experiments. The traditional criterion to select appropriate ICGs by using absence of time and/or treatment effect on qPCR data, would have rejected our candidate ICGs as inappropriate because of observed statistical effects on their expression. However, the use of IPA to select genes without known co-regulation, and the pairwise comparison method (geNorm), uncovered a very high stability in expression ratio among selected ICGs. This indicates that the relative mRNA abundance of those genes is similarly subjected to the errors before (for example, dilution/concentration effect) and during the qPCR procedure (from RNA extraction to qPCR analysis). The robustness of such an approach relies on the fact that the purpose for normalization of qPCR data is to correct for those errors. In addition, although the use of nine ICGs resulted in the optimal (that is, most stable) NF, the use of NF calculated by the geometric mean of <it>NSUN5</it>, <it>TIMM17B</it>, and <it>VPS4A </it>resulted in IGCs that are highly reliable for normalization of qPCR data from porcine adult mesenchymal stem cells induced to differentiate toward adipogenic and osteogenic lineages. Moreover, because it has been demonstrated that the expression patterns of commonly used ICGs can vary widely in different experimental conditions <abbrgrp><abbr bid="B23">23</abbr><abbr bid="B24">24</abbr></abbrgrp>, the suitability of the ICGs uncovered in this study must be validated (for instance, by the simple use of geNorm), as the experimental conditions differ from those reported here. In this regard, the present work provides a large set of genes (Table S1 in Additional file <supplr sid="S1">1</supplr>) that can be used as potential ICGs, to be tested in similar experimental conditions in laboratories where the microarray data are not readily available.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Abbreviations</p>
+         </st>
+         <p>ADSCs: adipose-derived stem cells; BMSCs: bone marrow-derived stem cells; DMEM: Dulbecco's Modified Eagle's Medium; DPBS: Dulbecco's phosphate-buffered saline; FBS: fetal bovine serum; HKGs: housekeeping genes; ICGs: internal control genes; IPA: ingenuity pathways analysis; NF: normalization factor.</p>
+         <p>Gene abbreviations are featured in Table <tblr tid="T2">2</tblr>.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Competing interests</p>
+         </st>
+         <p>The authors declare that they have no competing interests.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Authors' contributions</p>
+         </st>
+         <p>EM carried out the conception and design, collection and/or assembly of data, data analysis and interpretation, and manuscript writing. MB carried out the conception and design, data analysis and interpretation, and manuscript writing. ASL carried out the collection and/or assembly of data and data analysis. WLH carried out data analysis and interpretation and manuscript writing. JJL provided gene-expression and bioinformatics software and swine oligonucleotide microarray annotation. MBW carried out the conception and design, financial support, data analysis and interpretation, manuscript writing, and final approval of manuscript. All authors read and approved the final manuscript.</p>
+      </sec>
+   </bdy>
+   <bm>
+      <ack>
+         <sec>
+            <st>
+               <p>Acknowledgements</p>
+            </st>
+            <p>The authors thank Synthia Lane and Tara VanEtten for technical assistance with this work and Glenn Bressner for management of the animals used in these studies. This work was supported by a grant from the Illinois Regenerative Medicine Institute IDPH 63080017 through the State of Illinois Department of Public Health.</p>
+         </sec>
+      </ack>
+      <refgrp>
+         <bibl id="B1">
+            <title>
+               <p>Fat tissue: an underappreciated source of stem cells for biotechnology</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Fraser</snm>
+                  <fnm>JK</fnm>
+               </au>
+               <au>
+                  <snm>Wulur</snm>
+                  <fnm>I</fnm>
+               </au>
+               <au>
+                  <snm>Alfonso</snm>
+                  <fnm>Z</fnm>
+               </au>
+               <au>
+                  <snm>Hedrick</snm>
+                  <fnm>MH</fnm>
+               </au>
+            </aug>
+            <source>Trends Biotechnol</source>
+            <pubdate>2006</pubdate>
+            <volume>24</volume>
+            <issue>4</issue>
+            <fpage>150</fpage>
+            <lpage>154</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.tibtech.2006.01.010</pubid>
+                  <pubid idtype="pmpid" link="fulltext">16488036</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B2">
+            <title>
+               <p>The power of real-time PCR</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Valasek</snm>
+                  <fnm>MA</fnm>
+               </au>
+               <au>
+                  <snm>Repa</snm>
+                  <fnm>JJ</fnm>
+               </au>
+            </aug>
+            <source>Adv Physiol Educ</source>
+            <pubdate>2005</pubdate>
+            <volume>29</volume>
+            <issue>3</issue>
+            <fpage>151</fpage>
+            <lpage>159</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1152/advan.00019.2005</pubid>
+                  <pubid idtype="pmpid" link="fulltext">16109794</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B3">
+            <title>
+               <p>Accurate normalization of real-time quantitative RT-PCR data by geometric averaging of multiple internal control genes</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Vandesompele</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>De Preter</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Pattyn</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Poppe</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Van Roy</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>De Paepe</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Speleman</snm>
+                  <fnm>F</fnm>
+               </au>
+            </aug>
+            <source>Genome Biol</source>
+            <pubdate>2002</pubdate>
+            <volume>3</volume>
+            <fpage>RESEARCH0034</fpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1186/gb-2002-3-7-research0034</pubid>
+                  <pubid idtype="pmcid">126239</pubid>
+                  <pubid idtype="pmpid">12184808</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B4">
+            <title>
+               <p>Comparison of human adult and fetal expression and identification of 535 housekeeping/maintenance genes</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Warrington</snm>
+                  <fnm>JA</fnm>
+               </au>
+               <au>
+                  <snm>Nair</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Mahadevappa</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Tsyganskaya</snm>
+                  <fnm>M</fnm>
+               </au>
+            </aug>
+            <source>Physiol Genomics</source>
+            <pubdate>2000</pubdate>
+            <volume>2</volume>
+            <fpage>143</fpage>
+            <lpage>147</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid">11015593</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B5">
+            <title>
+               <p>Housekeeping genes as internal standards: use and limits</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Thellin</snm>
+                  <fnm>O</fnm>
+               </au>
+               <au>
+                  <snm>Zorzi</snm>
+                  <fnm>W</fnm>
+               </au>
+               <au>
+                  <snm>Lakaye</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>De Borman</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Coumans</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Hennen</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Grisar</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Igout</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Heinen</snm>
+                  <fnm>E</fnm>
+               </au>
+            </aug>
+            <source>J Biotechnol</source>
+            <pubdate>1999</pubdate>
+            <volume>75</volume>
+            <fpage>291</fpage>
+            <lpage>295</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/S0168-1656(99)00163-7</pubid>
+                  <pubid idtype="pmpid">10617337</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B6">
+            <title>
+               <p>Control selection for RNA quantitation</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Suzuki</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Higgins</snm>
+                  <fnm>PJ</fnm>
+               </au>
+               <au>
+                  <snm>Crawford</snm>
+                  <fnm>DR</fnm>
+               </au>
+            </aug>
+            <source>Biotechniques</source>
+            <pubdate>2000</pubdate>
+            <volume>29</volume>
+            <fpage>332</fpage>
+            <lpage>337</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid">10948434</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B7">
+            <title>
+               <p>Porcine mesenchymal stem cells. Induction of distinct mesenchymal cell lineages</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Ringe</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Kaps</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Schmitt</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Buscher</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Bartel</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Smolian</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Schultz</snm>
+                  <fnm>O</fnm>
+               </au>
+               <au>
+                  <snm>Burmester</snm>
+                  <fnm>GR</fnm>
+               </au>
+               <au>
+                  <snm>Haupl</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Sittinger</snm>
+                  <fnm>M</fnm>
+               </au>
+            </aug>
+            <source>Cell Tissue Res</source>
+            <pubdate>2002</pubdate>
+            <volume>307</volume>
+            <fpage>321</fpage>
+            <lpage>327</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1007/s00441-002-0525-z</pubid>
+                  <pubid idtype="pmpid" link="fulltext">11904768</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B8">
+            <title>
+               <p>Plasticity of cultured mesenchymal stem cells: switch from nestin-positive to excitable neuron-like phenotype</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Wislet-Gendebien</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Hans</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Leprince</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Rigo</snm>
+                  <fnm>JM</fnm>
+               </au>
+               <au>
+                  <snm>Moonen</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Rogister</snm>
+                  <fnm>B</fnm>
+               </au>
+            </aug>
+            <source>Stem Cells</source>
+            <pubdate>2005</pubdate>
+            <volume>23</volume>
+            <fpage>392</fpage>
+            <lpage>402</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1634/stemcells.2004-0149</pubid>
+                  <pubid idtype="pmpid" link="fulltext">15749934</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B9">
+            <title>
+               <p>Unique and independent roles for MLL in adult hematopoietic stem cells and progenitors</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Jude</snm>
+                  <fnm>CD</fnm>
+               </au>
+               <au>
+                  <snm>Climer</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Xu</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Artinger</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Fisher</snm>
+                  <fnm>JK</fnm>
+               </au>
+               <au>
+                  <snm>Ernst</snm>
+                  <fnm>P</fnm>
+               </au>
+            </aug>
+            <source>Cell Stem Cell</source>
+            <pubdate>2007</pubdate>
+            <volume>1</volume>
+            <fpage>324</fpage>
+            <lpage>337</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.stem.2007.05.019</pubid>
+                  <pubid idtype="pmcid">2234224</pubid>
+                  <pubid idtype="pmpid">18371366</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B10">
+            <title>
+               <p>Temporal transcript profiling of porcine adult mesenchymal stem cells during osteogenic and adipogenic differentiation using a 13K porcine microarray</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Monaco</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Lima</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Wilson</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Kim</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Bionaz</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Hurley</snm>
+                  <fnm>WL</fnm>
+               </au>
+               <au>
+                  <snm>Wheeler</snm>
+                  <fnm>MB</fnm>
+               </au>
+            </aug>
+            <source>ISSCR 6th Annual Meeting: Philadelphia</source>
+            <pubdate>2008</pubdate>
+            <note>322, 323</note>
+         </bibl>
+         <bibl id="B11">
+            <title>
+               <p>Identification of reference genes for quantitative real-time PCR in the bovine mammary gland during the lactation cycle</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Bionaz</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Loor</snm>
+                  <fnm>JJ</fnm>
+               </au>
+            </aug>
+            <source>Physiol Genomics</source>
+            <pubdate>2007</pubdate>
+            <volume>29</volume>
+            <fpage>312</fpage>
+            <lpage>319</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1152/physiolgenomics.00223.2006</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17284669</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B12">
+            <title>
+               <p>Internal controls for quantitative polymerase chain reaction of swine mammary glands during pregnancy and lactation</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Tramontana</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Bionaz</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Sharma</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Graugnard</snm>
+                  <fnm>DE</fnm>
+               </au>
+               <au>
+                  <snm>Cutler</snm>
+                  <fnm>EA</fnm>
+               </au>
+               <au>
+                  <snm>Ajmone-Marsan</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Hurley</snm>
+                  <fnm>WL</fnm>
+               </au>
+               <au>
+                  <snm>Loor</snm>
+                  <fnm>JJ</fnm>
+               </au>
+            </aug>
+            <source>J Dairy Sci</source>
+            <pubdate>2008</pubdate>
+            <volume>91</volume>
+            <fpage>3057</fpage>
+            <lpage>3066</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.3168/jds.2008-1164</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18650282</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B13">
+            <title>
+               <p>Morphological and transcriptomics comparison of adipose and bone marrow derived porcine stem cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Monaco</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Lima</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Bionaz</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Maki</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Wilson</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Hurley</snm>
+                  <fnm>WL</fnm>
+               </au>
+               <au>
+                  <snm>Wheeler</snm>
+                  <fnm>MB</fnm>
+               </au>
+            </aug>
+            <source>Open Tissue Eng Regen Med J</source>
+            <pubdate>2009</pubdate>
+            <volume>2</volume>
+            <fpage>20</fpage>
+            <lpage>33</lpage>
+            <xrefbib>
+               <pubid idtype="doi">10.2174/1875043500902010020</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B14">
+            <title>
+               <p>Differentiating human embryonic stem cells express a unique housekeeping gene signature</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Synnergren</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Giesler</snm>
+                  <fnm>TL</fnm>
+               </au>
+               <au>
+                  <snm>Adak</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Tandon</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Noaksson</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Lindahl</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Nilsson</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Nelson</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Olsson</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Englund</snm>
+                  <fnm>MC</fnm>
+               </au>
+               <au>
+                  <snm>Abbot</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Sartipy</snm>
+                  <fnm>P</fnm>
+               </au>
+            </aug>
+            <source>Stem Cells</source>
+            <pubdate>2007</pubdate>
+            <volume>25</volume>
+            <fpage>473</fpage>
+            <lpage>480</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1634/stemcells.2006-0247</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17284652</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B15">
+            <title>
+               <p>Gene expression ratio stability evaluation in prepubertal bovine mammary tissue from calves fed different milk replacers reveals novel internal controls for quantitative polymerase chain reaction</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Piantoni</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Bionaz</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Graugnard</snm>
+                  <fnm>DE</fnm>
+               </au>
+               <au>
+                  <snm>Daniels</snm>
+                  <fnm>KM</fnm>
+               </au>
+               <au>
+                  <snm>Akers</snm>
+                  <fnm>RM</fnm>
+               </au>
+               <au>
+                  <snm>Loor</snm>
+                  <fnm>JJ</fnm>
+               </au>
+            </aug>
+            <source>J Nutr</source>
+            <pubdate>2008</pubdate>
+            <volume>138</volume>
+            <fpage>1158</fpage>
+            <lpage>1164</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid" link="fulltext">18492850</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B16">
+            <title>
+               <p>Large scale real-time PCR validation on gene expression measurements from two commercial long-oligonucleotide microarrays</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Wang</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Barbacioru</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Hyland</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Xiao</snm>
+                  <fnm>W</fnm>
+               </au>
+               <au>
+                  <snm>Hunkapiller</snm>
+                  <fnm>KL</fnm>
+               </au>
+               <au>
+                  <snm>Blake</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Chan</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Gonzalez</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Zhang</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Samaha</snm>
+                  <fnm>RR</fnm>
+               </au>
+            </aug>
+            <source>BMC Genomics</source>
+            <pubdate>2006</pubdate>
+            <volume>7</volume>
+            <fpage>59</fpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1186/1471-2164-7-59</pubid>
+                  <pubid idtype="pmcid">1435885</pubid>
+                  <pubid idtype="pmpid">16551369</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B17">
+            <title>
+               <p>Normalization of real-time quantitative reverse transcription-PCR data: a model-based variance estimation approach to identify genes suited for normalization, applied to bladder and colon cancer data sets</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Andersen</snm>
+                  <fnm>CL</fnm>
+               </au>
+               <au>
+                  <snm>Jensen</snm>
+                  <fnm>JL</fnm>
+               </au>
+               <au>
+                  <snm>Orntoft</snm>
+                  <fnm>TF</fnm>
+               </au>
+            </aug>
+            <source>Cancer Res</source>
+            <pubdate>2004</pubdate>
+            <volume>64</volume>
+            <fpage>5245</fpage>
+            <lpage>5250</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1158/0008-5472.CAN-04-0496</pubid>
+                  <pubid idtype="pmpid" link="fulltext">15289330</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B18">
+            <title>
+               <p>Determination of stable housekeeping genes, differentially regulated target genes and sample integrity: BestKeeper-Excel-based tool using pair-wise correlations</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Pfaffl</snm>
+                  <fnm>MW</fnm>
+               </au>
+               <au>
+                  <snm>Tichopad</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Prgomet</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Neuvians</snm>
+                  <fnm>TP</fnm>
+               </au>
+            </aug>
+            <source>Biotechnol Lett</source>
+            <pubdate>2004</pubdate>
+            <volume>26</volume>
+            <fpage>509</fpage>
+            <lpage>515</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1023/B:BILE.0000019559.84305.47</pubid>
+                  <pubid idtype="pmpid" link="fulltext">15127793</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B19">
+            <title>
+               <p>Characterization of two novel genes, WBSCR20 and WBSCR22, deleted in Williams-Beuren syndrome</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Doll</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Grzeschik</snm>
+                  <fnm>KH</fnm>
+               </au>
+            </aug>
+            <source>Cytogenet Cell Genet</source>
+            <pubdate>2001</pubdate>
+            <volume>95</volume>
+            <fpage>20</fpage>
+            <lpage>27</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1159/000057012</pubid>
+                  <pubid idtype="pmpid" link="fulltext">11978965</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B20">
+            <title>
+               <p>Genetic and structural characterization of the human mitochondrial inner membrane translocase</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Bauer</snm>
+                  <fnm>MF</fnm>
+               </au>
+               <au>
+                  <snm>Gempel</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Reichert</snm>
+                  <fnm>AS</fnm>
+               </au>
+               <au>
+                  <snm>Rappold</snm>
+                  <fnm>GA</fnm>
+               </au>
+               <au>
+                  <snm>Lichtner</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Gerbitz</snm>
+                  <fnm>KD</fnm>
+               </au>
+               <au>
+                  <snm>Neupert</snm>
+                  <fnm>W</fnm>
+               </au>
+               <au>
+                  <snm>Brunner</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Hofmann</snm>
+                  <fnm>S</fnm>
+               </au>
+            </aug>
+            <source>J Mol Biol</source>
+            <pubdate>1999</pubdate>
+            <volume>289</volume>
+            <fpage>69</fpage>
+            <lpage>82</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1006/jmbi.1999.2751</pubid>
+                  <pubid idtype="pmpid" link="fulltext">10339406</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B21">
+            <title>
+               <p>Inactive X chromosome-specific histone H3 modifications and CpG hypomethylation flank a chromatin boundary between an X-inactivated and an escape gene</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Goto</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Kimura</snm>
+                  <fnm>H</fnm>
+               </au>
+            </aug>
+            <source>Nucleic Acids Res</source>
+            <pubdate>2009</pubdate>
+            <volume>37</volume>
+            <issue>22</issue>
+            <fpage>7416</fpage>
+            <lpage>7428</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1093/nar/gkp860</pubid>
+                  <pubid idtype="pmcid">2794193</pubid>
+                  <pubid idtype="pmpid">19843608</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B22">
+            <title>
+               <p>Cloning, characterisation, and functional expression of the Mus musculus SKD1 gene in yeast demonstrates that the mouse SKD1 and the yeast VPS4 genes are orthologues and involved in intracellular protein trafficking</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Scheuring</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Bodor</snm>
+                  <fnm>O</fnm>
+               </au>
+               <au>
+                  <snm>Rohricht</snm>
+                  <fnm>RA</fnm>
+               </au>
+               <au>
+                  <snm>Muller</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Beyer</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Kohrer</snm>
+                  <fnm>K</fnm>
+               </au>
+            </aug>
+            <source>Gene</source>
+            <pubdate>1999</pubdate>
+            <volume>234</volume>
+            <issue>1</issue>
+            <fpage>149</fpage>
+            <lpage>159</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/S0378-1119(99)00163-8</pubid>
+                  <pubid idtype="pmpid" link="fulltext">10393249</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B23">
+            <title>
+               <p>Control genes and variability: absence of ubiquitous reference transcripts in diverse mammalian expression studies</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Lee</snm>
+                  <fnm>PD</fnm>
+               </au>
+               <au>
+                  <snm>Sladek</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Greenwood</snm>
+                  <fnm>CM</fnm>
+               </au>
+               <au>
+                  <snm>Hudson</snm>
+                  <fnm>TJ</fnm>
+               </au>
+            </aug>
+            <source>Genome Res</source>
+            <pubdate>2002</pubdate>
+            <volume>12</volume>
+            <fpage>292</fpage>
+            <lpage>297</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1101/gr.217802</pubid>
+                  <pubid idtype="pmcid">155273</pubid>
+                  <pubid idtype="pmpid">11827948</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B24">
+            <title>
+               <p>Differentiating embryonic stem cells: GAPDH, but neither HPRT nor beta-tubulin is suitable as an internal standard for measuring RNA levels</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Murphy</snm>
+                  <fnm>CL</fnm>
+               </au>
+               <au>
+                  <snm>Polak</snm>
+                  <fnm>JM</fnm>
+               </au>
+            </aug>
+            <source>Tissue Eng</source>
+            <pubdate>2002</pubdate>
+            <volume>8</volume>
+            <fpage>551</fpage>
+            <lpage>559</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1089/107632702760240472</pubid>
+                  <pubid idtype="pmpid" link="fulltext">12201995</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+      </refgrp>
+   </bm>
+</art>

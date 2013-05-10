@@ -1,0 +1,2253 @@
+<!DOCTYPE art SYSTEM "article.dtd">
+<art>
+   <ui>scrt131</ui>
+   <ji>1757-6512</ji>
+   <fm>
+      <dochead>Research</dochead>
+      <bibl>
+         <title>
+            <p>Characterization of bone marrow derived mesenchymal stem cells in suspension</p>
+         </title>
+         <aug>
+            <au id="A1" ce="yes">
+               <snm>Akiyama</snm>
+               <fnm>Kentaro</fnm>
+               <insr iid="I1"/>
+               <insr iid="I2"/>
+               <email>akentaro@md.okayama-u.ac.jp</email>
+            </au>
+            <au id="A2" ce="yes">
+               <snm>You</snm>
+               <fnm>Yong-Ouk</fnm>
+               <insr iid="I1"/>
+               <email>hope7788@wku.ac.kr</email>
+            </au>
+            <au id="A3">
+               <snm>Yamaza</snm>
+               <fnm>Takayoshi</fnm>
+               <insr iid="I1"/>
+               <insr iid="I3"/>
+               <email>yamazata@dent.kyushu-u.ac.jp</email>
+            </au>
+            <au id="A4">
+               <snm>Chen</snm>
+               <fnm>Chider</fnm>
+               <insr iid="I1"/>
+               <email>chiderch@usc.edu</email>
+            </au>
+            <au id="A5">
+               <snm>Tang</snm>
+               <fnm>Liang</fnm>
+               <insr iid="I4"/>
+               <email>kittybruce80@gmail.com</email>
+            </au>
+            <au id="A6">
+               <snm>Jin</snm>
+               <fnm>Yan</fnm>
+               <insr iid="I4"/>
+               <email>yanjin@fmmu.edu.cn</email>
+            </au>
+            <au id="A7">
+               <snm>Chen</snm>
+               <fnm>Xiao-Dong</fnm>
+               <insr iid="I5"/>
+               <email>chenx4@uthscsa.edu</email>
+            </au>
+            <au id="A8">
+               <snm>Gronthos</snm>
+               <fnm>Stan</fnm>
+               <insr iid="I6"/>
+               <email>stan.gronthos@health.sa.gov.au</email>
+            </au>
+            <au id="A9" ca="yes">
+               <snm>Shi</snm>
+               <fnm>Songtao</fnm>
+               <insr iid="I1"/>
+               <email>songtaos@usc.edu</email>
+            </au>
+         </aug>
+         <insg>
+            <ins id="I1">
+               <p>Center for Craniofacial Molecular Biology, University of Southern California, 2250 Alcazar Street, CSA 103, Los Angeles, CA 90033, USA</p>
+            </ins>
+            <ins id="I2">
+               <p>Department of Oral Rehabilitation and Regenerative Medicine, Okayama University Graduate School of Medicine, Dentistry, and Pharmaceutical Science, 2-5-1 Shikata-cho, Kita-ku, Okayama 700-8525, Japan</p>
+            </ins>
+            <ins id="I3">
+               <p>Department of Molecular Cell Biology and Oral Anatomy, Kyushu University Graduate School of Dental Science, Fukuoka 812-8582, Japan</p>
+            </ins>
+            <ins id="I4">
+               <p>Research and Development Center for Tissue Engineering, Fourth Military Medical University, Xi'an, Shanxi, China</p>
+            </ins>
+            <ins id="I5">
+               <p>Division of Research, Department of Comprehensive Dentistry, The University of Texas Health Science Center at San Antonio, 7703 Floyd Curl Drive, San Antonio, Texas 78229-3900, USA</p>
+            </ins>
+            <ins id="I6">
+               <p>Mesenchymal Stem Cell Group, Department of Haematology, Institute of Medical and Veterinary Science/ Hanson Institute, Adelaide 5000, South Australia, Australia</p>
+            </ins>
+         </insg>
+         <source>Stem Cell Research &amp; Therapy</source>
+         <issn>1757-6512</issn>
+         <pubdate>2012</pubdate>
+         <volume>3</volume>
+         <issue>5</issue>
+         <fpage>40</fpage>
+         <url>http://stemcellres.com/content/3/5/40</url>
+         <xrefbib>
+            <pubidlist>
+               <pubid idtype="doi">10.1186/scrt131</pubid>
+               <pubid idtype="pmpid">23083975</pubid>
+            </pubidlist>
+         </xrefbib>
+      </bibl>
+      <history>
+         <rec>
+            <date>
+               <day>25</day>
+               <month>7</month>
+               <year>2012</year>
+            </date>
+         </rec>
+         <revrec>
+            <date>
+               <day>11</day>
+               <month>9</month>
+               <year>2012</year>
+            </date>
+         </revrec>
+         <acc>
+            <date>
+               <day>25</day>
+               <month>9</month>
+               <year>2012</year>
+            </date>
+         </acc>
+         <pub>
+            <date>
+               <day>19</day>
+               <month>10</month>
+               <year>2012</year>
+            </date>
+         </pub>
+      </history>
+      <cpyrt>
+         <year>2012</year>
+         <collab>Akiyama et al.; licensee BioMed Central Ltd.</collab>
+         <note>This is an open access article distributed under the terms of the Creative Commons Attribution License (<url>http://creativecommons.org/licenses/by/2.0</url>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</note>
+      </cpyrt>
+      <abs>
+         <sec>
+            <st>
+               <p>Abstract</p>
+            </st>
+            <sec>
+               <st>
+                  <p>Introduction</p>
+               </st>
+               <p>Bone marrow mesenchymal stem cells (BMMSCs) are a heterogeneous population of postnatal precursor cells with the capacity of adhering to culture dishes generating colony-forming unit-fibroblasts (CFU-F). Here we identify a new subset of BMMSCs that fail to adhere to plastic culture dishes and remain in culture suspension (S-BMMSCs).</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>Methods</p>
+               </st>
+               <p>To catch S-BMMSCs, we used BMMSCs-produced extracellular cell matrix (ECM)-coated dishes. Isolated S-BMMSCs were analyzed by <it>in vitro </it>stem cell analysis approaches, including flow cytometry, inductive multiple differentiation, western blot and <it>in vivo </it>implantation to assess the bone regeneration ability of S-BMMSCs. Furthermore, we performed systemic S-BMMSCs transplantation to treat systemic lupus erythematosus (SLE)-like MRL/<it>lpr </it>mice.</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>Results</p>
+               </st>
+               <p>S-BMMSCs are capable of adhering to ECM-coated dishes and showing mesenchymal stem cell characteristics with distinction from hematopoietic cells as evidenced by co-expression of CD73 or Oct-4 with CD34, forming a single colony cluster on ECM, and failure to differentiate into hematopoietic cell lineage. Moreover, we found that culture-expanded S-BMMSCs exhibited significantly increased immunomodulatory capacities <it>in vitro </it>and an efficacious treatment for SLE-like MRL/<it>lpr </it>mice by rebalancing regulatory T cells (Tregs) and T helper 17 cells (Th17) through high NO production.</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>Conclusions</p>
+               </st>
+               <p>These data suggest that it is feasible to improve immunotherapy by identifying a new subset BMMSCs.</p>
+            </sec>
+         </sec>
+      </abs>
+   </fm>
+   <bdy>
+      <sec>
+         <st>
+            <p>Introduction</p>
+         </st>
+         <p>Bone marrow mesenchymal stem cells (BMMSCs) are hierarchical postnatal stem/progenitor cells capable of self-renewing and differentiating into osteoblasts, chondrocytes, adipocytes, and neural cells <abbrgrp><abbr bid="B1">1</abbr><abbr bid="B2">2</abbr></abbrgrp>. BMMSCs express a unique surface molecule profile, including expression of STRO-1, CD29, CD73, CD90, CD105, CD146, Octamer-4 (Oct4), and stage-specific embryonic antigen-4 (SSEA4) <abbrgrp><abbr bid="B3">3</abbr><abbr bid="B4">4</abbr></abbrgrp>. It is generally believed that BMMSCs are negative for hematopoietic cell markers such as CD14 and CD34 <abbrgrp><abbr bid="B5">5</abbr><abbr bid="B6">6</abbr><abbr bid="B7">7</abbr><abbr bid="B8">8</abbr><abbr bid="B9">9</abbr><abbr bid="B10">10</abbr><abbr bid="B11">11</abbr><abbr bid="B12">12</abbr><abbr bid="B13">13</abbr></abbrgrp>. BMMSCs have been widely used for tissue engineering <abbrgrp><abbr bid="B14">14</abbr><abbr bid="B15">15</abbr><abbr bid="B16">16</abbr></abbrgrp>. Recently, a growing body of evidence has indicated that BMMSCs produce a variety of cytokines and display profound immunomodulatory properties <abbrgrp><abbr bid="B17">17</abbr><abbr bid="B18">18</abbr><abbr bid="B19">19</abbr></abbrgrp>, perhaps by inhibiting the proliferation and function of several major immune cells, such as natural killer cells, dendritic cells, and T and B lymphocytes <abbrgrp><abbr bid="B17">17</abbr><abbr bid="B18">18</abbr><abbr bid="B19">19</abbr><abbr bid="B20">20</abbr></abbrgrp>. These unique properties make BMMSCs of great interest for clinical applications in the treatment of different immune disorders <abbrgrp><abbr bid="B17">17</abbr><abbr bid="B21">21</abbr><abbr bid="B22">22</abbr><abbr bid="B23">23</abbr><abbr bid="B24">24</abbr></abbrgrp>.</p>
+         <p>BMMSCs are thought to be derived from the bone marrow stromal compartment, initially appearing as adherent, single colony clusters (colony-forming unit-fibroblasts [CFU-F]), and subsequently proliferating on culture dishes <abbrgrp><abbr bid="B25">25</abbr></abbrgrp>. To date, the CFU-F assay has been considered one of the gold standards for determining the incidence of clonogenic BMMSC <abbrgrp><abbr bid="B26">26</abbr><abbr bid="B27">27</abbr></abbrgrp>. Since BMMSC are a heterogeneous population of stem cells, it is critical to identify whether BMMSC contain unique cell subsets with distinctive functions, analogous to the hematopoietic stem/progenitor cell system. In this study, we identified a subset of mouse BMMSCs in culture suspension and determined their immunomodulatory characteristics.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Materials and methods</p>
+         </st>
+         <sec>
+            <st>
+               <p>Animals</p>
+            </st>
+            <p>Female C3H/HeJ, C57BL/6J, and C3MRL-Fas<sup>lpr</sup>/J mice were purchased from Jackson Laboratory (Bar Harbor, ME, USA). Female immunocompromised mice (Beige <it>nude</it>/<it>nude </it>XIDIII) were purchased from Harlan (Indianapolis, IN, USA). All animal experiments were performed under the institutionally approved protocols for the use of animal research (USC #10874 and 10941).</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Antibodies</p>
+            </st>
+            <p>Anti Oct4, SSEA4, Runx2, OCN, active &#946; catenin and &#946; catenin were purchased from Millipore (Billerica, MA, USA). Anti alkaline phosphatase (ALP) antibody was purchased from Abcam (Cambridge, MA, USA). Anti Sca-1-PE, CD34-PE, CD34-FITC, CD45-PE, CD73-PE, CD4-PerCP, CD8-FITC, CD25-APC, CD3&#949; and CD28 antibodies were purchased from BD Bioscience (San Jose, CA, USA). Anti Foxp3-PE, IL17-PE, and IFN&#947;-APC antibodies were purchased from eBioscience (San Diego, CA, USA). Unconjugated anti CD34, CD73, and CD105, NOS2 were purchased from Santa Cruz Biosciences (Santa Cruz, CA, USA). Anti &#946; actin antibody was purchased from Sigma (St. Louis, MO, USA).</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Isolation of mouse bone marrow mesenchymal stem cells (BMMSCs)</p>
+            </st>
+            <p>The single suspension of bone marrow derived all nucleated cells (ANCs) from femurs and tibias were seeded at a density of 15 &#215; 10<sup>6 </sup>into 100 mm culture dishes (Corning, NY, USA) at 37&#176;C and 5% CO2. Non-adherent cells were removed after two days and attached cells were maintained for 16 days in alpha minimum essential medium (&#945;-MEM, Invitrogen, Grand Island, NY, USA) supplemented with 20% fetal bovine serum (FBS, Equitech-bio, Kerrville, TX, USA), 2 mM L-glutamine, 55 &#956;M 2-mercaptoethanol, 100 U/ml penicillin, and 100 &#956;g/ml streptomycin (Invitrogen). Colony-forming attached cells were passed once for further experimental use.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Preparation of Extracellular Matrix (ECM) coated dishes</p>
+            </st>
+            <p>ECM coated dishes were prepared as described previously <abbrgrp><abbr bid="B28">28</abbr></abbrgrp>. Briefly, 100% confluence of BMMSCs was cultured in medium with 100 nM L-ascorbic acid phosphate (Wako Pure Chemical, Richmond, VA, USA). After two weeks, cultures were washed with PBS and incubated with 0.005% Triton X-100 (Sigma) for 15 minutes at room temperature to remove cells. The ECM was treated with DNase I (100 units/ml; Sigma) for 1 hour at 37&#176;C. The ECM was washed with PBS three times and stored in 2 ml of PBS containing 100 U/ml penicillin, 100 &#956;g/ml streptomycin and 0.25 &#956;g/ml fungizone (Invitrogen) at 4&#176;C.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Isolation of BMMSCs in culture suspension (S-BMMSCs)</p>
+            </st>
+            <p>Bone marrow-derived ANCs (15 &#215; 10<sup>6</sup>) were seeded into 100 mm culture dishes and cultured for two days. The culture supernatant with floating cells was collected and centrifuged to obtain putative non-attached BMMSCs. The cells were re-seeded at indicated numbers on ECM-coated dishes. After 2 days, the floating cells in the cultures were removed with PBS and the attached cells on ECM were maintained for an additional 14 days. Colony-forming attached cells were passed once and sub-cultured on regular plastic culture dishes for further experiments. For some stem cell characterization analyses, we collected SSEA4 positive S-BMMSCs using the MACS magnetic separation system (Milteny Biotech, Auburn, CA, USA) and expanded in the cultures.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Colony forming unit-fibroblastic (CFU-F) assay</p>
+            </st>
+            <p>One million cells of ANCs from bone marrow were seeded on a T-25 cell culture flask (Nunc, Rochester, NY, USA). After 16 days, the cultures were washed with PBS and stained with 1% toluidine blue solution in 2% paraformaldehyde (PFA). A cell cluster that had more than 50 cells was counted as a colony under microscopy. The colony number was counted in five independent samples per each experimental group.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Cell proliferation assay</p>
+            </st>
+            <p>The proliferation of BMMSCs and S-BMMSCs was performed using the bromodeoxyuridine (BrdU) incorporation assay. Each cell population (1 &#215; 10<sup>4 </sup>cells/well) was seeded on two-well chamber slides (Nunc) and cultured for two to three days. The cultures were incubated with BrdU solution (1:100) (Invitrogen) for 20 hours, and stained with a BrdU staining kit (Invitrogen). BrdU-positive and total cell numbers were counted in ten images per subject. The BrdU assay was repeated in five independent samples for each experimental group.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Population doubling assay</p>
+            </st>
+            <p>A total of 0.5 &#215; 10<sup>6 </sup>cells of BMMSCs and S-BMMSCs was seeded on 60 mm culture dishes at the first passage. Upon reaching confluence, the cells were passaged at the same cell density. The population doubling was calculated at every passage according to the equation: log<sub>2 </sub>(number of harvested cells/number of seeded cells). The finite population doublings were determined by cumulative addition of total numbers generated from each passage until the cells ceased dividing.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Flow cytometric analysis of mesenchymal stem cell surface molecules</p>
+            </st>
+            <p>BMMSCs or S-BMMSCs (0.2 &#215; 10<sup>6 </sup>cells) were incubated with 1 &#181;g of R-Phycoerythrin (PE). (PE)-conjugated antibodies or isotype-matched control immunoglobulin Gs (IgGs) (Southern Biotech, Birmingham, AL, USA) at 4&#176;C for 45 minutes. Samples were analyzed by a fluorescence-activated cell sorting (FACS)<sup>Calibur </sup>flow cytometer (BD Bioscience). For dual color analysis, the cells were treated with PE-conjugated and fluorescein isothiocyanate (FITC)-conjugated antibodies or isotype-matched control IgGs (1 &#181;g each). The cells were analyzed on FACS<sup>Calibur </sup>(BD Bioscience).</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Immunofluorescent microscopy</p>
+            </st>
+            <p>The cells subcultured on eight-well chamber slides (Nunc) (2 &#215; 10<sup>3</sup>/well) were fixed with 4% PFA. The samples were incubated with the specific or isotype-matched mouse antibodies (1:200) overnight at 4&#176;C, and treated with Rhodamine-conjugated secondary antibodies (1:400, Jackson ImmunoResearch, West Grove, PA, USA; Southern Biotechnology, Birmingham, AL, USA). Finally, chamber slides were mounted using Vectashield mounting medium containing 4', 6-diamidino-2-phenylindole (DAPI) (Vector Laboratories, Burlingame, CA, USA).</p>
+         </sec>
+         <sec>
+            <st>
+               <p><it>In vivo </it>bone formation assay</p>
+            </st>
+            <p>A total of 4.0 &#215; 10<sup>6 </sup>cells was mixed with hydroxyapatite/tricalcium phosphate (HA/TCP) ceramic powders (40 mg, Zimmer Inc., Warsaw, IN, USA) and subcutaneously transplanted into eight-week-old immunocompromised mice. After eight weeks, the transplants were harvested, fixed in 4% PFA and then decalcified with 5% ethylenediaminetetraacetic acid (EDTA; pH 7.4), followed by paraffin embedding. The paraffin sections were stained with H &amp; E and analyzed by an NIH Image-J. The newly-formed mineralized tissue area from five fields was calculated and shown as a percentage to total tissue area.</p>
+         </sec>
+         <sec>
+            <st>
+               <p><it>In vitro </it>osteogenic differentiation assay</p>
+            </st>
+            <p>BMMSCs and S-BMMSCs were cultured under osteogenic culture conditions containing 2 mM &#946;-glycerophosphate (Sigma), 100 &#956;M L-ascorbic acid 2-phosphate and 10 nM dexamethasone (Sigma). After induction, the cultures were stained with alizarin red or alkaline phosphatase.</p>
+         </sec>
+         <sec>
+            <st>
+               <p><it>In vitro </it>adipogenic differentiation assay</p>
+            </st>
+            <p>For adipogenic induction, 500 nM isobutylmethylxanthine, 60 &#956;M indomethacin, 500 nM hydrocortisone, 10 &#956;g/ml insulin (Sigma), 100 nM L-ascorbic acid phosphate were added to the culture medium. After 10 days, the cultured cells were stained with Oil Red-O and positive cells were quantified by using an NIH Image-J. Total RNA was also isolated from cultures after 10 days induction for further experiments.</p>
+         </sec>
+         <sec>
+            <st>
+               <p><it>In vitro </it>chondrogenic differentiation assay</p>
+            </st>
+            <p>For chondrogenic induction, 1 &#215; 10<sup>6 </sup>cell pellets were cultured under chondrogenic medium containing 15% FBS, 1% ITS (BD), 100 nM dexamethasone, 2 mM pyruvate (SIGMA), and 10 ng/ml transforming growth factor beta 1 (TGF&#946;1) in (D)MEM (Invitrogen) for threeweeks. Cell pellets were harvested at three weeks post induction, fixed overnight with 4% PFA and then, sections were prepared for staining.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Reverse transcriptase polymerase chain reaction <it>(</it>RT-PCR<it>) </it>analysis</p>
+            </st>
+            <p>Extraction of total RNA and RT-PCR were performed according to standard procedures. Primer information is described in Additional materials and methods [see Additional file <supplr sid="S1">1</supplr>].</p>
+            <suppl id="S1">
+               <title>
+                  <p>Additional file 1</p>
+               </title>
+               <text>
+                  <p><b>Figures S1 to S8 and Additional materials and methods. Figure S1</b>. <b>ECM coated dish could capture a greater number of CFU-F</b>. CFU-f number in ECM coated dish compared to regular dish. <b>Figure S2</b>. <b>CD45<sup>-</sup>CD34<sup>-</sup>BMMSCs showed similar property with S-BMMSCs</b>. (A) CFU-f number. (B) Flow cytometric analysis. <b>Figure S3. S-BMMSCs extended survival rate of lethal dose of irradiated mice</b>. The life span of irradiated mice. <b>Figure S4. Osteoclast activity in S-BMMSC-treated <it>MRL/lpr </it>mice</b>. (A) Osteoclast number. (B) sRANKL level. (C) CTX level. <b>Figure S5. L-NMMA pre-treated BMMSC transplantation failed to ameliorate disease phenotype of <it>MRL/lpr </it>mice</b>. (A) Anti dsDNA (IgG) level. (B) Anti dsDNA (IgM) level. (C) Urine protein level. (D) Tregs level. (E) Th17 level. (F) Ratio between Tregs/Th17. <b>Figure S6. Inhibition of NO production in BMMSCs</b>. (A) NO level with inhibitors. (B) iNOS level by western blot. <b>Figure S7. Endogenous S-BMMSCs in mice bone marrow</b>. (A) Cell sorting result. (B) CFU-f number. (C) Osteogenic differentiation <it>in vitro</it>. (D) NO level. <b>Figure S8. Human bone marrow contains S-BMMSCs (hS-BMMSCs)</b>. (A) NO level. (B) Kynurenine production. (C) Kynurenine production in co-culture system. (D) T cell apoptosis induction by hS-BMMSCs. Additional materials and methods describe about TRAP staining, Histomotry, Rescue lethal dose irradiated mice, and Isolation of CD34<sup>+</sup>CD73<sup>+ </sup>double positive cells.</p>
+               </text>
+               <file name="scrt131-S1.DOC">
+                  <p>Click here for file</p>
+               </file>
+            </suppl>
+         </sec>
+         <sec>
+            <st>
+               <p>Western blotting analysis</p>
+            </st>
+            <p>A total of 20 &#181;g of protein was used and SDS-PAGE and western blotting were performed according to standard procedures. Detailed procedures are described in Additional materials and methods [see Additional file <supplr sid="S1">1</supplr>]. &#946;-actin on the same membrane served as the loading control.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Hematopoietic differentiation of BMMSCs and S-BMMSCs</p>
+            </st>
+            <p>BMMSCs and S-BMMSCs were cultured onto 35 mm low attach culture dishes (2 &#215; 10<sup>4</sup>/dish, STEMCELL Technologies, Vancouver, BC, V5Z 1B3, Canada) under hematopoietic differentiation medium (STEMCELL Technologies) with or without erythropoietin (EPO; 3 U/mL) for seven days. Whole bone marrow cells and linage negative bone marrow cells (Linage-cells) were used as positive controls. The results are representative of five independent experiments.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Inhibitor treatment</p>
+            </st>
+            <p>S-BMMSCs and BMMSCs were treated with 1 mM L-NG-monomethyl-arginine (L-NMMA) (Cayman Chemical, Ann Arbor, MI, USA) or 0.2 mM 1400 W (Cayman Chemical) to inhibit total nitric oxide synthase (NOS) or inducible nitric oxide synthase (iNOS), respectively.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Measurement of nitric oxide production</p>
+            </st>
+            <p>BMMSCs (0.2 &#215; 10<sup>6</sup>/well) were cultured on 24-well plates with or without cytokines (IFN&#947;, 25 ng/ml; IL-1&#946;, 5 ng/ml, R&amp;D Systems, Minneapolis, MN, USA) and chemicals (L-NMMA, 1 mM; 1400 W, 0.2 mM) at the indicated concentration and days. The supernatant from each culture was collected and nitric oxide concentration measured using a Total Nitric Oxide and Nitrate/Nitrite Parameter Assay kit (R&amp;D Systems) according to the manufacturer's instruction.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Cell apoptosis and cell survival assay</p>
+            </st>
+            <p>The transwell system (Corning) was used for co-culture experiments. A total of 0.2 &#215; 10<sup>6 </sup>of S-BMMSCs or BMMSCs was seeded on each lower chamber. Activated spleen cells (1 &#215; 10<sup>6</sup>/chamber), which were pre-stimulated with plate-bound anti CD3&#949; antibody (3 &#181;g/ml) and soluble anti CD28 antibody (2 &#181;g/ml) for two days, were loaded in the upper chambers. Both chambers were filled with a complete medium containing (D)MEM (Lonza, CH-4002 Basel, Switzerland) with 10% heat-inactivated FBS, 50 &#181;M 2-mercaptoethanol, 10 mM HEPES, 1 mM sodium pyruvate (Sigma), 1% non-essential amino acid (Cambrex, East Rutherford, NJ, USA), 2 mM L-glutamine, 100 U/ml penicillin and 100 mg/ml streptomycin. To measure the spleen cells viability, cell counting kit-8 (Dojindo Molecular Technologies, Rockville, MD, USA) was used. For apoptosis of spleen cells analyses, Annexin V-PE apoptosis detection kits I (BD Bioscience) were used and analyzed on FACS<sup>Calibur </sup>(BD Bioscience).</p>
+         </sec>
+         <sec>
+            <st>
+               <p><it>In vitro </it>CD4<sup>+</sup>CD25<sup>+</sup>Foxp3<sup>+</sup>Tregs and Th17 induction</p>
+            </st>
+            <p>CD4<sup>+</sup>CD25<sup>- </sup>T-lymphocytes (1 &#215; 10<sup>6</sup>/well), collected using a CD4<sup>+</sup>CD25<sup>+ </sup>Treg isolation kit (Miltenyi Biotec), were pre-stimulated with plate-bound anti CD3&#949; antibody (3 &#181;g/ml) and soluble anti CD28 antibody (2 &#181;g/ml) for two days. These activated T-lymphocytes were loaded on 0.2 &#215; 10<sup>6 </sup>BMMSCs or S-BMMSCs cultures with recombinant human TFG&#946;1 (2 ng/ml) (R&amp;D Systems) and recombinant mouse IL2 (2 ng/ml) (R&amp;D Systems). For Th17 induction, recombinant human TFG&#946;1 (2 ng/ml) and recombinant mouse IL6 (50 ng/ml) (Biolegend, San Diego, CA, USA) were added. After three days, cells in suspension were collected and stained with anti CD4-PerCP, anti CD8a-FITC, anti CD25-APC antibodies (each 1 &#181;g) for 45 minutes on ice under dark conditions. The cells were then stained with anti Foxp3-PE antibody (1 &#181;g) using a Foxp3 staining buffer kit (eBioscience) for cell fixation and permeabilization. For Th17, cells in suspension were stained with anti CD4-FITC (1&#181;g, Biolegend) for 45 minutes on ice under dark conditions followed by intercellular staining with anti-IL 17 antibody (1&#181;g, Biolegend) using a Foxp3 staining buffer kit. The cells were analyzed on FACS<sup>Calibur</sup>.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Allogenic mouse S-BMMSC transplantation into MRL/lpr mice</p>
+            </st>
+            <p>Under general anesthesia, C3H/HeJ-derived BMMSCs, S-BMMSCs, L-NMMA pre-treated BMMSCs (1 mM for five days), or CD34<sup>+</sup>/CD73<sup>+ </sup>double sorted cells (0.1 &#215; 10<sup>6 </sup>cells/10 g body weight) were infused into MRL/<it>lpr </it>mice via the tail vein at 10 weeks of age (n = 6 each group). In the control group, MRL/<it>lpr </it>mice received PBS (n = 5). All mice were sacrificed at two weeks post transplantation for further analysis. The protein concentration in urine was measured using a Bio-Rad Protein Assay (Bio-Rad, Hercules, CA, USA).</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Measurement of autoantibodies, albumin, soluble runt-related NF-&#954;B ligand (sRANKL) and C-terminal telopeptides of type I collagen (CTX)</p>
+            </st>
+            <p>Peripheral blood serum samples were collected from mice. Autoantibodies, sRANKL and CTX were analyzed by ELISA using commercially available kits (anti-dsDNA antibodies and ANA; alpha diagnostics, albumin and sRANKL; R&amp;D Systems, CTX; Nordic Bioscience Diagnostics, Herlev, Rigion Hovedstaden, Denmark) according to their manufactures' instructions. The results were averaged in each group. The intra-group differences were calculated between the mean values.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Flow cytometric analysis of Tregs and Th17 cells</p>
+            </st>
+            <p>To detect Tregs, peripheral blood mononuclear cells (PBMNCs) (1 &#215; 10<sup>6</sup>) were treated with PerCP-conjugated anti-CD4, FITC-conjugated anti-CD8a, APC-conjugated anti-CD25 antibodies, and stained with R-PE-conjugated anti-Foxp3 antibody using a Foxp3 staining buffer kit (eBioscience). To measure Th17 cells, PBMNCs (1 &#215; 10<sup>6</sup>) were incubated with PerCP-conjugated anti-CD4, FITC-conjugated anti-CD8a, followed by treatment with R-PE-conjugated anti-IL-17 and APC-conjugated anti-IFN&#947; antibodies using a Foxp3 staining buffer kit. The cells were then analyzed on FACS<sup>Calibur </sup>.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Statistics</p>
+            </st>
+            <p>Student's t-test was used to analyze statistical difference. <it>P </it>values less than 0.05 were considered significant.</p>
+         </sec>
+      </sec>
+      <sec>
+         <st>
+            <p>Results</p>
+         </st>
+         <sec>
+            <st>
+               <p>A subset of BMMSCs lacks the ability to adhere to plastic culture dishes (S-BMMSCs) but attaches to extracellular cell matrix (ECM)-coated culture dishes</p>
+            </st>
+            <p>To determine whether a subset of BMMSCs remain in culture suspension, ANCs (15 &#215; 10<sup>6 </sup>cells) from bone marrow were plated onto regular plastic culture dishes for two days and all non-attached cells were subsequently transplanted into immunocompromised mice subcutaneously using HA/TCP as a carrier. At eight weeks post-transplantation, newly formed bone was identified in the transplants by H &amp; E staining (Figure <figr fid="F1">1A</figr>), suggesting that the BMMSC culture suspension may contain cells with a capacity to differentiate into bone forming cells. <it>In vitro </it>studies indicated that ECM produced by culture-expanded BMMSCs (BMMSC-ECM) could capture higher numbers of CFU-Fs when compared to plastic cultures [see Additional file <supplr sid="S1">1</supplr>, Figure S1] <abbrgrp><abbr bid="B28">28</abbr></abbrgrp>. Thus, we collected culture supernatant with floating cells at two days post CFU-F culture and re-loaded it onto BMMSC-ECM-coated dishes (Figure <figr fid="F1">1B</figr>). A subset of BMMSCs in the suspension (S-BMMSCs) was able to adhere to the BMMSC-ECM and form CFU-F (Figure <figr fid="F1">1B</figr>), at a lower incidence compared to the number of CFU-F generated from regular BMMSCs (Figure <figr fid="F1">1C</figr>). In order to characterize the stem cell properties of S-BMMSCs, we collected SSEA4-positive S-BMMSCs and assessed their proliferation rate by BrdU incorporation. We found that S-BMMSCs had a significantly elevated BrdU uptake rate compared to regular BMMSCs (Figure <figr fid="F1">1D</figr>). In addition, we used a continuous cell culture assay to indicate that SSEA4-positive S-BMMSCs acquired a significantly increased number of population doublings (Figure <figr fid="F1">1E</figr>). These data imply that S-BMMSCs are distinct from regular BMMSCs in terms of attachment, proliferation, and self-renewal.</p>
+            <fig id="F1">
+               <title>
+                  <p>Figure 1</p>
+               </title>
+               <caption>
+                  <p>Identification of suspension BMMSCs (S-BMMSCs)</p>
+               </caption>
+               <text>
+                  <p><b>Identification of suspension BMMSCs (S-BMMSCs)</b>. (<b>A</b>) Hypothetical model indicates that bone marrow all nucleated cells (ANCs) were seeded at 15 &#215; 10<sup>6 </sup>into 100 mm culture dishes and incubated for two days at 37&#176;C with 5% CO2, and subsequently non-attached cells from culture suspension were transplanted into immunocompromised mice subcutaneously using hydroxyapatite tricalcium phosphate (HA) as a carrier for eight weeks. Newly formed bone (B) by osteoblasts (arrow heads) and associated connective tissue (C) were detected in this non-attached cell transplants by H &amp; E staining. Bar = 100 &#956;m. (<b>B</b>) Hypothetical model of isolating S-BMMSCs. BMMSCs usually attach on culture dishes within two days; however, a small portion of BMMSCs in ANCs failed to attach to the dishes and remained in the suspension. The suspensions containing putative non-attached BMMSCs were collected and transferred to the extracellular matrix (ECM) coated dish with generating single colony clusters (CFU-F). These ECM-attached BMMSCs (S-BMMSCs) were sub-cultured on regular plastic culture dishes for additional experiments. (<b>C</b>) The number of plastic attached CFU-F from ANCs (1.5 &#215; 10<sup>6 </sup>cells) is more than seven-fold higher than that derived from BMMSC-ECM adherent S-BMMSCs. (<b>D</b>) Proliferation rates of S-BMMSCs and BMMSCs were assessed by BrdU incorporation for 24 hours. The percentage of positive cells is significantly increased in S-BMMSCs when compared to BMMSCs. (<b>E</b>) S-BMMSCs exhibit a significant increase in population doublings when compared to BMMSCs. The results are representative of five independent experiments. Scale bars = 50 &#956;m. ***<it>P </it>&lt;0.001. The graph bar represents mean &#177; SD. BMMSCs, bone marrow mesenchymal stem cells; BrdU, bromodeoxyuridine; S-BMMSCs, BMMSCs in suspension; SD, standard deviation.</p>
+               </text>
+               <graphic file="scrt131-1"/>
+            </fig>
+            <p>To examine the multipotent differentiation potential, we showed that S-BMMSCs are analogous to BMMSCs in their expression of alkaline phosphatase (ALP), mineralized nodule accumulation under the osteogenic inductive cultures, and bone regeneration when transplanted into immunocompromised mice using HA/TCP as a carrier (Figures <figr fid="F2">2A</figr> and <figr fid="F2">2B</figr>). Furthermore, we showed that S-BMMSCs were similar to regular BMMSCs in forming Oil red-O positive fat cells under adipogenic inductive conditions, which was associated with expression of the adipogenic genes, peroxisome proliferator-activated receptor gamma 2 (<it>ppar</it>&#947;2) and lipoprotein lipase (<it>lpl</it>) (Figures <figr fid="F2">2C</figr> and <figr fid="F2">2D</figr>). Parallel studies showed a similar capacity between S-BMMSCs and regular BMMSCs to differentiate into chondrocytes under chondrogenic inductive conditions, associated with the expression of proteoglycan, trichrome positive collagen, and type II collagen (Figure <figr fid="F2">2E</figr>). Collectively, these data confirm that S-BMMSCs are a subset of BMMSCs.</p>
+            <fig id="F2">
+               <title>
+                  <p>Figure 2</p>
+               </title>
+               <caption>
+                  <p>Multipotent differentiation of S-BMMSCs</p>
+               </caption>
+               <text>
+                  <p><b>Multipotent differentiation of S-BMMSCs</b>. (<b>A</b>) Alizarin Red S and alkaline phosphatase (ALP) staining showed that S-BMMSCs were similar to regular BMMSCs in osteogenic differentiation <it>in vitro</it>. (<b>B</b>) S-BMMSCs or regular BMMSCs (4 &#215; 10<sup>6 </sup>cells/transplant) were transplanted into immunocompromised mice using HA/TCP (HA) as a carrier for eight weeks. Bone formation was detected in S-BMMSC and BMMSC transplants, evidenced by H &amp; E staining. HA, hydroxyapatite tricalcium phosphate; B, bone; M, bone marrow; CT, connective tissue. Bar = 50 &#956;m. (<b>C-D</b>) S-BMMSCs are capable of forming Oil Red O positive cells (<b>C</b>) and expression of <it>ppar&#947;</it>2 and <it>lpl </it>mRNA as seen in regular BMMSCs (<b>D</b>). Glyceraldehyde 3-phosphate dehydrogenase (<it>gapdh</it>) was used as an internal control. The results are representative of five independent experiments. Scale bars = 100 &#956;m. (<b>E</b>) Chondrogenic differentiation was assessed by Alcian blue staining for acidic sulfated mucosubstances, Pollak's Trichrome staining for collagen, and immunohistochemical staining for collagen type II. S-BMMSCs were able to differentiate into chondrocytes as observed in regular BMMSCs. Bar = 50 &#956;m. The results are representative of three independent experiments. The graph bar represents mean &#177; SD. BMMSCs, bone marrow mesenchymal stem cells; S-BMMSCs, BMMSCs in suspension; SD, standard deviation.</p>
+               </text>
+               <graphic file="scrt131-2"/>
+            </fig>
+         </sec>
+         <sec>
+            <st>
+               <p>S-BMMSCs express CD34, but are distinct from hematopoietic stem cells</p>
+            </st>
+            <p>By flow cytometric analysis, S-BMMSCs expressed mesenchymal stem cell markers at the same level as regular BMMSCs (Figure <figr fid="F3">3A</figr>). Interestingly, 23.4% of S-BMMSCs expressed CD34, a hematopoietic stem cell (HSC) and endothelial cell marker, whereas 0.2% of BMMSCs expressed CD34 (Figure <figr fid="F3">3A</figr>). BMMSCs (21.4%) and S-BMMSCs (31.2%) expressed CD45, another hematopoietic marker, at passage 2 (Figure <figr fid="F3">3A</figr>). Both BMMSCs and S-BMMSCs were negative to CD11b antibody staining (data not shown), excluding the possibility that S-BMMSCs are derived from monocyte/macrophage lineage cells. Importantly, CD34<sup>+ </sup>S-BMMSCs co-expressed BMMSC-associated markers CD73 or Octamer-4 (Oct4), as evidenced by flow cytometric analysis (Figure <figr fid="F3">3B</figr>). Western blot analysis confirmed that S-BMMSCs expressed CD34, CD73, and CD105 (Figure <figr fid="F3">3C</figr>), and regular BMMSCs expressed CD73 and CD105 but lacked CD34 expression (Figure <figr fid="F3">3C</figr>). Whole bone marrow cells (BMC) were used as positive control. S-BMMSCs also showed a continued expression of CD34 from passage one to five; however, the expression levels appear reduced after passage three (Figure <figr fid="F3">3D</figr>). In order to further verify CD34 expression in S-BMMSCs, immunocytostaining analyses were performed to show co-expression of CD34 with mesenchymal markers CD73 (Figure <figr fid="F3">3E</figr>) in contrast to regular BMMSCs that were negative for anti-CD34 antibody staining (Figure <figr fid="F3">3E</figr>).</p>
+            <fig id="F3">
+               <title>
+                  <p>Figure 3</p>
+               </title>
+               <caption>
+                  <p>S-BMMSCs express CD34</p>
+               </caption>
+               <text>
+                  <p><b>S-BMMSCs express CD34</b>. (<b>A</b>) Flow cytometric analysis showed that regular BMMSCs fail to express CD34, but are positive for CD45 antibody staining (21.4%). However, S-BMMSCs express both CD34 (23.4%) and CD45 (31.2%). (<b>B</b>) Flow cytometric analysis also showed that CD34<sup>+ </sup>S-BMMSCs were positive for anti CD73 (13.8%) and Oct4 (13.4%) antibody staining. IgG isotype staining groups were used as negative controls. (<b>C, D</b>) Western blot analysis indicated that S-BMMSCs express CD34 and mesenchymal surface molecules CD73 and CD105. In contrast, regular BMMSCs only express CD73 and CD105 (<b>C</b>). S-BMMSCs express CD34 at passage one to five (<b>D</b>). &#946;-actin was used as a sample loading control. BMC, whole bone marrow ANC. (<b>E</b>) Immunocytostaining confirmed that S-BMMSCs are double positive for CD34/CD73 (triangle). Regular BMMSCs are negative for CD34 antibody staining and only positive for anti CD73 antibody staining. Bar = 100 &#956;m. (<b>F</b>) Both BMMSCs and S-BMMSCs failed to differentiate into hematopoietic lineage under hematopoietic inductive conditions with EPO (upper panel) or without EPO (lower panel). Whole bone marrow cells and lineage negative cells were used as positive (yellow arrowheads) control. Bar = 100 &#956;m. ANC, all nucleated cells; BMMSCs, bone marrow mesenchymal stem cells; EPO, erythropoietin; S-BMMSCs, BMMSCs in suspension.</p>
+               </text>
+               <graphic file="scrt131-3"/>
+            </fig>
+            <p>It is generally believed that CD34 expression is associated with HSCs and endothelial populations. HSCs can differentiate into all the blood cell lineages and rescue lethally irradiated subjects. Thus, we cultured S-BMMSCs and regular BMMSCs in hematopoietic differentiation medium and determined that these mesenchymal cells failed to differentiate into a hematopoietic cell lineage compare to bone marrow cells that formed myeloid and erythroid colony forming clusters (Figure <figr fid="F3">3F</figr>). In addition, CD45<sup>-</sup>CD34<sup>-</sup>BMMSCs showed an ability similar to that of S-BMMSCs in colony forming and expressing surface marker as MSC [see Additional file <supplr sid="S1">1</supplr>, Figure S2]. Furthermore, we infused S-BMMSCs systemically to rescue lethally irradiated mice and found that S-BMMSCs, but not regular BMMSCs, could extend the lifespan of lethally irradiated mice [see Additional file <supplr sid="S1">1</supplr>, Figure S3]. However, S-BMMSCs failed to rescue lethally irradiated mice, as shown in the whole bone marrow cell group [see Additional file <supplr sid="S1">1</supplr>, Figure S3]. These data provid further evidence that CD34 expression in S-BMMSCs is not due to HSC contamination.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>S-BMMSCs transplantation ameliorates multiple organ dysfunctions in MRL<it>/lpr </it>mice</p>
+            </st>
+            <p>Since the immunomodulation property of MSCs is one of the essential factors for MSC characterization, allogenic S-BMMSC transplantation into MRL/<it>lpr </it>mice was performed (Figure <figr fid="F4">4A</figr>). Two weeks after transplantation, both S-BMMSCs and BMMSCs were capable of ameliorating SLE-induced glomerular basal membrane disorder (yellow arrow, Figure <figr fid="F4">4B</figr>) and reducing the urine protein level (Figure <figr fid="F4">4C</figr>). It appeared that S-BMMSCs were superior compared to BMMSCs in terms of reducing the overall urine protein levels (Figure <figr fid="F4">4C</figr>). As expected, MRL/<it>lpr </it>mice showed remarkably increased levels of autoantibodies, including anti-double strand DNA (dsDNA) IgG and IgM antibodies (Figures <figr fid="F4">4D</figr> and <figr fid="F4">4E</figr>) and anti-nuclear antibody (ANA; Figure <figr fid="F4">4F</figr>) in the peripheral blood serum. Although S-BMMSC and BMMSC infusion showed significantly decreased serum levels of anti-dsDNA IgG, IgM antibodies and ANA in peripheral blood (Figures <figr fid="F4">4D-F</figr>), S-BMMSCs showed a superior therapeutic effect in reducing anti-dsDNA IgG antibody and ANA levels when compared to BMMSCs (Figures <figr fid="F4">4D</figr> and <figr fid="F4">4F</figr>). Additionally, decreased serum albumin levels in MRL/<it>lpr </it>mice were recovered by S-BMMSC and BMMSC infusion (Figure <figr fid="F4">4G</figr>) but S-BMMSC treatment resulted in a more significant recovery than BMMSC treatment (Figure <figr fid="F4">4G</figr>). Next, flow cytometric analysis revealed that S-BMMSC showed more effectiveness in recovering the decreased level of CD4<sup>+</sup>CD25<sup>+</sup>Foxp3<sup>+ </sup>Tregs and increased the number of CD4<sup>+</sup>IL17<sup>+</sup>IFN&#947;<sup>- </sup>T-lymphocytes (Th17 cells) in peripheral blood when compared to BMMSCs (Figures <figr fid="F4">4H, 4I</figr>). In addition, highly passaged mouse S-BMMSCs failed to inhibit Th17 differentiation <it>in vitro </it>(data not shown) suggesting that mouse S-BMMSCs probably lose their immunomodulation property under long culture expansion.</p>
+            <fig id="F4">
+               <title>
+                  <p>Figure 4</p>
+               </title>
+               <caption>
+                  <p>S-BMMSCs showed superior therapeutic effect on SLE-like MRL/<it>lpr </it>mice</p>
+               </caption>
+               <text>
+                  <p><b>S-BMMSCs showed superior therapeutic effect on SLE-like MRL/<it>lpr </it>mice</b>. (<b>A</b>) Schema of BMMSC transplantation into MRL/<it>lpr </it>mice. (<b>B</b>) S-BMMSC and BMMSC treatment recover basal membrane disorder and mesangium cell over-growth in glomerular (G) (H&amp;E staining). (<b>C</b>) S-BMMSC and BMMSC transplantation could reduce urine protein levels at two weeks post transplantation compared to the MRL/<it>lpr </it>group. S-BMMSCs offered a more significant reduction compared to BMMSCs. (<b>D, E</b>) The serum levels of anti-dsDNA IgG and IgM antibodies were significantly increased in MRL/<it>lpr </it>mice compared to controls (C3H). S-BMMSC and BMMSC treatments could reduce antibody levels but S-BMMSCs showed a superior treatment effect than BMMSC in reducing anti-dsDNA IgG antibody (<b>D</b>). (<b>F</b>) S-BMMSC and BMMSC treatments could reduce increased levels of anti nuclear antibody (ANA) in MRL/<it>lpr </it>mice. S-BMMSC showed a better effect in ANA reduction compared to BMMSC. (<b>G</b>) S-BMMSC and BMMSC treatments could increase the albumin level in MRL/<it>lpr </it>mice, which was decreased in controls. S-BMMSC treatments were more effective in elevating the albumin level compared to BMMSC treatment. (<b>H</b>) Flow cytometric analysis showed a reduced number of Tregs in MRL/<it>lpr </it>peripheral blood compared to control. BMMSC and S-BMMSC treatments elevated the number of Tregs. S-BMMSCs induced a more significant elevation of the Tregs level than BMMSCs. (<b>I</b>) Flow cytometric analysis showed an increased number of Th17 in MRL/<it>lpr </it>mice peripheral blood compared to control. Th17 were markedly decreased in BMMSC and S-BMMSC treated groups. S-BMMSC treatment induced a more significant reduction of Th17 cells than treatment with BMMSCs. *<it>P </it>&lt;0.05; ** <it>P </it>&lt;0.01; ***<it>P </it>&lt;0.001. The graph bar represents mean &#177; SD. BMMSCs, bone marrow mesenchymal stem cells; Ig, immunoglobulin; S-BMMSCs, BMMSCs in suspension; SD, standard deviation; SLE, systemic lupus erythematosus; Tregs, regulatory T cells.</p>
+               </text>
+               <graphic file="scrt131-4"/>
+            </fig>
+            <p>Furthermore, we showed that S-BMMSCs were superior to BMMSCs in terms of reducing increased numbers of tartrate-resistant acid phosphatase (TRAP) positive osteoclasts in the distal femur epiphysis of MRL<it>/lpr </it>mice [see Additional file <supplr sid="S1">1</supplr>, Figure S4A], elevated serum levels of sRANKL, a critical factor for osteoclastogenesis [see Additional file <supplr sid="S1">1</supplr>, Figure S4B] and bone resorption marker CTX [see Additional file <supplr sid="S1">1</supplr>, Figure S4C]. These data suggest that S-BMMSCs exhibit a superior therapeutic effect for SLE disorders compared to regular BMMSCs.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>S-BMMSCs possess superior immunomodulatory functions via high nitric oxide (NO) production</p>
+            </st>
+            <p>Recently, immunomodulatory properties were identified as an important stem cell characteristic of BMMSCs, leading to the utilization of systemic infused BMMSCs to treat a variety of immune diseases <abbrgrp><abbr bid="B19">19</abbr><abbr bid="B20">20</abbr><abbr bid="B21">21</abbr></abbrgrp>. Here, we found that S-BMMSCs exhibited a significantly increased capacity for NO production compared to regular BMMSCs when treated with IFN&#947; and IL-1&#946; (Figure <figr fid="F5">5A</figr>). It is known that NO plays a critical role in BMMSC-mediated immunosuppression [see Additional file <supplr sid="S1">1</supplr>, Figures S5A-F] <abbrgrp><abbr bid="B29">29</abbr></abbrgrp>. Therefore, we assessed the functional role of high NO production in S-BMMSC-associated immunomodulatory properties. Spleen (SP) cells were activated by anti-CD3 and anti-CD28 antibodies for three days and then co-cultured with S-BMMSCs or regular BMMSCs in the presence of the general NOS inhibitor, L-NMMA or the iNOS inhibitor, 1400 W, using a Transwell culture system. The efficacy of L-NMMA and 1400 W to inhibit NO production in BMMSCs was verified [see Additional file <supplr sid="S1">1</supplr>, Figures S6A and 6B]. Although both S-BMMSCs and regular BMMSCs were capable of inhibiting cell viability of activated SP cells, S-BMMSCs showed a marked inhibition of SP cell viability over that of regular BMMSCs (Figure <figr fid="F5">5B</figr>). Moreover, both BMMSCs and S-BMMSCs induced SP cell apoptosis (Figure <figr fid="F5">5C</figr>). However, S-BMMSCs showed an elevated capacity in inducing activated SP cell apoptosis compared to regular BMMSCs (Figure <figr fid="F5">5C</figr>). Interestingly, when L-NMMA and 1400 W were added to the cultures, the number of apoptotic SP cells was significantly reduced in both S-BMMSC and regular BMMSC groups (Figure <figr fid="F5">5D</figr> and <figr fid="F5">5E</figr>). These <it>in vitro </it>experimental data suggested that NO production is an essential factor for BMMSC-mediated immunomodulation.</p>
+            <fig id="F5">
+               <title>
+                  <p>Figure 5</p>
+               </title>
+               <caption>
+                  <p>S-BMMSCs show up-regulated immunomodulatory properties through nitric oxide (NO) production</p>
+               </caption>
+               <text>
+                  <p><b>S-BMMSCs show up-regulated immunomodulatory properties through nitric oxide (NO) production</b>. (<b>A</b>) NO levels in the supernatant of S-BMMSC and BMMSC culture were significantly higher in the INF-&#947;/IL-1&#946; treated S-BMMSC group than in BMMSCs. (<b>B-C</b>) S-BMMSCs showed a significant reduction in the cell viability of activated SP cells compared to the cells cultured without BMMSCs (SP cell) and with BMMSCs (<b>B</b>). Both BMMSCs and S-BMMSCs showed a significantly increased rate of SP cell apoptosis compared to the SP cell only group but S-BMMSCs could induce higher SP cell apoptosis (<b>C</b>). (<b>D-E</b>) The induction of SP cell apoptosis by BMMSCs or S-BMMSCs was abolished in general NOS inhibitor L-NMMA-treated (<b>D) </b>and iNOS specific inhibitor 1400 W-treated (<b>E</b>) group. (<b>F-H</b>) Activated CD4<sup>+</sup>CD25<sup>- </sup>T-cells and S-BMMSCs or BMMSCs were co-cultured in the presence of TGF&#946;1 and IL-2 with or without NOS inhibitor for three days. The floating cells were stained for CD4<sup>+</sup>CD25<sup>+</sup>FoxP3<sup>+ </sup>regulatory T cells (Tregs). Both BMMSCs and S-BMMSC up-regulated Tregs but S-BMMSCs showed a significant effect in up-regulating Tregs. (<b>F</b>). Interestingly, L-NMMA and 1400 W treatments resulted in an abolishing of S-BMMSC-induced up-regulation of Tregs (<b>G, H</b>). (<b>I</b>) BMMSCs and S-BMMSCs could inhibit Th17 differentiation <it>in vitro</it>. S-BMMSC could inhibit it more effectively. (<b>J</b>, <b>K</b>) L-NMMA (<b>J</b>) or 1400 W (<b>K</b>) could abolish the inhibition of Th17 differentiation by BMMSCs or S-BMMSCs. The results are representative of at least three independent experiments. *<it>P </it>&lt;0.05; **<it>P </it>&lt;0.01; ***<it>P </it>&lt;0.001. The graph bar represents mean &#177; SD. BMMSCs, bone marrow mesenchymal stem cells; iNOS, inducible nitric oxide synthase; L-NMMA, L-NG-monomethyl-arginine; NOS, nitric oxide synthase; S-BMMSCs, BMMSCs in suspension; SD, standard deviation; SP, spleen; Tregs, regulatory T cells.</p>
+               </text>
+               <graphic file="scrt131-5"/>
+            </fig>
+            <p>Since up-regulation of CD4<sup>+</sup>CD25<sup>+</sup>Foxp3<sup>+ </sup>Tregs is required for immunotolerance <abbrgrp><abbr bid="B30">30</abbr></abbrgrp>, we tested Tregs up-regulation property of S-BMMSCs and BMMSCs in an <it>in vitro </it>co-culture system. When na&#239;ve<sup>-</sup>T-cells were co-cultured with S-BMMSCs or regular BMMSCs in the presence of IL-2 and TGF-&#946;1, S-BMMSCs showed a significant up-regulation of Treg levels compared to regular BMMSCs (Figure <figr fid="F5">5F</figr>). Both L-NMMA and 1400 W were able to inhibit BMMSC- and S-BMMSC-induced up-regulation of Tregs, as shown by flow cytometric analysis (Figures <figr fid="F5">5G</figr> and <figr fid="F5">5H</figr>). Interestingly, the regulation effect on Tregs was more significant in the S-BMMSC group compared to the BMMSC group (Figure <figr fid="F5">5G</figr> and <figr fid="F5">5H</figr>). Moreover, both BMMSCs and S-BMMSCs could inhibit differentiation of Th17 <it>in vitro</it>, with a more prominent effect observed with S-BMMSC (Figure <figr fid="F5">5I</figr>). These inhibitions of Th17 differentiation were abolished by L-NMMA (Figure <figr fid="F5">5J</figr>) and 1400 W (Figure <figr fid="F5">5K</figr>). These data further verified the functional role of NO in S-BMMSC-induced immunomodulatory effect.</p>
+            <p>In order to identify whether there are functional endogenous S-BMMSCs, we used fluorescence activated cell sorting (FACS) to isolate CD34 and CD73 double-positive cells from bone marrow ANCs which resulted in the recovery of 3.77% double-positive cells [see Additional file <supplr sid="S1">1</supplr>, Figure S7A]. These CD34 and CD73 double-positive cells exhibited mesenchymal stem cell characteristics, including the capacity to form single colony clusters of fibroblast-like cells [see Additional file <supplr sid="S1">1</supplr>, Figure S7B], which could differentiate into osteogenic cells <it>in vitro </it>[see Additional file <supplr sid="S1">1</supplr>, Figure S7C]. These data indicated the feasibility of this approach to isolate S-BMMSC-like cells directly from bone marrow. We found that CD34<sup>+</sup>/CD73<sup>+ </sup>BMMSCs were analogous to S-BMMSCs in terms of having higher levels of NO production when compared to regular BMMSCs [see Additional file <supplr sid="S1">1</supplr>, Figure S7D] and reducing levels of urine protein, serum anti-dsDNA IgG and IgM antibodies in MRL/<it>lpr </it>mice (data not shown). These data indicate that endogenous S-BMMSCs could be isolated from bone marrow using CD34 and CD73 antibodies double sorting.</p>
+            <p>Additionally, we used the same BMMSC-ECM isolation approach to reveal the existence of human S-BMMSCs (hS-BMMSC) that possess stem cell properties including multipotent differentiation and self-renewal but lack expression of CD34 (data not shown). hS-BMMSCs showed elevated NO and kynurenine production which indicate high indoleamine 2,3-dioxygenase (IDO) activity when compared to regular BMMSCs [see Additional file <supplr sid="S1">1</supplr>, Figures S8A-C]. Thus, when activated T cells were co-cultured with hS-BMMSCs, AnnexinV-7 aminoactinomycinD (7AAD) double positive apoptotic SP cells were significantly elevated compared to BMMSCs [see Additional file <supplr sid="S1">1</supplr>, Figure S8D].</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Discussion</p>
+            </st>
+            <p>Adherent BMMSCs are able to proliferate and undergo osteogenic differentiation, providing the first evidence of CFU-F as precursors for osteoblastic lineage <abbrgrp><abbr bid="B25">25</abbr></abbrgrp>. For over a few decades, the adherent CFU-F assay has been used as an effective approach to identify and select BMMSCs. In the current study, we showed that the adherent CFU-F assay collects the majority of clonogenic BMMSCs, but a subpopulation of BMMSCs is sustained in the culture suspension. This newly identified subpopulation of BMMSCs may be lost in the standard CFU-F assay for BMMSC isolation.</p>
+            <p>Due to the heterogeneity of the BMMSCs, there is no single, unique marker allowing for BMMSC isolation, rather an array of cell molecules are utilized to profile BMMSCs. It is widely accepted that BMMSCs express SH2 (CD105), SH3/SH4 (CD73), integrin &#946;<sub>1 </sub>(CD29), CD44, Thy-1 (CD90), CD71, vascular cell adhesion molecule-1 (CD106), activated leukocyte cell adhesion molecule (CD166), STRO-1, GD2, and melanoma cell adhesion molecule (CD146) <abbrgrp><abbr bid="B5">5</abbr><abbr bid="B7">7</abbr><abbr bid="B8">8</abbr><abbr bid="B9">9</abbr><abbr bid="B10">10</abbr><abbr bid="B11">11</abbr><abbr bid="B12">12</abbr><abbr bid="B13">13</abbr><abbr bid="B31">31</abbr><abbr bid="B32">32</abbr></abbrgrp>. Nevertheless, it is believed that BMMSCs lack expression of hematopoietic surface molecules including CD34, integrin &#945;<sub>M </sub>(CD11b) and CD14. However, recent studies have implied that mouse BMMSCs might express the hematopoietic surface molecules, CD45 <abbrgrp><abbr bid="B28">28</abbr></abbrgrp> and CD34 <abbrgrp><abbr bid="B33">33</abbr></abbrgrp>. To ensure purity of S-BMMSCs, we used immune FACS to collect SSEA4<sup>+ </sup>S-BMMSCs for proliferation and differentiation assays in this study. Interestingly, previous experimental evidence appeared to support a notion that HSCs are capable of differentiating into mesenchymal cells <abbrgrp><abbr bid="B34">34</abbr></abbrgrp> and osteoblastic lineage <it>in vivo </it><abbrgrp><abbr bid="B35">35</abbr></abbrgrp>. Thus, it is critical to clarify whether BMMSCs express hematopoietic associated surface molecules.</p>
+            <p>In this study, we have identified a novel subset of S-BMMSCs that failed to form adherent CFU-F in regular culture dishes, but were capable of adhering on mesenchymal stem cell-produced ECM and differentiating into osteoblasts, adipocytes and chondrocytes from both C3H/HeJ and C57BL/6J mice. S-BMMSCs co-expressed the HSC marker CD34 with the MSC markers CD73 and Oct4, excluding the potential of HSC contamination. Furthermore, S-BMMSCs were found to be distinct from HSC because they lacked the ability to differentiate into hematopoietic cell lineages <it>in vitro </it>and failed to rescue lethally-irradiated mice. The mechanism that may contribute to the up-regulated immunomodulatory function was associated with high NO production in S-BMMSCs and a NO-driven high Tregs level <abbrgrp><abbr bid="B36">36</abbr></abbrgrp>. NO is a gaseous biological mediator with important roles in affecting T cell function <abbrgrp><abbr bid="B37">37</abbr></abbrgrp>.</p>
+            <p>This is the reason that S-BMMSCs showed a superior therapeutic effect in treating SLE mice.</p>
+            <p>One successful approach is to isolate cells that express specific molecules on their cell surfaces using monoclonal antibodies and cell sorting technologies. Enriched populations of BMMSCs have been isolated from human bone marrow aspirates using a STRO-1 monoclonal antibody in conjunction with antibodies against VCAM-1/CD106 <abbrgrp><abbr bid="B32">32</abbr></abbrgrp>, CD146 <abbrgrp><abbr bid="B11">11</abbr></abbrgrp>, low affinity nerve growth factor receptor/CD271, PDGR-R, EGF-R and IGF-1-R <abbrgrp><abbr bid="B38">38</abbr></abbrgrp>, fibroblast cell marker/D7-Fib <abbrgrp><abbr bid="B39">39</abbr></abbrgrp> and integrin alpha 1/CD49a <abbrgrp><abbr bid="B40">40</abbr></abbrgrp>. A more recent study has also identified molecules co-expressed by a CD271<sup>+ </sup>mesenchymal stem cell population including platelet derived growth factor receptor-&#946; (CD140b)<b/>, human epidermal growth factor 2/ErbB2 (CD340) and frizzled-9 (CD349) <abbrgrp><abbr bid="B41">41</abbr></abbrgrp>. Further cell separation based upon multi-parameter FACS identified a population of proposed mouse mesenchymal precursors with the composite phenotype Lin<sup>-</sup>CD45<sup>-</sup>CD31<sup>-</sup>Sca-1<sup>+ </sup><abbrgrp><abbr bid="B42">42</abbr></abbrgrp>. Another recent study also identified and characterized an alternate population of primitive mesenchymal cells derived from adult mouse bone marrow, based upon their expression of the SSEA-1 <abbrgrp><abbr bid="B43">43</abbr></abbrgrp>. All approaches used for BMMSC purification and isolation will undergo <it>ex vivo </it>expansion to enrich cell numbers for tissue regeneration or systemic therapies by plastic adherent assay. In addition to identifying a novel sub-population of BMMSCs that possess enhanced immunomodulatory properties when compared to regular BMMSCs, we showed that CD34<sup>+</sup>/CD73<sup>+ </sup>BMMSCs could be isolated directly from whole bone marrow and that CD34<sup>+</sup>/CD73<sup>+ </sup>BMMSCs are endogenous S-BMMSCs with higher NO production, and are superior in treating SLE-like mice when compared to regular BMMSCs.</p>
+            <p>Recently, non-adherent bone marrow cells (NA-BMCs) were identified <abbrgrp><abbr bid="B44">44</abbr><abbr bid="B45">45</abbr></abbrgrp>. The NA-BMSCs could be expanded in suspension and gave rise to multiple mesenchymal phenotypes, including osteoblasts, chondrocytes, and adipocytes <it>in vitro</it>, suggesting the presence of non-adherent BMMSCs in primary CFU-F cultures <abbrgrp><abbr bid="B45">45</abbr></abbrgrp>. Although it has been reported that the NA-BMCs can rescue lethally-irradiated mouse recipients, our data indicated that S-BMMSCs only showed improved survival lifespan without a complete rescue of lethally-irradiated mice, compared to whole bone marrow transplantation. While the mechanism of S-BMMSC-mediated lifespan extension in lethally-irradiated mice is unknown, it is possible that S-BMMSCs have a more active interplay with hematopoietic cells than regular BMMSCs. It has been reported that granulocyte colony stimulating factor might promote BMMSCs into the circulation in humans <abbrgrp><abbr bid="B46">46</abbr></abbrgrp>, suggesting that non-attached BMMSCs may exist <it>in vivo </it>for specific functional needs. Added evidence indicated that osteocalcin-positive cells in circulation were able to differentiate into osteoblastic cells when cultured in the presence of TGF&#946; <abbrgrp><abbr bid="B47">47</abbr></abbrgrp>. However, it is unknown whether S-BMMSCs are associated with circulating mesenchymal stem cells initially identified in mice, and this is very rare in humans.</p>
+         </sec>
+      </sec>
+      <sec>
+         <st>
+            <p>Conclusions</p>
+         </st>
+         <p>A new subset of BMMSCs (S-BMMSCs) which failed to adhere to culture dishes possesses similar stem cell properties as those seen in BMMSCs, including CFU-F, stem cell markers, osto-, adipo-, and chondro-genic differentiation. However, S-BMMSC showed distinct features including expression of CD34 and a superior immunomodulation property through high NO production. These findings suggest that it is feasible to improve immunotherapy by identifying new subset BMMSCs.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Abbreviations</p>
+         </st>
+         <p>7AAD: 7aminoactinomycineD; ALP: alkaline phosphatase; ANCs: all nucleated cells; BMMSCs: bone marrow mesenchymal stem cells; BrdU: bromodeoxyuridine; CFU-F: colony forming unit fibroblastic; CTX: C-terminal telopeptides of type I collagen; DAPI: 4', 6-diamidino-2-phenylindole; (D)MEM: (Dulbecco's) modified Eagle's medium; ECM: extracellular cell matrix; ELISA: enzyme-linked immunosorbent assay; EPO: erythropoietin; FACS: fluorescence-activated cell sorting; FBS: fetal bovine serums; FITC: fluorescein isothiocyanate; H &amp; E: hematoxylin and eosin; HA/TCP: hydroxyapatite/tricalcium phosphate; HSC: hematopoietic stem cell; IDO: indoleamine 2,3-dioxygenase; IFN&#947;: interferon gamma; IgG: immunoglobulin G; IL-1&#946;: interleukin-1 beta; iNOS: inducible NOS; L-NMMA: L-NG-monomethyl-arginine; lpl: lipoprotein lipase; NF-&#954;B: nuclear factor-kappa B; NOS: nitric oxide synthase; PBMNCs: peripheral blood mononuclear cells; PBS: phosphate-buffered saline; PE: phycoerythrin; PFA: paraformaldehyde; ppar&#947;2: peroxisome proliferator-activated receptor gamma 2; RT-PCR: reverse transcriptase polymerase chain reaction; S-BMMSC: BMMSCs in suspension; SLE: systemic lupus erythematosus; SP: spleen; sRANKL: soluble runt-related NF-&#954;B ligand; SSEA: stage-specific embryonic antigen; TGF&#946;: transforming growth factor beta; Th17: T helper 17 cells; TRAP: tartrate-resistant acid phosphatase; Tregs: regulatory T cells.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Competing interests</p>
+         </st>
+         <p>The authors declare that they have no competing interests.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Authors' contributions</p>
+         </st>
+         <p>KA and YY: contributions to conception and design of experiments, acquisition of data, analysis and interpretation of data. TY, CC, LT, and YJ: contributions to acquisition of data, analysis and interpretation of data. XC and SG: contributions to drafting the manuscript and revising critically. SS: contributions to conception and design, drafting the manuscript, and giving final approval of the version to be published. All authors have read and approved the manuscript for publication.</p>
+      </sec>
+   </bdy>
+   <bm>
+      <ack>
+         <sec>
+            <st>
+               <p>Acknowledgements</p>
+            </st>
+            <p>We thank Dr. Tao Cai from NIH for discussions and critical reading of the manuscript. This work was supported by grants from the National Institute of Dental and Craniofacial Research, National Institutes of Health, Department of Health and Human Services (R01DE017449 and R01 DE019932 to S.S.).</p>
+         </sec>
+      </ack>
+      <refgrp>
+         <bibl id="B1">
+            <title>
+               <p>Stromal cells responsible for transferring the microenvironment of the hemopoietic tissues. Cloning in vitro and retransplantation in vivo</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Friedenstein</snm>
+                  <fnm>AJ</fnm>
+               </au>
+               <au>
+                  <snm>Chailakhyan</snm>
+                  <fnm>RK</fnm>
+               </au>
+               <au>
+                  <snm>Latsinik</snm>
+                  <fnm>NV</fnm>
+               </au>
+               <au>
+                  <snm>Panasyuk</snm>
+                  <fnm>AF</fnm>
+               </au>
+               <au>
+                  <snm>Keiliss-Borok</snm>
+                  <fnm>IV</fnm>
+               </au>
+            </aug>
+            <source>Transplantation</source>
+            <pubdate>1974</pubdate>
+            <volume>17</volume>
+            <fpage>331</fpage>
+            <lpage>340</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1097/00007890-197404000-00001</pubid>
+                  <pubid idtype="pmpid">4150881</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B2">
+            <title>
+               <p>Marrow stromal cells as stem cells for nonhematopoietic tissues</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Prockop</snm>
+                  <fnm>DJ</fnm>
+               </au>
+            </aug>
+            <source>Science</source>
+            <pubdate>1997</pubdate>
+            <volume>276</volume>
+            <fpage>71</fpage>
+            <lpage>74</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1126/science.276.5309.71</pubid>
+                  <pubid idtype="pmpid" link="fulltext">9082988</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B3">
+            <title>
+               <p>SSEA-4 identifies mesenchymal stem cells from bone marrow</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Gang</snm>
+                  <fnm>EJ</fnm>
+               </au>
+               <au>
+                  <snm>Bosnakovski</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Figueiredo</snm>
+                  <fnm>CA</fnm>
+               </au>
+               <au>
+                  <snm>Visser</snm>
+                  <fnm>JW</fnm>
+               </au>
+               <au>
+                  <snm>Perlingeiro</snm>
+                  <fnm>RC</fnm>
+               </au>
+            </aug>
+            <source>Blood</source>
+            <pubdate>2007</pubdate>
+            <volume>109</volume>
+            <fpage>1743</fpage>
+            <lpage>1751</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1182/blood-2005-11-010504</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17062733</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B4">
+            <title>
+               <p>Functional similarities among genes regulated by OCT4 in human mesenchymal and embryonic stem cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Greco</snm>
+                  <fnm>SJ</fnm>
+               </au>
+               <au>
+                  <snm>Liu</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Rameshwar</snm>
+                  <fnm>P</fnm>
+               </au>
+            </aug>
+            <source>Stem Cells</source>
+            <pubdate>2007</pubdate>
+            <volume>25</volume>
+            <fpage>3143</fpage>
+            <lpage>3154</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1634/stemcells.2007-0351</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17761754</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B5">
+            <title>
+               <p>Phenotypical and functional properties of human bone marrow mesenchymal progenitor cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Conget</snm>
+                  <fnm>PA</fnm>
+               </au>
+               <au>
+                  <snm>Minguell</snm>
+                  <fnm>JJ</fnm>
+               </au>
+            </aug>
+            <source>J Cell Physiol</source>
+            <pubdate>1999</pubdate>
+            <volume>181</volume>
+            <fpage>67</fpage>
+            <lpage>73</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1002/(SICI)1097-4652(199910)181:1&lt;67::AID-JCP7>3.0.CO;2-C</pubid>
+                  <pubid idtype="pmpid" link="fulltext">10457354</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B6">
+            <title>
+               <p>Multipotent mesenchymal stromal cells obtained from diverse human tissues share functional properties and gene-expression profiles with CD146+ perivascular cells and fibroblasts</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Covas</snm>
+                  <fnm>DT</fnm>
+               </au>
+               <au>
+                  <snm>Panepucci</snm>
+                  <fnm>RA</fnm>
+               </au>
+               <au>
+                  <snm>Fontes</snm>
+                  <fnm>AM</fnm>
+               </au>
+               <au>
+                  <snm>Silva</snm>
+                  <fnm>WA</fnm>
+                  <suf>Jr</suf>
+               </au>
+               <au>
+                  <snm>Orellana</snm>
+                  <fnm>MD</fnm>
+               </au>
+               <au>
+                  <snm>Freitas</snm>
+                  <fnm>MC</fnm>
+               </au>
+               <au>
+                  <snm>Neder</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Santos</snm>
+                  <fnm>AR</fnm>
+               </au>
+               <au>
+                  <snm>Peres</snm>
+                  <fnm>LC</fnm>
+               </au>
+               <au>
+                  <snm>Jamur</snm>
+                  <fnm>MC</fnm>
+               </au>
+               <au>
+                  <snm>Zago</snm>
+                  <fnm>MA</fnm>
+               </au>
+            </aug>
+            <source>Exp Hematol</source>
+            <pubdate>2008</pubdate>
+            <volume>36</volume>
+            <fpage>642</fpage>
+            <lpage>654</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.exphem.2007.12.015</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18295964</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B7">
+            <title>
+               <p>Stromal cells from human long-term marrow cultures are mesenchymal cells that differentiate following a vascular smooth muscle differentiation pathway</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Galmiche</snm>
+                  <fnm>MC</fnm>
+               </au>
+               <au>
+                  <snm>Koteliansky</snm>
+                  <fnm>VE</fnm>
+               </au>
+               <au>
+                  <snm>Bri&#232;re</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Herv&#233;</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Charbord</snm>
+                  <fnm>P</fnm>
+               </au>
+            </aug>
+            <source>Blood</source>
+            <pubdate>1993</pubdate>
+            <volume>82</volume>
+            <fpage>66</fpage>
+            <lpage>76</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid" link="fulltext">8324235</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B8">
+            <title>
+               <p>Cell surface antigens on human marrow-derived mesenchymal cells are detected by monoclonal antibodies</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Haynesworth</snm>
+                  <fnm>SE</fnm>
+               </au>
+               <au>
+                  <snm>Baber</snm>
+                  <fnm>MA</fnm>
+               </au>
+               <au>
+                  <snm>Caplan</snm>
+                  <fnm>AI</fnm>
+               </au>
+            </aug>
+            <source>Bone</source>
+            <pubdate>1992</pubdate>
+            <volume>13</volume>
+            <fpage>69</fpage>
+            <lpage>80</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/8756-3282(92)90363-2</pubid>
+                  <pubid idtype="pmpid">1316137</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B9">
+            <title>
+               <p>Human bone marrow mesenchymal stromal cells express the neural ganglioside GD2: a novel surface marker for the identification of MSCs</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Martinez</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Hofmann</snm>
+                  <fnm>TJ</fnm>
+               </au>
+               <au>
+                  <snm>Marino</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Dominici</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Horwitz</snm>
+                  <fnm>EM</fnm>
+               </au>
+            </aug>
+            <source>Blood</source>
+            <pubdate>2007</pubdate>
+            <volume>109</volume>
+            <fpage>4245</fpage>
+            <lpage>4248</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1182/blood-2006-08-039347</pubid>
+                  <pubid idtype="pmcid">1885494</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17264296</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B10">
+            <title>
+               <p>Self-renewing osteoprogenitors in bone marrow sinusoids can organize a hematopoietic microenvironment</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Sacchetti</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Funari</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Michienzi</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Di Cesare</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Piersanti</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Saggio</snm>
+                  <fnm>I</fnm>
+               </au>
+               <au>
+                  <snm>Tagliafico</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Ferrari</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Robey</snm>
+                  <fnm>PG</fnm>
+               </au>
+               <au>
+                  <snm>Riminucci</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Bianco</snm>
+                  <fnm>P</fnm>
+               </au>
+            </aug>
+            <source>Cell</source>
+            <pubdate>2007</pubdate>
+            <volume>131</volume>
+            <fpage>324</fpage>
+            <lpage>336</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.cell.2007.08.025</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17956733</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B11">
+            <title>
+               <p>Perivascular niche of postnatal mesenchymal stem cells in human bone marrow and dental pulp</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Shi</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Gronthos</snm>
+                  <fnm>S</fnm>
+               </au>
+            </aug>
+            <source>J Bone Miner Res</source>
+            <pubdate>2003</pubdate>
+            <volume>18</volume>
+            <fpage>696</fpage>
+            <lpage>704</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1359/jbmr.2003.18.4.696</pubid>
+                  <pubid idtype="pmpid" link="fulltext">12674330</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B12">
+            <title>
+               <p>Bone formation by human postnatal bone marrow stromal stem cells is enhanced by telomerase expression</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Shi</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Gronthos</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Chen</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Counter</snm>
+                  <fnm>CM</fnm>
+               </au>
+               <au>
+                  <snm>Robey</snm>
+                  <fnm>PG</fnm>
+               </au>
+               <au>
+                  <snm>Wang</snm>
+                  <fnm>C-Y</fnm>
+               </au>
+            </aug>
+            <source>Nat Biotechnol</source>
+            <pubdate>2002</pubdate>
+            <volume>20</volume>
+            <fpage>587</fpage>
+            <lpage>591</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/nbt0602-587</pubid>
+                  <pubid idtype="pmpid" link="fulltext">12042862</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B13">
+            <title>
+               <p>Bone marrow mesenchymal stem cells express a restricted set of functionally active chemokine receptors capable of promoting migration to pancreatic islets</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Sordi</snm>
+                  <fnm>V</fnm>
+               </au>
+               <au>
+                  <snm>Malosio</snm>
+                  <fnm>ML</fnm>
+               </au>
+               <au>
+                  <snm>Marchesi</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Mercalli</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Melzi</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Giordano</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Belmonte</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Ferrari</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Leone</snm>
+                  <fnm>BE</fnm>
+               </au>
+               <au>
+                  <snm>Bertuzzi</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Zerbini</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Allavena</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Bonifacio</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Piemonti</snm>
+                  <fnm>L</fnm>
+               </au>
+            </aug>
+            <source>Blood</source>
+            <pubdate>2005</pubdate>
+            <volume>106</volume>
+            <fpage>419</fpage>
+            <lpage>427</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1182/blood-2004-09-3507</pubid>
+                  <pubid idtype="pmpid" link="fulltext">15784733</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B14">
+            <title>
+               <p>Cell-based therapies for skeletal regenerative medicine</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Kwan</snm>
+                  <fnm>MD</fnm>
+               </au>
+               <au>
+                  <snm>Slater</snm>
+                  <fnm>BJ</fnm>
+               </au>
+               <au>
+                  <snm>Wan</snm>
+                  <fnm>DC</fnm>
+               </au>
+               <au>
+                  <snm>Longaker</snm>
+                  <fnm>MT</fnm>
+               </au>
+            </aug>
+            <source>Hum Mol Genet</source>
+            <pubdate>2002</pubdate>
+            <volume>17</volume>
+            <issue>R1</issue>
+            <fpage>R93</fpage>
+            <lpage>98</lpage>
+         </bibl>
+         <bibl id="B15">
+            <title>
+               <p>Mesenchymal cells for skeletal tissue engineering</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Panetta</snm>
+                  <fnm>NJ</fnm>
+               </au>
+               <au>
+                  <snm>Gupta</snm>
+                  <fnm>DM</fnm>
+               </au>
+               <au>
+                  <snm>Quarto</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Longaker</snm>
+                  <fnm>MT</fnm>
+               </au>
+            </aug>
+            <source>Panminerva Med</source>
+            <pubdate>2009</pubdate>
+            <volume>51</volume>
+            <fpage>25</fpage>
+            <lpage>41</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid" link="fulltext">19352307</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B16">
+            <title>
+               <p>Mesenchymal stem cell-based tissue regeneration is governed by recipient T lymphocytes via IFN-Gamma and TNF-Alpha</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Liu</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Wang</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Kikuiri</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Akiyama</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Chen</snm>
+                  <fnm>CD</fnm>
+               </au>
+               <au>
+                  <snm>Xu</snm>
+                  <fnm>XT</fnm>
+               </au>
+               <au>
+                  <snm>Yang</snm>
+                  <fnm>RL</fnm>
+               </au>
+               <au>
+                  <snm>Chen</snm>
+                  <fnm>WJ</fnm>
+               </au>
+               <au>
+                  <snm>Wang</snm>
+                  <fnm>SL</fnm>
+               </au>
+               <au>
+                  <snm>Shi</snm>
+                  <fnm>S</fnm>
+               </au>
+            </aug>
+            <source>Nat Medicine</source>
+            <pubdate>2011</pubdate>
+            <volume>17</volume>
+            <fpage>1594</fpage>
+            <lpage>1601</lpage>
+            <xrefbib>
+               <pubid idtype="doi">10.1038/nm.2542</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B17">
+            <title>
+               <p>Immunomodulatory properties of mesenchymal stromal cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Nauta</snm>
+                  <fnm>AJ</fnm>
+               </au>
+               <au>
+                  <snm>Fibbe</snm>
+                  <fnm>WE</fnm>
+               </au>
+            </aug>
+            <source>Blood</source>
+            <pubdate>2007</pubdate>
+            <volume>110</volume>
+            <fpage>3499</fpage>
+            <lpage>3506</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1182/blood-2007-02-069716</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17664353</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B18">
+            <title>
+               <p>Mesenchymal stem cells: a new strategy for immunosuppression?</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Uccelli</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Pistoia</snm>
+                  <fnm>V</fnm>
+               </au>
+               <au>
+                  <snm>Moretta</snm>
+                  <fnm>L</fnm>
+               </au>
+            </aug>
+            <source>Trends Immunol</source>
+            <pubdate>2007</pubdate>
+            <volume>28</volume>
+            <fpage>219</fpage>
+            <lpage>226</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.it.2007.03.001</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17400510</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B19">
+            <title>
+               <p>Mesenchymal stem cells in health and disease</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Uccelli</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Moretta</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Pistoia</snm>
+                  <fnm>V</fnm>
+               </au>
+            </aug>
+            <source>Nat Rev Immunol</source>
+            <pubdate>2008</pubdate>
+            <volume>8</volume>
+            <fpage>726</fpage>
+            <lpage>736</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/nri2395</pubid>
+                  <pubid idtype="pmpid" link="fulltext">19172693</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B20">
+            <title>
+               <p>Human mesenchymal stem cells modulate allogeneic immune cell responses</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Aggarwal</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Pittenger</snm>
+                  <fnm>MF</fnm>
+               </au>
+            </aug>
+            <source>Blood</source>
+            <pubdate>2005</pubdate>
+            <volume>105</volume>
+            <fpage>1815</fpage>
+            <lpage>1822</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1182/blood-2004-04-1559</pubid>
+                  <pubid idtype="pmpid" link="fulltext">15494428</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B21">
+            <title>
+               <p>Mesenchymal stromal cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Bernardo</snm>
+                  <fnm>ME</fnm>
+               </au>
+               <au>
+                  <snm>Locatelli</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Fibbe</snm>
+                  <fnm>WE</fnm>
+               </au>
+            </aug>
+            <source>Ann N Y Acad Sci</source>
+            <pubdate>2009</pubdate>
+            <volume>1176</volume>
+            <fpage>101</fpage>
+            <lpage>117</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1111/j.1749-6632.2009.04607.x</pubid>
+                  <pubid idtype="pmpid" link="fulltext">19796238</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B22">
+            <title>
+               <p>Treatment of severe acute graft-versus-host disease with third party haploidentical mesenchymal stem cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Le Blanc</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Rasmusson</snm>
+                  <fnm>I</fnm>
+               </au>
+               <au>
+                  <snm>Sundberg</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>G&#246;therstr&#246;m</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Hassan</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Uzunel</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Ringd&#233;n</snm>
+                  <fnm>O</fnm>
+               </au>
+            </aug>
+            <source>Lancet</source>
+            <pubdate>2004</pubdate>
+            <volume>363</volume>
+            <fpage>1439</fpage>
+            <lpage>1441</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/S0140-6736(04)16104-7</pubid>
+                  <pubid idtype="pmpid" link="fulltext">15121408</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B23">
+            <title>
+               <p>Mesenchymal stem cells in immunoregulation</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Chen</snm>
+                  <fnm>X</fnm>
+               </au>
+               <au>
+                  <snm>Armstrong</snm>
+                  <fnm>MA</fnm>
+               </au>
+               <au>
+                  <snm>Li</snm>
+                  <fnm>G</fnm>
+               </au>
+            </aug>
+            <source>Immunol Cell Biol</source>
+            <pubdate>2006</pubdate>
+            <volume>84</volume>
+            <fpage>413</fpage>
+            <lpage>421</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1111/j.1440-1711.2006.01458.x</pubid>
+                  <pubid idtype="pmpid" link="fulltext">16869941</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B24">
+            <title>
+               <p>Mesenchymal stem cell transplantation reverses multi-organ dysfunction in systemic lupus erythematosus mice and humans</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Sun</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Akiyama</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Zhang</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Yamaza</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Hou</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Zhao</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Xu</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Le</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Shi</snm>
+                  <fnm>S</fnm>
+               </au>
+            </aug>
+            <source>Stem Cells</source>
+            <pubdate>2009</pubdate>
+            <volume>27</volume>
+            <fpage>1421</fpage>
+            <lpage>1432</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1002/stem.68</pubid>
+                  <pubid idtype="pmcid">2704254</pubid>
+                  <pubid idtype="pmpid" link="fulltext">19489103</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B25">
+            <title>
+               <p>Stromal mechanisms of bone marrow: cloning in vitro and retransplantation in vivo</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Friedenstein</snm>
+                  <fnm>AJ</fnm>
+               </au>
+            </aug>
+            <source>Haematol Blood Transfus</source>
+            <pubdate>1980</pubdate>
+            <volume>25</volume>
+            <fpage>19</fpage>
+            <lpage>29</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid">7021339</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B26">
+            <title>
+               <p>Age dependent in vitro stromal growth</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Clarke</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>McCann</snm>
+                  <fnm>SR</fnm>
+               </au>
+            </aug>
+            <source>Bone Marrow Transplant</source>
+            <pubdate>1989</pubdate>
+            <volume>4</volume>
+            <fpage>596</fpage>
+            <lpage>597</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid">2790338</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B27">
+            <title>
+               <p>The development of fibroblast colonies in monolayer cultures of guinea-pig bone marrow and spleen cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Friedenstein</snm>
+                  <fnm>AJ</fnm>
+               </au>
+               <au>
+                  <snm>Chailakhjan</snm>
+                  <fnm>RK</fnm>
+               </au>
+               <au>
+                  <snm>Lalykina</snm>
+                  <fnm>KS</fnm>
+               </au>
+            </aug>
+            <source>Cell Tissue Kinet</source>
+            <pubdate>1970</pubdate>
+            <volume>3</volume>
+            <fpage>393</fpage>
+            <lpage>403</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid">5523063</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B28">
+            <title>
+               <p>Extracellular matrix made by bone marrow cells facilitates expansion of marrow-derived mesenchymal progenitor cells and prevents their differentiation into osteoblasts</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Chen</snm>
+                  <fnm>XD</fnm>
+               </au>
+               <au>
+                  <snm>Dusevich</snm>
+                  <fnm>V</fnm>
+               </au>
+               <au>
+                  <snm>Feng</snm>
+                  <fnm>JQ</fnm>
+               </au>
+               <au>
+                  <snm>Manolagas</snm>
+                  <fnm>SC</fnm>
+               </au>
+               <au>
+                  <snm>Jilka</snm>
+                  <fnm>RL</fnm>
+               </au>
+            </aug>
+            <source>J Bone Miner Res</source>
+            <pubdate>2007</pubdate>
+            <volume>22</volume>
+            <fpage>1943</fpage>
+            <lpage>1956</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1359/jbmr.070725</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17680726</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B29">
+            <title>
+               <p>Mesenchymal stem cell-mediated immunosuppression occurs via concerted action of chemokines and nitric oxide</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Ren</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Zhang</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Zhao</snm>
+                  <fnm>X</fnm>
+               </au>
+               <au>
+                  <snm>Xu</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Zhang</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Roberts</snm>
+                  <fnm>AI</fnm>
+               </au>
+               <au>
+                  <snm>Zhao</snm>
+                  <fnm>RC</fnm>
+               </au>
+               <au>
+                  <snm>Shi</snm>
+                  <fnm>Y</fnm>
+               </au>
+            </aug>
+            <source>Cell Stem Cell</source>
+            <pubdate>2008</pubdate>
+            <volume>2</volume>
+            <fpage>141</fpage>
+            <lpage>150</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.stem.2007.11.014</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18371435</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B30">
+            <title>
+               <p>CD3-specific antibody-induced immune tolerance involves transforming growth factor-beta from phagocytes digesting apoptotic T cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Perruche</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Zhang</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Liu</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Saas</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Bluestone</snm>
+                  <fnm>JA</fnm>
+               </au>
+               <au>
+                  <snm>Chen</snm>
+                  <fnm>W</fnm>
+               </au>
+            </aug>
+            <source>Nat Med</source>
+            <pubdate>2008</pubdate>
+            <volume>5</volume>
+            <fpage>528</fpage>
+            <lpage>535</lpage>
+         </bibl>
+         <bibl id="B31">
+            <title>
+               <p>Molecular and cellular characterisation of highly purified stromal stem cells derived from human bone marrow</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Gronthos</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Zannettino</snm>
+                  <fnm>AC</fnm>
+               </au>
+               <au>
+                  <snm>Hay</snm>
+                  <fnm>SJ</fnm>
+               </au>
+               <au>
+                  <snm>Shi</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Graves</snm>
+                  <fnm>SE</fnm>
+               </au>
+               <au>
+                  <snm>Kortesidis</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Simmons</snm>
+                  <fnm>PJ</fnm>
+               </au>
+            </aug>
+            <source>J Cell Sci</source>
+            <pubdate>2003</pubdate>
+            <volume>116</volume>
+            <fpage>1827</fpage>
+            <lpage>1835</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1242/jcs.00369</pubid>
+                  <pubid idtype="pmpid" link="fulltext">12665563</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B32">
+            <title>
+               <p>Identification of stromal cell precursors in human bone marrow by a novel monoclonal antibody, STRO-1</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Simmons</snm>
+                  <fnm>PJ</fnm>
+               </au>
+               <au>
+                  <snm>Torok-Storb</snm>
+                  <fnm>B</fnm>
+               </au>
+            </aug>
+            <source>Blood</source>
+            <pubdate>1991</pubdate>
+            <volume>78</volume>
+            <fpage>55</fpage>
+            <lpage>62</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid" link="fulltext">2070060</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B33">
+            <title>
+               <p>CD34 expression on murine marrow-derived mesenchymal stromal cells: impact on neovascularization</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Copland</snm>
+                  <fnm>I</fnm>
+               </au>
+               <au>
+                  <snm>Sharma</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Lejeune</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Eliopoulos</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Stewart</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Liu</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Lachapelle</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Galipeau</snm>
+                  <fnm>J</fnm>
+               </au>
+            </aug>
+            <source>Exp Hematol</source>
+            <pubdate>2008</pubdate>
+            <volume>36</volume>
+            <fpage>93</fpage>
+            <lpage>103</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.exphem.2007.08.032</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18023523</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B34">
+            <title>
+               <p>Hematopoietic stem cell origin of mesenchymal cells: opportunity for novel therapeutic approaches</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Ogawa</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Larue</snm>
+                  <fnm>AC</fnm>
+               </au>
+               <au>
+                  <snm>Watson</snm>
+                  <fnm>PM</fnm>
+               </au>
+               <au>
+                  <snm>Watson</snm>
+                  <fnm>DK</fnm>
+               </au>
+            </aug>
+            <source>Int J Hematol</source>
+            <pubdate>2012</pubdate>
+            <volume>91</volume>
+            <fpage>353</fpage>
+            <lpage>359</lpage>
+         </bibl>
+         <bibl id="B35">
+            <title>
+               <p>Primitive adult hematopoietic stem cells can function as osteoblast precursors</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Olmsted-Davis</snm>
+                  <fnm>EA</fnm>
+               </au>
+               <au>
+                  <snm>Gugala</snm>
+                  <fnm>Z</fnm>
+               </au>
+               <au>
+                  <snm>Camargo</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Gannon</snm>
+                  <fnm>FH</fnm>
+               </au>
+               <au>
+                  <snm>Jackson</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Kienstra</snm>
+                  <fnm>KA</fnm>
+               </au>
+               <au>
+                  <snm>Shine</snm>
+                  <fnm>HD</fnm>
+               </au>
+               <au>
+                  <snm>Lindsey</snm>
+                  <fnm>RW</fnm>
+               </au>
+               <au>
+                  <snm>Hirschi</snm>
+                  <fnm>KK</fnm>
+               </au>
+               <au>
+                  <snm>Goodell</snm>
+                  <fnm>MA</fnm>
+               </au>
+               <au>
+                  <snm>Brenner</snm>
+                  <fnm>MK</fnm>
+               </au>
+               <au>
+                  <snm>Davis</snm>
+                  <fnm>AR</fnm>
+               </au>
+            </aug>
+            <source>Proc Natl Acad Sci USA</source>
+            <pubdate>2003</pubdate>
+            <volume>100</volume>
+            <fpage>15877</fpage>
+            <lpage>15882</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1073/pnas.2632959100</pubid>
+                  <pubid idtype="pmcid">307661</pubid>
+                  <pubid idtype="pmpid" link="fulltext">14673088</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B36">
+            <title>
+               <p>Nitric oxide induces CD4+CD25+ Foxp3 regulatory T cells from CD4+CD25 T cells via p53, IL-2, and OX40</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Niedbala</snm>
+                  <fnm>W</fnm>
+               </au>
+               <au>
+                  <snm>Cai</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Liu</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Pitman</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Chang</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Liew</snm>
+                  <fnm>FY</fnm>
+               </au>
+            </aug>
+            <source>Proc Natl Acad Sci USA</source>
+            <pubdate>2007</pubdate>
+            <volume>104</volume>
+            <fpage>15478</fpage>
+            <lpage>15483</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1073/pnas.0703725104</pubid>
+                  <pubid idtype="pmcid">1978217</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17875988</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B37">
+            <title>
+               <p>Nitric oxide plays a critical role in suppression of T-cell proliferation by mesenchymal stem cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Sato</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Ozaki</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Oh</snm>
+                  <fnm>I</fnm>
+               </au>
+               <au>
+                  <snm>Meguro</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Hatanaka</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Nagai</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Muroi</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Ozawa</snm>
+                  <fnm>K</fnm>
+               </au>
+            </aug>
+            <source>Blood</source>
+            <pubdate>2007</pubdate>
+            <volume>109</volume>
+            <fpage>228</fpage>
+            <lpage>234</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1182/blood-2006-02-002246</pubid>
+                  <pubid idtype="pmpid" link="fulltext">16985180</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B38">
+            <title>
+               <p>The growth factor requirements of STRO-1-positive human bone marrow stromal precursors under serum-deprived conditions in vitro</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Gronthos</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Simmons</snm>
+                  <fnm>PJ</fnm>
+               </au>
+            </aug>
+            <source>Blood</source>
+            <pubdate>1995</pubdate>
+            <volume>85</volume>
+            <fpage>924</fpage>
+            <lpage>940</lpage>
+         </bibl>
+         <bibl id="B39">
+            <title>
+               <p>Isolation and characterization of bone marrow multipotential mesenchymal progenitor cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Jones</snm>
+                  <fnm>EA</fnm>
+               </au>
+               <au>
+                  <snm>Kinsey</snm>
+                  <fnm>SE</fnm>
+               </au>
+               <au>
+                  <snm>English</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Jones</snm>
+                  <fnm>RA</fnm>
+               </au>
+               <au>
+                  <snm>Straszynski</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Meredith</snm>
+                  <fnm>DM</fnm>
+               </au>
+               <au>
+                  <snm>Markham</snm>
+                  <fnm>AF</fnm>
+               </au>
+               <au>
+                  <snm>Jack</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Emery</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>McGonagle</snm>
+                  <fnm>D</fnm>
+               </au>
+            </aug>
+            <source>Arthritis Rheum</source>
+            <pubdate>2002</pubdate>
+            <volume>46</volume>
+            <fpage>3349</fpage>
+            <lpage>3360</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1002/art.10696</pubid>
+                  <pubid idtype="pmpid" link="fulltext">12483742</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B40">
+            <title>
+               <p>Integrin-mediated interactions between human bone marrow stromal precursor cells and the extracellular matrix</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Gronthos</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Simmons</snm>
+                  <fnm>PJ</fnm>
+               </au>
+               <au>
+                  <snm>Graves</snm>
+                  <fnm>SE</fnm>
+               </au>
+               <au>
+                  <snm>Robey</snm>
+                  <fnm>PG</fnm>
+               </au>
+            </aug>
+            <source>Bone</source>
+            <pubdate>2001</pubdate>
+            <volume>28</volume>
+            <fpage>174</fpage>
+            <lpage>181</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/S8756-3282(00)00424-5</pubid>
+                  <pubid idtype="pmpid" link="fulltext">11182375</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B41">
+            <title>
+               <p>Novel markers for the prospective isolation of human MSC</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>B&#252;hring</snm>
+                  <fnm>HJ</fnm>
+               </au>
+               <au>
+                  <snm>Battula</snm>
+                  <fnm>VL</fnm>
+               </au>
+               <au>
+                  <snm>Treml</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Schewe</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Kanz</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Vogel</snm>
+                  <fnm>W</fnm>
+               </au>
+            </aug>
+            <source>Ann N Y Acad Sci</source>
+            <pubdate>2007</pubdate>
+            <volume>1106</volume>
+            <fpage>262</fpage>
+            <lpage>271</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1196/annals.1392.000</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17395729</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B42">
+            <title>
+               <p>Mesenchymal stem cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Short</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Brouard</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Occhiodoro-Scott</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Ramakrishnan</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Simmons</snm>
+                  <fnm>PJ</fnm>
+               </au>
+            </aug>
+            <source>Arch Med Res</source>
+            <pubdate>2003</pubdate>
+            <volume>34</volume>
+            <fpage>565</fpage>
+            <lpage>571</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.arcmed.2003.09.007</pubid>
+                  <pubid idtype="pmpid" link="fulltext">14734097</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B43">
+            <title>
+               <p>Nonhematopoietic/endothelial SSEA-1<sup>+ </sup>cells define the most primitive progenitors in the adult murine bone marrow mesenchymal compartment</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Anjos-Afonso</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Bonnet</snm>
+                  <fnm>D</fnm>
+               </au>
+            </aug>
+            <source>Blood</source>
+            <pubdate>2007</pubdate>
+            <volume>109</volume>
+            <fpage>1298</fpage>
+            <lpage>1306</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid" link="fulltext">17003364</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B44">
+            <title>
+               <p>Non-adherent bone marrow cells are a rich source of cells forming bone in vivo</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>W&#322;odarski</snm>
+                  <fnm>KH</fnm>
+               </au>
+               <au>
+                  <snm>Galus</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>W&#322;odarski</snm>
+                  <fnm>P</fnm>
+               </au>
+            </aug>
+            <source>Folia Biol (Praha)</source>
+            <pubdate>2004</pubdate>
+            <volume>50</volume>
+            <fpage>167</fpage>
+            <lpage>173</lpage>
+         </bibl>
+         <bibl id="B45">
+            <title>
+               <p>Therapeutic potential of non-adherent BM-derived mesenchymal stem cells in tissue regeneration</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Zhang</snm>
+                  <fnm>ZL</fnm>
+               </au>
+               <au>
+                  <snm>Tong</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Lu</snm>
+                  <fnm>RN</fnm>
+               </au>
+               <au>
+                  <snm>Scutt</snm>
+                  <fnm>AM</fnm>
+               </au>
+               <au>
+                  <snm>Goltzman</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Miao</snm>
+                  <fnm>DS</fnm>
+               </au>
+            </aug>
+            <source>Bone Marrow Transplant</source>
+            <pubdate>2009</pubdate>
+            <volume>43</volume>
+            <fpage>69</fpage>
+            <lpage>81</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/bmt.2008.260</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18711348</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B46">
+            <title>
+               <p>Granulocyte colony-stimulating factor mobilized CFU-F can be found in the peripheral blood but have limited expansion potential</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Lund</snm>
+                  <fnm>TC</fnm>
+               </au>
+               <au>
+                  <snm>Tolar</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Orchard</snm>
+                  <fnm>PJ</fnm>
+               </au>
+            </aug>
+            <source>Haematologica</source>
+            <pubdate>2008</pubdate>
+            <volume>93</volume>
+            <fpage>908</fpage>
+            <lpage>912</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.3324/haematol.12384</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18403392</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B47">
+            <title>
+               <p>Circulating osteoblast-lineage cells in humans</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Eghbali-Fatourechi</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Lamsam</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Fraser</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Nagel</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Riggs</snm>
+                  <fnm>BL</fnm>
+               </au>
+               <au>
+                  <snm>Khosla</snm>
+                  <fnm>S</fnm>
+               </au>
+            </aug>
+            <source>N Engl J Med</source>
+            <pubdate>2005</pubdate>
+            <volume>352</volume>
+            <fpage>1959</fpage>
+            <lpage>1966</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1056/NEJMoa044264</pubid>
+                  <pubid idtype="pmpid" link="fulltext">15888696</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+      </refgrp>
+   </bm>
+</art>

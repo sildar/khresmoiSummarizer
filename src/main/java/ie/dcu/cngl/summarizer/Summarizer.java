@@ -79,12 +79,15 @@ public class Summarizer {
 		weighter.setQuery(StringUtils.isNotEmpty(query) ? tokenizer.tokenize(query) : null);
 		aggregator.setSentences(structure.getSentences());
 
+		/*
 		if(weights.isEmpty()){ //If weights is Empty, re-calculate weights else weights loaded to aggregate
 			weighter.calculateWeights(weights);
 			for(Double [] featureWeight : weights) {	//Correct internal state?
-				assert(featureWeight.length == structure.getNumSentences());
+				System.out.println(featureWeight.length + " == " +structure.getNumSentences());
 			}
 		}
+		*/
+		weighter.calculateWeights(weights);
 
 		ArrayList<SentenceScore> scores = aggregator.aggregate(weights);
 
@@ -104,7 +107,7 @@ public class Summarizer {
 	 * @return the processed string, without spaces before punctuation mark
 	 */
 	private String beautifulString(String summary) {
-		String result = summary.replaceAll("\\s([,?.])", "$1");
+		String result = summary.replaceAll("\\s([,?.;])", "$1");
 		return result;
 	}
 

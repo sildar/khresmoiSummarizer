@@ -1,0 +1,1387 @@
+<!DOCTYPE art SYSTEM "article.dtd">
+<art>
+   <ui>scrt155</ui>
+   <ji>1757-6512</ji>
+   <fm>
+      <dochead>Research</dochead>
+      <bibl>
+         <title>
+            <p>Overexpression of Bcl-2 promotes survival and differentiation of neuroepithelial stem cells after transplantation into rat aganglionic colon</p>
+         </title>
+         <aug>
+            <au id="A1" ce="yes">
+               <snm>Liu</snm>
+               <fnm>Wei</fnm>
+               <insr iid="I1"/>
+               <email>lemontree1119@126.com</email>
+            </au>
+            <au id="A2" ce="yes">
+               <snm>Yue</snm>
+               <fnm>Weiming</fnm>
+               <insr iid="I2"/>
+               <email>ywmfz@yahoo.com.cn</email>
+            </au>
+            <au id="A3" ca="yes">
+               <snm>Wu</snm>
+               <fnm>Rongde</fnm>
+               <insr iid="I1"/>
+               <email>wurd2006@yahoo.com.cn</email>
+            </au>
+         </aug>
+         <insg>
+            <ins id="I1">
+               <p>Department of Pediatric Surgery, Provincial Hospital Affiliated to Shandong University, Jinan 250021, China</p>
+            </ins>
+            <ins id="I2">
+               <p>Department of Thoracic Surgery, Qilu Hospital of Shandong University, Jinan 250014, China</p>
+            </ins>
+         </insg>
+         <source>Stem Cell Research &amp; Therapy</source>
+         <issn>1757-6512</issn>
+         <pubdate>2013</pubdate>
+         <volume>4</volume>
+         <issue>1</issue>
+         <fpage>7</fpage>
+         <url>http://stemcellres.com/content/4/1/7</url>
+         <xrefbib>
+            <pubidlist>
+               <pubid idtype="doi">10.1186/scrt155</pubid>
+               <pubid idtype="pmpid">23324128</pubid>
+            </pubidlist>
+         </xrefbib>
+      </bibl>
+      <history>
+         <rec>
+            <date>
+               <day>11</day>
+               <month>8</month>
+               <year>2012</year>
+            </date>
+         </rec>
+         <revrec>
+            <date>
+               <day>26</day>
+               <month>12</month>
+               <year>2012</year>
+            </date>
+         </revrec>
+         <acc>
+            <date>
+               <day>10</day>
+               <month>1</month>
+               <year>2013</year>
+            </date>
+         </acc>
+         <pub>
+            <date>
+               <day>16</day>
+               <month>1</month>
+               <year>2013</year>
+            </date>
+         </pub>
+      </history>
+      <cpyrt>
+         <year>2013</year>
+         <collab>Liu et al.; licensee BioMed Central Ltd.</collab>
+         <note>This is an open access article distributed under the terms of the Creative Commons Attribution License (<url>http://creativecommons.org/licenses/by/2.0</url>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</note>
+      </cpyrt>
+      <abs>
+         <sec>
+            <st>
+               <p>Abstract</p>
+            </st>
+            <sec>
+               <st>
+                  <p>Introduction</p>
+               </st>
+               <p>Neural stem cell transplantation is a promising tool for the restoration of the enteric nervous system in a variety of motility disorders. However, limited cell viability after transplantation has restricted its regenerative capacity. The aim of this study was to evaluate the effect of transplantation of neuroepithelial stem cell (NESC) overexpressing anti-apoptotic gene Bcl-2 on the survival, differentiation and function of grafted cells in rat aganglionic colon.</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>Methods</p>
+               </st>
+               <p>NESCs were isolated from neural tube of embryonic rat (embryonic day 11.5) and manipulated to overexpress the Bcl-2 gene. After transplantation into the benzalkonium chloride-induced rat aganglionic colon, grafted cells were visualized in colonic sections. Apoptosis and differentiation of the implanted cells were assessed 1, 4 and 8 weeks post transplantation, respectively. Eight weeks post transplantation, neuronal function of the colon was assessed by measuring the response of muscle strips to electrical field stimulation.</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>Results</p>
+               </st>
+               <p>Transplantation with Bcl-2-NESCs reduced apoptosis within the transplant at 1 week compared with the vector-NESC grafted group. Our findings also indicated that overexpression of Bcl-2 in the transplanted NESCs enhanced differentiation into PGP9.5-positive and neuronal nitric oxide synthase-positive neurons at 8-week assessment. Moreover, electrical field stimulation-induced relaxation of colonic strips was also significantly increased in the Bcl-2-NESC grafted group.</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>Conclusion</p>
+               </st>
+               <p>Transplantation of NESCs genetically modified to overexpress Bcl-2 may have value for enhancing survival and neurogenesis of grafted cells in the adult gut environment and for improving the efficacy of stem cell therapy following a broad range of gastrointestinal motility disorders.</p>
+            </sec>
+         </sec>
+      </abs>
+   </fm>
+   <meta>
+      <classifications>
+         <classification id="asiapacific" subtype="theme_series_title" type="BMC">Stem cell research in the Asia-Pacific</classification>
+         <classification id="asiapacific" subtype="theme_series_editor" type="BMC"/>
+      </classifications>
+   </meta>
+   <bdy>
+      <sec>
+         <st>
+            <p>Introduction</p>
+         </st>
+         <p>Gastrointestinal motility disorders such as Hirschsprung's disease are characterized by complete or partial loss of neurons in variable lengths of the enteric nervous system (ENS) <abbrgrp><abbr bid="B1">1</abbr></abbrgrp>. The treatment of the disorders is far from satisfactory and remains palliative at best. Theoretically, a real cure will restore or replace missing or dysfunctional neurons with healthy ones. Advances in molecular and stem cell biology have provided new avenues for therapy for ENS disorders and have led to the development of the ENS stem cell field <abbrgrp><abbr bid="B2">2</abbr><abbr bid="B3">3</abbr><abbr bid="B4">4</abbr></abbrgrp>. Several potential sources of cells capable of generating enteric neurons have been explored for ENS replenishment in disorders characterized by dysfunctional or absent ENS including central nervous system-derived neural stem cells (NSCs), neural crest stem cells (NCSCs) and ENS progenitor cells <abbrgrp><abbr bid="B5">5</abbr><abbr bid="B6">6</abbr><abbr bid="B7">7</abbr></abbrgrp>. During development, all neurons and glial cells of the ENS arise from NCSCs that migrate into and along the gut. Indeed, neuroepithelial stem cells (NESCs) isolated from the midembryonic rodent neural tube can differentiate into NCSCs. Using enteric neural precursors (that is, NESCs, NCSCs) therefore has the potential advantage of using cells of the same lineage as the desired phenotype. Our previous studies have also shown that transplantation of such NESCs resulted in the appearance of neuronal nitric oxide synthase (nNOS) and choline acetyltransferase-expressing neurons and improvements in colonic motility <abbrgrp><abbr bid="B8">8</abbr></abbrgrp>.</p>
+         <p>Although promising, post-transplant survival of NSCs represents a critical limiting factor for successful anatomical and functional repopulation of the host tissue. Transplanted NSCs can die from a variety of causes: physical injury, immune attack by the host, lack of trophic factors, or toxic environmental factors (free radicals, cytokines, and so on). A large portion of this cell death occurs as apoptosis within the first week after transplantation <abbrgrp><abbr bid="B9">9</abbr><abbr bid="B10">10</abbr></abbrgrp>. Augmenting neuronal replacement by enhancing the survival and maturation of endogenous progenitors is a potentially useful treatment for gastrointestinal neurodegenerative diseases. An alternative approach might involve the overexpression of an anti-apoptotic protein such as Bcl-2. The 26 kDa Bcl-2 anti-apoptotic protein belongs to the Bcl-2 family of proteins, which was originally found to be overexpressed in B-cell lymphoma <abbrgrp><abbr bid="B11">11</abbr></abbrgrp>. The protein serves as a critical regulator of pathways involved in apoptosis, acting to inhibit cell death <abbrgrp><abbr bid="B12">12</abbr></abbrgrp>. Increasing evidence suggests that, in addition to its anti-apoptotic properties, Bcl-2 has an important function in cell differentiation and growth. <it>In vivo </it>studies also indicated that Bcl-2 overexpression enhanced retinal axon regeneration after optic-tract transaction <abbrgrp><abbr bid="B13">13</abbr></abbrgrp> and increased axonal growth of transplanted fetal dopaminergic neurons in the rat striatum <abbrgrp><abbr bid="B14">14</abbr></abbrgrp>. We therefore aimed to determine whether overexpressing Bcl-2 of the transplanted NESCs in the gastrointestinal tract would improve cell survival and neuronal differentiation.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Materials and methods</p>
+         </st>
+         <sec>
+            <st>
+               <p>Animals and surgery</p>
+            </st>
+            <p>All animal procedures were approved by the Guide for the Care and Use of Laboratory Animals published by the National Institute of Health (NIH publication No 85-23, revised 1985). Denervation procedure was performed on 12-week-old female Wistar rats. Topical application of benzalkonium chloride, a cationic surfactant agent, damages nerve elements selectively, leaving other tissues intact <abbrgrp><abbr bid="B15">15</abbr></abbrgrp>. The enteric plexus of rat colon was eliminated by serosal application of 0.5% benzalkonium chloride (Sigma, St Louis, MO, USA) that has been successfully employed in our previous work <abbrgrp><abbr bid="B8">8</abbr></abbrgrp>.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Isolation and culturing of rat neuroepithelial stem cells</p>
+            </st>
+            <p>Cell culture reagents were obtained from Invitrogen (Carlsbad, CA, USA). Briefly, trunk segments of embryonic day 11.5 Wistar rats were isolated in a dish containing cold Hank's buffered salt solution. Gentle trituration was employed to separate neural tubes from the somites. Tubes were dissociated using a 0.05% trypsin/ethylenediamine tetraacetic acid solution for 5 minutes at 37&#176;C. After digestion, a cell suspension was obtained and resuspended in neurobasal medium containing B27, plus 20 ng/ml basic fibroblast growth factor. Cells were grown as free-floating clusters (neurospheres). The spheres were maintained at 37&#176;C with 95% air and 5% CO<sub>2 </sub>and were passaged by mechanical dissociation every 5 to 7 days.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Genetic modification of neuroepithelial stem cells</p>
+            </st>
+            <p>pcDNA3.1/GFP, pcDNA3.1/Bcl-2, or pcDNA3.1 (Invitrogen) was used for transfection. NESCs at passage 3 were trypsinized and washed. Approximately 1.5 &#215; 10<sup>7 </sup>cells were transfected with 10 &#956;g linearized plasmid and 2 &#956;g circular pKO Select neo (Stratagene, La Jolla, CA, USA). Briefly, NESCs were suspended in buffer (20 mM HEPES, 137 mM NaCl, 5 mM KCl, 0.7 mM Na<sub>2</sub>HPO<sub>4</sub>, 6 mM dextrose, pH 7.05) and electroporated in a BioRad Gene Pulser (0.4 cm gap electrode at 230 V and 960 &#956;F). After electroporation, cells were plated and cultured. Determination of transfection efficiency was performed 24 hours after transfection by fluorescence microscopy (Olympus, Tokyo, Japan). For each experiment, at least three microscopic visual fields were counted, and the ratios of GFP-expressing cells to nonfluorescent cells were calculated. NESCs transfected with pcDNA3.1/Bcl-2 and pcDNA3.1 were termed Bcl-2-NESC and vector-NESC, respectively. The Bcl-2 protein expression level was evaluated by western blotting. All experiments and cell number determinations were performed in triplicate. Cell cultures for transplantation were checked for viability by trypan blue assay and viability was always > 90%.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Cell transplantation</p>
+            </st>
+            <p>Four weeks after the denervation procedure, we performed cell transplantation. Animals were divided into Bcl-2 (Bcl-2-NESC transplantation) and control (vector-NESC transplantation) groups. Rats received daily immunosuppression with cyclosporine A (15 mg/kg, intraperitoneally; Novartis Pharmaceuticals, Cambridge, MA, USA) initiated 3 days prior to transplantation. Cells were pre-labeled with 4',6-diamidino-2-phenylindole (DAPI; Sigma) 1 hour before transplantation. After washing with PBS, labeled NESCs suspended in PBS were injected into the denervated colonic wall surgically from the serosa (100 &#956;l; 5 &#215; 10<sup>6 </sup>viable cells per rat). Cells were slowly injected and the capillary was fully retracted 5 minutes after injection to avoid reflux of cells. The sites of injection were labeled with 6-0 suture. Animals were sacrificed at 1, 4 and 8 weeks post transplantation. Cell apoptosis was examined at 1 and 4 weeks and cell differentiation was evaluated at 8 weeks. At the end of the observation period, the treated colons were removed, washed with PBS and snap frozen in liquid nitrogen. Frozen sections embedded in optimum cutting temperature medium (12 &#956;m in thickness) were prepared. An Olympus BX60 microscope (Olympus) was used to examine the sections and acquire the images. The neuronal function was assessed by measuring the responses of colonic strips in an organ bath in response to electrical field stimulation (EFS) at 8 weeks.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Western blotting</p>
+            </st>
+            <p>Western blotting analysis was performed <it>in vitro </it>or 1, 4 and 8 weeks after cell transplantation to measure Bcl-2 protein expression. Cell and colon (longitudinal and circular muscles with adherent enteric plexus) extracts were washed three times with PBS and subsequently were homogenized in ice-cold lysis buffer, containing 2% SDS, 100 &#956;mol proteinase cocktail inhibitor, 1 mmol phenylmethyl sulfonylfluoride, 1 mmol dithiothreitol, and 5 mmol ethylenediamine tetraacetic acid in 50 mmol Tris-buffered saline (50 mmol Tris-HCl; pH 7.4). After centrifugation (5 minutes, 12,500 &#215; <it>g</it>), the supernates were diluted in four times concentrated Laemmli sample buffer. The protein content was determined (BSA Protein Assay Kit; Pierce, Rockford, IL, USA). For Bcl-2 analysis, samples (100 &#956;g protein) boiled for 3 minutes were subjected to 10% SDS-PAGE. After electrophoresis, the proteins were transferred to nitrocellulose membranes (Bio-Rad, Hercules, CA, USA). The blots were incubated in blocking buffer (5% nonfat dry milk in Tris-buffered saline containing 0.1% Tween 20) for 1 hour at room temperature and probed overnight at 4&#176;C with rabbit polyclonal anti-Bcl-2 antibody (1:1,000; Cell Signaling, Danvers, MA, USA) and rabbit polyclonal anti-&#946;-actin (1:2,000; Santa Cruz Biotechnology, Santa Cruz, CA, USA) in blocking buffer. After washing in Tris-buffered saline-Tween 20, the blots were incubated with horseradish peroxidase-conjugated goat anti-rabbit IgG antibody (Sigma) at a dilution of 1:5,000 in blocking buffer for 1 hour at room temperature. The immunoreactive bands were visualized using enhanced chemiluminescence (ECL kit; Millipore, Billerica, MA, USA). The membranes were exposed to X-ray films. The intensities of the bands were quantified using the NIH Image 3.0 software. In all cases, &#946;-actin was used as an internal standard.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Apoptosis detection in neural grafts</p>
+            </st>
+            <p>Apoptotic cells in the transplant were identified by terminal uridine nick end-labeling (TUNEL) using the ApopTag kit (Oncor Inc., Gaithersburg, MD, USA). Cell death was quantified by counting the total cells labeled by DAPI and the percentage of TUNEL-positive cells. A stereological count of total cells and double-labeled cells were conducted on every 10th section to avoid repeated counting of the same cells.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Immunohistochemical assessments</p>
+            </st>
+            <p>Colonic sections were double labeled with specific antibodies to identify the differentiated phenotype of the grafted cells. The sections rinsed in PBS were blocked in 10% goat serum for 30 minutes at room temperature and then incubated with primary antibodies solution at 4&#176;C overnight. Enteric neurons were identified using polyclonal antibody against protein gene product 9.5 (PGP9.5, 1:1,000; ABCAM, Cambridge, UK), nNOS (1:1,000; Sigma) and choline acetyltransferase (1:1,000; ABCAM). Enteric glials were identified using a mAb against glial fibrillary acidic protein (1:1000; ABCAM). After washing, tissue was incubated for 30 minutes at room temperature with FITC (fluorescein)-conjugated goat anti-rabbit IgG (1:200; KPL, Gaithersburg, MD, USA) and TRITC (rhodamine)-conjugated goat anti-mouse IgG (1:200; KPL) and cover-slipped with a fluorescence mounting medium (Sigma). Primary antibody omission as well as primary antibodies preincubated with an excess of blocking peptides (ABCAM) served as negative controls, and no immunoreactivity was observed.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Organ bath physiology</p>
+            </st>
+            <p>Animals were killed by cervical dislocation and the treated colons were removed and placed in Krebs buffer. The mucosa was removed and circular muscle strips (10 &#215; 3 mm) were mounted between two L-shaped tissue hooks in 5 ml chambers containing Krebs buffer at 37&#176;C and continuously bubbled with 95% O<sub>2</sub>/5% CO<sub>2</sub>. Tension was monitored with an isometric force transducer and recorded by a digital recording system (JH-2B; Instrument Company of Chengdu, Chengdu, China). Strips were stretched to 1 g (5 mN) and allowed to equilibrate for 30 minutes. The reactions were obtained by application of EFS (90 V, 5 to 40 Hz, 1 ms pulse for a duration of 5 minutes) in the absence or presence of tetrodotoxin (1 &#956;mol/l; Sigma).</p>
+            <p>Comparisons among the groups (normal, denervation, control and Bcl-2) were performed by measuring the area under the curve of the EFS-induced reactions (AUC<sub>R</sub>) for 5 minutes and the baseline prior to the EFS for 5 minutes (AUC<sub>B</sub>) according to the following formula:</p>
+            <p><display-formula><m:math name="scrt155-i1" xmlns:m="http://www.w3.org/1998/Math/MathML"><m:mrow><m:mi>R</m:mi><m:mo class="MathClass-rel">=</m:mo><m:msub><m:mrow><m:mstyle class="text"><m:mtext class="textsf" mathvariant="sans-serif">AUC</m:mtext></m:mstyle></m:mrow><m:mrow><m:mstyle class="text"><m:mtext class="textsf" mathvariant="sans-serif">R</m:mtext></m:mstyle></m:mrow></m:msub><m:mfenced separators="" open="/" close=""><m:mrow/></m:mfenced><m:msub><m:mrow><m:mstyle class="text"><m:mtext class="textsf" mathvariant="sans-serif">AUC</m:mtext></m:mstyle></m:mrow><m:mrow><m:mstyle class="text"><m:mtext class="textsf" mathvariant="sans-serif">B</m:mtext></m:mstyle></m:mrow></m:msub></m:mrow></m:math></display-formula></p>
+         </sec>
+         <sec>
+            <st>
+               <p>Statistical analysis</p>
+            </st>
+            <p>Mean values were reported together with the standard error of mean. Student's two-tailed <it>t </it>test was used for comparison of two experimental groups. Multiple comparisons were done using one-way analysis of variance followed by the Tukey test for multiple pairwise examinations. Changes were identified as significant if P &lt; 0.05.</p>
+         </sec>
+      </sec>
+      <sec>
+         <st>
+            <p>Results</p>
+         </st>
+         <sec>
+            <st>
+               <p>Overexpression of Bcl-2 in genetically modified NESCs and grafts</p>
+            </st>
+            <p>The transfection efficiency for genetically modified NESCs was evaluated by pcDNA3.1/GFP as an internal control after 24-hour gene delivery. A representative GFP expression is shown in Figure <figr fid="F1">1</figr>. More than 85% of NESCs were transfected based on calculation analysis. NESCs overexpressing Bcl-2 contained higher levels of Bcl-2 protein than that in vector-NESC (Figure <figr fid="F2">2A, C</figr>). Western blotting showed elevated levels of Bcl-2 protein in the colons received Bcl-2-NESCs from 1 to 8 weeks after cell transplantation (Figure <figr fid="F2">2B, D</figr>).</p>
+            <fig id="F1">
+               <title>
+                  <p>Figure 1</p>
+               </title>
+               <caption>
+                  <p>Transfection of neuroepithelial stem cells with nonviral vector</p>
+               </caption>
+               <text>
+                  <p><b>Transfection of neuroepithelial stem cells with nonviral vector</b>. <b>(A) to (C) </b>Representative photomicrograph of neuroepithelial stem cells transfected with pcDNA3.1/GFP 24 hours after transfection. GFP-positive cells are shown in green. Scale bar = 150 &#956;m.</p>
+               </text>
+               <graphic file="scrt155-1"/>
+            </fig>
+            <fig id="F2">
+               <title>
+                  <p>Figure 2</p>
+               </title>
+               <caption>
+                  <p>Bcl-2 overexpression in cultured and transplanted cells</p>
+               </caption>
+               <text>
+                  <p><b>Bcl-2 overexpression in cultured and transplanted cells</b>. <b>(A) </b>Significantly high expression of Bcl-2 was observed in cell cultures overexpressing the Bcl-2 gene 24 hours after transfection. In contrast, a weak expression of Bcl-2 was detected in vector-NESC. <b>(B) </b>In animal studies, 1 week after transplantation, a higher level Bcl-2 expression was seen in the transplanted colonic tissues from the Bcl-2 group compared with that from the control group. The Bcl-2 level remained high for up to 8 weeks after transplantation. <b>(C), (D) </b>Bar graphs showing the Bcl-2 levels in cultures and in cell grafted colons. At different days after transplantation, significantly higher Bcl-2 expression was seen in the colons of rats receiving Bcl-2-NESC than those receiving vector-NESC. *Significant difference compared with vector-NESC or control group (<it>P </it>&lt; 0.05, <it>n </it>= 6 for cell culture experiments and <it>n </it>= 6 for animal studies). NESC, neuroepithelial stem cell.</p>
+               </text>
+               <graphic file="scrt155-2"/>
+            </fig>
+         </sec>
+         <sec>
+            <st>
+               <p>Bcl-2 overexpression decreased cell apoptosis in grafts</p>
+            </st>
+            <p>To assess whether overexpression of Bcl-2 could play a role in preventing apoptosis in NESC, we performed TUNEL staining of colonic sections 1 and 4 weeks post grafting. Apoptotic cells were significantly reduced in the NESC grafts that were transfected with Bcl-2 when compared with the control group at 1-week assessment (18.8 &#177; 1.5% and 7.4 &#177; 0.6% TUNEL-positive cells for control and Bcl-2 groups, respectively, <it>P </it>&lt; 0.05; Figure <figr fid="F3">3</figr>). Few TUNEL-positive cells were detected 4 weeks post transplantation and no differences were found between the groups (data not shown).</p>
+            <fig id="F3">
+               <title>
+                  <p>Figure 3</p>
+               </title>
+               <caption>
+                  <p>Bcl-2 overexpression decreases cell death</p>
+               </caption>
+               <text>
+                  <p><b>Bcl-2 overexpression decreases cell death</b>. Representative pictures of neuroepithelial stem cell (NESC) grafts in cross-sections of rat colon in the <b>(A) </b>control group and <b>(B) </b>Bcl-2 group at 1 week post transplantation. 4',6-Diamidino-2-phenylindole-positive NESCs are shown in blue. Terminal uridine nick end-labeling (TUNEL) immunoreactivity is indicated in green. Transplanted NESCs that are TUNEL-positive are indicated by arrows. LM, longitudinal muscle; CM, circular muscle. Scale bar = 200 &#956;m. <b>(C) </b>Quantitative analysis of the number of grafted NESCs that are TUNEL-positive in two groups. Data expressed as mean &#177; standard error of the mean; <it>n </it>= 6 for each group; *<it>P </it>&lt; 0.05 versus control group.</p>
+               </text>
+               <graphic file="scrt155-3"/>
+            </fig>
+         </sec>
+         <sec>
+            <st>
+               <p>Bcl-2 enhanced neuronal differentiation of NESC transplants</p>
+            </st>
+            <p>We next examined the possibility that Bcl-2 overexpression not only reduced cell death but also increased the neuronal differentiation. Eight weeks after transplantation, many transplanted cells were immunopositive for the neuronal marker PGP9.5. In addition to differentiating into neuron-like cells positive for PGP9.5, some transplanted cells in the colon stained positively for the enteric glia marker glial fibrillary acidic protein (Figure <figr fid="F4">4A, B</figr>). These markers co-localized with pre-labeled DAPI, confirming their transplant origin. Counted on the colonic sections of the control group at 8 weeks after transplantation, 29.1 &#177; 1.0% of transplanted vector-NESCs were PGP9.5-positive whereas 50.7 &#177; 1.8% of transplanted Bcl-2-NESCs were PGP9.5-positive (different at <it>P </it>&lt; 0.05; Figure <figr fid="F4">4C</figr>). Furthermore, nNOS and choline acetyltransferase immunoreactivity was observed in host colon within transplanted NESCs (Figure <figr fid="F5">5A, B</figr>). Approximately 36.3 &#177; 1.3% of DAPI-positive NESCs expressed nNOS in the Bcl-2 group, a proportion apparently higher than that in the control group (21.4 &#177; 1.4%) (<it>P </it>&lt; 0.05; Figure <figr fid="F5">5C</figr>).</p>
+            <fig id="F4">
+               <title>
+                  <p>Figure 4</p>
+               </title>
+               <caption>
+                  <p>Bcl-2 overexpression enhances the differentiation to PGP9.5-positive neurons of transplanted cells</p>
+               </caption>
+               <text>
+                  <p><b>Bcl-2 overexpression enhances the differentiation to PGP9.5-positive neurons of transplanted cells</b>. Representative pictures of the <b>(A) </b>control group and <b>(B) </b>Bcl-2 group in cross-sections of colon 8 weeks post transplantation. Grafted neuroepithelial stem cells are shown in blue. Protein gene product 9.5 (PGP9.5) immunoreactivity is indicated in green. Glial fibrillary acidic protein immunoreactivity is indicated in red. LM, longitudinal muscle; CM, circular muscle. Scale bar = 200 &#956;m. <b>(C) </b>Ratio of PGP9.5-positive cells versus 4',6-diamidino-2-phenylindole (DAPI)-labeled cells was counted. Bcl-2 overexpression increased the ratio of PGP9.5-positive cells. *Significant difference compared with control group (<it>P </it>&lt; 0.05, <it>n </it>= 6 for each group).</p>
+               </text>
+               <graphic file="scrt155-4"/>
+            </fig>
+            <fig id="F5">
+               <title>
+                  <p>Figure 5</p>
+               </title>
+               <caption>
+                  <p>Neuroepithelial stem cells offer enteric nervous system appropriate differentiation upon grafting into recipient aganglionic gut</p>
+               </caption>
+               <text>
+                  <p><b>Neuroepithelial stem cells offer enteric nervous system appropriate differentiation upon grafting into recipient aganglionic gut</b>. Evidence of 4',6-diamidino-2-phenylindole (DAPI)-labeled neuroepithelial stem cell graft (shown in blue) differentiation into neuronal nitric oxide synthase (nNOS; shown in green) and choline acetyltransferase (shown in red) neuronal subtypes was apparent at 8 weeks post transplantation in the <b>(A) </b>control group and <b>(B) </b>Bcl-2 group. LM, longitudinal muscle; CM, circular muscle. Scale bar = 200 &#956;m. <b>(C) </b>Ratio of nNOS-positive cells versus DAPI-labeled cells was counted. Bcl-2 overexpression increased the ratio of nNOS-positive cells. *Significant difference compared with control group (<it>P </it>&lt; 0.05, <it>n </it>= 6 for each group).</p>
+               </text>
+               <graphic file="scrt155-5"/>
+            </fig>
+         </sec>
+         <sec>
+            <st>
+               <p>Bcl-2-engineered NESC transplantation improves relaxation of the colon</p>
+            </st>
+            <p>EFS of <it>ex vivo </it>preparations of the colon was performed to assess neurally mediated reactions of the muscle. As shown in Figure <figr fid="F6">6A</figr>, there was no reaction to EFS in denervated colon. In contrast, application of EFS resulted in a relaxation at lower than 20 Hz and a contraction at 40 Hz in colons of the normal, control and Bcl-2 groups. This effect was completely blocked by tetrodotoxin, confirming its neural origin. EFS-induced relaxation at three stimulating frequencies lower than 20 Hz was significantly increased in colonic muscle strips isolated from rats receiving Bcl-2-NESCs as compared with control groups according to the analysis of the value <it>R</it>. Significant differences between the control and Bcl-2 groups at stimulation frequencies of 5, 10 and 20 Hz are shown in Figure <figr fid="F6">6B</figr> (<it>P </it>= 0.004, <it>P </it>= 0.025 and <it>P </it>= 0.038, respectively). There was also a difference between the normal and Bcl-2 groups in EFS-induced relaxation merely at 10 Hz stimulation (<it>P </it>= 0.025). In addition, no significant difference of EFS-induced contraction in 40 Hz was found among normal, control and Bcl-2 groups.</p>
+            <fig id="F6">
+               <title>
+                  <p>Figure 6</p>
+               </title>
+               <caption>
+                  <p>Bcl-2 engineered neuroepithelial stem cell transplantation results in increased relaxation of the colonic muscle</p>
+               </caption>
+               <text>
+                  <p><b>Bcl-2 engineered neuroepithelial stem cell transplantation results in increased relaxation of the colonic muscle</b>. <b>(A) </b>Representative recordings showed the responses of the colonic circular muscle to electrical field stimulation (EFS) before and after incubation with 1 &#956;mol/l tetrodotoxin (TTX) in four groups. &#8595;Marker of EFS (10 Hz) treatment. <b>(B) </b>Quantification of the value <it>R </it>at different frequencies in four groups. *Significantly different from normal, control and Bcl-2 groups. <sup>#</sup>Significantly different from control group. <sup>##</sup>Significantly different from Bcl-2 group with <it>P </it>&lt; 0.05 (<it>n </it>= 8 for each group). NESC, neuroepithelial stem cell.</p>
+               </text>
+               <graphic file="scrt155-6"/>
+            </fig>
+         </sec>
+      </sec>
+      <sec>
+         <st>
+            <p>Discussion</p>
+         </st>
+         <p>Despite encouraging initial results of NSC replacement as a therapy for gastroenterology neurodegenerative diseases reported by many investigators, there are still significant limitations that prevent the clinical development of this therapy, including adequate survival, appropriate differentiation and physiological integration into the host tissue. Adequate survival of grafted cells is a problem of critical importance that will need to be addressed. Indeed, more than 90% of the grafted neurons usually die upon grafting, both in animal and human studies <abbrgrp><abbr bid="B16">16</abbr><abbr bid="B17">17</abbr></abbrgrp>, and a large portion of this cell death occurs as apoptosis <abbrgrp><abbr bid="B9">9</abbr><abbr bid="B10">10</abbr></abbrgrp>. Adjunct measures to address this issue are therefore essential. Micci and colleagues reported only a very small proportion of transplanted central nervous system-derived NSCs actually could be found days to weeks after implantation for the restoration of the ENS. Using a selective inhibitor of caspase-1 (Ac-YVAD-cmk) at the time of central nervous system-derived NSC transplantation resulted in a significant improvement in graft survival 1 week post transplantation, but the number of grafted cells was drastically reduced at 2 and 4 weeks post transplantation <abbrgrp><abbr bid="B18">18</abbr></abbrgrp>. This finding might suggest that the pharmacological treatment with a caspase inhibitor might not be sufficient in producing a long-lasting effect on graft survival. The present study therefore provided the first evidence that Bcl-2 overexpression by gene transfer reduced apoptosis of grafted cells in aganglionic colon of rat, enhanced differentiation into enteric neurons, and produced a further increase in functional benefits. In spite of the notion that Bcl-2 may represent a prototype for a new class of oncogenes <abbrgrp><abbr bid="B19">19</abbr></abbrgrp> and overexpression of Bcl-2 is common in many types of human cancer <abbrgrp><abbr bid="B20">20</abbr></abbrgrp>, no tumors were seen in our study, perhaps reflecting the fact that the Bcl-2 overexpression did not completely prevent apoptosis in the host.</p>
+         <p>Many factors can contribute to post-transplant cell death, including necrosis, insufficient growth factor support, humoral and cellular immunity and programmed cell death, or apoptosis <abbrgrp><abbr bid="B21">21</abbr></abbrgrp>. Immature cells are particularly vulnerable to apoptosis <abbrgrp><abbr bid="B22">22</abbr><abbr bid="B23">23</abbr><abbr bid="B24">24</abbr><abbr bid="B25">25</abbr></abbrgrp> and transplanted cells may die in large numbers. This death after transplantation can be an additional burden to the gut already compromised by a cellular debris load <abbrgrp><abbr bid="B26">26</abbr><abbr bid="B27">27</abbr></abbrgrp>. Our present studies revealed that genetic modification of NESCs with Bcl-2 effectively protected transplanted NESCs against apoptosis and increased cell survival 1 week after implantation. There were no drastic reductions in numbers of grafted cells at long-term assessment, possibly due to the fact that elevated Bcl-2 levels lasted from 1 to 8 weeks after cell transplantation.</p>
+         <p>The anti-apoptotic role of Bcl-2 has been well established in previous studies dealing with the differentiation of neural progenitors, and NSCs, in general <abbrgrp><abbr bid="B28">28</abbr><abbr bid="B29">29</abbr></abbrgrp>. Consistent with the idea that anti-apoptotic gene modifications may have beneficial effects on neural differentiation, Lee and colleagues reported that enhancing graft survival with the anti-apoptotic gene Bcl-X(L) could potentiate therapeutic benefits of NSC-based therapy for spinal cord injury <abbrgrp><abbr bid="B30">30</abbr></abbrgrp>. After transplantation into the aged rat striatum, Bcl-X(L)-overexpressing hNS1 cells generated more neurons and less glia than the control ones, confirming the results obtained <it>in vitro</it>, which indicated an action of Bcl-X(L) modulating human NSC differentiation <abbrgrp><abbr bid="B31">31</abbr></abbrgrp>. Our data also indicated that Bcl-2 overexpression in the transplanted NESCs resulted in promoting neuronal differentiation. We believed that the higher PGP9.5/DAPI ratio of NESCs with Bcl-2 overexpression was probably due to an increased neuronal differentiation from the transplanted cells.</p>
+         <p>We have also reported here that Bcl-2-engineered NESC transplantation in the aganglionic colonic region significantly improved EFS-induced relaxation compared with vector-NESCs. This effect most probably resulted from the restoration of neurally mediated relaxation by more differentiated neurons secreting important inhibitory enteric neurotransmitter in the Bcl-2 group, which was certified by immunohistochemistry analysis. Our results suggested that overexpression of Bcl-2 might selectively enhance the differentiation into nNOS-positive inhibitory enteric neurons of grafted cells. The finding that overexpression of Bcl-2 enhanced both the survival of transplanted cells and functional recovery supports the idea that the survival is therapeutically important to achieve, and further specifically indicates the value of apoptosis reduction through genetic manipulation.</p>
+         <p>In any case, the present study suggests that NESCs overexpressing Bcl-2 may be particularly useful for reducing apoptotic cell death, promoting neuronal differentiation and tissue functional recovery. Transplantation of gene-engineered NESCs may provide a novel and effective approach in the treatment of disorders of the ENS. However, further investigation will be needed to determine the possible mechanisms of differentiation and functional benefits of Bcl-2 expression in the transplanted cells. Moreover, the efficacy of the use of gene-modified cells and/or specific growth factors on the survival of NESC grafts also will be needed to be explored.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Conclusion</p>
+         </st>
+         <p>In summary, we have confirmed that genetic modification with the anti-apoptotic Bcl-2 gene ameliorated cell survival and improved neuronal differentiation and function of grafted NESCs in aganglionic colon. Genetically engineering cells by Bcl-2 using a nonviral vector could be an effective strategy for increasing cell survival after cell transplantation. Transplantation of gene-engineered NESCs may provide a novel and effective approach in the treatment of disorders of the ENS.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Abbreviations</p>
+         </st>
+         <p>AUC: area under the curve; DAPI: 4',6-diamidino-2-phenylindole; EFS: electrical field stimulation; ENS: enteric nervous system; GFP: green fluorescent protein; mAb: monoclonal antibody; NCSC: neural crest stem cell; NESC: neuroepithelial stem cell; nNOS: neuronal nitric oxide synthase; NSC: neural stem cell; PBS: phosphate-buffered saline; PGP9.5: protein gene product 9.5; TUNEL: terminal uridine nick end-labeling.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Competing interests</p>
+         </st>
+         <p>The authors declare that they have no competing interests.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Authors' contributions</p>
+         </st>
+         <p>WL participated in the design of the study, performed cell culture, genetic modification and the post-transplantation evaluation, and drafted the manuscript. WY carried out the establishment of animal model and cell transplantation, and performed the examination after implantation. RW conceived of the manuscript, participated in its design and coordination, analyzed and interpreted the data, and helped to draft the manuscript. All authors read and approved the final manuscript.</p>
+      </sec>
+   </bdy>
+   <bm>
+      <ack>
+         <sec>
+            <st>
+               <p>Acknowledgements</p>
+            </st>
+            <p>This work was supported in part by grant reference 30973142 of the National Natural Science Foundation of China and grant reference ZR2012HQ012 Natural Science Foundation of Shandong Province. The authors are grateful to Yingmao Gao (Department of histology and embryology of Shandong University) for his expert technical assistance.</p>
+         </sec>
+      </ack>
+      <refgrp>
+         <bibl id="B1">
+            <title>
+               <p>Hirschsprung disease and other enteric dysganglionoses</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Kapur</snm>
+                  <fnm>RP</fnm>
+               </au>
+            </aug>
+            <source>Crit Rev Clin Lab Sci</source>
+            <pubdate>1999</pubdate>
+            <volume>36</volume>
+            <fpage>225</fpage>
+            <lpage>273</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1080/10408369991239204</pubid>
+                  <pubid idtype="pmpid" link="fulltext">10407683</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B2">
+            <title>
+               <p>Enteric nervous system development and Hirschsprung's disease: advances in genetic and stem cell studies</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Heanue</snm>
+                  <fnm>TA</fnm>
+               </au>
+               <au>
+                  <snm>Pachnis</snm>
+                  <fnm>V</fnm>
+               </au>
+            </aug>
+            <source>Nat Rev Neurosci</source>
+            <pubdate>2007</pubdate>
+            <volume>8</volume>
+            <fpage>466</fpage>
+            <lpage>479</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/nrn2137</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17514199</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B3">
+            <title>
+               <p>Future horizons in the treatment of enteric neuropathies</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Thapar</snm>
+                  <fnm>N</fnm>
+               </au>
+            </aug>
+            <source>J Pediatr Gastroenterol Nutr</source>
+            <pubdate>2007</pubdate>
+            <volume>45</volume>
+            <issue>Suppl 2</issue>
+            <fpage>S110</fpage>
+            <lpage>S114</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1097/MPG.0b013e31812e667c</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18185070</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B4">
+            <title>
+               <p>Enteric neural crest-derived cells and neural stem cells: biology and therapeutic potential</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Burns</snm>
+                  <fnm>AJ</fnm>
+               </au>
+               <au>
+                  <snm>Pasricha</snm>
+                  <fnm>PJ</fnm>
+               </au>
+               <au>
+                  <snm>Young</snm>
+                  <fnm>HM</fnm>
+               </au>
+            </aug>
+            <source>Neurogastroenterol Motil</source>
+            <pubdate>2004</pubdate>
+            <volume>16</volume>
+            <issue>Suppl 1</issue>
+            <fpage>3</fpage>
+            <lpage>7</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid" link="fulltext">15357847</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B5">
+            <title>
+               <p>Neural stem cell transplantation in the stomach rescues gastric function in neuronal nitric oxide synthase-deficient mice</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Micci</snm>
+                  <fnm>MA</fnm>
+               </au>
+               <au>
+                  <snm>Kahrig</snm>
+                  <fnm>KM</fnm>
+               </au>
+               <au>
+                  <snm>Simmons</snm>
+                  <fnm>RS</fnm>
+               </au>
+               <au>
+                  <snm>Sarna</snm>
+                  <fnm>SK</fnm>
+               </au>
+               <au>
+                  <snm>Espejo-Navarro</snm>
+                  <fnm>MR</fnm>
+               </au>
+               <au>
+                  <snm>Pasricha</snm>
+                  <fnm>PJ</fnm>
+               </au>
+            </aug>
+            <source>Gastroenterology</source>
+            <pubdate>2005</pubdate>
+            <volume>129</volume>
+            <fpage>1817</fpage>
+            <lpage>1824</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1053/j.gastro.2005.08.055</pubid>
+                  <pubid idtype="pmpid" link="fulltext">16344050</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B6">
+            <title>
+               <p>Characterisation and transplantation of enteric nervous system progenitor cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Almond</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Lindley</snm>
+                  <fnm>RM</fnm>
+               </au>
+               <au>
+                  <snm>Kenny</snm>
+                  <fnm>SE</fnm>
+               </au>
+               <au>
+                  <snm>Connell</snm>
+                  <fnm>MG</fnm>
+               </au>
+               <au>
+                  <snm>Edgar</snm>
+                  <fnm>DH</fnm>
+               </au>
+            </aug>
+            <source>Gut</source>
+            <pubdate>2007</pubdate>
+            <volume>56</volume>
+            <fpage>489</fpage>
+            <lpage>496</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1136/gut.2006.094565</pubid>
+                  <pubid idtype="pmcid">1856871</pubid>
+                  <pubid idtype="pmpid" link="fulltext">16973717</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B7">
+            <title>
+               <p>Isolation and cultivation of neuronal precursor cells from the developing human enteric nervous system as a tool for cell therapy in dysganglionosis</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Rauch</snm>
+                  <fnm>U</fnm>
+               </au>
+               <au>
+                  <snm>H&#228;nsgen</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Hagl</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Holland-Cunz</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Sch&#228;fer</snm>
+                  <fnm>KH</fnm>
+               </au>
+            </aug>
+            <source>Int J Colorectal Dis</source>
+            <pubdate>2006</pubdate>
+            <volume>21</volume>
+            <fpage>554</fpage>
+            <lpage>559</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1007/s00384-005-0051-z</pubid>
+                  <pubid idtype="pmpid" link="fulltext">16267668</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B8">
+            <title>
+               <p>Neuroepithelial stem cells differentiate into neuronal phenotypes and improve intestinal motility recovery after transplantation in the aganglionic colon of the rat</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Liu</snm>
+                  <fnm>W</fnm>
+               </au>
+               <au>
+                  <snm>Wu</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Dong</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Gao</snm>
+                  <fnm>Y</fnm>
+               </au>
+            </aug>
+            <source>Neurogastroent Motil</source>
+            <pubdate>2007</pubdate>
+            <volume>19</volume>
+            <fpage>1001</fpage>
+            <lpage>1009</lpage>
+         </bibl>
+         <bibl id="B9">
+            <title>
+               <p>Programmed cell death in developing grafts of fetal substantia nigra</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Mahalik</snm>
+                  <fnm>TJ</fnm>
+               </au>
+               <au>
+                  <snm>Hahn</snm>
+                  <fnm>WE</fnm>
+               </au>
+               <au>
+                  <snm>Clayton</snm>
+                  <fnm>GH</fnm>
+               </au>
+               <au>
+                  <snm>Owens</snm>
+                  <fnm>GP</fnm>
+               </au>
+            </aug>
+            <source>Exp Neurol</source>
+            <pubdate>1994</pubdate>
+            <volume>129</volume>
+            <fpage>27</fpage>
+            <lpage>36</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1006/exnr.1994.1144</pubid>
+                  <pubid idtype="pmpid" link="fulltext">7925840</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B10">
+            <title>
+               <p>Growth factors improve immediate survival of embryonic dopamine neurons after transplantation into rats</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Zawada</snm>
+                  <fnm>WM</fnm>
+               </au>
+               <au>
+                  <snm>Zastrow</snm>
+                  <fnm>DJ</fnm>
+               </au>
+               <au>
+                  <snm>Clarkson</snm>
+                  <fnm>ED</fnm>
+               </au>
+               <au>
+                  <snm>Adams</snm>
+                  <fnm>FS</fnm>
+               </au>
+               <au>
+                  <snm>Bell</snm>
+                  <fnm>KP</fnm>
+               </au>
+               <au>
+                  <snm>Freed</snm>
+                  <fnm>CR</fnm>
+               </au>
+            </aug>
+            <source>Brain Res</source>
+            <pubdate>1998</pubdate>
+            <volume>786</volume>
+            <fpage>96</fpage>
+            <lpage>103</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/S0006-8993(97)01408-X</pubid>
+                  <pubid idtype="pmpid" link="fulltext">9554968</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B11">
+            <title>
+               <p>BCL-2 family members and the mitochondria in apoptosis</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Gross</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>McDonnell</snm>
+                  <fnm>JM</fnm>
+               </au>
+               <au>
+                  <snm>Korsmeyer</snm>
+                  <fnm>SJ</fnm>
+               </au>
+            </aug>
+            <source>Genes Dev</source>
+            <pubdate>1999</pubdate>
+            <volume>13</volume>
+            <fpage>1899</fpage>
+            <lpage>1911</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1101/gad.13.15.1899</pubid>
+                  <pubid idtype="pmpid" link="fulltext">10444588</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B12">
+            <title>
+               <p>Bcl-2 family proteins</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Reed</snm>
+                  <fnm>JC</fnm>
+               </au>
+            </aug>
+            <source>Oncogene</source>
+            <pubdate>1998</pubdate>
+            <volume>17</volume>
+            <fpage>3225</fpage>
+            <lpage>3236</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid" link="fulltext">9916985</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B13">
+            <title>
+               <p>Bcl-2 promotes regeneration of severed axons in mammalian CNS</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Chen</snm>
+                  <fnm>DF</fnm>
+               </au>
+               <au>
+                  <snm>Schneider</snm>
+                  <fnm>GE</fnm>
+               </au>
+               <au>
+                  <snm>Martinou</snm>
+                  <fnm>JC</fnm>
+               </au>
+               <au>
+                  <snm>Tonegawa</snm>
+                  <fnm>S</fnm>
+               </au>
+            </aug>
+            <source>Nature</source>
+            <pubdate>1997</pubdate>
+            <volume>385</volume>
+            <fpage>434</fpage>
+            <lpage>439</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/385434a0</pubid>
+                  <pubid idtype="pmpid" link="fulltext">9009190</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B14">
+            <title>
+               <p>Enhanced axonal growth from fetal human bcl-2 transgenic mouse dopamine neurons transplanted to the adult rat striatum</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Holm</snm>
+                  <fnm>KH</fnm>
+               </au>
+               <au>
+                  <snm>Cicchetti</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Bjorklund</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Boonman</snm>
+                  <fnm>Z</fnm>
+               </au>
+               <au>
+                  <snm>Tandon</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Costantini</snm>
+                  <fnm>LC</fnm>
+               </au>
+               <au>
+                  <snm>Deacon</snm>
+                  <fnm>TW</fnm>
+               </au>
+               <au>
+                  <snm>Huang</snm>
+                  <fnm>X</fnm>
+               </au>
+               <au>
+                  <snm>Chen</snm>
+                  <fnm>DF</fnm>
+               </au>
+               <au>
+                  <snm>Isacson</snm>
+                  <fnm>O</fnm>
+               </au>
+            </aug>
+            <source>Neuroscience</source>
+            <pubdate>2001</pubdate>
+            <volume>104</volume>
+            <fpage>397</fpage>
+            <lpage>405</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/S0306-4522(01)00098-7</pubid>
+                  <pubid idtype="pmpid" link="fulltext">11377843</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B15">
+            <title>
+               <p>Pathophysiology of aganglionic colon and anorectum: an experimental study on aganglionosis produced by a new method in the rat</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Sato</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Yamamoto</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Imamura</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Kashiki</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Kuneida</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Sakata</snm>
+                  <fnm>K</fnm>
+               </au>
+            </aug>
+            <source>J Pediatr Surg</source>
+            <pubdate>1978</pubdate>
+            <volume>13</volume>
+            <fpage>399</fpage>
+            <lpage>405</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/S0022-3468(78)80464-3</pubid>
+                  <pubid idtype="pmpid">682089</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B16">
+            <title>
+               <p>Influence of donor age on the survival of solid and suspension intraparenchymal human embryonic nigral grafts</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Freeman</snm>
+                  <fnm>TB</fnm>
+               </au>
+               <au>
+                  <snm>Sanberg</snm>
+                  <fnm>PR</fnm>
+               </au>
+               <au>
+                  <snm>Nauert</snm>
+                  <fnm>GM</fnm>
+               </au>
+            </aug>
+            <source>Cell Transplant</source>
+            <pubdate>1995</pubdate>
+            <volume>4</volume>
+            <fpage>141</fpage>
+            <lpage>154</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/0963-6897(94)00048-O</pubid>
+                  <pubid idtype="pmpid">7728329</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B17">
+            <title>
+               <p>Why do neural transplants survive? An examination of some metabolic and pathophysiological consideration in neural transplantation</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Rosenstein</snm>
+                  <fnm>JM</fnm>
+               </au>
+            </aug>
+            <source>Neurology</source>
+            <pubdate>1995</pubdate>
+            <volume>133</volume>
+            <fpage>1</fpage>
+            <lpage>6</lpage>
+         </bibl>
+         <bibl id="B18">
+            <title>
+               <p>Caspase inhibition increases survival of neural stem cells in the gastrointestinal tract</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Micci</snm>
+                  <fnm>MA</fnm>
+               </au>
+               <au>
+                  <snm>Pattillo</snm>
+                  <fnm>MT</fnm>
+               </au>
+               <au>
+                  <snm>Kahrig</snm>
+                  <fnm>KM</fnm>
+               </au>
+               <au>
+                  <snm>Pasricha</snm>
+                  <fnm>PJ</fnm>
+               </au>
+            </aug>
+            <source>Neurogastroenterol Motil</source>
+            <pubdate>2005</pubdate>
+            <volume>17</volume>
+            <fpage>557</fpage>
+            <lpage>564</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1111/j.1365-2982.2005.00702.x</pubid>
+                  <pubid idtype="pmpid" link="fulltext">16078945</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B19">
+            <title>
+               <p>Cloning and structural analysis of cDNAs for bcl-2 and a hybrid bcl-2/immunoglobulin transcript resulting from the t (14; 18) translocation</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Cleary</snm>
+                  <fnm>ML</fnm>
+               </au>
+               <au>
+                  <snm>Smith</snm>
+                  <fnm>SD</fnm>
+               </au>
+               <au>
+                  <snm>Sklar</snm>
+                  <fnm>J</fnm>
+               </au>
+            </aug>
+            <source>Cell</source>
+            <pubdate>1986</pubdate>
+            <volume>47</volume>
+            <fpage>19</fpage>
+            <lpage>28</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/0092-8674(86)90362-4</pubid>
+                  <pubid idtype="pmpid" link="fulltext">2875799</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B20">
+            <title>
+               <p>The role of Bcl-2 and its pro-survival relatives in tumourigenesis and cancer therapy</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Kelly</snm>
+                  <fnm>PN</fnm>
+               </au>
+               <au>
+                  <snm>Strasser</snm>
+                  <fnm>A</fnm>
+               </au>
+            </aug>
+            <source>Cell Death Differ</source>
+            <pubdate>2011</pubdate>
+            <volume>18</volume>
+            <fpage>1414</fpage>
+            <lpage>1424</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/cdd.2011.17</pubid>
+                  <pubid idtype="pmcid">3149740,3149740</pubid>
+                  <pubid idtype="pmpid">21415859</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B21">
+            <title>
+               <p>Apoptosis in neural development and transplantation: role of caspases and trophic factors</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Boonman</snm>
+                  <fnm>Z</fnm>
+               </au>
+               <au>
+                  <snm>Isacson</snm>
+                  <fnm>O</fnm>
+               </au>
+            </aug>
+            <source>Exp Neurol</source>
+            <pubdate>1999</pubdate>
+            <volume>156</volume>
+            <fpage>1</fpage>
+            <lpage>15</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1006/exnr.1999.7056</pubid>
+                  <pubid idtype="pmpid" link="fulltext">10192773</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B22">
+            <title>
+               <p>Age-dependent susceptibility to fatal encephalitis: alphavirus infection of neurons</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Griffin</snm>
+                  <fnm>DE</fnm>
+               </au>
+               <au>
+                  <snm>Levine</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Tyor</snm>
+                  <fnm>WR</fnm>
+               </au>
+               <au>
+                  <snm>Tucker</snm>
+                  <fnm>PC</fnm>
+               </au>
+               <au>
+                  <snm>Hardwick</snm>
+                  <fnm>JM</fnm>
+               </au>
+            </aug>
+            <source>Arch Virol Suppl</source>
+            <pubdate>1994</pubdate>
+            <volume>9</volume>
+            <fpage>31</fpage>
+            <lpage>39</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid">8032263</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B23">
+            <title>
+               <p>Opposite effect of protein synthesis inhibitors on potassium deficiency-induced apoptotic cell death in immature and mature neuronal cultures</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Kharlamov</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Cagnoli</snm>
+                  <fnm>CM</fnm>
+               </au>
+               <au>
+                  <snm>Atabay</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Ikonomovic</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Grayson</snm>
+                  <fnm>DR</fnm>
+               </au>
+               <au>
+                  <snm>Manev</snm>
+                  <fnm>H</fnm>
+               </au>
+            </aug>
+            <source>J Neurochem</source>
+            <pubdate>1995</pubdate>
+            <volume>65</volume>
+            <fpage>1395</fpage>
+            <lpage>1398</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid" link="fulltext">7643118</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B24">
+            <title>
+               <p>Neurodegeneration in excitotoxicity, global cerebral ischemia, and target deprivation: a perspective on the contributions of apoptosis and necrosis</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Martin</snm>
+                  <fnm>LJ</fnm>
+               </au>
+               <au>
+                  <snm>Al-Abdulla</snm>
+                  <fnm>NA</fnm>
+               </au>
+               <au>
+                  <snm>Brambrink</snm>
+                  <fnm>AM</fnm>
+               </au>
+               <au>
+                  <snm>Kirsch</snm>
+                  <fnm>JR</fnm>
+               </au>
+               <au>
+                  <snm>Sieber</snm>
+                  <fnm>FE</fnm>
+               </au>
+               <au>
+                  <snm>Portera-Cailliau</snm>
+                  <fnm>C</fnm>
+               </au>
+            </aug>
+            <source>Brain Res Bull</source>
+            <pubdate>1998</pubdate>
+            <volume>46</volume>
+            <fpage>281</fpage>
+            <lpage>309</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/S0361-9230(98)00024-0</pubid>
+                  <pubid idtype="pmpid" link="fulltext">9671259</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B25">
+            <title>
+               <p>Susceptibility to apoptosis is enhanced in immature cortical neurons</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>McDonald</snm>
+                  <fnm>JW</fnm>
+               </au>
+               <au>
+                  <snm>Behrens</snm>
+                  <fnm>MI</fnm>
+               </au>
+               <au>
+                  <snm>Chung</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Bhattacharyya</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Choi</snm>
+                  <fnm>DW</fnm>
+               </au>
+            </aug>
+            <source>Brain Res</source>
+            <pubdate>1997</pubdate>
+            <volume>759</volume>
+            <fpage>228</fpage>
+            <lpage>232</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/S0006-8993(97)00248-5</pubid>
+                  <pubid idtype="pmpid" link="fulltext">9221941</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B26">
+            <title>
+               <p>Angiogenesis after stroke is correlated with increased numbers of macrophages: the clean-up hypothesis</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Manoonkitiwongsa</snm>
+                  <fnm>PS</fnm>
+               </au>
+               <au>
+                  <snm>Jackson-Friedman</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>McMillan</snm>
+                  <fnm>PJ</fnm>
+               </au>
+               <au>
+                  <snm>Schultz</snm>
+                  <fnm>RL</fnm>
+               </au>
+               <au>
+                  <snm>Lyden</snm>
+                  <fnm>PD</fnm>
+               </au>
+            </aug>
+            <source>J Cereb Blood Flow Metab</source>
+            <pubdate>2001</pubdate>
+            <volume>21</volume>
+            <fpage>1223</fpage>
+            <lpage>1231</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid" link="fulltext">11598500</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B27">
+            <title>
+               <p>Effects of implantation site of dead stem cells in rats with stroke damage</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Modo</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Stroemer</snm>
+                  <fnm>RP</fnm>
+               </au>
+               <au>
+                  <snm>Tang</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Patel</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Hodges</snm>
+                  <fnm>H</fnm>
+               </au>
+            </aug>
+            <source>NeuroReport</source>
+            <pubdate>2003</pubdate>
+            <volume>14</volume>
+            <fpage>39</fpage>
+            <lpage>42</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1097/00001756-200301200-00007</pubid>
+                  <pubid idtype="pmpid" link="fulltext">12544827</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B28">
+            <title>
+               <p>Differentiation and neural integration of hippocampal neuronal progenitors: signaling pathways sequentially involved</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Akchiche</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Bossenmeyer-Pouri&#233;</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Pouri&#233;</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Koziel</snm>
+                  <fnm>V</fnm>
+               </au>
+               <au>
+                  <snm>N&#233;d&#233;lec</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Gu&#233;ant</snm>
+                  <fnm>JL</fnm>
+               </au>
+               <au>
+                  <snm>Daval</snm>
+                  <fnm>JL</fnm>
+               </au>
+            </aug>
+            <source>Hippocampus</source>
+            <pubdate>2010</pubdate>
+            <volume>20</volume>
+            <fpage>949</fpage>
+            <lpage>961</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid" link="fulltext">19714568</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B29">
+            <title>
+               <p>Differentiation-associated apoptosis of neural stem cells is effected by Bcl-2 overexpression: impact on cell lineage determination</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Esdar</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Milasta</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Maelicke</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Herget</snm>
+                  <fnm>T</fnm>
+               </au>
+            </aug>
+            <source>Eur J Cell Biol</source>
+            <pubdate>2001</pubdate>
+            <volume>80</volume>
+            <fpage>539</fpage>
+            <lpage>553</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1078/0171-9335-00185</pubid>
+                  <pubid idtype="pmpid" link="fulltext">11561905</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B30">
+            <title>
+               <p>Overexpression of Bcl-XL in human neural stem cells promotes graft survival and functional recovery following transplantation in spinal cord injury</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Lee</snm>
+                  <fnm>SI</fnm>
+               </au>
+               <au>
+                  <snm>Kim</snm>
+                  <fnm>BG</fnm>
+               </au>
+               <au>
+                  <snm>Hwang</snm>
+                  <fnm>DH</fnm>
+               </au>
+               <au>
+                  <snm>Kim</snm>
+                  <fnm>HM</fnm>
+               </au>
+               <au>
+                  <snm>Kim</snm>
+                  <fnm>SU</fnm>
+               </au>
+            </aug>
+            <source>J Neurosci Res</source>
+            <pubdate>2009</pubdate>
+            <volume>87</volume>
+            <fpage>3186</fpage>
+            <lpage>3197</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1002/jnr.22149</pubid>
+                  <pubid idtype="pmpid" link="fulltext">19530162</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B31">
+            <title>
+               <p>Bcl-XL modulates the differentiation of immortalized human neural stem cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Liste</snm>
+                  <fnm>I</fnm>
+               </au>
+               <au>
+                  <snm>Garc&#237;a-Garc&#237;a</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Bueno</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Mart&#237;nez-Serrano</snm>
+                  <fnm>A</fnm>
+               </au>
+            </aug>
+            <source>Cell Death Differ</source>
+            <pubdate>2007</pubdate>
+            <volume>14</volume>
+            <fpage>1880</fpage>
+            <lpage>1892</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/sj.cdd.4402205</pubid>
+                  <pubid idtype="pmpid">17673921</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+      </refgrp>
+   </bm>
+</art>

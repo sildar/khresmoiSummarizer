@@ -1,0 +1,2367 @@
+<!DOCTYPE art SYSTEM "article.dtd">
+<art>
+   <ui>scrt159</ui>
+   <ji>1757-6512</ji>
+   <fm>
+      <dochead>Research</dochead>
+      <bibl>
+         <title>
+            <p>Effects of intravenous administration of allogenic bone marrow- and adipose tissue-derived mesenchymal stem cells on functional recovery and brain repair markers in experimental ischemic stroke</p>
+         </title>
+         <aug>
+            <au id="A1" ce="yes">
+               <snm>Guti&#233;rrez-Fern&#225;ndez</snm>
+               <fnm>Mar&#237;a</fnm>
+               <insr iid="I1"/>
+               <email>mariagutierrezfdez@hotmail.com</email>
+            </au>
+            <au id="A2" ce="yes">
+               <snm>Rodr&#237;guez-Frutos</snm>
+               <fnm>Berta</fnm>
+               <insr iid="I1"/>
+               <email>berta.rfrutos@hotmail.com</email>
+            </au>
+            <au id="A3">
+               <snm>Ramos-Cejudo</snm>
+               <fnm>Jaime</fnm>
+               <insr iid="I1"/>
+               <email>jaime.ramosc@gmail.com</email>
+            </au>
+            <au id="A4">
+               <snm>Teresa Vallejo-Cremades</snm>
+               <fnm>M</fnm>
+               <insr iid="I1"/>
+               <email>tvallejo.hulp@salud.madrid.org</email>
+            </au>
+            <au id="A5">
+               <snm>Fuentes</snm>
+               <fnm>Blanca</fnm>
+               <insr iid="I1"/>
+               <email>blfuentesg@hotmail.com</email>
+            </au>
+            <au id="A6">
+               <snm>Cerd&#225;n</snm>
+               <fnm>Sebasti&#225;n</fnm>
+               <insr iid="I2"/>
+               <email>scerdan@iib.uam.es</email>
+            </au>
+            <au id="A7" ca="yes">
+               <snm>D&#237;ez-Tejedor</snm>
+               <fnm>Exuperio</fnm>
+               <insr iid="I1"/>
+               <email>edieztejedor@hotmail.com</email>
+            </au>
+         </aug>
+         <insg>
+            <ins id="I1">
+               <p>Department of Neurology and Stroke Centre, Neuroscience and Cerebrovascular Research Laboratory, La Paz University Hospital, Neuroscience Area of IdiPAZ (Health Research Institute), Aut&#243;noma University of Madrid, Madrid, 28046, Spain</p>
+            </ins>
+            <ins id="I2">
+               <p>Laboratory for Imaging and Spectroscopy by Magnetic Resonance LISMAR, Institute of Biomedical Research Alberto Sols, CSIC-UAM, Madrid, 28029, Spain</p>
+            </ins>
+         </insg>
+         <source>Stem Cell Research &amp; Therapy</source>
+         <issn>1757-6512</issn>
+         <pubdate>2013</pubdate>
+         <volume>4</volume>
+         <issue>1</issue>
+         <fpage>11</fpage>
+         <url>http://stemcellres.com/content/4/1/11</url>
+         <note>See related commentary by Ikegame, <url>http://stemcellres.com/content/4/1/9</url></note>
+         <xrefbib>
+            <pubidlist>
+               <pubid idtype="doi">10.1186/scrt159</pubid>
+               <pubid idtype="pmpid">23356495</pubid>
+            </pubidlist>
+         </xrefbib>
+      </bibl>
+      <history>
+         <rec>
+            <date>
+               <day>26</day>
+               <month>9</month>
+               <year>2012</year>
+            </date>
+         </rec>
+         <revrec>
+            <date>
+               <day>21</day>
+               <month>11</month>
+               <year>2012</year>
+            </date>
+         </revrec>
+         <acc>
+            <date>
+               <day>12</day>
+               <month>12</month>
+               <year>2012</year>
+            </date>
+         </acc>
+         <pub>
+            <date>
+               <day>28</day>
+               <month>1</month>
+               <year>2013</year>
+            </date>
+         </pub>
+      </history>
+      <cpyrt>
+         <year>2013</year>
+         <collab>Guti&#233;rrez-Fern&#225;ndez et al.; licensee BioMed Central Ltd.</collab>
+         <note>This is an open access article distributed under the terms of the Creative Commons Attribution License (<url>http://creativecommons.org/licenses/by/2.0</url>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</note>
+      </cpyrt>
+      <abs>
+         <sec>
+            <st>
+               <p>Abstract</p>
+            </st>
+            <sec>
+               <st>
+                  <p>Introduction</p>
+               </st>
+               <p>Stem cell therapy can promote good recovery from stroke. Several studies have demonstrated that mesenchymal stem cells (MSC) are safe and effective. However, more information regarding appropriate cell type is needed from animal model. This study was targeted at analyzing the effects in ischemic stroke of acute intravenous (i.v.) administration of allogenic bone marrow- (BM-MSC) and adipose-derived-stem cells (AD-MSC) on functional evaluation results and brain repair markers.</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>Methods</p>
+               </st>
+               <p>Allogenic MSC (2 &#215; 10<sup>6 </sup>cells) were administered intravenously 30 minutes after permanent middle cerebral artery occlusion (pMCAO) to rats. Infarct volume and cell migration and implantation were analyzed by magnetic resonance imaging (MRI) and immunohistochemistry. Function was evaluated by the Rogers and rotarod tests, and cell proliferation and cell-death were also determined. Brain repair markers were analyzed by confocal microscopy and confirmed by western blot.</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>Results</p>
+               </st>
+               <p>Compared to infarct group, function had significantly improved at 24 h and continued at 14 d after i.v. administration of either BM-MSC or AD-MSC. No reduction in infarct volume or any migration/implantation of cells into the damaged brain were observed. Nevertheless, cell death was reduced and cellular proliferation significantly increased in both treatment groups with respect to the infarct group. At 14 d after MSC administration vascular endothelial growth factor (VEGF), synaptophysin (SYP), oligodendrocyte (Olig-2) and neurofilament (NF) levels were significantly increased while those of glial fiibrillary acid protein (GFAP) were decreased.</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>Conclusions</p>
+               </st>
+               <p>i.v. administration of allogenic MSC - whether BM-MSC or AD-MSC, in pMCAO infarct was associated with good functional recovery, and reductions in cell death as well as increases in cellular proliferation, neurogenesis, oligodendrogenesis, synaptogenesis and angiogenesis markers at 14 days post-infarct.</p>
+            </sec>
+         </sec>
+      </abs>
+   </fm>
+   <bdy>
+      <sec>
+         <st>
+            <p>Introduction</p>
+         </st>
+         <p>Stem cell therapy offers promising results for stroke patients but its efficacy has not yet been confirmed in the first clinical trials <abbrgrp><abbr bid="B1">1</abbr></abbrgrp>. Important recommendations concerning the time of administration, the best routes of administration and cell sources as well as the use of different experimental animal models prior to starting clinical trials have been made in recent years to better identify the best options for stem cell therapy in stroke patients <abbrgrp><abbr bid="B2">2</abbr><abbr bid="B3">3</abbr><abbr bid="B4">4</abbr></abbrgrp>.</p>
+         <p>Although the optimum administration time is unclear <abbrgrp><abbr bid="B5">5</abbr></abbrgrp> and previous reports have focused on post acute-phase intervention <abbrgrp><abbr bid="B6">6</abbr></abbrgrp>, promising experimental animal data suggest that early stem cell administration can interrupt the initiation of the very beginning of the ischemic cascade <abbrgrp><abbr bid="B7">7</abbr><abbr bid="B8">8</abbr></abbrgrp>. In regard to the type of administration, experimental animal studies have shown autologous administration to be safe and effective <abbrgrp><abbr bid="B9">9</abbr></abbrgrp>. The main limitation is that stem cell preparation takes time, so autologous cells can only be administered several weeks after an unexpected stroke. Nevertheless it is important to act in the acute phase, so allogenic administration may be a good alternative. In many experimental animal studies, the acute use of cells from the same species has been shown to be safe and has not produced rejection <abbrgrp><abbr bid="B10">10</abbr></abbrgrp>.</p>
+         <p>It was originally thought that stem cells needed to be placed within the damaged sites of the brain after ischemia in order to promote recovery. From this perspective putative administration routes have been focused on intra-arterial <abbrgrp><abbr bid="B11">11</abbr></abbrgrp>, intrastriatal <abbrgrp><abbr bid="B12">12</abbr></abbrgrp>, intracerebral <abbrgrp><abbr bid="B13">13</abbr></abbrgrp> or intraventricular alternatives <abbrgrp><abbr bid="B14">14</abbr></abbrgrp>. However, the possibility that the cells need not be in the brain itself for recovery to be achieved would allow the use of less invasive methods, such as intravenous (i.v.) administration <abbrgrp><abbr bid="B8">8</abbr></abbrgrp>.</p>
+         <p>In any case, one of the main questions is to identify the best source for stem cells that can be used after stroke, and this needs to be addressed by comparative studies under different conditions. The different stem cell types to be tested include embryonic, hematopoietic, neural and mesenchymal stem cells (MSC) <abbrgrp><abbr bid="B7">7</abbr><abbr bid="B15">15</abbr><abbr bid="B16">16</abbr><abbr bid="B17">17</abbr></abbrgrp>. The most promising of these are MSC since they can be derived from bone marrow (BM-MSC), or adipose tissue (AD-MSC). Both tissues are very abundant, easy to obtain and do not pose logistic or ethical problems <abbrgrp><abbr bid="B6">6</abbr><abbr bid="B9">9</abbr><abbr bid="B12">12</abbr></abbrgrp>. In a recent comparative study of transitory ischemia in mice, i.v. administration of either BM-MSC or AD-MSC promoted recovery <abbrgrp><abbr bid="B18">18</abbr></abbrgrp>. That study observed higher levels of angiopoietin-1 and hepatocyte growth factor (HGF) in the AD-MSC group compared with those receiving BM-MSC at 24 h after i.v. cell administration but it only employed MSC at 24 h and 48 h after transitory ischemia. We have previously shown that administration of allogenic BM-MSC promotes functional recovery and also augments expression levels of vascular endothelial growth factor (VEGF) in the brain after permanent middle cerebral artery occlusion (pMCAO) in adult rats <abbrgrp><abbr bid="B8">8</abbr></abbrgrp>. However, the effects of allogenic BM-MSC and AD-MSC administration on functional recovery and the levels of brain repair markers associated with neurogenesis, oligodendrogenesis, synaptogenesis and angiogenesis at 14 d have not yet been examined in the pMCAO model.</p>
+         <p>We hypothesize that acute i.v. administration of allogenic AD-MSC would be as effective as that of allogenic BM-MSC after pMCAO in adult rats.</p>
+         <p>The present study compared the therapeutic potential of MSC from both cell sources for improving functional recovery, decreasing tissue damage and increasing brain repair associated markers at 14 d after pMCAO in rats.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Materials and methods</p>
+         </st>
+         <sec>
+            <st>
+               <p>Animal ethics</p>
+            </st>
+            <p>The procedure was carried out at our Cerebrovascular and Neuroscience Research Laboratory, La Paz University Hospital, Madrid, Spain. All experiments were performed in compliance with our medical school's Ethical Committee for the Care and Use of Animals in Research. The experiments were designed to use the smallest number of animals and to minimize their suffering in accordance with the ethical standards of the Helsinki Declaration of 1975. The investigators responsible for functional evaluation and the molecular and histological studies were blinded to the treatment groups.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Study design</p>
+            </st>
+            <sec>
+               <st>
+                  <p>Isolation of mesenchymal stem cells</p>
+               </st>
+               <p>Cultures were made of BM-MSC obtained from the tibia and femur of adult female Sprague-Dawley (250-300 g) rats that had been sacrificed by cardiac injection of potassium chloride (0.5 ml) as described previously <abbrgrp><abbr bid="B8">8</abbr></abbrgrp>. First, both bones were placed in alcohol for 10 minutes and then in Hank's (1X) balanced salt solution (HBSS, Gibco, Paisley, UK) for 30 minutes. The bones were cut and bone marrow removed, 10 ml of this tissue was placed in 50 ml of DMEM 1X solution (DMEM Glu/Pyr, Gibco) with 75 &#956;l penicillin/streptomycin (Sigma-Aldrich, St Louis, MO, USA) and 20% FBS (PAA Laboratories, GmbH, Pasching, Austria). Next, cells were washed and centrifuged twice at 390 g for 8 minutes at room temperature. The cells were placed in 75-cm<sup>2 </sup>flasks (Nunc, Roskilde, Denmark)) and incubated at 37&#176;C in 5% CO2 for 3 to 4 weeks. The culture medium was replaced approximately every 3 days. When cells reached 80 to 90% confluence, they were trypsinized using Trypsin-EDTA 0. 05% (Gibco) and expanded in another 75-cm<sup>2 </sup>flask. On the third pass they were trypsinized and counted before being administered to the experimental animals.</p>
+               <p>Lipoaspirates from adult female Sprague-Dawley (250 to 300 g) were washed with sterile PBS and digested with an equal volume of 0.075% type I collagenase (Sigma-Aldrich,). The filtered cells were centrifuged at 390 g for 10 minutes and contaminating erythrocytes were removed to isolate the stromal vascular fraction (SVF). On the third pass they were trypsinized and counted before being administered to the experimental animals.</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>Characterization of MSC</p>
+               </st>
+               <p>At the time the cells were obtained, the cultures were characterized to confirm the presence or absence of MSC surface markers using the flow cytometric technique and analyzed with fluorescence-activated cell sorting (FACS). The cells were incubated for 20 minutes at 4&#176;C in the dark with the following antibodies: CD90-fluorescein isothiocyanate (FITC) (AbD Serotec, Oxford, UK), CD29-Phycoerythrin (PE) (AbD Serotec), CD45-PE (AbD Serotec) and CD11b-PE (AbD Serotec). Matched isotype controls were purchased from Biolegend (Biolegend, San Diego, CA, USA). At least 1 &#215; 10<sup>4 </sup>cells per sample were acquired and analyzed.</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>Subjects</p>
+               </st>
+               <p>Subjects were adult male Sprague-Dawley rats, with an average body weight range of 250 to 320 g (Harlan Iberica SL, Barcelona, Spain). Animals were housed with free access to food and water at a room temperature of 21 &#177; SD 2&#176;C, relative humidity of 45 &#177; 15% and a light/dark cycle of 12 h (7:00 to 19:00).</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>Experimental groups</p>
+               </st>
+               <p>The animals were randomly assigned to one of four experimental groups with 10 animals in each study group: group 1, the sham-operated group, underwent surgery without infarct and received a saline solution via the femoral vein; group 2, the iInfarct group, underwent surgery with permanent middle cerebral artery occlusion (pMCAO) and received the saline infusion via the femoral vein; group 3, the BM-MSC group, underwent pMCAO surgery and received a BM-MSC infusion via the femoral vein; and group 4, the AD-MSC group, underwent pMCAO surgery and received an AD-MSC infusion via the femoral vein.</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>Surgical procedure</p>
+               </st>
+               <p>Anesthesia was induced by intraperitoneal injection of a solution of ketamine (25 mg/kg), diazepam (2 mg/kg), and atropine (0.1 mg/kg) at a dose of 2.5 ml/kg. Analgesia was provided by meloxicam 2 mg/kg by a subcutaneous route. A small craniectomy was made above the rhinal fissure over the branch of the right middle cerebral artery (MCA). The MCA branch was permanently ligated just before its bifurcation into the frontal and parietal branches with a 9-0 suture. Both common carotid arteries were then occluded for 60 minutes as previously described <abbrgrp><abbr bid="B8">8</abbr></abbrgrp>.</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>Physiological monitoring</p>
+               </st>
+               <p>In all animals, the femoral artery was cannulated during surgery and ischemia, to allow continuous monitoring of physiological parameters (glycemia, blood gases and blood pressure) (Monitor Omicron ALTEA RGB medical devices, Madrid, Spain). Cranial and body temperature were also monitored and maintained at 36.5 &#177; 0.5&#176;C.</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>Cell administration</p>
+               </st>
+               <p>Intravenous injections of 2 &#215; 10<sup>6 </sup>MSC in 650 &#956;l saline were administered over 4 minutes through the femoral vein. Infarct animals underwent cerebral ischemia as in the treated animals but received only a saline infusion through the femoral vein. Sham-operated animals received the saline infusion through the femoral vein but did not undergo cerebral ischemia. The sham-operated and infarct groups both received a single 650 &#956;l saline infusion without MSCs over 4 minutes. Either the saline or MSC solution was administered in the acute phase 30 minutes after common carotid artery reperfusion. The route, dose and timing of administration have been used in a previous study <abbrgrp><abbr bid="B8">8</abbr></abbrgrp>.</p>
+            </sec>
+         </sec>
+         <sec>
+            <st>
+               <p><it>In vivo </it>analyses</p>
+            </st>
+            <sec>
+               <st>
+                  <p>Functional evaluation scales</p>
+               </st>
+               <p>In all animals functional evaluation scales were performed at baseline and at 24 h and 14 d after surgery. All rats were evaluated using a variant of the Rogers scale <abbrgrp><abbr bid="B8">8</abbr><abbr bid="B19">19</abbr><abbr bid="B20">20</abbr><abbr bid="B21">21</abbr></abbrgrp> and the rotarod test. The Rogers scale scores functional status as follows: no deficit (0); failure to extend left forepaw (1); decreased grip of the left forelimb when the tail is pulled (2); spontaneous movement in all directions, contralateral circling if pulled (3); circling or walking to the left (4); movement only when stimulated (5); unresponsive to stimulation (6); and dead (7). The rotarod test was used to evaluate the motor performance of the rats. Beginning three days before pMCAO, rats were trained on an accelerating (4 to 40 rpm) rotarod. All animals received a 3-day training program consisting of three sessions per day, and the time each animal remained on the rotarod was measured. Before surgery on the experimental day, the time spent moving on the rotarod without falling was measured twice per animal with a 15-minutes interval between each trial. The mean of the two trials was calculated for each rat <abbrgrp><abbr bid="B22">22</abbr></abbrgrp>.</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>Migration and implantation of stem cells by magnetic resonance imaging (MRI)</p>
+               </st>
+               <p>MSC were magnetically labeled using Endorem&#8482; (superparamagnetic iron oxide). (Guerbet, Roissy CdG Cedex, France). Both migration and implantation of the stem cells were analyzed at 24 hours and 14 d by MRI with T2 maps (flash sequence). Endorem&#8482;(Guerbet)-labeled MSC were transplanted into five animals in each group.</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>Measurement of volume of ischemic lesion by MRI</p>
+               </st>
+               <p>Lesion volume was analyzed at 24 h and 14 days after surgery by MRI (Bruker Pharmascan, Ettlingen, Germany), (7 Tesla horizontal bore magnets) using T2 maps (RARE 8 T2, 180&#176; flip angle, three averages). Ten contiguous coronal slices (thickness, 1 mm) were acquired with a field of view of 35 &#215; 35 mm and a matrix size of 256 &#215; 256 (repetition time (TR) 3000 ms, echo time (TE) 29.5 ms, imaging time 25.5 minutes, three averages). All images were processed using the J 1.42 Image program (NIH software, Bethesda, MD, USA). After contrast adjustment, the contours of the hemispheres were traced manually on each slice. The infarct volumes were estimated by integrating the partial measurements derived from the cross-sectional areas and the distance between sections. To correct for the brain edema effect, lesion volume was determined by an indirect method:</p>
+               <p>Infarct area = (Area of the intact contralateral hemisphere) - (Area of the intact ipsilateral hemisphere) <abbrgrp><abbr bid="B23">23</abbr></abbrgrp>.</p>
+               <p>Then lesion volume was expressed as a percentage of the intact contralateral hemispheric volume.</p>
+            </sec>
+         </sec>
+         <sec>
+            <st>
+               <p>Post-mortem analyses</p>
+            </st>
+            <sec>
+               <st>
+                  <p>Migration and implantation of stem cells by DiI</p>
+               </st>
+               <p>MSC were labeled with DiI (Celltracker CM-DiI, Molecular Probes &#8482;, Eugene, Oregon, USA) prior to administration and then, migration and implantation were analyzed at 14 d post-administration using immunofluorescence. The DiI (Molecular Probes &#8482;)-labeled MSC were administered into five animals in each treatment group.</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>Measurement of volume of ischemic lesion by H&amp;E</p>
+               </st>
+               <p>Lesion size was estimated with H&amp;E staining of brain sections at 14 d. Infarction volume was expressed as the percentage of brain tissue affected by ischemia in the right hemisphere as evaluated on 10-&#956;m-thick sections. Brains were sectioned at the optic chiasma and at the infundibular stalk. The resultant brain block from between these two cuts was placed in 4% paraformaldehyde for 24 h and 30% sacarose PBS buffer for 3 days. Optimal cutting temperature (OCT)-embedded samples were coronally sectioned in 10-&#956;m-thick slices. Every twentieth slice, that is, a total of four of these slices (numbers 1, 21, 41 and 61), separated from each other by 100 &#956;m, were stained with H&amp;E, which reveals an ischemic area as a well-defined pale region. A digitized image was made of these slices (Epson Perfection 1260 scanner, Suwa, Nagano, Japan) and used to automatically measure the ischemic area (Image Pro plus 4.0, Media Cybernetics, Rockville, MD, USA) <abbrgrp><abbr bid="B8">8</abbr><abbr bid="B20">20</abbr><abbr bid="B24">24</abbr></abbrgrp>. Lesion volume was determined using the method described in MRI measurement of volume of ischemic lesion.</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>Cell death</p>
+               </st>
+               <p>Apoptotic cell death was detected by biotin-dUTP nick end-labeling mediated by terminal deoxynucleotidyl transferase (TUNEL) staining, using TdT-FragEL DNA Fragmentation Detection Kit, Oncogene Research Products, San Diego, CA, USA) following the methodology indicated by the manufacturer. We chose a single rostral-caudal coronal section per animal and counted the number of apoptotic cells in the peri-infarct zone using a 40&#215; objective on the optic microscope (Olympus, BX41, Olympus Corporation, Tokyo, Japan) and image analysis software (Image-Pro Plus 4.1, Media Cybernetics, Rockville, MD, USA). Cells undergoing apoptosis were identified based on their nuclear morphology and dark color <abbrgrp><abbr bid="B8">8</abbr><abbr bid="B20">20</abbr></abbrgrp>.</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>Immunohistochemistry</p>
+               </st>
+               <p>All animals were given 50 mg/kg of daily intraperitoneal BrdU (Sigma-Aldrich) on days 4 to 7 after ischemia. This administration protocol was based on previous reports that proliferation peaked 4 to 10 days after injury <abbrgrp><abbr bid="B25">25</abbr><abbr bid="B26">26</abbr></abbrgrp>. Animals were sacrificed 14 d after surgery by transcardial perfusion and decapitation. Their brains were fixed and stored at 4&#176;C and the following day the tissue was placed in cryoprotectant solution at -80&#176;C. Serial coronal sections were cut at 10 &#956;m on a cryostat (LEICA CM1950, Leica Microsystems, Heilderbeg, Germany) and later studied by immunohistochemistry for cellular proliferation. Brain sections were treated with BrdU In-Situ Detection kit (BD Biosciences, Franklin Lakes, NJ, USA).</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>Immunofluorescence</p>
+               </st>
+               <p>The sections were studied using different immunofluorescent antibodies as follows: the neuronal markers, neuronal nuclei (NeuN) (monoclonal antibody diluted 1:100, Millipore, Billerica, MA, USA) and neurofilament (NF) (monoclonal antibody diluted 1:100, DAKO, Denmark A/S, Glostrup, Denmark); the astrocyte marker, glial fiibrillary acid protein (GFAP) (monoclonal antibody diluted 1:400, Chemicon, Temecula, CA, USA); the vascular endothelial growth factor (VEGF) marker (polyclonal antibody diluted 1:500, Millipore); the oligodendrocyte (Olig-2) marker (polyclonal antibody diluted 1:500, Millipore); the synaptogenesis marker, synaptophysin (monoclonal antibody diluted 1:200, Sigma-Aldrich); and the brain-derived neurotrophic factor (BDNF) (polyclonal antibody diluted 1:1000, Millipore), followed by goat anti-mouse Alexa Fluor 488 and anti-rabbit Alexa Fluor 594 (1: 750, Molecular Probes, Invitrogen, Barcelona, Spain). Also, we used BrdU (monoclonal antibody diluted 1:50, DAKO) followed by goat anti-mouse Alexa Fluor 594 as a proliferation marker. All sections were mounted with H-1200 VectaShield mounting medium for fluorescence with diamidino-2-phenylindole (DAPI, Vector, Atom, Alicante, Spain). Samples were examined using a LEICA TCS SPE spectral confocal microscope (Leica Microsystems, Heidelberg, Germany) and the confocal images were analyzed using LEICA software LAS AF, version 2.0.1 Build 2043. The images were acquired as a confocal maximum projection.</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>Western blot</p>
+               </st>
+               <p>Proteins were isolated from peri-infarct tissue and their concentrations determined using a BCA protein assay kit (Pierce, Rockford, IL, USA). Twenty micrograms of protein were loaded onto 10% acrylamide SDS-gels. Following electrophoresis at 100 V for 1 h, protein was transferred to polyvinylidene fluoride (PVDF) membranes (Bio-Rad Laboratories, Hercules, CA, USA). Membranes were blocked in 5% fat-free dry milk dissolved in Tris-buffered saline pH 8.0 (TBS) plus 0.1% Tween-20 (TBS-T) for 1 h and probed overnight at 4&#176;C with the following antibodies at the designated dilutions: NF (monoclonal antibody diluted 1:100, DAKO); GFAP (monoclonal antibody diluted 1:400, Chemicon); VEGF (polyclonal antibody diluted 1:500, Millipore); Olig-2 (polyclonal antibody diluted 1:500, Millipore); synaptophysin (monoclonal antibody diluted 1:200, Sigma-Aldrich); BDNF (polyclonal antibody diluted 1:1000, Millipore) and &#946;-actin (monoclonal antibody diluted 1:400, Sigma-Aldrich), which was used as a control protein. After rinsing with 0.5% TBS-T solution, the membranes were incubated with the secondary antibody, a donkey anti-rabbit and anti-mouse antibody conjugated with horseradish peroxidase (HRP, Chemicon) for 1 h at room temperature. Signals were detected by enhanced chemiluminescence (ECL, GE, Healthcare Europe GmbH, Freiburg, Germany) before exposure on radiographic film. The density of stained bands was scanned and quantified by the Scion Image and 1-D Manager Version 2.1 (Scion Corporation, Frederick, Maryland, USA). To reduce differences between animals, at least three western blots were performed for each time point and animal. In addition, at least two or three repeated samples were always included in every set of experimental samples as internal standards.</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>Statistical analysis</p>
+               </st>
+               <p>Quantitative data are shown as mean values &#177; SD. The Kruskal-Wallis test followed by the Mann-Whitney test were used to compare the functional evaluation score, lesion size, cell death and number of BrdU-positive cells, while VEGF, BDNF, SYP, Olig-2, NF and GFAP levels were compared between animals receiving MSC from either cell source among the various groups. Values of <it>P </it>&lt; 0.05 were considered significant at a 95% CI; we used statistical software SPSS 16 for Windows for analysis.</p>
+            </sec>
+         </sec>
+      </sec>
+      <sec>
+         <st>
+            <p>Results</p>
+         </st>
+         <p>Physiological parameters remained within normal limits throughout the procedure and showed no significant differences between groups.</p>
+         <sec>
+            <st>
+               <p>Characterization of MSCs</p>
+            </st>
+            <p>We confirmed that CD90-FITC (AbD Serotec) and CD29-PE (AbD Serotec) surface markers were positive in MSC, whereas the CD45-PE (AbD Serotec) and CD11b-PE (AbD Serotec) surface markers were negative (Figure <figr fid="F1">1</figr>). The MSC showed a typical fibroblast-like cell morphology.</p>
+            <fig id="F1">
+               <title>
+                  <p>Figure 1</p>
+               </title>
+               <caption>
+                  <p>Flow cytometry characterization of bone marrow-derived mesenchymal (BM-MSC) and adipose tissue-derived mesenchymal (AD-MSC) cells before administration</p>
+               </caption>
+               <text>
+                  <p><b>Flow cytometry characterization of bone marrow-derived mesenchymal (BM-MSC) and adipose tissue-derived mesenchymal (AD-MSC) cells before administration</b>. Both BM-MSC (up) and AD-MSC (down) were analyzed before administration. MSC expressed markers CD29 and CD90 (left) and were negative for CD45 and CD11b. Both BM-MSC and AD-MSC showed similar results.</p>
+               </text>
+               <graphic file="scrt159-1"/>
+            </fig>
+         </sec>
+         <sec>
+            <st>
+               <p>Allogenic i.v. administration of BM-MSC and AD-MSC improves functional recovery after pMCAO</p>
+            </st>
+            <p>Animals were clinically evaluated at 24 h and 14 d and the corresponding functional score obtained for each group (Figure <figr fid="F2">2</figr>). The sham-operated group did not show functional deficit. On both the Rogers and the rotarod test, the treated groups showed good functional recovery regardless of cell source, bone marrow or adipose tissue, without significant differences in functional scores between treated groups at either time point. In the Rogers test, the BM-MSC (1.57 &#177; 0.53; 0.43 &#177; 0.78) and AD-MSC (1.51 &#177; 0.62; 0 &#177; 0) groups had significantly improved functional recovery compared with the untreated infarct group (3.4 &#177; 0.89; 2.6 &#177; 0.89) at 24 h and at 14 d, respectively (<it>P </it>&lt; 0.05). In the rotarod test the BM-MSC (37 seconds &#177; 6.36 seconds; 68.15 seconds &#177; 6.86 seconds) and the AD-MSC (36.2 seconds &#177; 6.63 seconds; 60.9 seconds &#177; 10.04 seconds) groups had significantly improved functional recovery compared with the infarct group (6.25 seconds &#177; 0.35 seconds; 30.45 seconds &#177; 5.87 seconds) at 24 h and at 14 d, respectively (<it>P </it>&lt; 0.05).</p>
+            <fig id="F2">
+               <title>
+                  <p>Figure 2</p>
+               </title>
+               <caption>
+                  <p>Acute intravenous (i.v.) administration of allogenic bone marrow-derived mesenchymal (BM-MSC) and adipose tissue-derived mesenchymal (AD-MSC) cells improved functional recovery at 24 h and 14 d after permanent middle cerebral artery occlusion (pMCAO)</p>
+               </caption>
+               <text>
+                  <p><b>Acute intravenous (i.v.) administration of allogenic bone marrow-derived mesenchymal (BM-MSC) and adipose tissue-derived mesenchymal (AD-MSC) cells improved functional recovery at 24 h and 14 d after permanent middle cerebral artery occlusion (pMCAO)</b>. The scores in the Rogers (left) and rotarod tests (right) are shown. Both treatments significantly improved functional recovery with no differences in recovery between the two groups (BM-MSC or AD-MSC). Data are expressed as mean &#177; SD (<it>n </it>= 10); *<it>P </it>&lt; 0.05.</p>
+               </text>
+               <graphic file="scrt159-2"/>
+            </fig>
+         </sec>
+         <sec>
+            <st>
+               <p>Migration and implantation of MSC was not observed via i.v. administration</p>
+            </st>
+            <p>Migration and implantation of MSC were studied by MRI and DiI. Labeled MSC were not observed in the infarct group because they were not administered to this group. Endorem-labeled and DiI-labeled MSC were only injected into the treated groups. However, neither migration nor implantation was observed on either MRI or immunofluorescence images in the injured area after i.v. administration of either BM-MSC or AD-MSC.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Infarct size after pMCAO measured by MRI and H&amp;E does not change after systemic MSC administration</p>
+            </st>
+            <p>Lesion size at 24 h and 14 d after the experimental procedure was evaluated on MRI (Figure <figr fid="F3">3A</figr>). All values were lower at 14 d than at 24 h because the edema, which appeared in the first few days after ischemia, had decreased after two weeks. Neither of the treatments, BM-MSC (17.65% &#177; 3.27%; 13.04% &#177; 3.69%) or AD-MSC (17.16% &#177; 9.19%; 12.25% &#177; 5.97%), reduced lesion volume significantly with respect to the infarct group (21.89% &#177; 4.38%; 13.12% &#177; 3.16%) at either time point on MRI. Also, the H&amp;E staining at 14 d showed that neither of the treatments, BM-MSC (14.09% &#177; 3.19%) or AD-MSC (13.73% &#177; 3.20%), had decreased lesion volume significantly with respect to the infarct group (16.98% &#177; 7.03%) (Figure <figr fid="F3">3B</figr>).</p>
+            <fig id="F3">
+               <title>
+                  <p>Figure 3</p>
+               </title>
+               <caption>
+                  <p>Effects of acute and allogenic intravenous (i.v.) administration of bone marrow-derived mesenchymal (BM-MSC) and adipose tissue-derived mesenchymal (AD-MSC) cells on infarct volume, cell death and cell proliferation after permanent middle cerebral artery occlusion (pMCAO)</p>
+               </caption>
+               <text>
+                  <p><b>Effects of acute and allogenic intravenous (i.v.) administration of bone marrow-derived mesenchymal (BM-MSC) and adipose tissue-derived mesenchymal (AD-MSC) cells on infarct volume, cell death and cell proliferation after permanent middle cerebral artery occlusion (pMCAO)</b>. (<b>A</b>) Magnetic resonance imaging (MRI) showed that infarct volume was not significantly decreased after BM-MSC or AD-MSC administration. (<b>B</b>) H&amp;E staining showed infarct volume was not diminished at 14 d. (<b>C</b>) TUNEL staining at 14 d showed cell death was diminished after BM-MSC and AD-MSC administration. (<b>D</b>) Cell proliferation detected by bromodeoxyuridine (BrdU) staining at 14 d was increased in the BM-MSC and AD-MSC groups. (<b>E</b>) BrdU co-labeling with glial fiibrillary acid protein (GFAP) and neurofilament (NF) in the infarct, BM-MSC and AD-MSC groups in the peri-infarct zone at 14 days (scale bars = 20 &#956;m). Data are expressed as mean &#177; SD (<it>n </it>= 10); *<it>P </it>&lt; 0.05.</p>
+               </text>
+               <graphic file="scrt159-3"/>
+            </fig>
+         </sec>
+         <sec>
+            <st>
+               <p>Intravenous administration of allogenic MSC decreased cell death after pMCAO</p>
+            </st>
+            <p>Sham-operated animals did not show TUNEL + cells. There were no TUNEL+ cells in the contralateral hemisphere in any operated animal. At 14 d, the infarct group (41 &#177; 6.4) showed significantly more TUNEL+ cells than the BM-MSC (26 &#177; 5.5) and AD-MSC (24 &#177; 8.79) groups in the peri-infarct zone. In conclusion, both treatments significantly reduced the number of TUNEL+ cells compared to the number in the infarct group at 14 d (<it>P </it>&lt; 0.05) (Figure <figr fid="F3">3C</figr>).</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Intravenous administration of allogenic MSC increased cellular proliferation after pMCAO</p>
+            </st>
+            <p>Sham-operated animals did not present BrdU-positive cells in the peri-infarct lesions. Quantitative analysis of BrdU-positive cells showed that the infarct group (51 &#177; 9.9) displayed a significantly smaller decrease in the number of BrdU-positive cells in the peri-infarct zone at 14 d after focal cerebral ischemia than did the BM-MSC (137.5 &#177; 9.2) or AD-MSC (142.81 &#177; 11.12) groups (Figure <figr fid="F3">3D</figr>). At 14 d, we observed BrdU co-labeling with GFAP and NF in the infarct, BM-MSC and the AD-MSC groups in the peri-infarct zone (Figure <figr fid="F3">3E</figr>).</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Intravenous administration of allogenic MSC modified brain repair markers levels after pMCAO</p>
+            </st>
+            <p>At 14 d after pMCAO the levels of brain repair markers were analyzed in confocal microscopy and confirmed by the western blot protein levels as arbitrary units (A.U.) (Figure <figr fid="F4">4</figr>). Compared with the infarct group (2.75 (A.U.) &#177; 1.38 (A.U.)), VEGF levels were significantly higher in the rat brain after administration of either BM-MSC (4.84 (A.U.) &#177; 0.89 (A.U.)) or AD-MSC (5.05 (A.U.) &#177; 1.16 (A.U.)). The levels of Olig-2 labeling were also significantly higher than in the infarct group (2.05 (A.U.) &#177; 0.46 (A.U.)) after the BM-MSC (2.89 (A.U.) &#177; 0.17 (A.U.)) and the AD-MSC (2.66 (A.U.) &#177; 0.14 (A.U.) treatments. Compared with the infarct group (2.15 (A.U.) &#177; 0.22 (A.U.), SYP levels were also significantly increased after BM-MSC (3.14 (A.U.) &#177; 0.16 (A.U.) and AD-MSC (3.06 (A.U.) &#177; 0.15 (A.U.) administration. Lastly, NF levels were significantly increased after either the BM-MSC (2.10 (A.U.) &#177; 0.54 (A.U.) or the AD-MSC (1.9 (A.U.) &#177; 0.48 (A.U.) treatment compared with the infarct group (1.18 (A.U.) &#177; 0.29 (A.U.). The BDNF levels were also higher after stem cell administration, but this increase did not reach statistical significance. The GFAP levels were significantly decreased after treatment with either BM-MSC (2.45 (A.U.) &#177; 0.05 (A.U.) or AD-MSC (2.075 (A.U.) &#177; 0.175 (A.U.) in comparison with the infarct group (3.76 (A.U.) &#177; 0.315 (A.U.). We did not observe any significant differences in brain repair markers between the BM-MSC- or AD-MSC-treated groups.</p>
+            <fig id="F4">
+               <title>
+                  <p>Figure 4</p>
+               </title>
+               <caption>
+                  <p>Expression of brain repair markers in the peri-infarct area at 14 d after acute intravenous (i.v.) administration of allogenic bone marrow-derived mesenchymal (BM-MSC) and adipose tissue-derived mesenchymal (AD-MSC) cells in the permanent middle cerebral artery occlusion (pMCAO) model</p>
+               </caption>
+               <text>
+                  <p><b>Expression of brain repair markers in the peri-infarct area at 14 d after acute intravenous (i.v.) administration of allogenic bone marrow-derived mesenchymal (BM-MSC) and adipose tissue-derived mesenchymal (AD-MSC) cells in the permanent middle cerebral artery occlusion (pMCAO) model</b>. (<b>A</b>) Confocal images showing the levels of vascular epithelial growth factor (VEGF), neuronal nuclei (NeuN), synaptophysin (SYP), glial fiibrillary acid protein (GFAP), oligodendrocyte (OLIG2), brain-derived neurotrophic factor (BDNF) and neurofilament (NF) at 14 d in the infarct area after BM-MSC and AD-MSC administration (scale bars = 20 &#956;m). (<b>B</b>) Western blot analysis showing that levels of VEGF, SYP, OLIG2, NF and BDNF were augmented at 14 d after BM-MSC and AD-MSC administration. The levels of GFAP were decreased in both groups. There were no significant differences in the results with respect to the cell source. Data are shown as mean &#177; SD (<it>n </it>= 3);*<it>P </it>&lt; 0.05.</p>
+               </text>
+               <graphic file="scrt159-4"/>
+            </fig>
+         </sec>
+      </sec>
+      <sec>
+         <st>
+            <p>Discussion</p>
+         </st>
+         <p>In this study we investigated the effects of acute i.v. administration of allogenic BM-MSC and AD-MSC after permanent focal ischemia in rats. We found that BM-MSC and AD-MSC i.v. administration significantly improved functional recovery despite the lack of a reduction in infarct volume, or the apparent absence of migration or implantation by the administered MSC to the damaged brain. Animals receiving MSC from either source showed decreased cell death and increased cell proliferation, VEGF, Olig-2, SYP and NF levels as well as reduced GFAP levels in the brain 14 d after pMCAO.</p>
+         <p>Importantly, in this study of acute administration of allogenic cells there were no differences in the effects of the treatment between the cells from either source, bone marrow or adipose tissue, that might have clinical implications for the translation of this treatment to human trials.</p>
+         <sec>
+            <st>
+               <p>BM-MSC and AD-MSC administration improves functional recovery independently of infarct volume and cell migration/implantation</p>
+            </st>
+            <p>The significant improvement in functional scales at 24 h was even more notable after 14 d of pMCAO, and there were no significant differences between the effects of cells from either source (BM-MSC or AD-MSC). In a recent comparative study of transitory ischemia in mice, the authors reported better results when administering AD-MSC than when administering BM-MSC <abbrgrp><abbr bid="B18">18</abbr></abbrgrp>. That study also reported a reduction in infarct volume that we did not find after BM-MSC or AD-MSC administration; these differences might be explained by the fact that we did not recanalize the MCA. In our study, migration and/or implantation of cells administered i.v. was not found in the peri-infarct area since we could not detect any trace of Endorem&#8482; or DiI staining at either 24 h or 14 d. Previous studies observed that after i.v. administration, stem cells are detected in the lungs, liver, spleen and other organs <abbrgrp><abbr bid="B27">27</abbr><abbr bid="B28">28</abbr><abbr bid="B29">29</abbr></abbrgrp>. Therefore, it might not be necessary for stem cells to migrate and graft onto the lesion site in order to obtain a positive functional result <abbrgrp><abbr bid="B8">8</abbr></abbrgrp>, due to the paracrine effects of MSC. This good outcome could be a consequence of the secretion of several growth factors that could act to enhance endogenous repair mechanisms normally activated in the brain after stroke such as endogenous neurogenesis, immunomodulation, brain repair and plasticity <abbrgrp><abbr bid="B8">8</abbr><abbr bid="B17">17</abbr><abbr bid="B30">30</abbr><abbr bid="B31">31</abbr></abbrgrp>.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>BM-MSC and AD-MSC effects on cell death and cell proliferation</p>
+            </st>
+            <p>Tissues were better-conserved in animals treated with BM-MSC and AD-MSC. TUNEL marking was reduced and cellular proliferation (BrdU-positive cells) increased in the peri-infarct zone, compared with the infarct group at 14 d. These results agree with previous studies that reported reductions in apoptotic cell number and increases in cellular proliferation after AD-MSC <abbrgrp><abbr bid="B9">9</abbr></abbrgrp> and BM-MSC administration <abbrgrp><abbr bid="B8">8</abbr><abbr bid="B32">32</abbr></abbrgrp>. In line with earlier studies, other reports have demonstrated that administration of MSC promotes cellular proliferation in the subventricular zone <abbrgrp><abbr bid="B32">32</abbr></abbrgrp> and cell differentiation into neuroblasts in the peri-infarct area compared to infarct group <abbrgrp><abbr bid="B33">33</abbr></abbrgrp>.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>BM-MSC and AD-MSC raise brain repair markers levels in the ischemic brain</p>
+            </st>
+            <p>It is thought that MSC secrete a wide array of neurotrophins, growth factors, cytokines and other soluble factors <abbrgrp><abbr bid="B34">34</abbr></abbrgrp> such as VEGF or BDNF, in response to repair processes, and this could amplify trophic factor levels in the brain <abbrgrp><abbr bid="B35">35</abbr></abbrgrp>. Studies <it>in vitro </it>and <it>in vivo </it>demonstrate that such factors can promote cell proliferation, survival and differentiation <abbrgrp><abbr bid="B36">36</abbr></abbrgrp>, and consequently raise the possibility that stem cell administration could promote recovery by interfering with trophic factor signaling to modulate brain repair response. In this study we have found that the expression of neurogenesis, synaptogenesis, angiogenesis and oligodendrogenesis markers such as NF, Olig-2, SYP and VEGF was significantly augmented at 14 d after acute and allogenic BM-MSC and AD-MSC administration compared with the infarct group. A previous study by our group found augmented VEGF levels after BM-MSC administration <abbrgrp><abbr bid="B8">8</abbr></abbrgrp>. However the authors of a recent comparative study did not find significant differences in brain VEGF levels after the administration of either AD-MSC or BM-MSC 24 h after transitory ischemia in mice <abbrgrp><abbr bid="B18">18</abbr></abbrgrp>. We did not observe differences for this marker at 14 d in our current study either.</p>
+            <p>Recovery after stroke is a dynamic process <abbrgrp><abbr bid="B37">37</abbr></abbrgrp> and the growth and trophic factors produced by MSC may affect synaptogenesis in the ischemic brain <abbrgrp><abbr bid="B38">38</abbr></abbrgrp>. In our comparative study, we observed that SYP levels in the peri-infarct zone were significantly increased after BM-MSC and AD-MSC administration in comparison with the infarct group. It is known that levels of NF expression are increased 7 d after focal cerebral ischemia in the peri-infarct zone <abbrgrp><abbr bid="B39">39</abbr></abbrgrp>. In our study we observed significantly elevated levels of this marker 14 d after MSC administration. Also, oligodendrocytes are sensitive to ischemic damage but in several previous stroke studies BM-MSC administration enhanced oligodendrogenesis and remyelinization <abbrgrp><abbr bid="B40">40</abbr><abbr bid="B41">41</abbr></abbrgrp>. In our comparative study we detected augmented levels of Olig-2 at 14 d. Another factor, BDNF, has been shown to be augmented after i.v. MSC administration <abbrgrp><abbr bid="B42">42</abbr></abbrgrp> and we detected in our study that it was higher (but not significantly) in the treated groups than in the infarct group. Finally, we detected a reduction in the glial marker, GFAP, at 14 d after both BM-MSC and AD-MSC administration (without significant differences between either cell type), probably reflecting a reduction in glial scar formation as previously observed <abbrgrp><abbr bid="B40">40</abbr></abbrgrp> and in agreement with a previous report on AD-MSC administration <abbrgrp><abbr bid="B9">9</abbr></abbrgrp>.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Future landmarks for clinical translation</p>
+            </st>
+            <p>The intrinsic complexity of stroke and the Stem Cell Therapies as an Emerging Paradigm in Stroke (STEPS) criteria for translational research underline the importance of further studies that can compare different experimental conditions and different experimental animal models. From the viewpoint of clinical translation allogenic stem cells are attractive because they can be easily obtained from young healthy donors, amplified, and stored for immediate use when needed after a stroke. Furthermore, it is known that MSC do not express MCH-II, minimizing the risk of rejection in patients <abbrgrp><abbr bid="B43">43</abbr></abbrgrp> and the use of cells from the same species during the acute phase has been shown to be safe and effective without signs of rejection in many different experimental animal studies <abbrgrp><abbr bid="B8">8</abbr><abbr bid="B11">11</abbr><abbr bid="B44">44</abbr></abbrgrp>. As an administration route in a clinical setting we considered the i.v. route, which has already shown efficacy in previous studies, to be less invasive than others, such as intra-arterial or intracerebral routes <abbrgrp><abbr bid="B7">7</abbr><abbr bid="B8">8</abbr><abbr bid="B9">9</abbr></abbrgrp>. Future comparative studies are needed to determine cell fate after i.v. administration, the mechanism of action and the best dose to be used in patients to eliminate the possibility of undesired side effects.</p>
+         </sec>
+      </sec>
+      <sec>
+         <st>
+            <p>Conclusions</p>
+         </st>
+         <p>In our comparative study, following pMCAO we showed that AD-MSC are as effective as BM-MSC in promoting recovery and increasing the levels of brain protection and repair markers after the experimental ischemic stroke. Both cell sources are ethically acceptable with adipose-derived cells being particularly abundant and easy to obtain without invasive surgery.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Abbreviations</p>
+         </st>
+         <p>AD-MSC: adipose tissue-derived mesenchymal stem cells; ANOVA: analysis of variance; A.U.: arbitrary units; BCA: bicinchoninic acid; BDNF: brain derived neurotrophic factor; BM-MSC: bone marrow-derived mesenchymal stem cells; BrdU: bromodeoxyuridine; DAPI: diamidino-2-phenylindole; DMEM: Dulbecco's modified Eagle's medium; ECL: enhanced chemiluminescence; EDTA: ethylenediamine tetraacetic acid anticoagulant; FACS: fluorescence-activated cell sorting; FBS: fetal bovine serum; FITC: fluorescein isothiocyanate; GFAP: glial fiibrillary acid protein; Glu: glucose; HBSS: Hank's Balanced Salt Solution; H&amp;E: hematoxylin and eosin; HGF: hepatocyte growth factor; HRP: horseradish peroxidase; i.v.: intravenous; MCA: middle cerebral artery; MCH-II: major histocompatibility complex class II; MRI: magnetic resonance imaging; MSC: mesenchymal stem cells; NeuN: Neuronal Nuclei; NF: Neurofilament; OCT: optimal cutting temperature; Olig-2: Oligodendrocyte; PBS: phosphate-buffered saline; PE: phycoerythrin; pMCAO: permanent middle cerebral artery occlusion; PVDF: polyvinylidene fluoride; Pyr: pyruvate; SDS: sodium dodecyl sulfate; STEPS: Stem Cell Therapies as an Emerging Paradigm in Stroke; SVF: stromal vascular fraction; SYP: synaptophysin; TBS: Tris-buffered saline; TBS-T: Tris buffered saline-Tween; TE: echo time; TR: repetition time; TUNEL: terminal deoxynucleotidyl transferase dUTP nick end labeling; VEGF: vascular endothelial growth factor.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Competing interests</p>
+         </st>
+         <p>The authors declare that they have no competing interests.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Authors' contributions</p>
+         </st>
+         <p>MGF designed the experiments, performed animal experiments, participated in coordination and helped in drafting the manuscript. BRF designed the experiments, performed animal experiments, participated in coordination and helped in drafting the manuscript. JRC and MTVC were responsible for the laboratory assays. BF participated in coordination and helped in drafting the manuscript. SC participed in imaging techniques. EDT designed the experiments, participated in coordination and helped in drafting the manuscript. All authors have read and approved the manuscript for publication.</p>
+      </sec>
+   </bdy>
+   <bm>
+      <ack>
+         <sec>
+            <st>
+               <p>Acknowledgements</p>
+            </st>
+            <p>This study was supported by grants from Cellerix, FIS 060575 and PS09/01606 (Spanish Ministry of Science), CIDEM (Center for Innovation and Business Development) and by RENEVAS (RD07/0026/2003) (Spanish Neurovascular Network), the Carlos III Research Institute and the Ministry of Science and Innovation. The funding bodies played no role in the design of the study, in the collection, analysis, and interpretation of data; in the writing of the manuscript; or in the decision to submit the manuscript for publication.</p>
+            <p>We greatly appreciate advice from Marisa de Frias-S&#225;nchez and CF Warren for her language assistance.</p>
+         </sec>
+      </ack>
+      <refgrp>
+         <bibl id="B1">
+            <title>
+               <p>Trophic factors and cell therapy to stimulate brain repair after ischemic stroke</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Guti&#233;rrez-Fern&#225;ndez</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Fuentes</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Rodr&#237;guez-Frutos</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Ramos-Cejudo</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Vallejo-Cremades</snm>
+                  <fnm>MT</fnm>
+               </au>
+               <au>
+                  <snm>D&#237;ez-Tejedor</snm>
+                  <fnm>E</fnm>
+               </au>
+            </aug>
+            <source>J Cell Mol Med</source>
+            <pubdate>2012</pubdate>
+            <volume>16</volume>
+            <fpage>2280</fpage>
+            <lpage>90</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1111/j.1582-4934.2012.01575.x</pubid>
+                  <pubid idtype="pmpid" link="fulltext">22452968</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B2">
+            <title>
+               <p>Stem Cell Therapies as an Emerging Paradigm in Stroke (STEPS): bridging basic and clinical science for cellular and neurogenic factor therapy in treating stroke</p>
+            </title>
+            <aug>
+               <au>
+                  <cnm>Stem Cell Therapies as an Emerging Paradigm in Stroke Participants</cnm>
+               </au>
+            </aug>
+            <source>Stroke</source>
+            <pubdate>2009</pubdate>
+            <volume>40</volume>
+            <fpage>510</fpage>
+            <lpage>15</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid" link="fulltext">19095993</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B3">
+            <title>
+               <p>A Step-up Approach for Cell Therapy in Stroke: Translational Hurdles of Bone Marrow-Derived Stem Cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Glover</snm>
+                  <fnm>LE</fnm>
+               </au>
+               <au>
+                  <snm>Tajiri</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Weinbren</snm>
+                  <fnm>NL</fnm>
+               </au>
+               <au>
+                  <snm>Ishikawa</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Shinozuka</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Kaneko</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Watterson</snm>
+                  <fnm>DM</fnm>
+               </au>
+               <au>
+                  <snm>Borlongan</snm>
+                  <fnm>CV</fnm>
+               </au>
+            </aug>
+            <source>Transl Stroke Res</source>
+            <pubdate>2012</pubdate>
+            <volume>3</volume>
+            <fpage>90</fpage>
+            <lpage>98</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1007/s12975-011-0127-8</pubid>
+                  <pubid idtype="pmcid">3284662,3284662</pubid>
+                  <pubid idtype="pmpid">22389662</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B4">
+            <title>
+               <p>Stem Cell Therapy as an Emerging Paradigm for Stroke (STEPS) II</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Savitz</snm>
+                  <fnm>SI</fnm>
+               </au>
+               <au>
+                  <snm>Chopp</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Deans</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Carmichael</snm>
+                  <fnm>ST</fnm>
+               </au>
+               <au>
+                  <snm>Phinney</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Wechsler</snm>
+                  <fnm>L</fnm>
+               </au>
+            </aug>
+            <source>Stroke</source>
+            <pubdate>2011</pubdate>
+            <volume>42</volume>
+            <fpage>825</fpage>
+            <lpage>829</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1161/STROKEAHA.110.601914</pubid>
+                  <pubid idtype="pmpid" link="fulltext">21273569</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B5">
+            <title>
+               <p>Cell transplantation therapy for stroke</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Bliss</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Guzman</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Daadi</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Steinberg</snm>
+                  <fnm>GK</fnm>
+               </au>
+            </aug>
+            <source>Stroke</source>
+            <pubdate>2007</pubdate>
+            <volume>38</volume>
+            <fpage>817</fpage>
+            <lpage>826</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1161/01.STR.0000247888.25985.62</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17261746</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B6">
+            <title>
+               <p>Regeneration of the ischemic brain by engineered stem cells: fuelling endogenous repair processes</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>van Velthoven</snm>
+                  <fnm>CT</fnm>
+               </au>
+               <au>
+                  <snm>Kavelaars</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>van Bel</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Heijnen</snm>
+                  <fnm>CJ</fnm>
+               </au>
+            </aug>
+            <source>Brain Res Rev</source>
+            <pubdate>2009</pubdate>
+            <volume>61</volume>
+            <fpage>1</fpage>
+            <lpage>13</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.brainresrev.2009.03.003</pubid>
+                  <pubid idtype="pmpid" link="fulltext">19348860</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B7">
+            <title>
+               <p>Therapeutic benefit of intravenous administration of bone marrow stromal cells after cerebral ischemia in rats</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Chen</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Li</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Wang</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Zhang</snm>
+                  <fnm>Z</fnm>
+               </au>
+               <au>
+                  <snm>Lu</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Lu</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Chopp</snm>
+                  <fnm>M</fnm>
+               </au>
+            </aug>
+            <source>Stroke</source>
+            <pubdate>2001</pubdate>
+            <volume>32</volume>
+            <fpage>1005</fpage>
+            <lpage>1011</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1161/01.STR.32.4.1005</pubid>
+                  <pubid idtype="pmpid" link="fulltext">11283404</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B8">
+            <title>
+               <p>Functional recovery after hematic administration of allogenic mesenchymal stem cells in acute ischemic stroke in rats</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Guti&#233;rrez-Fern&#225;ndez</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Rodr&#237;guez-Frutos</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Alvarez-Grech</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Vallejo-Cremades</snm>
+                  <fnm>MT</fnm>
+               </au>
+               <au>
+                  <snm>Exp&#243;sito-Alcaide</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Merino</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Roda</snm>
+                  <fnm>JM</fnm>
+               </au>
+               <au>
+                  <snm>D&#237;ez-Tejedor</snm>
+                  <fnm>E</fnm>
+               </au>
+            </aug>
+            <source>Neuroscience</source>
+            <pubdate>2011</pubdate>
+            <volume>175</volume>
+            <fpage>394</fpage>
+            <lpage>405</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid" link="fulltext">21144885</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B9">
+            <title>
+               <p>Adipose-derived mesenchymal stem cells markedly attenuate brain infarct size and improve neurological function in rats</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Leu</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Lin</snm>
+                  <fnm>YC</fnm>
+               </au>
+               <au>
+                  <snm>Yuen</snm>
+                  <fnm>CM</fnm>
+               </au>
+               <au>
+                  <snm>Yen</snm>
+                  <fnm>CH</fnm>
+               </au>
+               <au>
+                  <snm>Kao</snm>
+                  <fnm>YH</fnm>
+               </au>
+               <au>
+                  <snm>Sun</snm>
+                  <fnm>CK</fnm>
+               </au>
+               <au>
+                  <snm>Yip</snm>
+                  <fnm>HK</fnm>
+               </au>
+            </aug>
+            <source>J Transl Med</source>
+            <pubdate>2010</pubdate>
+            <volume>8</volume>
+            <fpage>63</fpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1186/1479-5876-8-63</pubid>
+                  <pubid idtype="pmcid">2913939</pubid>
+                  <pubid idtype="pmpid" link="fulltext">20584315</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B10">
+            <title>
+               <p>Allogenic mesenchymal stem cells in experimental ischaemic stroke. Translation to the clinic?</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Guti&#233;rrez-Fern&#225;ndez</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Rodr&#237;guez-Frutos</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Fuentes</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>D&#237;ez-Tejedor</snm>
+                  <fnm>E</fnm>
+               </au>
+            </aug>
+            <source>Stem Cells and Cancer Stem Cells</source>
+            <publisher>New York; Springer Netherlands</publisher>
+            <editor>Hayat MA</editor>
+            <pubdate>2012</pubdate>
+            <volume>5</volume>
+            <fpage>117</fpage>
+            <lpage>127</lpage>
+         </bibl>
+         <bibl id="B11">
+            <title>
+               <p>Intracarotid transplantation of bone marrow stromal cells increases axon-myelin remodeling after stroke</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Shen</snm>
+                  <fnm>LH</fnm>
+               </au>
+               <au>
+                  <snm>Li</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Chen</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Zhang</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Vanguri</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Borneman</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Chopp</snm>
+                  <fnm>M</fnm>
+               </au>
+            </aug>
+            <source>Neuroscience</source>
+            <pubdate>2006</pubdate>
+            <volume>137</volume>
+            <fpage>393</fpage>
+            <lpage>399</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.neuroscience.2005.08.092</pubid>
+                  <pubid idtype="pmpid" link="fulltext">16298076</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B12">
+            <title>
+               <p>Intrastriatal transplantation of bone marrow nonhematopoietic cells improves functional recovery after stroke in adult mice</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Li</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Chopp</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Chen</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Wang</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Gautam</snm>
+                  <fnm>SC</fnm>
+               </au>
+               <au>
+                  <snm>Xu</snm>
+                  <fnm>YX</fnm>
+               </au>
+               <au>
+                  <snm>Zhang</snm>
+                  <fnm>Z</fnm>
+               </au>
+            </aug>
+            <source>J Cereb Blood Flow Metab</source>
+            <pubdate>2000</pubdate>
+            <volume>20</volume>
+            <fpage>1311</fpage>
+            <lpage>1319</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1097/00004647-200009000-00006</pubid>
+                  <pubid idtype="pmpid" link="fulltext">10994853</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B13">
+            <title>
+               <p>Therapeutic benefit of intracerebral transplantation of bone marrow stromal cells after cerebral ischemia in rats</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Chen</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Li</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Wang</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Lu</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Zhang</snm>
+                  <fnm>X</fnm>
+               </au>
+               <au>
+                  <snm>Chopp</snm>
+                  <fnm>M</fnm>
+               </au>
+            </aug>
+            <source>J Neurol Sci</source>
+            <pubdate>2001</pubdate>
+            <volume>189</volume>
+            <fpage>49</fpage>
+            <lpage>57</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/S0022-510X(01)00557-3</pubid>
+                  <pubid idtype="pmpid" link="fulltext">11535233</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B14">
+            <title>
+               <p>Comparison of ischemia-directed migration of neural precursor cells after intrastriatal, intraventricular, or intravenous transplantation in the rat</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Jin</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Sun</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Xie</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Mao</snm>
+                  <fnm>XO</fnm>
+               </au>
+               <au>
+                  <snm>Childs</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Peel</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Logvinova</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Banwait</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Greenberg</snm>
+                  <fnm>DA</fnm>
+               </au>
+            </aug>
+            <source>Neurobiol Dis</source>
+            <pubdate>2005</pubdate>
+            <volume>18</volume>
+            <fpage>366</fpage>
+            <lpage>374</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.nbd.2004.10.010</pubid>
+                  <pubid idtype="pmpid" link="fulltext">15686965</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B15">
+            <title>
+               <p>Intravenous administration of human umbilical cord blood reduces behavioral deficits after stroke in rats</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Chen</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Sanberg</snm>
+                  <fnm>PR</fnm>
+               </au>
+               <au>
+                  <snm>Li</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Wang</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Lu</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Willing</snm>
+                  <fnm>AE</fnm>
+               </au>
+               <au>
+                  <snm>Sanchez-Ramos</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Chopp</snm>
+                  <fnm>M</fnm>
+               </au>
+            </aug>
+            <source>Stroke</source>
+            <pubdate>2001</pubdate>
+            <volume>32</volume>
+            <fpage>2682</fpage>
+            <lpage>2688</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1161/hs1101.098367</pubid>
+                  <pubid idtype="pmpid" link="fulltext">11692034</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B16">
+            <title>
+               <p>Neural stem/precursor cells for the treatment of ischemic stroke</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Bacigaluppi</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Pluchino</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Martino</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Kilic</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Hermann</snm>
+                  <fnm>DM</fnm>
+               </au>
+            </aug>
+            <source>J Neurol Sci</source>
+            <pubdate>2008</pubdate>
+            <volume>265</volume>
+            <fpage>73</fpage>
+            <lpage>77</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.jns.2007.06.012</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17610905</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B17">
+            <title>
+               <p>Marrow stromal cell transplantation in stroke and traumatic brain injury</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Li</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Chopp</snm>
+                  <fnm>M</fnm>
+               </au>
+            </aug>
+            <source>Neurosci Lett</source>
+            <pubdate>2009</pubdate>
+            <volume>456</volume>
+            <fpage>120</fpage>
+            <lpage>123</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.neulet.2008.03.096</pubid>
+                  <pubid idtype="pmcid">3359793</pubid>
+                  <pubid idtype="pmpid" link="fulltext">19429146</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B18">
+            <title>
+               <p>Comparison of mesenchymal stem cells from adipose tissue and bone marrow for ischemic stroke therapy</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Ikegame</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Yamashita</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Hayashi</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Mizuno</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Tawada</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>You</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Yamada</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Tanaka</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Egashira</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Nakashima</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Yoshimura</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Iwama</snm>
+                  <fnm>T</fnm>
+               </au>
+            </aug>
+            <source>Cytotherapy</source>
+            <pubdate>2011</pubdate>
+            <volume>13</volume>
+            <fpage>675</fpage>
+            <lpage>685</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.3109/14653249.2010.549122</pubid>
+                  <pubid idtype="pmpid">21231804</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B19">
+            <title>
+               <p>Correlation between motor impairment and infarct volume after permanent and transient middle cerebral artery occlusion in the rat</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Rogers</snm>
+                  <fnm>DC</fnm>
+               </au>
+               <au>
+                  <snm>Campbell</snm>
+                  <fnm>CA</fnm>
+               </au>
+               <au>
+                  <snm>Stretton</snm>
+                  <fnm>JL</fnm>
+               </au>
+               <au>
+                  <snm>Mackay</snm>
+                  <fnm>KB</fnm>
+               </au>
+            </aug>
+            <source>Stroke</source>
+            <pubdate>1997</pubdate>
+            <volume>28</volume>
+            <fpage>2060</fpage>
+            <lpage>2065</lpage>
+            <note>discussion 2066</note>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1161/01.STR.28.10.2060</pubid>
+                  <pubid idtype="pmpid" link="fulltext">9341719</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B20">
+            <title>
+               <p>Effect of combined therapy with thrombolysis and citicoline in a rat model of embolic stroke</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Alonso de Leci&#241;ana</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Guti&#233;rrez</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Roda</snm>
+                  <fnm>JM</fnm>
+               </au>
+               <au>
+                  <snm>Carceller</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>D&#237;ez-Tejedor</snm>
+                  <fnm>E</fnm>
+               </au>
+            </aug>
+            <source>J Neurol Sci</source>
+            <pubdate>2006</pubdate>
+            <volume>247</volume>
+            <fpage>121</fpage>
+            <lpage>129</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.jns.2006.03.022</pubid>
+                  <pubid idtype="pmpid" link="fulltext">16797595</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B21">
+            <title>
+               <p>CDP-choline treatment induces brain plasticity markers expression in experimental animal stroke</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Guti&#233;rrez-Fern&#225;ndez</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Rodr&#237;guez-Frutos</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Fuentes</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Vallejo-Cremades</snm>
+                  <fnm>MT</fnm>
+               </au>
+               <au>
+                  <snm>Alvarez-Grech</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Exp&#243;sito-Alcaide</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>D&#237;ez-Tejedor</snm>
+                  <fnm>E</fnm>
+               </au>
+            </aug>
+            <source>Neurochem Int</source>
+            <pubdate>2012</pubdate>
+            <volume>60</volume>
+            <fpage>310</fpage>
+            <lpage>317</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.neuint.2011.12.015</pubid>
+                  <pubid idtype="pmpid" link="fulltext">22226841</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B22">
+            <title>
+               <p>Mesenchymal stem cells primed with valproate and lithium robustly migrate to infarcted regions and facilitate recovery in a stroke model</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Tsai</snm>
+                  <fnm>LK</fnm>
+               </au>
+               <au>
+                  <snm>Wang</snm>
+                  <fnm>Z</fnm>
+               </au>
+               <au>
+                  <snm>Munasinghe</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Leng</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Leeds</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Chuang</snm>
+                  <fnm>DM</fnm>
+               </au>
+            </aug>
+            <source>Stroke</source>
+            <pubdate>2011</pubdate>
+            <volume>42</volume>
+            <fpage>2932</fpage>
+            <lpage>2939</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1161/STROKEAHA.110.612788</pubid>
+                  <pubid idtype="pmcid">3183311</pubid>
+                  <pubid idtype="pmpid" link="fulltext">21836090</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B23">
+            <title>
+               <p>A semiautomated method for measuring brain infarct volume</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Swanson</snm>
+                  <fnm>RA</fnm>
+               </au>
+               <au>
+                  <snm>Morton</snm>
+                  <fnm>MT</fnm>
+               </au>
+               <au>
+                  <snm>Tsao-Wu</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Savalos</snm>
+                  <fnm>RA</fnm>
+               </au>
+               <au>
+                  <snm>Davidson</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Sharp</snm>
+                  <fnm>FR</fnm>
+               </au>
+            </aug>
+            <source>J Cereb Blood Flow Metab</source>
+            <pubdate>1990</pubdate>
+            <volume>10</volume>
+            <fpage>290</fpage>
+            <lpage>293</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/jcbfm.1990.47</pubid>
+                  <pubid idtype="pmpid" link="fulltext">1689322</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B24">
+            <title>
+               <p>Morphometric study of focal cerebral ischemia in rats: a stereological evaluation</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Avenda&#241;o</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Roda</snm>
+                  <fnm>JM</fnm>
+               </au>
+               <au>
+                  <snm>Carceller</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Diez-Tejedor</snm>
+                  <fnm>E</fnm>
+               </au>
+            </aug>
+            <source>Brain Res</source>
+            <pubdate>1995</pubdate>
+            <volume>673</volume>
+            <fpage>83</fpage>
+            <lpage>92</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/0006-8993(94)01407-9</pubid>
+                  <pubid idtype="pmpid" link="fulltext">7757483</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B25">
+            <title>
+               <p>Neurogenesis by progenitor cells in the ischemic adult rat hippocampus</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Yagita</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Kitagawa</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Ohtsuki</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Takasawa</snm>
+                  <fnm>Ki</fnm>
+               </au>
+               <au>
+                  <snm>Miyata</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Okano</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Hori</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Matsumoto</snm>
+                  <fnm>M</fnm>
+               </au>
+            </aug>
+            <source>Stroke</source>
+            <pubdate>2001</pubdate>
+            <volume>32</volume>
+            <fpage>1890</fpage>
+            <lpage>1896</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1161/01.STR.32.8.1890</pubid>
+                  <pubid idtype="pmpid" link="fulltext">11486122</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B26">
+            <title>
+               <p>Neurogenesis in dentate subgranular zone and rostral subventricular zone after focal cerebral ischemia in the rat</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Jin</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Minami</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Lan</snm>
+                  <fnm>JQ</fnm>
+               </au>
+               <au>
+                  <snm>Mao</snm>
+                  <fnm>XO</fnm>
+               </au>
+               <au>
+                  <snm>Batteur</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Simon</snm>
+                  <fnm>RP</fnm>
+               </au>
+               <au>
+                  <snm>Greenberg</snm>
+                  <fnm>DA</fnm>
+               </au>
+            </aug>
+            <source>Proc Natl Acad Sci USA</source>
+            <pubdate>2001</pubdate>
+            <volume>98</volume>
+            <fpage>4710</fpage>
+            <lpage>4715</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1073/pnas.081011098</pubid>
+                  <pubid idtype="pmcid">31899</pubid>
+                  <pubid idtype="pmpid" link="fulltext">11296300</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B27">
+            <title>
+               <p>Systemically administered human bone marrow-derived mesenchymal stem home into peripheral organs but do not induce neuroprotective effects in the MCAo-mouse model for cerebral ischemia</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Steiner</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Roch</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Holtkamp</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Kurtz</snm>
+                  <fnm>A</fnm>
+               </au>
+            </aug>
+            <source>Neurosci Lett</source>
+            <pubdate>2012</pubdate>
+            <volume>513</volume>
+            <fpage>25</fpage>
+            <lpage>30</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.neulet.2012.01.078</pubid>
+                  <pubid idtype="pmpid" link="fulltext">22342911</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B28">
+            <title>
+               <p>The SPECT imaging shows the accumulation of neural progenitor cells into internal organs after systemic administration in middle cerebral artery occlusion rats</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Lappalainen</snm>
+                  <fnm>RS</fnm>
+               </au>
+               <au>
+                  <snm>Narkilahti</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Huhtala</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Liimatainen</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Suuronen</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>N&#228;rv&#228;nen</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Suuronen</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Hovatta</snm>
+                  <fnm>O</fnm>
+               </au>
+               <au>
+                  <snm>Jolkkonen</snm>
+                  <fnm>J</fnm>
+               </au>
+            </aug>
+            <source>Neurosci Lett</source>
+            <pubdate>2008</pubdate>
+            <volume>440</volume>
+            <fpage>246</fpage>
+            <lpage>50</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.neulet.2008.05.090</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18572314</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B29">
+            <title>
+               <p>Biodistribution of neural stem cells after intravascular therapy for hypoxic-ischemia</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Pendharkar</snm>
+                  <fnm>AV</fnm>
+               </au>
+               <au>
+                  <snm>Chua</snm>
+                  <fnm>JY</fnm>
+               </au>
+               <au>
+                  <snm>Andres</snm>
+                  <fnm>RH</fnm>
+               </au>
+               <au>
+                  <snm>Wang</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Gaeta</snm>
+                  <fnm>X</fnm>
+               </au>
+               <au>
+                  <snm>Wang</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>De</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Choi</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Chen</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Rutt</snm>
+                  <fnm>BK</fnm>
+               </au>
+               <au>
+                  <snm>Gambhir</snm>
+                  <fnm>SS</fnm>
+               </au>
+               <au>
+                  <snm>Guzman</snm>
+                  <fnm>R</fnm>
+               </au>
+            </aug>
+            <source>Stroke</source>
+            <pubdate>2010</pubdate>
+            <volume>41</volume>
+            <fpage>2064</fpage>
+            <lpage>70</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1161/STROKEAHA.109.575993</pubid>
+                  <pubid idtype="pmpid" link="fulltext">20616329</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B30">
+            <title>
+               <p>New concepts on the immune modulation mediated by mesenchymal stem cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Bunnell</snm>
+                  <fnm>BA</fnm>
+               </au>
+               <au>
+                  <snm>Betancourt</snm>
+                  <fnm>AM</fnm>
+               </au>
+               <au>
+                  <snm>Sullivan</snm>
+                  <fnm>DE</fnm>
+               </au>
+            </aug>
+            <source>Stem Cell Res Ther</source>
+            <pubdate>2010</pubdate>
+            <volume>1</volume>
+            <fpage>34</fpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1186/scrt34</pubid>
+                  <pubid idtype="pmcid">3025436</pubid>
+                  <pubid idtype="pmpid" link="fulltext">21092149</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B31">
+            <title>
+               <p>Therapeutic potential for mesenchymal stem cell transplantation in critical limb ischemia</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Liew</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>O'Brien</snm>
+                  <fnm>T</fnm>
+               </au>
+            </aug>
+            <source>Stem Cell Res Ther</source>
+            <pubdate>2012</pubdate>
+            <volume>3</volume>
+            <fpage>28</fpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1186/scrt119</pubid>
+                  <pubid idtype="pmpid" link="fulltext">22846185</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B32">
+            <title>
+               <p>Intravenous bone marrow stromal cell therapy reduces apoptosis and promotes endogenous cell proliferation after stroke in female rat</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Chen</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Li</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Katakowski</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Chen</snm>
+                  <fnm>X</fnm>
+               </au>
+               <au>
+                  <snm>Wang</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Lu</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Lu</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Gautam</snm>
+                  <fnm>SC</fnm>
+               </au>
+               <au>
+                  <snm>Chopp</snm>
+                  <fnm>M</fnm>
+               </au>
+            </aug>
+            <source>J Neurosci Res</source>
+            <pubdate>2003</pubdate>
+            <volume>73</volume>
+            <fpage>778</fpage>
+            <lpage>786</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1002/jnr.10691</pubid>
+                  <pubid idtype="pmpid" link="fulltext">12949903</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B33">
+            <title>
+               <p>Mesenchymal stem cells promote proliferation of endogenous neural stem cells and survival of newborn cells in a rat stroke model</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Yoo</snm>
+                  <fnm>SW</fnm>
+               </au>
+               <au>
+                  <snm>Kim</snm>
+                  <fnm>SS</fnm>
+               </au>
+               <au>
+                  <snm>Lee</snm>
+                  <fnm>SY</fnm>
+               </au>
+               <au>
+                  <snm>Lee</snm>
+                  <fnm>HS</fnm>
+               </au>
+               <au>
+                  <snm>Kim</snm>
+                  <fnm>HS</fnm>
+               </au>
+               <au>
+                  <snm>Lee</snm>
+                  <fnm>YD</fnm>
+               </au>
+               <au>
+                  <snm>Suh-Kim</snm>
+                  <fnm>H</fnm>
+               </au>
+            </aug>
+            <source>Exp Mol Med</source>
+            <pubdate>2008</pubdate>
+            <volume>40</volume>
+            <fpage>387</fpage>
+            <lpage>397</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.3858/emm.2008.40.4.387</pubid>
+                  <pubid idtype="pmcid">2679267</pubid>
+                  <pubid idtype="pmpid">18779651</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B34">
+            <title>
+               <p>Human mesenchymal stem cell subpopulations express a variety of neuro-regulatory molecules and promote neuronal cell survival and neuritogenesis</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Crigler</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Robey</snm>
+                  <fnm>RC</fnm>
+               </au>
+               <au>
+                  <snm>Asawachaicharn</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Gaupp</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Phinney</snm>
+                  <fnm>DG</fnm>
+               </au>
+            </aug>
+            <source>Exp Neurol</source>
+            <pubdate>2006</pubdate>
+            <volume>198</volume>
+            <fpage>54</fpage>
+            <lpage>64</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.expneurol.2005.10.029</pubid>
+                  <pubid idtype="pmpid" link="fulltext">16336965</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B35">
+            <title>
+               <p>Mesenchymal stem cells that produce neurotrophic factors reduce ischemic damage in the rat middle cerebral artery occlusion model</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Kurozumi</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Nakamura</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Tamiya</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Kawano</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Ishii</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Kobune</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Hirai</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Uchida</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Sasaki</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Ito</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Kato</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Honmou</snm>
+                  <fnm>O</fnm>
+               </au>
+               <au>
+                  <snm>Houkin</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Date</snm>
+                  <fnm>I</fnm>
+               </au>
+               <au>
+                  <snm>Hamada</snm>
+                  <fnm>H</fnm>
+               </au>
+            </aug>
+            <source>Mol Ther</source>
+            <pubdate>2005</pubdate>
+            <volume>11</volume>
+            <fpage>96</fpage>
+            <lpage>104</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid" link="fulltext">15585410</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B36">
+            <title>
+               <p>Role of mesenchymal stem cells in neurogenesis and nervous system repair</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Maltman</snm>
+                  <fnm>DJ</fnm>
+               </au>
+               <au>
+                  <snm>Hardy</snm>
+                  <fnm>SA</fnm>
+               </au>
+               <au>
+                  <snm>Przyborski</snm>
+                  <fnm>SA</fnm>
+               </au>
+            </aug>
+            <source>Neurochem Int</source>
+            <pubdate>2011</pubdate>
+            <volume>59</volume>
+            <fpage>347</fpage>
+            <lpage>356</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid" link="fulltext">21718735</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B37">
+            <title>
+               <p>Mechanisms of neural plasticity following brain injury</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Wieloch</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Nikolich</snm>
+                  <fnm>K</fnm>
+               </au>
+            </aug>
+            <source>Curr Opin Neurobiol</source>
+            <pubdate>2006</pubdate>
+            <volume>16</volume>
+            <fpage>258</fpage>
+            <lpage>264</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.conb.2006.05.011</pubid>
+                  <pubid idtype="pmpid" link="fulltext">16713245</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B38">
+            <title>
+               <p>Treatment of neural injury with marrow stromal cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Chopp</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Li</snm>
+                  <fnm>Y</fnm>
+               </au>
+            </aug>
+            <source>Lancet Neurol</source>
+            <pubdate>2002</pubdate>
+            <volume>1</volume>
+            <fpage>92</fpage>
+            <lpage>100</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/S1474-4422(02)00040-6</pubid>
+                  <pubid idtype="pmpid" link="fulltext">12849513</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B39">
+            <title>
+               <p>Neurofilament expression in the rat brain after cerebral infarction: effect of age</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Schroeder</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Vogelgesang</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Popa-Wagner</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Kessler</snm>
+                  <fnm>C</fnm>
+               </au>
+            </aug>
+            <source>Neurobiol Aging</source>
+            <pubdate>2003</pubdate>
+            <volume>24</volume>
+            <fpage>135</fpage>
+            <lpage>145</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/S0197-4580(02)00063-5</pubid>
+                  <pubid idtype="pmpid" link="fulltext">12493559</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B40">
+            <title>
+               <p>Gliosis and brain remodeling after treatment of stroke in rats with marrow stromal cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Li</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Chen</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Zhang</snm>
+                  <fnm>CL</fnm>
+               </au>
+               <au>
+                  <snm>Wang</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Lu</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Katakowski</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Gao</snm>
+                  <fnm>Q</fnm>
+               </au>
+               <au>
+                  <snm>Shen</snm>
+                  <fnm>LH</fnm>
+               </au>
+               <au>
+                  <snm>Zhang</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Lu</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Chopp</snm>
+                  <fnm>M</fnm>
+               </au>
+            </aug>
+            <source>Glia</source>
+            <pubdate>2005</pubdate>
+            <volume>49</volume>
+            <fpage>407</fpage>
+            <lpage>417</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1002/glia.20126</pubid>
+                  <pubid idtype="pmpid" link="fulltext">15540231</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B41">
+            <title>
+               <p>Bone marrow stromal cells increase oligodendrogenesis after stroke</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Zhang</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Li</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Zhang</snm>
+                  <fnm>ZG</fnm>
+               </au>
+               <au>
+                  <snm>Lu</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Borneman</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Buller</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Savant-Bhonsale</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Elias</snm>
+                  <fnm>SB</fnm>
+               </au>
+               <au>
+                  <snm>Chopp</snm>
+                  <fnm>M</fnm>
+               </au>
+            </aug>
+            <source>J Cereb Blood Flow Metab</source>
+            <pubdate>2009</pubdate>
+            <volume>29</volume>
+            <fpage>1166</fpage>
+            <lpage>1174</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/jcbfm.2009.41</pubid>
+                  <pubid idtype="pmcid">2849641</pubid>
+                  <pubid idtype="pmpid" link="fulltext">19384336</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B42">
+            <title>
+               <p>Intravenous administration of marrow stromal cells (MSCs) increases the expression of growth factors in rat brain after traumatic brain injury</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Mahmood</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Lu</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Chopp</snm>
+                  <fnm>M</fnm>
+               </au>
+            </aug>
+            <source>J Neurotrauma</source>
+            <pubdate>2004</pubdate>
+            <volume>21</volume>
+            <fpage>33</fpage>
+            <lpage>39</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1089/089771504772695922</pubid>
+                  <pubid idtype="pmpid" link="fulltext">14987463</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B43">
+            <title>
+               <p>Immunomodulatory effect of human adipose tissue-derived adult stem cells: comparison with bone marrow mesenchymal stem cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Puissant</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Barreau</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Bourin</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Clavel</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Corre</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Bousquet</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Taureau</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Cousin</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Abbal</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Laharrague</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Penicaud</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Casteilla</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Blancher</snm>
+                  <fnm>A</fnm>
+               </au>
+            </aug>
+            <source>Br J Haematol</source>
+            <pubdate>2005</pubdate>
+            <volume>129</volume>
+            <fpage>118</fpage>
+            <lpage>129</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1111/j.1365-2141.2005.05409.x</pubid>
+                  <pubid idtype="pmpid" link="fulltext">15801964</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B44">
+            <title>
+               <p>Allogeneic bone marrow stromal cells promote glial-axonal remodeling without immunologic sensitization after stroke in rats</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Li</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>McIntosh</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Chen</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Zhang</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Gao</snm>
+                  <fnm>Q</fnm>
+               </au>
+               <au>
+                  <snm>Borneman</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Raginski</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Mitchell</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Shen</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Zhang</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Lu</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Chopp</snm>
+                  <fnm>M</fnm>
+               </au>
+            </aug>
+            <source>Exp Neurol</source>
+            <pubdate>2006</pubdate>
+            <volume>198</volume>
+            <fpage>313</fpage>
+            <lpage>325</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.expneurol.2005.11.029</pubid>
+                  <pubid idtype="pmpid" link="fulltext">16455080</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+      </refgrp>
+   </bm>
+</art>

@@ -1,0 +1,3726 @@
+<!DOCTYPE art SYSTEM "article.dtd">
+<art>
+   <ui>scrt151</ui>
+   <ji>1757-6512</ji>
+   <fm>
+      <dochead>Research</dochead>
+      <bibl>
+         <title>
+            <p>Neurogenic and neuro-protective potential of a novel subpopulation of peripheral blood-derived CD133+ ABCG2+CXCR4+ mesenchymal stem cells: development of autologous cell-based therapeutics for traumatic brain injury</p>
+         </title>
+         <aug>
+            <au id="A1" ca="yes">
+               <snm>Nichols</snm>
+               <mi>E</mi>
+               <fnm>Joan</fnm>
+               <insr iid="I1"/>
+               <insr iid="I2"/>
+               <email>jnichols@utmb.edu</email>
+            </au>
+            <au id="A2">
+               <snm>Niles</snm>
+               <mi>A</mi>
+               <fnm>Jean</fnm>
+               <insr iid="I1"/>
+               <insr iid="I2"/>
+               <email>janiles@utmb.edu</email>
+            </au>
+            <au id="A3">
+               <snm>DeWitt</snm>
+               <fnm>Douglas</fnm>
+               <insr iid="I3"/>
+               <email>ddewitt@utmb.edu</email>
+            </au>
+            <au id="A4">
+               <snm>Prough</snm>
+               <fnm>Donald</fnm>
+               <insr iid="I3"/>
+               <email>dsprough@utmb.edu</email>
+            </au>
+            <au id="A5">
+               <snm>Parsley</snm>
+               <fnm>Margaret</fnm>
+               <insr iid="I3"/>
+               <email>maparsle@utmb.edu</email>
+            </au>
+            <au id="A6">
+               <snm>Vega</snm>
+               <fnm>Stephanie</fnm>
+               <insr iid="I1"/>
+               <insr iid="I2"/>
+               <email>spvega@utmb.edu</email>
+            </au>
+            <au id="A7">
+               <snm>Cantu</snm>
+               <fnm>Andrea</fnm>
+               <insr iid="I1"/>
+               <email>avcantu29@gmail.com</email>
+            </au>
+            <au id="A8">
+               <snm>Lee</snm>
+               <fnm>Eric</fnm>
+               <insr iid="I1"/>
+               <insr iid="I3"/>
+               <email>ejlee@utmb.edu</email>
+            </au>
+            <au id="A9">
+               <snm>Cortiella</snm>
+               <fnm>Joaquin</fnm>
+               <insr iid="I1"/>
+               <insr iid="I3"/>
+               <email>jocortie@utmb.edu</email>
+            </au>
+         </aug>
+         <insg>
+            <ins id="I1">
+               <p>Laboratory of Tissue Engineering and Regenerative Medicine, 301 University Boulevard, Mail Route, 0435, University of Texas Medical Branch, Galveston, Texas, 77555-0435, USA</p>
+            </ins>
+            <ins id="I2">
+               <p>Departmen. of Internal Medicine, Division of Infectious Diseases, 301 University Boulevard, Mail Route, 0435, University of Texas Medical Branch, Galveston, Texas, 77555-0435, USA</p>
+            </ins>
+            <ins id="I3">
+               <p>Department of Anesthesiology, 301 University Boulevard, Mail Route, 0591, University of Texas Medical Branch, Galveston, Texas, 77555-0591, USA</p>
+            </ins>
+         </insg>
+         <source>Stem Cell Research &amp; Therapy</source>
+         <issn>1757-6512</issn>
+         <pubdate>2013</pubdate>
+         <volume>4</volume>
+         <issue>1</issue>
+         <fpage>3</fpage>
+         <url>http://stemcellres.com/content/4/1/3</url>
+         <xrefbib>
+            <pubidlist>
+               <pubid idtype="doi">10.1186/scrt151</pubid>
+               <pubid idtype="pmpid">23290300</pubid>
+            </pubidlist>
+         </xrefbib>
+      </bibl>
+      <history>
+         <rec>
+            <date>
+               <day>30</day>
+               <month>5</month>
+               <year>2012</year>
+            </date>
+         </rec>
+         <revrec>
+            <date>
+               <day>13</day>
+               <month>12</month>
+               <year>2012</year>
+            </date>
+         </revrec>
+         <acc>
+            <date>
+               <day>20</day>
+               <month>12</month>
+               <year>2012</year>
+            </date>
+         </acc>
+         <pub>
+            <date>
+               <day>6</day>
+               <month>1</month>
+               <year>2013</year>
+            </date>
+         </pub>
+      </history>
+      <cpyrt>
+         <year>2013</year>
+         <collab>Nichols et al.; licensee BioMed Central Ltd.</collab>
+         <note>This is an open access article distributed under the terms of the Creative Commons Attribution License (<url>http://creativecommons.org/licenses/by/2.0</url>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</note>
+      </cpyrt>
+      <abs>
+         <sec>
+            <st>
+               <p>Abstract</p>
+            </st>
+            <sec>
+               <st>
+                  <p>Introduction</p>
+               </st>
+               <p>Nervous system injuries comprise a diverse group of disorders that include traumatic brain injury (TBI). The potential of mesenchymal stem cells (MSCs) to differentiate into neural cell types has aroused hope for the possible development of autologous therapies for central nervous system injury.</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>Methods</p>
+               </st>
+               <p>In this study we isolated and characterized a human peripheral blood derived (HPBD) MSC population which we examined for neural lineage potential and ability to migrate <it>in vitro </it>and <it>in vivo</it>. HPBD CD133+, ATP-binding cassette sub-family G member 2 (ABCG2)+, C-X-C chemokine receptor type 4 (CXCR4)+ MSCs were differentiated after priming with &#946;-mercaptoethanol (&#946;-ME) combined with <it>trans</it>-retinoic acid (RA) and culture in neural basal media containing basic fibroblast growth factor (FGF2) and epidermal growth factor (EGF) or co-culture with neuronal cell lines. Differentiation efficiencies <it>in vitro </it>were determined using flow cytometry or fluorescent microscopy of cytospins made of FACS sorted positive cells after staining for markers of immature or mature neuronal lineages. RA-primed CD133+ABCG2+CXCR4+ human MSCs were transplanted into the lateral ventricle of male Sprague-Dawley rats, 24 hours after sham or traumatic brain injury (TBI). All animals were evaluated for spatial memory performance using the Morris Water Maze (MWM) Test. Histological examination of sham or TBI brains was done to evaluate MSC survival, migration and differentiation into neural lineages. We also examined induction of apoptosis at the injury site and production of MSC neuroprotective factors.</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>Results</p>
+               </st>
+               <p>CD133+ABCG2+CXCR4+ MSCs consistently expressed markers of neural lineage induction and were positive for nestin, microtubule associated protein-1&#946; (MAP-1&#946;), tyrosine hydroxylase (TH), neuron specific nuclear protein (NEUN) or type III beta-tubulin (Tuj1). Animals in the primed MSC treatment group exhibited MWM latency results similar to the uninjured (sham) group with both groups showing improvements in latency. Histological examination of brains of these animals showed that in uninjured animals the majority of MSCs were found in the lateral ventricle, the site of transplantation, while in TBI rats MSCs were consistently found in locations near the injury site. We found that levels of apoptosis were less in MSC treated rats and that MSCs could be shown to produce neurotropic factors as early as 2 days following transplantation of cells. In TBI rats, at 1 and 3 months post transplantation cells were generated which expressed markers of neural lineages including immature as well as mature neurons.</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>Conclusions</p>
+               </st>
+               <p>These results suggest that PBD CD133+ABCG2+CXCR4+ MSCs have the potential for development as an autologous treatment for TBI and neurodegenerative disorders and that MSC derived cell products produced immediately after transplantation may aid in reducing the immediate cognitive defects of TBI.</p>
+            </sec>
+         </sec>
+      </abs>
+   </fm>
+   <bdy>
+      <sec>
+         <st>
+            <p>Introduction</p>
+         </st>
+         <p>Studies examining repair mechanisms in the brain have shown that neural precursor cells have the capacity to migrate to injury sites and differentiate into neurons <abbrgrp><abbr bid="B1">1</abbr><abbr bid="B2">2</abbr><abbr bid="B3">3</abbr><abbr bid="B4">4</abbr></abbrgrp>. Unfortunately, neurogenesis from endogenous stem cells is not sufficient to produce meaningful levels of recovery after injury <abbrgrp><abbr bid="B4">4</abbr><abbr bid="B5">5</abbr></abbrgrp>. Augmentation of endogenous stem cells with cells from sources other than the brain may enhance neurogenesis sufficiently to promote meaningful recovery. Mesenchymal stem cells (MSC) have already been shown to provide therapeutic benefits in animal models for a variety of neurological disorders including stroke, Parkinson's disease and traumatic brain injury (TBI) <abbrgrp><abbr bid="B6">6</abbr><abbr bid="B7">7</abbr></abbrgrp>. The potential of MSC to differentiate into neural cell types has aroused hope for the possible development of autologous therapies for central nervous system (CNS) injury for both injured civilian and active duty military personnel <abbrgrp><abbr bid="B8">8</abbr></abbrgrp>. Current data have also suggested that MSC may also provide a source for supportive factors that aid immune modulation or neuro-protection, aiding in recovery <abbrgrp><abbr bid="B9">9</abbr></abbrgrp>. Although MSC have great potential, standard conditions for isolation based on definitive sets of cell markers that relate to efficiency of MSC to consistently develop into neural lineages, have yet to be established. Thus, the inconsistent results of some studies using MSC to treat neurological conditions may be due in part to variations in culture conditions, long-term passage of cells, or to the use of mixed populations of MSC at slightly different developmental stages. Although few neuron-specific markers have been identified, early stem cell markers have been described that are indicative of immature cell status. Such markers include expression of CD133 <abbrgrp><abbr bid="B10">10</abbr><abbr bid="B11">11</abbr></abbrgrp>, either alone <abbrgrp><abbr bid="B12">12</abbr></abbrgrp>, or in combination with stage-specific embryonic antigen-4 (SSEA-4) <abbrgrp><abbr bid="B13">13</abbr><abbr bid="B14">14</abbr></abbrgrp> or ATP-binding cassette sub-family G member 2 (ABCG2) <abbrgrp><abbr bid="B15">15</abbr></abbrgrp>. Many of these markers have been used to positively select for neural stem cells from fetal brain or other tissue sources <abbrgrp><abbr bid="B12">12</abbr><abbr bid="B13">13</abbr><abbr bid="B14">14</abbr><abbr bid="B15">15</abbr><abbr bid="B16">16</abbr><abbr bid="B17">17</abbr></abbrgrp>, yet few studies have focused on neural differentiation of isolated MSC from non-mobilized peripheral blood (PB) <abbrgrp><abbr bid="B18">18</abbr><abbr bid="B19">19</abbr></abbrgrp>.</p>
+         <p>In this study we isolated and characterized a human PB-derived (HPBD) MSC population, which we examined for neural lineage potential and ability to migrate <it>in vitro </it>and <it>in vivo</it>. We focused our attention on identifying MSC subpopulations based on co-expression of the immature stem cell markers CD133, SSEA-4, ABCG2 and chemokine receptor type 4 (CXCR4), a molecule that has been shown to be involved in stromal derived factor-1 (SDF-1)/CXCR4-mediated migration and plays an important role in the regulation of stem/progenitor cell trafficking <abbrgrp><abbr bid="B20">20</abbr><abbr bid="B21">21</abbr><abbr bid="B22">22</abbr><abbr bid="B23">23</abbr></abbrgrp>. After sorting subpopulations based on expression of immature stem cell markers we examined each sorted population for their capability of neural marker induction following trans-retinoic acid (RA) priming. We identified a population of HPBD CD133+ABCG2+CXCR4+ MSC with high neuronal marker induction efficiency. Transplantation of RA-primed CD133+ABCG2+CXCR4+ MSC into the lateral ventricle of uninjured rats, or those subjected to parasagittal fluid percussion TBI, resulted in survival of cells, migration to the injury site, improvement in cognitive functioning of TBI animals, differentiation of cells and reduction in induction of apoptosis at the injury site after transplantation. Transplanted MSC were shown to produce the neurotropic factors chondroitin sulfate proteoglycan (CSPG) and brain derived neurotropic factor (BDNF). The ability to obtain MSCs from an accessible source such as PB makes them an excellent candidate for use as an autologous stem cell therapy for the treatment of TBI and neurodegenerative disorders.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Materials and methods</p>
+         </st>
+         <sec>
+            <st>
+               <p>Isolation of MSC</p>
+            </st>
+            <p>PB buffy coats were obtained from the Gulf Coast Blood Bank or from volunteer donors (18 to 50 years of age). PB was drawn from ten donors with informed consent using University of Texas Institutional Review board approved protocols. The mononuclear cell (MNC) fraction was isolated using Ficoll density gradient separation medium (GE Health Care-Biosciences, Pittsburg, PA, USA). Subpopulations of MNC were isolated by counter-current centrifugal elutriation using a Beckmann J6M elutriator (Beckman-Coulter Instruments, Brea, CA USA) in a Sanderson chamber. A Masterplex peristaltic pump (Cole Parmer Instruments, Vernon Hills, IL, USA) was used to provide the counter-current flow. RPMI 1640 supplemented with 2 mM glutamine, 100 units penicillin G and 100 &#956;g/ml streptomycin, and 10% donor-derived autologous serum was used as elutriation medium. We loaded 3 to 6 &#215; 10<sup>6 </sup>cells at 3000 RPM and elutriation fractions were isolated using a stepwise reduction of rotor speed and media flow to allow for collection of subpopulations of MNC based on size and density. A 4- to 6-&#956;m cell fraction was collected and the phenotype of this cell population was determined.</p>
+            <p>Cells were plated in 75- or 150-cm<sup>2 </sup>tissue culture flasks in DMEM (Sigma, St Louis, MO, USA), 0.1 mM nonessential amino acids, 100-U/ml penicillin and streptomycin, and 1 ng/ml basic fibroblast growth factor (FGF) with 10% fetal calf serum, plus 0.2 mM L-glutamine. The majority of cells were found to be strongly adherent to plastic after 8 to 24 hours of culture.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Characterization of MSC</p>
+            </st>
+            <p>Antibodies for phenotyping conjugated to fluorescein isothiocyanate (FITC), phycoerytherin (PE) or PerCP were purchased from companies listed in Table <tblr tid="T1">1</tblr> and were used as described by each manufacturer. Corresponding immunoglobulin (IgG)-matched isotype control antibodies were used to set baseline values for analysis markers. Staining for ABCG2 (Stem Cell Technologies, Vancouver, Canada), CD133 (Miltenyi Biotech, Auburn, CA, USA), CD105, CD90, CD29, and CXCR4 (BD Biosciences, San Jose, CA, USA) was done with PE conjugated antibodies. Elutriated MSC were stained in PBS (Ca- and Mg-free) supplemented with 5% autologous serum. After the final wash, cells were kept at 4&#176;C in neurobasal media prior to culture, or were fixed with 2% paraformaldehyde (PF) before analysis using a FACSAria instrument (BD Biosciences,), with acquisition and analysis using the FACSDiva program (BD Biosciences). Isolated cells expressed MSC markers CD105, CD90, CD29 by flow cytometry and were negative for expression of markers of hematopoietic lineage, CD14, CD34, CD45 and Lineage-1 (Lin-1) as has been previously described for bone marrow MSC <abbrgrp><abbr bid="B19">19</abbr></abbrgrp>.</p>
+            <tbl id="T1" hint_layout="landscape">
+               <title>
+                  <p>Table 1</p>
+               </title>
+               <caption>
+                  <p>Classification of the 4 to 6 micron elutriated mononuclear cell fraction</p>
+               </caption>
+               <tblbdy cols="5">
+                  <r>
+                     <c ca="left">
+                        <p><b>Cell lineage marker</b></p>
+                     </c>
+                     <c ca="center">
+                        <p><b>Reagent</b></p>
+                        <p><b>Source</b></p>
+                     </c>
+                     <c ca="center">
+                        <p><b>Surface antigen</b></p>
+                     </c>
+                     <c ca="center">
+                        <p><b>RFI pre-priming, mean +/- SD (% positive)</b></p>
+                     </c>
+                     <c ca="center">
+                        <p><b>RFI Post priming, mean +/- SD (% positive)</b></p>
+                     </c>
+                  </r>
+                  <r>
+                     <c cspan="5">
+                        <hr/>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p><b>Leukocyte</b></p>
+                     </c>
+                     <c ca="center">
+                        <p>BD</p>
+                     </c>
+                     <c ca="center">
+                        <p>CD45 (pan leukocyte)</p>
+                     </c>
+                     <c ca="center">
+                        <p>6.3 +/- 1.1 (0%)</p>
+                     </c>
+                     <c ca="center">
+                        <p>5.4 +/- 0.7 (0%)</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c>
+                        <p/>
+                     </c>
+                     <c ca="center">
+                        <p>BD</p>
+                     </c>
+                     <c ca="center">
+                        <p>CD14 (macrophage)</p>
+                     </c>
+                     <c ca="center">
+                        <p>8.3 +/- 2.1 (0%)</p>
+                     </c>
+                     <c ca="center">
+                        <p>6.2 +/- 1.4 (0%)</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c>
+                        <p/>
+                     </c>
+                     <c ca="center">
+                        <p>BD</p>
+                     </c>
+                     <c ca="center">
+                        <p>CD3 (T Cell)</p>
+                     </c>
+                     <c ca="center">
+                        <p>5 +/- 0.2 (0%)</p>
+                     </c>
+                     <c ca="center">
+                        <p>6.1+/- 1.6 (0%)</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c>
+                        <p/>
+                     </c>
+                     <c ca="center">
+                        <p>BD</p>
+                     </c>
+                     <c ca="center">
+                        <p>T cell receptor (T Cell)</p>
+                     </c>
+                     <c ca="center">
+                        <p>6.3 +/- 1.4 (0%)</p>
+                     </c>
+                     <c ca="center">
+                        <p>4.5 +/- 1.1 (0%)</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c>
+                        <p/>
+                     </c>
+                     <c ca="center">
+                        <p>BD</p>
+                     </c>
+                     <c ca="center">
+                        <p>CD19 (B cell)</p>
+                     </c>
+                     <c ca="center">
+                        <p>6.8 +/- 0.7 (0%)</p>
+                     </c>
+                     <c ca="center">
+                        <p>7.4 +/- 1.6 (0%)</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c>
+                        <p/>
+                     </c>
+                     <c ca="center">
+                        <p>BD</p>
+                     </c>
+                     <c ca="center">
+                        <p>Immunoglobulin (B Cell)</p>
+                     </c>
+                     <c ca="center">
+                        <p>7.9 +/- 2.3 (0%)</p>
+                     </c>
+                     <c ca="center">
+                        <p>7.6 +/- 3.1 (0%)</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c>
+                        <p/>
+                     </c>
+                     <c ca="center">
+                        <p>BD</p>
+                     </c>
+                     <c ca="center">
+                        <p>CD13 (myeloid lineage)</p>
+                     </c>
+                     <c ca="center">
+                        <p>8 +/- 2.4 (0%)</p>
+                     </c>
+                     <c ca="center">
+                        <p>5.5 +/- 2.1 (0%)</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p><b>Endothelium</b></p>
+                     </c>
+                     <c ca="center">
+                        <p>BD</p>
+                     </c>
+                     <c ca="center">
+                        <p>CD31</p>
+                     </c>
+                     <c ca="center">
+                        <p>5.9 +/- 2.2 (0%)</p>
+                     </c>
+                     <c ca="center">
+                        <p>6.1 +/- 3.1 (0%)</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p><b>Fibroblast</b></p>
+                     </c>
+                     <c ca="center">
+                        <p>BD</p>
+                     </c>
+                     <c ca="center">
+                        <p>CD104a</p>
+                     </c>
+                     <c ca="center">
+                        <p>4.7 +/- 1.1 (0%)</p>
+                     </c>
+                     <c ca="center">
+                        <p>5.1 +/- 2.4 (0%)</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c>
+                        <p/>
+                     </c>
+                     <c ca="center">
+                        <p>BD</p>
+                     </c>
+                     <c ca="center">
+                        <p>CD104b</p>
+                     </c>
+                     <c ca="center">
+                        <p>6.2 +/- 2.4 (0%)</p>
+                     </c>
+                     <c ca="center">
+                        <p>7.3 +/- 3.2 (0%)</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p><b>Chemokine</b></p>
+                     </c>
+                     <c ca="center">
+                        <p>BD</p>
+                     </c>
+                     <c ca="center">
+                        <p>CXCR4</p>
+                     </c>
+                     <c ca="center">
+                        <p>1236.2 +/- 362.2 (92.1 +/5.8%)</p>
+                     </c>
+                     <c ca="center">
+                        <p>1422.1 +/- 303.2 (86.1 +/- 8.3%)</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c>
+                        <p/>
+                     </c>
+                     <c ca="center">
+                        <p>BD</p>
+                     </c>
+                     <c ca="center">
+                        <p>CXCR3</p>
+                     </c>
+                     <c ca="center">
+                        <p>7.2 +/- 3.3 (0%)</p>
+                     </c>
+                     <c ca="center">
+                        <p>6.2 +/- 2.7 (0%)</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c>
+                        <p/>
+                     </c>
+                     <c ca="center">
+                        <p>BD</p>
+                     </c>
+                     <c ca="center">
+                        <p>CCR5</p>
+                     </c>
+                     <c ca="center">
+                        <p>8.2 +/- 3.2 (0%)</p>
+                     </c>
+                     <c ca="center">
+                        <p>7.1 +/- 2.7 (0%)</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p><b>Stem cell</b></p>
+                     </c>
+                     <c ca="center">
+                        <p>BD, CH</p>
+                     </c>
+                     <c ca="center">
+                        <p>SSEA-1</p>
+                     </c>
+                     <c ca="center">
+                        <p>93 +/- 5.5 (35.2 +/- 5.2%)</p>
+                     </c>
+                     <c ca="center">
+                        <p>5.4 2 +/-0.5 (5.4 +/- 1.6%)**</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c>
+                        <p/>
+                     </c>
+                     <c ca="center">
+                        <p>BD, CH</p>
+                     </c>
+                     <c ca="center">
+                        <p>SSEA-4</p>
+                     </c>
+                     <c ca="center">
+                        <p>206.7 +/63 (41.5+/-6.9%)</p>
+                     </c>
+                     <c ca="center">
+                        <p>5.39 +/- 0.7(0%)**</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c>
+                        <p/>
+                     </c>
+                     <c ca="center">
+                        <p>BD</p>
+                     </c>
+                     <c ca="center">
+                        <p>CD34</p>
+                     </c>
+                     <c ca="center">
+                        <p>6.1 +/- 2.8 (0%)</p>
+                     </c>
+                     <c ca="center">
+                        <p>7.2 +/- 3.4 (0%)</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c>
+                        <p/>
+                     </c>
+                     <c ca="center">
+                        <p>SCT</p>
+                     </c>
+                     <c ca="center">
+                        <p>ABCG2</p>
+                     </c>
+                     <c ca="center">
+                        <p>670.9 +/- 38.7 (84.9 +/- 5.4%)</p>
+                     </c>
+                     <c ca="center">
+                        <p>127.3 +/- 35.4 (31.5 +/- 5.7%)**</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c>
+                        <p/>
+                     </c>
+                     <c ca="center">
+                        <p>MIL, BD</p>
+                     </c>
+                     <c ca="center">
+                        <p>CD133</p>
+                     </c>
+                     <c ca="center">
+                        <p>688.8 +/- 63 (95.1+/- 2%)</p>
+                     </c>
+                     <c ca="center">
+                        <p>127.8 +/- 7.4 (39.2 +/- 7.8%)**</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c>
+                        <p/>
+                     </c>
+                     <c ca="center">
+                        <p>BD</p>
+                     </c>
+                     <c ca="center">
+                        <p>CD105</p>
+                     </c>
+                     <c ca="center">
+                        <p>1892 +/- 49 (93&amp; +/- 22)</p>
+                     </c>
+                     <c ca="center">
+                        <p>855 +/- 34 (86 +/- 14%)*</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c>
+                        <p/>
+                     </c>
+                     <c ca="center">
+                        <p>BD</p>
+                     </c>
+                     <c ca="center">
+                        <p>CD90</p>
+                     </c>
+                     <c ca="center">
+                        <p>1568 +/- 42 (96% +/- 54)</p>
+                     </c>
+                     <c ca="center">
+                        <p>544 +/- 22 (74 +/-11)**</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c>
+                        <p/>
+                     </c>
+                     <c ca="center">
+                        <p>BD</p>
+                     </c>
+                     <c ca="center">
+                        <p>CD29</p>
+                     </c>
+                     <c ca="center">
+                        <p>446 +/- 22 (85% +/-16%)</p>
+                     </c>
+                     <c ca="center">
+                        <p>349 +/- 56 (61 +/- 22%)</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p><b>Human Leukocyte Antigens</b></p>
+                     </c>
+                     <c ca="center">
+                        <p>BD</p>
+                     </c>
+                     <c ca="center">
+                        <p>MHC Class-1 (human)</p>
+                     </c>
+                     <c ca="center">
+                        <p>38.6 +/- 8 (35+/- 6.2%)</p>
+                     </c>
+                     <c ca="center">
+                        <p>59.5 +/-10 (59.4+/- 7.2%)</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c>
+                        <p/>
+                     </c>
+                     <c ca="center">
+                        <p>BD</p>
+                     </c>
+                     <c ca="center">
+                        <p>MHC Class II</p>
+                     </c>
+                     <c ca="center">
+                        <p>11.3 +/- 3.79 (0%)</p>
+                     </c>
+                     <c ca="center">
+                        <p>12.2 +/- 3.7 (0%)</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p><b>Neuronal Markers</b></p>
+                     </c>
+                     <c ca="center">
+                        <p>CH</p>
+                     </c>
+                     <c ca="center">
+                        <p>Nestin</p>
+                     </c>
+                     <c ca="center">
+                        <p>11.3 +/- 3.9 (0%)</p>
+                     </c>
+                     <c ca="center">
+                        <p>143.7 +/- 42 (23.1 +/- 4.4%)*</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c>
+                        <p/>
+                     </c>
+                     <c ca="center">
+                        <p>CH</p>
+                     </c>
+                     <c ca="center">
+                        <p>Map-1B</p>
+                     </c>
+                     <c ca="center">
+                        <p>11.3 +/- 3.9 (0%)</p>
+                     </c>
+                     <c ca="center">
+                        <p>139.3 +/- 44. 2(16+/- 2.9%)*</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c>
+                        <p/>
+                     </c>
+                     <c ca="center">
+                        <p>CH, DAKO</p>
+                     </c>
+                     <c ca="center">
+                        <p>GFAP</p>
+                     </c>
+                     <c ca="center">
+                        <p>4.2 +/- 1.6 (0%)</p>
+                     </c>
+                     <c ca="center">
+                        <p>7.4 +/- 1.7 (0%)</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c>
+                        <p/>
+                     </c>
+                     <c ca="center">
+                        <p>CH</p>
+                     </c>
+                     <c ca="center">
+                        <p>Tuj1</p>
+                     </c>
+                     <c ca="center">
+                        <p>2.6 +/- 1.1 (0%)</p>
+                     </c>
+                     <c ca="center">
+                        <p>18.5 +/- 2.4 (3.4+/- 1.6%)</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c>
+                        <p/>
+                     </c>
+                     <c ca="center">
+                        <p>CH, CST</p>
+                     </c>
+                     <c ca="center">
+                        <p>TH</p>
+                     </c>
+                     <c ca="center">
+                        <p>2.7 +/- 0.8(0%)</p>
+                     </c>
+                     <c ca="center">
+                        <p>6.2 +/- 2.4 (2.1+/- 0.5%)</p>
+                     </c>
+                  </r>
+               </tblbdy>
+               <tblfn>
+                  <p>Immunocytochemistry was used to examine expression of hematopoietic-, fibroblast-, embryonic- or progenitor cell-associated cluster of differentiation (CD) antigens or markers indicative of neural lineage selection. Staining was evaluated by quantitative flow cytometry using well-defined antibodies. This table shows the occurrence of positive cells (% of cells positive) and relative fluorescent intensity (RFI) of freshly isolated cells before and after RA priming. Statistically significant comparisons for markers include those that decreased (*<it>P </it>&lt; 0.0.001) and increased (**<it>P </it>&lt; 0.05) between isolation and 24 hours post priming. MHC, major histocompatibility complex; CXCR4, CXC chemokine Receptor-4; MAP-1&#946;, microtubule associated protein-1; Tuj1, neuron specific class III &#946;-tubulin; TH, tyrosine hydroxylase; SSEA-4, stage specific embryonic antigen; GFAP, glial fibrillary acidic protein. Reagent sources Becton Dickenson, BD; Chemicon, CH; Stem Cell Technologies, SCT; Cell Signaling Technologies, CST; Miltenyi, MIL.</p>
+               </tblfn>
+            </tbl>
+            <p>Phagocytic capacity of elutriated cells was evaluated using uptake of fluorescent beads as described previously <abbrgrp><abbr bid="B24">24</abbr></abbrgrp>. Selected elutriation fractions of cells were exposed to 3.5 &#956;g/ml lipopolysaccharide (LPS) (Sigma Aldrich), or 4 ug/ml phytohemagglutinin-M (PHAM), and supernatants were evaluated for cytokine production. The BD Biosciences TH1/TH2 flow cyometric cytokine bead array kit was used to measure IL-2, IL-4, IL-5, IL-10, TNF and IFN-&#947; protein levels produced by elutriated cells pre- and post RA priming as well as post exposure to LPS or PHAM as described by the manufacturer.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Induction of neuronal markers</p>
+            </st>
+            <p>Mononuclear cells (MNC) isolated from 10 blood donors were subjected to counter-current centrifugal elutriation and a 4- to 6-&#956;m cell fraction was collected by elutriation followed by fluorescence activated cell sorting (FACS) based on co-expression of CXCR4 and CD133, CD133 and ABCG2, or CD133 and ABCG2 and SSEA-4. MSC were primed for induction of neural lineage markers by culture in DMEM-LG supplemented with 10% human AB serum, 10<sup>-3 </sup>M &#946;-mercaptoethanol (&#946;-ME) (Sigma); 5 &#215; 10<sup>-7 </sup>M all-<it>trans</it>-retinoic acid (RA) (Sigma) for 24 hours <abbrgrp><abbr bid="B25">25</abbr><abbr bid="B26">26</abbr><abbr bid="B27">27</abbr><abbr bid="B28">28</abbr></abbrgrp>. Viability of cells was determined using a Molecular Probes LIVE/DEAD Viability/Cytotoxicity Kit (Invitrogen, San Jose, CA, USA). Cells were then cultured in neural differentiation media (NDM) which was composed of neurobasal medium (Invitrogen, Carlsbad, CA, USA) with addition of 2 mM L-glutamine, B-27 supplement (Invitrogen), 25 ng/ml FGF2, 10 ng/ml epidermal growth factor (EGF), and 10% autologous or human AB serum.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Immunocytochemistry</p>
+            </st>
+            <p>Neural marker expression was examined using immunostaining followed with evaluation by flow cytometry and/or fluorescent microscopy. Neural markers that were used to evaluate potential for neural marker expression for selected subpopulations of the MSC included microtubule associated protein-1 &#946; (MAP-1&#946;), nestin, tyrosine hydroxylase (TH), type III beta-tubulin (Tuj1), neuronal specific nuclear protein (NEUN), glial fibrillary acidic protein <b>(</b>GFAP<b>)</b>, choline acetyltransferase (CHAT) enzyme and galactocerebroside (GalC) using antibodies described below. Nestin was chosen because it is expressed during neuronal development but is also expressed in non-neural stem cell populations. MAP-1&#946;, although not restricted in expression to neuronal cells, is present at high levels in the embryonic and newborn rat brain and is an early neuronal microtubule-associated protein that is involved in microtubule assembly. TH is a 56 to 60 kD structural protein that is expressed in the neurons of the peripheral nervous system (PNS) and CNS, but is also expressed by non-neuronal tissues. Tuj1 contributes to microtubule stability in neuronal cell bodies and axons, and plays a role in axonal transport. Antibodies against NEUN specifically recognize the DNA-binding, neuron-specific protein, NEUN, which is present in most CNS and PNS neuronal cell types of most vertebrates. GFAP is an intermediate filament protein that is thought to be specific for astrocytes in the CNS, and expression of this protein distinguishes astrocytes from other glial cells. The neurotransmitter, acetylcholine, is synthesized from choline and acetyl-coA by the CHAT enzyme, making CHAT a specific marker of cholinergic neurons. The regulation of CHAT activity is thought to be important during the development of nervous systems interactions. GalC is a specific cell-surface antigenic marker for oligodendrocytes and Schwann cells. GalC is also a major galactosphingolipid of myelin, which plays a role in myelination.</p>
+            <p>Preparations for imaging were mounted in Slow Fade GOLD with 4',6-diamidino-2-phenylindole (DAPI) (Molecular Probes, Eugene, OR, USA) and observed using an LSM 510 Meta advanced laser scanning confocal microscope (Zeiss, Thornwood, NY, USA). Fluorescent microscopy was done using a Zeiss Axioscope Fluorescent microscope or a Nikon T300 Inverted Fluorescent microscope (Nikon Inc, Melville, NY, USA.). For brain sections, all positive cells on a slide were counted. Three replicate evaluations of cell counts for stained slides were performed and averaged, and then counts were later checked by a second observer.</p>
+            <p>In a subset of experiments cells were stained to identify expression of neuroprotective products after 7 days of cell culture. RA-primed or unprimed cells were stained for expression of chondroitin sulfate proteoglycan (CSPG), and brain derived neurotropic factor BDNF. For expression of CPSG by <it>in vitro </it>cultured MSCs, Alexa Fluor Anti-chondroitin sulfate (BD Pharmingen) was used. For identification of CSPG in brain sections anti-CPSG unlabeled human specific antibody (EMD Millipore, MA, USA) was used as described by the manufacturer. For identification of expression of BDNF in cultured cells or brain sections Anti-human Pro-BDNF (R &amp; D Systems, Minneapolis, Billerica, MN, USA) was used as described by the manufacturer. Secondary antibodies used for staining brain sections were conjugated to anti-mouse rhodamine.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Flow cytometry</p>
+            </st>
+            <p>For flow cytometry, cells were fixed with 2% (w/v) PF for 30 minutes at 37&#176;C, washed in PBS and then permeabilized in 1% BD permeabilizing solution (BD Biosciences) for 10 minutes with a final wash in tris buffered saline (TBS). Nonspecific binding was blocked by a 1-hour treatment in TBS plus 0.1% w/v Tween containing defatted milk powder (30 mg ml<sup>-1</sup>). Cells were incubated for 1 hour at 37&#176;C with one of the following primary antibodies (diluted in blocking buffer): nestin (EMD Milipore, 1:200 dilution), CHAT (EMD Milipore, 1:250 dilution), GalC (EMD Milipore, 1:200 dilution), GFAP (Dako, Glostrup, Denmark, 1:500 dilution), TH (Cell Signaling Technologies, Danvers, MA, USA and EMD Milipore, 1:200 dilution), Tuj1 (Eurogentec, Southampton, Hampshire, UK, 1:1,500 dilution), MAP-1 &#946; (EMD Milipore, 1:200 dilution) and SSEA-4 (EMD Milipore, 1:300 dilution). After three washes in TBS, cells were incubated in secondary antibodies conjugated to FITC, rhodamine, or Cy5 anti-mouse, anti-rat, or anti-rabbit IgGs (1:500 dilution) for 1 hour at 37&#176;C, washed then stored at 4&#176;C until analyzed. Use of isotype-matched controls and omission of primary antibodies served as negative controls and resulted in less than 2% background staining for flow cytometry analysis of samples.</p>
+            <p>Positive cells identified by expression of each marker, or set of markers, were sorted using flow cytometry, and cytospins of positively sorted cells were made and examined using fluorescent and confocal microscopy as described above. To validate our immunostaining for flow cytometric analysis we examined location of staining or presence of appropriate staining patterns (intracellular, nuclear or extracellular) of the cells on the cytospin slides. For some phenotype evaluations we compared manual counts of cytospin slides to the flow cytometric data to make sure that we were analyzing whole cells and not cell debris or damaged cells.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Immunoprecipitation</p>
+            </st>
+            <p>TH and nestin production was also shown by immunoprecipitation of these proteins followed by gel electrophoresis. CD133+ABCG2+CXCR4+ cells were incubated for 6 hours in 0.5 mCi of <sup>35</sup>S-methionine (GE Healthcare Biosciences)in 2 ml of methionine-free DMEM (MP Biomedicals, Irvine CA, USA) and then cells were lysed using 1% NP-40 in 50 mM Tris-HCL with 150 mM NaCl, pH 8, buffer. For immunoprecipitation of newly produced neuronal proteins 10 &#956;g of antibody was added to 50 &#956;l of <sup>35</sup>S methionine labeled and pre-cleared lysate and was incubated at 4&#176;C for 1 hour <abbrgrp><abbr bid="B29">29</abbr></abbrgrp>. After washing, 50 &#956;l of protein A slurry in pre-chilled lysis buffer was added and the sample was incubated for 1 hour at 4&#176;C. After the last wash, the sample supernatant was aspirated and 50 &#956;l of 1&#215; Laemmli sample buffer was added to each bead pellet. Samples were vortexed and heated to 90 to 100&#176;C for 10 minutes. Samples and MW standards with known concentrations were separated by electrophoresis. Autoradiography was used to evaluate protein bands.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Evaluation of micro-environmental cues on <it>in vitro </it>induction of neuronal markers</p>
+            </st>
+            <p>1 &#215; 10<sup>5 </sup>unprimed or RA-primed CD133+ABCG2+CXCR4+ MSC were FACS-sorted and placed in the bottom of a transwell plate with a 0.2 um filter; 1 &#215; 10<sup>6 </sup>cells from four different neuronal cell lines or from a bone marrow stromal cell line (lines purchased from American Type Culture Collection, ATCC, Manassas, VA, USA) were placed in the top chamber. Cell lines used included human astroglial cell line (SVG p12), rat astrocyte line (DITNC 1), human neuroblastoma line (SK-N-FI), human dopaminergic line (SK-N-MC), and a human bone marrow stromal cell line (HS-5). After 7 days of culture, the CD133+ABCG2+CXCR4+ MSC efficiency of neuronal lineage differentiation was evaluated by staining for expression of nestin, GFAP, CHAT, TH, Tuj1 or GALC with analysis by FACS. The cells that were positive for expression of nestin, GFAP, CHAT, TH, Tuj1, or GALC were sorted and examined using fluorescent microscopy. Cytospin preparations were performed as described by the manufacturer (Shandon, Pittsburg, PA, USA). In a subset of experiments (<it>n </it>= 8) in order to evaluate the antibodies chosen for neuronal marker analysis, MSC were cultured for 7 days, cytospins of cells were made, slides were fixed in 2% freshly made PF and were then stained for expression of neuronal markers.</p>
+            <p>To observe the influence of direct cell-to-cell interactions on differentiation, we placed 1 &#215; 10<sup>5 </sup>unprimed or RA-primed CD133+ABCG2+CXCR4+ MSC in co-culture with 1 &#215; 10<sup>6 </sup>carboxyfluorescein diacetate sucinimydyl ester (CFSE)-labeled cell lines listed above following manufacturer's instructions (Molecular Probes,). After 7 days of culture, efficiency of neuronal lineage differentiation was evaluated with analysis using flow cytometry by gating on the CFSE-negative MSC.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Examination of DNA ploidy and cell fusion</p>
+            </st>
+            <p>DNA content per cell was determined by FACS analysis after staining the cells with propidium iodide (PI). After co-culture, cells were fixed with 70% ethanol, at 4&#176;C for 16 hours. The cells were then stained with PI (400 ug ml-1; Sigma) just before FACS analysis. To ensure that our results were due to differentiation and not fusion of MSC with mature neurons, we analyzed the DNA content of unprimed and primed MSC before and after co-culture with mature neuronal cell lines. In all cases we did not see an increase in ploidy, suggesting that the majority of the cells were diploid and few cells were polyploid (&lt; 2%). We also did not see any signs of cell fusion in the cells (after staining with DAPI) in any of the co-culture experiments nor in confocal analysis of the cells after transplantation in the brains of uninjured or TBI rats.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>MSC migration capability</p>
+            </st>
+            <p>To examine migration functionality of CXCR4 on the CD133+ABCG2+ MSC subpopulation, migration capability of these cells and the unsorted CXCR4 subpopulation was examined in response to SDF-1. For these experiments 1 &#215; 10<sup>5 </sup>elutriated but unsorted MSC, unprimed, or RA-primed CD133+ABCG2+CXCR4+ MSC were isolated from 10 blood donors. Cells were untreated, pretreated with 5 &#956;g/ml of dexamethasone, or treated with a CXCR4 blocking antibody (Clone 44708, 10 &#956;g/ml, R &amp; D systems or BD) and were placed in serum-free neural basal medium without growth factors in the top chamber of a Transwell plate (Corning Life Sciences, Lowell, MA, USA) with a 5 &#956;m pore-sized filter. A time course of migration was done in order to determine that the optimal incubation time for this assay was four hours. Lower chambers of the transwell were filled with neural basal medium containing SDF-1 (200 ng/ml), homogenates made from uninjured rat brains, TBI brain homogenate, or medium alone. Plates were incubated at 37&#176;C, 95% humidity and 5% CO<sub>2 </sub>for 4 hours then cells from both chambers were collected and counted using a Multisizer 3 coulter counter (Beckman-Coulter). Results are presented as an average chemotactic index (the ratio of cells moving towards SDF-1 to the number of cells moving towards media alone) for cells isolated from 10 blood donors.</p>
+            <p><b>Fluid percussion injury</b></p>
+            <p>Animal procedures and surgeries were approved by the Institutional Animal Care and Use Committee of the University of Texas Medical Branch at Galveston and were performed under aseptic conditions in compliance with NIH Guide for Care and Use of Laboratory Animals. Non-immune-suppressed, adult, male Sprague-Dawley rats weighing 350 to 400 grams were anesthetized with isoflurane in an anesthetic chamber, intubated, and mechanically ventilated with 1.5 to 2.0% isoflurane in O<sub>2</sub>:room air (70:30) using a volume ventilator (EDCO Scientific, Chapel Hill, NC, USA). Rats were anesthetized and prepared for parasagittal fluid-percussion TBI as previously described <abbrgrp><abbr bid="B30">30</abbr><abbr bid="B31">31</abbr><abbr bid="B32">32</abbr></abbrgrp>. Briefly, rats were placed in a stereotaxic frame and the scalp was sagittally incised. A 4.0 mm-diameter hole was trephined into the skull 2.0 mm to the right of the midsagittal suture and midway between the lambda and bregma. A modified Luerlok syringe hub was placed over the exposed dura, bonded in place with cyanoacrylic adhesive and covered with dental acrylic. Rats were connected to the trauma device, anesthesia was shut off and animals were subjected to moderate (2.0 &#177; 0.1 atm) injury. After TBI rats were disconnected from the fluid percussion device and righting reflex was assessed every 60 seconds until a normal righting reflex was observed. Rats were then again placed on 1.5% isoflurane, wound sites were treated with a topical antibiotic, infused with bupivicaine and sutured. Isoflurane was discontinued and the rats were extubated and allowed to recover in a warm, humidified incubator.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Preparation of MSC for transplantation</p>
+            </st>
+            <p>CD133+ABCG2+CXCR4+ MSC were primed with RA for 24 hours before transplantation. Immediately prior to transplantation, unprimed or RA-primed CD133+ABCG2+CXCR4+ MSC were labeled with CFSE to allow for tracking of cells and estimation of MSC proliferation as described previously <abbrgrp><abbr bid="B33">33</abbr></abbrgrp>. CFSE allows for tracking of stem cells after <it>in vivo </it>administration; 5-bromo-2-deoxyuridine (BRDU) was not used to label cells since BRDU has been shown to induce senescence <abbrgrp><abbr bid="B34">34</abbr></abbrgrp> or be selectively toxic to MSC <abbrgrp><abbr bid="B35">35</abbr></abbrgrp>. In a subset of experiments non-CFSE-tagged MSC were transplanted into rats used to evaluate induction of apoptosis following injury.</p>
+            <p>One day post-TBI, all animals were anesthetized with isoflurane. We used 15% Pluronic F-127 (PF-127) in DMEM as a vehicle to aid transplantation of 5 &#215; 10<sup>5 </sup>CFSE-labeled, unprimed or RA-primed CD133+ABCG2+CXCR4+ MSC, which were injected into the lateral ventricle using a 5-&#956;l Hamilton syringe with a 26-gauge needle. Sham-injured animals underwent needle insertion and injection of PF-127 vehicle alone, or received 5 &#215; 10<sup>5 </sup>CFSE-labeled, unprimed or RA-primed CD133+ABCG2+CXCR4+ MSC, into the lateral ventricle. Animals were observed for any signs of rejection or infection until sacrificed.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Morris water maze</p>
+            </st>
+            <p>The procedures for assessing spatial memory performance using the Morris Water Maze (MWM) are described in detail elsewhere <abbrgrp><abbr bid="B36">36</abbr></abbrgrp>. Briefly, the MWM is a black tank (180 cm diameter, 28 cm depth) filled with water. A clear, Plexiglas platform was hidden beneath the surface of the water. When released, the animal swims around the pool in search of a platform. The earliest and classic measure of learning in the MWM is latency, which is the time it takes for an animal to find the platform. Beginning on post-injury day 11 (PID 11), rats were tested with four trials per day for five days. For each trial, the rat was placed in the tank facing the wall and was allowed to swim for up to 120 sec to find the hidden platform. If the rat failed to find the platform after 120 sec, it was placed on the platform by the experimenter. All rats were allowed to remain on the platform for 30 sec before being placed in a heated incubator for a four-minute rest period between trials. For the next three trials, the procedures were the same except that the rat was placed in a different quadrant of the pool. The location of the platform remained the same. After the last trial on PID 11, the platform was extended to be visible above the surface of the water. The visible platform task serves as a control for potential non-specific deficits in visual and motor function. Finally, after the last trial on the last testing day (PID 15), a single probe trial was performed. The platform was removed and the percent time in the platform quadrant was measured. Swim speed, time to find the platform and other variables were measured using a video tracking system. Normal rats will swim to the target quadrant of the pool, which is considered a good test, and TBI rats do poorly in this test and do not swim to the target quadrant. Following MWM testing animals were sacrificed, and their brains were removed and prepared for assessment of stem cell migration, differentiation and induction of apoptosis.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Histological evaluation</p>
+            </st>
+            <p>Animals were anesthetized and sacrificed at 2 days, one month or three months after the administration of moderate TBI, as described in Table <tblr tid="T2">2</tblr>, using standard guillotine techniques. Brains were removed and fixed in 4% PF for 12 hours, embedded in paraffin or were frozen for later histological examination. Intact brains were cut in half and were then frozen in tissue freezing medium (Triangle Biomedical Sciences, Durham, NC, USA) prior to being serially sectioned on a Microm cryomicrotome (Thermo Scientific, Walsdorf, Germany). For determinations of transplanted cell survival each slide was scored by counting the total number of CFSE-positive cells in serial sections of brains from either uninjured or TBI rats that had received CFSE-labeled RA-primed or unprimed CD133+ABCG2+CXCR4+ MSC. CFSE-positive cells (green) were counted under 400&#215; magnification. Sections from uninjured or TBI rat brains that contained CFSE-positive cells were also stained for expression of Tuj1 or NEUN. All Tuj1- and NEUN-positive cells (red) were also counted on each slide under 400&#215; magnification. Three replicate measurements of slides were performed by the same observer for each slide. All slides were counted without knowledge of the neuronal or cell-specific marker being examined, and results were confirmed through a second reading by another person. The inter-observer agreement percentage for these cell counts was calculated and recorded.</p>
+            <tbl id="T2" hint_layout="landscape">
+               <title>
+                  <p>Table 2</p>
+               </title>
+               <caption>
+                  <p>Experimental groups</p>
+               </caption>
+               <tblbdy cols="6">
+                  <r>
+                     <c ca="left">
+                        <p><b>Group</b></p>
+                     </c>
+                     <c ca="center">
+                        <p><b>Treatment</b></p>
+                     </c>
+                     <c ca="center">
+                        <p><b>Rats, number</b></p>
+                     </c>
+                     <c ca="center">
+                        <p><b>Morris water maze-tested, number</b></p>
+                     </c>
+                     <c ca="center">
+                        <p><b>Time of sacrifice (number)</b></p>
+                     </c>
+                     <c ca="center">
+                        <p><b>Histology, number of rats</b></p>
+                     </c>
+                  </r>
+                  <r>
+                     <c cspan="6">
+                        <hr/>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>Sham injury</p>
+                     </c>
+                     <c ca="center">
+                        <p>No mesenchymal stem cells (MSC)</p>
+                     </c>
+                     <c ca="center">
+                        <p>8</p>
+                     </c>
+                     <c ca="center">
+                        <p>8</p>
+                     </c>
+                     <c ca="center">
+                        <p>1 month (4)</p>
+                     </c>
+                     <c ca="center">
+                        <p>8</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c>
+                        <p/>
+                     </c>
+                     <c>
+                        <p/>
+                     </c>
+                     <c>
+                        <p/>
+                     </c>
+                     <c>
+                        <p/>
+                     </c>
+                     <c ca="center">
+                        <p>3 months (4)</p>
+                     </c>
+                     <c>
+                        <p/>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>Sham Injury</p>
+                     </c>
+                     <c ca="center">
+                        <p>Primed MSC</p>
+                     </c>
+                     <c ca="center">
+                        <p>4</p>
+                     </c>
+                     <c ca="center">
+                        <p>Not tested</p>
+                     </c>
+                     <c ca="center">
+                        <p>2 days (4)</p>
+                     </c>
+                     <c ca="center">
+                        <p>4</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>Traumatic brain injury (TBI)</p>
+                     </c>
+                     <c ca="center">
+                        <p>No MSC</p>
+                     </c>
+                     <c ca="center">
+                        <p>8</p>
+                     </c>
+                     <c ca="center">
+                        <p>8</p>
+                     </c>
+                     <c ca="center">
+                        <p>1 month (4)</p>
+                     </c>
+                     <c ca="center">
+                        <p>8</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c>
+                        <p/>
+                     </c>
+                     <c>
+                        <p/>
+                     </c>
+                     <c>
+                        <p/>
+                     </c>
+                     <c>
+                        <p/>
+                     </c>
+                     <c ca="center">
+                        <p>3 months (4)</p>
+                     </c>
+                     <c>
+                        <p/>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>TBI</p>
+                     </c>
+                     <c ca="center">
+                        <p>No MSC</p>
+                     </c>
+                     <c ca="center">
+                        <p>4</p>
+                     </c>
+                     <c ca="center">
+                        <p>Not tested</p>
+                     </c>
+                     <c ca="center">
+                        <p>2 days (4)</p>
+                     </c>
+                     <c ca="center">
+                        <p>4</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>TBI</p>
+                     </c>
+                     <c ca="center">
+                        <p>Unprimed MSC</p>
+                     </c>
+                     <c ca="center">
+                        <p>8</p>
+                     </c>
+                     <c ca="center">
+                        <p>8</p>
+                     </c>
+                     <c ca="center">
+                        <p>1 month (4)</p>
+                     </c>
+                     <c ca="center">
+                        <p>8</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c>
+                        <p/>
+                     </c>
+                     <c>
+                        <p/>
+                     </c>
+                     <c>
+                        <p/>
+                     </c>
+                     <c>
+                        <p/>
+                     </c>
+                     <c ca="center">
+                        <p>3 months (4)</p>
+                     </c>
+                     <c>
+                        <p/>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>TBI</p>
+                     </c>
+                     <c ca="center">
+                        <p>Unprimed MSC</p>
+                     </c>
+                     <c ca="center">
+                        <p>4</p>
+                     </c>
+                     <c ca="center">
+                        <p>Not tested</p>
+                     </c>
+                     <c ca="center">
+                        <p>2 days (4)</p>
+                     </c>
+                     <c ca="center">
+                        <p>4</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>TBI</p>
+                     </c>
+                     <c ca="center">
+                        <p>Primed MSC</p>
+                     </c>
+                     <c ca="center">
+                        <p>8</p>
+                     </c>
+                     <c ca="center">
+                        <p>8</p>
+                     </c>
+                     <c ca="center">
+                        <p>1 month (4)</p>
+                     </c>
+                     <c ca="center">
+                        <p>8</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c>
+                        <p/>
+                     </c>
+                     <c>
+                        <p/>
+                     </c>
+                     <c>
+                        <p/>
+                     </c>
+                     <c>
+                        <p/>
+                     </c>
+                     <c ca="center">
+                        <p>3 months (4)</p>
+                     </c>
+                     <c>
+                        <p/>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>TBI</p>
+                     </c>
+                     <c ca="center">
+                        <p>Primed MSC</p>
+                     </c>
+                     <c ca="center">
+                        <p>4</p>
+                     </c>
+                     <c ca="center">
+                        <p>Not tested</p>
+                     </c>
+                     <c ca="center">
+                        <p>2 days (4)</p>
+                     </c>
+                     <c ca="center">
+                        <p>4</p>
+                     </c>
+                  </r>
+               </tblbdy>
+               <tblfn>
+                  <p>A total of 48 male Sprague-Dawley rats were randomly divided into injury or treatment groups; 12 rats were sham-injured and of these animals, 8 received no stem cell treatment and 4 received RA-primed MSC: 36 rats were subjected to moderate TBI and of these animals 12 were untreated, 12 were treated with unprimed MSC and 12 were treated with RA-primed MSC. Eight animals were randomly selected from each of these groups (sham injury, TBI, TBI with unprimed MSC, TBI treated with primed MSC) for Morris water maze (MWM) evaluation and 4 rats from this and other groups were euthanized for histological evaluations alone.</p>
+               </tblfn>
+            </tbl>
+            <p>Apoptosis was measured in sections of brains from sham, TBI and TBI plus MSC-treated animals one month following injury. Apoptosis was determined by quantitation of DNA strand breaks using the terminal deoxynucleotidyl transferase dUTP nick end labeling (TUNEL) method for detecting DNA fragmentation (In Situ Cell Death Kit; Boehringer Mannheim) as described in the manufacturer's instructions. Frozen sections (5 to 7 &#956;m) were examined for cell migration, survival and engraftment or were stained to evaluate expression of GFAP, TH, CHAT, GalC, Tuj1 and CXCR4 and human major histocompatibility molecule (MHC) class I or MHC class II (MHC II). Brain sections were also stained for the production of SDF-1 or the neuroprotective factors chondroitin sulfate proteoglycans (CSPGs) and BDNF.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Statistical analysis</p>
+            </st>
+            <p>For cell phenotype analysis in Table <tblr tid="T1">1</tblr>, 10,000 cells were collected for each flow cytometry sample examined (RA-primed or unprimed). For all other data comparisons the paired samples <it>t-</it>test was used to compare means for 10 blood donors. Statistical analyses for these data were performed using GraphPad InSTAT software (version 2003). Mean values and SD are reported. Mean differences in the values were considered significant when <it>P </it>was &lt; 0.05. MWM latency data were analyzed using analysis of variance for a two-factor experiment with repeated measures on time. The two factors were treatment group (4 groups) and day (5 days). Data analysis was carried out using PROC MIXED, the SAS<sup>&#174; </sup>system, release 9.1 <abbrgrp><abbr bid="B37">37</abbr></abbrgrp>, with the first order autoregressive option for covariance structure. The main effects and the interaction were tested at the 0.05 experimental-wise error rate. Multiple comparisons were conducted using Fisher's least significant difference procedure with Bonferroni adjustment for the number of comparisons.</p>
+         </sec>
+      </sec>
+      <sec>
+         <st>
+            <p>Results</p>
+         </st>
+         <p>MSC in human PB were identified by isolating small cell fractions of human MNC using counter-current centrifugal elutriation. Characterization of a 4 to 6 &#956;m-sized elutriation fraction showed that these cells were CD105+CD90+CD29+ MSC. Subpopulations of cells were found that coexpressed CD133, ABCG2, SSEA-4 and CXCR4 (Table <tblr tid="T1">1</tblr>). Evaluation of the cells immediately after isolation and at 24 hours post RA priming using flow cytometry suggested that they were not of leukocyte, fibroblast, endothelial or hematopoietic stem cell lineages (Table <tblr tid="T1">1</tblr>). The cells were Lin-1- and CD14-negative and were not capable of phagocytosis or cytokine production prior to or after priming, or after stimulation with LPS or PHAM, which was not true for other elutriation fractions containing leukocytes isolated from the same donor (data not shown). These PB-derived MSC continued to express CXCR4 24 hours after priming, expressed low levels of human major histocompatibility complex class I (MHC I), human leukocyte antigen (HLA) A, B and C, and were negative for MHC class II (DR, DQ, DP) (Table I).</p>
+         <p>Freshly elutriated cells did not express any neuronal lineage markers at the time of isolation (Table <tblr tid="T1">1</tblr>). While expression of CXCR4 remained relatively unchanged 24 hours after priming, expression of CD133, ABCG2 and SSEA-4 on MSC were significantly reduced (Table <tblr tid="T1">1</tblr>). An example of a sort gate used for isolation of CXCR4+CD133+ABCG2+ subpopulations is shown in Figure <figr fid="F1">1A</figr>. After elutriation, the cells were round and uniform in shape (Figure <figr fid="F1">1B</figr>). Twenty-four hours after RA priming in culture, the cells were strongly adherent to plastic and were spindle shaped with numerous cell processes (Figure <figr fid="F1">1C</figr>). The CD133+ABCG2+CXCR4+ MSC subpopulation, which was isolated from nonmobilized human PB, formed neurospheres (data not shown).</p>
+         <fig id="F1">
+            <title>
+               <p>Figure 1</p>
+            </title>
+            <caption>
+               <p>Isolation of mesenchymal stem cells (MSC) and subpopulations</p>
+            </caption>
+            <text>
+               <p><b>Isolation of mesenchymal stem cells (MSC) and subpopulations</b>. (A) Representative dot plot for the sorting gate used in collection of CD133+ABCG2+CXCR4+ MSC. (B) Phase contrast micrograph of freshly isolated CD133+ABCG2+CXCR4+ MSC prior to, as well as (C) 24 hours post <it>trans</it>-retinoic acid (RA) priming. (D-F) A representative set of histograms showing flow cytometry evaluation of nestin and microtubule associated protein (MAP)-1&#946; expression by unprimed or RA-primed CD133+ABCG2+CXCR4+ MSC from one donor; 10,000 cells were collected for each flow cytometry sample. (G-I) Representative confocal images of CD133+ABCG2+CXCR4+ MSC showing expression of nestin and MAP-1&#946; at 24 hours. (G) Unprimed MSC. (H and I) RA-primed MSC; (H) sample stained for expression of CXCR4 (red) and nestin (green); (I) cells showing expression of CXCR4 (red) and MAP-1&#946; (green). (G) H and I staining control. (J) MSC subpopulations were elutriated or sorted by fluorescence-activated cell sorting (FACS) based on co-expression of CD133 and CXCR4, CD133 and ABCG2 and CXCR4, or CD133 and ABCG2 and SSEA-4 and CXCR4. Data are for MSC subpopulations isolated from 10 blood donors. Results represent the average +/- SD. Statistically significant comparisons (*<it>P </it>&lt; 0.05, **<it>P </it>&lt; 0.005) for nestin and tyrosine hydroxylase (TH) production for elutriated but unsorted cells compared to each subpopulation of FACS-sorted MSC are shown.</p>
+            </text>
+            <graphic file="scrt151-1"/>
+         </fig>
+         <p>Representative flow cytometry histograms showing staining controls (Figure <figr fid="F1">1D</figr>), expression of nestin (Figure <figr fid="F1">1E</figr>) and MAP-1&#946; (Figure <figr fid="F1">1F</figr>) pre- and post RA priming as well as confocal images of purified control, nestin or MAP-1&#946;-positive subpopulations (Figure <figr fid="F1">1G-I</figr>) are shown. RA-primed MSC expressed nestin (Table <tblr tid="T1">1</tblr>, Figure <figr fid="F1">1E</figr> and <figr fid="F1">1H</figr>) and MAP-1&#946; (Table <tblr tid="T1">1</tblr>, Figure <figr fid="F1">1F</figr> and <figr fid="F1">1II</figr>) after 24 hours of culture, while unprimed cells remained undifferentiated. Both the nestin-positive and MAP-1&#946; subpopulations continued to express CXCR4 24 hours post priming. We also examined nestin production at 24 hours and TH production at 7 days in primed subpopulations of unsorted MSC or subpopulations that were isolated based on co-expression of CD133, CD133 &amp; ABCG2 or CD133 &amp; ABCG2 &amp; SSEA-4 combined with expression of CXCR4 (Figure <figr fid="F1">1J</figr>). The highest efficiency of nestin and TH production was in a CD133+ABCG2+SSEA-4+CXCR4+ subpopulation (Figure <figr fid="F1">1J</figr>). The average number of CD133+ABCG2+SSEA-4+CXCR4+ MSC isolated from 10 donors was 0.59 per ul of PB and ranged from 12,339 to 32,667 cells isolated per unit of PB (450 ml). Although the CD133+ABCG2+SSEA-4+CXCR4+ MSC subpopulation was induced to express neuronal markers more efficiently, fewer cells with this phenotype could be consistently isolated, making this population a less favorable candidate for use in our <it>in vivo </it>transplantation studies (Figure <figr fid="F2">2A</figr>). Since our goal was to evaluate the capability of selected subpopulations of CD133+ MSC to differentiate into neural lineages <it>in vitro </it>and <it>in vivo</it>, our experiments were done using a CD133+ABCG2+CXCR4+ MSC subpopulation.</p>
+         <fig id="F2">
+            <title>
+               <p>Figure 2</p>
+            </title>
+            <caption>
+               <p>MSC subpopulation isolation and induction of neural markers</p>
+            </caption>
+            <text>
+               <p><b>MSC subpopulation isolation and induction of neural markers</b>. (A) Number of cells per &#956;l isolated from peripheral blood (PB) for the CD133 and CXCR4, CD133 and ABCG2 and CXCR4, or CD133 and ABCG2 and SSEA-4 and CXCR4 subpopulations. Data are from 10 PB donors. Results represent the average +/- SD. Statistically significant comparisons (*<it>P </it>&lt; 0.05, **<it>P </it>&lt; 0.005) for the CD133 and CXCR4, or CD133 and ABCG2 and CXCR4 or CD133 and ABCG2 and SSEA-4 and CXCR4 subpopulations. (B) Representative histograms showing evaluation of CXCR4+CD133+ ABCG2+ MSC differentiation for cells isolated from one donor, pre-priming as well as 24 hours or 7 days post-RA priming; (B) isotype staining control, (C) expression of nestin, (D) expression of TH: 10,000 cells were collected for each sample. (E) Immunoprecipitation of newly produced <sup>35</sup>S methionine-labeled nestin or tyrosine hydroxylase (Ty Hyd) from cells isolated from two donors (A and B); MW, molecular weight. (F) Evaluation of viability of primed or unprimed MSC isolated from 10 donors after 24 hours, 3 days (D3), or 7 (D7) days of culture.</p>
+            </text>
+            <graphic file="scrt151-2"/>
+         </fig>
+         <p>CD133+ABCG2+CXCR4+ MSC isolated from most donors expressed nestin by 24 hours and TH by 7 days (Figure <figr fid="F2">2C</figr> and <figr fid="F2">2D</figr>) although there were occasionally differences in the kinetics of expression of these proteins in cells isolated from different donors (Figure <figr fid="F2">2E</figr>). Examination of viability of unprimed and RA-primed CD133+ABCG2+CXCR4+ MSC indicated that similar levels of cell death occurred over 7 days of culture (Figure <figr fid="F2">2F</figr>). To determine the range of neural markers induced after 7 days of <it>in vitro </it>culture of CD133+ABCG2+CXCR4+ MSC in neural differentiation media, staining was performed to evaluate nestin (Figure <figr fid="F3">3A</figr>), GFAP (Figure <figr fid="F3">3B</figr>), TH and co-expression of Tuj1, nestin and NEUN (Figure <figr fid="F3">3C</figr>), Tuj1 (Figure <figr fid="F3">3D</figr>), CHAT (Figure <figr fid="F3">3E</figr>) and GalC (Figure <figr fid="F3">3F</figr>). Unprimed CD133+ABCG2+CXCR4+ MSC remained unchanged in morphology after 7 days of culture and did not express mature neuronal markers (Figure <figr fid="F3">3A-F</figr> and <figr fid="F3">3G</figr>). Primed CD133+ABCG2+ CXCR4+ MSC became extremely elongated and produced multiple cell processes (Figure <figr fid="F3">3A-D</figr>). After 7 days of culture, less than 3.5% of unprimed MSC spontaneously expressed mature neural markers, but RA-primed CD133+ABCG2+CXCR4+ MSC consistently showed increased TH (45.2 +/- 9.7%), Tuj1 (35.23 +/-7.9%) and NEUN (28.2 +/-.11.1%) (Figure <figr fid="F3">3G</figr>). Expression of GFAP was low in these experiments (4.88 +/- 2.4%) and was slightly higher than for unprimed MSC (3.49+/- 0.7%). CHAT and GalC expression were the same as background levels of the unprimed MSC subpopulation (&lt; 3%) (Figure <figr fid="F3">3E-G</figr>).</p>
+         <fig id="F3">
+            <title>
+               <p>Figure 3</p>
+            </title>
+            <caption>
+               <p>Induction of neural markers <it>in vitro</it></p>
+            </caption>
+            <text>
+               <p><b>Induction of neural markers <it>in vitro</it></b>. Representative confocal images of unprimed and <it>trans</it>-retinoic acid (RA)-primed fluorescence-activated cell sorting (FACS)-sorted CD133+ABCG2+CXCR4+ MSC showing expression of (A) nestin (red), (B) glial fibrillary acidic protein (GFAP) (green), (C) nestin (green), neuronal specific class III &#946;-tubulin (Tuj1) (red) and neuron specific nuclear protein (NEUN) (teal nuclei, white arrow), (D)Tuj1 (green). For RA-primed MSC anticholine acetyl transferase (CHAT) and galactocerebroside (GalC) levels were similar to unprimed MSC. Diamidino-2-phenylindole (DAPI) nuclear stain (blue) was used in all preparations. (G) Efficiency of neuronal lineage marker expression as evaluated by flow cytometry of RA-primed MSC (solid black bars) after 7 days of culture to evaluate nestin, GFAP, CHAT, Tuj1, TH, GalC and NEUN by CD133+ABCG2+CXCR4+ MSC isolated from 10 donors, and cultured in neural differentiation media. Results represent the average +/- SD. Statistically significant comparisons indicated by brackets (*<it>P </it>&lt; 0.05, **<it>P </it>&lt; 0.005).</p>
+            </text>
+            <graphic file="scrt151-3"/>
+         </fig>
+         <sec>
+            <st>
+               <p>Co-culture experiments</p>
+            </st>
+            <p>For co-culture experiments allowing direct cell to cell contact, neuronal cell lines were labeled with CFSE prior to addition to the culture of unlabeled, unprimed or RA-primed CD133+ABCG2+CXCR4+ MSC. Analysis was done by gating on the CFSE-negative CD133+ABCG2+CXCR4+ MSC population and sorting the MSC prior to staining for expression of mature neuronal markers. Flow cytometry analysis for a representative co-culture experiment allowing cell contact between RA-primed MSC and the CFSE-labeled rat astrocye cell line, DITNCI, is shown in Figure <figr fid="F4">4A</figr>. In this experiment TH was induced in 81.1% of the primed MSC after 7 days (Figure <figr fid="F4">4A</figr>) in the absence of cell fusion with pre-existing mature neuronal cells. Only 0.6% of primed CD133+ABCG2+CXCR4+ MSC were induced to express TH after co-culture with the bone marrow stromal line (HS-5) (Figure <figr fid="F4">4B</figr>). Isotype control staining was 2% +/- 0.92 or less for both cultures and is shown as the green plot overlay (Figure <figr fid="F4">4A</figr> and <figr fid="F4">4B</figr>). Direct contact co-culture with human astroglial (SVGp12) cells induced high levels of expression of TH as did co-culture with rat astrocyte (DITNC 1) cells and dopaminanergic (SK-N-MC) cells (Figure <figr fid="F4">4C</figr>), but induced lower levels of other neural markers (Figure <figr fid="F4">4C</figr>, top graph).</p>
+            <fig id="F4">
+               <title>
+                  <p>Figure 4</p>
+               </title>
+               <caption>
+                  <p>Microenvironmental cues and neuronal marker expression</p>
+               </caption>
+               <text>
+                  <p><b>Microenvironmental cues and neuronal marker expression</b>. (A) Flow cytometry histograms showing neuronal marker expression by <it>trans</it>-retinoic acid (RA)-primed CD133+ABCG2+CXCR4+ MSC after co-culture allowing direct cell to cell contact with the rat astrocyte cell line (DITNC1). (B) Co-culture of RA-primed CD133+ABCG2+CXCR4+ MSC allowing cell to cell contact with human bone marrow cell line (HS-5). Isotype staining control for each is shown as a green overlay histogram. Control levels for all samples were &#8804; 2% cells positive. (C) RA-primed CD133+ABCG2+CXCR4+ MSC were cultured allowing cell to cell contact (top graph) or no contact (bottom graph) with human astroglial (SVGp12), human neuroblastoma (SK-N-F1), rat astrocyte (DITNC1), human dopaminergic (SK-N-MC) cell line or, as a control, HS-5. Efficiency of neuronal marker expression after 7 days of culture for nestin, glial fibrillary acidic protein (GFA), anticholine acetyl transferase (CHAT), tyrosine hydroxylase (TH), type III beta tubulin (Tuj1) and galactocerebroside (GalC) production is shown. Results represent the average +/- SD for 10 donors. Statistically significant comparisons (*<it>P </it>&lt; 0.05, **<it>P </it>&lt; 0.005) are indicated for each marker compared to control cells, which were RA-primed but not cultured with any of the cell lines listed. Unprimed cells expressed &lt; 2% positive cells when cultured with mature neural cells for all of the mature neuronal markers evaluated.</p>
+               </text>
+               <graphic file="scrt151-4"/>
+            </fig>
+            <p>When CD133+ABCG2+CXCR4+ MSC were cultured in transwells that did not allow cell to cell contact the highest levels of neural marker induction also occurred when MSC were cultured with human astroglial (SVGp12) cells, which induced high levels of expression of TH as did co-culture with rat astrocyte (DITNC 1) or the neuroblastoma line (SK-N-FI) (Figure <figr fid="F4">4C</figr>, bottom graph). Differentiation efficiency of cells in transwell cultures was much lower than that of cells with direct contact. Neither unprimed CD133+ABCG2+CXCR4+ MSC nor RA-primed MSC cultured with the bone marrow stromal line HS-5 induced production of the neuronal markers when directly cultured with MSC or in transwell culture allowing no direct cell to cell contact (Figure <figr fid="F4">4C</figr>). To ensure that our results were due to differentiation, and not to fusion of CD133+ABCG2+CXCR4+ MSC with mature neurons we analyzed the DNA content of unprimed and RA-primed MSC before and after co-culture with mature neuronal cell lines. In all cases we did not see an increase in ploidy suggesting that the majority of the cells were diploid and few cells were polyploid (&lt; 2%). We also did not see any signs of cell fusion (after staining with DAPI) in any of the co-culture experiments, nor in confocal analysis of the cells after transplantation into the brains of uninjured or TBI rats.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Chemotaxis assay</p>
+            </st>
+            <p>Success of a cell therapy depends on sufficient recruitment of applied cells to the injury site or target tissue. Unprimed and RA-primed CD133+ABCG2+CXCR4+ MSC could be shown to migrate in response to SDF-1 in transwell migration assays (Figure <figr fid="F5">5A</figr>). Dexamethasone treatment of unprimed and RA-primed CD133+ABCG2+CXCR4+ MSC reduced CXCR4 expression and subsequent migration of these cells <it>in vitro </it>(Figure <figr fid="F5">5A</figr> and <figr fid="F5">5B</figr>, red, dexamethasone-treated; green, untreated). Migration in these assays was also reduced after anti-CXCR4 antibody treatment. RA-primed CD133+ABCG2+CXCR4+ MSC migrated in response to homogenized brains of TBI rats but not in response to homogenized brains from uninjured rats (Figure <figr fid="F5">5A</figr>) and migration in response to TBI brain homogenate could be blocked by addition of anti-CXCR-4 antibody (<it>P </it>= 6.5 &#215; 10<sup>-6</sup>) supporting a CXCR4-mediated mechanism of cell migration for this cell subpopulation. Elutriated but unsorted CXCR4+ MSC were also shown to migrate in response to SDF-1 (Figure <figr fid="F5">5A</figr>) and the migration of this cell population was also blocked using anti-CXCR4 blocking antibody (Figure <figr fid="F5">5A</figr> and <figr fid="F5">5B</figr>).</p>
+            <fig id="F5">
+               <title>
+                  <p>Figure 5</p>
+               </title>
+               <caption>
+                  <p>Migration capacity of mesenchymal stem cells (MSC)</p>
+               </caption>
+               <text>
+                  <p><b>Migration capacity of mesenchymal stem cells (MSC)</b>. (A) Evaluation of the migration ability of CD133+ABCG2+CXCR4+ MSC. Results are presented as a chemotactic index (the ratio of cells moving towards stromal cell-derived factor-1 (SDF-1) or tissue homogenates compared to the number of cells moving towards media alone). Untreated (UNTR.), dexamethasone-treated (DEX TR.) and CXCR4 antibody-treated (ANTI-CXCR4 TR.) <it>Trans</it>-retinoic acid (RA)-primed MSC were evaluated for their ability to migrate. Migration of this cell population was also evaluated in response to uninjured (Uninj.) or injured (TBI) brain homogenates (Br. Homog.) alone or brain homogenate after treatment of MSC with anti-CXCR4 blocking antibody. Results for the migration of elutriated but unsorted MSC with and without treatment with anti-CXCR4 blocking antibody are also shown. Results represent the average +/- SD in the chemotactic index for 10 blood donors. Statistically significant comparisons are indicated in brackets (*<it>P </it>&lt; 0.05, **<it>P </it>&lt; 0.005). (B) Evaluation of CXCR4 expression before (green histogram) and after dexamethasone treatment of MSC (red histogram) using quantitative flow cytometry. (C) Schematic showing both the injury site (black arrow) and general regions evaluated in both uninjured and TBI rats shown in D-I (red circle). (D, E, F) Production of SDF-1 in (D) uninjured rat, (E) TBI rat at 2 days and (F) at 1 month post injury. Arrow points to positive staining for SDF-1 in a micro-vessel in the brain 2 days after transplantation of MSC. (G) Schematic showing both the injury site (black arrow) and general regions evaluated in both H and I. (H) Migration of CFSE+ CD133+ABCG2+CXCR4+ MSC. Carboxyfluorescein succinimidyl ester (CFSE)-labeled cells, green, (white arrow injury site) and (I) production of SDF-1 (red) in TBI rats as well as presence of CFSE-labeled MSC after 1 month; (D-I) 4',6-diamidino-2-phenylindole (DAPI) blue nuclei.</p>
+               </text>
+               <graphic file="scrt151-5"/>
+            </fig>
+            <p>The injury site and areas corresponding to the location of the tissue sections are shown in Figure <figr fid="F5">5C</figr>. Following <it>in vivo </it>transplantation of CD133+ABCG2+CXCR4+ MSC into the lateral ventricle of uninjured and TBI animals, brain sections were stained for the presence of SDF-1 (Figure <figr fid="F5">5D-F</figr> and <figr fid="F5">5I</figr>). Sections of brains from uninjured animals did not show staining for SDF-1 and few CFSE+ cells were found to have migrated to the regions corresponding to the injury site in these animals (Figure <figr fid="F5">5D</figr>). Sections of brains from TBI rats show the presence of high levels of SDF-1 (Figure <figr fid="F5">5E, F</figr> and <figr fid="F5">5I</figr>) at the injury site and numerous CFSE+ cells were seen to have migrated into these high-SDF-1 + areas (Figure <figr fid="F5">5H</figr> and <figr fid="F5">5I</figr>).</p>
+         </sec>
+         <sec>
+            <st>
+               <p>MWM latency results</p>
+            </st>
+            <p>Interaction of treatment group by day was not statistically significant. That is, treatment group differences did not statistically significantly fluctuate from day to day, or they remained the same from day to day (Figure <figr fid="F6">6</figr>). Overall (across all time points) latency of the TBI-alone group and the TBI+ unprimed MSC group were not statistically significantly different. That is, unprimed MSC did not significantly improve the overall latency after TBI and remained at the level of the TBI-alone group. Overall latency of the TBI primed MSC group and uninjured group were not significantly different. That is, primed MSC after TBI improved the latency to the level of the uninjured group. For overall latency, there were differences between the TBI-alone and the uninjured group, and between the TBI+ unprimed MSC and TBI+ primed MSC groups, although these were not statistically significant. Overall (across the four treatment groups) latency at day 12 was statistically significantly improved from day 11. Similarly, overall latency at day 13 was significantly improved from day 12. Overall latency from day 13 to day 14, and also day 14 to day 15 continued to improve, although this was not statistically significant.</p>
+            <fig id="F6">
+               <title>
+                  <p>Figure 6</p>
+               </title>
+               <caption>
+                  <p>Morris water maze (MWM) test</p>
+               </caption>
+               <text>
+                  <p><b>Morris water maze (MWM) test</b>. (A) Time to find a hidden platform in the MWM (latency) in rats subjected to no injury (sham) or moderate traumatic brain injury (moderate TBI) alone, or TBI followed by transplantation with unprimed (UPR) or <it>trans</it>-retinoic acid (RA)-primed (PR) CD133+ABCG2+CXCR4+ MSC. Latency of the TBI-alone and TBI + unprimed MSC groups were not statistically significantly different. However, primed MSC after TBI improved the latency to the level of uninjured group.</p>
+               </text>
+               <graphic file="scrt151-6"/>
+            </fig>
+         </sec>
+         <sec>
+            <st>
+               <p>Histological examination at 2 days or 1 month post transplantation</p>
+            </st>
+            <p>CD133+ABCG2+CXCR4+ MSC were held at 4&#176;C for 2 hours prior to transplantation. Viability of MSC at 4&#176;C in 15% PF-127 in DMEM was consistently better than in PBS (Figure <figr fid="F7">7A</figr>), and because of this 15% PF-127 in DMEM was used as a vehicle for transplantation. CFSE-labeled MSC were placed in the lateral ventricle (Figure <figr fid="F7">7B</figr>, black arrow injury site). In uninjured rats one month after transplantation of CD133+ABCG2+ CXCR4+ MSC only a small fraction of RA-primed MSC migrated out of the ventricle into regions such as the cortex and hippocampus (Figure <figr fid="F7">7C</figr>). Most MSC in the ventricle were amoeboid in shape and expressed CXCR4 (Figure <figr fid="F7">7C</figr> and <figr fid="F7">7D</figr>). As early as 2 days post transplantation in rats subjected to TBI, more cells were seen to have migrated out of the ventricle than had occurred in uninjured rats by 1 month (Figure <figr fid="F7">7C</figr> compared to <figr fid="F7">7D</figr>). In TBI rats sacrificed after one month few CD133+ABCG2+ CXCR4+ MSC remained in the lateral ventricle, and the majority of these cells moved to regions closer to the injury site (Figure <figr fid="F7">7E</figr> and <figr fid="F7">7F</figr>). Many MSC were found in the hippocampus (Figure <figr fid="F7">7F</figr>) and cortex (Figure <figr fid="F7">7G</figr> and <figr fid="F7">7H</figr>) and some of these cells expressed TH (Figure <figr fid="F7">7G</figr>) as well as Tuj1 (Figure <figr fid="F7">7H</figr>).</p>
+            <fig id="F7">
+               <title>
+                  <p>Figure 7</p>
+               </title>
+               <caption>
+                  <p>Examination of cells pre-transplantation and 2 days or 1 month post transplantation</p>
+               </caption>
+               <text>
+                  <p><b>Examination of cells pre-transplantation and 2 days or 1 month post transplantation</b>. (A) Viability of <it>trans</it>-retinoic acid (RA)-primed CD133+ABCG2+CXCR4+ mesenchymal stem cells (MSC) held in either PBS or pluronic F-127 (PF-127) carrier for 2 hours prior to implantation. Results represent the average +/- SD for viability of cells from 10 blood donors. Statistically significant comparisons (*<it>P </it>&lt; 0.05) for PBS compared to PF-127 as vehicle are indicated. (B) Schematic diagram showing site of implantation of MSC into the lateral ventricle (red circle) of non-immunosuppressed male Sprague-Dawley rats. Arrow indicates the site of the fluid percussion traumatic brain injury (TBI). (C-H) Confocal micrographs of 7-&#956;m sections of brains. (C) Sections from uninjured rats sacrificed at 1 month showed that carboxyfluorescein succinimidyl ester (CFSE)-labeled MSC (green) expressed CXCR4 (red). White arrows point to CFSE-labeled MSC. (D) Sections of brains of TBI rats sacrificed 2 days after transplantation. CXCR-4+ CD133+ABCG2+CXCR4+ MSC are noted with white arrows. (E) Brain section 1 month after transplantation (ventricle is indicated by the white *, white arrows identify migrated CFSE+ (green) MSC. (F) Higher magnification image of MSC in the hippocampus of the TBI rat. (G) Some cells were elongated and expressed tyrosine hydroxylase (TH) (red) or (H) type III beta tubulin (Tuj1) (red). (C-H) diamidino-2-phenylindole (DAPI) nuclear stain (blue).</p>
+               </text>
+               <graphic file="scrt151-7"/>
+            </fig>
+            <p>In a subset of experiments non-CFSE-tagged MSC were transplanted into rats used to evaluate induction of apoptosis using the TUNEL assay. Examination of levels of apoptosis at the injury site in these animals showed that no apoptosis was seen in uninjured rats at 2 days (Figure <figr fid="F8">8A</figr>), or at 1 month post transplant (Figure <figr fid="F8">8D</figr>). In TBI animals, apoptotic nuclei could be seen in sections near the injury site at 2 days (Figure <figr fid="F8">8B</figr>) but few apoptotic cells were seen in MSC-treated TBI animals and staining for human MHC I showed the presence of cells in this area (Figure <figr fid="F8">8C</figr>). Similar results were seen at 1 month with many apoptotic nuclei present in regions near the injury site with less apoptosis seen in the in the TBI and MSC-treated group than in TBI animals that did not receive transplanted MSC (Figure <figr fid="F8">8E</figr> and <figr fid="F8">8F</figr>).</p>
+            <fig id="F8">
+               <title>
+                  <p>Figure 8</p>
+               </title>
+               <caption>
+                  <p>Examination of induction of apoptosis</p>
+               </caption>
+               <text>
+                  <p><b>Examination of induction of apoptosis</b>. Brains were harvested at 2 days (A-C) or 1 month (D-F) and subjected to terminal deoxynucleotidyl transferase dUTP nick end labeling (TUNEL) analysis. Representative images of sections taken from (A) uninjured animals, (B) traumatic brain injury (TBI) animals and (C) TBI animals that received <it>trans</it>-retinoic acid (RA)-primed mesenchymal stem cells (MSC). Evaluation of apoptosis induction one month following TBI is shown in (D) uninjured (E) TBI animals and (F) TBI animals that received RA-primed MSC. Insert in E shows higher power image of TUNEL+ nuclei. Production of chondroitin sulfate proteoglycan (CSPG), glial fibrillary acidic protein (GFAP) or brain derived neurotropic factor (BDNF) in (G) unprimed MSC and (H-J) RA-primed MSC cultured for 7 days <it>in vitro</it>. (H) Staining for expression of CSPG (green) in cells not expressing GFAP (red) in RA-primed MSC. (I) Co-expression of CSPG (green) and GFAP (red) in some RA-primed MSC. (J) Expression of BDNF (green) and GFAP (red) in RA-primed MSC. (K-M) Evaluation of CSPG and BDNF in RA-primed MSC <it>in vivo </it>following TBI. (K) Evaluation of MSC products in sections of brains harvested at 2 days post transplantation of carboxyfluorescein succinimidyl ester (CFSE)-tagged MSC in regions near the injury site, CFSE-positive MSC (green) and CSPG (red). (J) Cells positive for CSPG and diamidino-2-phenylindole (DAPI) and (M) cells positive for CFSE (green) and BDNF (red) also seen in regions near the injury site. (A-M) DAPI nuclear stain (blue).</p>
+               </text>
+               <graphic file="scrt151-8"/>
+            </fig>
+            <p>Evaluation of MSC products in sections of brains harvested at 2 days post transplantation of CFSE-tagged MSC in regions near the injury site showed production of CSPG (Figure <figr fid="F8">8H</figr>), GFAP (Figure <figr fid="F8">8I</figr>) and BDNF (Figure <figr fid="F8">8J</figr>), which was seen for RA-primed MSC cultured for 7 days <it>in vitro </it>but not in unprimed MSC (Figure <figr fid="F8">8G</figr>); evaluation also showed production of CSPG (Figure <figr fid="F8">8K</figr> and <figr fid="F8">8M</figr>) as well as BDNF(Figure <figr fid="F8">8M</figr>) in regions near the injury site.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>MSC survival, location and fate three months post transplantation</p>
+            </st>
+            <p>Examination of cell survival after transplantation indicated that 34% of cells transplanted into uninjured rats survived until 3 months compared to 21% survival in TBI rats (Figure <figr fid="F9">9A</figr>). Of the cells surviving transplantation, significantly more cells in the TBI rats were positive for expression of Tuj1 (87%) and NEUN (91%) compared to expression of Tuj1 (41%) or NEUN (31%) in uninjured rats (Figure <figr fid="F9">9A</figr>). The inter-observer agreement for the cell counts in uninjured rats was 100% for counts of CFSE+ cells, 99% for Tuj1 counts and 100% for NEUN counts, and in TBI rats was 100% for counts of CFSE+ cells, 100% for Tuj1 counts and 100% for NEUN. A diagram of the injury site (Figure <figr fid="F9">9B</figr>) shows the regions examined in Figure <figr fid="F9">9C-J</figr>. Morphology of the CD133+ABCG2+CXCR4+ MSC engrafted in the brain after 3 months included amoeboid, elongated or rod-shaped cells (Figure <figr fid="F9">9C-H</figr>), as well as cells with more complex morphology (Figure <figr fid="F9">9I</figr> and <figr fid="F9">9J</figr>). Many cells in regions shown in Figure <figr fid="F8">8C</figr> were positive for expression of Tuj1 (Figure <figr fid="F9">9D</figr>). Many elongated, TH-expressing cells were found in the hippocampus (Figure <figr fid="F9">9F-H</figr>). MHC I staining confirmed that the CFSE+ cells were human in origin (Figure <figr fid="F9">9E</figr> and <figr fid="F9">9I</figr>). In some regions of the hippocampus networks of MSC showed interconnections between cells (Figure <figr fid="F9">9F-H</figr>) and many of the cells in these clusters of MSC were shown to be TH-positive (Figure <figr fid="F9">9G</figr> and <figr fid="F9">9H</figr>). A small portion of MSC was positive for GFAP, an astrocyte marker, and had a more complex morphology with multiple branched cell processes (Figure <figr fid="F9">9J</figr>).</p>
+            <fig id="F9">
+               <title>
+                  <p>Figure 9</p>
+               </title>
+               <caption>
+                  <p>Evaluation of mesenchymal stem cells (MSC) 3 months post transplantation</p>
+               </caption>
+               <text>
+                  <p><b>Evaluation of mesenchymal stem cells (MSC) 3 months post transplantation</b>. (A) Results represent the average +/- SD for cell counts from brains of uninjured (<it>n </it>= 8) and traumatic brain injury (TBI) (<it>n </it>= 8) rats. Statistically significant comparisons (*<it>P </it>&lt; 0.05) for expression of type III beta tubulin (Tuj1) or neuron specific nuclear protein (NEUN) in brain sections from uninjured compared to TBI rats. (B) Diagram of locations viewed in images B-I (red shaded circle) and location of site of fluid percussion injury (black arrow). (C) Brain section from TBI rats sacrificed 3 months after transplantation of carboxyfluorescein succinimidyl ester (CFSE)+ CD133+ABCG2+CXCR4+ MSC showing cells in the cortex and hippocampus near the injury site. White arrows indicate CFSE-positive MSC (green). (D) Image of area outlined in box of figure B, CFSE (green) and Tuj1 (red). (E-J) Examination of transplanted MSC showed that most cells had elongated, CFSE (green), DAPI (blue). (E) These cells were positive for expression of human major histocompatibility complex class I (MHC 1) (red). (F) CFSE+ cells in the hippocampus at 3 months had reduced levels of CXCR4 staining. (F and G) In some regions of the hippocampus, networks of MSC showed interconnections between cells and many cells in these clusters were (G and H) tyrosine hydroxylase (TH)-positive. (I) Human MHC I expression by cells in J and (J) a small portion of MSC were positive for expression of the astrocyte marker GFAP, and (H) had a more complex morphology with multiple branched cell processes. (D-J) Diamidino-2-phenylindole (DAPI) nuclear stain (blue).</p>
+               </text>
+               <graphic file="scrt151-9"/>
+            </fig>
+         </sec>
+      </sec>
+      <sec>
+         <st>
+            <p>Discussion</p>
+         </st>
+         <p>Previous studies have shown the benefit of using MSC for the treatment of ischemia or TBI in animal models <abbrgrp><abbr bid="B18">18</abbr><abbr bid="B4">4</abbr><abbr bid="B6">6</abbr></abbrgrp> but investigations to quantify MSC neural differentiation efficiency have yet to be accomplished. In order to realize the clinical benefits of MSC and other stem cell types, consistent methods for MSC subpopulation selection and higher efficiencies of differentiation towards neural lineages need to be realized. Stem cells generally require lineage priming in order to express genes associated with commitment to specific differentiation pathways. RA treatment has been used for priming embryonic <abbrgrp><abbr bid="B38">38</abbr></abbrgrp> and adult stem cells for neuronal marker induction, development of neuronal lineages <abbrgrp><abbr bid="B25">25</abbr><abbr bid="B26">26</abbr><abbr bid="B27">27</abbr><abbr bid="B28">28</abbr></abbrgrp> and to promote survival, proliferation and neurotropic responsiveness <abbrgrp><abbr bid="B27">27</abbr><abbr bid="B28">28</abbr></abbrgrp>. It is important to consider that although priming has been shown to initiate neurogenesis or neuronal marker induction, it does not guarantee production of a specific neuronal lineage and this remains a major hurdle to development of any neural stem cell therapy.</p>
+         <p>In this study we were interested in assessing the neural lineage potential of subpopulations of MSC that could be capable of migrating to injury sites based on the CXCR4/SDF-1 pathway. We focused our attention on the isolation of HPBD MSC populations that co-expressed immature stem cell markers CD133, as well as ABCG2 or SSEA-4 combined with expression of CXCR4.</p>
+         <p>MSC were isolated using centrifugal elutriation. We then sorted the MSC based on expression of CD133, or CD133 and ABCG2, or CD133 and ABCG2 and SSEA-4 combined with expression of CXCR4. We examined the capability of each MSC subpopulation to express neuronal markers following RA priming. Addition of expression of each subsequent marker used at the time of isolation resulted in a stepwise increase in efficiency of neuronal marker induction. However, the yield of cells for each subpopulation as cell surface markers were added was significantly reduced. One subpopulation of CXCR4+CD133+ABCG2+SSEA-4+ MSC had the highest efficiency of neural marker induction as measured by expression of nestin at 24 hours and TH by 7 days of culture but we were not able to consistently isolate enough of these cells to allow for extensive <it>in vitro </it>or <it>in </it>vivo study. It is because of this that we continued our work using CD133+ABCG2+ CXCR4+ MSC. Although isolation of adequate cell numbers for use as a therapy is important, the efficiency with which MSC are able to differentiate into specific lineages is perhaps the critical factor when considering a cell population for use as a cell-based therapy. In many disease processes, it is conceivable that a small number of cells that efficiently differentiate into a specific lineage and migrate to sites of injury would be more effective than larger numbers of less efficient cells. The evaluation of subpopulations such as the ones described here form the basis for exploring co-expression of other markers allowing for enrichment of cell types that consistently differentiate into specific neuronal lineages, which might prove to be of greater therapeutic value.</p>
+         <p>This subpopulation of CD133+ABCG2+CXCR4+ MSC required RA priming to initiate induction of early neuronal markers nestin and MAP-1&#946;, and later the expression of more mature neuronal markers such as TH and GFAP. Neural lineage markers that were used to evaluate the neural potential of subpopulations of CD133+ABCG2+CXCR4+ MSC included nestin, MAP1-&#946;, TH, Tuj1, NEUN, GFAP, CHAT and GalC.</p>
+         <p>In our <it>in vitro </it>experiments CD133+ABCG2+CXCR4+ MSC consistently produced low percentages of cells (&lt; 10%) expressing neuronal markers such as CHAT, GalC, GFAP but higher percentages of cells expressing TH (45.2 +/- 9.7%), Tuj1 (35.23 +/- 7.9%) and NEUN (28.2 +/- 11.1%). <it>In vitro </it>assays also showed that the CD133+ABCG2+CXCR4+ subpopulation of cells isolated from a variety of donors could be consistently directed at high efficiency towards production of TH. Similar results were observed when CD133+ABCG2+CXCR4+ MSC were co-cultured with mature neuronal lines in either mixed cultures that allowed for direct cell contact, or a transwell system, which only allowed for transfer of soluble factors (Figure <figr fid="F3">3</figr>). Co-culture of CD133+ABCG2+CXCR4+ MSC with human astroglial (SVGp12) cells induced high levels of expression of TH as did co-culture with rat astrocyte (DITNC 1) cells and dopaminanergic (SK-N-MC) cells (Figure <figr fid="F3">3</figr>). In all cases of <it>in vitro </it>culture morphological and immunophenotypic changes suggestive of neuronal differentiation persisted over 7 days.</p>
+         <p>One striking feature of CD133+ABCG2+CXCR4+ MSC <it>in vitro </it>differentiation was the speed of the response, since within 12 hours (for most donor cells) and consistently by 24 hours after priming, MSC assumed features typical of neuronal morphology in both <it>in vivo </it>and <it>in vitro </it>culture. It is our feeling that the faster the cells can be isolated, primed and transplanted within 24 hours after the injury the better, since early treatment could limit damage to the brain, subsequent loss of neurons, and allow MSC to participate in the healing process.</p>
+         <p>Our data also support the critical role played by the CXCR4/SDF-1 pathway in migration of CD133+ABCG2+CXCR4+ MSC towards regions of brain injury <abbrgrp><abbr bid="B20">20</abbr><abbr bid="B21">21</abbr><abbr bid="B22">22</abbr></abbrgrp>. MSC migrated <it>in vitro </it>in response to SDF-1 and also migrated in response to supernatants produced from the homogenized brains of TBI rats but not uninjured rats (Figure <figr fid="F4">4A</figr>). Loss of ability to migrate after dexamethasone treatment due to reduced expression of CXCR4 has been previously described <abbrgrp><abbr bid="B39">39</abbr></abbrgrp>. CD133+ABCG2+CXCR4+ MSC treated with dexamethasone showed reduced levels of CXCR4 and exhibited a significant reduction in the chemo-attractant and transmigration effect of SDF-1 <it>in vitro</it>. These data suggest that dexamethasone might decrease the migratory capability of MSC <it>in vivo </it>if given during the acute phase of a TBI. Transplantation of primed MSC into the brains of uninjured rats did not result in high levels of migration and most cells remained in the lateral ventricle one month after transplantation. Primed CXCR4+MSC migrated to the injury site in TBI rats and into regions also positive for SDF-1.</p>
+         <p>In order to evaluate the influence of the <it>in vivo </it>microenvironment or the atypical and potentially inhospitable environment created by TBI on MSC graft survival, migration and differentiation, we transplanted MSC into the brains of either uninjured or TBI rats. We delivered human CD133+ABCG2+CXCR4+ MSC directly into the lateral ventricle of rat brains 24 hours after fluid percussion injury. This was done to take advantage of a brain access point created by the current clinical practice of placing an intra-ventricular catheter in the lateral ventricle for measuring intracranial pressure and therapeutically removing cerebrospinal fluid in patients with moderate to severe TBI. It is important to note that delivery of primed MSC in a clinical setting could also be done through an intraventricular route, thereby reducing the need to directly place the stem cells at an injury site. We also utilized this transplantation site so that MSC could use the normal migratory pathway used by neuroblasts from the subventricular zone (SVZ) traveling along the lateral ventricles via the flow of CNS fluid <abbrgrp><abbr bid="B40">40</abbr></abbrgrp>, and be in a better position to respond to the brain's own injury-induced chemokine-assisted migration cues. This was also done because evidence suggests that the cells of the SVZ provide an environment that normally promotes neurogenesis <abbrgrp><abbr bid="B41">41</abbr></abbrgrp>.</p>
+         <p>Several studies have documented an acute injury period during which release of inflammatory factors is extremely robust, creating a hostile environment for cell engraftment and differentiation followed by a fall in the release of injury response factors over time <abbrgrp><abbr bid="B42">42</abbr><abbr bid="B43">43</abbr><abbr bid="B44">44</abbr><abbr bid="B45">45</abbr><abbr bid="B46">46</abbr></abbrgrp>. This might be an explanation for those MSC that retained CXCR4 expression which, although they had migrated to the injury site, remained quiescent with no sign of morphologic indication of differentiation. Injured brains of experimental animals in other studies receiving fluid percussion TBI exhibited both primary as well as secondary (delayed) neuronal death for a prolonged period after injury, and it has been shown that neural degeneration occurs as early as 10 minutes after injury <abbrgrp><abbr bid="B45">45</abbr><abbr bid="B32">32</abbr></abbrgrp>.</p>
+         <p>Analysis of rat brains 3 months after transplantation of CD133+ABCG2+CXCR4+ MSC showed that many cells had lost expression of CXCR4, differentiated and produced Tuj1, TH as well as GFAP and NEUN. We did find it interesting to note that although more CFSE+ cells were found in uninjured animals at 3 months than in TBI rats, far more cells in TBI rats were positive for expression of Tuj1 (87% compared to 41%) and NEUN (91 compared to 77%). Expression of Tuj1 is indicative of immature neurons but not necessarily integration of MSC into the brain, but the expression of NEUN indicates the presence of mature neurons that integrated into the brain. Differences in the expression of markers of neuronal maturation of the MSC <it>in vivo </it>may be due to the site at which the cells engrafted, but it is also important to consider that the influence of factors produced in response to the injury could potentially override cues to differentiate in a site-specific manner.</p>
+         <p>Functional evaluation of the use of MSC treatment in TBI animals to examine spatial memory performance using the MWM showed that improvement was seen in MSC-treated compared to untreated TBI rats. The effect of TBI on MWM latency was practically significant compared with the sham group. Primed MSC after TBI considerably improved MWM latency compared with the unprimed MSC group. However, those effects were not statistically significant due to small numbers of animals in each group and large variability in the data. Assuming the variability in the data and the mean differences remain the same or remain similar, we would have needed 10 to 11 animals per group to detect a difference at the 0.05 level of significance and a power of 80%. Isolation of adequate numbers of human stem cells for transplantation limited the numbers of animals that could be used in these experiments.</p>
+         <p>Despite the lack of maturation of the majority of large numbers of MSC after transplantation, we did see improvement in the cognitive ability of TBI rats over the testing period, suggesting that neural primed MSC may function as supportive cells in concert with endogenous stem cells from the hippocampus and SVZ of the lateral ventricle in the reparative process.</p>
+         <p>MSC have been shown to have limited survival after engraftment in the CNS of TBI rats <abbrgrp><abbr bid="B42">42</abbr><abbr bid="B43">43</abbr></abbrgrp>. In an attempt to reduce graft cell loss following transplantation we chose to utilize the hydrogel Pluronic (PF)-127 as a cell transport vehicle. PF-127 forms a soft gel at room temperature, making transplantation easier <abbrgrp><abbr bid="B47">47</abbr></abbrgrp>, and several reports have documented the ability of PF-127 to stabilize membranes <abbrgrp><abbr bid="B48">48</abbr><abbr bid="B49">49</abbr><abbr bid="B50">50</abbr></abbrgrp>. These studies demonstrated the potential for hydrogels as a clinically feasible delivery system. Poloxamer hydrogels, such as pluronic-188, have also been shown to reduce tissue damage and macrophage infiltration in rats following TBI, thus, reducing inflammation <abbrgrp><abbr bid="B50">50</abbr></abbrgrp>. It is important to note that although we did not use any immunosuppressive therapy, nor irradiate human MSC prior to transplantation, we did not see any signs of inflammation or leukocyte infiltration into the brain tissue in sham, TBI or MSC-treated rats.</p>
+         <p>The therapeutic effects of MSC following transplantation can also be due to inhibition of pathogenic immune responses and release of neuroprotective factors <abbrgrp><abbr bid="B51">51</abbr><abbr bid="B52">52</abbr><abbr bid="B53">53</abbr><abbr bid="B54">54</abbr><abbr bid="B55">55</abbr><abbr bid="B56">56</abbr><abbr bid="B57">57</abbr><abbr bid="B58">58</abbr><abbr bid="B59">59</abbr></abbrgrp> or immunomodulatory molecules <abbrgrp><abbr bid="B52">52</abbr><abbr bid="B53">53</abbr><abbr bid="B54">54</abbr><abbr bid="B55">55</abbr><abbr bid="B57">57</abbr><abbr bid="B59">59</abbr><abbr bid="B60">60</abbr></abbrgrp>. We feel that the improvement in cognitive function, measured by the MWM demonstrated by TBI animals treated with RA-primed MSC in this study at early time points, such as at 2 days, was not due to MSC replacement of damaged cells at the injury site. Examination of the results suggest that the early influence of the transplanted cells was more likely due to release of factors such as CSPG, BDNF or other as yet undefined factors, which may have helped to support damaged cells at the injury site and reduce apoptosis. We did see some differentiation of the transplanted cells as indicated by Tuj1 or TH expression at 1 month, as well as GFAP production, which is indicative of astrocyte formation at 3 months but the majority of transplanted cells did not express mature neuronal markers at the 2-day time point. Future studies will concentrate on evaluation of MSC-derived immune or neuroprotective factors as well as evaluation of factor production of MSC subsets.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Conclusions</p>
+         </st>
+         <p>In summary, the practical design of any stem cell-based clinical therapy should include: (1) identification of cell surface markers that allow for consistent isolation of cells in sufficient numbers and purity for use in a therapy; (2) differentiation at high efficiency to neural lineages; (3) consideration of the ability of the cells to migrate to damaged areas without the need for direct transplantation at the site where the injury has occurred, and (4) consideration of the ability of cells to produce neuro-protective factors. In this study we provide important information about the development of potential therapeutic strategies to enhance the clinical applicability of MSC transplantation. We demonstrate here that a population of human CD133+ABCG2+CXCR4+ MSC could be consistently isolated from nonmobilized PB and induced to produce factors that support cell survival at early time points following transplantation, and to differentiate along neural lineages after RA priming. Our findings have implications for the development of clinical strategies to examine the effectiveness and applicability of the use of PB-derived MSC for the treatment of TBI or other neurodegenerative diseases. As methods for identification and isolation of adult MSC improve, the ability to uncover subpopulations whose lineage determinants combined with priming strategies target the production of a specific neuronal cell type, cell population or neuro-protective factor production, may enhance our ability to develop stem cell-based therapeutics in the future.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Abbreviations</p>
+         </st>
+         <p>ABCG2: ATP-binding cassette sub-family G member 2; ANOVA: analysis of variance; BDNF: brain derived neurotropic factor; &#946;-ME: &#946;-mercaptoethanol; CFSE: carboxyfluorescein succinimidyl ester; CHAT: choline acetyltransferase; CNS: central nervous system; CSPG: chondroitin sulfate proteoglycan; CXCR4: C-X-C chemokine receptor type 4; DAPI: diamidino-2-phenylindole; DMEM: Dulbecco's modified Eagles medium; EGF: epidermal growth factor; FACS: fluorescence activated cell sorting; FGF: fibroblast growth factor; FITC: fluorescein isothiocyanate; GalC: galactocerebroside; GFAP: glial fibrillary acidic protein; HPBD: human peripheral blood-derived; HLA: human leukocyte antigen; IgG: immunoglobulin; IL: interleukin; INF-&#947;: interferon-gamma; Lin-1: lineage-1; LPS: lipopolysaccharide; MAP-1&#946;: microtubule associated protein 1&#946;; MHC: major histocompatibility complex; MNC: mononuclear cells; MSC: mesenchymal stem cells; MWM: Morris water maze; NDM: neural differentiation media; NEUN: neuron specific nuclear protein; PB: peripheral blood; PBS: phosphate buffered saline; PE: phycoerytherin; PF-127: pluronic F-127; PF: paraformaldehyde; PHAM: phytohemagglutinin-M; PID: post-injury day; PNS: peripheral nervous system; RA: <it>trans</it>-retinoic acid; SDF-1: stromal derived factor-1; SSEA-4: stage-specific embryonic antigen-4; SVZ: subventricular zone; TBI: traumatic brain injury; TBS: tris buffered saline; TH: tyrosine hydroxylase; TNF: tumor necrosis factor; Tuj1: type III beta tubulin; TUNEL: terminal deoxynucleotidyl transferase dUTP nick end labeling.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Competing interests</p>
+         </st>
+         <p>The authors declare that they have no competing interests.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Authors' contributions</p>
+         </st>
+         <p>JEN and JC were responsible for conception and design of the experiments, data collection, assembly, interpretation, manuscript writing and final approval of the manuscript. JAN, MP, AC, EL and SV were responsible for data collection, data analysis and generation of the methods sections. DW and DP were responsible for design and completion of animal studies and MWM testing as well as final approval of the manuscript. All authors have read and approved this manuscript for publication.</p>
+      </sec>
+   </bdy>
+   <bm>
+      <ack>
+         <sec>
+            <st>
+               <p>Acknowledgements</p>
+            </st>
+            <p>This research was supported by The Moody Center for Brain and Spinal Cord Research/Mission Connect (The Moody Center). We would like to thank Dr Gerald Campbell MD PhD from the UTMB Dept of Pathology, Division of Neuropathology for his invaluable support in data analysis. We would like to thank Kenneth D Frohne for his help with images and publishing software. We also need to thank Tatsuo Uchida for doing the statistical analysis of the MWM data. We are indebted to Joe and Nina Brown for their constant support and their belief in the potential of stem cell therapies.</p>
+         </sec>
+      </ack>
+      <refgrp>
+         <bibl id="B1">
+            <title>
+               <p>Traumatic brain injury induced cell proliferation in the adult mammalian central nervous system</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Chirumamilla</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Sun</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Bullock</snm>
+                  <fnm>MR</fnm>
+               </au>
+               <au>
+                  <snm>Colello</snm>
+                  <fnm>RJ</fnm>
+               </au>
+            </aug>
+            <source>J Neurotrauma</source>
+            <pubdate>2002</pubdate>
+            <volume>19</volume>
+            <fpage>693</fpage>
+            <lpage>703</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1089/08977150260139084</pubid>
+                  <pubid idtype="pmpid" link="fulltext">12165131</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B2">
+            <title>
+               <p>Enhanced neurogenesis in the rodent hippocampus following traumatic brain injury</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Dash</snm>
+                  <fnm>PK</fnm>
+               </au>
+               <au>
+                  <snm>Mach</snm>
+                  <fnm>SA</fnm>
+               </au>
+               <au>
+                  <snm>Moore</snm>
+                  <fnm>AN</fnm>
+               </au>
+            </aug>
+            <source>J Neurosci Res</source>
+            <pubdate>2001</pubdate>
+            <volume>63</volume>
+            <fpage>313</fpage>
+            <lpage>319</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1002/1097-4547(20010215)63:4&lt;313::AID-JNR1025>3.0.CO;2-4</pubid>
+                  <pubid idtype="pmpid" link="fulltext">11170181</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B3">
+            <title>
+               <p>Role of Akt and ERK signaling in the neurogenesis following brain ischemia</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Shioda</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Han</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Fukunaga</snm>
+                  <fnm>K</fnm>
+               </au>
+            </aug>
+            <source>Int Rev Neurobiol</source>
+            <pubdate>2009</pubdate>
+            <volume>85</volume>
+            <fpage>375</fpage>
+            <lpage>387</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid" link="fulltext">19607982</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B4">
+            <title>
+               <p>Stem cell biology in traumatic brain injury: effects of injury and strategies for repair</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Richardson</snm>
+                  <fnm>RM</fnm>
+               </au>
+               <au>
+                  <snm>Singh</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Sun</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Fillmore</snm>
+                  <fnm>HL</fnm>
+               </au>
+               <au>
+                  <snm>Dietrich</snm>
+                  <fnm>DW</fnm>
+               </au>
+               <au>
+                  <snm>Bullock</snm>
+                  <fnm>MR</fnm>
+               </au>
+            </aug>
+            <source>J Neurosurg</source>
+            <pubdate>2010</pubdate>
+            <volume>112</volume>
+            <fpage>1125</fpage>
+            <lpage>1138</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.3171/2009.4.JNS081087</pubid>
+                  <pubid idtype="pmpid" link="fulltext">19499984</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B5">
+            <title>
+               <p>Hippocampal neurotrophin levels after injury: relationship to the age of the hippocampus at the time of injury</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Shetty</snm>
+                  <fnm>AK</fnm>
+               </au>
+               <au>
+                  <snm>Rao</snm>
+                  <fnm>MS</fnm>
+               </au>
+               <au>
+                  <snm>Hattiangady</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Zaman</snm>
+                  <fnm>V</fnm>
+               </au>
+               <au>
+                  <snm>Shetty</snm>
+                  <fnm>GA</fnm>
+               </au>
+            </aug>
+            <source>J Neurosci Res</source>
+            <pubdate>2004</pubdate>
+            <volume>78</volume>
+            <fpage>520</fpage>
+            <lpage>532</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1002/jnr.20302</pubid>
+                  <pubid idtype="pmpid" link="fulltext">15468179</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B6">
+            <title>
+               <p>Marrow stromal cell transplantation in stroke and traumatic brain injury</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Li</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Chopp</snm>
+                  <fnm>M</fnm>
+               </au>
+            </aug>
+            <source>Neurosci Lett</source>
+            <pubdate>2009</pubdate>
+            <volume>456</volume>
+            <fpage>120</fpage>
+            <lpage>123</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.neulet.2008.03.096</pubid>
+                  <pubid idtype="pmcid">3359793</pubid>
+                  <pubid idtype="pmpid" link="fulltext">19429146</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B7">
+            <title>
+               <p>The potential of mesenchymal stem cells for neural repair</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Miller</snm>
+                  <fnm>RH</fnm>
+               </au>
+               <au>
+                  <snm>Bai</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Lennon</snm>
+                  <fnm>DP</fnm>
+               </au>
+               <au>
+                  <snm>Caplan</snm>
+                  <fnm>AI</fnm>
+               </au>
+            </aug>
+            <source>Discov Med</source>
+            <pubdate>2010</pubdate>
+            <volume>9</volume>
+            <fpage>236</fpage>
+            <lpage>242</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid">20350491</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B8">
+            <title>
+               <p>Stem cell applications in military medicine</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Christopherson</snm>
+                  <fnm>GT</fnm>
+               </au>
+               <au>
+                  <snm>Nesti</snm>
+                  <fnm>LJ</fnm>
+               </au>
+            </aug>
+            <source>Stem Cell Res Ther</source>
+            <pubdate>2011</pubdate>
+            <volume>2</volume>
+            <fpage>40</fpage>
+            <lpage>44</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1186/scrt81</pubid>
+                  <pubid idtype="pmcid">3308037</pubid>
+                  <pubid idtype="pmpid" link="fulltext">22011454</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B9">
+            <title>
+               <p>The therapeutic effect of mesenchymal stem cell transplantation in experimental autoimmune encephalomyelitis is mediated by peripheral and central mechanisms</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Morando</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Vigo</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Esposito</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Casazza</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Novi</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Principato</snm>
+                  <fnm>MC</fnm>
+               </au>
+               <au>
+                  <snm>Furlan</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Ucelli</snm>
+                  <fnm>A</fnm>
+               </au>
+            </aug>
+            <source>Stem Cell Res Ther</source>
+            <pubdate>2012</pubdate>
+            <volume>3</volume>
+            <fpage>3</fpage>
+            <lpage>7</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1186/scrt94</pubid>
+                  <pubid idtype="pmcid">3340547</pubid>
+                  <pubid idtype="pmpid" link="fulltext">22277374</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B10">
+            <title>
+               <p>Markers and methods for cell sorting of human embryonic stem cell-derived neural cell populations</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Pruszak</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Sonntag</snm>
+                  <fnm>KC</fnm>
+               </au>
+               <au>
+                  <snm>Aung</snm>
+                  <fnm>MH</fnm>
+               </au>
+               <au>
+                  <snm>Sanchez-Pernaute</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Isacson</snm>
+                  <fnm>O</fnm>
+               </au>
+            </aug>
+            <source>Stem Cells</source>
+            <pubdate>2007</pubdate>
+            <volume>25</volume>
+            <fpage>2257</fpage>
+            <lpage>2268</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1634/stemcells.2006-0744</pubid>
+                  <pubid idtype="pmcid">2238728</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17588935</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B11">
+            <title>
+               <p>Mesenchymal stromal cells can be derived from bone marrow CD133+ cells: implications for therapy</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Pozzobon</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Piccoli</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Ditadi</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Bollini</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Destro</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Andre-Schmutz</snm>
+                  <fnm>I</fnm>
+               </au>
+               <au>
+                  <snm>Masiero</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Lenzini</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Zanesco</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Petrelli</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Cavazzana-Calvo</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Gazzola</snm>
+                  <fnm>MV</fnm>
+               </au>
+               <au>
+                  <snm>De Coppi</snm>
+                  <fnm>P</fnm>
+               </au>
+            </aug>
+            <source>Stem Cells Dev</source>
+            <pubdate>2009</pubdate>
+            <volume>18</volume>
+            <fpage>497</fpage>
+            <lpage>509</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1089/scd.2008.0003</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18598159</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B12">
+            <title>
+               <p>Direct isolation of human central nervous system stem cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Uchida</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Buck</snm>
+                  <fnm>DW</fnm>
+               </au>
+               <au>
+                  <snm>He</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Reitsma</snm>
+                  <fnm>MJ</fnm>
+               </au>
+               <au>
+                  <snm>Masek</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Phan</snm>
+                  <fnm>TV</fnm>
+               </au>
+               <au>
+                  <snm>Tsukamoto</snm>
+                  <fnm>AS</fnm>
+               </au>
+               <au>
+                  <snm>Gage</snm>
+                  <fnm>FH</fnm>
+               </au>
+               <au>
+                  <snm>Weissman</snm>
+                  <fnm>IL</fnm>
+               </au>
+            </aug>
+            <source>Proc Natl Acad Sci USA</source>
+            <pubdate>2000</pubdate>
+            <volume>97</volume>
+            <fpage>14720</fpage>
+            <lpage>14725</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1073/pnas.97.26.14720</pubid>
+                  <pubid idtype="pmcid">18985</pubid>
+                  <pubid idtype="pmpid" link="fulltext">11121071</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B13">
+            <title>
+               <p>In vitro characterization of a human neural progenitor cell co-expressing SSEA-4 and CD133</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Barraud</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Stott</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Mollgard</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Parmar</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Bjorklund</snm>
+                  <fnm>A</fnm>
+               </au>
+            </aug>
+            <source>J Neurosci Res</source>
+            <pubdate>2007</pubdate>
+            <volume>85</volume>
+            <fpage>250</fpage>
+            <lpage>259</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1002/jnr.21116</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17131412</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B14">
+            <title>
+               <p>SSEA-4 identifies mesenchymal stem cells from bone marrow</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Gang</snm>
+                  <fnm>EJ</fnm>
+               </au>
+               <au>
+                  <snm>Bosnakovski</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Figueiredo</snm>
+                  <fnm>CA</fnm>
+               </au>
+               <au>
+                  <snm>Visser</snm>
+                  <fnm>JW</fnm>
+               </au>
+               <au>
+                  <snm>Perlingeiro</snm>
+                  <fnm>RC</fnm>
+               </au>
+            </aug>
+            <source>Blood</source>
+            <pubdate>2007</pubdate>
+            <volume>109</volume>
+            <fpage>1743</fpage>
+            <lpage>1751</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1182/blood-2005-11-010504</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17062733</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B15">
+            <title>
+               <p>Functional expression of ABCG2 transporter in human neural stem/progenitor cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Islam</snm>
+                  <fnm>MO</fnm>
+               </au>
+               <au>
+                  <snm>Kanemura</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Tajria</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Mori</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Kobayashi</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Hara</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Yamasaki</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Okano</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Miyake</snm>
+                  <fnm>J</fnm>
+               </au>
+            </aug>
+            <source>Neurosci Res</source>
+            <pubdate>2005</pubdate>
+            <volume>52</volume>
+            <fpage>75</fpage>
+            <lpage>82</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.neures.2005.01.013</pubid>
+                  <pubid idtype="pmpid" link="fulltext">15811555</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B16">
+            <title>
+               <p>Early appearance of stem/progenitor cells with neural-like characteristics in human cord blood mononuclear fraction cultured in vitro</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Habich</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Jurga</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Markiewicz</snm>
+                  <fnm>I</fnm>
+               </au>
+               <au>
+                  <snm>Lukomska</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Bany-Laszeewicz</snm>
+                  <fnm>U</fnm>
+               </au>
+               <au>
+                  <snm>Domanska-Janik</snm>
+                  <fnm>K</fnm>
+               </au>
+            </aug>
+            <source>Exp Hematol</source>
+            <pubdate>2006</pubdate>
+            <volume>34</volume>
+            <fpage>914</fpage>
+            <lpage>925</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.exphem.2006.03.010</pubid>
+                  <pubid idtype="pmpid" link="fulltext">16797419</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B17">
+            <title>
+               <p>Efficient in vitro generation of adult multipotent cells from mobilized peripheral blood CD133+ cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Kuci</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Kuci</snm>
+                  <fnm>Z</fnm>
+               </au>
+               <au>
+                  <snm>Schmid</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Seitz</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Muller</snm>
+                  <fnm>I</fnm>
+               </au>
+               <au>
+                  <snm>Dufke</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Leimig</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Murti</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Jurecic</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Schumm</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Lang</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Bruchelt</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Ba der</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Klingebiel</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Niethammer</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Handgretinger</snm>
+                  <fnm>R</fnm>
+               </au>
+            </aug>
+            <source>Cell Prolif</source>
+            <pubdate>2008</pubdate>
+            <volume>41</volume>
+            <fpage>12</fpage>
+            <lpage>27</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1111/j.1365-2184.2007.00502.x</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18211283</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B18">
+            <title>
+               <p>Mesenchymal stem cells derived from peripheral blood protects against ischemia</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Ukai</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Honmou</snm>
+                  <fnm>O</fnm>
+               </au>
+               <au>
+                  <snm>Harada</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Houkin</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Hamada</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Koscsis</snm>
+                  <fnm>JD</fnm>
+               </au>
+            </aug>
+            <source>J Neurotrauma</source>
+            <pubdate>2007</pubdate>
+            <volume>24</volume>
+            <fpage>508</fpage>
+            <lpage>520</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1089/neu.2006.0161</pubid>
+                  <pubid idtype="pmcid">2605398</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17402856</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B19">
+            <title>
+               <p>Neural differentiation potential of peripheral blood and bone marrow derived precursor cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Kim</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Honmou</snm>
+                  <fnm>O</fnm>
+               </au>
+               <au>
+                  <snm>Kato</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Nonaka</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Houkin</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Hamada</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Kocsis</snm>
+                  <fnm>JD</fnm>
+               </au>
+            </aug>
+            <source>Brain Res</source>
+            <pubdate>2006</pubdate>
+            <volume>1123</volume>
+            <fpage>27</fpage>
+            <lpage>33</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.brainres.2006.09.044</pubid>
+                  <pubid idtype="pmcid">2605382</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17064670</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B20">
+            <title>
+               <p>The chemokine SDF1/CXCL12 and its receptor CXCR4 regulate mouse germ cell migration and survival</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Moyneaux</snm>
+                  <fnm>KA</fnm>
+               </au>
+               <au>
+                  <snm>Zinszner</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Kunwar</snm>
+                  <fnm>PS</fnm>
+               </au>
+               <au>
+                  <snm>Schaible</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Stebler</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Sunshine</snm>
+                  <fnm>MJ</fnm>
+               </au>
+               <au>
+                  <snm>O'Brien</snm>
+                  <fnm>W</fnm>
+               </au>
+               <au>
+                  <snm>Raz</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Littman</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Wylie</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Lehmann</snm>
+                  <fnm>R</fnm>
+               </au>
+            </aug>
+            <source>Development</source>
+            <pubdate>2003</pubdate>
+            <volume>130</volume>
+            <fpage>4279</fpage>
+            <lpage>4286</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1242/dev.00640</pubid>
+                  <pubid idtype="pmpid" link="fulltext">12900445</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B21">
+            <title>
+               <p>A dual role for the SDF-1/CXCR4 chemokine receptor system in adult brain: isoform-selective regulation of SDF-1 expression modulates CXCR4 dependent neuronal plasticity and cerebral leukocyte recruitment after ischemia</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Stumm</snm>
+                  <fnm>RK</fnm>
+               </au>
+               <au>
+                  <snm>Rummel Junker</snm>
+                  <fnm>V</fnm>
+               </au>
+               <au>
+                  <snm>Culmsee</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Pfeiffer</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Krieglstein</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Hollt</snm>
+                  <fnm>V</fnm>
+               </au>
+               <au>
+                  <snm>Schulz</snm>
+                  <fnm>S</fnm>
+               </au>
+            </aug>
+            <source>J Neurosci</source>
+            <pubdate>2002</pubdate>
+            <volume>22</volume>
+            <fpage>5865</fpage>
+            <lpage>5878</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid" link="fulltext">12122049</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B22">
+            <title>
+               <p>Regulation of CXCR4 expression in human mesenchymal stem cells by cytokine treatment: role in homing efficiency in NOD/SCID mice</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Shi</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Li</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Liao</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Chen</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Li</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Chen</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Jia</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Zhao</snm>
+                  <fnm>RC</fnm>
+               </au>
+            </aug>
+            <source>Haematologica</source>
+            <pubdate>2007</pubdate>
+            <volume>2</volume>
+            <fpage>897</fpage>
+            <lpage>904</lpage>
+         </bibl>
+         <bibl id="B23">
+            <title>
+               <p>Bone Marrow mesenchymal stem cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Ohishi</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Schiapani</snm>
+                  <fnm>E</fnm>
+               </au>
+            </aug>
+            <source>J Cell Biochem</source>
+            <pubdate>2010</pubdate>
+            <volume>109</volume>
+            <fpage>277</fpage>
+            <lpage>282</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid" link="fulltext">19950205</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B24">
+            <title>
+               <p>A flow cytometric assay of Fc receptor-mediated phagocytosis</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Schurman</snm>
+                  <fnm>WT</fnm>
+               </au>
+               <au>
+                  <snm>Frampton</snm>
+                  <fnm>MW</fnm>
+               </au>
+               <au>
+                  <snm>Shurman</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Roberts</snm>
+                  <fnm>NJ</fnm>
+               </au>
+               <au>
+                  <snm>Nichols</snm>
+                  <fnm>JE</fnm>
+               </au>
+               <au>
+                  <snm>Finklstein</snm>
+                  <fnm>JN</fnm>
+               </au>
+               <au>
+                  <snm>Utell</snm>
+                  <fnm>MJ</fnm>
+               </au>
+            </aug>
+            <source>J Aerosol Med</source>
+            <pubdate>1999</pubdate>
+            <volume>10</volume>
+            <fpage>1</fpage>
+            <lpage>12</lpage>
+         </bibl>
+         <bibl id="B25">
+            <title>
+               <p>Culture of embryonic-like stem cells from human umbilical cord blood and onward differentiation to neural cells in vitro</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>McGuckin</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Jurga</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Ali</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Strbad</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Forraz</snm>
+                  <fnm>N</fnm>
+               </au>
+            </aug>
+            <source>Nat Protoc</source>
+            <pubdate>2008</pubdate>
+            <volume>3</volume>
+            <fpage>1046</fpage>
+            <lpage>1055</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/nprot.2008.69</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18536651</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B26">
+            <title>
+               <p>Retinoic acid-mediated induction of neurons and glial cells from human umbilical cord-derived hematopoietic stem cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Jang</snm>
+                  <fnm>YK</fnm>
+               </au>
+               <au>
+                  <snm>Park</snm>
+                  <fnm>JJ</fnm>
+               </au>
+               <au>
+                  <snm>Lee</snm>
+                  <fnm>MC</fnm>
+               </au>
+               <au>
+                  <snm>Yoon</snm>
+                  <fnm>BH</fnm>
+               </au>
+               <au>
+                  <snm>Yang</snm>
+                  <fnm>YS</fnm>
+               </au>
+               <au>
+                  <snm>Yang</snm>
+                  <fnm>SE</fnm>
+               </au>
+               <au>
+                  <snm>Kim</snm>
+                  <fnm>SU</fnm>
+               </au>
+            </aug>
+            <source>J Neurosci Res</source>
+            <pubdate>2004</pubdate>
+            <volume>75</volume>
+            <fpage>573</fpage>
+            <lpage>584</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1002/jnr.10789</pubid>
+                  <pubid idtype="pmpid" link="fulltext">14743441</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B27">
+            <title>
+               <p>Retinoic acid selectively promotes the survival and proliferation of neurogenic precursors in cultured neural crest cell populations</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Henion</snm>
+                  <fnm>PD</fnm>
+               </au>
+               <au>
+                  <snm>Weston</snm>
+                  <fnm>JA</fnm>
+               </au>
+            </aug>
+            <source>Dev Biol</source>
+            <pubdate>1994</pubdate>
+            <volume>161</volume>
+            <fpage>243</fpage>
+            <lpage>250</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1006/dbio.1994.1024</pubid>
+                  <pubid idtype="pmpid" link="fulltext">8293876</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B28">
+            <title>
+               <p>Retinoic acid is required early during adult neurogenesis in the dentate gyrus</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Jacobs</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Lie</snm>
+                  <fnm>DC</fnm>
+               </au>
+               <au>
+                  <snm>DeCicco</snm>
+                  <fnm>KL</fnm>
+               </au>
+               <au>
+                  <snm>Shi</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>DeLuca</snm>
+                  <fnm>LM</fnm>
+               </au>
+               <au>
+                  <snm>Gage</snm>
+                  <fnm>FH</fnm>
+               </au>
+               <au>
+                  <snm>Evans</snm>
+                  <fnm>RM</fnm>
+               </au>
+            </aug>
+            <source>PNAS USA</source>
+            <pubdate>2006</pubdate>
+            <volume>103</volume>
+            <fpage>3902</fpage>
+            <lpage>3907</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1073/pnas.0511294103</pubid>
+                  <pubid idtype="pmcid">1450163</pubid>
+                  <pubid idtype="pmpid" link="fulltext">16505366</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B29">
+            <title>
+               <p>Human lymphocyte apoptosis after exposure to influenza A virus</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Nichols</snm>
+                  <fnm>JE</fnm>
+               </au>
+               <au>
+                  <snm>Niles</snm>
+                  <fnm>JA</fnm>
+               </au>
+               <au>
+                  <snm>Roberts</snm>
+                  <fnm>NJ</fnm>
+                  <suf>Jr</suf>
+               </au>
+            </aug>
+            <source>J Virology</source>
+            <pubdate>2001</pubdate>
+            <volume>73</volume>
+            <fpage>5921</fpage>
+            <lpage>5929</lpage>
+         </bibl>
+         <bibl id="B30">
+            <title>
+               <p>A fluid percussion model of experimental brain injury in the rat</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Dixon</snm>
+                  <fnm>CE</fnm>
+               </au>
+               <au>
+                  <snm>Lyeth</snm>
+                  <fnm>BG</fnm>
+               </au>
+               <au>
+                  <snm>Povlishock</snm>
+                  <fnm>JT</fnm>
+               </au>
+               <au>
+                  <snm>Findling</snm>
+                  <fnm>RL</fnm>
+               </au>
+               <au>
+                  <snm>Hamm</snm>
+                  <fnm>RJ</fnm>
+               </au>
+               <au>
+                  <snm>Marmarou</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Young</snm>
+                  <fnm>HF</fnm>
+               </au>
+               <au>
+                  <snm>Hayes</snm>
+                  <fnm>RL</fnm>
+               </au>
+            </aug>
+            <source>J Neurosurg</source>
+            <pubdate>1987</pubdate>
+            <volume>67</volume>
+            <fpage>110</fpage>
+            <lpage>119</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.3171/jns.1987.67.1.0110</pubid>
+                  <pubid idtype="pmpid" link="fulltext">3598659</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B31">
+            <title>
+               <p>L-arginine and superoxide dismutase prevent or reverse cerebral hypoperfusion after fluid-percussion traumatic brain injury</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>DeWitt</snm>
+                  <fnm>DS</fnm>
+               </au>
+               <au>
+                  <snm>Smith</snm>
+                  <fnm>TG</fnm>
+               </au>
+               <au>
+                  <snm>Deyo</snm>
+                  <fnm>DJ</fnm>
+               </au>
+               <au>
+                  <snm>Miller</snm>
+                  <fnm>KR</fnm>
+               </au>
+               <au>
+                  <snm>Uchida</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Prough</snm>
+                  <fnm>DS</fnm>
+               </au>
+            </aug>
+            <source>J Neurotrauma</source>
+            <pubdate>1997</pubdate>
+            <volume>14</volume>
+            <fpage>223</fpage>
+            <lpage>233</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1089/neu.1997.14.223</pubid>
+                  <pubid idtype="pmpid">9151771</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B32">
+            <title>
+               <p>Dose-dependent neuronal injury after traumatic brain injury</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Hellmich</snm>
+                  <fnm>HL</fnm>
+               </au>
+               <au>
+                  <snm>Capra</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Eidson</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Garcia</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Kennedy</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Uchida</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Parsley</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Cowart</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>DeWitt</snm>
+                  <fnm>DS</fnm>
+               </au>
+               <au>
+                  <snm>Prough</snm>
+                  <fnm>DS</fnm>
+               </au>
+            </aug>
+            <source>Brain Res</source>
+            <pubdate>2005</pubdate>
+            <volume>1044</volume>
+            <fpage>144</fpage>
+            <lpage>154</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.brainres.2005.02.054</pubid>
+                  <pubid idtype="pmpid" link="fulltext">15885213</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B33">
+            <title>
+               <p>Use of the intracellular fluorescent dye CFSE to monitor lymphocyte migration and proliferation</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Parish</snm>
+                  <fnm>CR</fnm>
+               </au>
+               <au>
+                  <snm>Glidden</snm>
+                  <fnm>MH</fnm>
+               </au>
+               <au>
+                  <snm>Quah</snm>
+                  <fnm>BJ</fnm>
+               </au>
+               <au>
+                  <snm>Warren</snm>
+                  <fnm>HS</fnm>
+               </au>
+            </aug>
+            <source>Curr Protoc Immunol</source>
+            <pubdate>2009</pubdate>
+            <volume>Chapter 4</volume>
+            <note>Unit 4.9</note>
+         </bibl>
+         <bibl id="B34">
+            <title>
+               <p>Bromodeoxyuridine induces senescence in neural stem and progenitor cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Ross</snm>
+                  <fnm>HH</fnm>
+               </au>
+               <au>
+                  <snm>Levkoff</snm>
+                  <fnm>LH</fnm>
+               </au>
+               <au>
+                  <snm>Marshall</snm>
+                  <fnm>GP</fnm>
+               </au>
+               <au>
+                  <snm>Caldeira</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Steindler</snm>
+                  <fnm>DA</fnm>
+               </au>
+               <au>
+                  <snm>Reynolds</snm>
+                  <fnm>BA</fnm>
+               </au>
+               <au>
+                  <snm>Laywell</snm>
+                  <fnm>ED</fnm>
+               </au>
+            </aug>
+            <source>Stem Cells</source>
+            <pubdate>2008</pubdate>
+            <volume>26</volume>
+            <fpage>3218</fpage>
+            <lpage>3227</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1634/stemcells.2008-0299</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18802036</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B35">
+            <title>
+               <p>5-Bromo-2'-deoxyuridine is selectively toxic to neuronal precursors in vitro</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Caldwell</snm>
+                  <fnm>MA</fnm>
+               </au>
+               <au>
+                  <snm>He</snm>
+                  <fnm>X</fnm>
+               </au>
+               <au>
+                  <snm>Svendsen</snm>
+                  <fnm>CN</fnm>
+               </au>
+            </aug>
+            <source>Eur J Neurosci</source>
+            <pubdate>2005</pubdate>
+            <volume>22</volume>
+            <fpage>2965</fpage>
+            <lpage>2970</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1111/j.1460-9568.2005.04504.x</pubid>
+                  <pubid idtype="pmpid" link="fulltext">16324131</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B36">
+            <title>
+               <p>Cognitive deficits following traumatic brain injury by controlled cortical impact</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Hamm</snm>
+                  <fnm>RJ</fnm>
+               </au>
+               <au>
+                  <snm>Dixon</snm>
+                  <fnm>CE</fnm>
+               </au>
+               <au>
+                  <snm>Gibadebo</snm>
+                  <fnm>DM</fnm>
+               </au>
+               <au>
+                  <snm>Singha</snm>
+                  <fnm>AK</fnm>
+               </au>
+               <au>
+                  <snm>Jenkins</snm>
+                  <fnm>LW</fnm>
+               </au>
+               <au>
+                  <snm>Lyeth</snm>
+                  <fnm>BG</fnm>
+               </au>
+               <au>
+                  <snm>Hayes</snm>
+                  <fnm>RL</fnm>
+               </au>
+            </aug>
+            <source>J Neurotrauma</source>
+            <pubdate>1992</pubdate>
+            <volume>9</volume>
+            <fpage>11</fpage>
+            <lpage>20</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1089/neu.1992.9.11</pubid>
+                  <pubid idtype="pmpid">1619672</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B37">
+            <title>
+               <p>SAS<sup>&#174; </sup>9.1.3 ETL Studio: User's Guide. Cary, NC: SAS Institute Inc. SAS<sup>&#174;</sup></p>
+            </title>
+            <aug>
+               <au>
+                  <cnm>SAS Institute Inc</cnm>
+               </au>
+            </aug>
+            <pubdate>2004</pubdate>
+         </bibl>
+         <bibl id="B38">
+            <title>
+               <p>Neural lineage differentiation of embryonic stem cells within alginate microbeads</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Li</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Davidovich</snm>
+                  <fnm>AE</fnm>
+               </au>
+               <au>
+                  <snm>Schloss</snm>
+                  <fnm>JM</fnm>
+               </au>
+               <au>
+                  <snm>Chippada</snm>
+                  <fnm>U</fnm>
+               </au>
+               <au>
+                  <snm>Schloss</snm>
+                  <fnm>RR</fnm>
+               </au>
+               <au>
+                  <snm>Langrana</snm>
+                  <fnm>NA</fnm>
+               </au>
+               <au>
+                  <snm>Yarmush</snm>
+                  <fnm>ML</fnm>
+               </au>
+            </aug>
+            <source>Biomaterials</source>
+            <pubdate>2011</pubdate>
+            <volume>32</volume>
+            <fpage>4489</fpage>
+            <lpage>4497</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.biomaterials.2011.03.019</pubid>
+                  <pubid idtype="pmpid" link="fulltext">21481927</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B39">
+            <title>
+               <p>New neurons follow the flow of cerebrospinal fluid in the adult brain</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Sawamoto</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Wichterle</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Gonzalez-Perez</snm>
+                  <fnm>O</fnm>
+               </au>
+               <au>
+                  <snm>Cholfin</snm>
+                  <fnm>JA</fnm>
+               </au>
+               <au>
+                  <snm>Yamada</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Spassky</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Murcia</snm>
+                  <fnm>NS</fnm>
+               </au>
+               <au>
+                  <snm>Garcia-Verdugo</snm>
+                  <fnm>JM</fnm>
+               </au>
+               <au>
+                  <snm>Marin</snm>
+                  <fnm>O</fnm>
+               </au>
+               <au>
+                  <snm>Rubenstein</snm>
+                  <fnm>JL</fnm>
+               </au>
+               <au>
+                  <snm>Tessier-Lavigne</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Okano</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Alvarez-Buylla</snm>
+                  <fnm>A</fnm>
+               </au>
+            </aug>
+            <source>Science</source>
+            <pubdate>2006</pubdate>
+            <volume>311</volume>
+            <fpage>629</fpage>
+            <lpage>632</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1126/science.1119133</pubid>
+                  <pubid idtype="pmpid" link="fulltext">16410488</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B40">
+            <title>
+               <p>Induction of neurogenesis in nonconventional neurogenic regions of the adult central nervous system by niche astrocyte-produced signals</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Jiao</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Chen</snm>
+                  <fnm>DF</fnm>
+               </au>
+            </aug>
+            <source>Stem Cells</source>
+            <pubdate>2008</pubdate>
+            <volume>26</volume>
+            <fpage>1221</fpage>
+            <lpage>1230</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1634/stemcells.2007-0513</pubid>
+                  <pubid idtype="pmcid">2683670</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18323412</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B41">
+            <title>
+               <p>Dexamethasone downregulates chemokine receptor CXCR4 and exerts neuroprotection against hypoxia/ischemia-induced brain injury in neonatal rats</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Felszeghy</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Banisadr</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Rostene</snm>
+                  <fnm>W</fnm>
+               </au>
+               <au>
+                  <snm>Nyakas</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Haour</snm>
+                  <fnm>F</fnm>
+               </au>
+            </aug>
+            <source>Neuroimmunomodulation</source>
+            <pubdate>2004</pubdate>
+            <volume>11</volume>
+            <fpage>404</fpage>
+            <lpage>413</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1159/000080151</pubid>
+                  <pubid idtype="pmpid" link="fulltext">15467356</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B42">
+            <title>
+               <p>Persistent inflammation alters the function of the endogenous brain stem cell compartment</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Pluchino</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Muzio</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Imitola</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Deleidi</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Alfaro-Cervello</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Salani</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Porcheri</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Brambilla</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Cavasinni</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Bergamaschi</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Garcia-Verdugo</snm>
+                  <fnm>JM</fnm>
+               </au>
+               <au>
+                  <snm>Comi</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Khoury</snm>
+                  <fnm>SJ</fnm>
+               </au>
+               <au>
+                  <snm>Martino</snm>
+                  <fnm>G</fnm>
+               </au>
+            </aug>
+            <source>Brain</source>
+            <pubdate>2008</pubdate>
+            <volume>131</volume>
+            <fpage>2564</fpage>
+            <lpage>2578</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1093/brain/awn198</pubid>
+                  <pubid idtype="pmcid">2570715</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18757884</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B43">
+            <title>
+               <p>Differences in the neuronal stem cells survival, neuronal differentiation and neurological improvement after transplantation of neural stem cells between mild and severe experimental traumatic brain injury</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Shindo</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Matsumoto</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Wang</snm>
+                  <fnm>Q</fnm>
+               </au>
+               <au>
+                  <snm>Kawai</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Tamiya</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Nagao</snm>
+                  <fnm>S</fnm>
+               </au>
+            </aug>
+            <source>J Med Invest</source>
+            <pubdate>2006</pubdate>
+            <volume>53</volume>
+            <fpage>42</fpage>
+            <lpage>51</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.2152/jmi.53.42</pubid>
+                  <pubid idtype="pmpid" link="fulltext">16537995</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B44">
+            <title>
+               <p>Trauma-associated inflammatory response impairs embryonic stem cell survival and integration after implantation into injured rat brain</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Molcanyi</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Riess</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Bentz</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Maegele</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Hescheler</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Sch&#228;fke</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Trapp</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Neugebauer</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Klug</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Sch&#228;fer</snm>
+                  <fnm>U</fnm>
+               </au>
+            </aug>
+            <source>J Neurotrauma</source>
+            <pubdate>2007</pubdate>
+            <volume>24</volume>
+            <fpage>625</fpage>
+            <lpage>637</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1089/neu.2006.0180</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17439346</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B45">
+            <title>
+               <p>Experimental brain injury induces regionally distinct apoptosis during the acute and delayed post-traumatic period</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Conti</snm>
+                  <fnm>AC</fnm>
+               </au>
+               <au>
+                  <snm>Raghupathi</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Trojanowski</snm>
+                  <fnm>JQ</fnm>
+               </au>
+               <au>
+                  <snm>McIntosh</snm>
+                  <fnm>TK</fnm>
+               </au>
+            </aug>
+            <source>J Neurosci</source>
+            <pubdate>1998</pubdate>
+            <volume>18</volume>
+            <fpage>5663</fpage>
+            <lpage>5672</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid" link="fulltext">9671657</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B46">
+            <title>
+               <p>Acute, regional inflammatory response after traumatic brain injury: Implications for cellular therapy</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Harting</snm>
+                  <fnm>MT</fnm>
+               </au>
+               <au>
+                  <snm>Jimenez</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Adams</snm>
+                  <fnm>SD</fnm>
+               </au>
+               <au>
+                  <snm>Mercer</snm>
+                  <fnm>DW</fnm>
+               </au>
+               <au>
+                  <snm>Cox</snm>
+                  <fnm>CS</fnm>
+                  <suf>Jr</suf>
+               </au>
+            </aug>
+            <source>Surgery</source>
+            <pubdate>2008</pubdate>
+            <volume>144</volume>
+            <fpage>803</fpage>
+            <lpage>813</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.surg.2008.05.017</pubid>
+                  <pubid idtype="pmpid" link="fulltext">19081024</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B47">
+            <title>
+               <p>Tissue-engineered lung: an in vivo and in vitro comparison of polyglycolic acid and pluronic F-127 hydrogel/somatic lung progenitor cell constructs to support tissue growth</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Cortiella</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Nichols</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Kojima</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Bonassar</snm>
+                  <fnm>LJ</fnm>
+               </au>
+               <au>
+                  <snm>Dargon</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Roy</snm>
+                  <fnm>AK</fnm>
+               </au>
+               <au>
+                  <snm>Vacanti</snm>
+                  <fnm>MP</fnm>
+               </au>
+               <au>
+                  <snm>Niles</snm>
+                  <fnm>JA</fnm>
+               </au>
+               <au>
+                  <snm>Vacanti</snm>
+                  <fnm>CA</fnm>
+               </au>
+            </aug>
+            <source>Tissue Eng</source>
+            <pubdate>2006</pubdate>
+            <volume>12</volume>
+            <fpage>1213</fpage>
+            <lpage>1225</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1089/ten.2006.12.1213</pubid>
+                  <pubid idtype="pmpid" link="fulltext">16771635</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B48">
+            <title>
+               <p>Pluronic F127 as a cell encapsulation material: utilization of membrane-stabilizing agents</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Khattak</snm>
+                  <fnm>SF</fnm>
+               </au>
+               <au>
+                  <snm>Bhatia</snm>
+                  <fnm>SR</fnm>
+               </au>
+               <au>
+                  <snm>Roberts</snm>
+                  <fnm>SC</fnm>
+               </au>
+            </aug>
+            <source>Tissue Eng</source>
+            <pubdate>2005</pubdate>
+            <volume>11</volume>
+            <fpage>974</fpage>
+            <lpage>983</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1089/ten.2005.11.974</pubid>
+                  <pubid idtype="pmpid" link="fulltext">15998236</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B49">
+            <title>
+               <p>Amphiphilic, tri-block copolymers provide potent membrane-targeted neuroprotection</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Marks</snm>
+                  <fnm>JD</fnm>
+               </au>
+               <au>
+                  <snm>Pan</snm>
+                  <fnm>CY</fnm>
+               </au>
+               <au>
+                  <snm>Bushell</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Cromie</snm>
+                  <fnm>W</fnm>
+               </au>
+               <au>
+                  <snm>Lee</snm>
+                  <fnm>RC</fnm>
+               </au>
+            </aug>
+            <source>Faseb J</source>
+            <pubdate>2001</pubdate>
+            <volume>15</volume>
+            <fpage>1107</fpage>
+            <lpage>1109</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid" link="fulltext">11292683</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B50">
+            <title>
+               <p>Surfactant poloxamer 188-related decreases in inflammation and tissue damage after experimental brain injury in rats</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Curry</snm>
+                  <fnm>DJ</fnm>
+               </au>
+               <au>
+                  <snm>Wright</snm>
+                  <fnm>DA</fnm>
+               </au>
+               <au>
+                  <snm>Lee</snm>
+                  <fnm>RC</fnm>
+               </au>
+               <au>
+                  <snm>Kang</snm>
+                  <fnm>UJ</fnm>
+               </au>
+               <au>
+                  <snm>Frim</snm>
+                  <fnm>DM</fnm>
+               </au>
+            </aug>
+            <source>J Neurosurg</source>
+            <pubdate>2004</pubdate>
+            <volume>101</volume>
+            <fpage>91</fpage>
+            <lpage>96</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid" link="fulltext">16206978</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B51">
+            <title>
+               <p>Human mesenchymal stem cell subpopulations express a variety of neuro-regulatory molecules and promote neuronal cell survival and neuritogenesis</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Crigler</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Robey</snm>
+                  <fnm>RC</fnm>
+               </au>
+               <au>
+                  <snm>Asawachaicharn</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Gaupp</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Phinney</snm>
+                  <fnm>DG</fnm>
+               </au>
+            </aug>
+            <source>Exp Neurol</source>
+            <pubdate>2006</pubdate>
+            <volume>198</volume>
+            <fpage>54</fpage>
+            <lpage>64</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.expneurol.2005.10.029</pubid>
+                  <pubid idtype="pmpid" link="fulltext">16336965</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B52">
+            <title>
+               <p>Human bone marrow-derived mesenchymal stem cells secrete brain-derived neurotrophic factor which promotes neuronal survival in vitro</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Wilkins</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Kemp</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Ginty</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Hares</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Mallam</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Scolding</snm>
+                  <fnm>N</fnm>
+               </au>
+            </aug>
+            <source>Stem Cell Res</source>
+            <pubdate>2009</pubdate>
+            <volume>3</volume>
+            <fpage>63</fpage>
+            <lpage>70</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.scr.2009.02.006</pubid>
+                  <pubid idtype="pmpid" link="fulltext">19411199</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B53">
+            <title>
+               <p>Neural tissue engineering using embryonic and induced pluripotent stem cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Willerth</snm>
+                  <fnm>SM</fnm>
+               </au>
+            </aug>
+            <source>Stem Cell Res Ther</source>
+            <pubdate>2011</pubdate>
+            <volume>2</volume>
+            <fpage>17</fpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1186/scrt58</pubid>
+                  <pubid idtype="pmcid">3226288</pubid>
+                  <pubid idtype="pmpid" link="fulltext">21539726</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B54">
+            <title>
+               <p>Neurorestorative treatments for traumatic brain injury</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Xiong</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Mahmood</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Chopp</snm>
+                  <fnm>M</fnm>
+               </au>
+            </aug>
+            <source>Discov Med</source>
+            <pubdate>2010</pubdate>
+            <volume>10</volume>
+            <fpage>434</fpage>
+            <lpage>442</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="pmcid">3122155</pubid>
+                  <pubid idtype="pmpid" link="fulltext">21122475</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B55">
+            <title>
+               <p>Growth factor and cytokine regulation of chondroitin sulfate proteoglycans by astrocytes</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Smith</snm>
+                  <fnm>GM</fnm>
+               </au>
+               <au>
+                  <snm>Strunz</snm>
+                  <fnm>C</fnm>
+               </au>
+            </aug>
+            <source>Glia</source>
+            <pubdate>2005</pubdate>
+            <volume>52</volume>
+            <fpage>209</fpage>
+            <lpage>218</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1002/glia.20236</pubid>
+                  <pubid idtype="pmpid" link="fulltext">15968632</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B56">
+            <title>
+               <p>Antioxidant, antiinflammatory and neuroprotective actions of chondroitin sulfate and proteoglycans</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Egea</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Garc&#237;a</snm>
+                  <fnm>AG</fnm>
+               </au>
+               <au>
+                  <snm>Verges</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Montell</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>L&#243;pez</snm>
+                  <fnm>MG</fnm>
+               </au>
+            </aug>
+            <source>Osteoarthritis Cartilage</source>
+            <pubdate>2010</pubdate>
+            <volume>18</volume>
+            <issue>Suppl 1</issue>
+            <fpage>S24</fpage>
+            <lpage>7</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid" link="fulltext">20864021</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B57">
+            <title>
+               <p>Chondroitin sulfate reduces cell death of rat hippocampal slices subjected to oxygen and glucose deprivation by inhibiting p38, NF&#954;B and iNOS</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Mart&#237;n-de-Saavedra</snm>
+                  <fnm>MD</fnm>
+               </au>
+               <au>
+                  <snm>del Barrio</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Ca&#241;as</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Egea</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Lorrio</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Montell</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Verg&#233;s</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Garc&#237;a</snm>
+                  <fnm>AG</fnm>
+               </au>
+               <au>
+                  <snm>L&#243;pez</snm>
+                  <fnm>MG</fnm>
+               </au>
+            </aug>
+            <source>Neurochem Int</source>
+            <pubdate>2011</pubdate>
+            <volume>58</volume>
+            <fpage>676</fpage>
+            <lpage>683</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.neuint.2011.02.006</pubid>
+                  <pubid idtype="pmpid" link="fulltext">21335047</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B58">
+            <title>
+               <p>Therapeutic effect of mesenchymal stem cells in rats with intracerebral hemorrhage: reduced apoptosis and enhanced neuroprotection</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Wang</snm>
+                  <fnm>SP</fnm>
+               </au>
+               <au>
+                  <snm>Wang</snm>
+                  <fnm>ZH</fnm>
+               </au>
+               <au>
+                  <snm>Peng</snm>
+                  <fnm>DY</fnm>
+               </au>
+               <au>
+                  <snm>Li</snm>
+                  <fnm>SM</fnm>
+               </au>
+               <au>
+                  <snm>Wang</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Wang</snm>
+                  <fnm>XH</fnm>
+               </au>
+            </aug>
+            <source>Mol Med Report</source>
+            <pubdate>2012</pubdate>
+            <volume>6</volume>
+            <fpage>848</fpage>
+            <lpage>854</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid" link="fulltext">22825663</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B59">
+            <title>
+               <p>Interactions between the NO-citrulline cycle and brain-derived neurotrophic factor in differentiation of neural stem cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Lameu</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Trujillo</snm>
+                  <fnm>CA</fnm>
+               </au>
+               <au>
+                  <snm>Schwindt</snm>
+                  <fnm>TT</fnm>
+               </au>
+               <au>
+                  <snm>Negraes</snm>
+                  <fnm>PD</fnm>
+               </au>
+               <au>
+                  <snm>Pillat</snm>
+                  <fnm>MM</fnm>
+               </au>
+               <au>
+                  <snm>Morais</snm>
+                  <fnm>KL</fnm>
+               </au>
+               <au>
+                  <snm>Lebrun</snm>
+                  <fnm>I</fnm>
+               </au>
+               <au>
+                  <snm>Ulrich</snm>
+                  <fnm>H</fnm>
+               </au>
+            </aug>
+            <source>J Biol Chem</source>
+            <pubdate>2012</pubdate>
+            <volume>287</volume>
+            <fpage>29690</fpage>
+            <lpage>29701</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1074/jbc.M111.338095</pubid>
+                  <pubid idtype="pmpid" link="fulltext">22730318</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B60">
+            <title>
+               <p>Endogenous neuroprotection factors and traumatic brain injury: mechanisms of action and implications for therapy</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Mattson</snm>
+                  <fnm>MP</fnm>
+               </au>
+               <au>
+                  <snm>Scheff</snm>
+                  <fnm>SW</fnm>
+               </au>
+            </aug>
+            <source>J Neurotrauma</source>
+            <pubdate>1994</pubdate>
+            <volume>11</volume>
+            <fpage>3</fpage>
+            <lpage>33</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1089/neu.1994.11.3</pubid>
+                  <pubid idtype="pmpid">8201625</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+      </refgrp>
+   </bm>
+</art>

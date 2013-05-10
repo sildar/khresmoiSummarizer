@@ -1,0 +1,4575 @@
+<!DOCTYPE art SYSTEM "article.dtd">
+<art>
+   <ui>scrt130</ui>
+   <ji>1757-6512</ji>
+   <fm>
+      <dochead>Research</dochead>
+      <bibl>
+         <title>
+            <p>The gene expression profiles of induced pluripotent stem cells from individuals with childhood cerebral adrenoleukodystrophy are consistent with proposed mechanisms of pathogenesis</p>
+         </title>
+         <aug>
+            <au id="A1">
+               <snm>Wang</snm>
+               <fnm>Xiao-Ming</fnm>
+               <insr iid="I1"/>
+               <email>wang14@usc.edu</email>
+            </au>
+            <au id="A2">
+               <snm>Yik</snm>
+               <mnm>Yan</mnm>
+               <fnm>Wing</fnm>
+               <insr iid="I1"/>
+               <email>yanyik@usc.edu</email>
+            </au>
+            <au id="A3">
+               <snm>Zhang</snm>
+               <fnm>Peilin</fnm>
+               <insr iid="I1"/>
+               <email>peilinzh@usc.edu</email>
+            </au>
+            <au id="A4">
+               <snm>Lu</snm>
+               <fnm>Wange</fnm>
+               <insr iid="I1"/>
+               <email>wangelu@usc.edu</email>
+            </au>
+            <au id="A5">
+               <snm>Dranchak</snm>
+               <mi>K</mi>
+               <fnm>Patricia</fnm>
+               <insr iid="I1"/>
+               <email>pdrancha@usc.edu</email>
+            </au>
+            <au id="A6">
+               <snm>Shibata</snm>
+               <fnm>Darryl</fnm>
+               <insr iid="I2"/>
+               <email>dshibata@usc.edu</email>
+            </au>
+            <au id="A7">
+               <snm>Steinberg</snm>
+               <mi>J</mi>
+               <fnm>Steven</fnm>
+               <insr iid="I3"/>
+               <email>steinbergs@kennedykrieger.org</email>
+            </au>
+            <au id="A8" ca="yes">
+               <snm>Hacia</snm>
+               <mi>G</mi>
+               <fnm>Joseph</fnm>
+               <insr iid="I1"/>
+               <email>hacia@hsc.usc.edu</email>
+            </au>
+         </aug>
+         <insg>
+            <ins id="I1">
+               <p>Department of Biochemistry and Molecular Biology, University of Southern California, 1425 San Pablo Street, Los Angeles, CA 90089, USA</p>
+            </ins>
+            <ins id="I2">
+               <p>Department of Pathology, University of Southern California, 1441 East Lake Avenue, Los Angeles, CA 90033, USA</p>
+            </ins>
+            <ins id="I3">
+               <p>Hugo W. Moser Research Institute at Kennedy Krieger, 707 North Broadway, Baltimore, MD 21205, USA</p>
+            </ins>
+         </insg>
+         <source>Stem Cell Research &amp; Therapy</source>
+         <issn>1757-6512</issn>
+         <pubdate>2012</pubdate>
+         <volume>3</volume>
+         <issue>5</issue>
+         <fpage>39</fpage>
+         <url>http://stemcellres.com/content/3/5/39</url>
+         <xrefbib>
+            <pubidlist>
+               <pubid idtype="doi">10.1186/scrt130</pubid>
+               <pubid idtype="pmpid">23036268</pubid>
+            </pubidlist>
+         </xrefbib>
+      </bibl>
+      <history>
+         <rec>
+            <date>
+               <day>20</day>
+               <month>6</month>
+               <year>2012</year>
+            </date>
+         </rec>
+         <revrec>
+            <date>
+               <day>25</day>
+               <month>8</month>
+               <year>2012</year>
+            </date>
+         </revrec>
+         <acc>
+            <date>
+               <day>4</day>
+               <month>10</month>
+               <year>2012</year>
+            </date>
+         </acc>
+         <pub>
+            <date>
+               <day>4</day>
+               <month>10</month>
+               <year>2012</year>
+            </date>
+         </pub>
+      </history>
+      <cpyrt>
+         <year>2012</year>
+         <collab>Wang et al.; licensee BioMed Central Ltd.</collab>
+         <note>This is an open access article distributed under the terms of the Creative Commons Attribution License (<url>http://creativecommons.org/licenses/by/2.0</url>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</note>
+      </cpyrt>
+      <abs>
+         <sec>
+            <st>
+               <p>Abstract</p>
+            </st>
+            <sec>
+               <st>
+                  <p>Introduction</p>
+               </st>
+               <p>X-linked adrenoleukodystrophy (X-ALD) is a complex disorder with variable expressivity that affects the nervous, adrenocortical and male reproductive systems. Although <it>ABCD1 </it>mutations are known to provide the genetic basis for X-ALD, its pathogenesis is not fully elucidated. While elevated very long chain fatty acid (VLCFA) levels in blood and reduced VLCFA catabolic activity in cultured fibroblasts are biomarkers used to identify <it>ABCD1 </it>mutation carriers, the roles peroxisomal lipid metabolism play in disease etiology are unknown.</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>Methods</p>
+               </st>
+               <p>Primary skin fibroblasts from two male patients with the childhood cerebral form of the disease (CCALD) caused by <it>ABCD1 </it>frameshift or missense mutations and three healthy donors were transduced with retroviral vectors expressing the <it>OCT4, SOX2, KLF4 </it>and c-<it>MYC </it>factors. Candidate induced pluripotent stem cells (iPSCs) were subject to global gene expression, DNA methylation, DNA copy number variation, and genotyping analysis and tested for pluripotency through <it>in vitro </it>differentiation and teratoma formation. Saturated VLCFA (sVLCFA) and plasmalogen levels in primary fibroblasts and iPSCs from healthy donors as well as CCALD patients were determined through mass spectroscopy.</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>Results</p>
+               </st>
+               <p>Skin fibroblasts from CCALD patients and healthy donors were reprogrammed into validated iPSCs. Unlike fibroblasts, CCALD patient iPSCs show differentially expressed genes (DEGs) relevant to both peroxisome abundance and neuroinflammation. Also, in contrast to fibroblasts, iPSCs from patients showed no significant difference in sVLCFA levels relative to those from controls. In all cell types, the plasmalogen levels tested did not correlate with <it>ABCD1 </it>mutation status.</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>Conclusion</p>
+               </st>
+               <p>Normal <it>ABCD1 </it>gene function is not required for reprogramming skin fibroblasts into iPSCs or maintaining pluripotency. Relative to DEGs found in fibroblasts, DEGs uncovered in comparisons of CCALD patient and control iPSCs are more consistent with major hypotheses regarding disease pathogenesis. These DEGs were independent of differences in sVLCFA levels, which did not vary according to <it>ABCD1 </it>mutation status. The highlighted genes provide new leads for pathogenic mechanisms that can be explored in animal models and human tissue specimens. We suggest that these iPSC resources will have applications that include assisting efforts to identify genetic and environmental modifiers and screening for therapeutic interventions tailored towards affected cell populations and patient genotypes.</p>
+            </sec>
+         </sec>
+      </abs>
+   </fm>
+   <bdy>
+      <sec>
+         <st>
+            <p>Introduction</p>
+         </st>
+         <p>X-linked adrenoleukodystrophy (X-ALD) is a complex disorder caused by mutations in the <it>ABCD1 </it>gene that encodes an integral peroxisome membrane protein belonging to the ATP-binding cassette transporter superfamily <abbrgrp><abbr bid="B1">1</abbr><abbr bid="B2">2</abbr><abbr bid="B3">3</abbr><abbr bid="B4">4</abbr></abbrgrp>. X-ALD primarily affects the nervous system, adrenal cortex and testes with highly variable clinical presentations that are influenced by modifier genes and the environment <abbrgrp><abbr bid="B2">2</abbr><abbr bid="B3">3</abbr></abbrgrp>. Males with <it>ABCD1 </it>mutations develop childhood cerebral ALD (CCALD) about 33% of the time and adult onset adrenomyeloneuropathy (AMN) about 45% of the time <abbrgrp><abbr bid="B2">2</abbr><abbr bid="B3">3</abbr></abbrgrp>. CCALD patients typically show symptoms between five and nine years of age with rapid cerebral demyelination and adrenocortical atrophy. Within a few years of onset, they suffer dementia and progressive neurological deficits that eventually lead to death. In contrast, AMN patients show a later onset of disease (20 to 40 years of age) and present with adrenal insufficiency, a distal axonopathy in the spinal cord and peripheral neuropathy that results in progressive spastic paraparesis with debilitating end stage disease <abbrgrp><abbr bid="B2">2</abbr><abbr bid="B3">3</abbr></abbrgrp>. Approximately 10% of hemizygotes develop primary adrenocortical insufficiency (Addison's disease) with no evidence of nervous system dysfunction <abbrgrp><abbr bid="B2">2</abbr><abbr bid="B3">3</abbr></abbrgrp>. Disease prognosis is challenging since mutations do not correlate with clinical phenotypes <abbrgrp><abbr bid="B5">5</abbr></abbrgrp> and male siblings with the same <it>ABCD1 </it>mutation, including monozygotic male twins <abbrgrp><abbr bid="B6">6</abbr><abbr bid="B7">7</abbr></abbrgrp>, can have dramatically different clinical presentations <abbrgrp><abbr bid="B8">8</abbr></abbrgrp>. Although hemizygotes typically show the most severe clinical manifestations of disease, about half of female <it>ABCD1 </it>mutation carriers develop AMN-like symptoms later in life <abbrgrp><abbr bid="B2">2</abbr><abbr bid="B3">3</abbr></abbrgrp>.</p>
+         <p>The molecular mechanisms underlying the inflammatory brain demyelination found in CCALD patients are not fully understood. It has been hypothesized to be related to the accumulation of saturated very long chain fatty acids (sVLCFAs) in specific central nervous system (CNS) cell types (for example, oligodendrocytes and microglial cells) and/or lipid classes (for example, ganglioside, phosphatidylcholine and cholesterol ester fractions) <abbrgrp><abbr bid="B9">9</abbr><abbr bid="B10">10</abbr><abbr bid="B11">11</abbr></abbrgrp>. Other hypotheses have focused on the roles of oxidative stress <abbrgrp><abbr bid="B12">12</abbr><abbr bid="B13">13</abbr><abbr bid="B14">14</abbr><abbr bid="B15">15</abbr><abbr bid="B16">16</abbr></abbrgrp>, myelin sheath integrity <abbrgrp><abbr bid="B17">17</abbr></abbrgrp>, oligodendrocyte apoptosis and microglial cell activation <abbrgrp><abbr bid="B1">1</abbr><abbr bid="B2">2</abbr></abbrgrp>, and CNS cell membrane receptors <abbrgrp><abbr bid="B18">18</abbr></abbrgrp>.</p>
+         <p>Here, we report the generation and genomic characterization of CCALD patient-specific induced pluripotent stem cell (iPSC) model systems that can provide a platform to investigate cell autonomous processes relevant to X-ALD pathogenesis. The gene expression and biochemical profiles of these patient-specific iPSCs provide a novel perspective that supports the leading hypotheses regarding disease pathogenesis. Furthermore, our resources provide a first step required for the development and interpretation of patient-specific model systems that investigate genetic modifiers, environmental risk factors and non-cell autonomous processes relevant to the etiology of X-ALD.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Materials and methods</p>
+         </st>
+         <sec>
+            <st>
+               <p>Cell culture conditions</p>
+            </st>
+            <p>Primary dermal fibroblast cultures from CCALD patients and controls were obtained from the Peroxisomal Disease Laboratory at the Kennedy Krieger Institute and Coriell Institute Cell Repositories, respectively. All cells described herein were cultured at 37&#176;C with 5% CO<sub>2</sub>. Human primary dermal fibroblasts and mitomycin inactivated mouse embryonic fibroblasts (MEFs) were cultured in fibroblast media (DMEM supplemented with 10% FBS, L-glutamine, penicillin/streptomycin, vitamin solution, and essential and nonessential amino acids (Life technologies, Foster City, CA, USA)), as previously described <abbrgrp><abbr bid="B19">19</abbr></abbrgrp>. iPSCs were cultured on a layer of mitomycin C-inactivated MEF feeder cells in iPSC medium (DMEM:F12 medium supplemented with 20% KSR, L-glutamine, penicillin/streptomycin, nonessential amino acids, &#946;-mecaptoethanol and bFGF (Life technologies, Foster City, CA, USA)) <abbrgrp><abbr bid="B20">20</abbr><abbr bid="B21">21</abbr></abbrgrp>.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Cell reprogramming</p>
+            </st>
+            <p>Five different pMX retroviral vectors designed to deliver green fluorescent protein (GFP) and human <it>OCT4, SOX2, KLF4 </it>and <it>C-MYC </it>cDNA sequences were obtained from Addgene (Cambridge, MA, USA) <abbrgrp><abbr bid="B20">20</abbr><abbr bid="B21">21</abbr></abbrgrp>. Primary human fibroblasts were twice transduced with a mixture of all five retroviruses as described <abbrgrp><abbr bid="B20">20</abbr><abbr bid="B21">21</abbr></abbrgrp>. Transduction efficiency was evaluated by GFP expression. After four days, cells were re-plated onto MEF feeders and cultured in hESC medium containing 1 mM valproic acid <abbrgrp><abbr bid="B22">22</abbr></abbrgrp>. By four weeks, candidate iPSC colonies were manually picked and clonally expanded <abbrgrp><abbr bid="B20">20</abbr><abbr bid="B21">21</abbr></abbrgrp>. A full list of the analyses conducted on each of the candidate iPSCs is described below and provided in Additional file <supplr sid="S1">1</supplr>.</p>
+            <suppl id="S1">
+               <title>
+                  <p>Additional file 1</p>
+               </title>
+               <text>
+                  <p><b>Characterization of candidate induced pluripotent stem cells (iPSCs)</b>. A complete listing of the protein, genetic, epigenetic, and cell differentiation assays performed on the iPSCs described in this study is provided.</p>
+               </text>
+               <file name="scrt130-S1.XLSX">
+                  <p>Click here for file</p>
+               </file>
+            </suppl>
+         </sec>
+         <sec>
+            <st>
+               <p>Protein pluripotency biomarker analysis</p>
+            </st>
+            <p>Alkaline phosphatase staining was performed using the leukocyte alkaline phosphatase kit (Sigma-Aldrich, St. Louis, MO, USA). For immunostaining, cells were fixed in 4% paraformaldehyde for 20 minutes, permeabilized with 1% Triton X-100 for 5 minutes except for surface marker staining, and blocked in 1% BSA in 1 &#215; PBS for 1 hour at room temperature. Primary antibody staining was performed at 4&#176;C overnight with antibodies against OCT4 and NANOG (goat polyclonal IgG against human, R&amp;D Systems, Minneapolis, MN, USA), SOX2 (goat polyclonal IgG against mouse, rat and human) and SSEA4 (mouse monoclonal IgG<sub>3 </sub>against human, Santa Cruz Biotechnology, Santa Cruz, CA, USA), TRA-1-60 (mouse monoclonal IgM against human, Millipore, Billerica, MA, USA), TuJ1 (rabbit monoclonal IgG<sub>1 </sub>against mammalian, Covance Research Products, Princeton, NJ, USA), &#945;-SMA (mouse monoclonal IgG<sub>2a </sub>against human, mouse and so on, Sigma-Aldrich, St. Louis, MO, USA), and AFP (mouse monoclonal IgG<sub>2a </sub>against human, pig and canine, Life technologies, Foster City, CA, USA). Secondary antibody staining was performed at room temperature for one hour with appropriate fluorescence conjugated secondary antibodies from Life technologies, Foster City, CA, USA and Jackson ImmunoResearch, West Grove, PA, USA. Nuclei were visualized by staining with 100 ng/ml DAPI (Life technologies, Foster City, CA, USA).</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Gene expression profiling</p>
+            </st>
+            <p>Total RNA samples (100 ng per sample) were converted into biotin-labeled cRNA targets (Affymetrix GeneChip<sup>&#174; </sup>IVT Labeling Kit, Santa Clara, CA, USA), processed and analyzed on Affymetrix Human Genome 133A 2.0 or 133 Plus 2.0 GeneChips, as previously described <abbrgrp><abbr bid="B19">19</abbr></abbrgrp>. Using WebArray software (San Diego, CA, USA), we applied the RMA algorithm to generate log2-transformed gene expression values and linear model statistical analysis (limma) to identify differentially expressed genes (DEGs) with false discovery rates (FDRs) calculated using the spacings LOESS histogram (SPLOSH) method <abbrgrp><abbr bid="B23">23</abbr><abbr bid="B24">24</abbr></abbrgrp> (Additional file <supplr sid="S2">2</supplr>). We performed hierarchical clustering analysis using Partek Genomics Suite software (St. Louis, MO, USA). We conducted GeneOntology (GO) and Kyoto Encyclopedia of Genes and Genomes (KEGG) pathway analyses using WebGestalt software (Nashville, TN, USA) <abbrgrp><abbr bid="B25">25</abbr><abbr bid="B26">26</abbr><abbr bid="B27">27</abbr></abbrgrp>. We used the DAVID (Database for Annotation, Visualization and Integrated Discovery) v6.7 bioinformatics resource <abbrgrp><abbr bid="B28">28</abbr></abbrgrp> for the annotation of gene functions. Scaled gene expression scores and .cel files are available at the National Center for Biotechnology Information (NCBI) Gene Expression Omnibus (GEO) repository under Series Accession Number GSE34308.</p>
+            <suppl id="S2">
+               <title>
+                  <p>Additional file 2</p>
+               </title>
+               <text>
+                  <p><b>Log-transformed gene expression scores from childhood cerebral adrenoleukodystrophy (CCALD) patient and healthy donor control fibroblasts and induced pluripotent stem cells (iPSCs)</b>. A complete list of log-transformed gene expression scores from CCALD patient and healthy donor control fibroblasts and iPSCs is provided.</p>
+               </text>
+               <file name="scrt130-S2.XLSX">
+                  <p>Click here for file</p>
+               </file>
+            </suppl>
+         </sec>
+         <sec>
+            <st>
+               <p>DNA methylation profiling</p>
+            </st>
+            <p>Genomic DNA was extracted from cultured cells as described <abbrgrp><abbr bid="B29">29</abbr><abbr bid="B30">30</abbr></abbrgrp> and analyzed on 450 K Infinium Methylation BeadChips (Illumina, San Diego, CA, USA), which interrogate the methylation status of over 485,000 CpG sites distributed across the human genome. The resulting data were analyzed using GenomeStudio software (that is, unmethylated to fully methylated) for each locus (Additional file <supplr sid="S3">3</supplr>). Bisulfite DNA sequencing was conducted as previously described <abbrgrp><abbr bid="B29">29</abbr><abbr bid="B30">30</abbr></abbrgrp>.</p>
+            <suppl id="S3">
+               <title>
+                  <p>Additional file 3</p>
+               </title>
+               <text>
+                  <p><b>DNA methylation assay beta-values from childhood cerebral adrenoleukodystrophy (CCALD) patient and healthy donor control fibroblasts and induced pluripotent stem cells (iPSCs)</b>. A partial list of DNA methylation assay beta-values from CCALD patient and healthy donor control fibroblasts and iPSCs is provided.</p>
+               </text>
+               <file name="scrt130-S3.XLSX">
+                  <p>Click here for file</p>
+               </file>
+            </suppl>
+         </sec>
+         <sec>
+            <st>
+               <p>Genotyping and copy number analysis</p>
+            </st>
+            <p>Genomic DNA from cultured cells was also analyzed using Human CytoSNP-12 Infinium HD BeadChips (Illumina) that interrogate the genotypes of 299,140 human single nucleotide polymorphisms (SNPs). Data filtering and analysis were performed in GenomeStudio (Illumina). Copy number analysis was performed using CNVPartition version 2.4.4 with a confidence threshold set at 50 and a minimum of 10 SNP probes per CNV region, as previously described <abbrgrp><abbr bid="B31">31</abbr></abbrgrp>. In multiple samples, we performed the global genotyping analysis two independent times and only assigned a copy number change (CNC) if both analyses were in agreement (Additional file <supplr sid="S4">4</supplr>). Dideoxysequencing of <it>ABCD1 </it>exons 1, 8 and 9 was performed as previously described <abbrgrp><abbr bid="B32">32</abbr><abbr bid="B33">33</abbr></abbrgrp>.</p>
+            <suppl id="S4">
+               <title>
+                  <p>Additional file 4</p>
+               </title>
+               <text>
+                  <p><b>Molecular karyotyping analysis of induced pluripotent stem cells (iPSCs)</b>. A full list of copy number changes detected in the iPSCs described in this study is provided.</p>
+               </text>
+               <file name="scrt130-S4.XLSX">
+                  <p>Click here for file</p>
+               </file>
+            </suppl>
+         </sec>
+         <sec>
+            <st>
+               <p><it>In vitro </it>differentiation and teratoma assays</p>
+            </st>
+            <p>iPSCs were detached from culture dishes with collagenase IV, maintained in suspension to induce embryoid body (EB) formation and subjected to an <it>in vitro </it>differentiation procedure, as described <abbrgrp><abbr bid="B34">34</abbr><abbr bid="B35">35</abbr></abbrgrp>. For teratoma analysis, iPSCs from a confluent 10 cm<sup>2 </sup>plate were harvested and subcutaneously injected to the dorsal flanks of immunodeficient (SCID) mice (Jackson Laboratory, Bar Harbor, ME, USA), as described <abbrgrp><abbr bid="B34">34</abbr></abbrgrp>. Nine weeks after injection, teratomas were excised, fixed in 10% formalin, sectioned and stained with hematoxylin and eosin.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Lipid analysis</p>
+            </st>
+            <p>We used liquid chromatography-tandem mass spectrometry (LC-MS/MS) to measure C26:0-lysophosphorylcholine and phosphatidylethanolamine (PE) plasmalogen levels in cell lysates processed by methanol extraction as described in reference <abbrgrp><abbr bid="B36">36</abbr></abbrgrp>. Herein, C26:0-lysophosphorylcholine measurements were used to evaluate VLCFA levels. The tetradeuterated analog of 1-O-hexadecyl-2-lysn-sn-3 phosphorylcholine was used to quantify PE plasmalogens. PE plasmalogens were identified based on the fragmentation patterns reported in reference <abbrgrp><abbr bid="B37">37</abbr></abbrgrp>.</p>
+         </sec>
+      </sec>
+      <sec>
+         <st>
+            <p>Results</p>
+         </st>
+         <sec>
+            <st>
+               <p>Derivation of candidate iPSCs from CCALD patient fibroblasts</p>
+            </st>
+            <p>Primary skin fibroblast cultures from three healthy donors and two CCALD patients (Table <tblr tid="T1">1</tblr>) were infected with retroviruses designed to express the human <it>OCT4, SOX2, KLF4 </it>and <it>c-MYC </it>genes (Methods). We observed iPSC-like colonies for two weeks and clonally expanded TRA-1-60 positive colonies for four weeks, consistent with prior reports of reprogramming skin fibroblasts from healthy human donors <abbrgrp><abbr bid="B38">38</abbr></abbrgrp>. All candidate iPSC colonies maintained the expected morphological features and expressed protein biomarkers of pluripotency (Figure <figr fid="F1">1A</figr>, Additional file <supplr sid="S1">1</supplr>).</p>
+            <tbl id="T1" hint_layout="double">
+               <title>
+                  <p>Table 1</p>
+               </title>
+               <caption>
+                  <p>Skin fibroblast and iPS cell donor information</p>
+               </caption>
+               <tblbdy cols="5">
+                  <r>
+                     <c ca="center">
+                        <p><b>Fibroblast ID</b></p>
+                     </c>
+                     <c ca="center">
+                        <p><b>Prior ID</b></p>
+                     </c>
+                     <c ca="center">
+                        <p><b>Status</b></p>
+                     </c>
+                     <c ca="center">
+                        <p><b>iPS cell ID#</b></p>
+                     </c>
+                     <c ca="center">
+                        <p><b>Genotype</b></p>
+                     </c>
+                  </r>
+                  <r>
+                     <c cspan="5">
+                        <hr/>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="center">
+                        <p><b>Control1</b></p>
+                     </c>
+                     <c ca="center">
+                        <p>AG05838</p>
+                     </c>
+                     <c ca="center">
+                        <p>Healthy female,</p>
+                        <p>age 36 yr,</p>
+                        <p>passage 6 for reprogramming</p>
+                     </c>
+                     <c ca="center">
+                        <p>Control1-iPS1</p>
+                        <p>Control1-iPS2</p>
+                        <p>Control1-iPS3</p>
+                        <p>Control 1-iPS4</p>
+                     </c>
+                     <c ca="center">
+                        <p>Presumed wild type</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="center">
+                        <p><b>Control2</b></p>
+                     </c>
+                     <c ca="center">
+                        <p>AG09599</p>
+                     </c>
+                     <c ca="center">
+                        <p>Healthy female,</p>
+                        <p>age 30 yr,</p>
+                        <p>passage 8.5 for reprogramming</p>
+                     </c>
+                     <c ca="center">
+                        <p>Control2-iPS1</p>
+                        <p>Control2-iPS2</p>
+                        <p>Control2-iPS3</p>
+                        <p>Control2-iPS4</p>
+                     </c>
+                     <c ca="center">
+                        <p>Presumed wild type</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="center">
+                        <p><b>Control3</b></p>
+                     </c>
+                     <c ca="center">
+                        <p>AG13153</p>
+                     </c>
+                     <c ca="center">
+                        <p>Healthy male,</p>
+                        <p>age 30 yr,</p>
+                        <p>passage 9.5 for reprogramming</p>
+                     </c>
+                     <c ca="center">
+                        <p>Control2-iPS1</p>
+                     </c>
+                     <c ca="center">
+                        <p>Presumed wild type</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="center">
+                        <p><b>CCALD1</b></p>
+                     </c>
+                     <c ca="center">
+                        <p>216212</p>
+                     </c>
+                     <c ca="center">
+                        <p>Male CCALD patient</p>
+                        <p>Age 9 yr,</p>
+                        <p>passage 8 for reprogramming</p>
+                     </c>
+                     <c ca="center">
+                        <p>CCALD1-iPS1</p>
+                        <p>CCALD1-iPS2</p>
+                        <p>CCALD1-iPS3</p>
+                        <p>CCALD1-iPS4</p>
+                     </c>
+                     <c ca="center">
+                        <p>hemizygous <it>ABCD1</it></p>
+                        <p>c. 253_254insC; p.P84</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="center">
+                        <p><b>CCALD2</b></p>
+                     </c>
+                     <c ca="center">
+                        <p>306463</p>
+                     </c>
+                     <c ca="center">
+                        <p>Male CCALD patient</p>
+                        <p>Age 11 yr,</p>
+                        <p>passage 8 for reprogramming</p>
+                     </c>
+                     <c ca="center">
+                        <p>CCALD2-iPS1</p>
+                     </c>
+                     <c ca="center">
+                        <p>hemizygous <it>ABCD1</it></p>
+                        <p>c.1847C > T; p.A616V</p>
+                     </c>
+                  </r>
+               </tblbdy>
+            </tbl>
+            <fig id="F1">
+               <title>
+                  <p>Figure 1</p>
+               </title>
+               <caption>
+                  <p>Characterization of iPSCs from patient with CCALD</p>
+               </caption>
+               <text>
+                  <p><b>Characterization of iPSCs from patient with CCALD</b>. <b>(A) </b>Representative images of alkaline phosphatase (AP) staining and pluripotency protein biomarker immunostaining analysis of childhood cerebral adrenoleukodystrophy (CCALD) patient induced pluripotent stem cell (iPSCs) are presented. <b>(B) </b>Representative CCALD iPSCs were subject to <it>in vitro </it>differentiation (Materials and methods) and cell lineages derived from all three germ layers were identified by immunostaining, as depicted. Antibodies against Tuj1, &#945;SMA and AFP were used to identify cells of ectodermal, mesodermal, and endodermal origin, respectively. <b>(C) </b>Histological analysis of teratomas derived from representative CCALD iPSC clones from two patients is provided. Evidence of cell lineages derived from all three germ layers is provided. C, Cartilage tissue; G, Glandular tissue; N, Neural rosettes; P, pigment neuroepithelium. Scale bar = 50 &#956;m.</p>
+               </text>
+               <graphic file="scrt130-1" hint_layout="double"/>
+            </fig>
+         </sec>
+         <sec>
+            <st>
+               <p>Genotypes and DNA copy number profiles of iPSCs</p>
+            </st>
+            <p>We confirmed that the patient iPSCs had the expected mutant <it>ABCD1 </it>genotypes and that control iPSCs lacked these specific <it>ABCD1 </it>mutations by dideoxysequencing. As determined by BeadArray analysis, the genotypes of over 290,000 SNPs in iPSCs and original fibroblasts were > 99.9% concordant. Based on the same genotyping data, we did not detect copy number changes (CNCs, that is, insertions or deletions greater than 10-kb in length) in patient CCALD1-1, CCALD1-2 and CCALD2-1 iPSCs or Control1-3, Control1-4 and Control2-1 iPSCs (Additional file <supplr sid="S4">4</supplr>). Consistent with prior reports of reprogrammed human cells <abbrgrp><abbr bid="B39">39</abbr><abbr bid="B40">40</abbr><abbr bid="B41">41</abbr></abbrgrp>, we detected CNCs in 8/14 (57%) iPSCs analyzed (Additional file <supplr sid="S4">4</supplr>). These iPSCs had one (CCALD1-3, CCALD1-4 and Control2-3), two (Control1-2 and Control3-1), three (Control2-2 and Control2-4) or five (Control1-1) separate genomic regions affected by a CNC (Additional file <supplr sid="S4">4</supplr>).</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Gene expression profiles of CCALD and control donor cells</p>
+            </st>
+            <p>We validated the robust expression of previously reported iPSC signature genes in control and CCALD donor-derived iPSCs and skin fibroblasts <abbrgrp><abbr bid="B38">38</abbr></abbrgrp> based on a subset of the data generated from global expression profiling of over 18,000 transcripts (Figure <figr fid="F2">2A</figr>). Unsupervised hierarchical clustering analysis based on the expression of preselected pluripotency biomarkers or the most variable transcripts (that is, coefficient of variation (CV) > 0.10 across all samples)) produced two distinct clusters consisting of skin fibroblasts and the iPSCs (Figure <figr fid="F1">1</figr> and Additional file <supplr sid="S5">5</supplr>).</p>
+            <fig id="F2">
+               <title>
+                  <p>Figure 2</p>
+               </title>
+               <caption>
+                  <p>The gene expression and DNA methylation profiles of fibroblasts and iPSCs</p>
+               </caption>
+               <text>
+                  <p><b>The gene expression and DNA methylation profiles of fibroblasts and iPSCs</b>. <b>(A) </b>A dendrogram generated based on the unsupervised hierarchical clustering analysis of gene expression data from childhood cerebral adrenoleukodystrophy (CCALD) patient and control fibroblasts and induced pluripotent stem cells (iPSCs) is provided. The analysis was based on data from 672 probe sets producing log2-tranformed gene expression scores with coefficient of variation (CV) > 0.25 and conducted using average linkage and Euclidean distance; <b>(B) </b>A dendrogram generated based on the unsupervised hierarchical clustering analysis of DNA methylation data from CCALD patient and control fibroblasts and iPSCs is provided. Data from 7,493 DNA methylation assays interrogating autosomal CpG loci with CV > 0.5 and the fifth largest and smallest &#946;-values being > 0.6 and &lt; 0.4, respectively, were used in this analysis in order to represent the most variable loci. Clustering was performed using average linkage and the Pearson dissimilarity distance.</p>
+               </text>
+               <graphic file="scrt130-2" hint_layout="double"/>
+            </fig>
+            <suppl id="S5">
+               <title>
+                  <p>Additional file 5</p>
+               </title>
+               <text>
+                  <p><b>Hierarchical clustering analysis gene expression data from childhood cerebral adrenoleukodystrophy (CCALD) patient and control fibroblasts and induced pluripotent stem cells (iPSCs) based on pluripotency genes</b>. The analysis was based on gene expression data from 30 pluripotency genes reported in reference <abbrgrp><abbr bid="B41">41</abbr></abbrgrp> and performed with average-linkage and Euclidean distance.</p>
+               </text>
+               <file name="scrt130-S5.PPTX">
+                  <p>Click here for file</p>
+               </file>
+            </suppl>
+         </sec>
+         <sec>
+            <st>
+               <p>DNA methylation profiles of CCALD and control donor cells</p>
+            </st>
+            <p>We performed global DNA methylation analysis interrogating over 485,000 CpG sites of all starting fibroblast cultures and reprogrammed iPSCs (Table <tblr tid="T1">1</tblr>) (Methods). Hierarchical clustering analysis demonstrated that the iPSCs and fibroblasts have distinct DNA methylation profiles that were independent of <it>ABCD1 </it>mutation status (Figure <figr fid="F2">2B</figr>).</p>
+         </sec>
+         <sec>
+            <st>
+               <p><it>In vitro </it>differentiation of CCALD patient iPSCs and <it>in vivo </it>teratoma formation</p>
+            </st>
+            <p>All control and CCALD patient-derived iPSCs subjected to <it>in vitro </it>embryoid body assays produced cells derived from all three germ layers (Methods) (Figure <figr fid="F1">1B</figr>). Furthermore, all three iPSCs tested (one control and two CCALD patient donors) formed teratomas when injected into immune-deficient mice (Methods). In all these teratomas, histological analysis demonstrated the presence of tissues representative of all three germ layers (Figure <figr fid="F1">1C</figr>).</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Comparative lipid profiling of cells from healthy donors and those with CCALD</p>
+            </st>
+            <p>Consistent with prior reports <abbrgrp><abbr bid="B42">42</abbr></abbrgrp>, cultured CCALD patient skin fibroblasts grown in fibroblast growth media showed 4.3-fold elevated VLCFA levels (based on C26:0-lysophosphorylcholine measurements, see Materials and methods), but similar PE plasmalogen levels relative to fibroblasts from healthy donors (Figure <figr fid="F3">3A, C</figr>)). Similarly, we found 3.8-fold elevated VLCFA levels, but comparable PE plasmalogen levels, in patients relative to control fibroblasts grown under the same conditions in iPSC media (Figure <figr fid="F3">3A, C</figr>). In contrast, no significant differences were found for either VLCFA or PE plasmalogen levels in patient and control iPSCs cultured under the same conditions in iPSC media (Figure <figr fid="F3">3</figr>). Nevertheless, all fibroblast cultures had approximately two-fold elevated PE plasmalogen levels when grown in iPSC relative to fibroblast growth media. The fact that iPSCs cannot be maintained in the undifferentiated state in fibroblast media precluded lipid analyses under these conditions.</p>
+            <fig id="F3">
+               <title>
+                  <p>Figure 3</p>
+               </title>
+               <caption>
+                  <p>Comparison of saturated very long chain fatty acid (sVLCFA) and plasmalogen levels in patient and healthy control fibroblasts and iPSCs</p>
+               </caption>
+               <text>
+                  <p><b>Comparison of saturated very long chain fatty acid (sVLCFA) and plasmalogen levels in patient and healthy control fibroblasts and iPSCs</b>. <b>(A) </b>Relative sVLCFA levels in patient and healthy control fibroblasts grown in fibroblast media or iPSC media, as represented by the C26:0/C22:0 LPC (lysophosphatidylcholine) ratio; <b>(B) </b>Relative sVLCFA levels in patient and healthy control iPSC clones grown in induced pluripotent stem cell (iPSC) media, again represented by the C26:0/C22:0 LPC ratio; <b>(C) </b>Relative plasmalogen level in patient and healthy control fibroblasts grown in fibroblast media and iPSC media, as represented by the total phosphatidyl ethanolamine (PE) plasmalogen/C22:0 lysophosphatidylcholine (LPC) ratio; <b>(D) </b>Relative plasmalogen in patient and healthy control iPSC clones grown in iPSC media, again represented by the total PE plasmalogen/C22:0 LPC ratio.</p>
+               </text>
+               <graphic file="scrt130-3" hint_layout="double"/>
+            </fig>
+         </sec>
+         <sec>
+            <st>
+               <p>Differential gene expression among patient and control cells</p>
+            </st>
+            <p>Among the two patient and three control fibroblasts used for reprogramming, no differentially expressed genes (DEGs) ( > 1.2-fold change, FDR &lt; 0.1) were found. This was not unexpected due to the limited number of samples analyzed. To enhance our ability to detect potential DEGs, we conducted a larger-scale gene expression analysis ( > 47,000 transcripts) using cultured skin fibroblasts from five healthy control donors and five CCALD patients. In these studies, we identified 127 DEGs (44 with lower and 83 with higher expression in patient relative to control fibroblasts) (Additional File <supplr sid="S6">6</supplr>).</p>
+            <suppl id="S6">
+               <title>
+                  <p>Additional file 6</p>
+               </title>
+               <text>
+                  <p><b>Differential gene expression between childhood cerebral adrenoleukodystrophy (CCALD) patient and healthy donor control fibroblasts</b>. A complete list of all gene expression scores and differentially expressed genes (DEGs) between CCALD patient and healthy donor control fibroblasts is provided.</p>
+               </text>
+               <file name="scrt130-S6.XLSX">
+                  <p>Click here for file</p>
+               </file>
+            </suppl>
+            <p>Based on GeneOntology (GO) analysis, we found a total of 13 functional categories enriched (&#8805; 4 genes, B-H corrected <it>P </it>&lt; 0.05) for DEGs with higher expression in patient relative to control fibroblasts (Additional file <supplr sid="S7">7</supplr>). Of these, the most specific GO category was nuclear lumen genes. KEGG analysis did not show any enriched categories (&#8805; 4 genes, B-H corrected <it>P </it>&lt; 0.05) for DEGs with higher expression in patient relative to control fibroblasts. In contrast, DEGs with lower expression in patient relative to healthy control fibroblasts were enriched for one KEGG category ('Pathways in Cancer' as represented by the <it>SMAD3, LAMA4, PML </it>and <it>DAPK1 </it>genes), but no GO categories.</p>
+            <suppl id="S7">
+               <title>
+                  <p>Additional file 7</p>
+               </title>
+               <text>
+                  <p><b>Gene Ontology (GO) analysis of differentially expressed genes (DEGs) between childhood cerebral adrenoleukodystrophy (CCALD) patient and healthy donor control fibroblasts</b>. GO analysis of DEGs between CCALD patient and healthy donor control fibroblasts is provided.</p>
+               </text>
+               <file name="scrt130-S7.XLSX">
+                  <p>Click here for file</p>
+               </file>
+            </suppl>
+            <p>Given the possible gaps in public databases of gene functions relevant to peroxisome biology and X-ALD pathogenesis, we used the DAVID Bioinformatics resource to annotate the function of DEGs and manually searched for genes relevant to peroxisome biology, lipid metabolism, oxidative stress and neuroinflammation (Additional file <supplr sid="S8">8</supplr>). The only peroxisomal gene was <it>AGPS</it>, which is involved in plasmalogen (a type of ether phospholipid) biosynthesis, and it had higher expression in patient fibroblasts. Nevertheless, we note that the PE plasmalogen levels in patient and healthy control fibroblasts were similar under both growth conditions (Figure <figr fid="F3">3C</figr>). Two gene encoding enzymes involved in the Lands cycle, deacylation/reacylation reactions responsible for glycerophospholipid remodeling <abbrgrp><abbr bid="B43">43</abbr></abbrgrp>, were present with the higher expression of <it>LYPLA1 </it>(deacylation), but lower expression of <it>MBOAT7 </it>(reacylation), in patients relative to control fibroblasts. Two DEGs were involved in sphingosine metabolism with <it>SMPD1</it>, which converts sphingomyelin to ceramide, showing lower expression in patients relative to control fibroblasts and <it>SGPL1</it>, which degrades sphingosine-1-phosphate, showing higher expression in patients relative to control fibroblasts. This is of interest given the differences in the sphingolipid composition of white matter from the brains of CCALD and healthy individuals <abbrgrp><abbr bid="B44">44</abbr></abbrgrp>. No genes involved in classic oxidative stress responses were found in the list. The DEGs strongly or primarily related to neuroinflammation included <it>CBLB, RAB27A </it>and <it>TCF3</it>, which showed higher expression in patient fibroblasts, as well as <it>CD81, MASP1 </it>and <it>GRK5</it>, which showed higher expression in control fibroblasts.</p>
+            <suppl id="S8">
+               <title>
+                  <p>Additional file 8</p>
+               </title>
+               <text>
+                  <p><b>The Database for Annotation, Visualization and Integrated Discovery (DAVID) annotation of differentially expressed genes (DEGs) found in childhood cerebral adrenoleukodystrophy (CCALD) patient and control donor fibroblasts</b>. DAVID annotation of DEGs found in CCALD patient and control donor fibroblasts is provided.</p>
+               </text>
+               <file name="scrt130-S8.XLSX">
+                  <p>Click here for file</p>
+               </file>
+            </suppl>
+            <p>Based on our manual curation, we found that the identity of approximately 40% of the DEGs (46 total) were consistent with the expression profiles of cultured fibroblasts related to the site of skin biopsy (Additional file <supplr sid="S6">6</supplr>). All these genes showed the highest variability in expression based on biopsy sites, as described in reference <abbrgrp><abbr bid="B45">45</abbr></abbrgrp>. We also note that the expression profiles of 4/6 DEGs described above as being involved in neuroinflammation, (<it>RAB27A, CD81, MASP1 </it>and <it>GRK5</it>), are also influenced by the biopsy site. Although all the fibroblasts in our study were obtained from the upper limbs, the control and patient donor cells were collected and expanded at different laboratories (Methods), which could influence their gene expression signatures.</p>
+            <p>We identified 75 DEGs (22 with higher and 53 with lower expression in patient relative to control cells) based on the gene expression profiles of five CCALD iPSCs from two CCALD donors and nine control iPSCs from three healthy donors (Additional file <supplr sid="S9">9</supplr>). There was no overlap with the Affymetrix probe IDs of the DEGs uncovered in the cultured skin fibroblasts from the five healthy controls and five CCALD patient donors discussed above. Different Affymetrix probe IDs interrogated the <it>CEP57 </it>gene indicated it was a DEG in both systems, but in opposing directions (that is, higher in patient relative to control fibroblasts, but higher in control relative to patient iPSCs). Based on GO analysis, we found a total of 14 functional categories enriched (&#8805; 4 genes, B-H corrected <it>P </it>&lt; 0.05) for DEGs with higher expression in patient relative to control cells (Additional file <supplr sid="S10">10</supplr>). These included blood vessel morphogenesis, regulation of cellular protein metabolic process and carboxylic acid metabolic process. In contrast, GO analysis identified no enriched categories for DEGs with higher expression in healthy control cells. KEGG analysis did not identify any enriched pathways (&#8805; 4 genes, B-H corrected <it>P </it>&lt; 0.05) for DEGs with higher expression in either the patient or control cells.</p>
+            <suppl id="S9">
+               <title>
+                  <p>Additional file 9</p>
+               </title>
+               <text>
+                  <p><b>Differential gene expression between childhood cerebral adrenoleukodystrophy (CCALD) patient and healthy donor control iPSCs</b>. A complete list of differentially expressed genes (DEGs) between CCALD patient and healthy donor control induced pluripotent stem cells (iPSCs) is provided.</p>
+               </text>
+               <file name="scrt130-S9.XLSX">
+                  <p>Click here for file</p>
+               </file>
+            </suppl>
+            <suppl id="S10">
+               <title>
+                  <p>Additional file 10</p>
+               </title>
+               <text>
+                  <p><b>Gene Ontology (GO) analysis of differentially expressed genes (DEGs) between childhood cerebral adrenoleukodystrophy (CCALD) patient and healthy donor control induced pluripotent stem cells (iPSCs)</b>. GO analysis of DEGs between CCALD patient and healthy donor control iPSCs is provided.</p>
+               </text>
+               <file name="scrt130-S10.XLSX">
+                  <p>Click here for file</p>
+               </file>
+            </suppl>
+            <p>Although GO and KEGG analysis did not highlight biological processes proposed to be relevant to disease, inspection of the DEG functions based on the DAVID Bioinformatics resource (Additional file <supplr sid="S11">11</supplr>) uncovered genes associated with major hypotheses pertinent to X-ALD pathogenesis. Among the relevant genes with reduced expression in CCALD patient relative to healthy donor-derived iPSCs were <it>PEX11B </it>(confirmed by qPCR in Figure <figr fid="F4">4</figr>) and <it>CD200</it>. The former plays a pivotal role in peroxisome proliferation and maintenance <abbrgrp><abbr bid="B46">46</abbr><abbr bid="B47">47</abbr></abbrgrp>. Decreased <it>CD200 </it>expression is associated with the activation and accumulation of macrophages, including brain microglia, and causes inflammatory responses in other systems <abbrgrp><abbr bid="B48">48</abbr><abbr bid="B49">49</abbr></abbrgrp>. DEGs with higher expression in patient relative to control iPSCs were also related to hypotheses relevant to X-ALD pathogenesis and lipid metabolism. <it>ULK1 </it>is the mammalian homolog of the yeast <it>Atg1 </it>gene, which plays a critical role in the autophagy-mediated turnover of peroxisomes in yeast <abbrgrp><abbr bid="B50">50</abbr></abbrgrp>. <it>PLA2G2A </it>is involved in phospholipid turnover <abbrgrp><abbr bid="B51">51</abbr></abbrgrp>. <it>NAAA, THBS1 </it>and <it>BSG </it>all have functions related to neuroinflammation <abbrgrp><abbr bid="B52">52</abbr><abbr bid="B53">53</abbr><abbr bid="B54">54</abbr><abbr bid="B55">55</abbr><abbr bid="B56">56</abbr><abbr bid="B57">57</abbr><abbr bid="B58">58</abbr><abbr bid="B59">59</abbr><abbr bid="B60">60</abbr><abbr bid="B61">61</abbr></abbrgrp>. <it>SLC7A8 </it>is a transporter of thyroid hormones, which can induce peroxisomal biogenesis and &#946;-oxidation as well as the <it>ABCD2 </it>expression, whose induction can correct biochemical functions of X-ALD patient fibroblasts <abbrgrp><abbr bid="B62">62</abbr></abbrgrp>.</p>
+            <suppl id="S11">
+               <title>
+                  <p>Additional file 11</p>
+               </title>
+               <text>
+                  <p><b>Database for Annotation, Visualization and Integrated Discovery (DAVID) annotation of differentially expressed genes (DEGs) found in childhood cerebral adrenoleukodystrophy (CCALD) patient and control donor induced pluripotent stem cells (iPSCs)</b>. DAVID annotation of DEGs found in CCALD patient and control donor iPSCs is provided.</p>
+               </text>
+               <file name="scrt130-S11.XLSX">
+                  <p>Click here for file</p>
+               </file>
+            </suppl>
+            <fig id="F4">
+               <title>
+                  <p>Figure 4</p>
+               </title>
+               <caption>
+                  <p>qRT-PCR confirmation of <it>PEX11B </it>gene expression in patient and healthy control iPSCs</p>
+               </caption>
+               <text>
+                  <p><b>qRT-PCR confirmation of <it>PEX11B </it>gene expression in patient and healthy control iPSCs</b>. Data from the analysis of <it>PEX11B </it>gene expression levels are provided. The error bars represent one standard deviation. The expression was lower in patients relative to control cells (two-tailed Student's <it>t</it>-test <it>P</it>-value &lt; 0.5).</p>
+               </text>
+               <graphic file="scrt130-4" hint_layout="double"/>
+            </fig>
+         </sec>
+         <sec>
+            <st>
+               <p>Robust differences in DNA methylation frequently found between fibroblasts and iPSCs are not associated with <it>ABCD1 </it>mutation status</p>
+            </st>
+            <p>In our global DNA methylation analysis (Methods), the starting 5 fibroblasts and 14 iPSCs showed over 62,000 loci where there was a 0.25 unit difference in average &#946;-values and B-H corrected <it>P </it>&lt; 0.05 (Additional file <supplr sid="S12">12</supplr>). To focus on the most robust differentially methylated loci (DML), we identified 744 sites that were hypomethylated (&#946; &lt; 0.2) in all samples of one group and hypermethylated (&#946; > 0.8) in all samples in the remaining group (fibroblasts and iPSCs). We identified 266 distinct genes proximal to at least one DML with approximately half of them (49%) being poorly expressed ( &lt; 60<sup>th </sup>percentile) in all samples regardless of its methylation status, consistent with our prior results involving the co-analysis of DNA methylation and gene expression profiles in normal and cancerous B-cell populations <abbrgrp><abbr bid="B29">29</abbr><abbr bid="B30">30</abbr></abbrgrp>. Nevertheless, 60 genes (23%) were at least modestly higher expressed when the proximal CpG locus was in the hypomethylated relative to hypermethylated state ( > 1.5-fold change, FDR &lt; 0.1 and expressed > 60<sup>th </sup>percentile in the hypomethylated state).</p>
+            <suppl id="S12">
+               <title>
+                  <p>Additional file 12</p>
+               </title>
+               <text>
+                  <p><b>Differentially methylated loci (DML) between fibroblasts and induced pluripotent stem cells (iPSCs)</b>. A complete list of DML between fibroblasts and iPSCs is provided.</p>
+               </text>
+               <file name="scrt130-S12.XLSX">
+                  <p>Click here for file</p>
+               </file>
+            </suppl>
+            <p>In contrast, we only found five robust DMLs in comparisons of two patient and three control fibroblasts and one robust DML in comparisons of five patient and nine control iPSCs (Additional file <supplr sid="S13">13</supplr>). The DML present in the iPSC analysis was also present in the fibroblast analysis, with higher methylation being found in all CCALD patients relative to control donor cells regardless of <it>ABCD1 </it>mutation status. This shared DML was proximal to the <it>PRDM15 </it>gene, whose expression was not interrogated in our global GeneChip gene expression assays. The remaining four DMLs in fibroblasts were proximal to the <it>PAX3, CCDC140, UTRN </it>and <it>BAIAP2 </it>genes. All three of the genes interrogated by our GeneChip expression assays (<it>PAX3, UTRN </it>and <it>BAIAP</it>) were poorly expressed in all fibroblasts regardless of <it>ABCD1 </it>mutation status.</p>
+            <suppl id="S13">
+               <title>
+                  <p>Additional file 13</p>
+               </title>
+               <text>
+                  <p><b>Differentially methylated loci (DML) between patient and control fibroblasts and induced pluripotent stem cells (iPSCs)</b>. A complete list of DML between patient and control fibroblasts and iPSCs is provided.</p>
+               </text>
+               <file name="scrt130-S13.XLSX">
+                  <p>Click here for file</p>
+               </file>
+            </suppl>
+         </sec>
+         <sec>
+            <st>
+               <p>Local gene expression is not substantially affected by CNCs found in iPSCs</p>
+            </st>
+            <p>To begin to address the influence that CNCs present in iPSC have on their transcriptome, we focused on the expression profiles of genes residing in the affected genomic regions. A total of 11 amplified segments containing 22 unique genes were found in 8 iPSCs. Only six of these unique genes showed elevated expression in the amplified relative to the diploid samples (that is, a > 1.2-fold increase relative to the mean expression scores of diploid samples and falling outside their range). This included the <it>ID1 </it>gene in CCALD1-3, <it>WWC1 </it>gene in CCALD1-4, and <it>IQCA1, CXCR7, SQLE </it>and <it>KIAA0196 </it>genes in Control1-1.</p>
+            <p>Three iPSCs (Control2-2, Control2-4 and Control3-1) showed evidence of having at least one genomic deletion, with evidence in each case that one allele was retained. Collectively, five unique genes were present in the four deleted genomic regions in these iPSCs. There was no evidence of reduced expression in the samples with reduced copy number (that is, > 1.2-fold decrease relative to the mean expression scores of diploid samples and falling outside their range).</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Amplified or deleted segments show no differences in DNA methylation status</p>
+            </st>
+            <p>A total of 745 DNA methylation assays interrogated loci located within amplified regions present in control or patient iPSCs. In all cases, the DNA methylation status of such genomic regions was similar regardless of whether it was in the diploid or amplified state. In fact, we observed no evidence of a block of DNA methylation change associated with a CNC (that is, three or more contiguous assays wherein the &#946;-value of the amplified segment was greater than 0.2 units outside the range of the diploid samples).</p>
+            <p>Next, we accessed the methylation status of genomic regions subject to a loss of copy number in iPSCs. A total of 79 DNA methylation assays interrogate loci with the genomic regions of heterozygous deletion. The affected samples included Control2-iPS2 (chr13:q14.2), Control2-iPS4 (chr2:q33.3) and Control3-iPS1 (chr3:p14.2 and chr5:p15.2). Again, we observed no evidence of a block of DNA methylation change associated with a CNC (that is, three or more contiguous assays wherein the &#946;-value of the deleted segment fell more than 0.2 units outside the range of the diploid samples).</p>
+         </sec>
+      </sec>
+      <sec>
+         <st>
+            <p>Discussion</p>
+         </st>
+         <p>X-ALD is a complex peroxisomal disorder with variable expressivity. Although its primary genetic basis has been known for some time <abbrgrp><abbr bid="B1">1</abbr><abbr bid="B2">2</abbr><abbr bid="B3">3</abbr><abbr bid="B4">4</abbr></abbrgrp>, the exact nature of X-ALD pathogenesis and its genetic and environmental modifiers have not been elucidated. Here, we generated iPSC resources for the longer-term purpose of developing novel tissue culture models for elucidating the pathogenesis of X-ALD and screening for more effective drug therapies. In keeping with prior reports <abbrgrp><abbr bid="B63">63</abbr></abbrgrp>, skin fibroblasts from <it>ABCD1 </it>mutation carriers can be reprogrammed to form iPSCs with the hallmark molecular properties of pluripotency, including the expression of appropriate gene and protein biomarkers and changes in DNA methylation levels, as summarized in Additional file <supplr sid="S1">1</supplr>. Patient iPSCs could be differentiated into embryoid bodies and differentiated <it>in vitro </it>into representative cell types of all three germ layers. Most importantly, patient iPSCs formed teratomas with evidence of cell types from all three germ layers.</p>
+         <p>Consistent with prior reports <abbrgrp><abbr bid="B64">64</abbr><abbr bid="B65">65</abbr><abbr bid="B66">66</abbr></abbrgrp>, we identified <it>de novo </it>CNCs over 10-kb in length in approximately half of our iPSCs. These CNCs were only found in healthy donor iPSCs and not those generated from patient cells (Additional file <supplr sid="S4">4</supplr>). The observed genomic deletions always provided evidence of affecting only one allele and genomic amplifications always involved a limited increase in copy number (three to four copies maximum). Due to the fact that we conducted global expression and DNA methylation analyses on these samples, we could investigate the effects that these CNCs have on the expression of genes located within affected genomic segments. In almost all circumstances, their expression levels were within the range of diploid samples. Although multiple factors likely contribute to these observations, we favor the explanation that this primarily reflects the effects of selection whereby CNCs are only tolerated in iPSCs if they involve genomic regions that do not influence the initiation of reprogramming or maintenance of pluripotency.</p>
+         <p>As a result of our genomic characterization of these cell resources, we acquired global gene expression data from patient and control fibroblasts. Many DEGs were previously reported to be associated with the site of biopsy <abbrgrp><abbr bid="B45">45</abbr></abbrgrp>. This is reasonable given that the patient and control fibroblasts were acquired from different institutions even though all biopsies involved the upper limbs of donors. We sought to determine if there was enrichment for functional categories or biological processes in the DEGs, keeping in mind the limitations of using cultured cells to study complex diseases involving interactions between multiple organ systems. Only very broad functional categories or KEGG pathways were highlighted in these analyses, with none of them showing a direct relation to disease.</p>
+         <p>Since there are likely to be gaps in public databases of processes relevant to peroxisome biology and X-ALD pathogenesis, we conducted a manual inspection of gene annotations provided by the DAVID bioinformatics resource and found multiple DEGs involved in immune related processes, but only two (<it>CBLB </it>and <it>RAB27A</it>) of these genes were not associated with the site of biopsy. <it>CBLB </it>plays a critical role in antigen-induced immune tolerance and <it>Cblb</it>-deficient mice immunized with myelin basic protein are more susceptible to experimental autoimmune encephalomyelitis (EAE), a model for multiple sclerosis <abbrgrp><abbr bid="B67">67</abbr><abbr bid="B68">68</abbr></abbrgrp>. <it>RAB27A </it>mutations can lead to an uncontrolled T lymphocyte and macrophage activation syndrome in humans, with some individuals showing possible leukocyte brain infiltration <abbrgrp><abbr bid="B69">69</abbr></abbrgrp>. In one Saudi Arabian kindred, <it>RAB27 </it>mutations were associated with immunodeficiency and progressive demyelination of brain white matter <abbrgrp><abbr bid="B70">70</abbr></abbrgrp>.</p>
+         <p>The DEGs found in patient and control iPSCs did not overlap with those found in fibroblasts and instead were consistent with several leading hypotheses regarding X-ALD pathogenesis. This suggests that the reprogramming process can minimize the confounding influence the site of skin biopsy has on the gene expression profiles of cultured fibroblasts. In particular, we highlight the reduced expression of <it>PEX11B</it>, a major controller of peroxisome proliferation and neuroinflammatory genes, in patient relative to control iPSCs. <it>Pex11B </it>null mice show several pathologic features, including neuronal migration defects, enhanced neuronal apoptosis, developmental delay, hypotonia and neonatal lethality <abbrgrp><abbr bid="B71">71</abbr></abbrgrp>. Despite these severe phenotypes, <it>Pex11B </it>null mice displays only mild defects in peroxisomal fatty acid beta-oxidation and ether lipid biosynthesis <abbrgrp><abbr bid="B71">71</abbr></abbrgrp>. Intriguingly, the deletion of a single <it>Pex11B </it>allele leads to a slightly increased number of peroxisomes, increased levels of oxidative stress in brain tissue, and neuronal cell death in mice <abbrgrp><abbr bid="B72">72</abbr></abbrgrp>. In addition, the <it>ULK1</it>, whose yeast homolog plays a critical role in the autophagy-mediated peroxisome turnover <abbrgrp><abbr bid="B50">50</abbr></abbrgrp>, showed higher expression in CCALD patient relative to control iPSCs. It is tempting to speculate that if nervous and immune system cells of <it>ABCD1 </it>mutation carriers indeed have aberrant PEX11B and ULK1 activity, this could lead to differences in peroxisome abundance and/or activity that increase reactive oxygen species (ROS) levels and promote X-ALD pathogenesis. It remains to be determined if <it>ABCD1 </it>mutation carriers have abnormal peroxisome abundance in their pertinent nervous and immune system cells and tissues.</p>
+         <p>In a similar vein, the increased <it>NAAA, THBS1, BSG </it>(<it>aka CD147 aka EMMPRIN</it>) and <it>NOTCH1 </it>gene expression in patients relative to control iPSCs is supportive of hypotheses regarding a predisposition to neuroinflammation that is a prelude to devastating autoimmune responses. NAAA hydrolyzes palmitoylethanolamide (PEA), a naturally occurring lipid amide that, when administered as a drug, inhibits inflammatory responses <abbrgrp><abbr bid="B56">56</abbr></abbrgrp>. In principle, increasing leukocyte NAAA levels could reduce PEA levels and promote inflammation. In fact, a chemical inhibitor of <it>NAAA </it>function attenuates inflammation and tissue damage and improves recovery of motor function in mice with spinal cord trauma <abbrgrp><abbr bid="B56">56</abbr></abbrgrp>. Intriguingly, CD200 has been proposed to play a role in the immune privileged status of the CNS when CD200-mediated immune suppression occurs via neuron-microglial as well as glial-glial interactions in inflammatory conditions <abbrgrp><abbr bid="B73">73</abbr></abbrgrp>. <it>THBS1 </it>is linked to neuroinflammatory processes involving astrocyte and microglia through its role in processing and activating the TGF-&#946; ligand <abbrgrp><abbr bid="B74">74</abbr></abbrgrp> and is also implicated in responses to oxidative stress <abbrgrp><abbr bid="B75">75</abbr></abbrgrp>. Likewise, <it>Notch1 </it>is involved in microglial associated inflammation <abbrgrp><abbr bid="B76">76</abbr></abbrgrp>. Also of relevance are emerging reports that <it>BSG </it>acts a master regulator of matrix metalloproteinases (MMP) implicated in most diseases involving neuroinflammation and thus has been proposed to play a role in the immune-privileged status of the CNS <abbrgrp><abbr bid="B77">77</abbr></abbrgrp>.</p>
+         <p>Although we highlight the possible implications of the gene expression profiles observed in patient iPSCs, we note alternative hypotheses regarding their origins and biological significance. While the iPSCs described in this study have the hallmark properties of pluripotency, their gene expression profiles could reflect subtle <it>ABCD1 </it>mutation status-dependent differences in their predisposition to differentiate into specific cell types and lineages. Comparisons of the gene expression profiles of mature cell types derived from patient- and healthy donor-derived iPSCs will be especially informative. The persistence or elimination of groups of DEGs reflective of biological processes and pathways could provide a means of assessing the tissue specificity of disease and enhance the ability to discern biologically informative gene expression signatures from noise resulting from confounding variables, such as tissue culture conditions.</p>
+         <p>Although <it>ABCD1 </it>mutation carriers show elevated sVLCFA levels in their blood and urine and reduced sVLCFA catabolic activity in their cultured fibroblasts, the role of sVLCFA in disease pathogenesis is still under discussion. The significance of decreased plasmalogen levels in the patients' brain white matter also is unclear <abbrgrp><abbr bid="B44">44</abbr><abbr bid="B78">78</abbr></abbrgrp>. As expected, CCALD patient fibroblasts had elevated VLCFA levels, but similar PE plasmalogen levels, relative to those from healthy donors (Figure <figr fid="F3">3A, C</figr>). Likewise, iPSCs from CCALD patient and healthy control donors also showed similar PE plasmalogen levels (Figure <figr fid="F3">3D</figr>). The fact that all patient and control iPSCs tested had low VLCFA levels, based on C26:0-lysophosphorylcholine measurements, (Figure <figr fid="F3">3B</figr>) is puzzling, yet consistent with prior reports <abbrgrp><abbr bid="B63">63</abbr></abbrgrp>. VLCFA levels are determined by their rate of synthesis (that is, catalyzed by fatty acid elongating enzyme ELOVL1 <abbrgrp><abbr bid="B79">79</abbr></abbrgrp>), degradation (affected by ABCD1 and ABCD2 function <abbrgrp><abbr bid="B80">80</abbr></abbrgrp>) and uptake of these fatty acids from the culture medium. As such, one hypothesis is that the rate of VLCFA synthesis is lower in iPSCs relative to fibroblasts under the culture conditions evaluated. Consistent with this hypothesis and prior reports <abbrgrp><abbr bid="B63">63</abbr></abbrgrp>, the expression of the <it>ELOVL1 </it>gene was significantly lower (2.6-fold, FDR &lt; 2.2 &#215; 10<sup>-9</sup>) in iPSCs relative to fibroblasts. Nevertheless, we note that <it>ELOVL1 </it>was not differentially expressed in patient relative to control fibroblasts or iPSCs. An alternate hypothesis that the <it>ABCD2 </it>gene is compensating for the impaired <it>ABCD1 </it>function in patient iPSCs; however, <it>ABCD2 </it>was not differentially expressed in patient relative to control fibroblasts or iPSCs. This does not preclude the possibilities that ABCD2 activity is being increased on the protein level or that another gene is playing a major role in significantly lowering VLCFA levels in CCALD iPSCs. We also note a prior hypothesis that the rapid growth rate of iPSCs could reduce their VLCFA levels, independent of their <it>ABCD1 </it>mutation status <abbrgrp><abbr bid="B63">63</abbr></abbrgrp>. Fibroblasts have altered morphology and slowed growth in iPSC media relative to fibroblast media, which according to the growth rate hypothesis could contribute to their reduced VLCFA levels. Given that iPSCs can rapidly differentiate in fibroblast media, iPSC growth media provides an imperfect, but necessary, compromise in direct comparisons between cultured fibroblasts and iPSCs. We note the potential contribution of MEF feeder cells to iPSC lipid profiles and the advantages of using feeder-free media in future experiments.</p>
+         <sec>
+            <st>
+               <p>Future applications and directions</p>
+            </st>
+            <p>The impending implementation of newborn screening for X-ALD based on blood lipid profiles will increase the demand for model systems to screen for more effective therapeutic interventions <abbrgrp><abbr bid="B36">36</abbr><abbr bid="B81">81</abbr></abbrgrp>. Early detection would provide physicians with a window of opportunity to treat presymptomatic patients prior to the development of CCALD, and may also prevent or delay AMN onset. Therapeutic interventions, such as Lorenzo's Oil, help prevent the onset of cerebral disease in some individuals, but are not effective for the majority of CCALD patients and, likewise, there are no effective options for AMN <abbrgrp><abbr bid="B75">75</abbr><abbr bid="B76">76</abbr><abbr bid="B77">77</abbr></abbrgrp>. A compelling attribute of iPSC model systems is that they represent the exact <it>ABCD1 </it>mutations found in the patient population and thus provide an opportunity to test therapeutic agents tailored to a patient's genotype in cell populations most affected by disease. Examples of genotype-dependent therapeutic strategies include nonsense suppressor drugs <abbrgrp><abbr bid="B33">33</abbr></abbrgrp> and molecular chaperones <abbrgrp><abbr bid="B82">82</abbr></abbrgrp> for individuals with nonsense and missense mutations, respectively.</p>
+            <p>The fact that CCALD iPSCs show gene expression profiles similar to those derived from healthy controls may reflect the fact that X-ALD clinical symptoms do not manifest at birth but, instead, occur in early childhood or later in life. Given that <it>ABCD1 </it>mutant mice show clinical aspects of X-ALD with increasing age <abbrgrp><abbr bid="B83">83</abbr></abbrgrp>, it is possible that later passage CCALD iPSCs and their derivatives may manifest gene expression profiles and/or functional properties more consistent with disease pathogenesis and progression. In this regard, a comparison of the properties of iPSCs and their derivatives previously obtained from other CCALD and AMN patients <abbrgrp><abbr bid="B63">63</abbr></abbrgrp> as a function of <it>in vitro </it>passage number could be informative. Despite the promise of iPSC approaches, it will remain a significant challenge to generate and optimize <it>in vitro </it>model systems for X-ALD and other complex disorders that involve multiple organ systems as well as unknown gene-environment interactions and genetic modifiers.</p>
+         </sec>
+      </sec>
+      <sec>
+         <st>
+            <p>Conclusions</p>
+         </st>
+         <p>We have reprogrammed skin fibroblasts from CCALD patients and control donor primary fibroblasts into iPSCs that show all the fundamental hallmark molecular and cellular properties of pluripotency. The DEGs found in comparisons of patient- and healthy donor-derived iPSCs are consistent with emerging hypotheses regarding the role of peroxisomes, oxidative stress and neuroinflammation in the pathogenesis of X-ALD. Given that the sVLFCA profiles of the patient iPSCs are similar to those of control iPSCs, these gene expression profiles are not dependent on the presence of the hallmark lipid biomarkers of disease. Additional gene expression and functional analyses involving differentiated cell types derived from CCALD and control iPSCs could be especially informative given our preliminary results. This would include cell types related to the CNS (for example, oligodendrocytes, astrocytes and microglia), adrenocortical and male reproductive (for example, Leydig and Sertoli cells) aspects of disease. Furthermore, investigations involving patient tissue samples and animal models are required in order to determine if the observed fibroblast and iPSC gene expression profiles are reflective of pathogenic mechanisms or are simply specific to our cultured cells.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Abbreviations</p>
+         </st>
+         <p>AMN: adrenomyeloneuropathy; CCALD: childhood cerebral adrenoleukodystrophy; CNC: copy number change; CNS: central nervous system; CV: coefficient of variation; DAPI: 4',6-diamidino-2-phenylindole; DAVID: Database for Annotation: Visualization and Integrated Discovery; DEGs: differentially expressed genes; DMEM: Dulbecco's Modified Eagle Medium; DML: differentially methylated loci; EAE: experimental autoimmune encephalomyelitis; EB: embryoid body; ES: embryonic stem; FBS: fetal bovine serum; FDRs: false discovery rates; GFP: green fluorescent protein; GO: GeneOntology; iPSC: induced pluripotent stem cell; KEGG: Kyoto Encyclopedia of Genes and Genomes; LC-MS/MS: liquid chromatography-tandem mass spectrometry; LPC: lysophosphatidylcholine; MEFs: mouse embryonic fibroblasts; MMP: matrix metalloproteinases; NCBI: National Center for Biotechnology Information; PE: phosphatidylethanolamine; PEA: palmitoylethanolamide; ROS: reactive oxygen species; SNPs: single nucleotide polymorphisms; sVLCFA: saturated very long chain fatty acid(s); X-ALD: X-linked adrenoleukodystrophy.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Competing interests</p>
+         </st>
+         <p>The authors declare that they have no competing interests.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Authors' contributions</p>
+         </st>
+         <p>XMW and WYY derived the iPSCs from patient and healthy donor fibroblast cultures and conducted immunostaining analysis of protein pluripotency biomarkers. XMW conducted all the global gene expression, genetic and epigenetic analyses. PZ assisted XMW in the teratoma analysis and also provided technical advice in cellular reprogramming and maintaining iPSCs. WL provided technical advice in cellular reprogramming and maintaining iPSCs. DS supervised the histological analysis of teratomas and advised XMW in the data analysis. SJS carried out the biochemical analyses in this project. JGH and XMW were involved in the overall design and conception of the project, statistical analysis of all data sets and wrote the manuscript with the help of all the other authors. All authors read and approved the final manuscript.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Acknowledgements</p>
+         </st>
+         <p>We thank P. Watkins, G. Raymond, N. Braverman and R. Pelikan for thoughtful discussion and/or assistance in data analysis. We thank D. Weisenberger and D. Van Den Berg at the USC Epigenome Center for conducting the Illumina BeadArray DNA methylation and SNP genotyping assays and for advice in data analysis. This study was funded by the National Institutes of Health (GM072447 and GM072447-S1) and a California Institute of Regenerative Medicine Pre-doctoral Training Grant (WYY).</p>
+      </sec>
+   </bdy>
+   <bm>
+      <refgrp>
+         <bibl id="B1">
+            <title>
+               <p>Biochemical aspects of X-linked adrenoleukodystrophy</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Kemp</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Wanders</snm>
+                  <fnm>R</fnm>
+               </au>
+            </aug>
+            <source>Brain Pathol</source>
+            <pubdate>2010</pubdate>
+            <volume>20</volume>
+            <fpage>831</fpage>
+            <lpage>837</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid" link="fulltext">20626744</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B2">
+            <title>
+               <p>Current and future pharmacological treatment strategies in X-linked adrenoleukodystrophy</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Berger</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Pujol</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Aubourg</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Forss-Petter</snm>
+                  <fnm>S</fnm>
+               </au>
+            </aug>
+            <source>Brain Pathol</source>
+            <pubdate>2010</pubdate>
+            <volume>20</volume>
+            <fpage>845</fpage>
+            <lpage>856</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1111/j.1750-3639.2010.00393.x</pubid>
+                  <pubid idtype="pmcid">2967711</pubid>
+                  <pubid idtype="pmpid" link="fulltext">20626746</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B3">
+            <title>
+               <p>X-linked adrenoleukodystrophy: clinical, biochemical and pathogenetic aspects</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Berger</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Gartner</snm>
+                  <fnm>J</fnm>
+               </au>
+            </aug>
+            <source>Biochim Biophys Acta</source>
+            <pubdate>2006</pubdate>
+            <volume>1763</volume>
+            <fpage>1721</fpage>
+            <lpage>1732</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.bbamcr.2006.07.010</pubid>
+                  <pubid idtype="pmpid" link="fulltext">16949688</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B4">
+            <title>
+               <p>X-linked adrenoleukodystrophy</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Moser</snm>
+                  <fnm>HW</fnm>
+               </au>
+               <au>
+                  <snm>Mahmood</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Raymond</snm>
+                  <fnm>GV</fnm>
+               </au>
+            </aug>
+            <source>Nat Clin Pract Neurol</source>
+            <pubdate>2007</pubdate>
+            <volume>3</volume>
+            <fpage>140</fpage>
+            <lpage>151</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid" link="fulltext">17342190</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B5">
+            <title>
+               <p>Mutational analysis of patients with X-linked adrenoleukodystrophy</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Kok</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Neumann</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Sarde</snm>
+                  <fnm>CO</fnm>
+               </au>
+               <au>
+                  <snm>Zheng</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Wu</snm>
+                  <fnm>KH</fnm>
+               </au>
+               <au>
+                  <snm>Wei</snm>
+                  <fnm>HM</fnm>
+               </au>
+               <au>
+                  <snm>Bergin</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Watkins</snm>
+                  <fnm>PA</fnm>
+               </au>
+               <au>
+                  <snm>Gould</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Sack</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Moser</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Mandel</snm>
+                  <fnm>JL</fnm>
+               </au>
+               <au>
+                  <snm>Smith</snm>
+                  <fnm>KD</fnm>
+               </au>
+            </aug>
+            <source>Hum Mutat</source>
+            <pubdate>1995</pubdate>
+            <volume>6</volume>
+            <fpage>104</fpage>
+            <lpage>115</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1002/humu.1380060203</pubid>
+                  <pubid idtype="pmpid">7581394</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B6">
+            <title>
+               <p>Cerebral adrenoleukodystrophy (ALD) in only one of monozygotic twins with an identical ALD genotype</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Korenke</snm>
+                  <fnm>GC</fnm>
+               </au>
+               <au>
+                  <snm>Fuchs</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Krasemann</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Doerr</snm>
+                  <fnm>HG</fnm>
+               </au>
+               <au>
+                  <snm>Wilichowski</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Hunneman</snm>
+                  <fnm>DH</fnm>
+               </au>
+               <au>
+                  <snm>Hanefeld</snm>
+                  <fnm>F</fnm>
+               </au>
+            </aug>
+            <source>Ann Neurol</source>
+            <pubdate>1996</pubdate>
+            <volume>40</volume>
+            <fpage>254</fpage>
+            <lpage>257</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1002/ana.410400221</pubid>
+                  <pubid idtype="pmpid">8773611</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B7">
+            <title>
+               <p>Identical mitochondrial DNA in monozygotic twins with discordant adrenoleukodystrophy phenotype</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Wilichowski</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Ohlenbusch</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Korenke</snm>
+                  <fnm>GC</fnm>
+               </au>
+               <au>
+                  <snm>Hunneman</snm>
+                  <fnm>DH</fnm>
+               </au>
+               <au>
+                  <snm>Hanefeld</snm>
+                  <fnm>F</fnm>
+               </au>
+            </aug>
+            <source>Ann Neurol</source>
+            <pubdate>1998</pubdate>
+            <volume>43</volume>
+            <fpage>835</fpage>
+            <lpage>836</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid">9629856</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B8">
+            <title>
+               <p>Putative X-linked adrenoleukodystrophy gene shares unexpected homology with ABC transporters</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Mosser</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Douar</snm>
+                  <fnm>AM</fnm>
+               </au>
+               <au>
+                  <snm>Sarde</snm>
+                  <fnm>CO</fnm>
+               </au>
+               <au>
+                  <snm>Kioschis</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Feil</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Moser</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Poustka</snm>
+                  <fnm>AM</fnm>
+               </au>
+               <au>
+                  <snm>Mandel</snm>
+                  <fnm>JL</fnm>
+               </au>
+               <au>
+                  <snm>Aubourg</snm>
+                  <fnm>P</fnm>
+               </au>
+            </aug>
+            <source>Nature</source>
+            <pubdate>1993</pubdate>
+            <volume>361</volume>
+            <fpage>726</fpage>
+            <lpage>730</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/361726a0</pubid>
+                  <pubid idtype="pmpid" link="fulltext">8441467</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B9">
+            <title>
+               <p>Phospholipids in X-linked adrenoleukodystrophy white matter: fatty acid abnormalities before the onset of demyelination</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Theda</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Moser</snm>
+                  <fnm>AB</fnm>
+               </au>
+               <au>
+                  <snm>Powers</snm>
+                  <fnm>JM</fnm>
+               </au>
+               <au>
+                  <snm>Moser</snm>
+                  <fnm>HW</fnm>
+               </au>
+            </aug>
+            <source>J Neurol Sci</source>
+            <pubdate>1992</pubdate>
+            <volume>110</volume>
+            <fpage>195</fpage>
+            <lpage>204</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/0022-510X(92)90028-J</pubid>
+                  <pubid idtype="pmpid">1506859</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B10">
+            <title>
+               <p>Brain gangliosides in adrenoleukodystrophy</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Garashi</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Belchis</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Suzuki</snm>
+                  <fnm>K</fnm>
+               </au>
+            </aug>
+            <source>J Neurochem</source>
+            <pubdate>1976</pubdate>
+            <volume>27</volume>
+            <fpage>327</fpage>
+            <lpage>328</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1111/j.1471-4159.1976.tb01593.x</pubid>
+                  <pubid idtype="pmpid">956846</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B11">
+            <title>
+               <p>Decreased expression of ABCD4 and BG1 genes early in the pathogenesis of X-linked adrenoleukodystrophy</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Asheuer</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Bieche</snm>
+                  <fnm>I</fnm>
+               </au>
+               <au>
+                  <snm>Laurendeau</snm>
+                  <fnm>I</fnm>
+               </au>
+               <au>
+                  <snm>Moser</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Hainque</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Vidaud</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Aubourg</snm>
+                  <fnm>P</fnm>
+               </au>
+            </aug>
+            <source>Hum Mol Genet</source>
+            <pubdate>2005</pubdate>
+            <volume>14</volume>
+            <fpage>1293</fpage>
+            <lpage>1303</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1093/hmg/ddi140</pubid>
+                  <pubid idtype="pmpid" link="fulltext">15800013</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B12">
+            <title>
+               <p>Pathomechanisms underlying X-adrenoleukodystrophy: a three-hit hypothesis</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Singh</snm>
+                  <fnm>I</fnm>
+               </au>
+               <au>
+                  <snm>Pujol</snm>
+                  <fnm>A</fnm>
+               </au>
+            </aug>
+            <source>Brain Pathol</source>
+            <pubdate>2010</pubdate>
+            <volume>20</volume>
+            <fpage>838</fpage>
+            <lpage>844</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="pmcid">3021280</pubid>
+                  <pubid idtype="pmpid" link="fulltext">20626745</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B13">
+            <title>
+               <p>Evidence that oxidative stress is increased in patients with X-linked adrenoleukodystrophy</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Vargas</snm>
+                  <fnm>CR</fnm>
+               </au>
+               <au>
+                  <snm>Wajner</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Sirtori</snm>
+                  <fnm>LR</fnm>
+               </au>
+               <au>
+                  <snm>Goulart</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Chiochetta</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Coelho</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Latini</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Llesuy</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Bello-Klein</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Giugliani</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Deon</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Mello</snm>
+                  <fnm>CF</fnm>
+               </au>
+            </aug>
+            <source>Biochim Biophys Acta</source>
+            <pubdate>2004</pubdate>
+            <volume>1688</volume>
+            <fpage>26</fpage>
+            <lpage>32</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.bbadis.2003.10.004</pubid>
+                  <pubid idtype="pmpid" link="fulltext">14732478</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B14">
+            <title>
+               <p>Adreno-leukodystrophy: oxidative stress of mice and men</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Powers</snm>
+                  <fnm>JM</fnm>
+               </au>
+               <au>
+                  <snm>Pei</snm>
+                  <fnm>Z</fnm>
+               </au>
+               <au>
+                  <snm>Heinzer</snm>
+                  <fnm>AK</fnm>
+               </au>
+               <au>
+                  <snm>Deering</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Moser</snm>
+                  <fnm>AB</fnm>
+               </au>
+               <au>
+                  <snm>Moser</snm>
+                  <fnm>HW</fnm>
+               </au>
+               <au>
+                  <snm>Watkins</snm>
+                  <fnm>PA</fnm>
+               </au>
+               <au>
+                  <snm>Smith</snm>
+                  <fnm>KD</fnm>
+               </au>
+            </aug>
+            <source>J Neuropathol Exp Neurol</source>
+            <pubdate>2005</pubdate>
+            <volume>64</volume>
+            <fpage>1067</fpage>
+            <lpage>1079</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1097/01.jnen.0000190064.28559.a4</pubid>
+                  <pubid idtype="pmpid" link="fulltext">16319717</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B15">
+            <title>
+               <p>Inducible nitric oxide synthase in the central nervous system of patients with X-adrenoleukodystrophy</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Gilg</snm>
+                  <fnm>AG</fnm>
+               </au>
+               <au>
+                  <snm>Singh</snm>
+                  <fnm>AK</fnm>
+               </au>
+               <au>
+                  <snm>Singh</snm>
+                  <fnm>I</fnm>
+               </au>
+            </aug>
+            <source>J Neuropathol Exp Neurol</source>
+            <pubdate>2000</pubdate>
+            <volume>59</volume>
+            <fpage>1063</fpage>
+            <lpage>1069</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid" link="fulltext">11138926</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B16">
+            <title>
+               <p>Early oxidative damage underlying neurodegeneration in X-adrenoleukodystrophy</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Fourcade</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Lopez-Erauskin</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Galino</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Duval</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Naudi</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Jove</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Kemp</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Villarroya</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Ferrer</snm>
+                  <fnm>I</fnm>
+               </au>
+               <au>
+                  <snm>Pamplona</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Portero-Otin</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Pujol</snm>
+                  <fnm>A</fnm>
+               </au>
+            </aug>
+            <source>Hum Mol Genet</source>
+            <pubdate>2008</pubdate>
+            <volume>17</volume>
+            <fpage>1762</fpage>
+            <lpage>1773</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1093/hmg/ddn085</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18344354</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B17">
+            <title>
+               <p>Interactions of a very long chain fatty acid with model membranes and serum albumin. Implications for the pathogenesis of adrenoleukodystrophy</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Ho</snm>
+                  <fnm>JK</fnm>
+               </au>
+               <au>
+                  <snm>Moser</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Kishimoto</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Hamilton</snm>
+                  <fnm>JA</fnm>
+               </au>
+            </aug>
+            <source>J Clin Invest</source>
+            <pubdate>1995</pubdate>
+            <volume>96</volume>
+            <fpage>1455</fpage>
+            <lpage>1463</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1172/JCI118182</pubid>
+                  <pubid idtype="pmcid">185769</pubid>
+                  <pubid idtype="pmpid" link="fulltext">7657817</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B18">
+            <title>
+               <p>Peroxisomal beta-oxidation of branched chain fatty acids in human skin fibroblasts</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Singh</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Brogan</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Johnson</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Poulos</snm>
+                  <fnm>A</fnm>
+               </au>
+            </aug>
+            <source>J Lipid Res</source>
+            <pubdate>1992</pubdate>
+            <volume>33</volume>
+            <fpage>1597</fpage>
+            <lpage>1605</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid" link="fulltext">1464743</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B19">
+            <title>
+               <p>Comparative analysis of gene-expression patterns in human and african great ape cultured fibroblasts</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Karaman</snm>
+                  <fnm>MW</fnm>
+               </au>
+               <au>
+                  <snm>Houck</snm>
+                  <fnm>ML</fnm>
+               </au>
+               <au>
+                  <snm>Chemnick</snm>
+                  <fnm>LG</fnm>
+               </au>
+               <au>
+                  <snm>Nagpal</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Chawannakul</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Sudano</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Pike</snm>
+                  <fnm>BL</fnm>
+               </au>
+               <au>
+                  <snm>Ho</snm>
+                  <fnm>VV</fnm>
+               </au>
+               <au>
+                  <snm>Ryder</snm>
+                  <fnm>OA</fnm>
+               </au>
+               <au>
+                  <snm>Hacia</snm>
+                  <fnm>JG</fnm>
+               </au>
+            </aug>
+            <source>Genome Res</source>
+            <pubdate>2003</pubdate>
+            <volume>13</volume>
+            <fpage>1619</fpage>
+            <lpage>1630</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1101/gr.1289803</pubid>
+                  <pubid idtype="pmcid">403735</pubid>
+                  <pubid idtype="pmpid" link="fulltext">12840040</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B20">
+            <title>
+               <p>Generation of human-induced pluripotent stem cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Park</snm>
+                  <fnm>IH</fnm>
+               </au>
+               <au>
+                  <snm>Lerou</snm>
+                  <fnm>PH</fnm>
+               </au>
+               <au>
+                  <snm>Zhao</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Huo</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Daley</snm>
+                  <fnm>GQ</fnm>
+               </au>
+            </aug>
+            <source>Nat Protoc</source>
+            <pubdate>2008</pubdate>
+            <volume>3</volume>
+            <fpage>1180</fpage>
+            <lpage>1186</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/nprot.2008.92</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18600223</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B21">
+            <title>
+               <p>Induction of pluripotent stem cells from fibroblast cultures</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Takahashi</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Okita</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Nakagawa</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Yamanaka</snm>
+                  <fnm>S</fnm>
+               </au>
+            </aug>
+            <source>Nat Protoc</source>
+            <pubdate>2007</pubdate>
+            <volume>2</volume>
+            <fpage>3081</fpage>
+            <lpage>3089</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/nprot.2007.418</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18079707</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B22">
+            <title>
+               <p>Induction of pluripotent stem cells by defined factors is greatly improved by small-molecule compounds</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Huangfu</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Maehr</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Guo</snm>
+                  <fnm>W</fnm>
+               </au>
+               <au>
+                  <snm>Eijkelenboom</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Snitow</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Chen</snm>
+                  <fnm>AE</fnm>
+               </au>
+               <au>
+                  <snm>Melton</snm>
+                  <fnm>DA</fnm>
+               </au>
+            </aug>
+            <source>Nat Biotechnol</source>
+            <pubdate>2008</pubdate>
+            <volume>26</volume>
+            <fpage>795</fpage>
+            <lpage>797</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/nbt1418</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18568017</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B23">
+            <title>
+               <p>WebArray: an online platform for microarray data analysis</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Xia</snm>
+                  <fnm>X</fnm>
+               </au>
+               <au>
+                  <snm>McClelland</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Wang</snm>
+                  <fnm>Y</fnm>
+               </au>
+            </aug>
+            <source>BMC Bioinformatics</source>
+            <pubdate>2005</pubdate>
+            <volume>6</volume>
+            <fpage>306</fpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1186/1471-2105-6-306</pubid>
+                  <pubid idtype="pmcid">1327694</pubid>
+                  <pubid idtype="pmpid" link="fulltext">16371165</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B24">
+            <title>
+               <p>Analyzing microarray data using WebArray</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Wang</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>McClelland</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Xia</snm>
+                  <fnm>XQ</fnm>
+               </au>
+            </aug>
+            <source>Cold Spring Harb Protoc</source>
+            <pubdate>2009</pubdate>
+            <volume>8</volume>
+            <fpage>5260</fpage>
+         </bibl>
+         <bibl id="B25">
+            <title>
+               <p>WebGestalt: an integrated system for exploring gene sets in various biological contexts</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Zhang</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Kirov</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Snoddy</snm>
+                  <fnm>J</fnm>
+               </au>
+            </aug>
+            <source>Nucleic Acids Res</source>
+            <pubdate>2005</pubdate>
+            <volume>33</volume>
+            <fpage>W741</fpage>
+            <lpage>748</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1093/nar/gki475</pubid>
+                  <pubid idtype="pmcid">1160236</pubid>
+                  <pubid idtype="pmpid" link="fulltext">15980575</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B26">
+            <title>
+               <p>Protein array technology to investigate cytokine production by monocytes from patients with advanced alcoholic cirrhosis: an <it>ex vivo </it>pilot study</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Tazi</snm>
+                  <fnm>KA</fnm>
+               </au>
+               <au>
+                  <snm>Quioc</snm>
+                  <fnm>JJ</fnm>
+               </au>
+               <au>
+                  <snm>Abdel-Razek</snm>
+                  <fnm>W</fnm>
+               </au>
+               <au>
+                  <snm>Tellier</snm>
+                  <fnm>Z</fnm>
+               </au>
+               <au>
+                  <snm>Guichard</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Ogier-Denis</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Lebrec</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Moreau</snm>
+                  <fnm>R</fnm>
+               </au>
+            </aug>
+            <source>Hepatol Res</source>
+            <pubdate>2009</pubdate>
+            <volume>39</volume>
+            <fpage>706</fpage>
+            <lpage>715</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1111/j.1872-034X.2009.00498.x</pubid>
+                  <pubid idtype="pmpid" link="fulltext">19473436</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B27">
+            <title>
+               <p>Association analysis for large-scale gene set data</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Kirov</snm>
+                  <fnm>SA</fnm>
+               </au>
+               <au>
+                  <snm>Zhang</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Snoddy</snm>
+                  <fnm>JR</fnm>
+               </au>
+            </aug>
+            <source>Methods Mol Biol</source>
+            <pubdate>2007</pubdate>
+            <volume>408</volume>
+            <fpage>19</fpage>
+            <lpage>33</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1007/978-1-59745-547-3_2</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18314575</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B28">
+            <title>
+               <p>Systematic and integrative analysis of large gene lists using DAVID bioinformatics resources</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Huang da</snm>
+                  <fnm>W</fnm>
+               </au>
+               <au>
+                  <snm>Sherman</snm>
+                  <fnm>BT</fnm>
+               </au>
+               <au>
+                  <snm>Lempicki</snm>
+                  <fnm>RA</fnm>
+               </au>
+            </aug>
+            <source>Nat Protoc</source>
+            <pubdate>2009</pubdate>
+            <volume>4</volume>
+            <fpage>44</fpage>
+            <lpage>57</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid" link="fulltext">19131956</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B29">
+            <title>
+               <p>DNA methylation profiles in diffuse large B-cell lymphoma and their relationship to gene expression status</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Pike</snm>
+                  <fnm>BL</fnm>
+               </au>
+               <au>
+                  <snm>Greiner</snm>
+                  <fnm>TC</fnm>
+               </au>
+               <au>
+                  <snm>Wang</snm>
+                  <fnm>X</fnm>
+               </au>
+               <au>
+                  <snm>Weisenburger</snm>
+                  <fnm>DD</fnm>
+               </au>
+               <au>
+                  <snm>Hsu</snm>
+                  <fnm>YH</fnm>
+               </au>
+               <au>
+                  <snm>Renaud</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Wolfsberg</snm>
+                  <fnm>TG</fnm>
+               </au>
+               <au>
+                  <snm>Kim</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Weisenberger</snm>
+                  <fnm>DJ</fnm>
+               </au>
+               <au>
+                  <snm>Siegmund</snm>
+                  <fnm>KD</fnm>
+               </au>
+               <au>
+                  <snm>Ye</snm>
+                  <fnm>W</fnm>
+               </au>
+               <au>
+                  <snm>Groshen</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Mehrian-Shai</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Delabie</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Chan</snm>
+                  <fnm>WC</fnm>
+               </au>
+               <au>
+                  <snm>Laird</snm>
+                  <fnm>PW</fnm>
+               </au>
+               <au>
+                  <snm>Hacia</snm>
+                  <fnm>JG</fnm>
+               </au>
+            </aug>
+            <source>Leukemia</source>
+            <pubdate>2008</pubdate>
+            <volume>22</volume>
+            <fpage>1035</fpage>
+            <lpage>1043</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/leu.2008.18</pubid>
+                  <pubid idtype="pmcid">2654231</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18288132</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B30">
+            <title>
+               <p>Identification and functional relevance of de novo DNA methylation in cancerous B-cell populations</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Wang</snm>
+                  <fnm>XM</fnm>
+               </au>
+               <au>
+                  <snm>Greiner</snm>
+                  <fnm>TC</fnm>
+               </au>
+               <au>
+                  <snm>Bibikova</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Pike</snm>
+                  <fnm>BL</fnm>
+               </au>
+               <au>
+                  <snm>Siegmund</snm>
+                  <fnm>KD</fnm>
+               </au>
+               <au>
+                  <snm>Sinha</snm>
+                  <fnm>UK</fnm>
+               </au>
+               <au>
+                  <snm>Muschen</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Jaeger</snm>
+                  <fnm>EB</fnm>
+               </au>
+               <au>
+                  <snm>Weisenburger</snm>
+                  <fnm>DD</fnm>
+               </au>
+               <au>
+                  <snm>Chan</snm>
+                  <fnm>WC</fnm>
+               </au>
+               <au>
+                  <snm>Shibata</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Fan</snm>
+                  <fnm>JB</fnm>
+               </au>
+               <au>
+                  <snm>Hacia</snm>
+                  <fnm>JG</fnm>
+               </au>
+            </aug>
+            <source>J Cell Biochem</source>
+            <pubdate>2010</pubdate>
+            <volume>109</volume>
+            <fpage>818</fpage>
+            <lpage>827</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="pmcid">3122883</pubid>
+                  <pubid idtype="pmpid" link="fulltext">20069569</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B31">
+            <title>
+               <p>Dynamic changes in the copy number of pluripotency and cell proliferation genes in human ESCs and iPSCs during reprogramming and time in culture</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Laurent</snm>
+                  <fnm>LC</fnm>
+               </au>
+               <au>
+                  <snm>Ulitsky</snm>
+                  <fnm>I</fnm>
+               </au>
+               <au>
+                  <snm>Slavin</snm>
+                  <fnm>I</fnm>
+               </au>
+               <au>
+                  <snm>Tran</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Schork</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Morey</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Lynch</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Harness</snm>
+                  <fnm>JV</fnm>
+               </au>
+               <au>
+                  <snm>Lee</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Barrero</snm>
+                  <fnm>MJ</fnm>
+               </au>
+               <au>
+                  <snm>Ku</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Martynova</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Semechkin</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Galat</snm>
+                  <fnm>V</fnm>
+               </au>
+               <au>
+                  <snm>Gottesfeld</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Izpisua Belmonte</snm>
+                  <fnm>JC</fnm>
+               </au>
+               <au>
+                  <snm>Murry</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Keirstead</snm>
+                  <fnm>HS</fnm>
+               </au>
+               <au>
+                  <snm>Park</snm>
+                  <fnm>HS</fnm>
+               </au>
+               <au>
+                  <snm>Schmidt</snm>
+                  <fnm>U</fnm>
+               </au>
+               <au>
+                  <snm>Laslett</snm>
+                  <fnm>AL</fnm>
+               </au>
+               <au>
+                  <snm>Muller</snm>
+                  <fnm>FJ</fnm>
+               </au>
+               <au>
+                  <snm>Nievergelt</snm>
+                  <fnm>CM</fnm>
+               </au>
+               <au>
+                  <snm>Shamir</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Loring</snm>
+                  <fnm>JF</fnm>
+               </au>
+            </aug>
+            <source>Cell Stem Cell</source>
+            <volume>8</volume>
+            <fpage>106</fpage>
+            <lpage>118</lpage>
+         </bibl>
+         <bibl id="B32">
+            <title>
+               <p>Accurate DNA-based diagnostic and carrier testing for X-linked adrenoleukodystrophy</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Boehm</snm>
+                  <fnm>CD</fnm>
+               </au>
+               <au>
+                  <snm>Cutting</snm>
+                  <fnm>GR</fnm>
+               </au>
+               <au>
+                  <snm>Lachtermacher</snm>
+                  <fnm>MB</fnm>
+               </au>
+               <au>
+                  <snm>Moser</snm>
+                  <fnm>HW</fnm>
+               </au>
+               <au>
+                  <snm>Chong</snm>
+                  <fnm>SS</fnm>
+               </au>
+            </aug>
+            <source>Mol Genet Metab</source>
+            <pubdate>1999</pubdate>
+            <volume>66</volume>
+            <fpage>128</fpage>
+            <lpage>136</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1006/mgme.1998.2779</pubid>
+                  <pubid idtype="pmpid" link="fulltext">10068516</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B33">
+            <title>
+               <p>Identification of novel mutations and sequence variation in the Zellweger syndrome spectrum of peroxisome biogenesis disorders</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Yik</snm>
+                  <fnm>WY</fnm>
+               </au>
+               <au>
+                  <snm>Steinberg</snm>
+                  <fnm>SJ</fnm>
+               </au>
+               <au>
+                  <snm>Moser</snm>
+                  <fnm>AB</fnm>
+               </au>
+               <au>
+                  <snm>Moser</snm>
+                  <fnm>HW</fnm>
+               </au>
+               <au>
+                  <snm>Hacia</snm>
+                  <fnm>JG</fnm>
+               </au>
+            </aug>
+            <source>Hum Mutat</source>
+            <pubdate>2009</pubdate>
+            <volume>30</volume>
+            <fpage>E467</fpage>
+            <lpage>480</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1002/humu.20932</pubid>
+                  <pubid idtype="pmcid">2649967</pubid>
+                  <pubid idtype="pmpid" link="fulltext">19105186</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B34">
+            <title>
+               <p>Induction of pluripotent stem cells from adult human fibroblasts by defined factors</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Takahashi</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Tanabe</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Ohnuki</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Narita</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Ichisaka</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Tomoda</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Yamanaka</snm>
+                  <fnm>S</fnm>
+               </au>
+            </aug>
+            <source>Cell</source>
+            <pubdate>2007</pubdate>
+            <volume>131</volume>
+            <fpage>861</fpage>
+            <lpage>872</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.cell.2007.11.019</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18035408</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B35">
+            <title>
+               <p>Differentiation of human embryonic stem cells into embryoid bodies compromising the three embryonic germ layers</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Itskovitz-Eldor</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Schuldiner</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Karsenti</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Eden</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Yanuka</snm>
+                  <fnm>O</fnm>
+               </au>
+               <au>
+                  <snm>Amit</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Soreq</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Benvenisty</snm>
+                  <fnm>N</fnm>
+               </au>
+            </aug>
+            <source>Mol Med</source>
+            <pubdate>2000</pubdate>
+            <volume>6</volume>
+            <fpage>88</fpage>
+            <lpage>95</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="pmcid">1949933</pubid>
+                  <pubid idtype="pmpid">10859025</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B36">
+            <title>
+               <p>Newborn screening for X-linked adrenoleukodystrophy (X-ALD): validation of a combined liquid chromatography-tandem mass spectrometric (LC-MS/MS) method</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Hubbard</snm>
+                  <fnm>WC</fnm>
+               </au>
+               <au>
+                  <snm>Moser</snm>
+                  <fnm>AB</fnm>
+               </au>
+               <au>
+                  <snm>Liu</snm>
+                  <fnm>AC</fnm>
+               </au>
+               <au>
+                  <snm>Jones</snm>
+                  <fnm>RO</fnm>
+               </au>
+               <au>
+                  <snm>Steinberg</snm>
+                  <fnm>SJ</fnm>
+               </au>
+               <au>
+                  <snm>Lorey</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Panny</snm>
+                  <fnm>SR</fnm>
+               </au>
+               <au>
+                  <snm>Vogt</snm>
+                  <fnm>RF</fnm>
+                  <suf>Jr</suf>
+               </au>
+               <au>
+                  <snm>Macaya</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Turgeon</snm>
+                  <fnm>CT</fnm>
+               </au>
+               <au>
+                  <snm>Tortorelli</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Raymond</snm>
+                  <fnm>GV</fnm>
+               </au>
+            </aug>
+            <source>Mol Genet Metab</source>
+            <pubdate>2009</pubdate>
+            <volume>97</volume>
+            <fpage>212</fpage>
+            <lpage>220</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.ymgme.2009.03.010</pubid>
+                  <pubid idtype="pmpid" link="fulltext">19423374</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B37">
+            <title>
+               <p>Electrospray ionization tandem mass spectrometry of glycerophosphoethanolamine plasmalogen phospholipids</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Zemski Berry</snm>
+                  <fnm>KA</fnm>
+               </au>
+               <au>
+                  <snm>Murphy</snm>
+                  <fnm>RC</fnm>
+               </au>
+            </aug>
+            <source>J Am Soc Mass Spectrom</source>
+            <pubdate>2004</pubdate>
+            <volume>15</volume>
+            <fpage>1499</fpage>
+            <lpage>1508</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.jasms.2004.07.009</pubid>
+                  <pubid idtype="pmpid" link="fulltext">15465363</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B38">
+            <title>
+               <p>Generation of human induced pluripotent stem cells from dermal fibroblasts</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Lowry</snm>
+                  <fnm>WE</fnm>
+               </au>
+               <au>
+                  <snm>Richter</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Yachechko</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Pyle</snm>
+                  <fnm>AD</fnm>
+               </au>
+               <au>
+                  <snm>Tchieu</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Sridharan</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Clark</snm>
+                  <fnm>AT</fnm>
+               </au>
+               <au>
+                  <snm>Plath</snm>
+                  <fnm>K</fnm>
+               </au>
+            </aug>
+            <source>Proc Natl Acad Sci USA</source>
+            <pubdate>2008</pubdate>
+            <volume>105</volume>
+            <fpage>2883</fpage>
+            <lpage>2888</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1073/pnas.0711983105</pubid>
+                  <pubid idtype="pmcid">2268554</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18287077</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B39">
+            <title>
+               <p>Copy number variation and selection during reprogramming to pluripotency</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Hussein</snm>
+                  <fnm>SM</fnm>
+               </au>
+               <au>
+                  <snm>Batada</snm>
+                  <fnm>NN</fnm>
+               </au>
+               <au>
+                  <snm>Vuoristo</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Ching</snm>
+                  <fnm>RW</fnm>
+               </au>
+               <au>
+                  <snm>Autio</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Narva</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Ng</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Sourour</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Hamalainen</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Olsson</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Lundin</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Mikkola</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Trokovic</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Peitz</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Brustle</snm>
+                  <fnm>O</fnm>
+               </au>
+               <au>
+                  <snm>Bazett-Jones</snm>
+                  <fnm>DP</fnm>
+               </au>
+               <au>
+                  <snm>Alitalo</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Lahesmaa</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Nagy</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Otonkoski</snm>
+                  <fnm>T</fnm>
+               </au>
+            </aug>
+            <source>Nature</source>
+            <pubdate>2011</pubdate>
+            <volume>471</volume>
+            <fpage>58</fpage>
+            <lpage>62</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/nature09871</pubid>
+                  <pubid idtype="pmpid" link="fulltext">21368824</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B40">
+            <title>
+               <p>Karotypic abnormalities in human induced pluripotent stem cells and embryonic stem cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Taapken</snm>
+                  <fnm>SM</fnm>
+               </au>
+               <au>
+                  <snm>Nisler</snm>
+                  <fnm>BS</fnm>
+               </au>
+               <au>
+                  <snm>Newton</snm>
+                  <fnm>MA</fnm>
+               </au>
+               <au>
+                  <snm>Sampsell-Barron</snm>
+                  <fnm>TL</fnm>
+               </au>
+               <au>
+                  <snm>Leonhard</snm>
+                  <fnm>KA</fnm>
+               </au>
+               <au>
+                  <snm>McIntire</snm>
+                  <fnm>EM</fnm>
+               </au>
+               <au>
+                  <snm>Montgomery</snm>
+                  <fnm>KD</fnm>
+               </au>
+            </aug>
+            <source>Nat Biotechnol</source>
+            <pubdate>2011</pubdate>
+            <volume>29</volume>
+            <fpage>313</fpage>
+            <lpage>314</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/nbt.1835</pubid>
+                  <pubid idtype="pmpid" link="fulltext">21478842</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B41">
+            <title>
+               <p>Recurrent copy number variations in human induced pluripotent stem cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Martins-Taylor</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Nisler</snm>
+                  <fnm>BS</fnm>
+               </au>
+               <au>
+                  <snm>Taapken</snm>
+                  <fnm>SM</fnm>
+               </au>
+               <au>
+                  <snm>Compton</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Crandall</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Montgomery</snm>
+                  <fnm>KD</fnm>
+               </au>
+               <au>
+                  <snm>Lalande</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Xu</snm>
+                  <fnm>RH</fnm>
+               </au>
+            </aug>
+            <source>Nat Biotechnol</source>
+            <pubdate>2011</pubdate>
+            <volume>29</volume>
+            <fpage>488</fpage>
+            <lpage>491</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/nbt.1890</pubid>
+                  <pubid idtype="pmpid" link="fulltext">21654665</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B42">
+            <title>
+               <p>Contiguous deletion of the X-linked adrenoleukodystrophy gene (ABCD1) and DXS1357E: a novel neonatal phenotype similar to peroxisomal biogenesis disorders</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Corzo</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Gibson</snm>
+                  <fnm>W</fnm>
+               </au>
+               <au>
+                  <snm>Johnson</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Mitchell</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>LePage</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Cox</snm>
+                  <fnm>GF</fnm>
+               </au>
+               <au>
+                  <snm>Casey</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Zeiss</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Tyson</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Cutting</snm>
+                  <fnm>GR</fnm>
+               </au>
+               <au>
+                  <snm>Raymond</snm>
+                  <fnm>GV</fnm>
+               </au>
+               <au>
+                  <snm>Smith</snm>
+                  <fnm>KD</fnm>
+               </au>
+               <au>
+                  <snm>Watkins</snm>
+                  <fnm>PA</fnm>
+               </au>
+               <au>
+                  <snm>Moser</snm>
+                  <fnm>AB</fnm>
+               </au>
+               <au>
+                  <snm>Moser</snm>
+                  <fnm>HW</fnm>
+               </au>
+               <au>
+                  <snm>Steinberg</snm>
+                  <fnm>SJ</fnm>
+               </au>
+            </aug>
+            <source>Am J Hum Genet</source>
+            <pubdate>2002</pubdate>
+            <volume>70</volume>
+            <fpage>1520</fpage>
+            <lpage>1531</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1086/340849</pubid>
+                  <pubid idtype="pmcid">419992</pubid>
+                  <pubid idtype="pmpid" link="fulltext">11992258</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B43">
+            <title>
+               <p>Lipid mediators in health and disease: enzymes and receptors as therapeutic targets for the regulation of immunity and inflammation</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Shimizu</snm>
+                  <fnm>T</fnm>
+               </au>
+            </aug>
+            <source>Annu Rev Pharmacol Toxicol</source>
+            <pubdate>2009</pubdate>
+            <volume>49</volume>
+            <fpage>123</fpage>
+            <lpage>150</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1146/annurev.pharmtox.011008.145616</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18834304</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B44">
+            <title>
+               <p>Lipid and fatty acid composition of brain tissue from adrenoleukodystrophy patients</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Wilson</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Sargent</snm>
+                  <fnm>JR</fnm>
+               </au>
+            </aug>
+            <source>J Neurochem</source>
+            <pubdate>1993</pubdate>
+            <volume>61</volume>
+            <fpage>290</fpage>
+            <lpage>297</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1111/j.1471-4159.1993.tb03567.x</pubid>
+                  <pubid idtype="pmpid">8515276</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B45">
+            <title>
+               <p>Anatomic demarcation by positional variation in fibroblast gene expression programs</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Rinn</snm>
+                  <fnm>JL</fnm>
+               </au>
+               <au>
+                  <snm>Bondre</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Gladstone</snm>
+                  <fnm>HB</fnm>
+               </au>
+               <au>
+                  <snm>Brown</snm>
+                  <fnm>PO</fnm>
+               </au>
+               <au>
+                  <snm>Chang</snm>
+                  <fnm>HY</fnm>
+               </au>
+            </aug>
+            <source>PLoS Genet</source>
+            <pubdate>2006</pubdate>
+            <volume>2</volume>
+            <fpage>e119</fpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1371/journal.pgen.0020119</pubid>
+                  <pubid idtype="pmcid">1523235</pubid>
+                  <pubid idtype="pmpid" link="fulltext">16895450</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B46">
+            <title>
+               <p>PEX11 family members are membrane elongation factors that coordinate peroxisome proliferation and maintenance</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Koch</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Pranjic</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Huber</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Ellinger</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Hartig</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Kragler</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Brocard</snm>
+                  <fnm>C</fnm>
+               </au>
+            </aug>
+            <source>J Cell Sci</source>
+            <pubdate>2010</pubdate>
+            <volume>123</volume>
+            <fpage>3389</fpage>
+            <lpage>3400</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1242/jcs.064907</pubid>
+                  <pubid idtype="pmpid" link="fulltext">20826455</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B47">
+            <title>
+               <p>Expression of PEX11beta mediates peroxisome proliferation in the absence of extracellular stimuli</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Schrader</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Reuber</snm>
+                  <fnm>BE</fnm>
+               </au>
+               <au>
+                  <snm>Morrell</snm>
+                  <fnm>JC</fnm>
+               </au>
+               <au>
+                  <snm>Jimenez-Sanchez</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Obie</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Stroh</snm>
+                  <fnm>TA</fnm>
+               </au>
+               <au>
+                  <snm>Valle</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Schroer</snm>
+                  <fnm>TA</fnm>
+               </au>
+               <au>
+                  <snm>Gould</snm>
+                  <fnm>SJ</fnm>
+               </au>
+            </aug>
+            <source>J Biol Chem</source>
+            <pubdate>1998</pubdate>
+            <volume>273</volume>
+            <fpage>29607</fpage>
+            <lpage>29614</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1074/jbc.273.45.29607</pubid>
+                  <pubid idtype="pmpid" link="fulltext">9792670</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B48">
+            <title>
+               <p>Down-regulation of the macrophage lineage through interaction with OX2 (CD200)</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Hoek</snm>
+                  <fnm>RM</fnm>
+               </au>
+               <au>
+                  <snm>Ruuls</snm>
+                  <fnm>SR</fnm>
+               </au>
+               <au>
+                  <snm>Murphy</snm>
+                  <fnm>CA</fnm>
+               </au>
+               <au>
+                  <snm>Wright</snm>
+                  <fnm>GJ</fnm>
+               </au>
+               <au>
+                  <snm>Goddard</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Zurawski</snm>
+                  <fnm>SM</fnm>
+               </au>
+               <au>
+                  <snm>Blom</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Homola</snm>
+                  <fnm>ME</fnm>
+               </au>
+               <au>
+                  <snm>Streit</snm>
+                  <fnm>WJ</fnm>
+               </au>
+               <au>
+                  <snm>Brown</snm>
+                  <fnm>MH</fnm>
+               </au>
+               <au>
+                  <snm>Barclay</snm>
+                  <fnm>AN</fnm>
+               </au>
+               <au>
+                  <snm>Sedgwick</snm>
+                  <fnm>JD</fnm>
+               </au>
+            </aug>
+            <source>Science</source>
+            <pubdate>2000</pubdate>
+            <volume>290</volume>
+            <fpage>1768</fpage>
+            <lpage>1771</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid" link="fulltext">11099416</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B49">
+            <title>
+               <p>CD200R1 agonist attenuates mechanisms of chronic disease in a murine model of multiple sclerosis</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Liu</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Bando</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Vargas-Lowy</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Elyaman</snm>
+                  <fnm>W</fnm>
+               </au>
+               <au>
+                  <snm>Khoury</snm>
+                  <fnm>SJ</fnm>
+               </au>
+               <au>
+                  <snm>Huang</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Reif</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Chitnis</snm>
+                  <fnm>T</fnm>
+               </au>
+            </aug>
+            <source>J Neurosci</source>
+            <pubdate>2010</pubdate>
+            <volume>30</volume>
+            <fpage>2025</fpage>
+            <lpage>2038</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1523/JNEUROSCI.4272-09.2010</pubid>
+                  <pubid idtype="pmcid">2837938</pubid>
+                  <pubid idtype="pmpid" link="fulltext">20147531</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B50">
+            <title>
+               <p>Role of autophagy in cancer prevention</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Chen</snm>
+                  <fnm>HY</fnm>
+               </au>
+               <au>
+                  <snm>White</snm>
+                  <fnm>E</fnm>
+               </au>
+            </aug>
+            <source>Cancer Prev Res (Phila)</source>
+            <pubdate>2011</pubdate>
+            <volume>4</volume>
+            <fpage>973</fpage>
+            <lpage>983</lpage>
+            <xrefbib>
+               <pubid idtype="doi">10.1158/1940-6207.CAPR-10-0387</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B51">
+            <title>
+               <p>Roles of cPLA2alpha and arachidonic acid in cancer</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Nakanishi</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Rosenberg</snm>
+                  <fnm>DW</fnm>
+               </au>
+            </aug>
+            <source>Biochim Biophys Acta</source>
+            <pubdate>2006</pubdate>
+            <volume>1761</volume>
+            <fpage>1335</fpage>
+            <lpage>1343</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.bbalip.2006.09.005</pubid>
+                  <pubid idtype="pmcid">1761949</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17052951</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B52">
+            <title>
+               <p>Thrombospondin1 deficiency reduces obesity-associated inflammation and improves insulin sensitivity in a diet-induced obese mouse model</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Li</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Tong</snm>
+                  <fnm>X</fnm>
+               </au>
+               <au>
+                  <snm>Rumala</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Clemons</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Wang</snm>
+                  <fnm>S</fnm>
+               </au>
+            </aug>
+            <source>PLoS One</source>
+            <pubdate>2011</pubdate>
+            <volume>6</volume>
+            <fpage>e26656</fpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1371/journal.pone.0026656</pubid>
+                  <pubid idtype="pmcid">3200349</pubid>
+                  <pubid idtype="pmpid" link="fulltext">22039525</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B53">
+            <title>
+               <p>Thrombospondin 1 promotes tumor macrophage recruitment and enhances tumor cell cytotoxicity of differentiated U937 cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Martin-Manso</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Galli</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Ridnour</snm>
+                  <fnm>LA</fnm>
+               </au>
+               <au>
+                  <snm>Tsokos</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Wink</snm>
+                  <fnm>DA</fnm>
+               </au>
+               <au>
+                  <snm>Roberts</snm>
+                  <fnm>DD</fnm>
+               </au>
+            </aug>
+            <source>Cancer Res</source>
+            <pubdate>2008</pubdate>
+            <volume>68</volume>
+            <fpage>7090</fpage>
+            <lpage>7099</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1158/0008-5472.CAN-08-0643</pubid>
+                  <pubid idtype="pmcid">2562557</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18757424</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B54">
+            <title>
+               <p>Anthrax toxins: a weapon to systematically dismantle the host immune defenses</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Tournier</snm>
+                  <fnm>JN</fnm>
+               </au>
+               <au>
+                  <snm>Rossi Paccani</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Quesnel-Hellmann</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Baldari</snm>
+                  <fnm>CT</fnm>
+               </au>
+            </aug>
+            <source>Mol Aspects Med</source>
+            <pubdate>2009</pubdate>
+            <volume>30</volume>
+            <fpage>456</fpage>
+            <lpage>466</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.mam.2009.06.002</pubid>
+                  <pubid idtype="pmpid" link="fulltext">19560486</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B55">
+            <title>
+               <p>Extracellular cyclophilins contribute to the regulation of inflammatory responses</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Arora</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Gwinn</snm>
+                  <fnm>WM</fnm>
+               </au>
+               <au>
+                  <snm>Bower</snm>
+                  <fnm>MA</fnm>
+               </au>
+               <au>
+                  <snm>Watson</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Okwumabua</snm>
+                  <fnm>I</fnm>
+               </au>
+               <au>
+                  <snm>MacDonald</snm>
+                  <fnm>HR</fnm>
+               </au>
+               <au>
+                  <snm>Bukrinsky</snm>
+                  <fnm>MI</fnm>
+               </au>
+               <au>
+                  <snm>Constant</snm>
+                  <fnm>SL</fnm>
+               </au>
+            </aug>
+            <source>J Immunol</source>
+            <pubdate>2005</pubdate>
+            <volume>175</volume>
+            <fpage>517</fpage>
+            <lpage>522</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="pmcid">2862457</pubid>
+                  <pubid idtype="pmpid" link="fulltext">15972687</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B56">
+            <title>
+               <p>Selective N-acylethanolamine-hydrolyzing acid amidase inhibition reveals a key role for endogenous palmitoylethanolamide in inflammation</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Solorzano</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Zhu</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Battista</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Astarita</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Lodola</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Rivara</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Mor</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Russo</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Maccarrone</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Antonietti</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Duranti</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Tontini</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Cuzzocrea</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Tarzia</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Piomelli</snm>
+                  <fnm>D</fnm>
+               </au>
+            </aug>
+            <source>Proc Natl Acad Sci USA</source>
+            <pubdate>2009</pubdate>
+            <volume>106</volume>
+            <fpage>20966</fpage>
+            <lpage>20971</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1073/pnas.0907417106</pubid>
+                  <pubid idtype="pmcid">2791595</pubid>
+                  <pubid idtype="pmpid" link="fulltext">19926854</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B57">
+            <title>
+               <p>Luminal leptin enhances CD147/MCT-1-mediated uptake of butyrate in the human intestinal cell line Caco2-BBE</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Buyse</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Sitaraman</snm>
+                  <fnm>SV</fnm>
+               </au>
+               <au>
+                  <snm>Liu</snm>
+                  <fnm>X</fnm>
+               </au>
+               <au>
+                  <snm>Bado</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Merlin</snm>
+                  <fnm>D</fnm>
+               </au>
+            </aug>
+            <source>J Biol Chem</source>
+            <pubdate>2002</pubdate>
+            <volume>277</volume>
+            <fpage>28182</fpage>
+            <lpage>28190</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1074/jbc.M203281200</pubid>
+                  <pubid idtype="pmpid" link="fulltext">12034734</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B58">
+            <title>
+               <p>The endocannabinoid pathway in Huntington's disease: a comparison with other neurodegenerative diseases</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Maccarrone</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Battista</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Centonze</snm>
+                  <fnm>D</fnm>
+               </au>
+            </aug>
+            <source>Prog Neurobiol</source>
+            <pubdate>2007</pubdate>
+            <volume>81</volume>
+            <fpage>349</fpage>
+            <lpage>379</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.pneurobio.2006.11.006</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17276576</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B59">
+            <title>
+               <p>Molecular characterization of N-acylethanolamine-hydrolyzing acid amidase, a novel member of the choloylglycine hydrolase family with structural and functional similarity to acid ceramidase</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Tsuboi</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Sun</snm>
+                  <fnm>YX</fnm>
+               </au>
+               <au>
+                  <snm>Okamoto</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Araki</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Tonai</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Ueda</snm>
+                  <fnm>N</fnm>
+               </au>
+            </aug>
+            <source>J Biol Chem</source>
+            <pubdate>2005</pubdate>
+            <volume>280</volume>
+            <fpage>11082</fpage>
+            <lpage>11092</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1074/jbc.M413473200</pubid>
+                  <pubid idtype="pmpid" link="fulltext">15655246</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B60">
+            <title>
+               <p>Thrombospondin-1 inhibits nitric oxide signaling via CD36 by inhibiting myristic acid uptake</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Isenberg</snm>
+                  <fnm>JS</fnm>
+               </au>
+               <au>
+                  <snm>Jia</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Fukuyama</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Switzer</snm>
+                  <fnm>CH</fnm>
+               </au>
+               <au>
+                  <snm>Wink</snm>
+                  <fnm>DA</fnm>
+               </au>
+               <au>
+                  <snm>Roberts</snm>
+                  <fnm>DD</fnm>
+               </au>
+            </aug>
+            <source>J Biol Chem</source>
+            <pubdate>2007</pubdate>
+            <volume>282</volume>
+            <fpage>15404</fpage>
+            <lpage>15415</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1074/jbc.M701638200</pubid>
+                  <pubid idtype="pmcid">2430148</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17416590</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B61">
+            <title>
+               <p>cDNA cloning and expression of the human hepatic bile acid-binding protein. A member of the monomeric reductase gene family</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Stolz</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Hammond</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Lou</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Takikawa</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Ronk</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Shively</snm>
+                  <fnm>JE</fnm>
+               </au>
+            </aug>
+            <source>J Biol Chem</source>
+            <pubdate>1993</pubdate>
+            <volume>268</volume>
+            <fpage>10448</fpage>
+            <lpage>10457</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid" link="fulltext">8486699</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B62">
+            <title>
+               <p>Thyroid hormone induction of the adrenoleukodystrophy-related gene (ABCD2)</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Fourcade</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Savary</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Gondcaille</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Berger</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Netik</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Cadepond</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>El Etr</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Molzer</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Bugaut</snm>
+                  <fnm>M</fnm>
+               </au>
+            </aug>
+            <source>Mol Pharmacol</source>
+            <pubdate>2003</pubdate>
+            <volume>63</volume>
+            <fpage>1296</fpage>
+            <lpage>1303</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1124/mol.63.6.1296</pubid>
+                  <pubid idtype="pmpid" link="fulltext">12761339</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B63">
+            <title>
+               <p>Induced pluripotent stem cell models from X-linked adrenoleukodystrophy patients</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Jang</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Kang</snm>
+                  <fnm>HC</fnm>
+               </au>
+               <au>
+                  <snm>Kim</snm>
+                  <fnm>HS</fnm>
+               </au>
+               <au>
+                  <snm>Kim</snm>
+                  <fnm>JY</fnm>
+               </au>
+               <au>
+                  <snm>Huh</snm>
+                  <fnm>YJ</fnm>
+               </au>
+               <au>
+                  <snm>Kim</snm>
+                  <fnm>DS</fnm>
+               </au>
+               <au>
+                  <snm>Yoo</snm>
+                  <fnm>JE</fnm>
+               </au>
+               <au>
+                  <snm>Lee</snm>
+                  <fnm>JA</fnm>
+               </au>
+               <au>
+                  <snm>Lim</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Lee</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Yoon</snm>
+                  <fnm>TM</fnm>
+               </au>
+               <au>
+                  <snm>Park</snm>
+                  <fnm>IH</fnm>
+               </au>
+               <au>
+                  <snm>Hwang</snm>
+                  <fnm>DY</fnm>
+               </au>
+               <au>
+                  <snm>Daley</snm>
+                  <fnm>GQ</fnm>
+               </au>
+               <au>
+                  <snm>Kim</snm>
+                  <fnm>DW</fnm>
+               </au>
+            </aug>
+            <source>Ann Neurol</source>
+            <pubdate>2011</pubdate>
+            <volume>70</volume>
+            <fpage>402</fpage>
+            <lpage>409</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1002/ana.22486</pubid>
+                  <pubid idtype="pmpid" link="fulltext">21721033</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B64">
+            <title>
+               <p>Dynamic changes in the copy number of pluripotency and cell proliferation genes in human ESCs and iPSCs during reprogramming and time in culture</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Laurent</snm>
+                  <fnm>LC</fnm>
+               </au>
+               <au>
+                  <snm>Ulitsky</snm>
+                  <fnm>I</fnm>
+               </au>
+               <au>
+                  <snm>Slavin</snm>
+                  <fnm>I</fnm>
+               </au>
+               <au>
+                  <snm>Tran</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Schork</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Morey</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Lynch</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Harness</snm>
+                  <fnm>JV</fnm>
+               </au>
+               <au>
+                  <snm>Lee</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Barrero</snm>
+                  <fnm>MJ</fnm>
+               </au>
+               <au>
+                  <snm>Ku</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Martynova</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Semechkin</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Galat</snm>
+                  <fnm>V</fnm>
+               </au>
+               <au>
+                  <snm>Gottesfeld</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Izpisua Belmonte</snm>
+                  <fnm>JC</fnm>
+               </au>
+               <au>
+                  <snm>Murry</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Keirstead</snm>
+                  <fnm>HS</fnm>
+               </au>
+               <au>
+                  <snm>Park</snm>
+                  <fnm>HS</fnm>
+               </au>
+               <au>
+                  <snm>Schmidt</snm>
+                  <fnm>U</fnm>
+               </au>
+               <au>
+                  <snm>Laslett</snm>
+                  <fnm>AL</fnm>
+               </au>
+               <au>
+                  <snm>Muller</snm>
+                  <fnm>FJ</fnm>
+               </au>
+               <au>
+                  <snm>Nievergelt</snm>
+                  <fnm>CM</fnm>
+               </au>
+               <au>
+                  <snm>Shamir</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Loring</snm>
+                  <fnm>JF</fnm>
+               </au>
+            </aug>
+            <source>Cell Stem Cell</source>
+            <pubdate>2011</pubdate>
+            <volume>8</volume>
+            <fpage>106</fpage>
+            <lpage>118</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.stem.2010.12.003</pubid>
+                  <pubid idtype="pmcid">3043464</pubid>
+                  <pubid idtype="pmpid" link="fulltext">21211785</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B65">
+            <title>
+               <p>Identification and classification of chromosomal aberrations in human induced pluripotent stem cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Mayshar</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Ben-David</snm>
+                  <fnm>U</fnm>
+               </au>
+               <au>
+                  <snm>Lavon</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Biancotti</snm>
+                  <fnm>JC</fnm>
+               </au>
+               <au>
+                  <snm>Yakir</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Clark</snm>
+                  <fnm>AT</fnm>
+               </au>
+               <au>
+                  <snm>Plath</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Lowry</snm>
+                  <fnm>WE</fnm>
+               </au>
+               <au>
+                  <snm>Benvenisty</snm>
+                  <fnm>N</fnm>
+               </au>
+            </aug>
+            <source>Cell Stem Cell</source>
+            <pubdate>2010</pubdate>
+            <volume>7</volume>
+            <fpage>521</fpage>
+            <lpage>531</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.stem.2010.07.017</pubid>
+                  <pubid idtype="pmpid" link="fulltext">20887957</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B66">
+            <title>
+               <p>Somatic coding mutations in human induced pluripotent stem cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Gore</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Li</snm>
+                  <fnm>Z</fnm>
+               </au>
+               <au>
+                  <snm>Fung</snm>
+                  <fnm>HL</fnm>
+               </au>
+               <au>
+                  <snm>Young</snm>
+                  <fnm>JE</fnm>
+               </au>
+               <au>
+                  <snm>Agarwal</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Antosiewicz-Bourget</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Canto</snm>
+                  <fnm>I</fnm>
+               </au>
+               <au>
+                  <snm>Giorgetti</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Israel</snm>
+                  <fnm>MA</fnm>
+               </au>
+               <au>
+                  <snm>Kiskinis</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Lee</snm>
+                  <fnm>JH</fnm>
+               </au>
+               <au>
+                  <snm>Loh</snm>
+                  <fnm>YH</fnm>
+               </au>
+               <au>
+                  <snm>Manos</snm>
+                  <fnm>PD</fnm>
+               </au>
+               <au>
+                  <snm>Montserrat</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Panopoulos</snm>
+                  <fnm>AD</fnm>
+               </au>
+               <au>
+                  <snm>Ruiz</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Wilbert</snm>
+                  <fnm>ML</fnm>
+               </au>
+               <au>
+                  <snm>Yu</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Kirkness</snm>
+                  <fnm>EF</fnm>
+               </au>
+               <au>
+                  <snm>Izpisua Belmonte</snm>
+                  <fnm>JC</fnm>
+               </au>
+               <au>
+                  <snm>Rossi</snm>
+                  <fnm>DJ</fnm>
+               </au>
+               <au>
+                  <snm>Thomson</snm>
+                  <fnm>JA</fnm>
+               </au>
+               <au>
+                  <snm>Eggan</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Daley</snm>
+                  <fnm>GQ</fnm>
+               </au>
+               <au>
+                  <snm>Goldstein</snm>
+                  <fnm>LS</fnm>
+               </au>
+               <au>
+                  <snm>Zhang</snm>
+                  <fnm>K</fnm>
+               </au>
+            </aug>
+            <source>Nature</source>
+            <pubdate>2011</pubdate>
+            <volume>471</volume>
+            <fpage>63</fpage>
+            <lpage>67</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/nature09805</pubid>
+                  <pubid idtype="pmcid">3074107</pubid>
+                  <pubid idtype="pmpid" link="fulltext">21368825</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B67">
+            <title>
+               <p>Cbl-b regulates the CD28 dependence of T-cell activation</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Chiang</snm>
+                  <fnm>YJ</fnm>
+               </au>
+               <au>
+                  <snm>Kole</snm>
+                  <fnm>HK</fnm>
+               </au>
+               <au>
+                  <snm>Brown</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Naramura</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Fukuhara</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Hu</snm>
+                  <fnm>RJ</fnm>
+               </au>
+               <au>
+                  <snm>Jang</snm>
+                  <fnm>IK</fnm>
+               </au>
+               <au>
+                  <snm>Gutkind</snm>
+                  <fnm>JS</fnm>
+               </au>
+               <au>
+                  <snm>Shevach</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Gu</snm>
+                  <fnm>H</fnm>
+               </au>
+            </aug>
+            <source>Nature</source>
+            <pubdate>2000</pubdate>
+            <volume>403</volume>
+            <fpage>216</fpage>
+            <lpage>220</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/35003235</pubid>
+                  <pubid idtype="pmpid" link="fulltext">10646609</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B68">
+            <title>
+               <p>PKC-theta modulates the strength of T cell responses by targeting Cbl-b for ubiquitination and degradation</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Gruber</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Hermann-Kleiter</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Hinterleitner</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Fresser</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Schneider</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Gastl</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Penninger</snm>
+                  <fnm>JM</fnm>
+               </au>
+               <au>
+                  <snm>Baier</snm>
+                  <fnm>G</fnm>
+               </au>
+            </aug>
+            <source>Sci Signal</source>
+            <pubdate>2009</pubdate>
+            <volume>2</volume>
+            <fpage>ra30</fpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1126/scisignal.2000046</pubid>
+                  <pubid idtype="pmpid" link="fulltext">19549985</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B69">
+            <title>
+               <p>Mutations in RAB27A cause Griscelli syndrome associated with haemophagocytic syndrome</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Menasche</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Pastural</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Feldmann</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Certain</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Ersoy</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Dupuis</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Wulffraat</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Bianchi</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Fischer</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Le Deist</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>de Saint Basile</snm>
+                  <fnm>G</fnm>
+               </au>
+            </aug>
+            <source>Nat Genet</source>
+            <pubdate>2000</pubdate>
+            <volume>25</volume>
+            <fpage>173</fpage>
+            <lpage>176</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/76024</pubid>
+                  <pubid idtype="pmpid" link="fulltext">10835631</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B70">
+            <title>
+               <p>Inherited Hemophagocytic Syndromes</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>de Saint Basile</snm>
+                  <fnm>G</fnm>
+               </au>
+            </aug>
+            <source>Primary Immunodeficiency Diseases: A Molecular and Genetic Approach</source>
+            <publisher>New York: Oxford University Press</publisher>
+            <editor>Ochs HD, Smith CIE, Puck JM</editor>
+            <pubdate>2007</pubdate>
+            <fpage>578</fpage>
+            <lpage>588</lpage>
+         </bibl>
+         <bibl id="B71">
+            <title>
+               <p>PEX11 beta deficiency is lethal and impairs neuronal migration but does not abrogate peroxisome function</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Li</snm>
+                  <fnm>X</fnm>
+               </au>
+               <au>
+                  <snm>Baumgart</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Morrell</snm>
+                  <fnm>JC</fnm>
+               </au>
+               <au>
+                  <snm>Jimenez-Sanchez</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Valle</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Gould</snm>
+                  <fnm>SJ</fnm>
+               </au>
+            </aug>
+            <source>Mol Cell Biol</source>
+            <pubdate>2002</pubdate>
+            <volume>22</volume>
+            <fpage>4358</fpage>
+            <lpage>4365</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1128/MCB.22.12.4358-4365.2002</pubid>
+                  <pubid idtype="pmcid">133847</pubid>
+                  <pubid idtype="pmpid" link="fulltext">12024045</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B72">
+            <title>
+               <p>Deletion of a single allele of the Pex11beta gene is sufficient to cause oxidative stress, delayed differentiation and neuronal death in mouse brain</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Ahlemeyer</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Gottwald</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Baumgart-Vogt</snm>
+                  <fnm>E</fnm>
+               </au>
+            </aug>
+            <source>Dis Model Mech</source>
+            <pubdate>2012</pubdate>
+            <volume>5</volume>
+            <fpage>125</fpage>
+            <lpage>140</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1242/dmm.007708</pubid>
+                  <pubid idtype="pmcid">3255551</pubid>
+                  <pubid idtype="pmpid" link="fulltext">21954064</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B73">
+            <title>
+               <p>Distribution of the immune inhibitory molecules CD200 and CD200R in the normal central nervous system and multiple sclerosis lesions suggests neuron-glia and glia-glia interactions</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Koning</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Swaab</snm>
+                  <fnm>DF</fnm>
+               </au>
+               <au>
+                  <snm>Hoek</snm>
+                  <fnm>RM</fnm>
+               </au>
+               <au>
+                  <snm>Huitinga</snm>
+                  <fnm>I</fnm>
+               </au>
+            </aug>
+            <source>J Neuropathol Exp Neurol</source>
+            <pubdate>2009</pubdate>
+            <volume>68</volume>
+            <fpage>159</fpage>
+            <lpage>167</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1097/NEN.0b013e3181964113</pubid>
+                  <pubid idtype="pmpid" link="fulltext">19151626</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B74">
+            <title>
+               <p>Angiotensin II sustains brain inflammation in mice via TGF-beta</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Lanz</snm>
+                  <fnm>TV</fnm>
+               </au>
+               <au>
+                  <snm>Ding</snm>
+                  <fnm>Z</fnm>
+               </au>
+               <au>
+                  <snm>Ho</snm>
+                  <fnm>PP</fnm>
+               </au>
+               <au>
+                  <snm>Luo</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Agrawal</snm>
+                  <fnm>AN</fnm>
+               </au>
+               <au>
+                  <snm>Srinagesh</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Axtell</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Zhang</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Platten</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Wyss-Coray</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Steinman</snm>
+                  <fnm>L</fnm>
+               </au>
+            </aug>
+            <source>J Clin Invest</source>
+            <pubdate>2010</pubdate>
+            <volume>120</volume>
+            <fpage>2782</fpage>
+            <lpage>2794</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1172/JCI41709</pubid>
+                  <pubid idtype="pmcid">2912186</pubid>
+                  <pubid idtype="pmpid" link="fulltext">20628203</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B75">
+            <title>
+               <p>Proteomic temporal profile of human brain endothelium after oxidative stress</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Ning</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Sarracino</snm>
+                  <fnm>DA</fnm>
+               </au>
+               <au>
+                  <snm>Kho</snm>
+                  <fnm>AT</fnm>
+               </au>
+               <au>
+                  <snm>Guo</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Lee</snm>
+                  <fnm>SR</fnm>
+               </au>
+               <au>
+                  <snm>Krastins</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Buonanno</snm>
+                  <fnm>FS</fnm>
+               </au>
+               <au>
+                  <snm>Vizcaino</snm>
+                  <fnm>JA</fnm>
+               </au>
+               <au>
+                  <snm>Orchard</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>McMullin</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Wang</snm>
+                  <fnm>X</fnm>
+               </au>
+               <au>
+                  <snm>Lo</snm>
+                  <fnm>EH</fnm>
+               </au>
+            </aug>
+            <source>Stroke</source>
+            <pubdate>2011</pubdate>
+            <volume>42</volume>
+            <fpage>37</fpage>
+            <lpage>43</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1161/STROKEAHA.110.585703</pubid>
+                  <pubid idtype="pmpid" link="fulltext">21164131</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B76">
+            <title>
+               <p>Notch activation enhances the microglia-mediated inflammatory response associated with focal cerebral ischemia</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Wei</snm>
+                  <fnm>Z</fnm>
+               </au>
+               <au>
+                  <snm>Chigurupati</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Arumugam</snm>
+                  <fnm>TV</fnm>
+               </au>
+               <au>
+                  <snm>Jo</snm>
+                  <fnm>DG</fnm>
+               </au>
+               <au>
+                  <snm>Li</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Chan</snm>
+                  <fnm>SL</fnm>
+               </au>
+            </aug>
+            <source>Stroke</source>
+            <pubdate>2011</pubdate>
+            <volume>42</volume>
+            <fpage>2589</fpage>
+            <lpage>2594</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1161/STROKEAHA.111.614834</pubid>
+                  <pubid idtype="pmpid" link="fulltext">21737799</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B77">
+            <title>
+               <p>The many faces of EMMPRIN - roles in neuroinflammation</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Agrawal</snm>
+                  <fnm>SM</fnm>
+               </au>
+               <au>
+                  <snm>Yong</snm>
+                  <fnm>VW</fnm>
+               </au>
+            </aug>
+            <source>Biochim Biophys Acta</source>
+            <pubdate>2011</pubdate>
+            <volume>1812</volume>
+            <fpage>213</fpage>
+            <lpage>219</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.bbadis.2010.07.018</pubid>
+                  <pubid idtype="pmpid" link="fulltext">20674741</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B78">
+            <title>
+               <p>Plasmalogen deficiency in cerebral adrenoleukodystrophy and its modulation by lovastatin</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Khan</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Singh</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Singh</snm>
+                  <fnm>I</fnm>
+               </au>
+            </aug>
+            <source>J Neurochem</source>
+            <pubdate>2008</pubdate>
+            <volume>106</volume>
+            <fpage>1766</fpage>
+            <lpage>1779</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="pmcid">2575097</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18540993</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B79">
+            <title>
+               <p>The role of ELOVL1 in very long-chain fatty acid homeostasis and X-linked adrenoleukodystrophy</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Ofman</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Dijkstra</snm>
+                  <fnm>IM</fnm>
+               </au>
+               <au>
+                  <snm>van Roermund</snm>
+                  <fnm>CW</fnm>
+               </au>
+               <au>
+                  <snm>Burger</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Turkenburg</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>van Cruchten</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>van Engen</snm>
+                  <fnm>CE</fnm>
+               </au>
+               <au>
+                  <snm>Wanders</snm>
+                  <fnm>RJ</fnm>
+               </au>
+               <au>
+                  <snm>Kemp</snm>
+                  <fnm>S</fnm>
+               </au>
+            </aug>
+            <source>EMBO Mol Med</source>
+            <pubdate>2010</pubdate>
+            <volume>2</volume>
+            <fpage>90</fpage>
+            <lpage>97</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1002/emmm.201000061</pubid>
+                  <pubid idtype="pmcid">3377275</pubid>
+                  <pubid idtype="pmpid">20166112</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B80">
+            <title>
+               <p>Functional overlap between ABCD1 (ALD) and ABCD2 (ALDR) transporters: a therapeutic target for X-adrenoleukodystrophy</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Pujol</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Ferrer</snm>
+                  <fnm>I</fnm>
+               </au>
+               <au>
+                  <snm>Camps</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Metzger</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Hindelang</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Callizot</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Ruiz</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Pampols</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Giros</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Mandel</snm>
+                  <fnm>JL</fnm>
+               </au>
+            </aug>
+            <source>Hum Mol Genet</source>
+            <pubdate>2004</pubdate>
+            <volume>13</volume>
+            <fpage>2997</fpage>
+            <lpage>3006</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1093/hmg/ddh323</pubid>
+                  <pubid idtype="pmpid" link="fulltext">15489218</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B81">
+            <title>
+               <p>Newborn screening for adrenoleukodystrophy: implications for therapy</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Raymond</snm>
+                  <fnm>GV</fnm>
+               </au>
+               <au>
+                  <snm>Jones</snm>
+                  <fnm>RO</fnm>
+               </au>
+               <au>
+                  <snm>Moser</snm>
+                  <fnm>AB</fnm>
+               </au>
+            </aug>
+            <source>Mol Diagn Ther</source>
+            <pubdate>2007</pubdate>
+            <volume>11</volume>
+            <fpage>381</fpage>
+            <lpage>384</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1007/BF03256261</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18078355</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B82">
+            <title>
+               <p>Peroxisomal disorders</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Moser</snm>
+                  <fnm>HW</fnm>
+               </au>
+            </aug>
+            <source>Clin Biochem</source>
+            <pubdate>1991</pubdate>
+            <volume>24</volume>
+            <fpage>343</fpage>
+            <lpage>351</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/0009-9120(91)80009-R</pubid>
+                  <pubid idtype="pmpid" link="fulltext">1959226</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B83">
+            <title>
+               <p>Late onset neurological phenotype of the X-ALD gene inactivation in mice: a mouse model for adrenomyeloneuropathy</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Pujol</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Hindelang</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Callizot</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Bartsch</snm>
+                  <fnm>U</fnm>
+               </au>
+               <au>
+                  <snm>Schachner</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Mandel</snm>
+                  <fnm>JL</fnm>
+               </au>
+            </aug>
+            <source>Hum Mol Genet</source>
+            <pubdate>2002</pubdate>
+            <volume>11</volume>
+            <fpage>499</fpage>
+            <lpage>505</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1093/hmg/11.5.499</pubid>
+                  <pubid idtype="pmpid" link="fulltext">11875044</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+      </refgrp>
+   </bm>
+</art>

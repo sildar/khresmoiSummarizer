@@ -1,0 +1,2346 @@
+<!DOCTYPE art SYSTEM "article.dtd">
+<art>
+   <ui>scrt144</ui>
+   <ji>1757-6512</ji>
+   <fm>
+      <dochead>Research</dochead>
+      <bibl>
+         <title>
+            <p>Monitoring mitochondrial inner membrane potential for detecting early changes in viability of bacterium-infected human bone marrow-derived mesenchymal stem cells</p>
+         </title>
+         <aug>
+            <au id="A1" ca="yes">
+               <snm>Pietil&#228;</snm>
+               <fnm>Mika</fnm>
+               <insr iid="I1"/>
+               <insr iid="I2"/>
+               <email>mika.pietila@aalto.fi</email>
+            </au>
+            <au id="A2">
+               <snm>L&#228;hteenm&#228;ki</snm>
+               <fnm>Kaarina</fnm>
+               <insr iid="I3"/>
+               <email>kaarina.lahteenmaki@veripalvelu.fi</email>
+            </au>
+            <au id="A3">
+               <snm>Lehtonen</snm>
+               <fnm>Siri</fnm>
+               <insr iid="I1"/>
+               <insr iid="I2"/>
+               <email>siri.lehtonen@oulu.fi</email>
+            </au>
+            <au id="A4">
+               <snm>Leskel&#228;</snm>
+               <fnm>Hannu-Ville</fnm>
+               <insr iid="I1"/>
+               <insr iid="I2"/>
+               <email>hannu.leskela@gmail.com</email>
+            </au>
+            <au id="A5">
+               <snm>N&#228;rhi</snm>
+               <fnm>Marko</fnm>
+               <insr iid="I4"/>
+               <email>marko.narhi@aalto.fi</email>
+            </au>
+            <au id="A6">
+               <snm>L&#246;nnroth</snm>
+               <fnm>Maarit</fnm>
+               <insr iid="I3"/>
+               <email>maarit.lonnroth@porvoo.fi</email>
+            </au>
+            <au id="A7">
+               <snm>M&#228;tt&#246;</snm>
+               <fnm>Jaana</fnm>
+               <insr iid="I3"/>
+               <email>jaana.matto@veripalvelu.fi</email>
+            </au>
+            <au id="A8">
+               <snm>Lehenkari</snm>
+               <fnm>Petri</fnm>
+               <insr iid="I1"/>
+               <insr iid="I2"/>
+               <email>petri.lehenkari@oulu.fi</email>
+            </au>
+            <au id="A9">
+               <snm>Nordstr&#246;m</snm>
+               <fnm>Katrina</fnm>
+               <insr iid="I4"/>
+               <email>katrina.nordstrom@aalto.fi</email>
+            </au>
+         </aug>
+         <insg>
+            <ins id="I1">
+               <p>Institute of Biomedicine, Department of Anatomy and Cell Biology, Aapistie 7, P.O. Box 5000, FIN-90014, University of Oulu, Oulu, Finland</p>
+            </ins>
+            <ins id="I2">
+               <p>Institute of Clinical Medicine, Division of Surgery, University of Oulu and Clinical Research Centre, Department of Surgery and Intensive Care, Aapistie 5a, P.O. Box 5000, FIN-90014, Oulu University Hospital, Oulu, Finland</p>
+            </ins>
+            <ins id="I3">
+               <p>Finnish Red Cross Blood Service, Kivihaantie 7, FI-00310, Helsinki, Finland</p>
+            </ins>
+            <ins id="I4">
+               <p>Aalto School of Chemical Technology, Department of Biotechnology and Chemical Technology, Kemistintie 1A, P.O. Box 6100, 00076, Aalto, Finland</p>
+            </ins>
+         </insg>
+         <source>Stem Cell Research &amp; Therapy</source>
+         <issn>1757-6512</issn>
+         <pubdate>2012</pubdate>
+         <volume>3</volume>
+         <issue>6</issue>
+         <fpage>53</fpage>
+         <url>http://stemcellres.com/content/3/6/53</url>
+         <xrefbib>
+            <pubidlist>
+               <pubid idtype="doi">10.1186/scrt144</pubid>
+               <pubid idtype="pmpid">23231835</pubid>
+            </pubidlist>
+         </xrefbib>
+      </bibl>
+      <history>
+         <rec>
+            <date>
+               <day>12</day>
+               <month>7</month>
+               <year>2012</year>
+            </date>
+         </rec>
+         <revrec>
+            <date>
+               <day>6</day>
+               <month>11</month>
+               <year>2012</year>
+            </date>
+         </revrec>
+         <acc>
+            <date>
+               <day>29</day>
+               <month>11</month>
+               <year>2012</year>
+            </date>
+         </acc>
+         <pub>
+            <date>
+               <day>11</day>
+               <month>12</month>
+               <year>2012</year>
+            </date>
+         </pub>
+      </history>
+      <cpyrt>
+         <year>2012</year>
+         <collab>Pietil&#228; et al.; licensee BioMed Central Ltd.</collab>
+         <note>This is an open access article distributed under the terms of the Creative Commons Attribution License (<url>http://creativecommons.org/licenses/by/2.0</url>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</note>
+      </cpyrt>
+      <abs>
+         <sec>
+            <st>
+               <p>Abstract</p>
+            </st>
+            <sec>
+               <st>
+                  <p>Introduction</p>
+               </st>
+               <p>One of the most challenging safety issues in the manufacture of cell based medicinal products is the control of microbial risk as cell-based products cannot undergo terminal sterilization. Accordingly, sensitive and reliable methods for detection of microbial contamination are called for. As mitochondrial function has been shown to correlate with the viability and functionality of human mesenchymal stem cells (hMSCs) we have studied the use of a mitochondrial inner membrane potential sensitive dye for detecting changes in the function of mitochondria following infection by bacteria.</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>Methods</p>
+               </st>
+               <p>The effect of bacterial contamination on the viability of bone marrow-derived mesenchymal stem cells (BMMSCs) was studied. BMMSC lines were infected with three different bacterial species, namely two strains of <it>Pseudomonas aeruginosa</it>, three strains of <it>Staphylococcus aureus</it>, and three strains of <it>Staphylococcus epidermidis</it>. The changes in viability of the BMMSCs after bacterial infection were studied by staining with Trypan blue, by morphological analysis and by monitoring of the mitochondrial inner membrane potential.</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>Results</p>
+               </st>
+               <p>Microscopy and viability assessment by Trypan blue staining showed that even the lowest bacterial inocula caused total dissipation of BMMSCs within 24 hours of infection, similar to the effects seen with bacterial loads which were several magnitudes higher. The first significant signs of damage induced by the pathogens became evident after 6 hours of infection. Early changes in mitochondrial inner membrane potential of BMMSCs were evident after 4 hours of infection even though no visible changes in viability of the BMMSCs could be seen.</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>Conclusions</p>
+               </st>
+               <p>Even low levels of bacterial contamination can cause a significant change in the viability of BMMSCs. Moreover, monitoring the depolarization of the mitochondrial inner membrane potential may provide a rapid tool for early detection of cellular damage induced by microbial infection. Accordingly, mitochondrial analyses offer sensitive tools for quality control and monitoring of safety and efficacy of cellular therapy products.</p>
+            </sec>
+         </sec>
+      </abs>
+   </fm>
+   <bdy>
+      <sec>
+         <st>
+            <p>Introduction</p>
+         </st>
+         <p>Stem cell therapies have raised hopes for the development of viable alternatives for the treatment of many severe degenerative and inflammatory conditions that currently cannot be cured or alleviated by traditional medicine <abbrgrp><abbr bid="B1">1</abbr><abbr bid="B2">2</abbr><abbr bid="B3">3</abbr><abbr bid="B4">4</abbr><abbr bid="B5">5</abbr></abbrgrp>. However, there are still many important issues that need to be solved before the transfer of these advanced cellular therapies from the laboratory to clinics can be successfully achieved. One of the major challenges of such products and therapies is ensuring product safety while maintaining efficacy since viable stem cell-based products cannot undergo terminal sterility prior to implantation and use <abbrgrp><abbr bid="B6">6</abbr></abbrgrp>. Accordingly, the development of aseptic manufacturing processes and process controls is pivotal to the successful translation of research into clinical practice <abbrgrp><abbr bid="B7">7</abbr></abbrgrp>. In addition, the short shelf-life of products calls for the development of rapid methods to detect bacterial contamination in a matter of hours <abbrgrp><abbr bid="B8">8</abbr><abbr bid="B9">9</abbr></abbrgrp>.</p>
+         <p>Even though the incidents of microbial contamination of cell products seem to be rare, the risk of contamination is a critical issue since the consequences to patient health may be unpredictable and even devastating <abbrgrp><abbr bid="B10">10</abbr><abbr bid="B11">11</abbr><abbr bid="B12">12</abbr><abbr bid="B13">13</abbr><abbr bid="B14">14</abbr><abbr bid="B15">15</abbr><abbr bid="B16">16</abbr></abbrgrp>. Currently, there is little or no evidence to predict the long-term outcomes of possible infections after cell implantation. Therefore, uncertainties of possible further transmission of infectious agents from cell or tissue implants to patient exist. Moreover, microbial damage to stem cell products prior to implantation may well lead to unpredictable consequences in the efficacy of the implanted cells. Accordingly, strict requirements set by regulatory agencies for the manufacture of cell-based products, which must be performed according to the principles of good manufacturing practices or good tissue practices <abbrgrp><abbr bid="B17">17</abbr></abbrgrp>. Even so, the most common site for contamination is the <it>in vitro </it>expansion and manipulation of cells <abbrgrp><abbr bid="B14">14</abbr><abbr bid="B15">15</abbr></abbrgrp>, and the most frequent sources of contamination are human skin, the environment, clothing, and gowning of hospital staff <abbrgrp><abbr bid="B12">12</abbr><abbr bid="B15">15</abbr><abbr bid="B18">18</abbr><abbr bid="B19">19</abbr></abbrgrp>. A variety of different pathogens have been isolated from cellular products, and the most common is coagulase-negative <it>Staphylococcus spp</it>. <abbrgrp><abbr bid="B10">10</abbr><abbr bid="B11">11</abbr><abbr bid="B12">12</abbr><abbr bid="B13">13</abbr><abbr bid="B14">14</abbr><abbr bid="B15">15</abbr><abbr bid="B16">16</abbr></abbrgrp>. Moreover, a recent study has elucidated the ability of different pathogens, namely <it>S. aureus</it>, <it>S. epidermidis</it>, and <it>Pseudomonas aeruginosa</it>, to adhere to a biomaterial surface in the presence and absence of macrophages <abbrgrp><abbr bid="B20">20</abbr></abbrgrp>. Despite the presence of macrophages, osteoblast-like cells lost the race of growth area on the biomaterial surface in the presence of <it>S. aureus </it>or <it>P. aeruginosa</it>, but the cells survived about 48 hours in the presence of <it>S. epidermidis</it>. These findings highlight the importance of microbial risk management in the prevention of biomaterial-associated infections.</p>
+         <p>Regulatory demands for the manufacture of stem cell-based medicinal products in the European Union dictate certain requirements for their quality, safety, and efficacy <abbrgrp><abbr bid="B21">21</abbr></abbrgrp>. However, even though there are a number of established methods for the control of conventional biological medicinal products, most of them are poorly applicable to the control of the manufacturing processes of cell-based products. Moreover, methods that can be used are often laborious and time-consuming <abbrgrp><abbr bid="B22">22</abbr><abbr bid="B23">23</abbr><abbr bid="B24">24</abbr><abbr bid="B25">25</abbr></abbrgrp>. Therefore, one possible avenue to be explored in microbial risk management is the development of methods for monitoring of the mitochondrial status of the cells in the intended product. Mitochondria are the powerhouses of cell and are responsible for the main energy production and are also an important regulator of apoptosis <abbrgrp><abbr bid="B26">26</abbr><abbr bid="B27">27</abbr><abbr bid="B28">28</abbr></abbrgrp>. In addition, it has recently been shown that, in stem cell biology, mitochondria have a special role in the regulation of the ultimate fate of stem cells <abbrgrp><abbr bid="B29">29</abbr><abbr bid="B30">30</abbr><abbr bid="B31">31</abbr><abbr bid="B32">32</abbr><abbr bid="B33">33</abbr></abbrgrp>. Accordingly, we have focused on mitochondrial analysis as a tool for measuring the efficacy and potency of stem cell-based cellular products intended for clinical applications <abbrgrp><abbr bid="B33">33</abbr></abbrgrp>. Recently, we have shown that by analyzing mitochondrial inner membrane potential (&#916;&#936;<sub>m</sub>) it is possible to detect early changes in viability and also to predict the osteogenic differentiation potency of human mesenchymal stem cells (hMSCs). We therefore postulate that monitoring of &#916;&#936;<sub>m </sub>could also be used as a tool to detect early changes in viability of infected hMSCs and thus monitor the microbiological safety of stem cell products.</p>
+         <p>In the present study, the viability of human bone marrow-derived human mesenchymal stem cells (BMMSCs) was studied after deliberate and controlled cell culture infection in co-culture with eight different bacterial strains. The bacteria included two strains of <it>P. aeruginosa</it>, three strains of <it>Staphylococcus aureus</it>, and three strains of <it>Staphylococcus epidermidis</it>. <it>P. aeruginosa</it>, which is a Gram-negative rod, and the Gram-positive cocci <it>S. aureus </it>and <it>S. epidermidis </it>have been shown to be common contaminants of cell products and in the hospital environment <abbrgrp><abbr bid="B10">10</abbr><abbr bid="B11">11</abbr><abbr bid="B12">12</abbr><abbr bid="B13">13</abbr><abbr bid="B14">14</abbr><abbr bid="B15">15</abbr><abbr bid="B16">16</abbr><abbr bid="B34">34</abbr></abbrgrp>. Two of the bacterial strains had previously been isolated from discarded, contaminated batches of blood products, making them biologically relevant models for studying the contamination process of stem cell cultures. The effects of the bacterial strains on &#916;&#936;<sub>m</sub>, cell morphology, and plasma membrane integrity of BMMSCs were studied.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Materials and methods</p>
+         </st>
+         <sec>
+            <st>
+               <p>BMMSC isolation and culture</p>
+            </st>
+            <p>BMMSC lines 407, 412, and 470 were isolated from unaffected bone sites of patients who underwent surgery for osteoarthritis at Oulu University Hospital in Finland. These cell lines have been approved for research use by permission of the Northern Ostrobothnia Hospital District Ethical Committee. Samples from bone marrow were suspended in a proliferation medium containing alpha minimum essential medium (&#945;MEM) (Sigma-Aldrich, St. Louis, MO, USA) buffered with 20 mM HEPES and containing 10% heat-inactivated fetal bovine serum (FBS), 100 U/mL penicillin, 0.1 mg/mL streptomycin, and 2 mM L-glutamine. The suspension was transferred into cell culture flasks, and BMMSCs were allowed to attach for 48 hours at 37&#176;C under 5% CO<sub>2 </sub>and 20% O<sub>2</sub>. Nonattached cells were removed by changing fresh medium, and attached cells were cultured at the bottom of the flask until they reached a 70% to 80% confluence. The medium was changed twice a week, and cells from passages 3 to 5 were used in experiments.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Flow cytometric analysis of surface antigens</p>
+            </st>
+            <p>The BMMSCs were characterized according to the minimal criteria panel of surface antigens proposed by the Mesenchymal and Tissue Stem Cell Committee of the International Society for Cellular Therapy <abbrgrp><abbr bid="B35">35</abbr></abbrgrp>. BMMSC lines 407, 412, and 470 were detached from culture flasks and suspended in phosphate-buffered saline (PBS) + 0.5% bovine serum albumin (BSA) (100,000 cells/mL). Conjugated antibodies were incubated for 20 minutes at room temperature: CD90 (FITC; StemCell Technologies, Vancouver, BC, Canada), CD73 (PE; BD Biosciences, San Jose, CA, USA), HLA-ABC (APC; BD Biosciences), and CD105 (FITC; Abcam, Cambridge, UK). Negative surface antigens for hMSCs were incubated simultaneously as a group in the same sample: HLA-DR (PE; BD Biosciences), CD34 (PE; BD Biosciences), CD45 (PE; BD Biosciences), CD14 (PE; BD Biosciences), and CD19 (PE; BD Biosciences). After incubation, cells were washed with PBS + 0.5% BSA and analyzed by using a FACSCalibur instrument (Becton, Dickinson and Company, Franklin Lakes, NJ, USA), equipped with a laser emitting at 488, 633, and 407 nm. FITC, PE, and APC channels were used to detect the emission of conjugated surface antigens. Flow cytometric data were analyzed with FlowJo. Cell debris was gated out from all samples. On the basis of isotype controls and unlabeled cells, the gates for positive cells were defined.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Bacterial strains and cultivation condition</p>
+            </st>
+            <p><it>P. aeruginosa </it>PA01 (VTT E-84219), <it>S. aureus </it>Cowan I (DSM 20372), and <it>S. epidermidis </it>ATCC 14990 were obtained from commercial culture collections. <it>S. aureus </it>KK1089 and <it>S. epidermidis </it>KK1087 were isolated from discarded, contaminated batches of thrombocyte preparations. The bacterial strains were stored in skim milk suspension at &#8722;80&#176;C. Before co-culture experiments, bacteria were plated onto trypticase soy agar (TSA) plates (Tammer Tutkan Maljat Ltd., Tampere, Finland) and cultivated at 37&#176;C overnight. Following incubation, a single colony was inoculated into 5 mL of soy casein broth (Tammer Tutkan Maljat Ltd. Tampere). The bacterial suspensions were cultivated at 37&#176;C overnight. The next morning, bacteria were pelleted by centrifuging at 2,465<it>g </it>for 10 minutes, washed twice with 10 mL of PBS, pH 7.2, and finally suspended in 1 mL of PBS. The bacterial suspensions were adjusted to an optical density of 1.0 at A<sub>600 </sub>nm by Shimadzu UV-1700 Pharma Spec spectrophotometer (Shimadzu Corporation, Kyoto, Japan). Based on previous experience, this corresponds to an order of magnitude of 10<sup>8 </sup>bacteria/mL. Viable counting of bacterial suspensions in different experiments showed that bacterial numbers ranged from 9 &#215; 10<sup>7 </sup>to 3 &#215; 10<sup>8 </sup>CFU/mL for <it>S. aureus </it>strains, from 1 &#215; 10<sup>8 </sup>to 5 &#215; 10<sup>8 </sup>CFU/mL for <it>S. epidermidis </it>strains, and from 4 &#215; 10<sup>8 </sup>to 7 &#215; 10<sup>8 </sup>CFU/mL for <it>P. aeruginosa </it>PA01. Series of 10-fold dilutions of all bacterial suspensions were performed in PBS, and three dilutions of each bacterial strain were used to infect BMMSCs. Small bacterial inocula (approximately 10<sup>1 </sup>to 10<sup>3 </sup>CFU) were used in order to simulate the aseptic cell production process, in which contaminations are most likely to derive from infection with only a few bacterial cells, followed by bacterial multiplication in the nutrient-rich cell culture medium. Moreover, previous studies on the interaction of bacteria with MSCs or osteoblast-like cells have similarly used bacterial amounts ranging from 3 &#215; 10<sup>2 </sup>to 1 &#215; 10<sup>3 </sup><abbrgrp><abbr bid="B20">20</abbr><abbr bid="B36">36</abbr></abbrgrp>.</p>
+            <p><it>P. aeruginosa </it>ATCC9027, <it>S. aureus </it>ATCC6538, and <it>S. epidermidis </it>ATCC12228, which are available as certified reference material, were obtained from Microbiologics (Labema OY, Kerava, Finland as lyophilized preparations that contain a specified number of bacteria. The preparations were dissolved in accordance with the instructions of the manufacturer. The number of recovered bacteria was verified by viable counting. The final amounts of bacteria used were 2 &#215; 10<sup>2 </sup>CFU/mL for <it>P. aeruginosa </it>ATCC9027, 4 &#215; 10<sup>2 </sup>CFU/mL for <it>S. aureus </it>ATCC6538, and 3 &#215; 10<sup>2 </sup>CFU/mL for <it>S. epidermidis </it>ATCC12228.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Bacterial infection of BMMSCs</p>
+            </st>
+            <p>BMMSCs were first cultivated as described above with antibiotics and then were washed with PBS, trypsinized from culture flasks, and suspended in the expansion medium without antibiotics. BMMSCs were plated on clear 96-well plates for Trypan blue staining and microscope analysis and in parallel on black (clear bottom) 96-well plates for &#916;&#936;<sub>m </sub>analysis. BMMSCs were plated as 10,000 cells per well and cultured overnight at 37&#176;C under 5% CO<sub>2 </sub>and 20% O<sub>2</sub>. Bacterial dilutions corresponding approximately to 10<sup>1</sup>, 10<sup>2</sup>, or 10<sup>3 </sup>bacteria per well were inoculated, each individual strain separately, into the 96-well plates in which BMMSCs had been grown overnight. For the &#916;&#936;<sub>m </sub>analysis, carbonyl cyanide m-chlorophenylhydrazone (CCCP) (Sigma-Aldrich; 10 &#956;M) was used as a positive control. All treatments were performed as four independent replicates. The &#916;&#936;<sub>m </sub>analysis was performed after 4 hours of infection and Trypan blue staining, and observation of cellular morphology was performed after 3, 4, 6, and 24 hours of infection.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Determination of bacterial growth</p>
+            </st>
+            <p>Bacterial growth was determined after 4 and 24 hours of infection of the BMMSC line 407. As a control, bacterial growth was determined also after 4- and 24-hour incubation under identical culture conditions and in a medium not containing BMMSCs. Series of 10-fold dilutions of bacterial suspensions were performed in PBS from all of the analyzed samples, and bacteria from different dilutions were plated onto TSA plates and cultivated at 37&#176;C overnight. The next morning, colonies were calculated and the number of CFU was determined. Bacterial loads after incubation were compared with bacterial amounts in the inocula.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Analysis of mitochondrial inner membrane potential</p>
+            </st>
+            <p>The infection of BMMSCs was terminated after 4 hours by removing the bacterium-containing medium and washing two times with PBS. After washing, the mitochondrial inner membrane potential sensitive dye enhanced 5,5',6,6'-tetrachloro-1,1',3,3'-tetraethylbenzimidazolcarbocyanine iodide (JC-10) (Enzo Life Sciences, New York, NY, USA) was used. The JC-10 staining solution (5 &#956;M) was prepared by diluting the JC-10 stock solution (1.7 mM in DMSO) into the expansion medium. The staining solution was mixed well, added to the cells, and incubated for 60 minutes at room temperature. Following incubation, the staining solution was removed and PBS was added. Expansion medium in wells without cells was used as a background, and JC-10 staining was performed as for the wells with BMMSCs. The JC-10 signal was detected by a fluorescence plate reader (Victor<sup>2 </sup>1420 Multilabel counter; Wallac, now part of PerkinElmer Inc., Waltham, MA, USA). Fluorescence was excited at 488 nm, and the emission was measured at 595 &#177; 42 nm and 535 &#177; 30 nm. The background fluorescences of 595 and 535 nm from wells without cells were subtracted from the analyzed samples. The 595 nm/535 nm emission ratio was determined from four different replicates, and the ratio of infected or CCCP-treated cells was compared with the control cells. CCCP was used to depolarize &#916;&#936;<sub>m</sub>, which was seen as a decrease in the 595 nm/530 nm emission ratio.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Trypan blue staining</p>
+            </st>
+            <p>Trypan blue (Stem Cell Technologies, Vancouver, BC, Canada) was diluted 1:100 in PBS and added onto the cells. Trypan blue staining, together with photography, was performed after 3, 4, 6, and 24 hours of infection. Cells were studied by using an inverted microscope Leica DM IL LED (Leica, Wetzlar, Germany) and photographed with a Leica DFC 420 digital microscope camera.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Statistics</p>
+            </st>
+            <p>Statistical analysis and all diagrams were performed by using the OriginPro version 8 (OriginLab Corporation, Northampton, MA, USA). JC-10 data are presented as mean &#177; standard deviation (SD) of the results from four independent replicates. The significance level was determined by two-sample <it>t </it>test. A <it>P </it>value of less than 0.05 was considered statistically significant.</p>
+         </sec>
+      </sec>
+      <sec>
+         <st>
+            <p>Results</p>
+         </st>
+         <sec>
+            <st>
+               <p>Even low numbers of pathogens damage BMMSCs within 24 hours</p>
+            </st>
+            <p>Bacterial infection of BMMSCs was studied in three BMMSC lines, namely 407 (female donor, 57 years old), 412 (male donor, 51 years old), and 470 (female donor, 70 years old). All of the BMMSC lines expressed cell surface antigens characteristic for hMSCs as proposed by the Mesenchymal and Tissue Stem Cell Committee of the International Society for Cellular Therapy <abbrgrp><abbr bid="B35">35</abbr></abbrgrp> (Table <tblr tid="T1">1</tblr>). Bacteria were first incubated in three different amounts with BMMSCs (line 412). To determine the period of time that the bacterial contamination needs to induce total dissipation of BMMSCs even with the lowest bacterial load, we first decided to monitor the infection of BMMSCs for 24 hours. The effect of infection was compared with the uninfected control of BMMSCs (Figure <figr fid="F1">1a</figr>). The results show that <it>P. aeruginosa </it>PA01 caused total destruction of BMMSCs within 24 hours of infection (Figure <figr fid="F1">1b</figr>). <it>S. aureus </it>Cowan I and <it>S. aureus </it>KK1089 produced enormous aggregates, and cell death of BMMSCs was evident due to the appearance of Trypan blue-positive nuclei (Figure <figr fid="F1">1c, d</figr>). <it>S. epidermidis </it>ATCC 1499 and <it>S. epidermidis </it>KK1087 also caused total dissipation of BMMSCs after 24 hours of infection (Figure <figr fid="F1">1e, f</figr>). All pathogens caused a similar destruction of BMMSCs regardless of the initial amount of inoculated bacteria. This experiment was repeated with the BMMSC lines 407 and 470 and the results were consistent (data not shown).</p>
+            <tbl id="T1" hint_layout="double">
+               <title>
+                  <p>Table 1</p>
+               </title>
+               <caption>
+                  <p>Detailed characterization of human mesenchymal stem cell lines used in this work</p>
+               </caption>
+               <tblbdy cols="7">
+                  <r>
+                     <c ca="left">
+                        <p><b>hMSC line</b></p>
+                     </c>
+                     <c cspan="5" ca="center">
+                        <p><b>Positivity, percentage</b></p>
+                     </c>
+                     <c ca="center">
+                        <p><b>Age in years/Gender</b></p>
+                     </c>
+                  </r>
+                  <r>
+                     <c>
+                        <p/>
+                     </c>
+                     <c cspan="5">
+                        <hr/>
+                     </c>
+                     <c>
+                        <p/>
+                     </c>
+                  </r>
+                  <r>
+                     <c>
+                        <p/>
+                     </c>
+                     <c ca="center">
+                        <p><b>CD90</b></p>
+                     </c>
+                     <c ca="center">
+                        <p><b>CD105</b></p>
+                     </c>
+                     <c ca="center">
+                        <p><b>CD73</b></p>
+                     </c>
+                     <c ca="center">
+                        <p><b>HLA-ABC</b></p>
+                     </c>
+                     <c ca="center">
+                        <p><b>CD14, CD19, CD34, CD45, HLA-DR</b></p>
+                     </c>
+                     <c>
+                        <p/>
+                     </c>
+                  </r>
+                  <r>
+                     <c cspan="7">
+                        <hr/>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>407</p>
+                     </c>
+                     <c ca="center">
+                        <p>98.2</p>
+                     </c>
+                     <c ca="center">
+                        <p>99.8</p>
+                     </c>
+                     <c ca="center">
+                        <p>100</p>
+                     </c>
+                     <c ca="center">
+                        <p>99.5</p>
+                     </c>
+                     <c ca="center">
+                        <p>1.7</p>
+                     </c>
+                     <c ca="center">
+                        <p>57/Female</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c cspan="7">
+                        <hr/>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>470</p>
+                     </c>
+                     <c ca="center">
+                        <p>99.8</p>
+                     </c>
+                     <c ca="center">
+                        <p>99.5</p>
+                     </c>
+                     <c ca="center">
+                        <p>99.6</p>
+                     </c>
+                     <c ca="center">
+                        <p>98.8</p>
+                     </c>
+                     <c ca="center">
+                        <p>2.1</p>
+                     </c>
+                     <c ca="center">
+                        <p>70/Female</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c cspan="7">
+                        <hr/>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>412</p>
+                     </c>
+                     <c ca="center">
+                        <p>100</p>
+                     </c>
+                     <c ca="center">
+                        <p>99.6</p>
+                     </c>
+                     <c ca="center">
+                        <p>99.9</p>
+                     </c>
+                     <c ca="center">
+                        <p>99.4</p>
+                     </c>
+                     <c ca="center">
+                        <p>1.1</p>
+                     </c>
+                     <c ca="center">
+                        <p>51/Male</p>
+                     </c>
+                  </r>
+               </tblbdy>
+               <tblfn>
+                  <p>The positivity for the particular cell surface antigen was determined according to the negative control by flow cytometry. The panel of negative cell surface antigens was analyzed as a group. hMSC, human mesenchymal stem cell.</p>
+               </tblfn>
+            </tbl>
+            <fig id="F1">
+               <title>
+                  <p>Figure 1</p>
+               </title>
+               <caption>
+                  <p>Total dissipation of human bone marrow-derived mesenchymal stem cells (BMMSCs) by bacterial infection</p>
+               </caption>
+               <text>
+                  <p><b>Total dissipation of human bone marrow-derived mesenchymal stem cells (BMMSCs) by bacterial infection</b>. BMMSCs (line 412) were infected with bacteria, and after 24-hour incubation the cells were stained with Trypan blue and studied microscopically. <b>(a) </b>Control cells were viable after 24 hours of cultivation. <b>(b) </b><it>Pseudomonas aeruginosa </it>PA01-infected BMMSCs show total dissipation at 24 hours with all bacteria loads. <b>(c) </b><it>Staphylococcus aureus </it>Cowan I and <b>(d) </b><it>S. aureus </it>KK1089 formed enormous aggregates and caused the decrease in viability as determined by Trypan blue. <b>(e) </b><it>Staphylococcus epidermidis </it>ATCC 14990 and <b>(f) </b><it>S. epidermidis </it>KK1087 showed total dissipation of BMMSCs at 24 hours of infection. Magnification was 200 &#215; in all panels. Red circles indicate Trypan blue-positive nuclei. Red asterisks indicate the aggregates produced by <it>S. aureus</it>.</p>
+               </text>
+               <graphic file="scrt144-1"/>
+            </fig>
+         </sec>
+         <sec>
+            <st>
+               <p>Decrease in viability of BMMSCs after 6 hours of infection</p>
+            </st>
+            <p>The early effects of bacterial contamination on the viability of BMMSCs were studied by inoculating cells with approximately 10<sup>3 </sup>bacteria per well and monitoring the cellular changes during the first 6 hours. Inoculated pathogens appeared to spend 3 hours in a lag phase most probably adapting to new culture conditions as during that time there were no differences between control cells (Figure <figr fid="F2">2a</figr>) and bacterium-infected cells (Figure <figr fid="F2">2b-f</figr>, photographs on the left column). After 6 hours of infection, however, changes in BMMSC viability became evident when compared with uninfected control cells (Figure <figr fid="F2">2a</figr>, photograph on the right column). <it>P. aeruginosa </it>PA01 caused a clear decrease in viability as determined by Trypan blue staining, and morphological changes in the BMMSCs were evident (Figure <figr fid="F2">2b</figr>, photograph on the right column). The morphological changes were seen as a rounding of the cells and loss of the characteristic spindle-like cell morphology. <it>S. aureus </it>Cowan I and <it>S. aureus </it>KK1089 promoted formation of small aggregates after 6 hours of infection, and some Trypan blue-positive nuclei were evident, whereas the morphology of BMMSCs appeared to stay normal (Figure <figr fid="F2">2c, d</figr>, photographs on right). <it>S. aureus </it>KK1089 showed the formation of aggregates in experiments in which lower numbers of bacteria (10<sup>1 </sup>and 10<sup>2</sup>) were initially seeded, but such aggregates were not evident with <it>S. aureus </it>Cowan I (data not shown). Similar kinds of aggregates were also evident when <it>S. aureus </it>was grown in the medium without BMMSCs (data not shown). The infection of BMMSCs with <it>S. epidermidis </it>ATCC 14990 and <it>S. epidermidis </it>KK1087 showed some Trypan blue-positive staining of nuclei, but no clear morphological changes were evident in BMMSCs when compared with the uninfected control BMMSCs (Figure <figr fid="F2">2e, f</figr>, photographs on the right column).</p>
+            <fig id="F2">
+               <title>
+                  <p>Figure 2</p>
+               </title>
+               <caption>
+                  <p>Morphological changes induced in bone marrow-derived mesenchymal stem cells (BMMSCs) by bacterial infection</p>
+               </caption>
+               <text>
+                  <p><b>Morphological changes induced in bone marrow-derived mesenchymal stem cells (BMMSCs) by bacterial infection</b>. BMMSCs (line 412) were infected with bacteria, and after 3- and 6-hour incubation the cells were stained with Trypan blue and studied microscopically. An inoculum size of approximately 10<sup>3 </sup>bacteria was selected for experiments. <b>(a) </b>Control cells were Trypan blue-negative after 3 and 6 hours of culture. <b>(b) </b><it>Pseudomonas aeruginosa </it>PA01-infected cells at 3 and 6 hours. After 6 hours of infection, the morphological changes were seen as a rounding of the cells and thus they lost their characteristic spindle-like morphology. <b>(c) </b><it>Staphylococcus aureus </it>Cowan I- and <b>(d) </b><it>S. aureus </it>KK1089-infected cells at 3 and 6 hours. Both <it>S. aureus </it>strains formed aggregates after 6 hours of infection. <b>(e) </b><it>Staphylococcus epidermidis </it>ATCC 14990- and <b>(f) </b><it>S. epidermidis </it>KK1087-infected cells at 3 and 6 hours. The morphology of the cells remained normal, but some Trypan blue-positive nuclei were evident. Magnification was 200 &#215; in all panels. Red circles indicate Trypan blue-positive nuclei. Red squares indicate changes in morphology. Black squares indicate the <it>S. aureus</it>-produced aggregates.</p>
+               </text>
+               <graphic file="scrt144-2"/>
+            </fig>
+         </sec>
+         <sec>
+            <st>
+               <p>Pathogen-induced depolarization of &#916;&#936;<sub>m </sub>precedes major changes in cell morphology or decreases in viability of BMMSCs</p>
+            </st>
+            <p>BMMSC lines 407, 470, and 412 were used to study the early effects of pathogen contamination on the state of mitochondrial energy of BMMSCs. Based on the above results with Trypan blue staining and analysis of cell morphology, which showed that changes begin to appear in the viability of BMMSCs after 6 hours of infection, the 4-hour time point was chosen for &#916;&#936;<sub>m </sub>analysis. The aim was to investigate whether changes in mitochondrial energy state precede the changes that can be detected by traditional Trypan blue staining. In these experiments, CCCP treatment was used as a positive control to depolarize the &#916;&#936;<sub>m </sub>(Figure <figr fid="F3">3a</figr>). It was evident that the <it>S. aureus </it>strains had a slightly different effect on the cells. Namely, with <it>S. aureus </it>Cowan I only, the BMMSC line 412 showed a significant decrease in &#916;&#936;<sub>m </sub>from 100% &#177; 5.8% to 84.9% &#177; 6.6% when the highest inoculum of <it>S. aureus </it>Cowan I was used and the &#916;&#936;<sub>m </sub>of infected BMMSCs was compared with the &#916;&#936;<sub>m </sub>of control BMMSCs (<it>P </it>&lt;0.05) (Figure <figr fid="F3">3b</figr>). Instead, <it>S. aureus </it>KK1089 induced a significant decrease in &#916;&#936;<sub>m </sub>under most experimental conditions in all three BMMSC lines even before any major changes in viability or morphology were evident (Figure <figr fid="F3">3c</figr>). The initial inoculum of 10<sup>3 </sup>of <it>S. aureus </it>KK1089 caused significant depolarization of &#916;&#936;<sub>m </sub>in all BMMSC lines from 100% &#177; 5.8% to 56.8% &#177; 7.4% (<it>P </it>&lt;0.01) in BMMSC 407, from 100% &#177; 5.8% to 77.7% &#177; 2.6% (<it>P </it>&lt;0.001) in BMMSC 412, and from 100% &#177; 5.8% to 85.3% &#177; 4.3% (<it>P </it>&lt;0.01) in BMMSC 470. <it>S. epidermidis </it>ATCC 14990 and <it>S. epidermidis </it>KK1087 also induced significant depolarization of &#916;&#936;<sub>m </sub>in all three BMMSC lines at all microbial loads when compared with uninfected control cells (Figure <figr fid="F3">3d, e</figr>). The initial bacterial load of 10<sup>3 </sup>of <it>S. epidermidis </it>KK1087 caused dramatic decreases of &#916;&#936;<sub>m </sub>in 407, 412, and 470 BMMSC lines from 100% &#177; 5.8% to 58.1% &#177; 20.1% (<it>P </it>&lt;0.05), from 100% &#177; 5.8% to 73.6% &#177; 8.6% (<it>P </it>&lt;0.01), and from 100% &#177; 5.8% to 81.1% &#177; 9.6% (<it>P </it>&lt;0.05), respectively. <it>P. aeruginosa </it>PA01 caused depolarization of &#916;&#936;<sub>m </sub>in all BMMSC lines at higher bacterial loads. The &#916;&#936;<sub>m </sub>decreased from 100% &#177; 5.8% to 65.4% &#177; 11.9% in BMMSC 407 line (<it>P </it>&lt;0.01), from 100% &#177; 5.8% to 89.1% &#177; 5.2% in BMMSC 412 line (<it>P </it>&lt;0.05), and from 100% &#177; 5.8% to 90.0% &#177; 3.1% in BMMSC 470 line (<it>P </it>&lt;0.01). However, the lowest bacterial loads did not induce a significant decrease of &#916;&#936;<sub>m </sub>in the BMMSC line 407 when compared with control cells (Figure <figr fid="F3">3f</figr>). The results clearly indicate that the depolarization of &#916;&#936;<sub>m </sub>occurred before major changes in morphology or in viability as determined by Trypan blue staining were evident, except with the highest amount of <it>P. aeruginosa </it>PA01 (Figure <figr fid="F3">3f</figr>). Trypan blue staining results are shown for the BMMSC line 412 only, but the results were identical for the two other BMMSC lines. The results also show that the level of depolarization differed among the three BMMSC lines. Overall, cell line 407 showed the most dramatic depolarization in response to all bacterial strains which caused significant depolarization of &#916;&#936;<sub>m </sub>(all except <it>S. aureus </it>Cowan I), and this line also showed the most dramatic response to CCCP. The BMMSC line 412 showed a somewhat different response to CCCP when compared with the two other BMMSC lines.</p>
+            <fig id="F3">
+               <title>
+                  <p>Figure 3</p>
+               </title>
+               <caption>
+                  <p>Depolarization of &#916;&#936;<sub>m </sub>precedes changes in morphology or plasma membrane integrity of bone marrow-derived mesenchymal stem cells (BMMSCs)</p>
+               </caption>
+               <text>
+                  <p><b>Depolarization of &#916;&#936;<sub>m </sub>precedes changes in morphology or plasma membrane integrity of bone marrow-derived mesenchymal stem cells (BMMSCs)</b>. BMMSC lines 412, 407, and 470 were used to study the early changes in &#916;&#936;<sub>m </sub>and cell viability as determined by Trypan blue after 4 hours of infection. <b>(a) </b>Trypan blue staining of control cells and response to CCCP (protonophore) that was used as a positive control. <b>(b) </b><it>Staphylococcus aureus </it>Cowan I caused slight depolarization of &#916;&#936;<sub>m</sub>. <b>(c) </b><it>S. aureus </it>KK1089 induced changes in &#916;&#936;<sub>m </sub>and Trypan blue after 4 hours. <b>(d) </b><it>Staphylococcus epidermidis </it>ATCC 14990 and <b>(e) </b><it>S. epidermidis </it>KK1087 induced depolarization of &#916;&#936;<sub>m</sub>. <b>(f) </b>Depolarization of &#916;&#936;<sub>m </sub>and Trypan blue staining at 4 hours in <it>Pseudomonas aeruginosa </it>PA01-infected BMMSCs. The fluorescent 595 nm/535 nm ratio of JC-10 was used to determine &#916;&#936;<sub>m</sub>, and the 595 nm/535 nm ratios of infected BMMSCs were compared with uninfected control cells. Results are indicated as mean &#177; standard deviation of four independent replicates. Magnification was 200 &#215; in all panels. Red circles indicate Trypan blue-positive nuclei. Black squares indicate the aggregates produced by <it>S. aureus</it>. *<it>P </it>&lt;0.05, **<it>P </it>&lt;0.01, and ***<it>P </it>&lt;0.001 in two-sample <it>t </it>test between control BMMSCs and infected BMMSCs. &#916;&#936;<sub>m</sub>, mitochondrial inner membrane potential; CCCP, carbonyl cyanide m-chlorophenylhydrazone; JC-10, enhanced 5,5',6,6'-tetrachloro-1,1',3,3'-tetraethylbenzimidazolcarbocyanine iodide.</p>
+               </text>
+               <graphic file="scrt144-3"/>
+            </fig>
+         </sec>
+         <sec>
+            <st>
+               <p>All bacterial strains grew exponentially within 24 hours of infection, but there were some variations in bacterial growth during the first 4 hours of infection</p>
+            </st>
+            <p>Next, we determined bacterial growth in co-culture with BMMSCs after 4- and 24-hour infection. The initial inoculum of approximately 10<sup>3 </sup>bacteria was seeded onto the 407 BMMSCs. As BMMSCs have been reported to have antimicrobial effects <abbrgrp><abbr bid="B36">36</abbr><abbr bid="B37">37</abbr></abbrgrp>, we inoculated bacteria for comparison into cell culture medium not containing BMMSCs. Quantitative counting of bacteria showed that there was some variation in bacterial numbers in the initial inocula; however, the amounts of all strains were in the order of magnitude of 10<sup>3</sup>. All bacterial strains showed exponential growth within 24 hours of infection when grown on top of the BMMSCs (Figure <figr fid="F4">4a</figr>). At 24 hours, efficient growth was also detected when bacteria were incubated in plain medium (data not shown). However, within the first 4 hours of infection, there were significant differences in growth between the different strains (Figure <figr fid="F4">4b</figr>). The amount of <it>P. aeruginosa </it>PA01 increased 139 times during the first 4 hours of infection when grown on top of the BMMSCs and 125 times in the medium only. On the other hand, <it>S. aureus </it>Cowan I showed negligent growth during the first 4 hours of infection on top of the BMMSCs whereas in the plain medium the amount of <it>S. aureus </it>Cowan I increased nine times. <it>S. aureus </it>KK1089 behaved similarly but grew to consistently higher numbers than <it>S. aureus </it>Cowan I both in the plain medium (14-fold increase) and on top of the BMMSCs (over twofold increase). <it>S. epidermidis </it>ATCC14990 showed over threefold increase in bacterial amounts when grown on top of the BMMSCs and over twofold increase in the medium only. Also, <it>S. epidermidis </it>KK1087 showed rapid proliferation within the first 4 hours of infection with CFU fold changes of nine in co-culture with BMMSCs and nine in medium only. The results show that <it>S. aureus </it>Cowan I in particular proliferates slowly during the first 4 hours of infection. This may explain the inability of the mitochondrial assay to detect <it>S. aureus </it>Cowan I-induced cellular stress within the first 4 hours of infection. We also determined bacterial proliferation with the initial inocula of approximately 10<sup>1 </sup>and 10<sup>2 </sup>bacteria per well and noted that the bacterial growth curves were similar to those obtained with the highest inoculum (data not shown). The results also show that growth of the <it>S. aureus </it>strains is significantly slower in the presence of BMMSCs than in plain medium, suggesting that antimicrobial effects from the cells may hinder their growth.</p>
+            <fig id="F4">
+               <title>
+                  <p>Figure 4</p>
+               </title>
+               <caption>
+                  <p>Determination of bacterial growth in co-culture with bone marrow-derived mesenchymal stem cells (BMMSCs)</p>
+               </caption>
+               <text>
+                  <p><b>Determination of bacterial growth in co-culture with bone marrow-derived mesenchymal stem cells (BMMSCs)</b>. BMMSC line 407 was used to determine the bacterial growth rate in co-culture system. Identical culture conditions without BMMSCs were used as a control. <it>Pseudomonas aeruginosa </it>PA01, <it>Staphylococcus aureus </it>strains Cowan I and KK1089, and <it>Staphylococcus epidermidis </it>strains ATCC14990 and KK1087 were inoculated at an indicated initial inoculum (0 hours), and bacterial growth was determined by viable counting after 4 and 24 hours of infection. Series of 10-fold dilutions were prepared from each sample, and the number of colony-forming units (CFU) was determined from at least two different 10-fold dilutions per sample. <b>(a) </b>All the bacterial strains grew exponentially within 24 hours of infection. However, there were some differences in growth rate at the beginning of the infection. <b>(b) </b><it>P. aeruginosa </it>PA01 showed rapid proliferation whereas <it>S. aureus </it>Cowan I showed negligent growth in the presence of BMMSCs within the first 4 hours of infection. Moreover, both <it>S. aureus </it>strains grew more rapidly in medium without BMMSCs within the first 4 hours than when compared with bacterial growth on top of the BMMSCs. Both <it>S. epidermidis </it>strains showed relatively active proliferation within the first 4 hours of infection.</p>
+               </text>
+               <graphic file="scrt144-4"/>
+            </fig>
+         </sec>
+         <sec>
+            <st>
+               <p>Mitochondrial assay showed sensitivity for reference strains used in microbial quality control of cellular products</p>
+            </st>
+            <p>Finally, we studied the potential of &#916;&#936;<sub>m </sub>measurement to detect bacterium infection-induced changes in viability of BMMSCs by using certified reference microbial strains that are widely used in validation of quality control processes of cell therapy products. We measured &#916;&#936;<sub>m </sub>and bacterial proliferation after infection of BMMSC 407 with the strains <it>P. aeruginosa </it>ATCC9027, <it>S. aureus </it>ATCC6538, and <it>S. epidermidis </it>ATCC12228. Again, the bacteria were seeded onto the 407 BMMSCs as well as into medium not containing BMMSCs, and bacterial growth was detected by counting CFU after 4 and 24 hours of infection. All bacterial strains grew exponentially within 24 hours of infection (Figure <figr fid="F5">5a</figr>). However, with reference strains, there were some variations in the proliferation within the first 4 hours of infection (Figure <figr fid="F5">5a, b</figr>). Interestingly, similar to <it>S. aureus </it>Cowan I and <it>S. aureus </it>KK1087, <it>S. aureus </it>ATCC6538 grew to significantly higher numbers in the absence of BMMSCs (fold change of 43) than in the presence of cells (fold change of 7), again suggesting that BMMSCs may have antimicrobial effects toward <it>S. aureus </it>(Figure <figr fid="F5">5b</figr>). <it>P. aeruginosa </it>ATCC9027 showed the highest growth with a fold change of close to 40 in both culture conditions, whereas the number of <it>S. epidermidis </it>ATCC12228 even declined within the first 4 hours of infection. On the other hand, even though there were differences in bacterial growth at the beginning, all bacterial strains, including <it>S. epidermidis </it>ATCC12228, grew efficiently during 24 hours of infection (Figure <figr fid="F5">5c</figr>). <it>S. aureus </it>ATCC6538 continued to show higher proliferation in medium only (fold change of 6 &#215; 10<sup>5</sup>) when compared with the growth in co-culture with BMMSCs (fold change of 2 &#215; 10<sup>5</sup>) also during prolonged incubation. Similarly, <it>S. epidermidis </it>ATCC12228 proliferated more in medium only (fold change of 7 &#215; 10<sup>5</sup>) than when cultivated on top of the BMMSCs (fold change of 2 &#215; 10<sup>5</sup>) (Figure <figr fid="F5">5c</figr>).</p>
+            <fig id="F5">
+               <title>
+                  <p>Figure 5</p>
+               </title>
+               <caption>
+                  <p>Comparison of &#916;&#936;<sub>m </sub>of bone marrow-derived mesenchymal stem cells (BMMSCs) and bacterial viability in co-culture of BMMSCs with reference strains <it>Pseudomonas aeruginosa </it>ATCC9027, <it>Staphylococcus aureus </it>ATCC6528, and <it>Staphylococcus epidermidis </it>ATCC12228</p>
+               </caption>
+               <text>
+                  <p><b>Comparison of &#916;&#936;<sub>m </sub>of bone marrow-derived mesenchymal stem cells (BMMSCs) and bacterial viability in co-culture of BMMSCs with reference strains <it>Pseudomonas aeruginosa </it>ATCC9027, <it>Staphylococcus aureus </it>ATCC6528, and <it>Staphylococcus epidermidis </it>ATCC12228</b>. BMMSC line 407 was used to determine the bacterial growth kinetics within 4 and 24 hours of infection. <it>P. aeruginosa </it>ATCC9027, <it>S. aureus </it>ATCC6538, and <it>S. epidermidis </it>ATCC12228 were inoculated in an indicated initial inoculum (0 hours). Medium without BMMSCs was used as a control. Series of 10-fold dilutions were prepared from each sample, and the number of colony-forming units (CFU) was determined from at least two different 10-fold dilutions per sample. <b>(a) </b>All of the bacterial strains grew exponentially within 24 hours of infection. <b>(b) </b>There were some differences in the growth rate of bacteria between different bacterial strains within the first 4 hours of infection. <b>(c) </b>At this time point, initially slowly proliferated <it>S. epidermidis </it>ATCC12228 also showed efficient bacterial growth. <b>(d) </b>The analysis of &#916;&#936;<sub>m </sub>was performed in parallel with the determination of CFUs after 4 hours of infection. The fluorescent 595 nm/535 nm ratio of JC-10 was used to determine &#916;&#936;<sub>m</sub>, and the 595 nm/535 nm ratios of infected BMMSCs were compared with controls. Results are indicated as mean &#177; standard deviation of four independent replicates. *Two-sample <it>t </it>test <it>P </it>values of less than 0.05 when compared between control BMMSCs and infected BMMSCs; **two-sample <it>t </it>test <it>P </it>values of less than 0.01 when compared between control BMMSCs and infected BMMSCs; ***two-sample <it>t </it>test <it>P </it>values of less than 0.001 when compared between control BMMSCs and CCCP-treated BMMSCs. &#916;&#936;<sub>m</sub>, mitochondrial inner membrane potential; CCCP, carbonyl cyanide m-chlorophenylhydrazone; JC-10, enhanced 5,5',6,6'-tetrachloro-1,1',3,3'-tetraethylbenzimidazolcarbocyanine iodide.</p>
+               </text>
+               <graphic file="scrt144-5"/>
+            </fig>
+            <p>In parallel with the determination of bacterial CFU, we performed the analysis of &#916;&#936;<sub>m </sub>within 4 hours of infection. Results are represented as a mean &#177; SD of four independent replicates (Figure <figr fid="F5">5d</figr>). Again, CCCP was used as a positive control, and it induced total depolarization of &#916;&#936;<sub>m </sub>from 100% &#177; 7.2% to 10.8% &#177; 1.3% (<it>P </it>&lt;0.001) when compared with control BMMSCs. <it>P. aeruginosa </it>ATCC9027, which showed rapid proliferation within the first 4 hours of infection, also induced significant depolarization of &#916;&#936;<sub>m </sub>of BMMSCs from 100% &#177; 7.2% to 71.2% &#177; 3.7% (<it>P </it>&lt;0.01). In addition, <it>S. aureus </it>ATCC6538 induced the depolarization of &#916;&#936;<sub>m </sub>of BMMSCs from 100% &#177; 7.2% to 74.9% &#177; 4.9% (<it>P </it>&lt;0.05) when compared with control BMMSCs. On the contrary, <it>S. epidermidis </it>ATCC12228 caused only a slight depolarization of &#916;&#936;<sub>m </sub>of BMMSCs with the change from 100% &#177; 7.2% to 91.9% &#177; 5.6%. Reference strains behaved somewhat similarly as the strains used in earlier experiments: after 24 hours of infection, total dissipation of BMMSCs was evident with <it>P. aeruginosa </it>ATCC9027 and <it>S. epidermidis </it>ATCC12228 whereas <it>S. aureus </it>ATCC6538 formed enormous aggregates (data not shown). Moreover, after 6 hours of infection, <it>P. aeruginosa </it>ATCC9027-induced morphological changes in BMMSCs and <it>S. aureus </it>ATCC6538 formed aggregates as did the two other <it>S. aureus </it>strains whereas <it>S. epidermidis </it>ATCC12228 did not induce any visible changes in BMMSCs (data not shown). These results indicate that the results from the mitochondrial assay were well in line with bacterial proliferation within the first 4 hours of infection. All together, the results with the reference strains support the results obtained with other bacterial strains.</p>
+         </sec>
+      </sec>
+      <sec>
+         <st>
+            <p>Discussion</p>
+         </st>
+         <p>The risk of microbial contamination is well recognized in the propagation of cells for therapeutic use, but little has been published to demonstrate and characterize possible effects of contamination and infection on stem cell properties and hence on the viability and ultimately on the safety monitoring of cell therapy products <abbrgrp><abbr bid="B10">10</abbr><abbr bid="B12">12</abbr><abbr bid="B14">14</abbr><abbr bid="B15">15</abbr><abbr bid="B16">16</abbr></abbrgrp>. Accordingly, in the present study, we chose to focus on the quality control point of view of microbial risks during the <it>in vitro </it>manufacture of BMMSC-based cellular products. The present study shows that infection of BMMSCs with even low numbers of bacteria inflicts serious damage on BMMSC cultures. <it>P. aeruginosa </it>PA01, <it>P. aeruginosa </it>ATCC9027, and all <it>S</it>. <it>epidermidis </it>strains caused total dissipation of the BMMSC cultures within 24 hours of infection. <it>S. aureus </it>KK1089, <it>S. aureus </it>ATCC 6538, and <it>S. aureus </it>Cowan I also caused a decrease in the viability of BMMSCs but behaved somewhat differently by forming aggregates on the top of BMMSC monolayers. The exact content of such aggregates remains unknown at this time but is likely to be due to the coagulase protein of <it>S. aureus </it>which reacts with prothrombin in blood and enables conversion of fibrinogen to fibrin, leading to blood clotting <abbrgrp><abbr bid="B38">38</abbr></abbrgrp>. Remnants of coagulation cascade proteins in FBS may react with <it>S. aureus </it>coagulase and cause aggregation of bacteria. As opposed to <it>S. aureus</it>, <it>S. epidermidis </it>strains are coagulase-negative, and this probably explains the absence of aggregates in samples infected with <it>S. epidermidis</it>.</p>
+         <p>Even though <it>S. epidermidis </it>generally may be regarded as less virulent than <it>S. aureus </it>and <it>P. aeruginosa </it><abbrgrp><abbr bid="B20">20</abbr></abbrgrp>, all three <it>S. epidermidis </it>strains in our study showed definite deleterious effects on BMMSCs, as they also decreased the &#916;&#936;<sub>m </sub>and caused dissipation of BMMSCs. The results thus suggest that an opportunistic pathogen, such as <it>S. epidermidis</it>, is equally hazardous to stem cells as the more virulent pathogens. Overall, during prolonged incubation, all pathogens in the present study promoted somewhat similar levels of cell destruction regardless of the amount of the initial inoculum.</p>
+         <p>Quantitative counting of bacteria showed that <it>P. aeruginosa </it>strains proliferated actively from the beginning but that other strains showed lower growth. In particular, <it>S. aureus </it>Cowan I showed almost negligent bacterial growth within the first 4 hours of infection and seemed to need more time to adapt to the BMMSC culture medium. Subsequently, <it>S. aureus </it>Cowan I also began to cause a significant decrease in stem cell viability. The damage to BMMSCs was evident after 6 hours of infection as demonstrated by traditional live/dead assay, Trypan blue staining, and monitoring of cellular morphology. As expected, <it>P. aeruginosa </it>PA01 caused a clear decrease in viability of BMMSCs after 6 hours of infection and this is well in line with the rapid bacterial growth within the first 4 hours of infection. Also, other strains caused an increase in the number of Trypan blue-stained nuclei of BMMSCs within the first 6 hours of infection, even though the cellular damage was not as apparent as with <it>P. aeruginosa </it>strains. Accordingly, it seems that the signs of pathogen-induced cellular damage can be seen after 6 hours of infection with traditional viability methods. The result clearly demonstrates the risk associated with microbial contamination and infection. Therefore, methods for validation and quality control of cell and tissue products call for systematic monitoring of microbial contamination but also for reliable methods for monitoring the viability of the cell product and the possible deleterious effects of infection of stem cells during manufacturing.</p>
+         <p>Interestingly, the BMMSC line 407 appeared to show antimicrobial activity toward all three <it>S. aureus </it>strains studied. Proliferation of <it>S. aureus </it>strains was lower when grown on top of BMMSCs than in the medium without the cells. Antimicrobial activity of BMMSCs has recently been reported in two studies <abbrgrp><abbr bid="B36">36</abbr><abbr bid="B37">37</abbr></abbrgrp>. Krasnodembskaya and colleagues <abbrgrp><abbr bid="B36">36</abbr></abbrgrp> (2010) showed that hMSCs possess antimicrobial activity toward <it>Escherichia coli </it>K1, <it>P. aeruginosa </it>strain PA103, and <it>S. aureus </it>strain Newman. Moreover, they showed that intratracheal administration of hMSCs decreased bacterial growth in an <it>in vivo </it>mouse model of <it>E. coli </it>pneumonia. This was shown to be mediated by the secretion of the antimicrobial peptide LL-37 <abbrgrp><abbr bid="B36">36</abbr></abbrgrp>. Meisel and colleagues <abbrgrp><abbr bid="B37">37</abbr></abbrgrp> (2011) postulated that hMSCs show antimicrobial activity toward <it>S. aureus </it>and <it>P. aeruginosa </it>and that the activity is enhanced when hMSCs are pretreated with interferon gamma (IFN-&#947;). It was also shown that the antimicrobial function is mediated by indoleamine 2,3-dioxygenase (IDO) activity, which also plays a major role in immunosuppression activity of hMSCs, and is induced by IFN-&#947; <abbrgrp><abbr bid="B39">39</abbr></abbrgrp>. In our assay conditions, which did not include IFN-&#947;, no significant effects toward <it>P. aeruginosa </it>were noted. However, our results with <it>S. aureus </it>support earlier findings on the antimicrobial activity of MSCs.</p>
+         <p>Mitochondria are well-known targets of many bacterial toxins and compounds <abbrgrp><abbr bid="B40">40</abbr><abbr bid="B41">41</abbr></abbrgrp>. It has been demonstrated that <it>S. aureus </it>directly targets host mitochondria and induces apoptosis through &#945;-toxins and Panton-Valentine leukocidin <abbrgrp><abbr bid="B42">42</abbr><abbr bid="B43">43</abbr></abbrgrp>. In addition, <it>P. aeruginosa </it>and <it>S. epidermidis </it>have been shown to induce mitochondria-mediated apoptosis in infected host cells <abbrgrp><abbr bid="B44">44</abbr><abbr bid="B45">45</abbr></abbrgrp>. A relevant question, therefore, is whether changes in &#916;&#936;<sub>m </sub>are already present before plasma membrane breakout and morphological changes are detected. In the present study, we tested the suitability of mitochondrial analyses as a quality control tool for BMMSCs to detect microbial infection-induced cellular stress. To perform this experiment in accordance with current microbial quality control methods, we also used reference strains which are used in routine quality control studies by cell and tissue banks. All pathogens except <it>S. aureus </it>Cowan I and <it>S. epidermidis </it>ATCC12228 caused systematic depolarization of &#916;&#936;<sub>m </sub>after only 4 hours of infection. However, at that time point, only the highest loads of <it>P. aeruginosa </it>PA01 had induced visible changes in cell membrane integrity, whereas no major changes were evident with the other bacteria. The inability of the mitochondrial assay to detect the impact of <it>S. aureus </it>Cowan I and <it>S. epidermidis </it>ATCC12228 on the &#916;&#936;<sub>m </sub>of BMMSCs may be explained by their negligent growth or even a decline in bacterial number within the first 4 hours of infection. Therefore, the results from bacterial growth analysis are well in line with the results from the mitochondrial assay, confirming the sensitivity of the method. The reason for the negligent or decreased bacterial growth remains unknown, but it may be that these strains need more time for adapting to BMMSC culture conditions since they both did show exponential growth during a longer term of infection. Moreover, antimicrobial effects hindering the proliferation of <it>S. aureus </it>Cowan I in co-culture with BMMSCs may partly explain the slow growth of <it>S. aureus </it>Cowan I. In some cases, even the lowest numbers of bacteria caused a significant decrease in &#916;&#936;<sub>m </sub>when compared with uninfected control stem cells. Thus, measurement of &#916;&#936;<sub>m </sub>offers a sensitive method for detection of microbial damage to cell products. Interestingly, the three BMMSC lines showed different levels of depolarization of &#916;&#936;<sub>m </sub>after bacterial infection. The reason for such a difference remains speculative at this point and warrants further studies. However, we previously demonstrated that the level of &#916;&#936;<sub>m </sub>corresponds to the function and differentiation potency of BMMSCs <abbrgrp><abbr bid="B33">33</abbr></abbrgrp>. Therefore, the development of rapid diagnostic tests based on mitochondrial function is urgently called for to ensure the viability and potency of stem cell products.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Conclusions</p>
+         </st>
+         <p>To conclude, co-culture of BMMSCs in the presence of <it>S. aureus</it>, <it>S. epidermidis</it>, and <it>P. aeruginosa </it>damaged the viability of BMMSCs as measured by &#916;&#936;<sub>m</sub>. Such deleterious effects raise significant concerns for the safety and efficacy of stem cell products for use in clinical therapy. Additionally, a relatively short exposure to antibiotic-free medium can reveal a concealed and suppressed infection. Even low levels of bacterial contamination can be a major hazard for patients as such, and the deleterious effects of even short exposure to bacterial pathogens may seriously alter the efficacy of cellular therapy. On the other hand, by monitoring of the energy state of stem cell mitochondria, it is possible to detect changes in infected host cells even before any other changes are evident by Trypan blue staining or microscopy for cell morphology. Accordingly, mitochondrial analyses show strong potential for quality control and monitoring of safety and efficacy of cell-based products. In addition, in compliance with regulatory demands for microbial safety, techniques to detect low levels of bacterial contamination in a matter of hours are urgently called for and should be convenient to incorporate into testing for mitochondrial function.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Abbreviations</p>
+         </st>
+         <p>&#945;MEM: alpha minimum essential medium; &#916;&#936;<sub>m</sub>: mitochondrial inner membrane potential; BMMSC: human bone marrow-derived mesenchymal stem cell; CCCP: carbonyl cyanide m-chlorophenylhydrazone; CFU: colony-forming unit; FBS: fetal bovine serum; hMSC: human mesenchymal stem cell; IDO: indoleamine 2,3-dioxygenase; IFN-&#947;: interferon gamma; JC-10: enhanced 5,5',6,6'-tetrachloro-1,1',3,3'-tetraethylbenzimidazolcarbocyanine iodide; PBS: phosphate-buffered saline; SD: standard deviation; TSA: trypticase soy agar.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Competing interests</p>
+         </st>
+         <p>The authors declare that they have no competing interests.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Authors' contributions</p>
+         </st>
+         <p>MP carried out the cell and microbial culture, microbial infection of BMMSCs, and analysis of cellular viability; contributed to the study design; and wrote the manuscript. KL contributed to the study design and coordination, helped in experiments, participated in analysis of results, and helped to draft the manuscript. SL contributed to the study design, helped to draft the manuscript, established the BMMSC culture protocol, and helped in experiments. H-VL provided BMMSC material, contributed to the study design, and helped to draft the manuscript. MN contributed to the study design, helped to draft the manuscript according to microbial part, and contributed to the data analysis. ML isolated microbial material and contributed to the study design. JM contributed to the study design and coordination and helped to draft the manuscript. PL contributed to the study design and coordination, helped to draft the manuscript, and contributed to the data analysis. KN participated in study design and coordination and helped to draft the manuscript. All authors have read and approved the final manuscript.</p>
+      </sec>
+   </bdy>
+   <bm>
+      <ack>
+         <sec>
+            <st>
+               <p>Acknowledgements</p>
+            </st>
+            <p>The authors thank laboratory technologists Minna Savilampi and Henna Ek for their skillful contribution to this work. This study is funded by the Academy of Finland, grant 122561, the Finnish Medical Association, and Maud Kuistila Memorial Foundation</p>
+         </sec>
+      </ack>
+      <refgrp>
+         <bibl id="B1">
+            <title>
+               <p>Repair of large full-thickness articular cartilage defects by transplantation of autologous uncultured bone-marrow-derived mononuclear cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Chang</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Ishii</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Yanai</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Mishima</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Akaogi</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Ogawa</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Ochiai</snm>
+                  <fnm>N</fnm>
+               </au>
+            </aug>
+            <source>J Orthop Res</source>
+            <pubdate>2008</pubdate>
+            <volume>26</volume>
+            <fpage>18</fpage>
+            <lpage>26</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1002/jor.20470</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17724730</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B2">
+            <title>
+               <p>Bone grafts cultured with bone marrow stromal cells for the repair of critical bone defects: an experimental study in mice</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Dumas</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Moreau</snm>
+                  <fnm>MF</fnm>
+               </au>
+               <au>
+                  <snm>Gherardi</snm>
+                  <fnm>RK</fnm>
+               </au>
+               <au>
+                  <snm>Basle</snm>
+                  <fnm>MF</fnm>
+               </au>
+               <au>
+                  <snm>Chappard</snm>
+                  <fnm>D</fnm>
+               </au>
+            </aug>
+            <source>J Biomed Mater Res A</source>
+            <pubdate>2009</pubdate>
+            <volume>90</volume>
+            <fpage>1218</fpage>
+            <lpage>1229</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid" link="fulltext">18683231</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B3">
+            <title>
+               <p>Mesenchymal stem cells for treatment of steroid-resistant, severe, acute graft-versus-host disease: a phase II study</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Le Blanc</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Frassoni</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Ball</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Locatelli</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Roelofs</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Lewis</snm>
+                  <fnm>I</fnm>
+               </au>
+               <au>
+                  <snm>Lanino</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Sundberg</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Bernardo</snm>
+                  <fnm>ME</fnm>
+               </au>
+               <au>
+                  <snm>Remberger</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Dini</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Egeler</snm>
+                  <fnm>RM</fnm>
+               </au>
+               <au>
+                  <snm>Baciqalupo</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Fibbe</snm>
+                  <fnm>W</fnm>
+               </au>
+               <au>
+                  <snm>Ringden</snm>
+                  <fnm>O</fnm>
+               </au>
+               <au>
+                  <cnm>Developmental Committee of the European Group for Blood and Marrow Transplant</cnm>
+               </au>
+            </aug>
+            <source>Lancet</source>
+            <pubdate>2008</pubdate>
+            <volume>371</volume>
+            <fpage>1579</fpage>
+            <lpage>1586</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/S0140-6736(08)60690-X</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18468541</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B4">
+            <title>
+               <p>Stem cell-based therapies in Parkinson's disease: future hope or current treatment option?</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Loewenbruck</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Storch</snm>
+                  <fnm>A</fnm>
+               </au>
+            </aug>
+            <source>J Neurol</source>
+            <pubdate>2011</pubdate>
+            <volume>258</volume>
+            <fpage>S346</fpage>
+            <lpage>353</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1007/s00415-011-5974-4</pubid>
+                  <pubid idtype="pmpid" link="fulltext">21437664</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B5">
+            <title>
+               <p>Intracoronary autologous bone-marrow cell transfer after myocardial infarction: the BOOST randomised controlled clinical trial</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Wollert</snm>
+                  <fnm>KC</fnm>
+               </au>
+               <au>
+                  <snm>Meyer</snm>
+                  <fnm>GP</fnm>
+               </au>
+               <au>
+                  <snm>Lotz</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Ringes-Lichtenberg</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Lippolt</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Breidenbach</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Fichtner</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Korte</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Hornig</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Messinger</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Arseniev</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Hertenstein</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Ganser</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Drexler</snm>
+                  <fnm>H</fnm>
+               </au>
+            </aug>
+            <source>Lancet</source>
+            <pubdate>2004</pubdate>
+            <volume>364</volume>
+            <fpage>141</fpage>
+            <lpage>148</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/S0140-6736(04)16626-9</pubid>
+                  <pubid idtype="pmpid" link="fulltext">15246726</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B6">
+            <title>
+               <p>Concise review: mind the gap: challenges in characterizing and quantifying cell- and tissue-based therapies for clinical translation</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Rayment</snm>
+                  <fnm>EA</fnm>
+               </au>
+               <au>
+                  <snm>Williams</snm>
+                  <fnm>DJ</fnm>
+               </au>
+            </aug>
+            <source>Stem Cells</source>
+            <pubdate>2010</pubdate>
+            <volume>28</volume>
+            <fpage>996</fpage>
+            <lpage>1004</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="pmcid">2962908</pubid>
+                  <pubid idtype="pmpid" link="fulltext">20333747</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B7">
+            <title>
+               <p>Infrastructure development for human cell therapy translation</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Dietz</snm>
+                  <fnm>AB</fnm>
+               </au>
+               <au>
+                  <snm>Padley</snm>
+                  <fnm>DJ</fnm>
+               </au>
+               <au>
+                  <snm>Gastineau</snm>
+                  <fnm>DA</fnm>
+               </au>
+            </aug>
+            <source>Clin Pharmacol Ther</source>
+            <pubdate>2007</pubdate>
+            <volume>82</volume>
+            <fpage>320</fpage>
+            <lpage>324</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/sj.clpt.6100288</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17637785</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B8">
+            <title>
+               <p>Risk reduction in biotherapeutic products</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Ill</snm>
+                  <fnm>CR</fnm>
+               </au>
+               <au>
+                  <snm>Dehghani</snm>
+                  <fnm>H</fnm>
+               </au>
+            </aug>
+            <source>Curr Opin Drug Discov Devel</source>
+            <pubdate>2009</pubdate>
+            <volume>12</volume>
+            <fpage>296</fpage>
+            <lpage>304</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid">19333875</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B9">
+            <title>
+               <p>Rapid molecular assays for microbial contaminant monitoring in the bioprocess industry</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Sampath</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Blyn</snm>
+                  <fnm>LB</fnm>
+               </au>
+               <au>
+                  <snm>Ecker</snm>
+                  <fnm>DJ</fnm>
+               </au>
+            </aug>
+            <source>PDA J Pharm Sci Technol</source>
+            <pubdate>2010</pubdate>
+            <volume>64</volume>
+            <fpage>458</fpage>
+            <lpage>464</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid" link="fulltext">21502053</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B10">
+            <title>
+               <p>Microbial contamination of hematopoietic stem cell products: incidence and clinical sequelae</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Klein</snm>
+                  <fnm>MA</fnm>
+               </au>
+               <au>
+                  <snm>Kadidlo</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>McCullough</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>McKenna</snm>
+                  <fnm>DH</fnm>
+               </au>
+               <au>
+                  <snm>Burns</snm>
+                  <fnm>LJ</fnm>
+               </au>
+            </aug>
+            <source>Biol Blood Marrow Transplant</source>
+            <pubdate>2006</pubdate>
+            <volume>12</volume>
+            <fpage>1142</fpage>
+            <lpage>1149</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.bbmt.2006.06.011</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17085307</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B11">
+            <title>
+               <p>Bacterial contamination of blood components: risks, strategies, and regulation: joint ASH and AABB</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Hillyer</snm>
+                  <fnm>CD</fnm>
+               </au>
+               <au>
+                  <snm>Josephson</snm>
+                  <fnm>CD</fnm>
+               </au>
+               <au>
+                  <snm>Blajchman</snm>
+                  <fnm>MA</fnm>
+               </au>
+               <au>
+                  <snm>Vostal</snm>
+                  <fnm>JG</fnm>
+               </au>
+               <au>
+                  <snm>Epstein</snm>
+                  <fnm>JS</fnm>
+               </au>
+               <au>
+                  <snm>Goodman</snm>
+                  <fnm>JL</fnm>
+               </au>
+            </aug>
+            <source>Hematology Am Soc Hematol Educ Program</source>
+            <pubdate>2003</pubdate>
+            <fpage>575</fpage>
+            <lpage>589</lpage>
+         </bibl>
+         <bibl id="B12">
+            <title>
+               <p>Microbial contamination of harvested bone marrow and peripheral blood</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Prince</snm>
+                  <fnm>HM</fnm>
+               </au>
+               <au>
+                  <snm>Page</snm>
+                  <fnm>SR</fnm>
+               </au>
+               <au>
+                  <snm>Keating</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Saragosa</snm>
+                  <fnm>RF</fnm>
+               </au>
+               <au>
+                  <snm>Vukovic</snm>
+                  <fnm>NM</fnm>
+               </au>
+               <au>
+                  <snm>Imrie</snm>
+                  <fnm>KR</fnm>
+               </au>
+               <au>
+                  <snm>Crump</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Stewart</snm>
+                  <fnm>AK</fnm>
+               </au>
+            </aug>
+            <source>Bone Marrow Transplant</source>
+            <pubdate>1995</pubdate>
+            <volume>15</volume>
+            <fpage>87</fpage>
+            <lpage>91</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid">7742761</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B13">
+            <title>
+               <p>Microbial contamination of hematopoietic progenitor cell grafts-incidence, clinical outcome, and cost-effectiveness: an analysis of 735 grafts</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Kamble</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Pant</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Selby</snm>
+                  <fnm>GB</fnm>
+               </au>
+               <au>
+                  <snm>Kharfan-Dabaja</snm>
+                  <fnm>MA</fnm>
+               </au>
+               <au>
+                  <snm>Sethi</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Kratochvil</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Kohrt</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Ozer</snm>
+                  <fnm>H</fnm>
+               </au>
+            </aug>
+            <source>Transfusion</source>
+            <pubdate>2005</pubdate>
+            <volume>45</volume>
+            <fpage>874</fpage>
+            <lpage>878</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1111/j.1537-2995.2005.04178.x</pubid>
+                  <pubid idtype="pmpid" link="fulltext">15934984</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B14">
+            <title>
+               <p>Microbial contamination of BM products before and after processing: a report of incidence and immediate adverse events in 257 grafts</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Vanneaux</snm>
+                  <fnm>V</fnm>
+               </au>
+               <au>
+                  <snm>Fois</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Robin</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Rea</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>de Latour</snm>
+                  <fnm>RP</fnm>
+               </au>
+               <au>
+                  <snm>Biscay</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Chantre</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Robert</snm>
+                  <fnm>I</fnm>
+               </au>
+               <au>
+                  <snm>Wargnier</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Traineau</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Benbunan</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Marolleau</snm>
+                  <fnm>JP</fnm>
+               </au>
+               <au>
+                  <snm>Socie</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Larghero</snm>
+                  <fnm>J</fnm>
+               </au>
+            </aug>
+            <source>Cytotherapy</source>
+            <pubdate>2007</pubdate>
+            <volume>9</volume>
+            <fpage>508</fpage>
+            <lpage>513</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1080/14653240701420427</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17786612</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B15">
+            <title>
+               <p>Bacterial contamination of autologous bone marrow during processing</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Smith</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Bradley</snm>
+                  <fnm>SJ</fnm>
+               </au>
+               <au>
+                  <snm>Scott</snm>
+                  <fnm>GM</fnm>
+               </au>
+            </aug>
+            <source>J Hosp Infect</source>
+            <pubdate>1996</pubdate>
+            <volume>33</volume>
+            <fpage>71</fpage>
+            <lpage>76</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/S0195-6701(96)90031-6</pubid>
+                  <pubid idtype="pmpid">8738204</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B16">
+            <title>
+               <p>Distribution, origin and contamination risk of coagulase-negative staphylococci from platelet concentrates</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Rood</snm>
+                  <fnm>IG</fnm>
+               </au>
+               <au>
+                  <snm>de Korte</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Ramirez-Arcos</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Savelkoul</snm>
+                  <fnm>PH</fnm>
+               </au>
+               <au>
+                  <snm>Petterson</snm>
+                  <fnm>A</fnm>
+               </au>
+            </aug>
+            <source>J Med Microbiol</source>
+            <pubdate>2011</pubdate>
+            <volume>60</volume>
+            <fpage>592</fpage>
+            <lpage>599</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1099/jmm.0.023176-0</pubid>
+                  <pubid idtype="pmpid">21212143</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B17">
+            <title>
+               <p>Good manufacturing practice-compliant expansion of marrow-derived stem and progenitor cells for cell therapy</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Gastens</snm>
+                  <fnm>MH</fnm>
+               </au>
+               <au>
+                  <snm>Goltry</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Prohaska</snm>
+                  <fnm>W</fnm>
+               </au>
+               <au>
+                  <snm>Tschope</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Stratmann</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Lammers</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Kirana</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>G&#246;tting</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Kleesiek</snm>
+                  <fnm>K</fnm>
+               </au>
+            </aug>
+            <source>Cell Transplant</source>
+            <pubdate>2007</pubdate>
+            <volume>16</volume>
+            <fpage>685</fpage>
+            <lpage>696</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid" link="fulltext">18019358</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B18">
+            <title>
+               <p>Sources and sequelae of bacterial contamination of hematopoietic stem cell components: implications for the safety of hematotherapy and graft engineering</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Webb</snm>
+                  <fnm>IJ</fnm>
+               </au>
+               <au>
+                  <snm>Coral</snm>
+                  <fnm>FS</fnm>
+               </au>
+               <au>
+                  <snm>Andersen</snm>
+                  <fnm>JW</fnm>
+               </au>
+               <au>
+                  <snm>Elias</snm>
+                  <fnm>AD</fnm>
+               </au>
+               <au>
+                  <snm>Finberg</snm>
+                  <fnm>RW</fnm>
+               </au>
+               <au>
+                  <snm>Nadler</snm>
+                  <fnm>LM</fnm>
+               </au>
+               <au>
+                  <snm>Ritz</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Anderson</snm>
+                  <fnm>KC</fnm>
+               </au>
+            </aug>
+            <source>Transfusion</source>
+            <pubdate>1996</pubdate>
+            <volume>36</volume>
+            <fpage>782</fpage>
+            <lpage>788</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid" link="fulltext">8823450</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B19">
+            <title>
+               <p>Nursing and physician attire as possible source of nosocomial infections</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Wiener-Well</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Galuty</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Rudensky</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Schlesinger</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Attias</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Yinnon</snm>
+                  <fnm>AM</fnm>
+               </au>
+            </aug>
+            <source>Am J Infect Control</source>
+            <pubdate>2011</pubdate>
+            <volume>39</volume>
+            <fpage>555</fpage>
+            <lpage>559</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.ajic.2010.12.016</pubid>
+                  <pubid idtype="pmpid" link="fulltext">21864762</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B20">
+            <title>
+               <p>In vitro interactions between bacteria, osteoblast-like cells and macrophages in pathogenesis of biomaterial-associated infections</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Subbiahdoss</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Fernandez</snm>
+                  <fnm>IC</fnm>
+               </au>
+               <au>
+                  <snm>Dominques</snm>
+                  <fnm>JF</fnm>
+               </au>
+               <au>
+                  <snm>Kuijer</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>van der Mei</snm>
+                  <fnm>HC</fnm>
+               </au>
+               <au>
+                  <snm>Busscher</snm>
+                  <fnm>HJ</fnm>
+               </au>
+            </aug>
+            <source>PLoSOne</source>
+            <pubdate>2011</pubdate>
+            <volume>6</volume>
+            <fpage>e24827</fpage>
+         </bibl>
+         <bibl id="B21">
+            <title>
+               <p>Directive 2001/83/EC of the European Parliament and of the Council</p>
+            </title>
+            <aug>
+               <au>
+                  <cnm>European Parliament and European Council</cnm>
+               </au>
+            </aug>
+            <publisher>Brussel: European Parliament and Council</publisher>
+            <pubdate>2001</pubdate>
+            <volume>OJ 44</volume>
+            <issue>L311</issue>
+            <fpage>67</fpage>
+            <lpage>128</lpage>
+         </bibl>
+         <bibl id="B22">
+            <title>
+               <p>Note for guidance on specifications: test procedures and acceptance criteria for biotechnological/biological products (CPMP/ICH/365/96)</p>
+            </title>
+            <aug>
+               <au>
+                  <cnm>International Conference on Harmonisation</cnm>
+               </au>
+            </aug>
+            <publisher>London: European Medicines Agency</publisher>
+            <pubdate>1999</pubdate>
+         </bibl>
+         <bibl id="B23">
+            <title>
+               <p>Quality of biotechnological products: viral safety evaluation of biotechnology products derived from cell lines of human or animal origin (CPMP/ICH/295/95)</p>
+            </title>
+            <aug>
+               <au>
+                  <cnm>International Conference on Harmonisation</cnm>
+               </au>
+            </aug>
+            <publisher>London: European Medicines Agency</publisher>
+            <pubdate>2006</pubdate>
+         </bibl>
+         <bibl id="B24">
+            <title>
+               <p>Guideline on human cell-based medicinal products (EMEA/CHMP/410869/2006)</p>
+            </title>
+            <aug>
+               <au>
+                  <cnm>Committee for Medicinal Product for Human Use</cnm>
+               </au>
+            </aug>
+            <publisher>London: European Medicines Agency</publisher>
+            <pubdate>2008</pubdate>
+         </bibl>
+         <bibl id="B25">
+            <title>
+               <p>Note for guidance on minimising the risk of transmitting animal spongiform encephalopathy agents via human and veterinary medicinal products (EMA/410/01 rev.3)</p>
+            </title>
+            <aug>
+               <au>
+                  <cnm>European Commission</cnm>
+               </au>
+            </aug>
+            <publisher>Brussel: European Comission</publisher>
+            <pubdate>2011</pubdate>
+            <volume>OJ 54</volume>
+            <issue>C73</issue>
+            <fpage>1</fpage>
+            <lpage>18</lpage>
+         </bibl>
+         <bibl id="B26">
+            <title>
+               <p>Molecular characterization of mitochondrial apoptosis-inducing factor</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Susin</snm>
+                  <fnm>SA</fnm>
+               </au>
+               <au>
+                  <snm>Lorenzo</snm>
+                  <fnm>HK</fnm>
+               </au>
+               <au>
+                  <snm>Zamzami</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Marzo</snm>
+                  <fnm>I</fnm>
+               </au>
+               <au>
+                  <snm>Snow</snm>
+                  <fnm>BE</fnm>
+               </au>
+               <au>
+                  <snm>Brothers</snm>
+                  <fnm>GM</fnm>
+               </au>
+               <au>
+                  <snm>Mangion</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Jacotot</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Constantini</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Loeffler</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Larochette</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Goodlett</snm>
+                  <fnm>DR</fnm>
+               </au>
+               <au>
+                  <snm>Aebersold</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Siderovski</snm>
+                  <fnm>DP</fnm>
+               </au>
+               <au>
+                  <snm>Penninger</snm>
+                  <fnm>JM</fnm>
+               </au>
+               <au>
+                  <snm>Kroemer</snm>
+                  <fnm>G</fnm>
+               </au>
+            </aug>
+            <source>Nature</source>
+            <pubdate>1999</pubdate>
+            <volume>397</volume>
+            <fpage>441</fpage>
+            <lpage>446</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/17135</pubid>
+                  <pubid idtype="pmpid" link="fulltext">9989411</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B27">
+            <title>
+               <p>Mitochondrial depolarization accompanies cytochrome c release during apoptosis in PC6 cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Heiskanen</snm>
+                  <fnm>KM</fnm>
+               </au>
+               <au>
+                  <snm>Bhat</snm>
+                  <fnm>MB</fnm>
+               </au>
+               <au>
+                  <snm>Wang</snm>
+                  <fnm>HW</fnm>
+               </au>
+               <au>
+                  <snm>Ma</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Nieminen</snm>
+                  <fnm>AL</fnm>
+               </au>
+            </aug>
+            <source>J Biol Chem</source>
+            <pubdate>1999</pubdate>
+            <volume>274</volume>
+            <fpage>5654</fpage>
+            <lpage>5658</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1074/jbc.274.9.5654</pubid>
+                  <pubid idtype="pmpid" link="fulltext">10026183</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B28">
+            <title>
+               <p>Mitochondrial control of cell death</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Kroemer</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Reed</snm>
+                  <fnm>JC</fnm>
+               </au>
+            </aug>
+            <source>Nat Med</source>
+            <pubdate>2000</pubdate>
+            <volume>6</volume>
+            <fpage>513</fpage>
+            <lpage>519</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/74994</pubid>
+                  <pubid idtype="pmpid" link="fulltext">10802706</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B29">
+            <title>
+               <p>Coordinated changes of mitochondrial biogenesis and antioxidant enzymes during osteogenic differentiation of human mesenchymal stem cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Chen</snm>
+                  <fnm>CT</fnm>
+               </au>
+               <au>
+                  <snm>Shih</snm>
+                  <fnm>YR</fnm>
+               </au>
+               <au>
+                  <snm>Kuo</snm>
+                  <fnm>TK</fnm>
+               </au>
+               <au>
+                  <snm>Lee</snm>
+                  <fnm>OK</fnm>
+               </au>
+               <au>
+                  <snm>Wei</snm>
+                  <fnm>YH</fnm>
+               </au>
+            </aug>
+            <source>Stem Cells</source>
+            <pubdate>2008</pubdate>
+            <volume>26</volume>
+            <fpage>960</fpage>
+            <lpage>968</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1634/stemcells.2007-0509</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18218821</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B30">
+            <title>
+               <p>Mitochondrial function and energy metabolism in umbilical cord blood- and bone marrow-derived mesenchymal stem cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Pietil&#228;</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Palom&#228;ki</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Lehtonen</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Ritamo</snm>
+                  <fnm>I</fnm>
+               </au>
+               <au>
+                  <snm>Valmu</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Nystedt</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Laitinen</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Leskel&#228;</snm>
+                  <fnm>HV</fnm>
+               </au>
+               <au>
+                  <snm>Sormunen</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Pes&#228;l&#228;</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Nordstr&#246;m</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Veps&#228;l&#228;inen</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Lehenkari</snm>
+                  <fnm>P</fnm>
+               </au>
+            </aug>
+            <source>Stem Cells Dev</source>
+            <pubdate>2012</pubdate>
+            <volume>21</volume>
+            <fpage>575</fpage>
+            <lpage>588</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1089/scd.2011.0023</pubid>
+                  <pubid idtype="pmpid" link="fulltext">21615273</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B31">
+            <title>
+               <p>Differentiation-related changes in mitochondrial properties as indicators of stem cell competence</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Lonergan</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Brenner</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Bavister</snm>
+                  <fnm>B</fnm>
+               </au>
+            </aug>
+            <source>J Cell Physiol</source>
+            <pubdate>2006</pubdate>
+            <volume>208</volume>
+            <fpage>149</fpage>
+            <lpage>153</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1002/jcp.20641</pubid>
+                  <pubid idtype="pmpid" link="fulltext">16575916</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B32">
+            <title>
+               <p>Mitochondrial function controls proliferation and early differentiation potential of embryonic stem cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Mandal</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Lindgren</snm>
+                  <fnm>AG</fnm>
+               </au>
+               <au>
+                  <snm>Srivastava</snm>
+                  <fnm>AS</fnm>
+               </au>
+               <au>
+                  <snm>Clark</snm>
+                  <fnm>AT</fnm>
+               </au>
+               <au>
+                  <snm>Banerjee</snm>
+                  <fnm>U</fnm>
+               </au>
+            </aug>
+            <source>Stem Cells</source>
+            <pubdate>2011</pubdate>
+            <volume>29</volume>
+            <fpage>486</fpage>
+            <lpage>495</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1002/stem.590</pubid>
+                  <pubid idtype="pmpid" link="fulltext">21425411</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B33">
+            <title>
+               <p>Mitochondrial function determines the viability and osteogenic potency of human mesenchymal stem cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Pietil&#228;</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Lehtonen</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>N&#228;rhi</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Hassinen</snm>
+                  <fnm>IE</fnm>
+               </au>
+               <au>
+                  <snm>Leskel&#228;</snm>
+                  <fnm>HV</fnm>
+               </au>
+               <au>
+                  <snm>Aranko</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Nordstr&#246;m</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Veps&#228;l&#228;inen</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Lehenkari</snm>
+                  <fnm>P</fnm>
+               </au>
+            </aug>
+            <source>Tissue Eng Part C Methods</source>
+            <pubdate>2010</pubdate>
+            <volume>16</volume>
+            <fpage>435</fpage>
+            <lpage>445</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1089/ten.tec.2009.0247</pubid>
+                  <pubid idtype="pmpid" link="fulltext">19839730</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B34">
+            <title>
+               <p>Microbial contamination in the operating theatre: a study in a hospital in Baghdad</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Ensayef</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Al-Shalchi</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Sabbar</snm>
+                  <fnm>M</fnm>
+               </au>
+            </aug>
+            <source>East Mediterr Health J</source>
+            <pubdate>2009</pubdate>
+            <volume>15</volume>
+            <fpage>219</fpage>
+            <lpage>223</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid">19469446</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B35">
+            <title>
+               <p>Minimal criteria for defining multipotent mesenchymal stromal cells. The International Society for Cellular Therapy position statement</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Dominici</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Le Blanc</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Mueller</snm>
+                  <fnm>I</fnm>
+               </au>
+               <au>
+                  <snm>Slaper-Cortenbach</snm>
+                  <fnm>I</fnm>
+               </au>
+               <au>
+                  <snm>Marini</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Krause</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Deans</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Keating</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Prockop</snm>
+                  <fnm>DJ</fnm>
+               </au>
+               <au>
+                  <snm>Horwitz</snm>
+                  <fnm>E</fnm>
+               </au>
+            </aug>
+            <source>Cytothreapy</source>
+            <pubdate>2006</pubdate>
+            <volume>8</volume>
+            <fpage>315</fpage>
+            <lpage>317</lpage>
+            <xrefbib>
+               <pubid idtype="doi">10.1080/14653240600855905</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B36">
+            <title>
+               <p>Antibacterial effect of human mesenchymal stem cells is mediated in part from secretion of the antimicrobial peptide LL-37</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Krasnodembskaya</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Song</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Fang</snm>
+                  <fnm>X</fnm>
+               </au>
+               <au>
+                  <snm>Gupta</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Serikov</snm>
+                  <fnm>V</fnm>
+               </au>
+               <au>
+                  <snm>Lee</snm>
+                  <fnm>JW</fnm>
+               </au>
+               <au>
+                  <snm>Matthay</snm>
+                  <fnm>MA</fnm>
+               </au>
+            </aug>
+            <source>Stem Cells</source>
+            <pubdate>2010</pubdate>
+            <volume>28</volume>
+            <fpage>2229</fpage>
+            <lpage>2238</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1002/stem.544</pubid>
+                  <pubid idtype="pmcid">3293245</pubid>
+                  <pubid idtype="pmpid" link="fulltext">20945332</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B37">
+            <title>
+               <p>Human but not murine multipotential mesenchymal stromal cells exhibit broad-spectrum antimicrobial effector function mediated by indoleamine 2,3-isooxygenase</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Meisel</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Brockers</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Heseler</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Degistirici</snm>
+                  <fnm>&#214;</fnm>
+               </au>
+               <au>
+                  <snm>Bulle</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Woite</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Stuhlsatz</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Schwippert</snm>
+                  <fnm>W</fnm>
+               </au>
+               <au>
+                  <snm>J&#228;ger</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Sorg</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Henschler</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Seissler</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Dilloo</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Daubener</snm>
+                  <fnm>W</fnm>
+               </au>
+            </aug>
+            <source>Leukemia</source>
+            <pubdate>2011</pubdate>
+            <volume>25</volume>
+            <fpage>648</fpage>
+            <lpage>654</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/leu.2010.310</pubid>
+                  <pubid idtype="pmpid" link="fulltext">21242993</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B38">
+            <title>
+               <p>Fibrinogen-binding proteins of Gram-positive bacteria</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Rivera</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Vannakambadi</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>H&#246;&#246;k</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Speziale</snm>
+                  <fnm>P</fnm>
+               </au>
+            </aug>
+            <source>Thromb Haemost</source>
+            <pubdate>2007</pubdate>
+            <volume>98</volume>
+            <fpage>503</fpage>
+            <lpage>511</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid" link="fulltext">17849038</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B39">
+            <title>
+               <p>Human bone marrow stromal cells inhibit allogenic T-cell responses by indoleamine 2,3-oxygenase-mediated tryptophan degradation</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Meisel</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Zibert</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Laryea</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Gobel</snm>
+                  <fnm>U</fnm>
+               </au>
+               <au>
+                  <snm>Daubener</snm>
+                  <fnm>W</fnm>
+               </au>
+               <au>
+                  <snm>Dilloo</snm>
+                  <fnm>D</fnm>
+               </au>
+            </aug>
+            <source>Blood</source>
+            <pubdate>2004</pubdate>
+            <volume>103</volume>
+            <fpage>4619</fpage>
+            <lpage>4621</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1182/blood-2003-11-3909</pubid>
+                  <pubid idtype="pmpid" link="fulltext">15001472</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B40">
+            <title>
+               <p>The role of mitochondria in cellular defense against microbial infection</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Arnoult</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Carneiro</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Tattoli</snm>
+                  <fnm>I</fnm>
+               </au>
+               <au>
+                  <snm>Girardin</snm>
+                  <fnm>SE</fnm>
+               </au>
+            </aug>
+            <source>Semin Immunol</source>
+            <pubdate>2009</pubdate>
+            <volume>21</volume>
+            <fpage>223</fpage>
+            <lpage>232</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.smim.2009.05.009</pubid>
+                  <pubid idtype="pmpid" link="fulltext">19535268</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B41">
+            <title>
+               <p>Import of bacterial pathogenicity factors into mitochondria1</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Kozjak-Pavlovic</snm>
+                  <fnm>V</fnm>
+               </au>
+               <au>
+                  <snm>Ross</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Rudel</snm>
+                  <fnm>T</fnm>
+               </au>
+            </aug>
+            <source>Curr Opin Microbial</source>
+            <pubdate>2008</pubdate>
+            <volume>11</volume>
+            <fpage>9</fpage>
+            <lpage>14</lpage>
+            <xrefbib>
+               <pubid idtype="doi">10.1016/j.mib.2007.12.004</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B42">
+            <title>
+               <p>alpha-Toxin is a mediator of <it>Staphylococcus aureus</it>-induced cell death and activates caspases via the intrinsic death pathway independently of death receptor signaling</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Bantel</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Sinha</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Domschke</snm>
+                  <fnm>W</fnm>
+               </au>
+               <au>
+                  <snm>Peters</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Schulze-Osthoff</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>J&#228;nicke</snm>
+                  <fnm>RU</fnm>
+               </au>
+            </aug>
+            <source>J Cell Biol</source>
+            <pubdate>2001</pubdate>
+            <volume>155</volume>
+            <fpage>637</fpage>
+            <lpage>648</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1083/jcb.200105081</pubid>
+                  <pubid idtype="pmcid">2198876</pubid>
+                  <pubid idtype="pmpid" link="fulltext">11696559</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B43">
+            <title>
+               <p><it>Staphylococcus aureus </it>Panton-Valentine leukocidin directly targets mitochondria and induces Bax-independent apoptosis of human neutrophils</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Genestier</snm>
+                  <fnm>AL</fnm>
+               </au>
+               <au>
+                  <snm>Michallet</snm>
+                  <fnm>MC</fnm>
+               </au>
+               <au>
+                  <snm>Prevost</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Bellot</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Chalabreysse</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Peyrol</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Thivolet</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Etienne</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Lina</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Vallette</snm>
+                  <fnm>FM</fnm>
+               </au>
+               <au>
+                  <snm>Vandenesch</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Genestier</snm>
+                  <fnm>L</fnm>
+               </au>
+            </aug>
+            <source>J Clin Invest</source>
+            <pubdate>2005</pubdate>
+            <volume>115</volume>
+            <fpage>3117</fpage>
+            <lpage>3127</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1172/JCI22684</pubid>
+                  <pubid idtype="pmcid">1265849</pubid>
+                  <pubid idtype="pmpid" link="fulltext">16276417</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B44">
+            <title>
+               <p><it>Pseudomonas aeruginosa</it>-induced apoptosis involves mitochondria and stress-activated protein kinases</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Jendrossek</snm>
+                  <fnm>V</fnm>
+               </au>
+               <au>
+                  <snm>Grassme</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Mueller</snm>
+                  <fnm>I</fnm>
+               </au>
+               <au>
+                  <snm>Lang</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Gulbins</snm>
+                  <fnm>E</fnm>
+               </au>
+            </aug>
+            <source>Infect Immun</source>
+            <pubdate>2001</pubdate>
+            <volume>69</volume>
+            <fpage>2675</fpage>
+            <lpage>2683</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1128/IAI.69.4.2675-2683.2001</pubid>
+                  <pubid idtype="pmcid">98206</pubid>
+                  <pubid idtype="pmpid" link="fulltext">11254634</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B45">
+            <title>
+               <p>Apoptotic mechanisms within the retina in <it>Staphylococcus epidermidis </it>experimental endophthalmitis</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Pharmakakis</snm>
+                  <fnm>NM</fnm>
+               </au>
+               <au>
+                  <snm>Petropoulos</snm>
+                  <fnm>IK</fnm>
+               </au>
+               <au>
+                  <snm>Georgakopoulos</snm>
+                  <fnm>CD</fnm>
+               </au>
+               <au>
+                  <snm>Vantzou</snm>
+                  <fnm>CV</fnm>
+               </au>
+               <au>
+                  <snm>Anastassiou</snm>
+                  <fnm>ED</fnm>
+               </au>
+               <au>
+                  <snm>Mavropoulos</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Zolota</snm>
+                  <fnm>V</fnm>
+               </au>
+            </aug>
+            <source>Graefes Arch Clin Exp Ophthalmol</source>
+            <pubdate>2009</pubdate>
+            <volume>247</volume>
+            <fpage>667</fpage>
+            <lpage>674</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1007/s00417-008-0996-z</pubid>
+                  <pubid idtype="pmpid" link="fulltext">19039600</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+      </refgrp>
+   </bm>
+</art>

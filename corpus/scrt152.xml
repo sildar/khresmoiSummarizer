@@ -1,0 +1,4118 @@
+<!DOCTYPE art SYSTEM "article.dtd">
+<art>
+   <ui>scrt152</ui>
+   <ji>1757-6512</ji>
+   <fm>
+      <dochead>Research</dochead>
+      <bibl>
+         <title>
+            <p>Myostatin genetic inactivation inhibits myogenesis by muscle-derived stem cells <it>in vitro </it>but not when implanted in the mdx mouse muscle</p>
+         </title>
+         <aug>
+            <au id="A1">
+               <snm>Tsao</snm>
+               <fnm>James</fnm>
+               <insr iid="I1"/>
+               <email>jamestsao@cdrewu.edu</email>
+            </au>
+            <au id="A2">
+               <snm>Vernet</snm>
+               <mi>A</mi>
+               <fnm>Dolores</fnm>
+               <insr iid="I1"/>
+               <insr iid="I3"/>
+               <email>dovernet@aol.com</email>
+            </au>
+            <au id="A3">
+               <snm>Gelfand</snm>
+               <fnm>Robert</fnm>
+               <insr iid="I1"/>
+               <insr iid="I3"/>
+               <email>coastalbob@sbcglobal.net</email>
+            </au>
+            <au id="A4">
+               <snm>Kovanecz</snm>
+               <fnm>Istvan</fnm>
+               <insr iid="I2"/>
+               <insr iid="I3"/>
+               <email>ikovanecz@ucla.edu</email>
+            </au>
+            <au id="A5">
+               <snm>Nolazco</snm>
+               <fnm>Gaby</fnm>
+               <insr iid="I1"/>
+               <email>gabynolazco@cdrewu.edu</email>
+            </au>
+            <au id="A6">
+               <snm>Bruhn</snm>
+               <mi>W</mi>
+               <fnm>Kevin</fnm>
+               <insr iid="I3"/>
+               <email>kbruhn@labiomed.org</email>
+            </au>
+            <au id="A7" ca="yes">
+               <snm>Gonzalez-Cadavid</snm>
+               <mi>F</mi>
+               <fnm>Nestor</fnm>
+               <insr iid="I1"/>
+               <insr iid="I2"/>
+               <insr iid="I3"/>
+               <email>ncadavid@ucla.edu</email>
+            </au>
+         </aug>
+         <insg>
+            <ins id="I1">
+               <p>Department of Internal Medicine, Charles Drew University (CDU), 1731 East 120th Street, Los Angeles, CA 90059, USA</p>
+            </ins>
+            <ins id="I2">
+               <p>Department of Urology, David Geffen School of Medicine at UCLA, 10833 Le Conte Avenue, Los Angeles, CA 90095, USA</p>
+            </ins>
+            <ins id="I3">
+               <p>Los Angeles Biomedical Research Institute (LABioMed) at Harbor-UCLA Medical Center, 1124 West Carson Street, Torrance, CA 90502, USA</p>
+            </ins>
+         </insg>
+         <source>Stem Cell Research &amp; Therapy</source>
+         <issn>1757-6512</issn>
+         <pubdate>2013</pubdate>
+         <volume>4</volume>
+         <issue>1</issue>
+         <fpage>4</fpage>
+         <url>http://stemcellres.com/content/4/1/4</url>
+         <xrefbib>
+            <pubidlist>
+               <pubid idtype="doi">10.1186/scrt152</pubid>
+               <pubid idtype="pmpid">23295128</pubid>
+            </pubidlist>
+         </xrefbib>
+      </bibl>
+      <history>
+         <rec>
+            <date>
+               <day>12</day>
+               <month>7</month>
+               <year>2012</year>
+            </date>
+         </rec>
+         <revrec>
+            <date>
+               <day>22</day>
+               <month>11</month>
+               <year>2012</year>
+            </date>
+         </revrec>
+         <acc>
+            <date>
+               <day>3</day>
+               <month>1</month>
+               <year>2013</year>
+            </date>
+         </acc>
+         <pub>
+            <date>
+               <day>7</day>
+               <month>1</month>
+               <year>2013</year>
+            </date>
+         </pub>
+      </history>
+      <cpyrt>
+         <year>2013</year>
+         <collab>Tsao et al.; licensee BioMed Central Ltd.</collab>
+         <note>This is an open access article distributed under the terms of the Creative Commons Attribution License (<url>http://creativecommons.org/licenses/by/2.0</url>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</note>
+      </cpyrt>
+      <abs>
+         <sec>
+            <st>
+               <p>Abstract</p>
+            </st>
+            <sec>
+               <st>
+                  <p>Introduction</p>
+               </st>
+               <p>Stimulating the commitment of implanted dystrophin+ muscle-derived stem cells (MDSCs) into myogenic, as opposed to lipofibrogenic lineages, is a promising therapeutic strategy for Duchenne muscular dystrophy (DMD).</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>Methods</p>
+               </st>
+               <p>To examine whether counteracting myostatin, a negative regulator of muscle mass and a pro-lipofibrotic factor, would help this process, we compared the <it>in vitro </it>myogenic and fibrogenic capacity of MDSCs from wild-type (WT) and myostatin knockout (Mst KO) mice under various modulators, the expression of key stem cell and myogenic genes, and the capacity of these MDSCs to repair the injured gastrocnemius in aged dystrophic mdx mice with exacerbated lipofibrosis.</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>Results</p>
+               </st>
+               <p>Surprisingly, the potent <it>in vitro </it>myotube formation by WT MDSCs was refractory to modulators of myostatin expression or activity, and the Mst KO MDSCs failed to form myotubes under various conditions, despite both MDSC expressing Oct 4 and various stem cell genes and differentiating into nonmyogenic lineages. The genetic inactivation of myostatin in MDSCs was associated with silencing of critical genes for early myogenesis (<it>Actc1, Acta1, and MyoD</it>). WT MDSCs implanted into the injured gastrocnemius of aged mdx mice significantly improved myofiber repair and reduced fat deposition and, to a lesser extent, fibrosis. In contrast to their <it>in vitro </it>behavior, Mst KO MDSCs <it>in vivo </it>also significantly improved myofiber repair, but had few effects on lipofibrotic degeneration.</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>Conclusions</p>
+               </st>
+               <p>Although WT MDSCs are very myogenic in culture and stimulate muscle repair after injury in the aged mdx mouse, myostatin genetic inactivation blocks myotube formation <it>in vitro</it>, but the myogenic capacity is recovered <it>in vivo </it>under the influence of the myostatin+ host-tissue environment, presumably by reactivation of key genes originally silenced in the Mst KO MDSCs.</p>
+            </sec>
+         </sec>
+      </abs>
+   </fm>
+   <bdy>
+      <sec>
+         <st>
+            <p>Introduction</p>
+         </st>
+         <p>The lipofibrotic degeneration of skeletal muscle (that is, excessive deposition of endomysial collagen, other extracellular matrix, and fat), characterizes muscle dystrophy, and in particular Duchenne muscular dystrophy (DMD) <abbrgrp><abbr bid="B1">1</abbr><abbr bid="B2">2</abbr></abbrgrp>, as seen also in its animal model, the mdx mouse <abbrgrp><abbr bid="B3">3</abbr><abbr bid="B4">4</abbr><abbr bid="B5">5</abbr></abbrgrp>. This process, associated with inflammation and oxidative stress <abbrgrp><abbr bid="B6">6</abbr></abbrgrp>, is partially responsible for the severe muscle contractile dysfunction in DMD and the mdx mouse, caused mainly by the bouts of myofiber necrosis due to dystrophin genetic inactivation. In the gastrocnemius, these processes are rather mild in young animals but become particularly severe after 8 to 10 months of age <abbrgrp><abbr bid="B4">4</abbr></abbrgrp>. Dystrophic muscle fibrosis not only is a major factor for DMD mortality, but also hampers the uptake and survival of cells implanted for potential therapeutic approaches <abbrgrp><abbr bid="B7">7</abbr></abbrgrp> and/or may drive their differentiation into myofibroblasts <abbrgrp><abbr bid="B4">4</abbr></abbrgrp>. Therefore, trying to ameliorate this process while stimulating myogenesis constitutes an ancillary strategy to favor repair and regeneration of dystrophic muscle tissue, even under ineffective or absent dystrophin replacement.</p>
+         <p>Although pharmacologic approaches to combat muscle lipofibrotic degeneration and the underlying chronic inflammation are being widely investigated, biologic factors such as myostatin, the main negative regulator of muscle mass <abbrgrp><abbr bid="B8">8</abbr></abbrgrp>, are also potential key targets. Myostatin, a member of the TGF-&#946; family, aggravates muscle dystrophy not only as an antimyogenic agent but also as a profibrotic and adipogenic factor <abbrgrp><abbr bid="B9">9</abbr><abbr bid="B10">10</abbr><abbr bid="B11">11</abbr><abbr bid="B12">12</abbr><abbr bid="B13">13</abbr><abbr bid="B14">14</abbr></abbrgrp>. Inhibition of myostatin by using its propeptide, shRNA, or specific antibodies, improves myogenesis and reduces fibrosis in the mdx mouse <abbrgrp><abbr bid="B15">15</abbr><abbr bid="B16">16</abbr><abbr bid="B17">17</abbr></abbrgrp> and also in the rat <abbrgrp><abbr bid="B18">18</abbr></abbrgrp>. The same effects are generated in response to genetic deletion of myostatin in the myostatin knockout (MST KO) mouse, in which myofiber hypertrophy is associated with less fat and reduced fibrosis <abbrgrp><abbr bid="B19">19</abbr><abbr bid="B20">20</abbr><abbr bid="B21">21</abbr><abbr bid="B22">22</abbr><abbr bid="B23">23</abbr></abbrgrp>.</p>
+         <p>It is assumed that in the dystrophic or injured muscle, tissue repair and the opposite process of lipofibrotic degeneration involve not only the differentiation of progenitor satellite cells and fibroblasts into myofibers and myofibroblasts, respectively, but also the modulation of lineage commitment by stem cells present in the adult muscle <abbrgrp><abbr bid="B24">24</abbr><abbr bid="B25">25</abbr><abbr bid="B26">26</abbr></abbrgrp>. These stem cells have been isolated from the rodent and human skeletal muscle and named, in general, muscle-derived stem cells (MDSCs), because they have the ability to differentiate <it>in vitro </it>into multiple cell lineages and to generate myofibers, osteoblasts, cardiomyocytes, or smooth muscle cells after implantation into the skeletal muscle, bone, heart, corpora cavernosa, or vagina, respectively <abbrgrp><abbr bid="B27">27</abbr><abbr bid="B28">28</abbr><abbr bid="B29">29</abbr><abbr bid="B30">30</abbr><abbr bid="B31">31</abbr></abbrgrp>. They are not satellite cells and may act also by secreting paracrine growth factors that are believed to modulate the differentiation of endogenous stem cells or the survival of differentiated cells in the tissue <abbrgrp><abbr bid="B32">32</abbr><abbr bid="B33">33</abbr><abbr bid="B34">34</abbr></abbrgrp>. However, the roles of MDSCs in the biology and pathophysiology of the skeletal muscle are largely unknown.</p>
+         <p>Myostatin modulates the differentiation of pluripotent cells <it>in vitro</it>, albeit in some cases, with conflicting outcomes <abbrgrp><abbr bid="B14">14</abbr><abbr bid="B35">35</abbr><abbr bid="B36">36</abbr><abbr bid="B37">37</abbr></abbrgrp>. It also inhibits the proliferation and early differentiation of both satellite cells from the skeletal muscle and cultured myoblasts, and blocking its expression improves the success of their <it>in vivo </it>transplantation <abbrgrp><abbr bid="B38">38</abbr><abbr bid="B39">39</abbr><abbr bid="B40">40</abbr></abbrgrp>. To our knowledge, no reports are available on myostatin effects on MDSC differentiation, either <it>in vitro </it>or in the context of repairing the exacerbated lipofibrosis in the injured muscle of aged mdx mice.</p>
+         <p>MDSCs obtained from wild-type (WT) mice have been tested experimentally, aiming to trigger repair of the mdx muscle with variable results <abbrgrp><abbr bid="B31">31</abbr><abbr bid="B32">32</abbr><abbr bid="B33">33</abbr><abbr bid="B34">34</abbr><abbr bid="B35">35</abbr><abbr bid="B36">36</abbr><abbr bid="B37">37</abbr><abbr bid="B38">38</abbr><abbr bid="B39">39</abbr><abbr bid="B40">40</abbr><abbr bid="B41">41</abbr><abbr bid="B42">42</abbr><abbr bid="B43">43</abbr><abbr bid="B44">44</abbr><abbr bid="B45">45</abbr></abbrgrp>, but they appear to be superior in this respect to myoblasts or satellite cells <abbrgrp><abbr bid="B46">46</abbr></abbrgrp>. However, some of the main limitations of myoblast therapy, when translated from the murine models into DMD and other human muscle dystrophies, may also affect the MDSCs and other types of stem cells <abbrgrp><abbr bid="B47">47</abbr></abbrgrp>. Therefore, it is a therapeutic goal to enhance the repair capacity of WT MDSCs by <it>in vitro </it>or <it>in vivo </it>modulation of their multilineage potential, and to stimulate or even awake endogenous stem cells of dystrophic muscle to regenerate myofibers while avoiding differentiation into cells responsible for lipofibrotic degeneration. Such an approach may be provided by the use of MDSCs where myostatin is genetically inactivated (that is, obtained from the Mst KO mouse), under the assumption that myogenesis would be stimulated and the undesired lineage commitment reduced, even when implanted into a host tissue environment with normal myostatin expression. No reports are available on the <it>in vitro </it>and <it>in vivo </it>differentiation of these MDSCs and how this affects, even paracrinely, muscle repair.</p>
+         <sec>
+            <st>
+               <p>Potential <it>in vitro </it>modulation of MDSCs, or the effects that myostatin or dystrophin gene inactivation exert on this balance</p>
+            </st>
+            <p>In the current study, we have investigated the <it>in vitro </it>myogenic versus fibrogenic and adipogenic differentiation of Mst KO MDSCs <it>vis-&#224;-vis </it>the WT counterpart, and the effects of manipulation of these processes by modulating myostatin expression or activity, and by other putative regulators of muscle mass and fibrosis. Their differential <it>in vitro </it>features in terms of the expression of some key stem cell and myogenic genes, and the repair ability of Mst KO MDSCs in the injured mdx muscle, also were studied. The ultimate goal is to gain a preliminary insight into how <it>in vitro </it>preconditioning of MDSCs by pharmacologic or gain-of-function approaches may modulate their capacity to repair dystrophic skeletal muscle, to design <it>in vivo </it>pharmacologic interventions that may mimic these processes, and even myostatin blockade in the host muscle to activate myogenesis in the endogenous dystrophin-negative MDSCs.</p>
+         </sec>
+      </sec>
+      <sec>
+         <st>
+            <p>Materials and methods</p>
+         </st>
+      </sec>
+      <sec>
+         <st>
+            <p>MDSC isolation</p>
+         </st>
+         <p>Mst knockout mice (C57BL/6J/Mst<sup>-/-</sup>), referred to here as Mst KO, are regularly maintained and bred in our vivarium on a BL/6 background <abbrgrp><abbr bid="B48">48</abbr></abbrgrp>, derived from the original strain on a Balb/c background. Aged-matched wild-type control mice (C57BL/6J), referred to here as WT, were from Jackson Laboratories (Bar Harbor, ME, USA). Hindlimb muscles from the WT and Mst KO male mice (12 to 16 weeks old) were subjected to the preplating procedure to isolate MDSCs <abbrgrp><abbr bid="B49">49</abbr><abbr bid="B50">50</abbr></abbrgrp>, by using a modification of a well-validated method that has led to extensively characterized stem cell populations <abbrgrp><abbr bid="B5">5</abbr><abbr bid="B27">27</abbr><abbr bid="B28">28</abbr><abbr bid="B29">29</abbr><abbr bid="B30">30</abbr><abbr bid="B46">46</abbr><abbr bid="B49">49</abbr></abbrgrp>. Tissues were dissociated by using sequentially collagenase XI, dispase II, and trypsin, and after filtration through 60-&#956;m nylon mesh and pelleting, the cells were suspended in plating medium (PM), containing Dulbecco Modified Eagle Medium (DMEM), with 10% fetal bovine serum (FBS), 10% horse serum, and 0.5% chick embryo extract (US Biological, Marblehead, MA, USA). Cells were plated onto collagen I-coated flasks for 1 hour (preplate 1 or pP1), and 2 hours (preplate 2 for pP2), followed by sequential daily transfers of nonadherent cells and replatings for 2 to 6 days, until preplate 6 (pP6). The latter is the cell population containing MDSCs. Sca1<sup>+ </sup>cells were selected with immunobeads (Milteni, Auburn, CA, USA) coated with antibody against Sca1 as small cells with a large nucleus that easily form clusters/spheroids <abbrgrp><abbr bid="B24">24</abbr><abbr bid="B25">25</abbr><abbr bid="B26">26</abbr><abbr bid="B27">27</abbr></abbrgrp>. Cells were subjected to flow cytometry, as described later, for the MDSC standard markers Sca1, CD34, and CD44, and for the key stem-cell gene, Oct 4 <abbrgrp><abbr bid="B43">43</abbr></abbrgrp>, maintained in growth medium (GM) GM-20 (DMEM, with 20% FBS) on regular culture flasks (no coating) and used in passages 14 to 28. WT MDSCs have been maintained in our laboratory for at least 40 generations with the same, or even increasing, growth rate.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Flow cytometry</p>
+         </st>
+         <p>MDSC and KO cells were grown in GM-20, washed twice with Hanks, disaggregated by repeated pipetting in Cell Stripper (Mediatech, Manassas, VA, USA), pelleted, and resuspended in staining buffer consisting of PBS, 3% FBS, 0.01% Na azide (SB). Cells were incubated in the presence of antibodies for 30 minutes on ice, washed twice with SB, and finally resuspended in SB for flow cytometry on an LSR II (BD Biosciences, San Jose, CA, USA). Data analysis and plotting were done by using FACSDiva Version 6.1.1 software. All fluorophore-conjugated antibodies and isotype controls were from eBioscience (San Diego, CA, USA), as follows: CD44-APC-eFluor 780; CD34-eFluor 660; Sca1-PE; Oct 4-PE (performed separately, after cell permeabilization with BD CytoFix/CytoPerm Kit), and the appropriate rat isotype controls IgG2b-APC-eFluor 780, IgG2a-eFluor 660, and IgG2a-PE. BD CompBeads (rat) were used for compensation.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Stem cell characterization, differentiation, and modulation</p>
+         </st>
+         <p>MDSC cultures were analyzed for the expression of stem cell markers, as described later, on collagen-coated six-well plates and eight removable-chamber plates. Multipotency was analyzed in 2-week incubations with GM-20 or GM-10 (GM with 10% FBS) supplemented or not with 10 n<it>M </it>DMSO or 5 ng/ml TGF-&#946;1, or, to induce myofiber formation, after reaching confluence, for 2 to 3 weeks with GM-HC (DMEM, 10% FBS, 5% horse serum, and 50 &#956;m hydrocortisone to promote proliferation, a key event in myogenic differentiation) <abbrgrp><abbr bid="B44">44</abbr><abbr bid="B45">45</abbr></abbrgrp>, or as described. In certain cases, cultures were treated with or without 20 &#956;<it>M </it>5'-azacytidine (AZCT) in GM-20 for 3 days to induce multipotency, before switching them to the appropriate medium <abbrgrp><abbr bid="B11">11</abbr><abbr bid="B14">14</abbr><abbr bid="B51">51</abbr></abbrgrp>.</p>
+         <p>For the tests on the modulation of MDSCs skeletal myotube formation by various factors, cells were allowed to reach confluence, switched to GM-HC, and incubated for 2 weeks with 2 &#956;g/ml recombinant 113-amino acid myostatin protein (R-Mst), a biologically active recombinant 16-kDa protein containing 113 amino acid residues of the processed human myostatin protein (BioVendor Laboratory Medicine Inc., Palackeho, Czech Republic) <abbrgrp><abbr bid="B14">14</abbr><abbr bid="B52">52</abbr><abbr bid="B53">53</abbr></abbrgrp>, or with a recombinant mouse follistatin protein (RD Systems, Minneapolis, MN, USA) at 0.2 &#956;g/ml <abbrgrp><abbr bid="B11">11</abbr><abbr bid="B14">14</abbr></abbrgrp>, changing medium twice a week. In other experiments, incubations with the monoclonal (Chemicon International, Temecula, CA, USA) and polyclonal (Millipore Corp, Billerica, MA, USA) antibodies against myostatin (1:20) were substituted for the previous treatments. Alternatively, the adenoviruses expressing the mouse myostatin full-length cDNA under the CMV promoter (AdV-CMV-Mst375) and an shRNA, which targets myostatin RNA and inhibits more than 95% of myostatin gene expression <abbrgrp><abbr bid="B11">11</abbr><abbr bid="B14">14</abbr><abbr bid="B18">18</abbr></abbrgrp> (AdV-Mst shRNA) were transduced into MDSCs at 80% confluence. Then cells were switched to GM-HC medium, as described earlier.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Implantation of MDSCs into skeletal muscle</p>
+         </st>
+         <p>Male mdx mice (C57BL/6/10ScSn-Dmd<sup>mdx</sup>), referred to here as "mdx", obtained from Jackson Laboratories (Bar Harbor, ME, USA) were allowed to reach 10 months of age, to allow lipofibrotic degeneration to become more evident, not only in the diaphragm but also in the gastrocnemius. In contrast, in young animals (12 to 16 weeks of age), the first round of muscle necrosis and regeneration had already subsided (stable phase).</p>
+         <p>Mice were treated according to National Institutes of Health (NIH) regulations with an Institutional Animal Care and Use Committee-approved protocol. In one experiment, the WT and mdx MDSCs (0.5 to 1.0 &#215; 10<sup>6 </sup>cells/50 &#956;l saline) were labeled with the nuclear fluorescent stain, 4',6-diamidino-2-phenylindole (DAPI) <abbrgrp><abbr bid="B27">27</abbr><abbr bid="B28">28</abbr><abbr bid="B29">29</abbr><abbr bid="B30">30</abbr></abbrgrp>, and implanted aseptically under anesthesia into the surgically exposed tibialis anterior. The muscle had been cryoinjured by pinching it for 10 seconds with a forceps cooled in liquid nitrogen immediately before implantation. Control mice with the same cryoinjury received saline. Mice were killed after 2 weeks, and the tibialis excised and subjected to cryoprotection in 30% sucrose, embedding in OCT, and cryosectioning.</p>
+         <p>In another experiment, the DAPI-labeled WT and Mst KO MDSCs (0.5 &#215; 10<sup>6 </sup>cells/50 &#956;l GM) were implanted into the central region of the surgically exposed left gastrocnemius of 10-month-old mdx mice, which 4 days earlier had been injured with two injections of notexin in both tips of the muscle (total: 0.2 &#956;g in 10 &#956;l saline). Control muscle-injured mice were injected with saline (<it>n </it>= 5/group). Mice were killed at 3 weeks, the gastrocnemius excised, and a section around the site of notexin injection was used for cryosectioning. The remaining tissue was kept frozen at -80&#176;C.</p>
+         <sec>
+            <st>
+               <p>Immunocytochemistry and dual immunofluorescence</p>
+            </st>
+            <p>Cells on collagen-coated eight-well removable chambers, fixed in 2% <it>p</it>-formaldehyde, and 10 &#956;m unfixed frozen tissue sections, were reacted <abbrgrp><abbr bid="B10">10</abbr><abbr bid="B11">11</abbr><abbr bid="B14">14</abbr><abbr bid="B18">18</abbr><abbr bid="B29">29</abbr><abbr bid="B30">30</abbr></abbrgrp> with some of the following primary antibodies against (a) human myosin heavy-chain fast, detecting both MHC-IIa and MHC-IIb); monoclonal, 1:200 Vector Laboratories, Burlingame, CA, USA), a marker for skeletal myotubes and myofibers; (b) human ASMA (mouse monoclonal in Sigma kit, 1:2, Sigma Chemical, St. Louis, MO, USA), a marker for both SMCs and myofibroblasts; (c) neurofilament 70 (NF70; mouse monoclonal, 1:10, Millipore); (d) Dystrophin (rabbit polyclonal, 1:200 Abcam, Cambridge, Massachusetts, USA); (e) Sca-1 (mouse monoclonal, 1:100, BD Pharmingen, San Jose, CA, USA) and M.O.M blocking kit (Vector, Burlingame, CA, USA); and (f) Oct 4 (rabbit polyclonal, 1:500, BioVision, Mountain View, CA, USA). When MDSCs in eight-well chambers were not previously tagged with DAPI, all nuclei were stained with coverslips with DAPI antifading emulsion.</p>
+            <p>Cultures or tissue sections not involving DAPI labeling were subjected to immunohistochemical detection by quenching in 0.3% H<sub>2</sub>O<sub>2</sub>, blocking with goat (or corresponding serum), and incubated overnight at 4&#176;C with the primary antibody. This was followed by biotinylated anti-mouse IgG (Vector Laboratories), respectively, for 30 minutes, the ABC complex containing avidin-linked horseradish peroxidase (1:100; Vector Laboratories), 3,3' diaminobenzidine, and counterstaining with hematoxylin, or no counterstaining. For cells labeled with DAPI, fluorescent detection techniques were used. The secondary anti-mouse IgG antibody was biotinylated (goat, 1:200, Vector Laboratories), and this complex was detected with streptavidin-Texas Red. After washing with PBS, the sections were mounted with Prolong antifade (Molecular Probes, Carlsbad, CA, USA). Negative controls in all cases omitted the first antibodies or were replaced by IgG isotype. In the case of Oct 4, streptavidin-FITC was used.</p>
+            <p>In tissue cryosections for experiments involving DAPI-labeled cells (10 &#956;m), tissue sections were processed in regions where the DAPI<sup>+ </sup>cells could be detected. Muscle fibers were either stained with hematoxylin/eosin, or by MHC-II antibody, either by Texas red fluorescence as previously described, or with the diaminobenzidine tetrahydrochloride-based detection method (Vectastain-Elite ABC kit; Vector Labs), counterstaining with Harris hematoxylin. Tissue sections that were incubated with mouse IgG instead of the primary antibody served as negative controls. The sections were viewed under an Olympus BH2 fluorescent microscope, and cell cultures, under an inverted microscope. In some cases, the cytochemical staining was quantitated by image analysis by using ImagePro-Plus 5.1 software (Media Cybernetics, Silver Spring, MD, USA) coupled to a Leica digital microscope bright-field light fluorescence microscope/VCC video camera. After images were calibrated for background lighting, integrated optical density (IOD, area &#215; average intensity) was calculated.</p>
+         </sec>
+      </sec>
+      <sec>
+         <st>
+            <p>Gene transcriptional expression profiles</p>
+         </st>
+         <p>Pools of total cellular RNA from three T25 flasks for each MDSC cultured in DM-20 were isolated with Trizol-Reagent (Invitrogen, Grand Island, NY, USA) and subjected to DNAse treatment, assessing RNA quality by agarose gel electrophoresis. cDNA gene microarrays (SuperArray BioScience Corp., Frederick, MD, USA) <abbrgrp><abbr bid="B11">11</abbr><abbr bid="B24">24</abbr><abbr bid="B41">41</abbr></abbrgrp> were applied, by using the mouse stem cell (OMM-405), Oligo GEArray microarray. Biotin-labeled cDNA probes were synthesized from total RNA, denatured, and hybridized overnight at 60&#176;C in GEHybridization solution to these membranes. Chemiluminescent analysis was performed per the manufacturer's instructions. Raw data were analyzed by using GEArray Expression Analysis Suite (SuperArray BioScience Corp.). Expression values for each gene based on spot intensity were subjected to background correction and normalization with housekeeping genes, and then fold changes in relative gene expression were calculated. Microarray data were deposited in the Gene Expression Omnibus (GEO) public repository (accession number GSE28986).</p>
+         <p>The expression of some of the down- or upregulated genes detected earlier was examined on 1 &#956;g RNA isolated from consecutive similar incubations performed in triplicate by reverse transcription (RT) by using a 16-mer oligo(dT) primer, as previously described <abbrgrp><abbr bid="B11">11</abbr><abbr bid="B27">27</abbr></abbrgrp>, and the resulting cDNA was amplified using PCR in a total volume of 20 &#956;l. The locations of the primers used for the quantitative estimation of mouse myostatin mRNA were nts 136 to 156 (forward) and 648 to 667 (reverse), numbering from the translation initiation codon, as previously described. For mouse GAPDH primers, sequences were from the mRNA sequence NM_008084.2, with a forward primer spanning nts 778-797 and reverse primer spanning nts 875-852, with a product length of 98 nt.</p>
+         <p>Additional primers were designed by using the NCBI Primer Blast program applied to mRNA sequences and synthesized by Sigma-Aldrich. Numbering refers to the length in NT from the 5' end of the mRNA: (a) Acta1 (skeletal muscle actin) NM_009606.2 (forward 501 to 520 and reverse 841 to 822; product length, 341); (b) Actc1 (cardiac actin) NM_009608.3 (forward 38 to 58 and reverse 554 to 530, product length 517); (c) MyoD NM_010866.2 (forward 515 to 534 and reverse 1013 to 994, product length 499); and (d) Pax3 NM_008781.4 (forward 1164 to 1183 and reverse 1893 to 1874, product length 730). The number of PCR cycles used for each primer set is stated in parenthesis, as follows: Actc1 (30), Acta1 (30), MyoD1 (33), Pax3 (28), and GAPDH (26). All primers were designed to include an exon-exon junction in the forward primer, except for GAPDH and MyoD1. Negative controls omitted cDNA.</p>
+         <sec>
+            <st>
+               <p>Protein expression by Western blots</p>
+            </st>
+            <p>Cells were homogenized in boiling lysis buffer (1% SDS, 1 m<it>M </it>sodium orthovanadate, 10 m<it>M </it>Tris pH 7.4 and protease inhibitors, followed by centrifugation at 16,000 <it>g </it>for 5 minutes <abbrgrp><abbr bid="B10">10</abbr><abbr bid="B11">11</abbr><abbr bid="B14">14</abbr><abbr bid="B18">18</abbr><abbr bid="B29">29</abbr><abbr bid="B30">30</abbr></abbrgrp>. Then 40 &#956;g of protein was run on 7.5% or 10% polyacrylamide gels, and submitted to transfer and immunodetection with antibodies against (a) human ASMA (monoclonal, 1:1,000; Calbiochem, Billerica, MA, USA); (b) Oct 4, as for immunohistochemistry; (c) MyoD (rabbit polyclonal 1:200, Santa Cruz Biotechnology, Dallas, TX, USA); (d) MHC (fast), as for immunohistochemistry; (e) TGF-&#946;1 (rabbit polyclonal, 1:1,000; Promega Corporation, Madison, WI, USA); (f) myostatin (rabbit polyclonal 1:1,000; Chemicon International Inc), (g) ActRIIb (monoclonal, 1:1,000, Abcam); and (h) GAPDH (mouse monoclonal, 1:3,000, Chemicon). Membranes were incubated with secondary polyclonal horse anti-mouse or anti-rabbit IgG linked to horseradish peroxidase (1:2,000; BD Transduction Laboratories, Franklin Lakes, NJ, USA, or 1:5,000, Amersham GE, Pittsburgh, PA, USA), and bands were visualized with luminol (SuperSignal West Pico; Chemiluminescent, Pierce, Rockford, IL, USA). For the negative controls, the primary antibody was omitted.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Statistics</p>
+            </st>
+            <p>Values are expressed as the mean (<smcaps>SEM</smcaps>). The normality distribution of the data was established by using the Wilk-Shapiro test. Multiple comparisons were analyzed with a single-factor <smcaps>ANOVA</smcaps>, followed by <it>post hoc </it>comparisons with the Newman-Keuls test. Differences among groups were considered statistically significant at <it>P </it>&lt; 0.05.</p>
+         </sec>
+      </sec>
+      <sec>
+         <st>
+            <p>Results</p>
+         </st>
+         <sec>
+            <st>
+               <p>MDSC cultures from the Mst KO resemble their counterparts from WT mice in morphology, replication, cell markers, and multipotent differentiation</p>
+            </st>
+            <p>WT MDSCs (pP6 fraction) formed <it>in vitro </it>the most robust skeletal myotubes (see next section) at about passage 13, and WT MDSCs and Mst KO MDSCs were compared from passages 10 through 28. The morphology of the proliferating cultures was similar, but the replication times for the Mst KO MDSCs were slower than those for the WT MDSCs (27.0 versus 19.8 hours, respectively). This morphology and replication pattern continued throughout the 13- through 28-passages period of study.</p>
+            <p>The WT MDSC culture was previously shown to be Sca1<sup>+ </sup><abbrgrp><abbr bid="B28">28</abbr></abbrgrp>; Sca1 selection was used for both cultures, and flow cytometry confirmed its expression in subconfluent cultures in DM-10 of both the WT and Mst KO MDSCs (Figure <figr fid="F1">1A</figr>), with negligible isotype reaction. The similarity of both types of cells was evident as well for the expression of the two MDSC markers CD34, CD44, and the key embryonic stem cell marker, Oct 4, even if the cell populations show some heterogeneity in the expression of these markers. Oct 4 in both MDSC cultures is similarly well expressed, mainly in the nuclei (the Oct 4A isoform) with some additional cytoplasmic staining (Figure <figr fid="F1">1B</figr>). That MDSCs have some embryonic stem cell features is also suggested by a mild alkaline phosphatase reaction, a feature of embryonic stem cells (Figure <figr fid="F1">1C</figr>).</p>
+            <fig id="F1">
+               <title>
+                  <p>Figure 1</p>
+               </title>
+               <caption>
+                  <p>Effect of genetic inactivation of myostatin on the expression of key stem cell marker genes in MDSC</p>
+               </caption>
+               <text>
+                  <p><b>Effect of genetic inactivation of myostatin on the expression of key stem cell marker genes in MDSC</b>. <b>(A) </b>Flow cytometry (no gate) was conducted for Sca1 (red), CD34 (black), CD44 (green), and Oct 4 (blue) in WT MDSCs (blue) and Mst KO MDSCs (purple), against the respective isotypes (not shown). Top panels: Left: WT MDSCs; Right: Mst KO MDSCs. Bottom panels: each antigen is compared separately for WT (blue) and Mst KO (purple), with the corresponding isotypes (WT, dark gray; Mst KO, light gray). <b>(B) </b>Representative pictures of proliferating MDSCs that were subjected to immunocytochemistry for Oct 4, showing nuclear location in most cells (200&#215;). <b>(C) </b>Proliferating MDSCs that were subjected to cytochemistry for alkaline phosphatase (200&#215;). <b>(D) </b>Homogenates from the same cell cultures that were subjected to Western blot for Oct 4 (nuclear Oct 4a, 45 kDa; cytoplasmic Oct 4 b, 33 kDa). WT, wild type; MDSC, muscle-derived stem cell; Mst KO, myostatin knockout.</p>
+               </text>
+               <graphic file="scrt152-1" hint_layout="double"/>
+            </fig>
+            <p>The stem cell nature of the nuclear Oct 4A expression was confirmed by the detection of the 45-kDa Oct 4A transcriptionally active protein accompanied to a lesser extent by the 33-kDa Oct 4B of cytoplasmic origin (Figure <figr fid="F1">1B</figr> bottom).</p>
+            <p>The similarity of the Mst KO and WT MDSCs in terms of the expression of other stem cell-related genes was demonstrated by a DNA microarray analysis of a panel of 260 stem cell-related genes. Table <tblr tid="T1">1</tblr> shows no substantial differences in the expression of most well-known embryonic stem cell genes, such as <it>c-Myc, Oct 4 (Pou5)</it>, alkaline phosphatase 2 and 5, telomerase reverse transcriptase, leukemia inhibitory factor (<it>LIF</it>), and mastermind-like 1, among the other related genes. This agrees with the fact that MDSCs appear to undergo a multilineage differentiation, and the capacity of these MDSCs seems to be qualitatively similar, as shown by the generation in neurogenic medium of cells expressing the neuronal marker NF70 (Figure <figr fid="F2">2</figr>), and in fibrogenic medium of cells expressing &#945;-smooth muscle actin (ASMA), suggesting some neural or myofibroblast differentiation, respectively. However, the proportion of positive cells was lower in Mst KO MDSCs, and the cells expressing NF-70 lacked the more apparent neuronal morphology of the differentiated WT MDSCs. Both MDSC cultures also differentiated similarly into cells expressing calponin as smooth muscle cell marker and von Willebrand factor as endothelial cell marker (not shown).</p>
+            <tbl id="T1" hint_layout="single">
+               <title>
+                  <p>Table 1</p>
+               </title>
+               <caption>
+                  <p>Some stem cell-related genes are transcribed similarly in MDSCs, irrespective of myostatin inactivation</p>
+               </caption>
+               <tblbdy cols="4">
+                  <r>
+                     <c ca="left">
+                        <p><b>Gene</b></p>
+                     </c>
+                     <c ca="left">
+                        <p><b>Function</b></p>
+                     </c>
+                     <c ca="left">
+                        <p><b>WT</b></p>
+                     </c>
+                     <c ca="left">
+                        <p><b>KO</b></p>
+                     </c>
+                  </r>
+                  <r>
+                     <c cspan="4">
+                        <hr/>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p><it>Myc</it></p>
+                     </c>
+                     <c ca="left">
+                        <p>Myelocytomatosis oncogene</p>
+                     </c>
+                     <c ca="left">
+                        <p>12.4</p>
+                     </c>
+                     <c ca="left">
+                        <p>18.1</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p><it>Pou5F1</it></p>
+                     </c>
+                     <c ca="left">
+                        <p>Pou domain (Oct4)</p>
+                     </c>
+                     <c ca="left">
+                        <p>10.1</p>
+                     </c>
+                     <c ca="left">
+                        <p>16.7</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p><it>Akp 2</it></p>
+                     </c>
+                     <c ca="left">
+                        <p>Alkaline phosphatase 2</p>
+                     </c>
+                     <c ca="left">
+                        <p>6.4</p>
+                     </c>
+                     <c ca="left">
+                        <p>6.9</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p><it>Akp 5</it></p>
+                     </c>
+                     <c ca="left">
+                        <p>Alkaline phosphatase 5</p>
+                     </c>
+                     <c ca="left">
+                        <p>1.2</p>
+                     </c>
+                     <c ca="left">
+                        <p>1.6</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p><it>Tert</it></p>
+                     </c>
+                     <c ca="left">
+                        <p>Telomerase reverse transcriptase</p>
+                     </c>
+                     <c ca="left">
+                        <p>1.0</p>
+                     </c>
+                     <c ca="left">
+                        <p>1.0</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p><it>Utf 1</it></p>
+                     </c>
+                     <c ca="left">
+                        <p>Undifferentiated embryonic cell TP1</p>
+                     </c>
+                     <c ca="left">
+                        <p>1.0</p>
+                     </c>
+                     <c ca="left">
+                        <p>0.8</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p><it>Man 1</it></p>
+                     </c>
+                     <c ca="left">
+                        <p>Mastermind-like 1</p>
+                     </c>
+                     <c ca="left">
+                        <p>13.1</p>
+                     </c>
+                     <c ca="left">
+                        <p>16.7</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p><it>Lif</it></p>
+                     </c>
+                     <c ca="left">
+                        <p>Leukemia inhibitory factor</p>
+                     </c>
+                     <c ca="left">
+                        <p>1.5</p>
+                     </c>
+                     <c ca="left">
+                        <p>0.9</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p><it>PPAR&#947;</it></p>
+                     </c>
+                     <c ca="left">
+                        <p>Peroxisome proliferator-activated receptor &#947;</p>
+                     </c>
+                     <c ca="left">
+                        <p>1.1</p>
+                     </c>
+                     <c ca="left">
+                        <p>1.8</p>
+                     </c>
+                  </r>
+               </tblbdy>
+               <tblfn>
+                  <p>RNA from the two MDSC types at 80% confluence (not undergoing myogenesis) were treated by DNAse and submitted to DNA microarrays. Some key stem cell genes are selected. Values are relative expression levels normalized by housekeeping genes. GAPDH expression was 98 to 102. MDSC, muscle-derived stem cell; WT, wild type; KO, myostatin knockout.</p>
+               </tblfn>
+            </tbl>
+            <fig id="F2">
+               <title>
+                  <p>Figure 2</p>
+               </title>
+               <caption>
+                  <p>Myostatin genetic inactivation does not block the multipotent nonmyogenic differentiation capacity of MDSCs</p>
+               </caption>
+               <text>
+                  <p><b>Myostatin genetic inactivation does not block the multipotent nonmyogenic differentiation capacity of MDSCs</b>. Representative pictures of proliferating MDSCs treated for 2 weeks in differentiation media and subjected to immunocytochemistry for NF-70 <b>(A) </b>and ASMA <b>(B) </b>to detect marker expression of neural cells and myofibroblasts (200&#215;). MDSC, muscle-derived stem cell; WT, wild type (muscle-derived stem cells); KO, myostatin knockout (muscle-derived stem cells); ASMA, &#945;-smooth muscle actin.</p>
+               </text>
+               <graphic file="scrt152-2" hint_layout="double"/>
+            </fig>
+         </sec>
+         <sec>
+            <st>
+               <p>The genetic inactivation of myostatin is, however, associated with the loss of the ability of MDSCs to form myotubes <it>in vitro</it>, and with the downregulation of key myogenic genes</p>
+            </st>
+            <p>The WT MDSCs form large polynucleated myotubes expressing MHC II in confluent cultures on incubation for 1 to 2 weeks in GM-HC (Figure <figr fid="F3">3A, B</figr>). This myogenic medium <abbrgrp><abbr bid="B54">54</abbr><abbr bid="B55">55</abbr></abbrgrp> was selected based on its high efficiency as reported for adipose tissue stem cells and on our own preliminary results over a medium containing horse serum. However, remarkably, the Mst KO MDSC (Figure <figr fid="F3">3C</figr>) were unable to generate any myotube under these conditions, even after 4 weeks. Immunofluorescence detected high MHC II expression in the robust myotubes from WT MDSC (Figure <figr fid="F3">3D</figr>), but again, no MHC II or myotubes were found in the Mst KO confluent cultures (not shown). This is also illustrated in the Western blot analysis where the strong MHC II 210-kDa band in the WT MDSC extract is not seen in the confluent Mst KO MDSC (Figure <figr fid="F3">3E</figr>). The early myogenic marker MyoD is expressed as expected in the nonconfluent WT MDSCs in GM-20 (nonmyogenic medium), but very little in the Mst KO MDSCs.</p>
+            <fig id="F3">
+               <title>
+                  <p>Figure 3</p>
+               </title>
+               <caption>
+                  <p>Myostatin genetic inactivation blocks the myogenic differentiation capacity of MDSCs</p>
+               </caption>
+               <text>
+                  <p><b>Myostatin genetic inactivation blocks the myogenic differentiation capacity of MDSCs</b>. <b>(A-C) </b>Representative pictures of confluent MDSCs from the WT MDSCs and Mst KOs maintained for 2 weeks in myogenic medium and subjected to immunocytochemistry for MHC II to detect differentiation into polynucleated myotubes (magnifications as indicated). <b>(D) </b>Blue/red merge of confluent MDSCs in myogenic medium that were labeled with DAPI and submitted to immunofluorescent detection of MHC (200&#215;); <b>(E) </b>Western blot for MHC II (210 kDa) in the confluent cultures undergoing myogenesis, and (F) for MyoD (45 kDa) in the nonconfluent cultures in nonmyogenic medium. MDSC, muscle-derived stem cell; WT, wild type; Mst KO, myostatin knockout; MHC, myosin heavy chain; DAPI: 4', 6-diaminido-phenylindole.</p>
+               </text>
+               <graphic file="scrt152-3" hint_layout="double"/>
+            </fig>
+            <p>That this was not an artifact of poor myogenesis in the GM-HC medium was shown by the fact that although robust myotube formation in the WT MDSCs occurred in GM-10 or GM-20, even if of smaller size (Figure <figr fid="F4">4B</figr> and <figr fid="F4">4C</figr> compared with Figure <figr fid="F4">4A</figr>), not a single myotube was observed with confluent Mst KO MDSCs in these media (not shown). WT MDSC myogenic differentiation in medium with a high concentration of FBS indicates that cell-to-cell contact is sufficient to trigger MDSC myogenesis, and does not require growth-factor depletion. No adipogenesis was detected by Oil red O in GM-HC medium (not shown). Western blots of parallel confluent cultures of WT MDSCs showed that MHC-II was expressed in all media (triplicate cultures), although more intensively in GM-HC (Figure <figr fid="F4">4D</figr>). No difference in MyoD expression was found among the different media.</p>
+            <fig id="F4">
+               <title>
+                  <p>Figure 4</p>
+               </title>
+               <caption>
+                  <p>The potent myotube-forming capacity of WT MDSCs in myogenic medium is decreased but still maintained under high serum concentrations, in the presence of steady MyoD expression</p>
+               </caption>
+               <text>
+                  <p><b>The potent myotube-forming capacity of WT MDSCs in myogenic medium is decreased but still maintained under high serum concentrations, in the presence of steady MyoD expression</b>. <b>(A) </b>Representative micrographs of myotubes generated in confluent WT MDSCs maintained for 2 weeks in myogenic medium, as evidenced by immunocytochemistry for MHC II (200&#215;); <b>(B) </b>and <b>(C) </b>as (A), but in PM with 20% or 10% serum (200&#215;). <b>(D) </b>Representative Western blots for WT MDSCs incubated in triplicate in each of the previously mentioned cultures in the three types of media subjected to immunodetection for MHC II (210 kDa) and MyoD (44 kDa). 10, 10% PM; 20, 20% PM; H, myogenic medium; WT MDSC, wild-type (muscle-derived stem cell); MHC, myosin heavy chain; PM, plating medium.</p>
+               </text>
+               <graphic file="scrt152-4" hint_layout="double"/>
+            </fig>
+            <p>Confluent Mst KO in several media were unable to form myotubes irrespective of passage. Myotube formation by WT MDSC cultures persisted for up to 40 passages, although the size and number of the myotubes started to decline as the passage number increased. Cultures of pP5 or pP5 from Mst KO mice obtained during the pre-plating procedure also failed to generate skeletal myotubes. Despite the drastic obliteration of MHC II<sup>+ </sup>myotube formation in confluent Mst KO MDSCs, the transcriptional expression of most myogenesis-related genes in the respective proliferating cells was, as in the case of the stem cell genes in Table <tblr tid="T1">1</tblr>, very similar. For instance, expression of <it>BMPRs </it>(bone morphogenic protein receptors), the <it>Wnt </it>signaling receptors <it>frizzled </it>and j<it>ag, IGF1, Notch 1</it>, and <it>Notch 3</it>, was not reduced in Mst KO MDSCs as compared with the WT MDSCs (Table <tblr tid="T2">2</tblr>). However, six notable differences were noticed in which each gene was substantially downregulated in the Mst KO MDSCs, versus a strong expression in the WT MDSCs. They are <it>Spp1 </it>(secreted phosphoprotein 1, or osteopontin), <it>Actc 1 </it>(cardiac &#945;-actin), <it>MyoD1</it>, <it>cadherin 15, Myf 5</it>, and <it>Notch 2 </it>(see Discussion). In contrast, other cadherins (11 and 6), related to neuromuscular development, were upregulated by ninefold and fourfold, respectively, in the Mst KO MDSCs. Other than these, a virtual 98% similarity was seen among the three MDSC types, in terms of the 260 genes investigated. An excellent correlation occurred between <it>MyoD </it>mRNA expression in both cultures and the previously detected MyoD protein levels shown in Figure <figr fid="F3">3</figr>.</p>
+            <tbl id="T2" hint_layout="single">
+               <title>
+                  <p>Table 2</p>
+               </title>
+               <caption>
+                  <p>Some skeletal myogenesis-related genes are downregulated in MDSCs by myostatin genetic inactivation, whereas others remain unchanged</p>
+               </caption>
+               <tblbdy cols="4">
+                  <r>
+                     <c ca="left">
+                        <p><b>Gene</b></p>
+                     </c>
+                     <c ca="left">
+                        <p><b>Function</b></p>
+                     </c>
+                     <c ca="left">
+                        <p><b>WT</b></p>
+                     </c>
+                     <c ca="left">
+                        <p><b>KO</b></p>
+                     </c>
+                  </r>
+                  <r>
+                     <c cspan="4">
+                        <hr/>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p><it>Spp1</it></p>
+                     </c>
+                     <c ca="left">
+                        <p>Secreted phosphoprotein 1 (osteopontin)</p>
+                     </c>
+                     <c ca="left">
+                        <p>70.8</p>
+                     </c>
+                     <c ca="left">
+                        <p>20.3</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p><it>Actc 1</it></p>
+                     </c>
+                     <c ca="left">
+                        <p>&#945;-Actin (cardiac)</p>
+                     </c>
+                     <c ca="left">
+                        <p>39.9</p>
+                     </c>
+                     <c ca="left">
+                        <p>6.5</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p><it>Myo D1</it></p>
+                     </c>
+                     <c ca="left">
+                        <p>Myogenic differentiation 1</p>
+                     </c>
+                     <c ca="left">
+                        <p>17.5</p>
+                     </c>
+                     <c ca="left">
+                        <p>2.7</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p><it>Cadherin 15</it></p>
+                     </c>
+                     <c ca="left">
+                        <p>Cadherin 15</p>
+                     </c>
+                     <c ca="left">
+                        <p>8.7</p>
+                     </c>
+                     <c ca="left">
+                        <p>1.7</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p><it>Myf 5</it></p>
+                     </c>
+                     <c ca="left">
+                        <p>Myogenic factor 5</p>
+                     </c>
+                     <c ca="left">
+                        <p>4.2</p>
+                     </c>
+                     <c ca="left">
+                        <p>2.7</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p><it>Notch 2</it></p>
+                     </c>
+                     <c ca="left">
+                        <p>Notch gene homolog 2</p>
+                     </c>
+                     <c ca="left">
+                        <p>4.2</p>
+                     </c>
+                     <c ca="left">
+                        <p>2.8</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p><it>BMPR 2</it></p>
+                     </c>
+                     <c ca="left">
+                        <p>Bone morphogenetic receptor 2</p>
+                     </c>
+                     <c ca="left">
+                        <p>23.3</p>
+                     </c>
+                     <c ca="left">
+                        <p>20.3</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p><it>BMPR 1a</it></p>
+                     </c>
+                     <c ca="left">
+                        <p>Bone morphogenetic receptor 1a</p>
+                     </c>
+                     <c ca="left">
+                        <p>8.1</p>
+                     </c>
+                     <c ca="left">
+                        <p>10.4</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p><it>BMPR 1b</it></p>
+                     </c>
+                     <c ca="left">
+                        <p>Bone morphogenetic receptor 1b</p>
+                     </c>
+                     <c ca="left">
+                        <p>0.8</p>
+                     </c>
+                     <c ca="left">
+                        <p>0.8</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p><it>BMPR 4</it></p>
+                     </c>
+                     <c ca="left">
+                        <p>Bone morphogenetic protein 4</p>
+                     </c>
+                     <c ca="left">
+                        <p>2.7</p>
+                     </c>
+                     <c ca="left">
+                        <p>2.7</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p><it>IGF 1</it></p>
+                     </c>
+                     <c ca="left">
+                        <p>Insulin-like growth factor 1</p>
+                     </c>
+                     <c ca="left">
+                        <p>5.1</p>
+                     </c>
+                     <c ca="left">
+                        <p>4.2</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p><it>Jag 1</it></p>
+                     </c>
+                     <c ca="left">
+                        <p>Jagged 1</p>
+                     </c>
+                     <c ca="left">
+                        <p>2.8</p>
+                     </c>
+                     <c ca="left">
+                        <p>3.4</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p><it>Fzd 1</it></p>
+                     </c>
+                     <c ca="left">
+                        <p>Frizzled homolog 1</p>
+                     </c>
+                     <c ca="left">
+                        <p>2.7</p>
+                     </c>
+                     <c ca="left">
+                        <p>2.8</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p><it>Notch 1</it></p>
+                     </c>
+                     <c ca="left">
+                        <p>Notch gene homolog 1</p>
+                     </c>
+                     <c ca="left">
+                        <p>2.6</p>
+                     </c>
+                     <c ca="left">
+                        <p>2.7</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p><it>Notch 3</it></p>
+                     </c>
+                     <c ca="left">
+                        <p>Notch gene homolog 3</p>
+                     </c>
+                     <c ca="left">
+                        <p>2.8</p>
+                     </c>
+                     <c ca="left">
+                        <p>2.6</p>
+                     </c>
+                  </r>
+               </tblbdy>
+               <tblfn>
+                  <p>RNA from the two MDSC types at 80% confluence (not undergoing myogenesis) were treated with DNAse and submitted to DNA microarrays. Some key myogenesis-related genes are selected. Values are relative expression levels normalized by housekeeping genes. GAPDH expression was 98 to 102. MDSC, muscle-derived stem cell; WT, wild type; KO, myostatin knockout.</p>
+               </tblfn>
+            </tbl>
+            <p>These results were corroborated by RT-PCR for some of the mRNAs described in the tables. Figure <figr fid="F5">5A</figr> shows the gel electrophoretic pattern after staining with ethidium bromide, and Figure <figr fid="F5">5B</figr> presents the densitometric value of each band from triplicate determinations corrected by the housekeeping-gene values. These ratios are comparable between both MDSC cultures for each gene, but not among the different genes for each culture, because of the different numbers of cycles applied for the respective transcript amplification. <it>Actc1, Acta1</it>, and <it>MyoD </it>are significantly downregulated in Mst KO as compared with WT MDSCs, and <it>Pax 3 </it>is overexpressed, in good agreement with the DNA microarrays.</p>
+            <fig id="F5">
+               <title>
+                  <p>Figure 5</p>
+               </title>
+               <caption>
+                  <p>RT-PCR confirmation of selected differences in the transcriptional expression of undifferentiated WT and Mst KO MDSCs, detected with DNA microarrays</p>
+               </caption>
+               <text>
+                  <p><b>RT-PCR confirmation of selected differences in the transcriptional expression of undifferentiated WT and Mst KO MDSCs, detected with DNA microarrays</b>. RNAs obtained from triplicate cultures of proliferating MDSCs, consecutive to those used for DNA microarrays in Tables 1 and 2, were subjected to RT-PCR with specific primers spanning an intron for the number of PCR cycles stated in parenthesis, as follows: Actc1 (30), Acta1 (30), MyoD1 (33), Pax3 (28), and GAPDH (26). <b>(A) </b>Ethidium bromide-stained agarose gels; <b>(B) </b>densitometry of relative band intensities referred to housekeeping gene for the indicated numbers of PCR cycles. Controls without cDNA were blank. *<it>P </it>&lt; 0.05; ***<it>P </it>&lt; 0.001. RT-PCR, reverse transcription polymerase chain reaction; WT, wild type; Mst KO, myostatin knockout; MDSC, muscle-derived stem cell; DNA, deoxyribonucleic acid; RNA, ribonucleic acid; GAPDH, glyceraldehyde 3-phosphate dehydrogenase.</p>
+               </text>
+               <graphic file="scrt152-5" hint_layout="single"/>
+            </fig>
+         </sec>
+         <sec>
+            <st>
+               <p>Myotube formation cannot be induced in Mst KO MDSCs by stem cell-reactivating agents, and the WT MDSCs are also refractory to positive or negative modulation of myostatin expression</p>
+            </st>
+            <p>Incubation of Mst KO MDSCs for 3 days with 5-azacytidine, a demethylating agent and potent inducer of myogenic capacity in pluripotent cell lines <abbrgrp><abbr bid="B11">11</abbr><abbr bid="B14">14</abbr></abbrgrp>, before their reaching confluency and switching to myogenic medium, failed to induce myotube formation, but it also failed to stimulate it in the WT MDSCs (not shown). Follistatin, which should upregulate myotube formation by binding myostatin, was also virtually ineffective on WT MDSCs, and the same resistance to modulation was observed under recombinant myostatin, which should exert the opposite effects. Figure <figr fid="F6">6A</figr> through D shows that the area occupied by MHC II<sup>+ </sup>myotubes was not reduced in the cultures treated from the start of myotube induction with 2 &#956;g/ml myostatin (Figure <figr fid="F6">6B</figr>), or increased by 0.5 &#956;g/ml follistatin (Figure <figr fid="F6">6C</figr>), as compared with untreated controls (Figure <figr fid="F6">6A</figr>). Changes were not significant (Figure <figr fid="F6">6D</figr>). This failure of myostatin and follistatin to affect myogenesis in any type of MDSCs occurred despite these cells expressing the myostatin receptor ActRIIb in both cultures as shown by Western blot (Figure <figr fid="F6">6E</figr>), implying that they should be responsive to exogenous myostatin. Endogenous myostatin expression was not detected in any untreated culture (not shown), even if TGF-&#946;, another key member of the TGF-&#946; family, was expressed (Figure <figr fid="F6">6E</figr>). Finally, neither the monoclonal nor the polyclonal antibodies against myostatin affected myogenesis in the WT MDSCs, as compared with the respective cultures incubated with control IgG (not shown).</p>
+            <fig id="F6">
+               <title>
+                  <p>Figure 6</p>
+               </title>
+               <caption>
+                  <p>Myostatin and follistatin fail to modulate the myogenic differentiation of MDSCs, although the myostatin receptor is expressed</p>
+               </caption>
+               <text>
+                  <p><b>Myostatin and follistatin fail to modulate the myogenic differentiation of MDSCs, although the myostatin receptor is expressed</b>. <b>(A-D) </b>Confluent WT MDSCs in myogenic medium were incubated in triplicate on six-well plates for 1 week with recombinant myostatin <b>(B) </b>or follistatin <b>(C) </b>or with no addition <b>(A)</b>, and subjected to immunocytochemistry for MHC II (40&#215;). The relative area occupied by the MHC II<sup>+ </sup>myotubes was estimated by quantitative image analysis (15 fields/well/three wells) <b>(D)</b>. Cont, control; Mst, myostatin; Fst, follistatin. No myotubes were formed in confluent Mst KO under any treatment (not shown). <b>(E) </b>Western blot detection in confluent MDSCs from both mice strains of the expression of the ActRIIb and TGF-&#946;1, in two successive passages for each cell line. Myostatin was not detected. MDSCs, muscle-derived stem cells; WT, wild type; Mst KO, myostatin knockout; MHC, myosin heavy chain.</p>
+               </text>
+               <graphic file="scrt152-6" hint_layout="double"/>
+            </fig>
+            <p>This suggests that the WT MDSC ability to form myotubes is refractory to the modulation by myostatin, and this was confirmed by transfection with the AdV Mst cDNA construct, or alternatively, with the AdV Mst shRNA, which also expresses &#946;-galactosidase, which did not inhibit or stimulate this process, although myostatin and &#946;-galactosidase were respectively expressed (not shown). The suppression of myotube formation in the Mst KO MDSCs by myostatin genetic inactivation and the lack of response to demethylating agents suggests that this is a complex imprinting process occurring during their embryologic generation, of a different nature than the resistance to paracrine and autocrine myostatin modulators observed in the WT MDSCs.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Mst KO MDSCs stimulate myofiber repair in the injured gastrocnemius of the aged mdx mouse, but the absence of myostatin in these cells does not confer on them a distinctive advantage over the WT MDSCs</p>
+            </st>
+            <p>To test the persistence of MDSCs after implantation into the muscle, DAPI-labeled cells were implanted into the cryolacerated gastrocnemius of the aged mdx mouse, and frozen tissue was examined with immunocytofluorescence for MHC II after 2 weeks. Figure <figr fid="F7">7A</figr> shows that the blue fluorescent WT MDSC nuclei are detected in many of the red fluorescent myofibers, and many of these nuclei are central, as may be expected from regenerating myofibers (yellow arrows). Other nuclei are seen in the interspersed connective tissue among the fibers. The Mst KO MDSCs acted similarly (Figure <figr fid="F7">7B</figr>). Although DAPI nuclear labeling of implanted cells may be prone to fading after long periods of implantation, it was adequate at 2 weeks to trace MDSC uptake and survival. However, the overlapping is only suggestive and cannot conclusively show MDSC conversion into myofibers. The MDSC implantation was then repeated into the notexin-injured muscle of aged mdx mice, by using either WT or Mst KO cells, or vehicle, and killing at 3 weeks for measuring myofiber repair. Panels C and D show representative muscle tissue sections stained with hematoxylin-eosin (HE) from mice injected with WT MDSCs and Mst KO MDSCs, respectively, where the central regenerating nuclei are visible. When the central nuclei were counted by quantitative image analysis, WT MDSCs significantly stimulated by 54.5% the appearance of central nuclei on hematoxylin/eosin-stained frozen tissue sections in comparison to control injured muscle receiving vehicle. The Mst KO MDSCs that had failed to convert into myotubes <it>in vitro </it>were now able <it>in vivo </it>to increase significantly by 42.4% the number of central nuclei in the myofibers in comparison to the vehicle-injected mice (Figure <figr fid="F7">7D</figr>). However, this stimulation of myofiber repair did not surpass the efficacy of the WT MDSCs, contrary to what was originally expected from the absence of myostatin in the Mst KO MDSCs.</p>
+            <fig id="F7">
+               <title>
+                  <p>Figure 7</p>
+               </title>
+               <caption>
+                  <p>Mst KO MDSCs failed to generate myotubes <it>in vitro</it>, but <it>in vivo </it>stimulate tissue repair comparable to the WT MDSCs</p>
+               </caption>
+               <text>
+                  <p><b>Mst KO MDSCs failed to generate myotubes <it>in vitro</it>, but <it>in vivo </it>stimulate tissue repair comparable to the WT MDSCs</b>. Aged (10-month-old) mdx mice were used to maximize myofiber loss and lipofibrotic degeneration in the gastrocnemius. <b>(A) </b>Muscles were cryoinjured, implanted with 0.5 &#215; 10<sup>6 </sup>DAPI-labeled WT MDSCs, and allowed to undergo repair for 10 days. Frozen muscle sections were stained for MHC-II with Texas red streptavidin, and merging of blue and red fluorescence was obtained (200&#215;). MDSC nuclei centrally located within myofibers are indicated with yellow arrows. <b>(B</b>) Similar picture, but for Mst KO MDSCs. <b>(C) </b>Gastrocnemius injury in the aged mdx mice was performed in the two apexes of the muscle with notexin, and muscles were injected 4 days later with saline or with 1.0 &#215; 10<sup>6 </sup>WT MDSCs or <b>(D) </b>Mst KO MDSCs in saline (<it>n </it>= 5/group). Repair was allowed to proceed for 3 weeks. Hematoxylin/eosin staining was performed in frozen sections, and a representative picture for each case shows myofibers from the gastrocnemius implanted with MDSCs, with arrows pointing to abundant central nuclei (200&#215;). <b>(E</b>) Quantitative image analysis of these tissue sections (WT), in comparison to tissue sections from Mst KO MDSC-implanted mice (KO) and saline-injected controls, based on 12 fields per section, three sections per animal. ***<it>P </it>&lt; 0.001. Mst KO, myostatin knockout; MDSC, muscle-derived stem cell; WT, wild type; mdx, X chromosome-linked muscular dystrophy; DAPI, 4', 6-diaminido-phenylindole; MHC, myosin heavy chain; KO, knockout.</p>
+               </text>
+               <graphic file="scrt152-7" hint_layout="double"/>
+            </fig>
+            <p>These results were supported by the fact that Mst KO MDSCs significantly increased the expression of MCH-II in the notexin-injured mdx aged muscle estimated by Western blot, as compared with the vehicle-injected muscle, and this was slightly more effective than WT MDSC (Figure <figr fid="F8">8</figr>, left). It should be emphasized that this measurement was conducted in the central region of the muscle, distant from the notexin-injured sites at both ends of the muscle used for the tissue-section studies, suggesting that the stimulatory effect on MHC-II expression by MDSCs may have been even higher in the injured tissue. However, Mst KO MDSCs did not reduce ASMA expression, an indicator of myofibroblast generation, and hence fibrosis, whereas the WT MDSCs did decrease this expression by 23% (right).</p>
+            <fig id="F8">
+               <title>
+                  <p>Figure 8</p>
+               </title>
+               <caption>
+                  <p>Implanted Mst KO MDSCs stimulate more effectively than do WT MDSCs the expression of MHC-II in the muscle, but do not reduce ASMA</p>
+               </caption>
+               <text>
+                  <p><b>Implanted Mst KO MDSCs stimulate more effectively than do WT MDSCs the expression of MHC-II in the muscle, but do not reduce ASMA</b>. <b>(A) </b>Western blot analysis for MHC II, ASMA, and GAPDH (reference gene) in homogenates of skeletal muscle tissue from the central region adjacent to area examined histochemically in Figure 7C. Each lane corresponds to an individual mouse homogenate (<it>n </it>= 5/group), and the three gels were run simultaneously. <b>(B) </b>Densitometric evaluation of the relative intensity expressed as ratios of the MCH-II or ASMA and GAPDH bands. *<it>P </it>&lt; 0.05. Mst KO, myostatin knockout; MDSC, muscle-derived stem cell; WT, wild type; MHC, myosin heavy chain; ASMA, &#945;-smooth muscle actin; GAPDH, glyceraldehyde 3-phosphate dehydrogenase.</p>
+               </text>
+               <graphic file="scrt152-8" hint_layout="double"/>
+            </fig>
+            <p>Untreated WT mice skeletal muscles show dystrophin expression in frozen sections, as evidenced by the sarcolemma immunofluorescence around the myofibers (Figure <figr fid="F9">9A</figr>), a gene that is carried by their respective MDSCs. The nuclei here were detected by direct DAPI labeling of the tissue sections. In the case of the mdx mice that were implanted with DAPI-labeled WT MDSCs (Figure <figr fid="F9">9C</figr>) or Mst KO MDSCs (Figure <figr fid="F9">9D</figr>), some of the myofibers, which in the mdx muscle are negative for dystrophin, showed a partial dystrophin<sup>+ </sup>staining of the sarcolemma in one of the areas of some sections. Others remained dystrophin negative, as evidenced by comparison of the same area visualized for dual fluorescence (Figure <figr fid="F9">9C</figr>) or with light microscopy (Figure <figr fid="F9">9D</figr>). The overlapping of DAPI-labeled nuclei and dystrophin<sup>+ </sup>myofibers suggests that, as in the case of Figure <figr fid="F7">7</figr>, some conversion or fusion of the implanted MDSCs into myofibers occurs, but that this process may be much less frequent than the stimulation of endogenous satellite cells or stem cell differentiation or fusion, or the spontaneous myofiber reversion.</p>
+            <fig id="F9">
+               <title>
+                  <p>Figure 9</p>
+               </title>
+               <caption>
+                  <p>The dystrophin<sup>+ </sup>MDSCs restore some dystrophin expression in the injured mdx gastrocnemius</p>
+               </caption>
+               <text>
+                  <p><b>The dystrophin<sup>+ </sup>MDSCs restore some dystrophin expression in the injured mdx gastrocnemius</b>. <b>(A) </b>Myofibers from the intact gastrocnemius from the WT mouse, the source of WT MDSCs, show in a dual immunofluorescence merge all myofibers stained for dystrophin, and nuclei stained with DAPI (Vectashield mounting medium; Vector Laboratories, Burlingame, CA, USA) (200&#215;). <b>(B) </b>In other tissue sections, DAPI-labeled implanted Mst KO MDSCs appear to have fused with the mdx myofibers, showing dystrophin<sup>+ </sup>staining in a small area. <b>(C) </b>A similar picture but with WT MDSCs. <b>(D) </b>The same field as in (C), examined under visible light, confirming the integrity of the myofibers, including the dystrophin<sup>- </sup>area. MDSC, muscle-derived stem cell; mdx, X chromosome-linked muscular dystrophy; WT, wild type; DAPI, 4', 6-diaminido-phenylindole; Mst KO, myostatin knockout.</p>
+               </text>
+               <graphic file="scrt152-9" hint_layout="double"/>
+            </fig>
+            <p>As expected, fat infiltration is visible in the injured aged gastrocnemius from vehicle-injected aged mdx mice, mainly interstitially, but also as Oil Red O<sup>+ </sup>small regions around or inside myofibers (Figure <figr fid="F10">10A</figr> and <figr fid="F10">10B</figr>). WT MDSCs were effective in significantly reducing this fat infiltration by 68%, and Mst KO MDSCs also induced a decrease, although it was not significant (Figure <figr fid="F10">10C</figr>).</p>
+            <fig id="F10">
+               <title>
+                  <p>Figure 10</p>
+               </title>
+               <caption>
+                  <p>The Mst KO MDSCs are less effective than the WT MDSCs in reducing fat deposits in the injured mdx mouse gastrocnemius</p>
+               </caption>
+               <text>
+                  <p><b>The Mst KO MDSCs are less effective than the WT MDSCs in reducing fat deposits in the injured mdx mouse gastrocnemius</b>. <b>(A) </b>Representative picture of a positive field from frozen-tissue sections from the untreated mdx-injured gastrocnemius, adjacent to those shown in Figure 8D, fixed in formalin and stained with Oil Red O, showing mostly interstitial fat and occasional myofiber fat infiltration (200&#215;). <b>(B) </b>Staining of a representative field from sections from the muscle implanted with WT MDSCs; the Mst KO pictures were similar, but the reduction in staining was less marked. <b>(C) </b>Quantitative image analysis of the tissue sections from the three rat groups, based on 12 fields per tissue section and the total positive area per section (percentage), calculated as a mean for three adjacent sections per rat, and five mdx mice/group. *<it>P </it>&lt; 0.05. Mst KO, myostatin knockout; MDSC, muscle-derived stem cell; WT, wild type; mdx, X chromosome-linked muscular dystrophy.</p>
+               </text>
+               <graphic file="scrt152-10" hint_layout="single"/>
+            </fig>
+         </sec>
+      </sec>
+      <sec>
+         <st>
+            <p>Discussion</p>
+         </st>
+         <p>To our knowledge, this is the first report testing the myogenic capacity of MDSCs isolated from transgenic mice with inactivation of the myostatin gene, in comparison to the WT MDSC, both <it>in vitro </it>and in the injured muscle of the aged mdx mice <it>in vivo</it>. Our main findings were (a) in contrast to WT MDSCs, Mst KO MDSCs were unable to form myotubes <it>in vitro</it>, although no major differences were found between both MDSC cultures in terms of morphology, replication rates, expression of most members of a subset of key embryonic-like stem cell and other markers, and nonmyogenic multilineage differentiation; (b) however, a fundamental difference is that the expression of key genes in myogenesis seen in WT MDSCs such as <it>actc1, acta1</it>, and <it>myoD</it>, was virtually obliterated in Mst KO; (c) surprisingly, both types of MDSCs were refractory <it>in vitro </it>to the modulation or induction of myotube formation by well-known regulators of this process, or of myofiber number <it>in vivo</it>, such as demethylating agents, myostatin inhibition or overexpression, or follistatin, although myostatin receptors are expressed in MDSC cultures; (d) the myofiber regeneration and anti-lipofibrotic capacities of WT MDSCs were evident even in the environment of a severely injured mdx gastrocnemius at an age at which lipofibrotic degeneration is considerable; (e) in turn, these capacities, blocked in cell culture, were recovered in Mst KO MDSCs when they were implanted in the injured mdx aged-muscle setting, even if not at the level expected from the supposed paracrine effects triggered in the MDSCs by the absence of myostatin.</p>
+         <p>It should be noted that although notexin-induced injury is not clinically relevant for DMD, it is experimentally convenient by stimulating cell engraftment on implantation and also inducing more lipofibrotic degeneration both in mdx and Mst KO mice <abbrgrp><abbr bid="B56">56</abbr><abbr bid="B57">57</abbr></abbrgrp>, thus providing an adequate environment for testing the MDSC-repair effects. The high variability in the repair response that is often associated with notexin injection was not observed in the current work.</p>
+         <p>The WT MDSC used here as control, fulfill all the criteria that have been extensively defined as potential tools for skeletal muscle, cardiac, and osteogenic repair on implantation into the target organs <abbrgrp><abbr bid="B29">29</abbr><abbr bid="B34">34</abbr></abbrgrp>. In the current work, MDSCs were isolated as the pP6 fraction by using a modification of the extensively validated preplating procedure on collagen-coated flasks and Sca1 selection, and shown to have the expected morphology, rapid replication for at least 50 passages, express MDSC markers such as Sca1, CD44, and CD34, and the stem cell gene Oct 4, and the ability to differentiate <it>in vitro </it>into multiple cell lineages. The latter capability includes a robust formation of multinucleated and branched myotubes that is assumed to translate <it>in vivo </it>into their ability to donate their nuclei to injured skeletal myofibers or most likely to stimulate paracrinely their regeneration through paracrine trophic effects <abbrgrp><abbr bid="B32">32</abbr><abbr bid="B33">33</abbr><abbr bid="B34">34</abbr></abbrgrp>. This is evidenced by a much higher number of centrally located nuclei, and even some central location of the DAPI-labeled implanted nuclei. In previous studies, we showed that WT MDSC generate at least smooth muscle and epithelial cells when implanted into urogenital tissues <abbrgrp><abbr bid="B27">27</abbr><abbr bid="B28">28</abbr></abbrgrp>, adding to the extensive demonstration of their stem cell nature <abbrgrp><abbr bid="B7">7</abbr><abbr bid="B12">12</abbr><abbr bid="B26">26</abbr><abbr bid="B58">58</abbr></abbrgrp> related to their putative origin as myoendothelial stem cells in the muscle and other tissues <abbrgrp><abbr bid="B59">59</abbr></abbrgrp>.</p>
+         <p>Another novel finding here is that WT MDSCs have some embryonic-like stem cell features, mainly the expression of nuclear <it>Oct 4 A, myc, LIF</it>, and other embryonic stem cell genes. <it>Oct 4 </it>is a key not only for embryonic stem cell programming, but also for iPS generation, where it can act virtually by itself <abbrgrp><abbr bid="B60">60</abbr></abbrgrp>. Our MDSC cultures contain some tiny rounded cells similar to the very small embryonic-like stem cells (VSELs) described in many adult organs <abbrgrp><abbr bid="B61">61</abbr></abbrgrp>, and other larger ones.</p>
+         <p>An important finding is the unexpected observation that myotube formation by the WT MDSCs <it>in vitro </it>is refractory to modulation by agents that are well known to affect this process, or skeletal muscle mass <it>in vivo</it>. The fact that myotube formation by WT MDSCs was not influenced by (a) demethylating agents like azacytidine that stimulate 'stemness" in cell lines <abbrgrp><abbr bid="B51">51</abbr></abbrgrp>; (b) downregulation or overexpression of myostatin, despite the detectable expression of its receptor (ActIIb); (c) counteracting myostatin activity by the respective antibodies or follistatin, that <it>in vivo </it>stimulate myofiber growth <abbrgrp><abbr bid="B17">17</abbr><abbr bid="B19">19</abbr><abbr bid="B20">20</abbr></abbrgrp>; poses questions related to the role of MDSCs during normal myogenesis. A study showing that myostatin stimulated fibroblast proliferation <it>in vitro </it>and induced its differentiation into myofibroblasts, while increasing TGF-&#946;1 expression in C2C12 myoblasts, did not examine MDSC differentiation <abbrgrp><abbr bid="B12">12</abbr></abbrgrp>. The claim of a small inhibitory effect of myostatin on the fusion index in MDSCs <abbrgrp><abbr bid="B58">58</abbr></abbrgrp> may indicate less fusion efficiency but might not entirely reflect the actual effects on the number and size of myotubes, as determined here. This question requires further clarification in terms of the actual modulation of MDSC differentiation.</p>
+         <p>It may be speculated that satellite cells rather than MDSCs are the only myogenic progenitors during normal myofiber growth, as opposed to repair of damaged fibers <abbrgrp><abbr bid="B62">62</abbr></abbrgrp>. Therefore the selected <it>in vitro </it>conditions may not mimic the repair process, or alternatively, unknown <it>in vivo </it>paracrine or juxtacrine modulators may modify the response of MDSCs to the better-characterized agents tested in this work. Another possibility is that myostatin and other modulators investigated here would stimulate <it>in vivo </it>satellite cell replication and fusion to the adjacent myofibers to induce hypertrophy, without truly affecting MDSC differentiation or fusion.</p>
+         <p>We are unaware of any report on the isolation or characterization of MDSCs from the Mst KO. Therefore, it is also both novel and unexpected to find that these cells obtained from the same skeletal muscles as the WT MDSCs, by using identical procedures, and displaying rather similar nonmyogenic pluripotency and stem cell-marker features, are however completely unable to form myotubes <it>in vitro</it>. In fact, our prediction was that the Mst KO MDSCs should be more myogenic than the WT MDSCs because of the absence of the myogenic inhibitor myostatin, The fact that Mst replenishment, either as recombinant protein or as cDNA, does not counteract the unexpected myogenic blockade found in the Mst KO MDSCs, suggests speculatively that these cells have been imprinted in the embryo by the myostatin genetic inactivation through downstream pathways that have become unresponsive to the <it>in vitro </it>myostatin modulation that we explored here. This may involve genes in other myogenic pathways whose expression may be altered, as we observed in Mst KO MDSCs. However, validation of this assumption requires further investigation.</p>
+         <p>An interesting corollary is the activation of the <it>in vitro</it>-suppressed myogenesis in Mst KO MDSCs, and/or their ability to fuse with preexisting myofibers, after their implantation into the notexin-injured mdx gastrocnemius. At the age selected (10 months), this muscle experiences the considerable damage that occurs in the diaphragm much earlier <abbrgrp><abbr bid="B3">3</abbr><abbr bid="B4">4</abbr></abbrgrp>, and this is compounded by injury. It may be speculated that the restoration of myotube (myofiber) formation by Mst KO MDSCs in this setting occurs by paracrine or juxtacrine modulation, possibly of some of the key genes silenced in these cells. Estimation of their products and proof-of-function approaches may elucidate this issue. The fact that although Mst KO MDSCs are able to fuse with or differentiate into new myofibers, they do not increase the muscle-repair process in a clearly more efficient way than do WT MDSCs, may possibly result from the persistent myostatin expression in the fibers that may counteract its absence in Mst KO MDSCs. This suggests the need to block myostatin systemically in the host muscle <abbrgrp><abbr bid="B63">63</abbr><abbr bid="B64">64</abbr></abbrgrp>, not just in the implanted MDSCs, and our findings do not contradict the potential use of this approach</p>
+         <p>One of the genes that may be involved in the silencing of Mst KO MDSC myogenesis <it>in vitro </it>and its reactivation <it>in vivo </it>is the cardiac &#945;-actin (<it>Actc</it>), the major striated actin in fetal skeletal muscle and in adult cardiomyocytes, but strongly downregulated in adult skeletal muscle to 5% of the total striated actin <abbrgrp><abbr bid="B65">65</abbr></abbrgrp>, and whose mRNA is highly expressed in the proliferating (nondifferentiating) WT MDSCs but at very low level in the Mst KO MDSCs. The same applies to the &#945;1-actin (<it>Acta1</it>) mRNA, the adult protein encoding thin filaments <abbrgrp><abbr bid="B66">66</abbr></abbrgrp>. Because actins are so crucial for cell division, motility, cytoskeleton, and contraction, and mutations are associated with severe myopathies, it would not be surprising that their downregulation could cause the lack of myogenic commitment <it>in vitro </it>in Mst KO.</p>
+         <p>Similarly, the striking transcriptional downregulation of <it>myoD</it>, a critical early gene in skeletal myogenesis <abbrgrp><abbr bid="B67">67</abbr></abbrgrp>, confirmed at the protein level, and of secreted phosphoprotein 1, or osteopontin, a gene mostly involved in ossification, inflammation, and fibrosis, but postulated recently to participate in early myogenesis and skeletal muscle regeneration <abbrgrp><abbr bid="B68">68</abbr></abbrgrp>, may also trigger the absence of myogenic capacity in Mst KO. Interestingly, the fact that <it>Pax 3 </it>mRNA, upstream of MyoD in the myogenic signaling <abbrgrp><abbr bid="B69">69</abbr></abbrgrp> is expressed in Mst KO MDSCs at higher levels than in WT MDSCs, suggests that the myogenic commitment of Mst KO and mdx MDSC is arrested at some point between these genes. Because a critical regulator of skeletal muscle development, <it>Mef2a </it>(myocyte enhancer factor 2a) <abbrgrp><abbr bid="B70">70</abbr></abbrgrp>, is expressed similarly in both MDSCs (as is <it>Pax 3</it>), albeit at very low levels, the silencing may occur at the level of the satellite cell marker, <it>Pax 7</it>. Therefore, it is not surprising that expression of a member of the cadherin family (cadherin-15) that is involved in later stages, such as myoblast differentiation and fusion <abbrgrp><abbr bid="B71">71</abbr></abbrgrp>, is so downregulated in Mst KO MDSCs.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Conclusions</p>
+         </st>
+         <p>Our results show that MDSCs obtained from wild-type and Mst KO mice lacking myostatin express <it>Oct 4 </it>and other embryonic-like stem cell genes and appear similar in most features, except for the null or poor expression in Mst KO MDSCs of some critical early genes. These genes encode factors critical for myogenesis and for maintaining the integrity of myotubes and myofibers, thus possibly leading to their inability to form myotubes <it>in vitro</it>. The cross-talk of Mst KO MDSCs with myofibers and other cell types in the host injured mdx muscle may release the pertinent gene silencing and restore the typical myogenic ability of the MDSCs. Although our results do not prove the initial working hypothesis that myostatin inactivation would enhance the myogenic capacity of MDSCs, this possibility still needs further <it>in vivo </it>testing by blocking myostatin, not just in the implanted MDSCs, but also in the host muscle with follistatin, shRNA, antibodies, or other procedures. Finally, systemic muscle-targeted WT MDSC implantation that was previously shown as a promising approach to stimulate repair in the adult dystrophic muscle <abbrgrp><abbr bid="B5">5</abbr><abbr bid="B12">12</abbr><abbr bid="B45">45</abbr><abbr bid="B46">46</abbr></abbrgrp>, may even be effective in the setting of an injured aged dystrophic skeletal muscle with severe bouts of necrosis <abbrgrp><abbr bid="B4">4</abbr></abbrgrp>.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Abbreviations</p>
+         </st>
+         <p>AdV-CMV-Mst375: adenovirus construct expressing the mouse myostatin full-length cDNA under the CMV promoter; AdV-Mst shRNA: shRNA against myostatin RNA; ASMA: &#945;-smooth muscle actin; DMD: Duchenne muscular dystrophy; MDSC: muscle-derived stem cell; Mst KO: myostatin knockout mouse; QIA: quantitative image analysis; TGF-&#946;1: transforming growth factor &#946;1; VSEL: very small embryonic-like stem cell; WT: wild-type mouse.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Competing interests</p>
+         </st>
+         <p>The authors declare that they have no competing interests.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Authors' contributions</p>
+         </st>
+         <p>NGC conceived and designed the study; JT, DV, RG, IK, GN, and KWB performed and executed the experiments; NGC prepared the manuscript. All authors read, revised, and approved the final manuscript.</p>
+      </sec>
+   </bdy>
+   <bm>
+      <ack>
+         <sec>
+            <st>
+               <p>Acknowledgements</p>
+            </st>
+            <p>This work was supported by DOD W81XWH-07-1-0181 grant, and partially by an NIH R21DK-070003 grant.</p>
+         </sec>
+      </ack>
+      <refgrp>
+         <bibl id="B1">
+            <title>
+               <p>Endomysial fibrosis in Duchenne muscular dystrophy: a marker of poor outcome associated with macrophage alternative activation</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Desguerre</snm>
+                  <fnm>I</fnm>
+               </au>
+               <au>
+                  <snm>Mayer</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Leturcq</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Barbet</snm>
+                  <fnm>JP</fnm>
+               </au>
+               <au>
+                  <snm>Gherardi</snm>
+                  <fnm>RK</fnm>
+               </au>
+               <au>
+                  <snm>Christov</snm>
+                  <fnm>C</fnm>
+               </au>
+            </aug>
+            <source>J Neuropathol Exp Neurol</source>
+            <pubdate>2009</pubdate>
+            <volume>68</volume>
+            <fpage>762</fpage>
+            <lpage>773</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1097/NEN.0b013e3181aa31c2</pubid>
+                  <pubid idtype="pmpid" link="fulltext">19535995</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B2">
+            <title>
+               <p>Connective tissue growth factor is overexpressed in muscles of human muscular dystrophy</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Sun</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Haginoya</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Wu</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Chiba</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Nakanishi</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Onuma</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Sato</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Takigawa</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Iinuma</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Tsuchiya</snm>
+                  <fnm>S</fnm>
+               </au>
+            </aug>
+            <source>J Neurol Sci</source>
+            <pubdate>2008</pubdate>
+            <volume>267</volume>
+            <fpage>48</fpage>
+            <lpage>56</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.jns.2007.09.043</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17996907</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B3">
+            <title>
+               <p>Mdx respiratory impairment following fibrosis of the diaphragm</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Ishizaki</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Suga</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Kimura</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Shiota</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Kawano</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Uchida</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Uchino</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Yamashita</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Maeda</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Uchino</snm>
+                  <fnm>M</fnm>
+               </au>
+            </aug>
+            <source>Neuromuscul Disord</source>
+            <pubdate>2008</pubdate>
+            <volume>18</volume>
+            <fpage>342</fpage>
+            <lpage>348</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.nmd.2008.02.002</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18358722</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B4">
+            <title>
+               <p>Implication of the satellite cell in dystrophic muscle fibrosis: a self-perpetuating mechanism of collagen overproduction</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Alexakis</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Partridge</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Bou-Gharios</snm>
+                  <fnm>G</fnm>
+               </au>
+            </aug>
+            <source>Am J Physiol Cell Physiol</source>
+            <pubdate>2007</pubdate>
+            <volume>293</volume>
+            <fpage>C661</fpage>
+            <lpage>C669</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1152/ajpcell.00061.2007</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17475662</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B5">
+            <title>
+               <p>Imatinib attenuates skeletal muscle dystrophy in mdx mice</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Huang</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Zhao</snm>
+                  <fnm>XS</fnm>
+               </au>
+               <au>
+                  <snm>Fields</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Ransohoff</snm>
+                  <fnm>RM</fnm>
+               </au>
+               <au>
+                  <snm>Zhou</snm>
+                  <fnm>L</fnm>
+               </au>
+            </aug>
+            <source>FASEB J</source>
+            <pubdate>2009</pubdate>
+            <volume>23</volume>
+            <fpage>2539</fpage>
+            <lpage>2548</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1096/fj.09-129833</pubid>
+                  <pubid idtype="pmcid">2717779</pubid>
+                  <pubid idtype="pmpid" link="fulltext">19289603</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B6">
+            <title>
+               <p>Muscle damage in mdx (dystrophic) mice: role of calcium and reactive oxygen species</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Whitehead</snm>
+                  <fnm>NP</fnm>
+               </au>
+               <au>
+                  <snm>Yeung</snm>
+                  <fnm>EW</fnm>
+               </au>
+               <au>
+                  <snm>Allen</snm>
+                  <fnm>DG</fnm>
+               </au>
+            </aug>
+            <source>Clin Exp Pharmacol Physiol</source>
+            <pubdate>2006</pubdate>
+            <volume>33</volume>
+            <fpage>657</fpage>
+            <lpage>662</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1111/j.1440-1681.2006.04394.x</pubid>
+                  <pubid idtype="pmpid" link="fulltext">16789936</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B7">
+            <title>
+               <p>Effect of VEGF on the regenerative capacity of muscle stem cells in dystrophic skeletal muscle</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Deasy</snm>
+                  <fnm>BM</fnm>
+               </au>
+               <au>
+                  <snm>Feduska</snm>
+                  <fnm>JM</fnm>
+               </au>
+               <au>
+                  <snm>Payne</snm>
+                  <fnm>TR</fnm>
+               </au>
+               <au>
+                  <snm>Li</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Ambrosio</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Huard</snm>
+                  <fnm>J</fnm>
+               </au>
+            </aug>
+            <source>Mol Ther</source>
+            <pubdate>2009</pubdate>
+            <volume>17</volume>
+            <fpage>1788</fpage>
+            <lpage>1798</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/mt.2009.136</pubid>
+                  <pubid idtype="pmcid">2835014</pubid>
+                  <pubid idtype="pmpid" link="fulltext">19603004</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B8">
+            <title>
+               <p>Targeting myostatin for therapies against muscle-wasting disorders</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Tsuchida</snm>
+                  <fnm>K</fnm>
+               </au>
+            </aug>
+            <source>Curr Opin Drug Discov Devel</source>
+            <pubdate>2008</pubdate>
+            <volume>11</volume>
+            <fpage>487</fpage>
+            <lpage>494</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid">18600566</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B9">
+            <title>
+               <p>Myostatin directly regulates skeletal muscle fibrosis</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Li</snm>
+                  <fnm>ZB</fnm>
+               </au>
+               <au>
+                  <snm>Kollias</snm>
+                  <fnm>HD</fnm>
+               </au>
+               <au>
+                  <snm>Wagner</snm>
+                  <fnm>KR</fnm>
+               </au>
+            </aug>
+            <source>J Biol Chem</source>
+            <pubdate>2008</pubdate>
+            <volume>283</volume>
+            <fpage>19371</fpage>
+            <lpage>19378</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1074/jbc.M802585200</pubid>
+                  <pubid idtype="pmcid">2443655</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18453534</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B10">
+            <title>
+               <p>Profibrotic role of myostatin in Peyronie's disease</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Cantini</snm>
+                  <fnm>LP</fnm>
+               </au>
+               <au>
+                  <snm>Ferrini</snm>
+                  <fnm>MG</fnm>
+               </au>
+               <au>
+                  <snm>Vernet</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Magee</snm>
+                  <fnm>TR</fnm>
+               </au>
+               <au>
+                  <snm>Qian</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Gelfand</snm>
+                  <fnm>RA</fnm>
+               </au>
+               <au>
+                  <snm>Rajfer</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Gonzalez-Cadavid</snm>
+                  <fnm>NF</fnm>
+               </au>
+            </aug>
+            <source>J Sex Med</source>
+            <pubdate>2008</pubdate>
+            <volume>5</volume>
+            <fpage>1607</fpage>
+            <lpage>1622</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1111/j.1743-6109.2008.00847.x</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18422491</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B11">
+            <title>
+               <p>Myostatin promotes a fibrotic phenotypic switch in multipotent C3H 10T1/2 cells without affecting their differentiation into myofibroblasts</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Artaza</snm>
+                  <fnm>JN</fnm>
+               </au>
+               <au>
+                  <snm>Singh</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Ferrini</snm>
+                  <fnm>MG</fnm>
+               </au>
+               <au>
+                  <snm>Braga</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Tsao</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Gonzalez-Cadavid</snm>
+                  <fnm>NF</fnm>
+               </au>
+            </aug>
+            <source>J Endocrinol</source>
+            <pubdate>2008</pubdate>
+            <volume>196</volume>
+            <fpage>235</fpage>
+            <lpage>249</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1677/JOE-07-0408</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18252947</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B12">
+            <title>
+               <p>Relationships between transforming growth factor-beta1, myostatin, and decorin: implications for skeletal muscle fibrosis</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Zhu</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Li</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Shen</snm>
+                  <fnm>W</fnm>
+               </au>
+               <au>
+                  <snm>Qiao</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Ambrosio</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Lavasani</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Nozaki</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Branca</snm>
+                  <fnm>MF</fnm>
+               </au>
+               <au>
+                  <snm>Huard</snm>
+                  <fnm>J</fnm>
+               </au>
+            </aug>
+            <source>J Biol Chem</source>
+            <pubdate>2007</pubdate>
+            <volume>282</volume>
+            <fpage>25852</fpage>
+            <lpage>25863</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1074/jbc.M704146200</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17597062</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B13">
+            <title>
+               <p>Myostatin inhibition in muscle, but not adipose tissue, decreases fat mass and improves insulin sensitivity</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Guo</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Jou</snm>
+                  <fnm>W</fnm>
+               </au>
+               <au>
+                  <snm>Chanturiya</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Portas</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Gavrilova</snm>
+                  <fnm>O</fnm>
+               </au>
+               <au>
+                  <snm>McPherron</snm>
+                  <fnm>AC</fnm>
+               </au>
+            </aug>
+            <source>PLoS One</source>
+            <pubdate>2009</pubdate>
+            <volume>4</volume>
+            <fpage>e4937</fpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1371/journal.pone.0004937</pubid>
+                  <pubid idtype="pmcid">2654157</pubid>
+                  <pubid idtype="pmpid" link="fulltext">19295913</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B14">
+            <title>
+               <p>Myostatin inhibits myogenesis and promotes adipogenesis in C3H 10T(1/2) mesenchymal multipotent cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Artaza</snm>
+                  <fnm>JN</fnm>
+               </au>
+               <au>
+                  <snm>Bhasin</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Magee</snm>
+                  <fnm>TR</fnm>
+               </au>
+               <au>
+                  <snm>Reisz-Porszasz</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Shen</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Groome</snm>
+                  <fnm>NP</fnm>
+               </au>
+               <au>
+                  <snm>Meerasahib</snm>
+                  <fnm>MF</fnm>
+               </au>
+               <au>
+                  <snm>Gonzalez-Cadavid</snm>
+                  <fnm>NF</fnm>
+               </au>
+            </aug>
+            <source>Endocrinology</source>
+            <pubdate>2005</pubdate>
+            <volume>146</volume>
+            <fpage>3547</fpage>
+            <lpage>3557</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1210/en.2005-0362</pubid>
+                  <pubid idtype="pmpid" link="fulltext">15878958</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B15">
+            <title>
+               <p>Systemic myostatin inhibition via liver-targeted gene transfer in normal and dystrophic mice</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Morine</snm>
+                  <fnm>KJ</fnm>
+               </au>
+               <au>
+                  <snm>Bish</snm>
+                  <fnm>LT</fnm>
+               </au>
+               <au>
+                  <snm>Pendrak</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Sleeper</snm>
+                  <fnm>MM</fnm>
+               </au>
+               <au>
+                  <snm>Barton</snm>
+                  <fnm>ER</fnm>
+               </au>
+               <au>
+                  <snm>Sweeney</snm>
+                  <fnm>HL</fnm>
+               </au>
+            </aug>
+            <source>PLoS One</source>
+            <pubdate>2010</pubdate>
+            <volume>5</volume>
+            <fpage>e9176</fpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1371/journal.pone.0009176</pubid>
+                  <pubid idtype="pmcid">2820101</pubid>
+                  <pubid idtype="pmpid" link="fulltext">20161803</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B16">
+            <title>
+               <p>Combination of myostatin pathway interference and dystrophin rescue enhances tetanic and specific force in dystrophic mdx mice</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Dumonceaux</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Marie</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Beley</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Trollet</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Vignaud</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Ferry</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Butler-Browne</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Garcia</snm>
+                  <fnm>L</fnm>
+               </au>
+            </aug>
+            <source>Mol Ther</source>
+            <pubdate>2010</pubdate>
+            <volume>18</volume>
+            <fpage>881</fpage>
+            <lpage>887</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/mt.2009.322</pubid>
+                  <pubid idtype="pmcid">2890116</pubid>
+                  <pubid idtype="pmpid" link="fulltext">20104211</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B17">
+            <title>
+               <p>Myostatin inhibition by a follistatin-derived peptide ameliorates the pathophysiology of muscular dystrophy model mice</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Tsuchida</snm>
+                  <fnm>K</fnm>
+               </au>
+            </aug>
+            <source>Acta Myol</source>
+            <pubdate>2008</pubdate>
+            <volume>27</volume>
+            <fpage>14</fpage>
+            <lpage>18</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="pmcid">2859604</pubid>
+                  <pubid idtype="pmpid">19108572</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B18">
+            <title>
+               <p>Myostatin short interfering hairpin RNA gene transfer increases skeletal muscle mass</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Magee</snm>
+                  <fnm>TR</fnm>
+               </au>
+               <au>
+                  <snm>Artaza</snm>
+                  <fnm>JN</fnm>
+               </au>
+               <au>
+                  <snm>Ferrini</snm>
+                  <fnm>MG</fnm>
+               </au>
+               <au>
+                  <snm>Vernet</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Zuniga</snm>
+                  <fnm>FI</fnm>
+               </au>
+               <au>
+                  <snm>Cantini</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Reisz-Porszasz</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Rajfer</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Gonzalez-Cadavid</snm>
+                  <fnm>NF</fnm>
+               </au>
+            </aug>
+            <source>J Gene Med</source>
+            <pubdate>2006</pubdate>
+            <volume>8</volume>
+            <fpage>1171</fpage>
+            <lpage>1181</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1002/jgm.946</pubid>
+                  <pubid idtype="pmpid" link="fulltext">16810717</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B19">
+            <title>
+               <p>AAV-dependent targeting of myostatin function: follistatin strikes back at muscular dystrophy</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Colussi</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Gaetano</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Capogrossi</snm>
+                  <fnm>MC</fnm>
+               </au>
+            </aug>
+            <source>Gene Ther</source>
+            <pubdate>2008</pubdate>
+            <volume>15</volume>
+            <fpage>1075</fpage>
+            <lpage>1076</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/gt.2008.95</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18528431</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B20">
+            <title>
+               <p>Transgenic expression of a myostatin inhibitor derived from follistatin increases skeletal muscle mass and ameliorates dystrophic pathology in mdx mice</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Nakatani</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Takehara</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Sugino</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Matsumoto</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Hashimoto</snm>
+                  <fnm>O</fnm>
+               </au>
+               <au>
+                  <snm>Hasegawa</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Murakami</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Uezumi</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Takeda</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Noji</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Sunada</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Tsuchida</snm>
+                  <fnm>K</fnm>
+               </au>
+            </aug>
+            <source>FASEB J</source>
+            <pubdate>2008</pubdate>
+            <volume>22</volume>
+            <fpage>477</fpage>
+            <lpage>487</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid" link="fulltext">17893249</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B21">
+            <title>
+               <p>Improved muscle healing through enhanced regeneration and reduced fibrosis in myostatin-null mice</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>McCroskery</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Thomas</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Platt</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Hennebry</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Nishimura</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>McLeay</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Sharma</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Kambadur</snm>
+                  <fnm>R</fnm>
+               </au>
+            </aug>
+            <source>J Cell Sci</source>
+            <pubdate>2005</pubdate>
+            <volume>118</volume>
+            <fpage>3531</fpage>
+            <lpage>3541</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1242/jcs.02482</pubid>
+                  <pubid idtype="pmpid" link="fulltext">16079293</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B22">
+            <title>
+               <p>Inhibition of myostatin protects against diet-induced obesity by enhancing fatty acid oxidation and promoting a brown adipose phenotype in mice</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Zhang</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>McFarlane</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Lokireddy</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Masuda</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Ge</snm>
+                  <fnm>X</fnm>
+               </au>
+               <au>
+                  <snm>Gluckman</snm>
+                  <fnm>PD</fnm>
+               </au>
+               <au>
+                  <snm>Sharma</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Kambadur</snm>
+                  <fnm>R</fnm>
+               </au>
+            </aug>
+            <source>Diabetologia</source>
+            <pubdate>2012</pubdate>
+            <volume>55</volume>
+            <fpage>183</fpage>
+            <lpage>193</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1007/s00125-011-2304-4</pubid>
+                  <pubid idtype="pmpid" link="fulltext">21927895</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B23">
+            <title>
+               <p>Increased energy expenditure and leptin sensitivity account for low fat mass in myostatin-deficient mice</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Choi</snm>
+                  <fnm>SJ</fnm>
+               </au>
+               <au>
+                  <snm>Yablonka-Reuveni</snm>
+                  <fnm>Z</fnm>
+               </au>
+               <au>
+                  <snm>Kaiyala</snm>
+                  <fnm>KJ</fnm>
+               </au>
+               <au>
+                  <snm>Ogimoto</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Schwartz</snm>
+                  <fnm>MW</fnm>
+               </au>
+               <au>
+                  <snm>Wisse</snm>
+                  <fnm>BE</fnm>
+               </au>
+            </aug>
+            <source>Am J Physiol Endocrinol Metab</source>
+            <pubdate>2011</pubdate>
+            <volume>300</volume>
+            <fpage>E1031</fpage>
+            <lpage>E1037</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1152/ajpendo.00656.2010</pubid>
+                  <pubid idtype="pmcid">3118591</pubid>
+                  <pubid idtype="pmpid" link="fulltext">21427410</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B24">
+            <title>
+               <p>Repairing skeletal muscle: regenerative potential of skeletal muscle stem cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Tedesco</snm>
+                  <fnm>FS</fnm>
+               </au>
+               <au>
+                  <snm>Dellavalle</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Diaz-Manera</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Messina</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Cossu</snm>
+                  <fnm>G</fnm>
+               </au>
+            </aug>
+            <source>J Clin Invest</source>
+            <pubdate>2010</pubdate>
+            <volume>120</volume>
+            <fpage>11</fpage>
+            <lpage>19</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1172/JCI40373</pubid>
+                  <pubid idtype="pmcid">2798695</pubid>
+                  <pubid idtype="pmpid" link="fulltext">20051632</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B25">
+            <title>
+               <p>Muscle stem cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Relaix</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Marcelle</snm>
+                  <fnm>C</fnm>
+               </au>
+            </aug>
+            <source>Curr Opin Cell Biol</source>
+            <pubdate>2009</pubdate>
+            <volume>21</volume>
+            <fpage>748</fpage>
+            <lpage>753</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.ceb.2009.10.002</pubid>
+                  <pubid idtype="pmpid" link="fulltext">19932015</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B26">
+            <title>
+               <p>Stem cells for the treatment of skeletal muscle injury</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Quintero</snm>
+                  <fnm>AJ</fnm>
+               </au>
+               <au>
+                  <snm>Wright</snm>
+                  <fnm>VJ</fnm>
+               </au>
+               <au>
+                  <snm>Fu</snm>
+                  <fnm>FH</fnm>
+               </au>
+               <au>
+                  <snm>Huard</snm>
+                  <fnm>J</fnm>
+               </au>
+            </aug>
+            <source>Clin Sports Med</source>
+            <pubdate>2009</pubdate>
+            <volume>28</volume>
+            <fpage>1</fpage>
+            <lpage>11</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.csm.2008.08.009</pubid>
+                  <pubid idtype="pmcid">2630112</pubid>
+                  <pubid idtype="pmpid" link="fulltext">19064161</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B27">
+            <title>
+               <p>Stimulating vaginal repair in rats through skeletal muscle-derived stem cells seeded on small intestinal submucosal scaffolds</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Ho</snm>
+                  <fnm>MH</fnm>
+               </au>
+               <au>
+                  <snm>Heydarkhan</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Vernet</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Kovanecz</snm>
+                  <fnm>I</fnm>
+               </au>
+               <au>
+                  <snm>Ferrini</snm>
+                  <fnm>MG</fnm>
+               </au>
+               <au>
+                  <snm>Bhatia</snm>
+                  <fnm>NN</fnm>
+               </au>
+               <au>
+                  <snm>Gonzalez-Cadavid</snm>
+                  <fnm>NF</fnm>
+               </au>
+            </aug>
+            <source>Obstet Gynecol</source>
+            <pubdate>2009</pubdate>
+            <volume>114</volume>
+            <fpage>300</fpage>
+            <lpage>309</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1097/AOG.0b013e3181af6abd</pubid>
+                  <pubid idtype="pmcid">3217318</pubid>
+                  <pubid idtype="pmpid">19622991</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B28">
+            <title>
+               <p>Effect of muscle-derived stem cells on the restoration of corpora cavernosa smooth muscle and erectile function in the aged rat</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Nolazco</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Kovanecz</snm>
+                  <fnm>I</fnm>
+               </au>
+               <au>
+                  <snm>Vernet</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Gelfand</snm>
+                  <fnm>RA</fnm>
+               </au>
+               <au>
+                  <snm>Tsao</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Ferrini</snm>
+                  <fnm>MG</fnm>
+               </au>
+               <au>
+                  <snm>Magee</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Rajfer</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Gonzalez-Cadavid</snm>
+                  <fnm>NF</fnm>
+               </au>
+            </aug>
+            <source>BJU Int</source>
+            <pubdate>2008</pubdate>
+            <volume>101</volume>
+            <fpage>1156</fpage>
+            <lpage>1164</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1111/j.1464-410X.2008.07507.x</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18294308</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B29">
+            <title>
+               <p>Separate or combined treatments with daily sildenafil, molsidomine, or muscle-derived stem cells prevent erectile dysfunction in a rat model of cavernosal nerve damage</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Kovanecz</snm>
+                  <fnm>I</fnm>
+               </au>
+               <au>
+                  <snm>Rivera</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Nolazco</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Vernet</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Segura</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Gharib</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Rajfer</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Gonzalez-Cadavid</snm>
+                  <fnm>NF</fnm>
+               </au>
+            </aug>
+            <source>J Sex Med</source>
+            <pubdate>2012</pubdate>
+            <volume>9</volume>
+            <fpage>2814</fpage>
+            <lpage>2826</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1111/j.1743-6109.2012.02913.x</pubid>
+                  <pubid idtype="pmpid" link="fulltext">22974131</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B30">
+            <title>
+               <p>Effects of sildenafil and/or muscle derived stem cells on myocardial infarction</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Wang</snm>
+                  <fnm>JS</fnm>
+               </au>
+               <au>
+                  <snm>Kovanecz</snm>
+                  <fnm>I</fnm>
+               </au>
+               <au>
+                  <snm>Vernet</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Nolazco</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Kopchok</snm>
+                  <fnm>GE</fnm>
+               </au>
+               <au>
+                  <snm>Chow</snm>
+                  <fnm>SL</fnm>
+               </au>
+               <au>
+                  <snm>White</snm>
+                  <fnm>RA</fnm>
+               </au>
+               <au>
+                  <snm>Gonzalez-Cadavid</snm>
+                  <fnm>NF</fnm>
+               </au>
+            </aug>
+            <source>J Transl Med</source>
+            <pubdate>2012</pubdate>
+            <volume>10</volume>
+            <fpage>159</fpage>
+            <lpage>169</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1186/1479-5876-10-159</pubid>
+                  <pubid idtype="pmcid">3476974</pubid>
+                  <pubid idtype="pmpid" link="fulltext">22871104</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B31">
+            <title>
+               <p>Skeletal muscle-derived progenitors capable of differentiating into cardiomyocytes proliferate through myostatin-independent TGF-beta family signaling</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Nomura</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Ueyama</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Ashihara</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Tateishi</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Asada</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Nakajima</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Isodono</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Takahashi</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Matsubara</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Oh</snm>
+                  <fnm>H</fnm>
+               </au>
+            </aug>
+            <source>Biochem Biophys Res Commun</source>
+            <pubdate>2008</pubdate>
+            <volume>365</volume>
+            <fpage>863</fpage>
+            <lpage>869</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.bbrc.2007.11.087</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18047832</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B32">
+            <title>
+               <p>Terminal differentiation is not a major determinant for the success of stem cell therapy: cross-talk between muscle-derived stem cells and host cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Gharaibeh</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Lavasani</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Cummins</snm>
+                  <fnm>JH</fnm>
+               </au>
+               <au>
+                  <snm>Huard</snm>
+                  <fnm>J</fnm>
+               </au>
+            </aug>
+            <source>Stem Cell Res Ther</source>
+            <pubdate>2011</pubdate>
+            <volume>2</volume>
+            <fpage>31</fpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1186/scrt72</pubid>
+                  <pubid idtype="pmcid">3219062</pubid>
+                  <pubid idtype="pmpid" link="fulltext">21745421</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B33">
+            <title>
+               <p>Mesenchymal progenitor cells derived from traumatized muscle enhance neurite growth</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Jackson</snm>
+                  <fnm>WM</fnm>
+               </au>
+               <au>
+                  <snm>Alexander</snm>
+                  <fnm>PG</fnm>
+               </au>
+               <au>
+                  <snm>Bulken-Hoover</snm>
+                  <fnm>JD</fnm>
+               </au>
+               <au>
+                  <snm>Vogler</snm>
+                  <fnm>JA</fnm>
+               </au>
+               <au>
+                  <snm>Ji</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>McKay</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Nesti</snm>
+                  <fnm>LJ</fnm>
+               </au>
+               <au>
+                  <snm>Tuan</snm>
+                  <fnm>RS</fnm>
+               </au>
+            </aug>
+            <source>J Tissue Eng Regen Med</source>
+            <pubdate>2012</pubdate>
+            <inpress/>
+            <note>doi: 10.1002/term.539</note>
+         </bibl>
+         <bibl id="B34">
+            <title>
+               <p>Intramuscular transplantation of muscle-derived stem cells accelerates skeletal muscle healing after contusion injury via enhancement of angiogenesis</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Ota</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Uehara</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Nozaki</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Kobayashi</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Terada</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Tobita</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Fu</snm>
+                  <fnm>FH</fnm>
+               </au>
+               <au>
+                  <snm>Huard</snm>
+                  <fnm>J</fnm>
+               </au>
+            </aug>
+            <source>Am J Sports Med</source>
+            <pubdate>2011</pubdate>
+            <volume>39</volume>
+            <fpage>1912</fpage>
+            <lpage>1922</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1177/0363546511415239</pubid>
+                  <pubid idtype="pmpid" link="fulltext">21828363</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B35">
+            <title>
+               <p>Myostatin promotes the terminal differentiation of embryonic muscle progenitors</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Manceau</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Gros</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Savage</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Thom&#233;</snm>
+                  <fnm>V</fnm>
+               </au>
+               <au>
+                  <snm>McPherron</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Paterson</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Marcelle</snm>
+                  <fnm>C</fnm>
+               </au>
+            </aug>
+            <source>Genes Dev</source>
+            <pubdate>2008</pubdate>
+            <volume>22</volume>
+            <fpage>668</fpage>
+            <lpage>681</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1101/gad.454408</pubid>
+                  <pubid idtype="pmcid">2259035</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18316481</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B36">
+            <title>
+               <p>The effects of myostatin on adipogenic differentiation of human bone marrow-derived mesenchymal stem cells are mediated through cross-communication between Smad3 and Wnt/beta-catenin signaling pathways</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Guo</snm>
+                  <fnm>W</fnm>
+               </au>
+               <au>
+                  <snm>Flanagan</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Jasuja</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Kirkland</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Jiang</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Bhasin</snm>
+                  <fnm>S</fnm>
+               </au>
+            </aug>
+            <source>J Biol Chem</source>
+            <pubdate>2008</pubdate>
+            <volume>283</volume>
+            <fpage>9136</fpage>
+            <lpage>9145</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1074/jbc.M708968200</pubid>
+                  <pubid idtype="pmcid">2431017</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18203713</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B37">
+            <title>
+               <p>Loss of myostatin (GDF8) function increases osteogenic differentiation of bone marrow-derived mesenchymal stem cells but the osteogenic effect is ablated with unloading</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Hamrick</snm>
+                  <fnm>MW</fnm>
+               </au>
+               <au>
+                  <snm>Shi</snm>
+                  <fnm>X</fnm>
+               </au>
+               <au>
+                  <snm>Zhang</snm>
+                  <fnm>W</fnm>
+               </au>
+               <au>
+                  <snm>Pennington</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Thakore</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Haque</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Kang</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Isales</snm>
+                  <fnm>CM</fnm>
+               </au>
+               <au>
+                  <snm>Fulzele</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Wenger</snm>
+                  <fnm>KH</fnm>
+               </au>
+            </aug>
+            <source>Bone</source>
+            <pubdate>2007</pubdate>
+            <volume>40</volume>
+            <fpage>1544</fpage>
+            <lpage>1553</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.bone.2007.02.012</pubid>
+                  <pubid idtype="pmcid">2001954</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17383950</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B38">
+            <title>
+               <p>High concentrations of HGF inhibit skeletal muscle satellite cell proliferation in vitro by inducing expression of myostatin: a possible mechanism for reestablishing satellite cell quiescence in vivo</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Yamada</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Tatsumi</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Yamanouchi</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Hosoyama</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Shiratsuchi</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Sato</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Mizunoya</snm>
+                  <fnm>W</fnm>
+               </au>
+               <au>
+                  <snm>Ikeuchi</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Furuse</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Allen</snm>
+                  <fnm>RE</fnm>
+               </au>
+            </aug>
+            <source>Am J Physiol Cell Physiol</source>
+            <pubdate>2010</pubdate>
+            <volume>298</volume>
+            <fpage>C465</fpage>
+            <lpage>C476</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1152/ajpcell.00449.2009</pubid>
+                  <pubid idtype="pmcid">2838568</pubid>
+                  <pubid idtype="pmpid" link="fulltext">20007454</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B39">
+            <title>
+               <p>Myostatin reduces Akt/TORC1/p70S6K signaling, inhibiting myoblast differentiation and myotube size</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Trendelenburg</snm>
+                  <fnm>AU</fnm>
+               </au>
+               <au>
+                  <snm>Meyer</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Rohner</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Boyle</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Hatakeyama</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Glass</snm>
+                  <fnm>DJ</fnm>
+               </au>
+            </aug>
+            <source>Am J Physiol Cell Physiol</source>
+            <pubdate>2009</pubdate>
+            <volume>296</volume>
+            <fpage>C1258</fpage>
+            <lpage>1270</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1152/ajpcell.00105.2009</pubid>
+                  <pubid idtype="pmpid" link="fulltext">19357233</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B40">
+            <title>
+               <p>Inhibiting myostatin with follistatin improves the success of myoblast transplantation in dystrophic mice</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Benabdallah</snm>
+                  <fnm>BF</fnm>
+               </au>
+               <au>
+                  <snm>Bouchentouf</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Rousseau</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Bigey</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Michaud</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Chapdelaine</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Scherman</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Tremblay</snm>
+                  <fnm>JP</fnm>
+               </au>
+            </aug>
+            <source>Cell Transplant</source>
+            <pubdate>2008</pubdate>
+            <volume>17</volume>
+            <fpage>337</fpage>
+            <lpage>350</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.3727/096368908784153913</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18522236</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B41">
+            <title>
+               <p>Muscle CD31(-) CD45(-) side population cells promote muscle regeneration by stimulating proliferation and migration of myoblasts</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Motohashi</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Uezumi</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Yada</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Fukada</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Fukushima</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Imaizumi</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Miyagoe-Suzuki</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Takeda</snm>
+                  <fnm>S</fnm>
+               </au>
+            </aug>
+            <source>Am J Pathol</source>
+            <pubdate>2008</pubdate>
+            <volume>173</volume>
+            <fpage>781</fpage>
+            <lpage>791</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.2353/ajpath.2008.070902</pubid>
+                  <pubid idtype="pmcid">2527092</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18669618</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B42">
+            <title>
+               <p>Highly efficient, functional engraftment of skeletal muscle stem cells in dystrophic muscles</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Cerletti</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Jurga</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Witczak</snm>
+                  <fnm>CA</fnm>
+               </au>
+               <au>
+                  <snm>Hirshman</snm>
+                  <fnm>MF</fnm>
+               </au>
+               <au>
+                  <snm>Shadrach</snm>
+                  <fnm>JL</fnm>
+               </au>
+               <au>
+                  <snm>Goodyear</snm>
+                  <fnm>LJ</fnm>
+               </au>
+               <au>
+                  <snm>Wagers</snm>
+                  <fnm>AJ</fnm>
+               </au>
+            </aug>
+            <source>Cell</source>
+            <pubdate>2008</pubdate>
+            <volume>134</volume>
+            <fpage>37</fpage>
+            <lpage>47</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.cell.2008.05.049</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18614009</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B43">
+            <title>
+               <p>Autologous transplantation of muscle precursor cells modified with a lentivirus for muscular dystrophy: human cells and primate models</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Quenneville</snm>
+                  <fnm>SP</fnm>
+               </au>
+               <au>
+                  <snm>Chapdelaine</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Skuk</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Paradis</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Goulet</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Rousseau</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Xiao</snm>
+                  <fnm>X</fnm>
+               </au>
+               <au>
+                  <snm>Garcia</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Tremblay</snm>
+                  <fnm>JP</fnm>
+               </au>
+            </aug>
+            <source>Mol Ther</source>
+            <pubdate>2007</pubdate>
+            <volume>15</volume>
+            <fpage>431</fpage>
+            <lpage>438</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/sj.mt.6300047</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17235323</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B44">
+            <title>
+               <p>Muscle engraftment of myogenic progenitor cells following intraarterial transplantation</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Bachrach</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Perez</snm>
+                  <fnm>AL</fnm>
+               </au>
+               <au>
+                  <snm>Choi</snm>
+                  <fnm>YH</fnm>
+               </au>
+               <au>
+                  <snm>Illigens</snm>
+                  <fnm>BM</fnm>
+               </au>
+               <au>
+                  <snm>Jun</snm>
+                  <fnm>SJ</fnm>
+               </au>
+               <au>
+                  <snm>del Nido</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>McGowan</snm>
+                  <fnm>FX</fnm>
+               </au>
+               <au>
+                  <snm>Li</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Flint</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Chamberlain</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Kunkel</snm>
+                  <fnm>LM</fnm>
+               </au>
+            </aug>
+            <source>Muscle Nerve</source>
+            <pubdate>2006</pubdate>
+            <volume>34</volume>
+            <fpage>44</fpage>
+            <lpage>52</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1002/mus.20560</pubid>
+                  <pubid idtype="pmpid" link="fulltext">16634061</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B45">
+            <title>
+               <p>Nerve growth factor improves the muscle regeneration capacity of muscle stem cells in dystrophic muscle</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Lavasani</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Lu</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Peng</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Cummins</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Huard</snm>
+                  <fnm>J</fnm>
+               </au>
+            </aug>
+            <source>Hum Gene Ther</source>
+            <pubdate>2006</pubdate>
+            <volume>17</volume>
+            <fpage>180</fpage>
+            <lpage>192</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1089/hum.2006.17.180</pubid>
+                  <pubid idtype="pmpid" link="fulltext">16454652</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B46">
+            <title>
+               <p>Initial failure in myoblast transplantation therapy has led the way toward the isolation of muscle stem cells: potential for tissue regeneration</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Urish</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Kanda</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Huard</snm>
+                  <fnm>J</fnm>
+               </au>
+            </aug>
+            <source>Curr Top Dev Biol</source>
+            <pubdate>2005</pubdate>
+            <volume>68</volume>
+            <fpage>263</fpage>
+            <lpage>280</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid" link="fulltext">16125002</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B47">
+            <title>
+               <p>Myoblast transfer therapy: is there any light at the end of the tunnel?</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Mouly</snm>
+                  <fnm>V</fnm>
+               </au>
+               <au>
+                  <snm>Aamiri</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>P&#233;ri&#233;</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Mamchaoui</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Barani</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Bigot</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Bouazza</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Fran&#231;ois</snm>
+                  <fnm>V</fnm>
+               </au>
+               <au>
+                  <snm>Furling</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Jacquemin</snm>
+                  <fnm>V</fnm>
+               </au>
+               <au>
+                  <snm>Negroni</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Riederer</snm>
+                  <fnm>I</fnm>
+               </au>
+               <au>
+                  <snm>Vignaud</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>St Guily</snm>
+                  <fnm>JL</fnm>
+               </au>
+               <au>
+                  <snm>Butler-Browne</snm>
+                  <fnm>GS</fnm>
+               </au>
+            </aug>
+            <source>Acta Myol</source>
+            <pubdate>2005</pubdate>
+            <volume>24</volume>
+            <fpage>128</fpage>
+            <lpage>133</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid">16550930</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B48">
+            <title>
+               <p>Lower skeletal muscle mass in male transgenic mice with muscle-specific overexpression of myostatin</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Reisz-Porszasz</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Bhasin</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Artaza</snm>
+                  <fnm>JN</fnm>
+               </au>
+               <au>
+                  <snm>Shen</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Sinha-Hikim</snm>
+                  <fnm>I</fnm>
+               </au>
+               <au>
+                  <snm>Hogue</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Fielder</snm>
+                  <fnm>TJ</fnm>
+               </au>
+               <au>
+                  <snm>Gonzalez-Cadavid</snm>
+                  <fnm>NF</fnm>
+               </au>
+            </aug>
+            <source>Am J Physiol Endocrinol Metab</source>
+            <pubdate>2003</pubdate>
+            <volume>285</volume>
+            <fpage>E876</fpage>
+            <lpage>E888</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid" link="fulltext">12824080</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B49">
+            <title>
+               <p>Isolation of a slowly adhering cell fraction containing stem cells from murine skeletal muscle by the preplate technique</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Gharaibeh</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Lu</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Tebbets</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Zheng</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Feduska</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Crisan</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>P&#233;ault</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Cummins</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Huard</snm>
+                  <fnm>J</fnm>
+               </au>
+            </aug>
+            <source>Nat Protoc</source>
+            <pubdate>2008</pubdate>
+            <volume>3</volume>
+            <fpage>1501</fpage>
+            <lpage>1509</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/nprot.2008.142</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18772878</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B50">
+            <title>
+               <p>Identification of a novel population of muscle stem cells in mice: potential for muscle regeneration</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Qu-Petersen</snm>
+                  <fnm>Z</fnm>
+               </au>
+               <au>
+                  <snm>Deasy</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Jankowski</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Ikezawa</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Cummins</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Pruchnic</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Mytinger</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Cao</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Gates</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Wernig</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Huard</snm>
+                  <fnm>J</fnm>
+               </au>
+            </aug>
+            <source>J Cell Biol</source>
+            <pubdate>2002</pubdate>
+            <volume>157</volume>
+            <fpage>851</fpage>
+            <lpage>864</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1083/jcb.200108150</pubid>
+                  <pubid idtype="pmcid">2173424</pubid>
+                  <pubid idtype="pmpid" link="fulltext">12021255</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B51">
+            <title>
+               <p>Androgens stimulate myogenenic differentiation and inhibit adipogenesis in C3H 10T1/2 pluripotent stem cells through an androgen receptor-mediated pathway</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Singh</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Artaza</snm>
+                  <fnm>JN</fnm>
+               </au>
+               <au>
+                  <snm>Taylor</snm>
+                  <fnm>WE</fnm>
+               </au>
+               <au>
+                  <snm>Gonzalez-Cadavid</snm>
+                  <fnm>NF</fnm>
+               </au>
+               <au>
+                  <snm>Bhasin</snm>
+                  <fnm>S</fnm>
+               </au>
+            </aug>
+            <source>Endocrinology</source>
+            <pubdate>2003</pubdate>
+            <volume>144</volume>
+            <fpage>5081</fpage>
+            <lpage>5088</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1210/en.2003-0741</pubid>
+                  <pubid idtype="pmpid" link="fulltext">12960001</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B52">
+            <title>
+               <p>Myostatin inhibits cell proliferation and protein synthesis in C2C12 muscle cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Taylor</snm>
+                  <fnm>WE</fnm>
+               </au>
+               <au>
+                  <snm>Bhasin</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Artaza</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Byhower</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Azam</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Willard</snm>
+                  <fnm>DH</fnm>
+                  <suf>Jr</suf>
+               </au>
+               <au>
+                  <snm>Kull</snm>
+                  <fnm>FC</fnm>
+                  <suf>Jr</suf>
+               </au>
+               <au>
+                  <snm>Gonzalez-Cadavid</snm>
+                  <fnm>N</fnm>
+               </au>
+            </aug>
+            <source>Am J Physiol Endocrinol Metab</source>
+            <pubdate>2001</pubdate>
+            <volume>280</volume>
+            <fpage>E221</fpage>
+            <lpage>E228</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid" link="fulltext">11158924</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B53">
+            <title>
+               <p>Organization of the human myostatin gene and expression in healthy men and HIV-infected men with muscle wasting</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Gonzalez-Cadavid</snm>
+                  <fnm>NF</fnm>
+               </au>
+               <au>
+                  <snm>Taylor</snm>
+                  <fnm>WE</fnm>
+               </au>
+               <au>
+                  <snm>Yarasheski</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Sinha-Hikim</snm>
+                  <fnm>I</fnm>
+               </au>
+               <au>
+                  <snm>Ma</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Ezzat</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Shen</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Lalani</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Asa</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Mamita</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Nair</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Arver</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Bhasin</snm>
+                  <fnm>S</fnm>
+               </au>
+            </aug>
+            <source>Proc Natl Acad Sci USA</source>
+            <pubdate>1998</pubdate>
+            <volume>95</volume>
+            <fpage>14938</fpage>
+            <lpage>14943</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1073/pnas.95.25.14938</pubid>
+                  <pubid idtype="pmcid">24554</pubid>
+                  <pubid idtype="pmpid" link="fulltext">9843994</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B54">
+            <title>
+               <p>Oct 4 expression revisited: potential pitfalls for data misinterpretation in stem cell research</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Liedtke</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Stephan</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>K&#246;gler</snm>
+                  <fnm>G</fnm>
+               </au>
+            </aug>
+            <source>Biol Chem</source>
+            <pubdate>2008</pubdate>
+            <volume>389</volume>
+            <fpage>845</fpage>
+            <lpage>850</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid" link="fulltext">18627312</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B55">
+            <title>
+               <p>Myogenic differentiation by human processed lipoaspirate cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Mizuno</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Zuk</snm>
+                  <fnm>PA</fnm>
+               </au>
+               <au>
+                  <snm>Zhu</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Lorenz</snm>
+                  <fnm>HP</fnm>
+               </au>
+               <au>
+                  <snm>Benhaim</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Hedrick</snm>
+                  <fnm>MH</fnm>
+               </au>
+            </aug>
+            <source>Plast Reconstr Surg</source>
+            <pubdate>2002</pubdate>
+            <volume>109</volume>
+            <fpage>199</fpage>
+            <lpage>209</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1097/00006534-200201000-00030</pubid>
+                  <pubid idtype="pmpid" link="fulltext">11786812</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B56">
+            <title>
+               <p>Evidence for a myogenic stem cell that is exhausted in dystrophic muscle</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Heslop</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Morgan</snm>
+                  <fnm>JE</fnm>
+               </au>
+               <au>
+                  <snm>Partridge</snm>
+                  <fnm>TA</fnm>
+               </au>
+            </aug>
+            <source>J Cell Sci</source>
+            <pubdate>2000</pubdate>
+            <volume>113</volume>
+            <fpage>2299</fpage>
+            <lpage>2308</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid" link="fulltext">10825301</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B57">
+            <title>
+               <p>Regenerative capacity of the dystrophic (mdx) diaphragm after induced injury</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Matecki</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Guibinga</snm>
+                  <fnm>GH</fnm>
+               </au>
+               <au>
+                  <snm>Petrof</snm>
+                  <fnm>BJ</fnm>
+               </au>
+            </aug>
+            <source>Am J Physiol Regul Integr Comp Physiol</source>
+            <pubdate>2004</pubdate>
+            <volume>287</volume>
+            <fpage>R961</fpage>
+            <lpage>R968</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1152/ajpregu.00146.2004</pubid>
+                  <pubid idtype="pmpid" link="fulltext">15191902</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B58">
+            <title>
+               <p>Improved muscle healing after contusion injury by the inhibitory effect of suramin on myostatin, a negative regulator of muscle growth</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Nozaki</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Li</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Zhu</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Ambrosio</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Uehara</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Fu</snm>
+                  <fnm>FH</fnm>
+               </au>
+               <au>
+                  <snm>Huard</snm>
+                  <fnm>J</fnm>
+               </au>
+            </aug>
+            <source>Am J Sports Med</source>
+            <pubdate>2008</pubdate>
+            <volume>36</volume>
+            <fpage>2354</fpage>
+            <lpage>2362</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1177/0363546508322886</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18725651</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B59">
+            <title>
+               <p>A perivascular origin for mesenchymal stem cells in multiple human organs</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Crisan</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Yap</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Casteilla</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Chen</snm>
+                  <fnm>CW</fnm>
+               </au>
+               <au>
+                  <snm>Corselli</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Park</snm>
+                  <fnm>TS</fnm>
+               </au>
+               <au>
+                  <snm>Andriolo</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Sun</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Zheng</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Zhang</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Norotte</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Teng</snm>
+                  <fnm>PN</fnm>
+               </au>
+               <au>
+                  <snm>Traas</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Schugar</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Deasy</snm>
+                  <fnm>BM</fnm>
+               </au>
+               <au>
+                  <snm>Badylak</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Buhring</snm>
+                  <fnm>HJ</fnm>
+               </au>
+               <au>
+                  <snm>Giacobino</snm>
+                  <fnm>JP</fnm>
+               </au>
+               <au>
+                  <snm>Lazzari</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Huard</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>P&#233;ault</snm>
+                  <fnm>B</fnm>
+               </au>
+            </aug>
+            <source>Cell Stem Cell</source>
+            <pubdate>2008</pubdate>
+            <volume>3</volume>
+            <fpage>301</fpage>
+            <lpage>313</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.stem.2008.07.003</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18786417</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B60">
+            <title>
+               <p>Very small embryonic-like (VSEL) stem cells in adult organs and their potential role in rejuvenation of tissues and longevity</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Ratajczak</snm>
+                  <fnm>MZ</fnm>
+               </au>
+               <au>
+                  <snm>Zuba-Surma</snm>
+                  <fnm>EK</fnm>
+               </au>
+               <au>
+                  <snm>Shin</snm>
+                  <fnm>DM</fnm>
+               </au>
+               <au>
+                  <snm>Ratajczak</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Kucia</snm>
+                  <fnm>M</fnm>
+               </au>
+            </aug>
+            <source>Exp Gerontol</source>
+            <pubdate>2008</pubdate>
+            <volume>43</volume>
+            <fpage>1009</fpage>
+            <lpage>1017</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.exger.2008.06.002</pubid>
+                  <pubid idtype="pmcid">3174085</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18601995</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B61">
+            <title>
+               <p>Generation of induced pluripotent stem cells from human cord blood cells with only two factors: Oct 4 and Sox2</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Giorgetti</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Montserrat</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Rodriguez-Piza</snm>
+                  <fnm>I</fnm>
+               </au>
+               <au>
+                  <snm>Azqueta</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Veiga</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Izpis&#250;a Belmonte</snm>
+                  <fnm>JC</fnm>
+               </au>
+            </aug>
+            <source>Nat Protoc</source>
+            <pubdate>2010</pubdate>
+            <volume>5</volume>
+            <fpage>811</fpage>
+            <lpage>820</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/nprot.2010.16</pubid>
+                  <pubid idtype="pmpid" link="fulltext">20360773</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B62">
+            <title>
+               <p>An adult tissue-specific stem cell in its niche: a gene profiling analysis of in vivo quiescent and activated muscle satellite cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Pallafacchina</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Fran&#231;ois</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Regnault</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Czarny</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Dive</snm>
+                  <fnm>V</fnm>
+               </au>
+               <au>
+                  <snm>Cumano</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Montarras</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Buckingham</snm>
+                  <fnm>M</fnm>
+               </au>
+            </aug>
+            <source>Stem Cell Res</source>
+            <pubdate>2010</pubdate>
+            <volume>4</volume>
+            <fpage>77</fpage>
+            <lpage>91</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.scr.2009.10.003</pubid>
+                  <pubid idtype="pmpid" link="fulltext">19962952</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B63">
+            <title>
+               <p>Follistatin improves skeletal muscle healing after injury and disease through an interaction with muscle regeneration, angiogenesis, and fibrosis</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Zhu</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Li</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Lu</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Gharaibeh</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Ma</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Kobayashi</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Quintero</snm>
+                  <fnm>AJ</fnm>
+               </au>
+               <au>
+                  <snm>Huard</snm>
+                  <fnm>J</fnm>
+               </au>
+            </aug>
+            <source>Am J Pathol</source>
+            <pubdate>2011</pubdate>
+            <volume>179</volume>
+            <fpage>915</fpage>
+            <lpage>930</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.ajpath.2011.04.008</pubid>
+                  <pubid idtype="pmcid">3157209</pubid>
+                  <pubid idtype="pmpid" link="fulltext">21689628</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B64">
+            <title>
+               <p>Myostatin directly regulates skeletal muscle fibrosis</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Li</snm>
+                  <fnm>ZB</fnm>
+               </au>
+               <au>
+                  <snm>Kollias</snm>
+                  <fnm>HD</fnm>
+               </au>
+               <au>
+                  <snm>Wagner</snm>
+                  <fnm>KR</fnm>
+               </au>
+            </aug>
+            <source>J Biol Chem</source>
+            <pubdate>2008</pubdate>
+            <volume>283</volume>
+            <fpage>19371</fpage>
+            <lpage>19378</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1074/jbc.M802585200</pubid>
+                  <pubid idtype="pmcid">2443655</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18453534</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B65">
+            <title>
+               <p>Rescue of skeletal muscle alpha-actin-null mice by cardiac (fetal) alpha-actin</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Nowak</snm>
+                  <fnm>KJ</fnm>
+               </au>
+               <au>
+                  <snm>Ravenscroft</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Jackaman</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Filipovska</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Davies</snm>
+                  <fnm>SM</fnm>
+               </au>
+               <au>
+                  <snm>Lim</snm>
+                  <fnm>EM</fnm>
+               </au>
+               <au>
+                  <snm>Squire</snm>
+                  <fnm>SE</fnm>
+               </au>
+               <au>
+                  <snm>Potter</snm>
+                  <fnm>AC</fnm>
+               </au>
+               <au>
+                  <snm>Baker</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Cl&#233;ment</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Sewry</snm>
+                  <fnm>CA</fnm>
+               </au>
+               <au>
+                  <snm>Fabian</snm>
+                  <fnm>V</fnm>
+               </au>
+               <au>
+                  <snm>Crawford</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Lessard</snm>
+                  <fnm>JL</fnm>
+               </au>
+               <au>
+                  <snm>Griffiths</snm>
+                  <fnm>LM</fnm>
+               </au>
+               <au>
+                  <snm>Papadimitriou</snm>
+                  <fnm>JM</fnm>
+               </au>
+               <au>
+                  <snm>Shen</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Morahan</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Bakker</snm>
+                  <fnm>AJ</fnm>
+               </au>
+               <au>
+                  <snm>Davies</snm>
+                  <fnm>KE</fnm>
+               </au>
+               <au>
+                  <snm>Laing</snm>
+                  <fnm>NG</fnm>
+               </au>
+            </aug>
+            <source>J Cell Biol</source>
+            <pubdate>2009</pubdate>
+            <volume>185</volume>
+            <fpage>903</fpage>
+            <lpage>915</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1083/jcb.200812132</pubid>
+                  <pubid idtype="pmcid">2711600</pubid>
+                  <pubid idtype="pmpid" link="fulltext">19468071</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B66">
+            <title>
+               <p>Thin filament proteins mutations associated with skeletal myopathies: defective regulation of muscle contraction</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Ochala</snm>
+                  <fnm>J</fnm>
+               </au>
+            </aug>
+            <source>J Mol Med</source>
+            <pubdate>2008</pubdate>
+            <volume>86</volume>
+            <fpage>1197</fpage>
+            <lpage>1204</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1007/s00109-008-0380-9</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18574571</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B67">
+            <title>
+               <p>The molecular regulation of muscle stem cell function</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Rudnicki</snm>
+                  <fnm>MA</fnm>
+               </au>
+               <au>
+                  <snm>Le Grand</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>McKinnell</snm>
+                  <fnm>I</fnm>
+               </au>
+               <au>
+                  <snm>Kuang</snm>
+                  <fnm>S</fnm>
+               </au>
+            </aug>
+            <source>Cold Spring Harb Symp Quant Biol</source>
+            <pubdate>2008</pubdate>
+            <volume>73</volume>
+            <fpage>323</fpage>
+            <lpage>331</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1101/sqb.2008.73.064</pubid>
+                  <pubid idtype="pmpid" link="fulltext">19329572</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B68">
+            <title>
+               <p>Osteopontin and skeletal muscle myoblasts: association with muscle regeneration and regulation of myoblast function in vitro</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Uaesoontrachoon</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Yoo</snm>
+                  <fnm>HJ</fnm>
+               </au>
+               <au>
+                  <snm>Tudor</snm>
+                  <fnm>EM</fnm>
+               </au>
+               <au>
+                  <snm>Pike</snm>
+                  <fnm>RN</fnm>
+               </au>
+               <au>
+                  <snm>Mackie</snm>
+                  <fnm>EJ</fnm>
+               </au>
+               <au>
+                  <snm>Pagel</snm>
+                  <fnm>CN</fnm>
+               </au>
+            </aug>
+            <source>Int J Biochem Cell Biol</source>
+            <pubdate>2008</pubdate>
+            <volume>40</volume>
+            <fpage>2303</fpage>
+            <lpage>2314</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.biocel.2008.03.020</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18490187</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B69">
+            <title>
+               <p>Pax3 regulation of FGF signaling affects the progression of embryonic progenitor cells into the myogenic program</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Lagha</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Kormish</snm>
+                  <fnm>JD</fnm>
+               </au>
+               <au>
+                  <snm>Rocancourt</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Manceau</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Epstein</snm>
+                  <fnm>JA</fnm>
+               </au>
+               <au>
+                  <snm>Zaret</snm>
+                  <fnm>KS</fnm>
+               </au>
+               <au>
+                  <snm>Relaix</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Buckingham</snm>
+                  <fnm>ME</fnm>
+               </au>
+            </aug>
+            <source>Genes Dev</source>
+            <pubdate>2008</pubdate>
+            <volume>22</volume>
+            <fpage>1828</fpage>
+            <lpage>1837</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1101/gad.477908</pubid>
+                  <pubid idtype="pmcid">2492669</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18593883</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B70">
+            <title>
+               <p>An intragenic MEF2-dependent enhancer directs muscle-specific expression of microRNAs 1 and 133</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Liu</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Williams</snm>
+                  <fnm>AH</fnm>
+               </au>
+               <au>
+                  <snm>Kim</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>McAnally</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Bezprozvannaya</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Sutherland</snm>
+                  <fnm>LB</fnm>
+               </au>
+               <au>
+                  <snm>Richardson</snm>
+                  <fnm>JA</fnm>
+               </au>
+               <au>
+                  <snm>Bassel-Duby</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Olson</snm>
+                  <fnm>EN</fnm>
+               </au>
+            </aug>
+            <source>Proc Natl Acad Sci USA</source>
+            <pubdate>2007</pubdate>
+            <volume>104</volume>
+            <fpage>20844</fpage>
+            <lpage>20849</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1073/pnas.0710558105</pubid>
+                  <pubid idtype="pmcid">2409229</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18093911</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B71">
+            <title>
+               <p>Myogenic regulatory factors regulate M-cadherin expression by targeting its proximal promoter elements</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Hsiao</snm>
+                  <fnm>SP</fnm>
+               </au>
+               <au>
+                  <snm>Chen</snm>
+                  <fnm>SL</fnm>
+               </au>
+            </aug>
+            <source>Biochem J</source>
+            <pubdate>2010</pubdate>
+            <volume>428</volume>
+            <fpage>223</fpage>
+            <lpage>233</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1042/BJ20100250</pubid>
+                  <pubid idtype="pmpid" link="fulltext">20334626</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+      </refgrp>
+   </bm>
+</art>

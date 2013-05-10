@@ -1,0 +1,2706 @@
+<!DOCTYPE art SYSTEM "article.dtd">
+<art>
+   <ui>scrt175</ui>
+   <ji>1757-6512</ji>
+   <fm>
+      <dochead>Research</dochead>
+      <bibl>
+         <title>
+            <p>Development of fully defined xeno-free culture system for the preparation and propagation of cell therapy-compliant human adipose stem cells</p>
+         </title>
+         <aug>
+            <au id="A1" ca="yes">
+               <snm>Patrikoski</snm>
+               <fnm>Mimmi</fnm>
+               <insr iid="I1"/>
+               <insr iid="I2"/>
+               <insr iid="I3"/>
+               <email>mimmi.patrikoski@uta.fi</email>
+            </au>
+            <au id="A2">
+               <snm>Juntunen</snm>
+               <fnm>Miia</fnm>
+               <insr iid="I1"/>
+               <insr iid="I2"/>
+               <insr iid="I3"/>
+               <email>miia.juntunen@uta.fi</email>
+            </au>
+            <au id="A3">
+               <snm>Boucher</snm>
+               <fnm>Shayne</fnm>
+               <insr iid="I4"/>
+               <email>shayne.boucher@lifetech.com</email>
+            </au>
+            <au id="A4">
+               <snm>Campbell</snm>
+               <fnm>Andrew</fnm>
+               <insr iid="I5"/>
+               <email>andrew.campbell@lifetech.com</email>
+            </au>
+            <au id="A5">
+               <snm>Vemuri</snm>
+               <mi>C</mi>
+               <fnm>Mohan</fnm>
+               <insr iid="I4"/>
+               <email>mohan.vemuri@lifetech.com</email>
+            </au>
+            <au id="A6">
+               <snm>Mannerstr&#246;m</snm>
+               <fnm>Bettina</fnm>
+               <insr iid="I1"/>
+               <insr iid="I2"/>
+               <insr iid="I3"/>
+               <email>bettina.mannerstrom@uta.fi</email>
+            </au>
+            <au id="A7">
+               <snm>Miettinen</snm>
+               <fnm>Susanna</fnm>
+               <insr iid="I1"/>
+               <insr iid="I2"/>
+               <insr iid="I3"/>
+               <email>susanna.miettinen@uta.fi</email>
+            </au>
+         </aug>
+         <insg>
+            <ins id="I1">
+               <p>Adult Stem Cell Group, Institute of Biomedical Technology, University of Tampere, Tampere, Finland</p>
+            </ins>
+            <ins id="I2">
+               <p>BioMediTech, Tampere, Finland</p>
+            </ins>
+            <ins id="I3">
+               <p>Science Center, Tampere University Hospital, Tampere, Finland</p>
+            </ins>
+            <ins id="I4">
+               <p>Life Technologies, Cell Therapy Systems, Frederick, MD, USA</p>
+            </ins>
+            <ins id="I5">
+               <p>Life Technologies, BioProduction, Grand Island, MD, USA</p>
+            </ins>
+         </insg>
+         <source>Stem Cell Research &amp; Therapy</source>
+         <issn>1757-6512</issn>
+         <pubdate>2013</pubdate>
+         <volume>4</volume>
+         <issue>2</issue>
+         <fpage>27</fpage>
+         <url>http://stemcellres.com/content/4/2/27</url>
+         <xrefbib>
+            <pubidlist>
+               <pubid idtype="doi">10.1186/scrt175</pubid>
+               <pubid idtype="pmpid">23497764</pubid>
+            </pubidlist>
+         </xrefbib>
+      </bibl>
+      <history>
+         <rec>
+            <date>
+               <day>21</day>
+               <month>9</month>
+               <year>2012</year>
+            </date>
+         </rec>
+         <revrec>
+            <date>
+               <day>28</day>
+               <month>1</month>
+               <year>2013</year>
+            </date>
+         </revrec>
+         <acc>
+            <date>
+               <day>4</day>
+               <month>3</month>
+               <year>2013</year>
+            </date>
+         </acc>
+         <pub>
+            <date>
+               <day>7</day>
+               <month>3</month>
+               <year>2013</year>
+            </date>
+         </pub>
+      </history>
+      <cpyrt>
+         <year>2013</year>
+         <collab>Patrikoski et al.; licensee BioMed Central Ltd.</collab>
+         <note>This is an Open Access article distributed under the terms of the Creative Commons Attribution License (<url>http://creativecommons.org/licenses/by/2.0</url>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</note>
+      </cpyrt>
+      <kwdg>
+         <kwd>Adipose stem cells</kwd>
+         <kwd>Xeno-free</kwd>
+         <kwd>Serum-free</kwd>
+         <kwd>Human serum</kwd>
+         <kwd>Fetal bovine serum</kwd>
+         <kwd>Multipotentiality</kwd>
+         <kwd>Proliferation rate</kwd>
+         <kwd>Immunophenotype</kwd>
+         <kwd>Flow cytometry</kwd>
+         <kwd>Cell therapy</kwd>
+      </kwdg>
+      <abs>
+         <sec>
+            <st>
+               <p>Abstract</p>
+            </st>
+            <sec>
+               <st>
+                  <p>Introduction</p>
+               </st>
+               <p>Adipose tissue is an attractive and abundant source of multipotent stem cells. Human adipose stem cells (ASCs) have shown to have therapeutic relevancy in diverse clinical applications. Nevertheless, expansion of ASCs is often necessary before performing clinical studies. Standard <it>in vitro</it> cell-culture techniques use animal-derived reagents that should be avoided in clinical use because of safety issues. Therefore, xeno- and serum-free (XF/SF) reagents are highly desirable for enhancing the safety and quality of the transplanted ASCs.</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>Methods</p>
+               </st>
+               <p>In the current study, animal component-free isolation and cell-expansion protocols were developed for ASCs. StemPro MSC SFM XF medium with either CELLstart&#8482; CTS&#8482; coating or Coating Matrix Kit were tested for their ability to support XF/SF growth. Basic stem-cell characteristics such as immunophenotype (CD3, CD11a, CD14, CD19, CD34, CD45RO, CD54, CD73, CD80, CD86, CD90, CD105, HLA-DR), proliferation, and differentiation potential were assessed in XF/SF conditions and compared with human serum (HS) or traditionally used fetal bovine serum (FBS) cultures.</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>Results</p>
+               </st>
+               <p>ASCs cultured in XF/SF conditions had significantly higher proliferation rates compared with HS/FBS cultures. Characteristic immunophenotypes of ASCs were maintained in every condition; however, cells expanded in XF/SF conditions showed significantly lower expression of CD54 (intercellular adhesion molecule 1, ICAM-1) at low passage number. Further, multilineage differentiation potential of ASCs was maintained in every culture condition.</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>Conclusions</p>
+               </st>
+               <p>Our findings demonstrated that the novel XF/SF conditions maintained the basic stem cell features of ASCs and the animal-free workflow followed in this study has great potential in clinical cell therapies.</p>
+            </sec>
+         </sec>
+      </abs>
+   </fm>
+   <meta>
+      <classifications>
+         <classification id="clinical" subtype="theme_series_title" type="BMC">Clinical applications of stem cells</classification>
+         <classification id="clinical" subtype="theme_series_editor" type="BMC">Mahendra Rao</classification>
+      </classifications>
+   </meta>
+   <bdy>
+      <sec>
+         <st>
+            <p>Introduction</p>
+         </st>
+         <p>Human adipose tissue is an abundant source of multipotent stem cells known as adipose stem cells (ASCs), and they have the ability to differentiate toward various mesenchymal cell types, including bone, cartilage, and fat cells <abbrgrp><abbr bid="B1">1</abbr><abbr bid="B2">2</abbr></abbrgrp>. Since Zuk <it>et al.</it><abbrgrp><abbr bid="B3">3</abbr></abbrgrp> described this unlimited source of multipotent cells, growing interest exists toward the clinical applicability of ASCs. The therapeutic relevance of the cells has been noticed and, in fact, the number of clinical cell therapies using ASCs has been steadily increassing <abbrgrp><abbr bid="B4">4</abbr><abbr bid="B5">5</abbr><abbr bid="B6">6</abbr></abbrgrp>. Therefore, increased focus occurs on the safety, efficacy, reproducibility, and quality of the cells used in clinical treatments.</p>
+         <p>ASCs and bone marrow-derived stem cells (BMSCs) alike are mesenchymal stem cells (MSCs) that are defined as plastic-adherent cells with the potential to differentiate toward bone-, fat-, and cartilage-like cells. Furthermore, for their characterization, it is required that the cells express (&#8805;95%) certain markers on the cell surface (CD105, CD73, and CD90) and lack the expression of hematopoietic antigens (&#8804;2%) <abbrgrp><abbr bid="B7">7</abbr></abbrgrp>.</p>
+         <p>Of particular interest is that ASCs have immunomodulatory properties such as regulation of T-cell functions, antiinflammatory cytokine expression, and prolongation of allotransplant survival <abbrgrp><abbr bid="B8">8</abbr><abbr bid="B9">9</abbr></abbrgrp>. Thus, ASCs have been shown to suppress allogeneic lymphocytes both <it>in vitro</it> and <it>in vivo</it><abbrgrp><abbr bid="B9">9</abbr><abbr bid="B10">10</abbr></abbrgrp>. In addition, ASCs lack the expression of MHC class II molecules as well as T- and B-cell co-stimulatory molecules CD80, CD86, and CD40 on their cell surfaces <abbrgrp><abbr bid="B11">11</abbr></abbrgrp>. Because of these characteristics, ASCs are strong candidates for the treatment of immunologic disorders such as severe graft-versus-host disease or Crohn disease. Furthermore, because of their low immunogenicity, they may be used in allogeneic stem cell therapies, such as in the treatment of bone defects. High proliferation rate and good differentiation potential are important from the clinical point of view, and therefore, off-the-shelf cell products could be used to achieve effective treatments by using allogeneic cells with functional stem cell characteristics.</p>
+         <p>Cell-based therapies typically require large numbers of cells, and expansion of ASCs is often necessary before clinical use. Traditionally, fetal bovine serum (FBS) has been used in ASC cultures because of its ability to support cell growth and attachment by providing nutrients and attachment factors for the cells. However, in clinical cell therapies, the use of animal-derived reagents should be avoided, and the risks and benefits carefully assessed because of safety concerns <abbrgrp><abbr bid="B12">12</abbr><abbr bid="B13">13</abbr></abbrgrp>. Alternatives for FBS have been studied, such as allogeneic human serum (alloHS) or autologous HS (autoHS) <abbrgrp><abbr bid="B14">14</abbr></abbrgrp>, as well as platelet-derived supplements <abbrgrp><abbr bid="B15">15</abbr><abbr bid="B16">16</abbr></abbrgrp>. Nevertheless, limitations connected to the use of serum or its components exist, such as lot-to-lot variation with serum-supplemented media performance, affecting differentiation potential and proliferation rate <abbrgrp><abbr bid="B17">17</abbr></abbrgrp>. In addition, limited availability of autoHS can make long-term cultures of ASCs impractical. It is noteworthy that no standardized, fully defined xeno- and serum-free (XF/SF) cultivation protocols are available. However, the safety and the quality of transplanted ASCs would be significantly enhanced by replacing undefined and animal-derived components with defined XF/SF reagents.</p>
+         <p>The aim of the current study was to develop safe and efficient XF/SF culture conditions for ASCs and to show that ASCs cultured under these novel XF/SF conditions maintained their stem-cell characteristics, including the multilineage differentiation potential, immunophenotype, and proliferation capacity. The cell isolation and expansion was carried out in parallel in three different culture conditions, under fully defined completely XF/SF conditions, as well as in medium containing HS or FBS to compare the cell characteristics between these conditions. This study demonstrates the development of a fully defined animal origin-free culture system for the propagation and expansion of clinically relevant human adipose stem cells for the purpose of cell therapy.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Methods</p>
+         </st>
+         <sec>
+            <st>
+               <p>Isolation and culture of ASCs</p>
+            </st>
+            <p>The study was conducted in accordance with the ethics committee of the Pirkanmaa Hospital District, Tampere, Finland (R03058). ASCs were isolated from adipose tissue samples obtained with written informed consent from four female donors (age, 36 &#177; 9 years) undergoing elective surgical procedures in the Department of Plastic Surgery, Tampere University Hospital, Tampere, Finland. To assess how serum supplementation of the culture media affects the cell characteristics, ASCs were isolated under three different culturing conditions: in medium containing FBS, HS, or in XF/SF culture conditions. FBS- and HS-containing media were used as reference media for testing two different XF/SF culture conditions: (a) XF/SF media with CELLStart coating, and (b) XF/SF media with novel coating-free supplement, referred to hereafter as Coating Matrix Kit.</p>
+            <p>Isolation of adipose stem cells (ASCs) from adipose tissue samples was carried out by using a mechanical and enzymatic method, as described previously <abbrgrp><abbr bid="B1">1</abbr><abbr bid="B18">18</abbr><abbr bid="B19">19</abbr></abbrgrp>. In brief, the adipose tissue was minced manually into small fragments and digested with collagenase NB 6 GMP Grade (SERVA Electrophoresis GmbH, Heidelberg, Germany) in a water bath at 37&#176;C under shaking conditions. The digested tissue was centrifuged and filtered in sequential steps through a 100-&#956;m pore-size filter to separate the ASCs from the surrounding tissue. The first passage after the seeding of cells on cell-culture plastics, after dissociation of fat tissue, was designated passage 0. Cells were expanded in T75 flasks and passaged after reaching 80% confluency.</p>
+            <p>For HS and FBS conditions, Dulbecco modified Eagle medium (DMEM)/F-12 1:1 (Life Technologies, Gibco, Carlsbad, CA, USA) was supplemented with 1% l-analyl-l-glutamine (GlutaMAX I; Life Technologies, Gibco), 1% antibiotics (p/s; 100 U/ml penicillin, 0.1 mg/ml streptomycin; Lonza, BioWittaker, Verviers, Belgium) and serum from either 10% FBS (Life Technologies, Gibco) or 10% alloHS (Human Serum Type AB; Lonza, BioWhittaker, Walkersville, MD, USA) was used. ASCs isolated and expanded in FBS medium were detached by using 1% trypsin (Lonza, Biowhittaker, Verviers, Belgium), and ASCs isolated in HS medium were detached by using TrypLE Select (Life Technologies, Gibco) for XF detachment of cells.</p>
+            <p>For SF/XF conditions, one third of the cells were isolated under SF/XF conditions, and seeded on carboxyl-coated flasks (PureCoatCarboxyl T75; BD Biosciences, Franklin Lakes, NJ, USA) and expanded in STEMPRO&#174; MSC SFM (Life Technologies, Gibco) supplemented with 1% l-analyl-l-glutamine, 0.3% antibiotics, and 10% StemPro MSC SFM XenoFree supplement. Amine-coated flasks (PureCoat&#8482; Amine T75; BD Biosciences) were initially tested for their suitability for XF/SF, but the coating was not supportive enough for cell attachment, and instead of amine flasks, the carboxyl-coated flasks were selected for further studies.</p>
+            <p>From passage 1 onward, additional supplements were used in XF/SF conditions to support cell attachment and growth in normal Nunclon flasks. Thus, XF/SF cells were expanded in STEMPRO MSC medium supplemented with either Coating Matrix Kit (XF/SF CM) (Life Technologies, Gibco) or CELLstart&#8482; CTS&#8482; coating (XF/SF CS) (Life Technologies, Gibco), according to manufacturer's instructions. ASCs isolated and expanded in SF/XF medium were detached by using TrypLE Select for XF detachment of cells.</p>
+            <p>All culture-media formulations are presented in Table&#160;<tblr tid="T1">1</tblr>, and a flow chart of the isolation as well as performed analyses in different culture conditions are illustrated in Figure&#160;<figr fid="F1">1</figr>. All the analyses were performed separately with four donor cell lines isolated in FBS, HS, and XF/SF conditions.</p>
+            <table id="T1">
+               <title>
+                  <p>Table 1</p>
+               </title>
+               <caption>
+                  <p><b>Culture-media formulation overview</b></p>
+               </caption>
+               <tgroup align="left" cols="5">
+                  <colspec align="left" colname="c1" colnum="1" colwidth="1*"/>
+                  <colspec align="left" colname="c2" colnum="2" colwidth="1*"/>
+                  <colspec align="left" colname="c3" colnum="3" colwidth="1*"/>
+                  <colspec align="left" colname="c4" colnum="4" colwidth="1*"/>
+                  <colspec align="left" colname="c5" colnum="5" colwidth="1*"/>
+                  <thead valign="top">
+                     <row rowsep="1">
+                        <entry colname="c1"><p><b>Acronym</b></p></entry>
+                        <entry colname="c2"><p><b>Basal media</b></p></entry>
+                        <entry colname="c3"><p><b>Serum</b></p></entry>
+                        <entry colname="c4"><p><b>Coating/coating-free supplements</b></p></entry>
+                        <entry colname="c5"><p><b>Supplementation</b></p></entry>
+                     </row>
+                  </thead>
+                  <tfoot>
+                     <p>MSC, mesenchymal stem cell; p/s, penicillin/streptomycin; SFM, serum-free medium.</p>
+                  </tfoot>
+                  <tbody valign="top">
+                     <row>
+                        <entry colname="c1"><p>HS</p></entry>
+                        <entry colname="c2"><p>DMEM/F-12</p></entry>
+                        <entry colname="c3"><p>Human serum</p></entry>
+                        <entry colname="c4"><p>None</p></entry>
+                        <entry colname="c5"><p>1% GlutaMAX, 1% p/s</p></entry>
+                     </row>
+                     <row>
+                        <entry colname="c1"><p>FBS</p></entry>
+                        <entry colname="c2"><p>DMEM/F-12</p></entry>
+                        <entry colname="c3"><p>Fetal bovine serum</p></entry>
+                        <entry colname="c4"><p>None</p></entry>
+                        <entry colname="c5"><p>1% GlutaMAX, 1% p/s</p></entry>
+                     </row>
+                     <row>
+                        <entry colname="c1" morerows="1" valign="top"><p>XF/SF CM</p></entry>
+                        <entry colname="c2" morerows="1" valign="top"><p>StemPro MSC SFM</p></entry>
+                        <entry colname="c3" morerows="1" valign="top"><p>None</p></entry>
+                        <entry colname="c4" morerows="1" valign="top"><p>Coating Matrix Kit</p></entry>
+                        <entry colname="c5"><p>StemPro&#174; MSC SFM XenoFree supplement,</p></entry>
+                     </row>
+                     <row>
+                        <entry colname="c5"><p>1% GlutaMAX, 0.3% p/s</p></entry>
+                     </row>
+                     <row>
+                        <entry colname="c1" morerows="1" rowsep="1" valign="top"><p>XF/SF CS</p></entry>
+                        <entry colname="c2" morerows="1" rowsep="1" valign="top"><p>StemPro MSC SFM</p></entry>
+                        <entry colname="c3" morerows="1" rowsep="1" valign="top"><p>None</p></entry>
+                        <entry colname="c4" morerows="1" rowsep="1" valign="top"><p>CELLstart&#8482; coating</p></entry>
+                        <entry colname="c5"><p>StemPro MSC SFM XenoFree supplement,</p></entry>
+                     </row>
+                     <row rowsep="1">
+                        <entry colname="c5"><p>1% GlutaMAX, 0.3% p/s</p></entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </table>
+            <fig id="F1">
+               <title>
+                  <p>Figure 1</p>
+               </title>
+               <caption>
+                  <p>Work flow of the isolation and performed analyses of ASCs under different culture conditions</p>
+               </caption>
+               <text>
+                  <p><b>Work flow of the isolation and performed analyses of ASCs under different culture conditions.</b> XF/SF isolation of ASCs was carried out by using carboxyl-coated flasks, and onward from passage 1, two different XF/SF conditions were tested in basic Nunclon flasks; Coating Matrix Kit, and CELLstart&#8482; coating. Cell-proliferation rate, differentiation potential, and immunophenotype were analyzed in four different culture conditions at passages 2 and 5.</p>
+               </text>
+               <graphic file="scrt175-1"/>
+            </fig>
+         </sec>
+         <sec>
+            <st>
+               <p>Proliferation assay</p>
+            </st>
+            <p>The cell viability and proliferation activity were assessed in the different culture conditions (FBS, HS, and SF/XF) by using the PreMix WST-1 Cell Proliferation Assay System (Takara Bio Inc., Shiga, Japan). ASCs (<it>n</it> = four donor cell samples/analysis, passages 2 and 5) were seeded on 48-well plates at a density of 2,500 cells/cm<sup>2</sup>, and the proliferation was assessed at 1, 4, 7, and 11 days. In brief, at each time point, the cell-culture medium was removed, and DPBS (Dulbecco Phosphate-Buffered Saline, Lonza, BioWhittaker, Verviers, Belgium) and PreMix WST-1 were added 10:1. The 48-well plate was incubated for 4 hours at 37&#176;C, and the relative cell-proliferation activity was measured in a microplate reader (Victor 1429 Multilabel Counter) at 450 nm.</p>
+            <p>The population doubling was determined by using the formula x = log2(NH)/(N1), where <it>N</it>1 is the absorbance value at day 1, and <it>N</it>H is the absorbance value at observed time point 4, 7, or 11, as described previously <abbrgrp><abbr bid="B20">20</abbr></abbrgrp>. To calculate the cumulative population doubling, the population doubling was determined in each passage and compared with the population doubling of earlier passages.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Flow-cytometric analysis of immunophenotype</p>
+            </st>
+            <p>ASCs expanded in SF/XF, HS, and FBS (<it>n</it> = 4, passages 2 and 5) media were analyzed with flow cytometry (FACSAria; BD Biosciences, Erembodegem, Belgium) to determine whether different culturing conditions have an effect on the immunophenotype of the cells. Monoclonal antibodies (MAbs) against CD11a&#8211;allophycocyanin (APC), CD80&#8211;phycoerythrin (PE), CD86&#8211;PE, CD105&#8211;PE (R&amp;D Systems Inc., Minneapolis, MN, USA), CD-3 (PE), CD14&#8211;phycoerythrin-cyanine (PECy7), CD19-PECy7, CD45RO-APC, CD54-fluorescein isothiocyanate (FITC), CD73-PE, CD90-APC (BD Biosciences), and CD34-APC, HLADR-PE (Immunotools GmbH, Friesoythe, Germany) were used. Analysis was performed on 10,000 cells per sample, and unstained cell samples were used to compensate for the background autofluorescence levels.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Differentiation analyses</p>
+            </st>
+            <p>The trilineage differentiation potential of ASCs (<it>n</it> = 4, passages 2 to 5) toward osteogenic, adipogenic and chondrogenic cells was evaluated in XF/SF conditions versus HS and traditionally used FBS-supplemented medium. Differentiation capacity of ASCs was evaluated after 14 days of differentiation in either adipogenic, osteogenic, or chondrogenic medium versus cells cultured in control medium. Media for differentiation and control cultures were changed 3 times per week during the differentiation studies. The culture-media formulations used for differentiation assays are shown in Table&#160;<tblr tid="T2">2</tblr>. In a subsequent smaller-scale study, ASCs were primed for 3 days under FBS- or HS-supplemented media before differentiating under osteogenic or adipogenic condition. For this, commercial serum-based StemPro Adipogenesis and Osteogenesis differentiation kits (Life Technologies, Gibco) were used during the 14-day induction for XF/SF cells.</p>
+            <table id="T2">
+               <title>
+                  <p>Table 2</p>
+               </title>
+               <caption>
+                  <p><b>Culture media formulations used for differentiation assays</b></p>
+               </caption>
+               <tgroup align="left" cols="5">
+                  <colspec align="left" colname="c1" colnum="1" colwidth="1*"/>
+                  <colspec align="left" colname="c2" colnum="2" colwidth="1*"/>
+                  <colspec align="left" colname="c3" colnum="3" colwidth="1*"/>
+                  <colspec align="left" colname="c4" colnum="4" colwidth="1*"/>
+                  <colspec align="left" colname="c5" colnum="5" colwidth="1*"/>
+                  <thead valign="top">
+                     <row rowsep="1">
+                        <entry colname="c1"><p><b>Medium</b></p></entry>
+                        <entry colname="c2"><p><b>Basal media</b></p></entry>
+                        <entry colname="c3"><p><b>Serum</b></p></entry>
+                        <entry colname="c4"><p><b>Coating/coating-free supplements</b></p></entry>
+                        <entry colname="c5"><p><b>Supplementation</b></p></entry>
+                     </row>
+                  </thead>
+                  <tbody valign="top">
+                     <row>
+                        <entry colname="c1"><p>Adipogenic (FBS)</p></entry>
+                        <entry colname="c2"><p>DMEM/F-12</p></entry>
+                        <entry colname="c3"><p>10% Fetal bovine serum</p></entry>
+                        <entry colname="c4"><p>None</p></entry>
+                        <entry colname="c5"><p>1% GlutaMAX, 1% p/s, 33 &#956;<it>M</it> biotin (Sigma), 1 &#956;<it>M</it> dexamethasone (Sigma), 100 n<it>M</it> insulin (Life Technologies), 17 &#956;M pantothenate (Fluka, Buchs, Switzerland), 250 &#956;<it>M</it> isobutylmethylxanthine (IBMX; Sigma) for 48-hour induction after cell seeding</p></entry>
+                     </row>
+                     <row>
+                        <entry colname="c1"><p>Osteogenic (FBS)</p></entry>
+                        <entry colname="c2"><p>DMEM/F-12</p></entry>
+                        <entry colname="c3"><p>10% Fetal bovine serum</p></entry>
+                        <entry colname="c4"><p>None</p></entry>
+                        <entry colname="c5"><p>1% GlutaMAX, 1% p/s, 150 &#956;<it>M</it> L-ascorbic acid 2-phosphate (Sigma), 10 m<it>M</it> &#946;-glycerophosphate (Sigma), 10 n<it>M</it> dexamethasone (Sigma)</p></entry>
+                     </row>
+                     <row>
+                        <entry colname="c1"><p>Chondrogenic (FBS/HS)</p></entry>
+                        <entry colname="c2"><p>DMEM/F-12</p></entry>
+                        <entry colname="c3"><p>None</p></entry>
+                        <entry colname="c4"><p>None</p></entry>
+                        <entry colname="c5"><p>1% GlutaMAX, 0.3% p/s, 10 mg/ml human serum albumin (Sigma), 8 &#956;g/ml holo-transferrin human (Sigma), 5 ng/ml sodium selenite (Sigma), 10 &#956;g/ml insulin (Life Technologies), 1 &#956;g/ml linoleic acid (Sigma), 50 &#956;<it>M</it> L-ascorbic acid 2-phosphate (Sigma), 55 &#956;<it>M</it> sodium pyruvate (Life Technologies), 23 &#956;<it>M</it> L-proline (Sigma), 10 ng/ml TGF-&#946; (Sigma)</p></entry>
+                     </row>
+                     <row>
+                        <entry colname="c1"><p>Adipogenic (HS)</p></entry>
+                        <entry colname="c2"><p>DMEM/F-12</p></entry>
+                        <entry colname="c3"><p>10% Human serum</p></entry>
+                        <entry colname="c4"><p>None</p></entry>
+                        <entry colname="c5"><p>1% GlutaMAX, 1% p/s, 33 &#956;<it>M</it> biotin, 1 &#956;<it>M</it> dexamethasone, 100 n<it>M</it> insulin, 17 &#956;<it>M</it> pantothenate, 250 &#956;<it>M</it> IBMX for 48-hour induction after cell seeding</p></entry>
+                     </row>
+                     <row>
+                        <entry colname="c1"><p>Osteogenic (HS)</p></entry>
+                        <entry colname="c2"><p>DMEM/F-12</p></entry>
+                        <entry colname="c3"><p>10% Human serum</p></entry>
+                        <entry colname="c4"><p>None</p></entry>
+                        <entry colname="c5"><p>1% GlutaMAX, 1% p/s, 150 &#956;<it>M</it> L-ascorbic acid 2-phosphate, 10 m<it>M</it> &#946;-glycerophosphate, 10 n<it>M</it> dexamethasone</p></entry>
+                     </row>
+                     <row>
+                        <entry colname="c1" morerows="1" valign="top"><p>Adipogenic (XF/SF CS)</p></entry>
+                        <entry colname="c2"><p>StemPro MSC</p></entry>
+                        <entry colname="c3" morerows="1" valign="top"><p>none</p></entry>
+                        <entry colname="c4" morerows="1" valign="top"><p>CELLstart&#8482; coating</p></entry>
+                        <entry colname="c5" morerows="1" valign="top"><p>StemPro MSC SFM XenoFree supplement, 1% GlutaMAX, 0.3% p/s, 33 &#956;<it>M</it> biotin, 1 &#956;<it>M</it> dexamethasone, 100 n<it>M</it> insulin, 17 &#956;<it>M</it> pantothenate, 250 &#956;<it>M</it> IBMX for 48-hour induction after cell seeding</p></entry>
+                     </row>
+                     <row>
+                        <entry colname="c2"><p>SFM</p></entry>
+                     </row>
+                     <row>
+                        <entry colname="c1" morerows="1" valign="top"><p>Osteogenic (XF/SF CS)</p></entry>
+                        <entry colname="c2"><p>StemPro MSC</p></entry>
+                        <entry colname="c3" morerows="1" valign="top"><p>none</p></entry>
+                        <entry colname="c4" morerows="1" valign="top"><p>CELLstart&#8482; coating</p></entry>
+                        <entry colname="c5" morerows="1" valign="top"><p>StemPro MSC SFM XenoFree supplement, 1% GlutaMAX, 0.3% p/s, 150 &#956;<it>M</it> L-ascorbic acid 2-phosphate, 10 m<it>M</it> &#946;-glycerophosphate, 10 n<it>M</it> dexamethasone</p></entry>
+                     </row>
+                     <row>
+                        <entry colname="c2"><p>SFM</p></entry>
+                     </row>
+                     <row>
+                        <entry colname="c1" morerows="1" valign="top"><p>Chondrogenic (XF/SF CS and XF/SF CM)</p></entry>
+                        <entry colname="c2"><p>StemPro MSC</p></entry>
+                        <entry colname="c3" morerows="1" valign="top"><p>None</p></entry>
+                        <entry colname="c4" morerows="1" valign="top"><p>None</p></entry>
+                        <entry colname="c5" morerows="1" valign="top"><p>1% GlutaMAX, 0.3% p/s, 10 mg/ml human serum albumin, 8 &#956;g/ml holo-transferrin human, 5 ng/ml sodium selenite, 10 &#956;g/ml insulin, 1 &#956;g/ml linoleic acid, 50 &#956;<it>M</it> L-ascorbic acid 2-phosphate, 55 &#956;<it>M</it> sodium pyruvate, 23 &#956;<it>M</it> L-proline, 10 ng/ml TGF-&#946;</p></entry>
+                     </row>
+                     <row>
+                        <entry colname="c2"><p>SFM</p></entry>
+                     </row>
+                     <row>
+                        <entry colname="c1" morerows="1" valign="top"><p>Adipogenic (XF/SF CM)</p></entry>
+                        <entry colname="c2"><p>StemPro MSC</p></entry>
+                        <entry colname="c3" morerows="1" valign="top"><p>None</p></entry>
+                        <entry colname="c4" morerows="1" valign="top"><p>Coating Matrix Kit</p></entry>
+                        <entry colname="c5" morerows="1" valign="top"><p>StemPro MSC SFM XenoFree supplement, 1% GlutaMAX, 0.3% p/s, 33 &#956;<it>M</it> biotin, 1 &#956;<it>M</it> dexamethasone, 100 n<it>M</it> insulin, 17 &#956;<it>M</it> pantothenate, 250 &#956;<it>M</it> IBMX for 48-hour induction after cell seeding</p></entry>
+                     </row>
+                     <row>
+                        <entry colname="c2"><p>SFM</p></entry>
+                     </row>
+                     <row>
+                        <entry colname="c1" morerows="1" rowsep="1" valign="top"><p>Osteogenic (XF/SF CM)</p></entry>
+                        <entry colname="c2"><p>StemPro MSC</p></entry>
+                        <entry colname="c3" morerows="1" rowsep="1" valign="top"><p>None</p></entry>
+                        <entry colname="c4" morerows="1" rowsep="1" valign="top"><p>Coating Matrix Kit</p></entry>
+                        <entry colname="c5" morerows="1" rowsep="1" valign="top"><p>StemPro MSC SFM XenoFree supplement, 1% GlutaMAX, 0.3% p/s, 150 &#956;M L-ascorbic acid 2-phosphate, 10 mM beta-glycerophosphate, 10 nM dexamethasone</p></entry>
+                     </row>
+                     <row rowsep="1">
+                        <entry colname="c2"><p>SFM</p></entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </table>
+         </sec>
+         <sec>
+            <st>
+               <p>ALP staining</p>
+            </st>
+            <p>For alkaline phosphatase (ALP) staining, cells were seeded on 12-well plates at a density of 2.5 &#215; 10<sup>3</sup> cells/cm<sup>2</sup>. The differentiation degree after 14 days of osteogenic induction was determined by the level of ALP activity by using a leukocyte ALP kit (Sigma-Aldrich, St. Louis, MO, USA), as described previously <abbrgrp><abbr bid="B21">21</abbr></abbrgrp>. In brief, cell cultures were washed twice with DPBS and fixed with 4% paraformaldehyde (PFA) or citrate-buffered formaldehyde-acetone solution. Subsequently, cells were rinsed with deionized water, and ALP staining solution was added and incubated for 15 minutes. After rinsing the cells with deionized water, color formation was analyzed microscopically.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Oil Red-O staining</p>
+            </st>
+            <p>For adipogenic differentiation, ASCs were seeded on 12-well plates at a density of 2.0 &#215; 10<sup>4</sup> cells/cm<sup>2</sup>. After 14 days of adipogenic induction culture, differentiation was confirmed by Oil Red-O staining, indicating the formation of intracellular lipid accumulation, as described earlier <abbrgrp><abbr bid="B2">2</abbr></abbrgrp>. In brief, the cells were washed 3 times in DPBS and fixed with 4% PFA. Subsequently, cells were rinsed with deionized water and pretreated with 60% isopropanol after the additions of the 0.5% Oil Red-O staining solution in 60% isopropanol (Sigma-Aldrich). After 15-minute incubation in RT, the cells were rinsed with deionized water, and adipocytes were identified with microscopy as cells with red-stained lipid vesicles. In a later study, the cells were directly fixed and stained with 0.5% Oil Red-O staining solution with 60% isopropanol and then rinsed with distilled water before conducting microscopic assessment of adipocyte generation.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Alcian blue staining</p>
+            </st>
+            <p>The chondrogenic differentiation potential was assessed with a micromass culture method, as described previously <abbrgrp><abbr bid="B3">3</abbr><abbr bid="B19">19</abbr><abbr bid="B22">22</abbr></abbrgrp>. In brief, 8 &#215; 10<sup>4</sup> cells were seeded on a 24-well culture plate in a 10-&#956;l volume and were allowed to adhere for 3 hours before the addition of chondrogenic induction medium. After 14 days of chondrogenic induction, differentiation was confirmed by using the Alcian blue staining method, as described earlier <abbrgrp><abbr bid="B23">23</abbr></abbrgrp>. In brief, ASC pellets were rinsed with DPBS and fixed with 4% PFA. Subsequently, cells were rinsed twice with deionized water and stored in 70% ethanol. Pellets were dehydrated, embedded in paraffin, and sectioned at 5-mm thickness. The sections were rehydrated and stained with Alcian blue (pH 1.0) to detect sulfated glycosaminoglycans (GAGs) by using Nuclear Fast Red solution (Biocare Medical, Concord, MA, USA) as a counterstain.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Real-time quantitative PCR</p>
+            </st>
+            <p>Total RNA was isolated by using the NucleoSpin RNA II kit (Macherey-Nagel, D&#252;ren, Germany) according to manufacturer&#8217;s instructions. The RNA samples were reverse transcribed to first-strand cDNA by using the High-Capacity cDNA Reverse Transcriptase Kit (Applied Biosystems, Foster City, CA, USA). The mRNA levels of adipogenesis/osteogenesis-associated genes were analyzed by the qRT&#8211;PCR method as described previously <abbrgrp><abbr bid="B23">23</abbr></abbrgrp>. In brief, the real-time detection of PCR product was monitored by using the SYBR Green dye (Applied Biosystems, Warrington, UK). The housekeeping gene, the ribosomal phosphoprotein P0 (<it>RPLP0</it>), was used as an internal control, and the relative expression level for each gene was calculated according to a previously described mathematical model <abbrgrp><abbr bid="B24">24</abbr></abbrgrp>. The expression of adipogenesis-associated genes, peroxisome proliferator-activated receptor &#947; (<it>PPAR&#947;</it>), and adipocyte Protein 2 (<it>aP2</it>) was analyzed as well as osteogenesis-associated genes such as distal-less homeobox transcription factor 5 (<it>DLX5</it>), <it>ALP</it>, and runt-related transcription factor 2 (<it>RUNX2</it>). Sequences and accession numbers of all primers (Oligomer Oy, Helsinki, Finland) are displayed in Table&#160;<tblr tid="T3">3</tblr>. The reactions were conducted and monitored with ABI Prism 7000 Sequence Detection System (Applied Biosystems, Warrington, UK).</p>
+            <table id="T3">
+               <title>
+                  <p>Table 3</p>
+               </title>
+               <caption>
+                  <p><b>Primer sequences of marker genes determined</b></p>
+               </caption>
+               <tgroup align="left" cols="4">
+                  <colspec align="left" colname="c1" colnum="1" colwidth="1*"/>
+                  <colspec align="left" colname="c2" colnum="2" colwidth="1*"/>
+                  <colspec align="left" colname="c3" colnum="3" colwidth="1*"/>
+                  <colspec align="left" colname="c4" colnum="4" colwidth="1*"/>
+                  <thead valign="top">
+                     <row rowsep="1">
+                        <entry colname="c1"><p><b>Name</b></p></entry>
+                        <entry colname="c2"><p><b>Primer direction</b></p></entry>
+                        <entry colname="c3"><p><b>Sequences</b></p></entry>
+                        <entry colname="c4"><p><b>Product size (bp)</b></p></entry>
+                     </row>
+                  </thead>
+                  <tfoot>
+                     <p><sup>1</sup>Ribosomal protein, large, P0, (Acc. No: NM_001002); <sup>2</sup>fatty acid-binding protein 4, (Acc. No: NM_001442); <sup>3</sup>peroxisome proliferator-activated receptor gamma (Acc. No: NM_015869), <sup>4</sup>runt-related transcription factor 2 (Acc. No: NM_004348); <sup>4</sup>distal-less homeobox transcription factor 5 (Acc. No: NM_005221); <sup>5</sup>alkaline phosphatase (Acc. No: NM_000478).</p>
+                  </tfoot>
+                  <tbody valign="top">
+                     <row>
+                        <entry colname="c1" morerows="1" valign="top"><p><it>hRPLP0</it><sup>1</sup></p></entry>
+                        <entry colname="c2"><p>Frw</p></entry>
+                        <entry colname="c3"><p>5<sup>&#8242;</sup>-AAT CTC CAG GGG CAC CAT T-3<sup>&#8242;</sup></p></entry>
+                        <entry colname="c4" morerows="1" valign="top"><p>70</p></entry>
+                     </row>
+                     <row>
+                        <entry colname="c2"><p>Rev</p></entry>
+                        <entry colname="c3"><p>5<sup>&#8242;</sup>-CGC TGG CTC CCA CTT TGT-3<sup>&#8242;</sup></p></entry>
+                     </row>
+                     <row>
+                        <entry colname="c1" morerows="1" valign="top"><p><it>haP2</it><sup>2</sup></p></entry>
+                        <entry colname="c2"><p>Frw</p></entry>
+                        <entry colname="c3"><p>5<sup>&#8242;</sup>-GGTGGTGGAATGCGTCATG-3<sup>&#8242;</sup></p></entry>
+                        <entry colname="c4" morerows="1" valign="top"><p>71</p></entry>
+                     </row>
+                     <row>
+                        <entry colname="c2"><p>Rev</p></entry>
+                        <entry colname="c3"><p>5<sup>&#8242;</sup>-CAACGTCCCTTGGCTTATGC-3<sup>&#8242;</sup></p></entry>
+                     </row>
+                     <row>
+                        <entry colname="c1" morerows="1" valign="top"><p><it>hPPARG</it><sup>3</sup></p></entry>
+                        <entry colname="c2"><p>Frw</p></entry>
+                        <entry colname="c3"><p>5<sup>&#8242;</sup>-CAGTGTGAATTACAGCAAACC &#8722;3<sup>&#8242;</sup></p></entry>
+                        <entry colname="c4" morerows="1" valign="top"><p>100</p></entry>
+                     </row>
+                     <row>
+                        <entry colname="c2"><p>Rev</p></entry>
+                        <entry colname="c3"><p>5<sup>&#8242;</sup>-ACAGTGTATCAGTGAAGGAAT-3<sup>&#8242;</sup></p></entry>
+                     </row>
+                     <row>
+                        <entry colname="c1" morerows="1" valign="top"><p><it>hRUNX2</it><sup>4</sup></p></entry>
+                        <entry colname="c2"><p>Frw</p></entry>
+                        <entry colname="c3"><p>5<sup>&#8242;</sup>-CCCGTGGCCTTCAAGGT-3<sup>&#8242;</sup></p></entry>
+                        <entry colname="c4" morerows="1" valign="top"><p>76</p></entry>
+                     </row>
+                     <row>
+                        <entry colname="c2"><p>Rev</p></entry>
+                        <entry colname="c3"><p>5<sup>&#8242;</sup>-CGTTACCCGCCATGACAGTA-3<sup>&#8242;</sup></p></entry>
+                     </row>
+                     <row>
+                        <entry colname="c1" morerows="1" valign="top"><p><it>hDLX5</it><sup>5</sup></p></entry>
+                        <entry colname="c2"><p>Frw</p></entry>
+                        <entry colname="c3"><p>5<sup>&#8242;</sup>-ACCATCCGTCTCAGGAATCG-3<sup>&#8242;</sup></p></entry>
+                        <entry colname="c4" morerows="1" valign="top"><p>75</p></entry>
+                     </row>
+                     <row>
+                        <entry colname="c2"><p>Rev</p></entry>
+                        <entry colname="c3"><p>5<sup>&#8242;</sup>-CCCCCGTAGGGCTGTAGTAGT-3<sup>&#8242;</sup></p></entry>
+                     </row>
+                     <row>
+                        <entry colname="c1" morerows="1" rowsep="1" valign="top"><p><it>hALP</it><sup>6</sup></p></entry>
+                        <entry colname="c2"><p>Frw</p></entry>
+                        <entry colname="c3"><p>5<sup>&#8242;</sup>-ATGTCATCATGTTCCTGGGAGAT-3<sup>&#8242;</sup></p></entry>
+                        <entry colname="c4" morerows="1" rowsep="1" valign="top"><p>79</p></entry>
+                     </row>
+                     <row rowsep="1">
+                        <entry colname="c2"><p>Rev</p></entry>
+                        <entry colname="c3"><p>5<sup>&#8242;</sup>-TGGTGGAGCTGACCCTTGAG-3<sup>&#8242;</sup></p></entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </table>
+         </sec>
+         <sec>
+            <st>
+               <p>Statistical analyses</p>
+            </st>
+            <p>One-way ANOVA with Bonferroni <it>post hoc</it> test was used to analyze the effect of different culture conditions on cell-proliferation rate, cell surface-marker expression, and differentiation potential by using IBM SPSS software version 19 (IBM SPSS Statistics 19, USA). Differences in proliferation rate between different culture conditions were analyzed separately at each time point. The statistical analyses were performed at the significance level <it>P</it> &lt; 0.05, and data are presented as mean &#177; SD.</p>
+         </sec>
+      </sec>
+      <sec>
+         <st>
+            <p>Results</p>
+         </st>
+         <sec>
+            <st>
+               <p>XF/SF isolation of ASCs was the most critical step of the cell culture</p>
+            </st>
+            <p>The isolation of ASCs was conducted in three different culture conditions, in completely XF/SF conditions by using carboxyl-coated flasks (PureCoat&#8482;, BD), as well as in HS- and FBS-supplemented medium by using normal Nunclon&#8482; cell-culture flasks. Carboxyl coating was used during the passage 0 after isolation in XF/SF conditions because Nunclon&#8482; cell-culture flasks were unable to provide sufficient initial cell adhesion for ASCs in XF/SF medium. Still, after the first passaging, ASCs were able to grow in normal Nunclon&#8482; flasks in XF/SF medium in the presence of Coating Matrix kit or CELLstart&#8482; coating. The adhesion of ASCs after isolation in XF/SF medium was a critical step of XF/SF culture, and the XF/SF isolation was not successful with all the cell lines; cells from six donors were isolated, but only four donor cell lines were able to adhere and stay viable under XF/SF conditions. Thus, the isolation efficiency in XF/SF conditions was donor dependent. Nevertheless, if the cells were initially able to adhere, cell proliferation in XF/SF medium was efficient in further passages, and the cell-population doubling was notably faster than that in FBS/HS-containing medium (Figure&#160;<figr fid="F2">2</figr>). Subsequently, all experiments were carried out with four donor cell lines isolated in HS, FBS, and XF/SF conditions.</p>
+            <fig id="F2">
+               <title>
+                  <p>Figure 2</p>
+               </title>
+               <caption>
+                  <p>WST-1 proliferation assay</p>
+               </caption>
+               <text>
+                  <p><b>WST-1 proliferation assay.</b> Cumulative population doubling was analyzed in different culture conditions, in FBS- and HS-containing medium, as well as in XF/SF medium with Coating Matrix Kit and with CELLstart&#8482; coating at time points 1, 4, 7, and 11 day in two passages 2 (<b>A</b>) and 5 (<b>B</b>). The data in the diagrams are presented as mean &#177; SD. Significantly higher cumulative population doubling was observed in XF/SF conditions compared with HS/FBS cultures in passage 2 at 4-, 7-, and 11-day time points. Furthermore, statistically significant difference in population doubling were seen in passage 5 at 7- and 11-day time points between cells grown in XF/SF CM medium and FBS-containing medium.</p>
+               </text>
+               <graphic file="scrt175-2"/>
+            </fig>
+         </sec>
+         <sec>
+            <st>
+               <p>Cumulative population doubling of ASCs expanded under XF/SF conditions versus medium containing HS or FBS</p>
+            </st>
+            <p>The cumulative population doubling of ASCs in XF/SF medium versus serum-containing medium was analyzed with WST-1 assay at time points 1, 4, 7, and 11 days in two passages, 2 and 5. A statistically significant increase in population doubling was seen in cells grown in XF/SF conditions compared with serum containing medium in passage 2 at 4-, 7-, and 11-day time points (Figure&#160;<figr fid="F2">2</figr>). Furthermore, a statistically significant difference was seen in passage 5 at 7- and 11-day time points between cells grown in XF/SF CM medium and FBS-containing medium (Figure&#160;<figr fid="F2">2</figr>).</p>
+            <p>Differences in population doublings between passages 2 and 5 were also statistically significant. In HS-supplemented medium; population doubling in passage 5 was significantly increased as compared with passage 2 at 4-, 7-, and 11-day time points, and in FBS medium, a statistically significant increase was seen in passage 5 at days 4 and 11 time points (Figure&#160;<figr fid="F2">2</figr>). Of note in passage 5, the population doubling in HS medium was higher than in FBS-containing medium at 11 days, whereas in passage 2, it was vice versa.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Morphology of ASCs expanded under XF/SF conditions versus HS- or FBS-containing medium</p>
+            </st>
+            <p>The morphologic differences between cells cultured in different conditions were consistent with the cell characteristics seen during the proliferation experiments. The adhesion of the cells grown in XF/SF medium was relatively weak during the isolation, which was also reflected in the morphology of ASCs in XF/SF conditions. Cells grown in the presence of serum adopted wide spindle-shaped and almost cuboidal morphology, whereas XF/SF cells were smaller, more spindle-shaped, and more fibroblast like (Figure&#160;<figr fid="F3">3</figr>). The morphologic differences suggest that spindle-shaped cells may not be as strongly attached as cells grown in serum-containing medium.</p>
+            <fig id="F3">
+               <title>
+                  <p>Figure 3</p>
+               </title>
+               <caption>
+                  <p>Cell morphology</p>
+               </caption>
+               <text>
+                  <p><b>Cell morphology. </b>(<b>A</b>) Morphologic images of cells cultured in different conditions: FBS, HS, XF/SF CM, and XF/SF CS at time point 4 days in passage 2. The morphology of ASCs grown in XF/SF medium is more spindle-shaped and smaller than in cells grown under serum-containing medium (FBS, HS). Scale bar, 100 &#956;m. (<b>B</b>) Flow-cytometric analysis confirms the morphologic characteristics observed with light microscopy. In XF/SF culture conditions (CM and CS), the cell cloud in the forward and side scatter is more uniform and contains less debris than does a cloud of cells grown in FBS or HS medium, suggesting a more homogeneous population.</p>
+               </text>
+               <graphic file="scrt175-3"/>
+            </fig>
+            <p>In addition to light microscopy, cell populations were examined by flow cytometry, especially the uniformity of the cells in the forward and side scatter. The cells expanded in XF/SF medium displayed a more homogeneous population, seen as a uniform cluster with less debris when compared with cells expanded in serum-containing medium (Figure&#160;<figr fid="F3">3</figr>).</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Immunophenotype of ASCs expanded under XF/SF conditions versus HS- or FBS-containing medium</p>
+            </st>
+            <p>Cell-surface marker expression of ASCs was analyzed with flow cytometry to compare the expression profile of cells expanded in XF/SF conditions against cells expanded in HS- or FBS-containing medium at passages 2 and 5 (Figure&#160;<figr fid="F4">4</figr>). In general, the characteristic immunophenotype of ASCs was maintained in every culture condition, with some minor differences observed between XF/SF conditions and serum-containing media, as well as in the expression of specific markers between passages 2 and 5.</p>
+            <fig id="F4">
+               <title>
+                  <p>Figure 4</p>
+               </title>
+               <caption>
+                  <p>Surface-marker expression of undifferentiated ASCs</p>
+               </caption>
+               <text>
+                  <p><b>Surface-marker expression of undifferentiated ASCs.</b> Immunophenotype of cells expanded in four different culture conditions; FBS, HS, XF/SF CM, and XF/SF CS was investigated in passages 2 and 5. The data in the diagrams are presented as mean &#177; SD. Cells expanded under XF/SF conditions showed significantly lower expression of CD54 (ICAM-1) compared with cells expanded in serum containing medium in passage 2. Furthermore, statistically significant differences in the expression of CD54 were seen between HS medium and XF/SF conditions in passage 5. Characteristic immunophenotypes of ASCs were maintained in every culture conditions with minor differences.</p>
+               </text>
+               <graphic file="scrt175-4"/>
+            </fig>
+            <p>ASCs showed positive expression (>90%) for the markers CD73 (Ecto 5&#8217; nucleotidase), CD90 (Thy-1) and CD105 (Endoglin) in all of the studied culture conditions in both passages (Figure&#160;<figr fid="F4">4</figr>), except the slightly lower expression of CD73 in FBS medium in P2 and CD105 in HS medium in P5. In contrast, ASCs lacked the expression (&lt;2%) of CD11a (Integrin &#945;-L), CD14 (LPS-Receptor), CD19 (B4), CD80 (B7-1), CD86 (B7-2), and HLA-DR (major histocompatibility class II receptor) in every culture condition with a few exceptions. Low expression (>2% to &lt;7%) was observed for cells grown in XF/SF CM condition at P2 (CD19, CD86), and in XF/SF CS condition at P2 (CD19, CD80, CD86).</p>
+            <p>Moderate expression (>7% to &lt;41%) was observed for the hematopoietic progenitor and endothelial cell marker CD34, except for the low expression in FBS and HS cultures at P5. ASCs lacked the expression of leukocyte common antigen CD45 in FBS and HS cultures, and low expression was observed in XF/SF conditions. The largest variation between different culture conditions was seen in the expression of CD54, which showed significantly lower expression in cells expanded under XF/SF conditions compared with cells expanded in serum-containing medium at P2. Furthermore, statistically significant differences were seen between HS medium and XF/SF conditions at passage 5. Generally, ASCs cultured in FBS or HS medium showed moderate expression of CD54 (intercellular adhesion molecule 1, ICAM1), whereas low expression was observed for cells cultured in XF/SF conditions. In addition, whereas the expression of CD34 and CD54 was decreased from passage 2 to passage 5, no statistical differences were observed between passages.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Multipotentiality of ASCs expanded under XF/SF conditions versus HS- or FBS-containing medium</p>
+            </st>
+            <p>To test the multilineage differentiation potential of ASCs expanded under XF/SF conditions versus HS or FBS medium, the differentiation capacity toward the adipogenic, osteogenic, and chondrogenic lineages was analyzed. After the 14 days of differentiation induction, the differentiation degree was examined by specific staining methods and by the analysis of gene expression.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Adipogenic differentiation</p>
+            </st>
+            <p>In the adipogenic-induction cultures, oil droplets were visible by light microscopy in cells expanded in HS- or FBScontaining medium. In XF/SF induction culture, differentiation was clearly initiated but did not progress very efficiently, which was shown by smaller oil droplets in Oil Red-O staining (Figure&#160;<figr fid="F5">5</figr>).</p>
+            <fig id="F5">
+               <title>
+                  <p>Figure 5</p>
+               </title>
+               <caption>
+                  <p>Multilineage differentiation potential of ASCs</p>
+               </caption>
+               <text>
+                  <p><b>Multilineage differentiation potential of ASCs.</b> Differentiation potential of ASCs cultured in four different conditions; FBS, HS, XF/SF medium with Coating Matrix Kit, or CELLstart coating was investigated toward adipogenic, osteogenic, and chondrogenic cells. Oil Red-O staining indicates the formation of intracellular lipid in cells going through adipogenic differentiation (scale bar, 100 &#956;m); ALP staining reveals the alkaline phosphatase activity in osteogenic-differentiation cultures (scale bar, 300 &#956;m), and Alcian blue staining recognizes the glycosaminoglycans of the cells going through chondrogenic differentiation (scale bar, 100 &#956;m). Adipogenesis and osteogenesis was more effective in serum-containing media, whereas clearly the most intense chondrogenesis was seen in XF/SF cultures.</p>
+               </text>
+               <graphic file="scrt175-5"/>
+            </fig>
+            <p>Nevertheless, a trend of higher expression of the gene <it>PPAR&#947;</it>, the central transcriptional regulator of adipogenesis, was noted in XF/SF conditions as compared with serum-containing medium, but no significant differences were seen because of high standard deviation (Figure <figr fid="F6">6</figr>A). Further, the expression of <it>aP2</it> (fatty acid-binding protein) (Figure&#160;<figr fid="F6">6</figr>B) was consistent with the results of Oil Red-O staining (Figure&#160;<figr fid="F5">5</figr>). The most intense differentiation was seen in HS medium, which was demonstrated by large oil droplets in Oil Red-O staining and by a significant increase in the expression of <it>aP2</it> gene (Figure&#160;<figr fid="F6">6</figr>B) in ASCs cultured in HS-supplemented induction medium compared with HS control medium and the cells in all the other induction media in passage 2. Although the serum-containing medium and especially HS medium appeared to be the best condition for adipogenic differentiation, cells cultured under XF/SF conditions showed signs of early differentiation.</p>
+            <fig id="F6">
+               <title>
+                  <p>Figure 6</p>
+               </title>
+               <caption>
+                  <p>Gene-expression analysis.</p>
+               </caption>
+               <text>
+                  <p><b>Gene-expression analysis.</b> Differentiation-specific gene-expression analysis was performed after 14 days of differentiation induction, versus control medium, in different culture conditions: FBS, HS, XF/SF medium with Coating Matrix Kit, and with CELLstart coating in passages 2 and 5. The expression of <it>PPAR&#947;</it> gene (<b>A</b>) and <it>aP2</it> gene (<b>B</b>) demonstrate adipogenesis after 14 days of adipogenic induction. Respectively, the expression of <it>Runx2</it> (<b>C</b>) <it>ALP</it> (<b>D</b>), and <it>DLX5</it> (<b>E</b>) genes indicate osteogenic differentiation after 14 days of osteogenic induction. The expression of <it>ALP</it> and <it>DLX5</it> are presented in passage 5. A significant increase in the expression of aP2 was observed in HS-supplemented induction medium compared with HS control medium, and the cells in all the other induction media in passage 2. Further, the expression of <it>Runx2</it> was significantly increased in XF/SF CM induction medium as compared with FBS/HS inductions in passage 5. Moreover, the response of <it>DLX5</it> to the osteogenic induction was significantly stronger in XF/SF CM-cultured cells when compared with FBS/HS conditions, as well as XF/SF CM control in passage 5. AD, adipogenic differentiation; OD, osteogenic differentiation. The data in the diagrams are presented as mean &#177; SD.</p>
+               </text>
+               <graphic file="scrt175-6"/>
+            </fig>
+            <p>Because the induction response of XF/SF cells to adipogenic differentiation appeared to be attenuated under serum-free condition, we hypothesized that the cells needed more nutrient-rich media to promote efficient adipogenesis. Cryopreserved ASCs cultured in FBS-containing media (passage 1), XF/SF CS (passage 2), and XF/SF CM (passage 2) were thawed, recovered, and grown in their own media. After reaching near confluency, the ASCs were harvested and plated into both FBS-containing or HS-containing media and let grow for 3 days. Then the medium was replaced with adipogenic induction media in either FBS- or HS-containing condition and cultured for 14 days. As predicted, differentiation was more efficient when primed with HS- or FBS-containing medium, but HS media clearly displayed increased differentiation than did FBS media (Figure&#160;<figr fid="F7">7</figr>). No noticeable differences were noted between XF/SF CS and XF/SF CM cells when induced with either FBS- or HS-based adipogenic media.</p>
+            <fig id="F7">
+               <title>
+                  <p>Figure 7</p>
+               </title>
+               <caption>
+                  <p>Adipogenic and osteogenic differentiation potential of ASCs after serum priming.</p>
+               </caption>
+               <text>
+                  <p><b>Adipogenic and osteogenic differentiation potential of ASCs after serum priming.</b> Follow-up study on the differentiation of ASCs performed in five different conditions: (1) FBS, (2) XF/SF CS primed initially in FBS, (3) XF/SF CS primed initially in HS, (4) XF/SF CM primed initially in FBS, and (5) XF/SF CM primed initially in HS. Oil Red-O staining indicates the formation of intracellular lipid in cells going through adipogenic differentiation (scale bar, 100 &#956;m); ALP staining reveals the alkaline phosphatase activity in osteogenic differentiation cultures (scale bar, 100 &#956;m). Inset images are the paired undifferentiated negative controls. Differentiation toward adipogenic and osteogenic cells was more efficient when primed with HS- or FBS-containing medium.</p>
+               </text>
+               <graphic file="scrt175-7"/>
+            </fig>
+         </sec>
+         <sec>
+            <st>
+               <p>Osteogenic differentiation</p>
+            </st>
+            <p>In the osteogenic induction cultures, cells expanded in HS- or FBS-containing medium showed slightly enhanced capacity to undergo osteogenic differentiation than did the cells expanded under XF/SF conditions, based on the ALP staining (Figure&#160;<figr fid="F5">5</figr>). However, the proliferation rate of ASCs grown in XF/SF medium was increased compared with serum-containing medium and, as a result, the wells became confluent, and cells started to detach. Therefore, the weak ALP staining in XF/SF conditions may indicate attachment difficulties of the cells in confluent wells, although the osteogenic differentiation is ongoing (Figure&#160;<figr fid="F5">5</figr>).</p>
+            <p>In addition to ALP staining, the osteogenic differentiation was evaluated by the expression of osteogenesis-specific genes. In contrast to ALP staining results, the expression of <it>Runx2</it> was increased in XF/SF conditions as compared with serum-containing medium, and a statistically significant increase was seen between XF/SF CM and FBS/HS induction media in passage 5 (Figure&#160;<figr fid="F6">6</figr>C). Further, the response of <it>DLX5</it> (Figure&#160;<figr fid="F6">6</figr>E) to the osteogenic induction was stronger in XF/SF cultured cells when compared with FBS/HS conditions, and a statistically significant increase in <it>DLX5</it> expression was seen in cells cultured in XF/SF CM induction media when compared with FBS/HS induction conditions, as well as XF/SF CM control. Also, the alkaline phosphatase staining result was verified at gene-expression level, where a trend of increased expression was observed in every differentiation culture condition when compared with control samples (Figure&#160;<figr fid="F6">6</figr>D). Although the expression of alkaline phosphatase (<it>ALP</it>) was increased after induction, no significant differences were seen because of high standard deviation.</p>
+            <p>To determine whether ALP staining could be enhanced, XF/SF cells were also tested with a serum-based medium to see whether more-efficient osteogenesis could be induced. Cryopreserved ASCs cultured under FBS-containing media (passage 1), XF/SF CS (passage 2), and XF/SF CM (passage 2) were thawed, recovered, and grown in their own media. After reaching near confluency, the ASCs were harvested and plated into both FBS- and HS-containing media and let grown for 3 days. After 3 days, the media were replaced with osteogenic induction medium in either FBS- or HS-containing condition and cultured for 14 days. Differentiation was more efficient when primed with HS- or FBS-containing medium (Figure&#160;<figr fid="F7">7</figr>). No noticeable differences were noted between XF/SF CS and XF/SF CM cells when induced with either FBS- or HS-based osteogenic media.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Chondrogenic differentiation</p>
+            </st>
+            <p>Chondrogenic differentiation was more intense in XF/SF conditions compared with serum containing medium, shown by the Alcian blue staining of proteoglycans after the micromass culture in chondrogenic induction medium (Figure&#160;<figr fid="F5">5</figr>). The size of the pellet was also larger in XF/SF conditions versus HS or FBS cultures. These results suggest the XF/SF conditions promote the cartilage differentiation since the formation of proteoglycans, central components of cartilage tissue, is enhanced in XF/SF cultures.</p>
+         </sec>
+      </sec>
+      <sec>
+         <st>
+            <p>Discussion</p>
+         </st>
+         <p>Today, clinical cell therapies using ASCs are in progress, and several clinical trials are ongoing <abbrgrp><abbr bid="B5">5</abbr></abbrgrp> and require more-reliable, reproducible, and safe methods for <it>in vitro</it> expansion of the cells. Therefore, the transition from FBS- or HS-medium supplementation to defined XF/SF culture conditions would be one of the most important steps forward in considering the suitability of ASCs for clinical use. By removing all the animal-derived components as well as the undefined serum from the cell-culture workflow, the safety of the patient receiving cell transplant can be improved.</p>
+         <p>Traditionally, ASC culture medium has been supplemented with FBS, which is not a preferred option in clinical therapies because of xenogeneic components with critical safety issues <abbrgrp><abbr bid="B12">12</abbr><abbr bid="B25">25</abbr></abbrgrp>. Consequently, different kinds of alternatives for FBS have been studied considering the clinical use of ASCs. Trivedi and colleagues <abbrgrp><abbr bid="B26">26</abbr></abbrgrp> replaced FBS with 20% human albumin during the ASC expansion for clinical use to treat diabetes, whereas Tzouvelekis and colleagues <abbrgrp><abbr bid="B27">27</abbr></abbrgrp> used autologous platelet-rich plasma for the cell expansion to treat patients with pulmonary fibrosis. AutoHS is currently used for the expansion of ASC by our group for the reconstruction of bone defects in the craniomaxillofacial area <abbrgrp><abbr bid="B4">4</abbr><abbr bid="B28">28</abbr></abbrgrp>. However, as mentioned earlier, limitations are associated with the use of autoHS or serum derivatives, such as lot-to-lot variability <abbrgrp><abbr bid="B17">17</abbr></abbrgrp>, limited availability, and undefined composition, and therefore, the use of XF/SF medium would be the preferred option.</p>
+         <p>Studies have been performed on ASCs/BMSCs studying the defined XF- or SF-culture conditions; Dromard and colleagues <abbrgrp><abbr bid="B29">29</abbr></abbrgrp> demonstrated that ASCs can be expanded as floating spheres in defined SF-culture systems supplemented with 2% human plasma and specific growth factors. Further, Santos <it>et al</it>. <abbrgrp><abbr bid="B30">30</abbr></abbrgrp> investigated a microcarrier-based bioreactor system for the XF/SF expansion of ASCs and BMSCs. Moreover, the suitability of human platelet lysate (PL) for FBS substitution has been investigated by several groups. Schallmoser and colleagues <abbrgrp><abbr bid="B15">15</abbr></abbrgrp> introduced a standard protocol for platelet preparation for animal protein-free cultures of ASCs, and Naajikens <it>et al</it>. <abbrgrp><abbr bid="B31">31</abbr></abbrgrp> showed that PL-cultured ASCs had a similar differentiation capacity and increased proliferation rate when compared with FBS cultures. Blande <it>et al.</it><abbrgrp><abbr bid="B32">32</abbr></abbrgrp>, in contrast, showed that ASC population doubling time in PL cultures was significantly lower than that in FBS cultures, but the immunophenotype was similar, and both cultures retained the differentiation potential of the cells.</p>
+         <p>Still, a better-defined culture environment is needed, and to our knowledge, this study is the first report describing ASC isolation and expansion in completely XF/SF conditions maintaining the basic stem cell characteristics of ASCs. In the past, XF or SF expansion of mesenchymal stem cells has been reported, but the cell isolation and early expansion and differentiation studies were carried out in serum-containing medium <abbrgrp><abbr bid="B19">19</abbr><abbr bid="B30">30</abbr><abbr bid="B33">33</abbr><abbr bid="B34">34</abbr><abbr bid="B35">35</abbr></abbrgrp>. In this study, we isolated the cells without serum exposure in XF/SF conditions by using BD PureCoat carboxyl flasks. Onward from passage 1, the cells were able to grow on basic Nunclon &#916; surface vessels in XF/SF conditions when either CELLstart CTS coating or XF/SF CM was used. Considering the future clinical applications, it is an advance that the cells are isolated and expanded in fully XF/SF culture conditions instead of using serum supplementation at any point of the culture. If the patient is exposed to undefined components under <it>in vitro</it> expansion, an increased risk occurs for cross-contaminations and immune reactions in a patient receiving the cell transplant. Nevertheless, patient safety is still the most important aspect considering clinical use of ASCs.</p>
+         <p>In addition to safety, it is advantageous for <it>in vitro</it> expansion of cells to be performed in a shorter time scale. Our studies on the cell-proliferation rate were consistent with the results of earlier studies of mesenchymal stem cell cultures under XF or SF conditions <abbrgrp><abbr bid="B19">19</abbr><abbr bid="B33">33</abbr><abbr bid="B34">34</abbr></abbrgrp> in which the higher proliferation rate of XF- or SF-cultured cells compared with FBS cultures was demonstrated. In our study, the cumulative population doubling in XF/SF medium was superior when compared with both FBS and HS conditions. Efficient expansion of ASCs in XF/SF conditions is crucial for clinical sustainability where a large cell number is required in a minimum time scale.</p>
+         <p>Cell surface-marker expression profile of ASCs was largely similar between cells grown under different culture conditions, except the significant difference in the expression of CD54 (ICAM-1), which is a marker of endothelial cells and cells of the immune system. To our knowledge, CD54 expression of ASCs has not been studied earlier in XF/SF conditions. The lower expression of CD54 may suggest that a more homogeneous cell population is achieved through more-selective isolation and expansion protocols compared with cells isolated in the presence of serum. In addition, weaker cell adhesion under XF/SF conditions was observed, which may reflect on lower expression of the adhesion molecule ICAM1 (CD54). This aspect of XF/SF cultures and the possible selective effect on cell population has to be investigated in subsequent XF/SF studies, especially when a coating is used.</p>
+         <p>Some variations were also seen in the expression of CD11a (integrand am), CD14 (lip polysaccharide receptor), CD19 (leukotriene B4 receptor), and CD86 (costimulatory molecule for T-cell activation) on cells grown in XF/SF conditions versus serum-containing medium. All of these markers are known to interact with immune-related cells, and therefore, the culture conditions may affect the immunogenicity of ASCs.</p>
+         <p>The minimal criterion for the immunophenotype of MSCs described by Dominici <it>et al</it>. <abbrgrp><abbr bid="B7">7</abbr></abbrgrp> was defined for cells cultured under standard condition in a medium with FBS supplementation. However, our current results with XF/SF cells demonstrate that the cell surface-marker profile applies to ASCs cultured under XF/SF conditions as well. The hematopoietic progenitor cell marker CD34 was moderately expressed in both XF/SF and serum-supplemented conditions in contrast to earlier described criteria. However, similar results for CD34 expression have been reported by others <abbrgrp><abbr bid="B36">36</abbr><abbr bid="B37">37</abbr></abbrgrp>, and the variable interpretations could be explained by differences cell-culturing and -passaging protocols. In the current study, the expression of CD34 and CD54 was higher in passage 2, but the expression level was decreased in later passages, indicating a more homogeneous population.</p>
+         <p>The chondrogenic differentiation capacity of ASCs cultured under XF/SF conditions was strong compared with cells cultured in serum-containing medium based on the Alcian blue staining. Similar findings have been shown by Chase <it>et al</it>. <abbrgrp><abbr bid="B31">31</abbr></abbrgrp>, in which a robust chondrogenesis in SF-culture conditions was seen when compared with serum-containing medium. In our study, the Alcian blue staining of proteoglycans was intense in cells expanded under XF/SF conditions, and also the pellet size after micromass-culture was larger compared with serum-containing medium, which was in agreement with Chase&#8217;s results. This result promises potential use of ASCs in chondrogenic applications, but further research is needed to investigate the chondrogenic-differentiation potential of ASCs in XF/SF conditions.</p>
+         <p>Moreover, the differentiation potential toward osteogenic and adipogenic cells was investigated in XF/SF conditions. Unlike in previous studies <abbrgrp><abbr bid="B28">28</abbr><abbr bid="B31">31</abbr><abbr bid="B32">32</abbr></abbrgrp>, osteogenesis and adipogenesis was induced in totally XF/SF differentiation media, and serum was substituted by XF/SF supplement of the STEMPRO MSC SFM kit. When ASCs were cultured under XF/SF conditions, they showed moderate differentiation potential toward osteogenic and adipogenic cells, as demonstrated by ALP and Oil Red-O staining, as the differentiation was not as efficient as seen in serum-containing medium. By optimizing the differentiation protocols for each condition, the efficiency of osteogenic and adipogenic differentiation can be enhanced. Furthermore, the reduced differentiation potential may be due to decreased cell adhesion for cells undergoing differentiation under XF/SF conditions. The weak cell-attachment hypothesis was supported by altered morphology and cell detachment during the proliferation studies, as well as decreased enzymatic digestion time. Another explanation is that ASCs need a more nutrient-rich media to promote robust differentiation. The follow-up differentiation studies with FBS- or HS-based media strongly indicate that nutrients play a key role in efficient differentiation. These findings are consistent with previous studies in which the importance of cell adhesion and nutrients during the cell differentiation has been shown <abbrgrp><abbr bid="B38">38</abbr><abbr bid="B39">39</abbr></abbrgrp>.</p>
+         <p>In addition, the responses seem to be donor specific, and possibly, some cell lines respond better to the osteogenic induction, whereas others respond better to adipogenic induction. Thus, variation in the responses exists, and different stages of differentiation are evident, as shown by the high standard deviations of gene expressions. Also, the mRNA expression and enzymatic activity may not be in line because the regulation occur on posttranscriptional and translational levels, and finally, on the level of formation of an active enzyme. The cells cultured in different conditions may also be at different stages of their differentiation process, thus not expressing the same markers simultaneously. Still, the activity increase in gene-expression level shows commitment to osteogenic or adipogenic pathway, depending on donor cell line and culture condition.</p>
+         <p>Nevertheless, although at an early stage, differentiation occurred in XF/SF medium, showing that the cells have the capacity for trilineage differentiation, as shown by Oil Red-O, ALP, and Alcian blue staining. Chase <it>et al.</it><abbrgrp><abbr bid="B33">33</abbr></abbrgrp> demonstrated that BMSCs expanded in SF conditions and differentiated in serum containing induction medium retained their ability to differentiate into adipocytes, chondrocytes, and osteoblasts. In addition, Yang <it>et al.</it><abbrgrp><abbr bid="B34">34</abbr></abbrgrp> published similar results on the differentiation potential of ASCs expanded in a hypoxic XF environment. The cells expanded in XF medium had equal multilineage differentiation capacity, as compared with cells expanded in traditional serum-containing medium when serum induction was used during the differentiation. Taking these previous results into account, the efficiency of differentiation could easily be improved by serum induction during the culture in differentiation medium.</p>
+         <p>However, the aim of this study was to remove all the undefined components from the cell-culture workflow, and therefore, serum induction is not a preferred option for use during differentiation. Conversely, autoHS supplementation may be used in clinical treatments for differentiation induction, and the cells would still be expanded in defined XF/SF conditions before differentiation. Also, ASCs can be implanted to the defect site in their undifferentiated state, and the cell differentiation then occurs <it>in vivo,</it> as has been performed by our group <abbrgrp><abbr bid="B4">4</abbr><abbr bid="B28">28</abbr></abbrgrp>.</p>
+         <p>Additionally, growth factors and biomaterials can be used to support cell differentiation in XF/SF conditions. Cordonnier and co-workers <abbrgrp><abbr bid="B40">40</abbr></abbrgrp> showed that growth-factor induction is especially effective for cells cultured in low serum. In their study, the effect of bone morphogenetic proteins (BMPs) -2, -4, and &#8722;7 on osteogenic differentiation of BMSCs was evaluated in low (2%) and higher (10%) FBS-supplemented cultures, leading to a conclusion that BMP-4 induction in low-serum cultured cells was the most effective osteogenic inducer. Similarly, the osteogenic differentiation potential of XF/SF cultured ASCs could be enhanced by growth-factor induction. Furthermore, the differentiation capacity of XF/SF-cultured ASCs can be enhanced by inductive biomaterials, such as osteopromoting bioactive glass <abbrgrp><abbr bid="B41">41</abbr></abbrgrp> or &#946;-tricalcium phosphate <abbrgrp><abbr bid="B42">42</abbr></abbrgrp>, or alternatively, chondrogenesis-inductive materials such as 3-D woven polycaprolactone scaffolds <abbrgrp><abbr bid="B43">43</abbr></abbrgrp>.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Conclusions</p>
+         </st>
+         <p>Effective and safe <it>in vitro</it> methods to isolate and expand ASCs are critical for the positive development of cell-therapy applications. Our current results demonstrate that the novel XF/SF culture conditions maintains the stem cell characteristics of ASCs. The cells grown in different culture conditions displayed the characteristic immunophenotype of ASCs with minor differences. Importantly, the proliferation rate of ASCs was significantly increased in XF/SF conditions, compared with HS- and FBS-containing medium. Furthermore, the chondrogenic differentiation potential was intense in XF/SF conditions, whereas adipogenic and osteogenic differentiation were comparable to the FBS condition after serum priming.</p>
+         <p>These novel XF/SF culture conditions have great potential for clinical use, but additional preclinical safety and efficacy studies will be needed and standardized before using in clinical treatments. Off-the-shelf cell products will require effective XF/SF conditions in which the basic stem-cell characteristics of ASCs are maintained, the proliferation rate is high, and the cells retain their functionality. Naturally, a substantial number of safety-assessment studies would have to be done before allogeneic ASCs can be used in clinical cell treatments. The development of efficient and safe XF/SF-culture conditions is one step closer to that goal.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Abbreviations</p>
+         </st>
+         <p>AD: Adipogenic differentiation; alloHS: Allogeneic human serum; ALP: Alkaline phosphatase; aP2: Adipocyte protein 2; ASC: adipose stem cells; autoHS: Autologous human serum; BMPs: Bone morphogenic proteins; BMSC: Bone marrow-derived stem cell; CD: Chondrogenic differentiation; CM: Coating matrix; CS: CELLStart; DLX5: Distal-less homeobox transcription factor 5; FBS: Fetal bovine serum; HS: human serum; ICAM1: Intercellular adhesion molecule 1; MSC: mesenchymal stem cell; OD: Osteogenic differentiation; PPAR&#947;: peroxisome proliferator-activated receptor &#947;; RUNX2: runt-related transcription factor 2; XF/SF: Xeno- and serum-free.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Competing interests</p>
+         </st>
+         <p>SB, AC, and MV are regular employees of Life Technologies and have not received any financial gains. They hold some stocks of Life Tech as employees of Life Technologies. MP, MJ, BM, and SM declare that they have no competing interests. The authors alone are responsible for the content and writing of the manuscript.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Authors&#8217; contributions</p>
+         </st>
+         <p>MP performed the laboratory work, the isolation and expansion of adipose stem cells, proliferation, immunophenotypic, and differentiation studies in cooperation with MJ. MP performed statistical analyses and wrote the manuscript, and MJ participated in producing the figure panels and reviewing the manuscript. BM designed and supervised the study and participated in reviewing the manuscript. SB participated in designing the study, performed the follow-up differentiation studies, and reviewed the manuscript. SM supervised the study and participated in reviewing the manuscript. AC participated in the development of XF/SF coating-free supplements and reviewed the manuscript. MV participated in planning and reviewing of the results and discussion. All authors read and approved the final manuscript.</p>
+      </sec>
+   </bdy>
+   <bm>
+      <ack>
+         <sec>
+            <st>
+               <p>Acknowledgements</p>
+            </st>
+            <p>We thank Ms Anna-Maija Honkala, Mrs Sari Kalliokoski, and Ms Minna Salom&#228;ki for technical assistance, Mrs. Heini Huhtala for statistical consultation, and Mr. Henrik Mannerstr&#246;m for mathematical support. This work was supported by TEKES, the Finnish Funding Agency for Technology and Innovation, Competitive funding from State Subsidiary of Pirkanmaa Hospital District, Scientific Foundation of the City of Tampere, and the Finnish Konkordia Fund.</p>
+         </sec>
+      </ack>
+      <refgrp>
+         <bibl id="B1">
+            <title>
+               <p>Adipose-derived adult stem cells: isolation, characterization, and differentiation potential</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Gimble</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Guilak</snm>
+                  <fnm>F</fnm>
+               </au>
+            </aug>
+            <source>Cytotherapy</source>
+            <pubdate>2003</pubdate>
+            <volume>5</volume>
+            <fpage>362</fpage>
+            <lpage>369</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1080/14653240310003026</pubid>
+                  <pubid idtype="pmpid" link="fulltext">14578098</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B2">
+            <title>
+               <p>Human adipose tissue is a source of multipotent stem cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Zuk</snm>
+                  <fnm>PA</fnm>
+               </au>
+               <au>
+                  <snm>Zhu</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Ashjian</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>De Ugarte</snm>
+                  <fnm>DA</fnm>
+               </au>
+               <au>
+                  <snm>Huang</snm>
+                  <fnm>JI</fnm>
+               </au>
+               <au>
+                  <snm>Mizuno</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Alfonso</snm>
+                  <fnm>ZC</fnm>
+               </au>
+               <au>
+                  <snm>Fraser</snm>
+                  <fnm>JK</fnm>
+               </au>
+               <au>
+                  <snm>Benhaim</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Hedrick</snm>
+                  <fnm>MH</fnm>
+               </au>
+            </aug>
+            <source>Mol Biol Cell</source>
+            <pubdate>2002</pubdate>
+            <volume>13</volume>
+            <fpage>4279</fpage>
+            <lpage>4295</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1091/mbc.E02-02-0105</pubid>
+                  <pubid idtype="pmcid">138633</pubid>
+                  <pubid idtype="pmpid" link="fulltext">12475952</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B3">
+            <title>
+               <p>Multilineage cells from human adipose tissue: implications for cell-based therapies</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Zuk</snm>
+                  <fnm>PA</fnm>
+               </au>
+               <au>
+                  <snm>Zhu</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Mizuno</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Huang</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Futrell</snm>
+                  <fnm>JW</fnm>
+               </au>
+               <au>
+                  <snm>Katz</snm>
+                  <fnm>AJ</fnm>
+               </au>
+               <au>
+                  <snm>Benhaim</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Lorenz</snm>
+                  <fnm>HP</fnm>
+               </au>
+               <au>
+                  <snm>Hedrick</snm>
+                  <fnm>MH</fnm>
+               </au>
+            </aug>
+            <source>Tissue Eng</source>
+            <pubdate>2001</pubdate>
+            <volume>7</volume>
+            <fpage>211</fpage>
+            <lpage>228</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1089/107632701300062859</pubid>
+                  <pubid idtype="pmpid" link="fulltext">11304456</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B4">
+            <title>
+               <p>Cranioplasty with adipose-derived stem cells and biomaterial: a novel method for cranial reconstruction</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Thesleff</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Lehtimaki</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Niskakangas</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Mannerstrom</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Miettinen</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Suuronen</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Ohman</snm>
+                  <fnm>J</fnm>
+               </au>
+            </aug>
+            <source>Neurosurgery</source>
+            <pubdate>2011</pubdate>
+            <volume>68</volume>
+            <fpage>1535</fpage>
+            <lpage>1540</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1227/NEU.0b013e31820ee24e</pubid>
+                  <pubid idtype="pmpid" link="fulltext">21336223</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B5">
+            <title>
+               <p>Adipose-derived stromal cells: their identity and uses in clinical trials: an update</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Casteilla</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Planat-Benard</snm>
+                  <fnm>V</fnm>
+               </au>
+               <au>
+                  <snm>Laharrague</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Cousin</snm>
+                  <fnm>B</fnm>
+               </au>
+            </aug>
+            <source>World J Stem Cells</source>
+            <pubdate>2011</pubdate>
+            <volume>3</volume>
+            <fpage>25</fpage>
+            <lpage>33</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.4252/wjsc.v3.i4.25</pubid>
+                  <pubid idtype="pmcid">3097937</pubid>
+                  <pubid idtype="pmpid" link="fulltext">21607134</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B6">
+            <title>
+               <p>Adipose-derived stem and stromal cells for cell-based therapy: current status of preclinical studies and clinical trials</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Mizuno</snm>
+                  <fnm>H</fnm>
+               </au>
+            </aug>
+            <source>Curr Opin Mol Ther</source>
+            <pubdate>2010</pubdate>
+            <volume>12</volume>
+            <fpage>442</fpage>
+            <lpage>449</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid">20677095</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B7">
+            <title>
+               <p>Minimal criteria for defining multipotent mesenchymal stromal cells: The International Society for Cellular Therapy position statement</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Dominici</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Le Blanc</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Mueller</snm>
+                  <fnm>I</fnm>
+               </au>
+               <au>
+                  <snm>Slaper-Cortenbach</snm>
+                  <fnm>I</fnm>
+               </au>
+               <au>
+                  <snm>Marini</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Krause</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Deans</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Keating</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Prockop</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Horwitz</snm>
+                  <fnm>E</fnm>
+               </au>
+            </aug>
+            <source>Cytotherapy</source>
+            <pubdate>2006</pubdate>
+            <volume>8</volume>
+            <fpage>315</fpage>
+            <lpage>317</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1080/14653240600855905</pubid>
+                  <pubid idtype="pmpid" link="fulltext">16923606</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B8">
+            <title>
+               <p>Survival of human mesenchymal stromal cells from bone marrow and adipose tissue after xenogenic transplantation in immunocompetent mice</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Niemeyer</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Vohrer</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Schmal</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Kasten</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Fellenberg</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Suedkamp</snm>
+                  <fnm>NP</fnm>
+               </au>
+               <au>
+                  <snm>Mehlhorn</snm>
+                  <fnm>AT</fnm>
+               </au>
+            </aug>
+            <source>Cytotherapy</source>
+            <pubdate>2008</pubdate>
+            <volume>10</volume>
+            <fpage>784</fpage>
+            <lpage>795</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1080/14653240802419302</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18951271</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B9">
+            <title>
+               <p>Modulation of immune response and T-cell regulation by donor adipose-derived stem cells in a rodent hind-limb allotransplant model</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Kuo</snm>
+                  <fnm>YR</fnm>
+               </au>
+               <au>
+                  <snm>Chen</snm>
+                  <fnm>CC</fnm>
+               </au>
+               <au>
+                  <snm>Goto</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Lee</snm>
+                  <fnm>IT</fnm>
+               </au>
+               <au>
+                  <snm>Huang</snm>
+                  <fnm>CW</fnm>
+               </au>
+               <au>
+                  <snm>Tsai</snm>
+                  <fnm>CC</fnm>
+               </au>
+               <au>
+                  <snm>Wang</snm>
+                  <fnm>CT</fnm>
+               </au>
+               <au>
+                  <snm>Chen</snm>
+                  <fnm>CL</fnm>
+               </au>
+            </aug>
+            <source>Plast Reconstr Surg</source>
+            <pubdate>2011</pubdate>
+            <volume>128</volume>
+            <fpage>661e</fpage>
+            <lpage>672e</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1097/PRS.0b013e318230c60b</pubid>
+                  <pubid idtype="pmpid" link="fulltext">22094768</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B10">
+            <title>
+               <p>Immunomodulatory effect of human adipose tissue-derived adult stem cells: comparison with bone marrow mesenchymal stem cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Puissant</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Barreau</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Bourin</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Clavel</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Corre</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Bousquet</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Taureau</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Cousin</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Abbal</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Laharrague</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Penicaud</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Casteilla</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Blancher</snm>
+                  <fnm>A</fnm>
+               </au>
+            </aug>
+            <source>Br J Haematol</source>
+            <pubdate>2005</pubdate>
+            <volume>129</volume>
+            <fpage>118</fpage>
+            <lpage>129</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1111/j.1365-2141.2005.05409.x</pubid>
+                  <pubid idtype="pmpid" link="fulltext">15801964</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B11">
+            <title>
+               <p>Comparison of immunological properties of bone marrow stromal cells and adipose tissue-derived stem cells before and after osteogenic differentiation in vitro</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Niemeyer</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Kornacker</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Mehlhorn</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Seckinger</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Vohrer</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Schmal</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Kasten</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Eckstein</snm>
+                  <fnm>V</fnm>
+               </au>
+               <au>
+                  <snm>Sudkamp</snm>
+                  <fnm>NP</fnm>
+               </au>
+               <au>
+                  <snm>Krause</snm>
+                  <fnm>U</fnm>
+               </au>
+            </aug>
+            <source>Tissue Eng</source>
+            <pubdate>2007</pubdate>
+            <volume>13</volume>
+            <fpage>111</fpage>
+            <lpage>121</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1089/ten.2006.0114</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17518585</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B12">
+            <title>
+               <p>Presence of IgE antibodies to bovine serum albumin in a patient developing anaphylaxis after vaccination with human peptide-pulsed dendritic cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Mackensen</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Drager</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Schlesier</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Mertelsmann</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Lindemann</snm>
+                  <fnm>A</fnm>
+               </au>
+            </aug>
+            <source>Cancer Immunol Immunother</source>
+            <pubdate>2000</pubdate>
+            <volume>49</volume>
+            <fpage>152</fpage>
+            <lpage>156</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1007/s002620050614</pubid>
+                  <pubid idtype="pmpid" link="fulltext">10881694</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B13">
+            <title>
+               <p>Development of antibodies to fetal calf serum with arthus-like reactions in human immunodeficiency virus-infected patients given syngeneic lymphocyte infusions</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Selvaggi</snm>
+                  <fnm>TA</fnm>
+               </au>
+               <au>
+                  <snm>Walker</snm>
+                  <fnm>RE</fnm>
+               </au>
+               <au>
+                  <snm>Fleisher</snm>
+                  <fnm>TA</fnm>
+               </au>
+            </aug>
+            <source>Blood</source>
+            <pubdate>1997</pubdate>
+            <volume>89</volume>
+            <fpage>776</fpage>
+            <lpage>779</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid" link="fulltext">9028307</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B14">
+            <title>
+               <p>Comparison of human serum with fetal bovine serum for expansion and differentiation of human synovial MSC: potential feasibility for clinical applications</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Tateishi</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Ando</snm>
+                  <fnm>W</fnm>
+               </au>
+               <au>
+                  <snm>Higuchi</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Hart</snm>
+                  <fnm>DA</fnm>
+               </au>
+               <au>
+                  <snm>Hashimoto</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Nakata</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Yoshikawa</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Nakamura</snm>
+                  <fnm>N</fnm>
+               </au>
+            </aug>
+            <source>Cell Transplant</source>
+            <pubdate>2008</pubdate>
+            <volume>17</volume>
+            <fpage>549</fpage>
+            <lpage>557</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.3727/096368908785096024</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18714674</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B15">
+            <title>
+               <p>Preparation of pooled human platelet lysate (pHPL) as an efficient supplement for animal serum-free human stem cell cultures</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Schallmoser</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Strunk</snm>
+                  <fnm>D</fnm>
+               </au>
+            </aug>
+            <source>J Vis Exp</source>
+            <pubdate>2009</pubdate>
+            <xrefbib>
+               <pubid idtype="doi">10.3791/1523</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B16">
+            <title>
+               <p>Human alternatives to fetal bovine serum for the expansion of mesenchymal stromal cells from bone marrow</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Bieback</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Hecker</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Kocaomer</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Lannert</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Schallmoser</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Strunk</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Kluter</snm>
+                  <fnm>H</fnm>
+               </au>
+            </aug>
+            <source>Stem Cells</source>
+            <pubdate>2009</pubdate>
+            <volume>27</volume>
+            <fpage>2331</fpage>
+            <lpage>2341</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1002/stem.139</pubid>
+                  <pubid idtype="pmpid" link="fulltext">19544413</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B17">
+            <title>
+               <p>Low serum and serum-free culture of multipotential human adipose stem cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Parker</snm>
+                  <fnm>AM</fnm>
+               </au>
+               <au>
+                  <snm>Shang</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Khurgel</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Katz</snm>
+                  <fnm>AJ</fnm>
+               </au>
+            </aug>
+            <source>Cytotherapy</source>
+            <pubdate>2007</pubdate>
+            <volume>9</volume>
+            <fpage>637</fpage>
+            <lpage>646</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1080/14653240701508452</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17917877</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B18">
+            <title>
+               <p>Calcium phosphate surface treatment of bioactive glass causes a delay in early osteogenic differentiation of adipose stem cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Haimi</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Moimas</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Pirhonen</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Lindroos</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Huhtala</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Raty</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Kuokkanen</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Sandor</snm>
+                  <fnm>GK</fnm>
+               </au>
+               <au>
+                  <snm>Miettinen</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Suuronen</snm>
+                  <fnm>R</fnm>
+               </au>
+            </aug>
+            <source>J Biomed Mater Res A</source>
+            <pubdate>2009</pubdate>
+            <volume>91</volume>
+            <fpage>540</fpage>
+            <lpage>547</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid" link="fulltext">18985777</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B19">
+            <title>
+               <p>Serum-free, xeno-free culture media maintain the proliferation rate and multipotentiality of adipose stem cells in vitro</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Lindroos</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Boucher</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Chase</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Kuokkanen</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Huhtala</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Haataja</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Vemuri</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Suuronen</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Miettinen</snm>
+                  <fnm>S</fnm>
+               </au>
+            </aug>
+            <source>Cytotherapy</source>
+            <pubdate>2009</pubdate>
+            <volume>11</volume>
+            <fpage>958</fpage>
+            <lpage>972</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.3109/14653240903233081</pubid>
+                  <pubid idtype="pmpid" link="fulltext">19903107</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B20">
+            <title>
+               <p>Relationship between donor age and the replicative lifespan of human cells in culture: a reevaluation</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Cristofalo</snm>
+                  <fnm>VJ</fnm>
+               </au>
+               <au>
+                  <snm>Allen</snm>
+                  <fnm>RG</fnm>
+               </au>
+               <au>
+                  <snm>Pignolo</snm>
+                  <fnm>RJ</fnm>
+               </au>
+               <au>
+                  <snm>Martin</snm>
+                  <fnm>BG</fnm>
+               </au>
+               <au>
+                  <snm>Beck</snm>
+                  <fnm>JC</fnm>
+               </au>
+            </aug>
+            <source>Proc Natl Acad Sci U S A</source>
+            <pubdate>1998</pubdate>
+            <volume>95</volume>
+            <fpage>10614</fpage>
+            <lpage>10619</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1073/pnas.95.18.10614</pubid>
+                  <pubid idtype="pmcid">27943</pubid>
+                  <pubid idtype="pmpid" link="fulltext">9724752</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B21">
+            <title>
+               <p>Growth and osteogenic differentiation of adipose stem cells on PLA/bioactive glass and PLA/beta-TCP scaffolds</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Haimi</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Suuriniemi</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Haaparanta</snm>
+                  <fnm>AM</fnm>
+               </au>
+               <au>
+                  <snm>Ella</snm>
+                  <fnm>V</fnm>
+               </au>
+               <au>
+                  <snm>Lindroos</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Huhtala</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Raty</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Kuokkanen</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Sandor</snm>
+                  <fnm>GK</fnm>
+               </au>
+               <au>
+                  <snm>Kellomaki</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Miettinen</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Suuronen</snm>
+                  <fnm>R</fnm>
+               </au>
+            </aug>
+            <source>Tissue Eng Part A</source>
+            <pubdate>2009</pubdate>
+            <volume>15</volume>
+            <fpage>1473</fpage>
+            <lpage>1480</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1089/ten.tea.2008.0241</pubid>
+                  <pubid idtype="pmpid" link="fulltext">19072198</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B22">
+            <title>
+               <p>Formation of cartilage-like spheroids by micromass cultures of murine C3H10T1/2 cells upon treatment with transforming growth factor-beta 1</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Denker</snm>
+                  <fnm>AE</fnm>
+               </au>
+               <au>
+                  <snm>Nicoll</snm>
+                  <fnm>SB</fnm>
+               </au>
+               <au>
+                  <snm>Tuan</snm>
+                  <fnm>RS</fnm>
+               </au>
+            </aug>
+            <source>Differentiation</source>
+            <pubdate>1995</pubdate>
+            <volume>59</volume>
+            <fpage>25</fpage>
+            <lpage>34</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1046/j.1432-0436.1995.5910025.x</pubid>
+                  <pubid idtype="pmpid" link="fulltext">7589892</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B23">
+            <title>
+               <p>Use of adipose stem cells and polylactide discs for tissue engineering of the temporomandibular joint disc</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Maenpaa</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Ella</snm>
+                  <fnm>V</fnm>
+               </au>
+               <au>
+                  <snm>Mauno</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Kellomaki</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Suuronen</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Ylikomi</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Miettinen</snm>
+                  <fnm>S</fnm>
+               </au>
+            </aug>
+            <source>J R Soc Interface</source>
+            <pubdate>2010</pubdate>
+            <volume>7</volume>
+            <fpage>177</fpage>
+            <lpage>188</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1098/rsif.2009.0117</pubid>
+                  <pubid idtype="pmcid">2839381</pubid>
+                  <pubid idtype="pmpid" link="fulltext">19474082</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B24">
+            <title>
+               <p>A new mathematical model for relative quantification in real-time RT-PCR</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Pfaffl</snm>
+                  <fnm>MW</fnm>
+               </au>
+            </aug>
+            <source>Nucleic Acids Res</source>
+            <pubdate>2001</pubdate>
+            <volume>29</volume>
+            <fpage>e45</fpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1093/nar/29.9.e45</pubid>
+                  <pubid idtype="pmcid">55695</pubid>
+                  <pubid idtype="pmpid" link="fulltext">11328886</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B25">
+            <title>
+               <p>Internalized antigens must be removed to prepare hypoimmunogenic mesenchymal stem cells for cell and gene therapy</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Spees</snm>
+                  <fnm>JL</fnm>
+               </au>
+               <au>
+                  <snm>Gregory</snm>
+                  <fnm>CA</fnm>
+               </au>
+               <au>
+                  <snm>Singh</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Tucker</snm>
+                  <fnm>HA</fnm>
+               </au>
+               <au>
+                  <snm>Peister</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Lynch</snm>
+                  <fnm>PJ</fnm>
+               </au>
+               <au>
+                  <snm>Hsu</snm>
+                  <fnm>SC</fnm>
+               </au>
+               <au>
+                  <snm>Smith</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Prockop</snm>
+                  <fnm>DJ</fnm>
+               </au>
+            </aug>
+            <source>Mol Ther</source>
+            <pubdate>2004</pubdate>
+            <volume>9</volume>
+            <fpage>747</fpage>
+            <lpage>756</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.ymthe.2004.02.012</pubid>
+                  <pubid idtype="pmpid" link="fulltext">15120336</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B26">
+            <title>
+               <p>Human adipose tissue-derived mesenchymal stem cells combined with hematopoietic stem cell transplantation synthesize insulin</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Trivedi</snm>
+                  <fnm>HL</fnm>
+               </au>
+               <au>
+                  <snm>Vanikar</snm>
+                  <fnm>AV</fnm>
+               </au>
+               <au>
+                  <snm>Thakker</snm>
+                  <fnm>U</fnm>
+               </au>
+               <au>
+                  <snm>Firoze</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Dave</snm>
+                  <fnm>SD</fnm>
+               </au>
+               <au>
+                  <snm>Patel</snm>
+                  <fnm>CN</fnm>
+               </au>
+               <au>
+                  <snm>Patel</snm>
+                  <fnm>JV</fnm>
+               </au>
+               <au>
+                  <snm>Bhargava</snm>
+                  <fnm>AB</fnm>
+               </au>
+               <au>
+                  <snm>Shankar</snm>
+                  <fnm>V</fnm>
+               </au>
+            </aug>
+            <source>Transplant Proc</source>
+            <pubdate>2008</pubdate>
+            <volume>40</volume>
+            <fpage>1135</fpage>
+            <lpage>1139</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.transproceed.2008.03.113</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18555133</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B27">
+            <title>
+               <p>Stem cell therapy for idiopathic pulmonary fibrosis: a protocol proposal</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Tzouvelekis</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Koliakos</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Ntolios</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Baira</snm>
+                  <fnm>I</fnm>
+               </au>
+               <au>
+                  <snm>Bouros</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Oikonomou</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Zissimopoulos</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Kolios</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Kakagia</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Paspaliaris</snm>
+                  <fnm>V</fnm>
+               </au>
+               <au>
+                  <snm>Kotsianidis</snm>
+                  <fnm>I</fnm>
+               </au>
+               <au>
+                  <snm>Froudarakis</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Bouros</snm>
+                  <fnm>D</fnm>
+               </au>
+            </aug>
+            <source>J Transl Med</source>
+            <pubdate>2011</pubdate>
+            <volume>9</volume>
+            <fpage>182</fpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1186/1479-5876-9-182</pubid>
+                  <pubid idtype="pmcid">3213183</pubid>
+                  <pubid idtype="pmpid" link="fulltext">22017817</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B28">
+            <title>
+               <p>Novel maxillary reconstruction with ectopic bone formation by GMP adipose stem cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Mesimaki</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Lindroos</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Tornwall</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Mauno</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Lindqvist</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Kontio</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Miettinen</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Suuronen</snm>
+                  <fnm>R</fnm>
+               </au>
+            </aug>
+            <source>Int J Oral Maxillofac Surg</source>
+            <pubdate>2009</pubdate>
+            <volume>38</volume>
+            <fpage>201</fpage>
+            <lpage>209</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.ijom.2009.01.001</pubid>
+                  <pubid idtype="pmpid" link="fulltext">19168327</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B29">
+            <title>
+               <p>Human adipose derived stroma/stem cells grow in serum-free medium as floating spheres</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Dromard</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Bourin</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Andre</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>De Barros</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Casteilla</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Planat-Benard</snm>
+                  <fnm>V</fnm>
+               </au>
+            </aug>
+            <source>Exp Cell Res</source>
+            <pubdate>2011</pubdate>
+            <volume>317</volume>
+            <fpage>770</fpage>
+            <lpage>780</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.yexcr.2011.01.001</pubid>
+                  <pubid idtype="pmpid" link="fulltext">21255567</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B30">
+            <title>
+               <p>Toward a clinical-grade expansion of mesenchymal stem cells from human sources: a microcarrier-based culture system under xeno-free conditions</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Santos</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Andrade</snm>
+                  <fnm>PZ</fnm>
+               </au>
+               <au>
+                  <snm>Abecasis</snm>
+                  <fnm>MM</fnm>
+               </au>
+               <au>
+                  <snm>Gimble</snm>
+                  <fnm>JM</fnm>
+               </au>
+               <au>
+                  <snm>Chase</snm>
+                  <fnm>LG</fnm>
+               </au>
+               <au>
+                  <snm>Campbell</snm>
+                  <fnm>AM</fnm>
+               </au>
+               <au>
+                  <snm>Boucher</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Vemuri</snm>
+                  <fnm>MC</fnm>
+               </au>
+               <au>
+                  <snm>Silva</snm>
+                  <fnm>CL</fnm>
+               </au>
+               <au>
+                  <snm>Cabral</snm>
+                  <fnm>JM</fnm>
+               </au>
+            </aug>
+            <source>Tissue Eng Part C Methods</source>
+            <pubdate>2011</pubdate>
+            <volume>17</volume>
+            <fpage>1201</fpage>
+            <lpage>1210</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="pmcid">3226421</pubid>
+                  <pubid idtype="pmpid" link="fulltext">21895491</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B31">
+            <title>
+               <p>Human platelet lysate as a fetal bovine serum substitute improves human adipose-derived stromal cell culture for future cardiac repair applications</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Naaijkens</snm>
+                  <fnm>BA</fnm>
+               </au>
+               <au>
+                  <snm>Niessen</snm>
+                  <fnm>HW</fnm>
+               </au>
+               <au>
+                  <snm>Prins</snm>
+                  <fnm>HJ</fnm>
+               </au>
+               <au>
+                  <snm>Krijnen</snm>
+                  <fnm>PA</fnm>
+               </au>
+               <au>
+                  <snm>Kokhuis</snm>
+                  <fnm>TJ</fnm>
+               </au>
+               <au>
+                  <snm>de Jong</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>van Hinsbergh</snm>
+                  <fnm>VW</fnm>
+               </au>
+               <au>
+                  <snm>Kamp</snm>
+                  <fnm>O</fnm>
+               </au>
+               <au>
+                  <snm>Helder</snm>
+                  <fnm>MN</fnm>
+               </au>
+               <au>
+                  <snm>Musters</snm>
+                  <fnm>RJ</fnm>
+               </au>
+               <au>
+                  <snm>van Dijk</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Juffermans</snm>
+                  <fnm>LJ</fnm>
+               </au>
+            </aug>
+            <source>Cell Tissue Res</source>
+            <pubdate>2012</pubdate>
+            <volume>348</volume>
+            <fpage>119</fpage>
+            <lpage>130</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1007/s00441-012-1360-5</pubid>
+                  <pubid idtype="pmcid">3316780</pubid>
+                  <pubid idtype="pmpid" link="fulltext">22395775</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B32">
+            <title>
+               <p>Adipose tissue mesenchymal stem cell expansion in animal serum-free medium supplemented with autologous human platelet lysate</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Blande</snm>
+                  <fnm>IS</fnm>
+               </au>
+               <au>
+                  <snm>Bassaneze</snm>
+                  <fnm>V</fnm>
+               </au>
+               <au>
+                  <snm>Lavini-Ramos</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Fae</snm>
+                  <fnm>KC</fnm>
+               </au>
+               <au>
+                  <snm>Kalil</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Miyakawa</snm>
+                  <fnm>AA</fnm>
+               </au>
+               <au>
+                  <snm>Schettert</snm>
+                  <fnm>IT</fnm>
+               </au>
+               <au>
+                  <snm>Krieger</snm>
+                  <fnm>JE</fnm>
+               </au>
+            </aug>
+            <source>Transfusion</source>
+            <pubdate>2009</pubdate>
+            <volume>49</volume>
+            <fpage>2680</fpage>
+            <lpage>2685</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1111/j.1537-2995.2009.02346.x</pubid>
+                  <pubid idtype="pmpid" link="fulltext">19694997</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B33">
+            <title>
+               <p>A novel serum-free medium for the expansion of human mesenchymal stem cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Chase</snm>
+                  <fnm>LG</fnm>
+               </au>
+               <au>
+                  <snm>Lakshmipathy</snm>
+                  <fnm>U</fnm>
+               </au>
+               <au>
+                  <snm>Solchaga</snm>
+                  <fnm>LA</fnm>
+               </au>
+               <au>
+                  <snm>Rao</snm>
+                  <fnm>MS</fnm>
+               </au>
+               <au>
+                  <snm>Vemuri</snm>
+                  <fnm>MC</fnm>
+               </au>
+            </aug>
+            <source>Stem Cell Res Ther</source>
+            <pubdate>2010</pubdate>
+            <volume>1</volume>
+            <fpage>8</fpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1186/scrt8</pubid>
+                  <pubid idtype="pmcid">3226302</pubid>
+                  <pubid idtype="pmpid" link="fulltext">20504289</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B34">
+            <title>
+               <p>Defined xenogeneic-free and hypoxic environment provides superior conditions for long-term expansion of human adipose-derived stem cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Yang</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Pilgaard</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Chase</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Boucher</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Vemuri</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Fink</snm>
+                  <fnm>TD</fnm>
+               </au>
+               <au>
+                  <snm>Zachar</snm>
+                  <fnm>V</fnm>
+               </au>
+            </aug>
+            <source>Tissue Eng Part C Methods</source>
+            <pubdate>2012</pubdate>
+            <volume>18</volume>
+            <fpage>593</fpage>
+            <lpage>602</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1089/ten.tec.2011.0592</pubid>
+                  <pubid idtype="pmpid" link="fulltext">22364177</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B35">
+            <title>
+               <p>Efficiently differentiating vascular endothelial cells from adipose tissue-derived mesenchymal stem cells in serum-free culture</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Konno</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Hamazaki</snm>
+                  <fnm>TS</fnm>
+               </au>
+               <au>
+                  <snm>Fukuda</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Tokuhara</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Uchiyama</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Okazawa</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Okochi</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Asashima</snm>
+                  <fnm>M</fnm>
+               </au>
+            </aug>
+            <source>Biochem Biophys Res Commun</source>
+            <pubdate>2010</pubdate>
+            <volume>400</volume>
+            <fpage>461</fpage>
+            <lpage>465</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.bbrc.2010.08.029</pubid>
+                  <pubid idtype="pmpid" link="fulltext">20708604</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B36">
+            <title>
+               <p>Human platelet lysate enhances the proliferative activity of cultured human fibroblast-like cells from different tissues</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Mirabet</snm>
+                  <fnm>V</fnm>
+               </au>
+               <au>
+                  <snm>Solves</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Minana</snm>
+                  <fnm>MD</fnm>
+               </au>
+               <au>
+                  <snm>Encabo</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Carbonell-Uberos</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Blanquer</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Roig</snm>
+                  <fnm>R</fnm>
+               </au>
+            </aug>
+            <source>Cell Tissue Bank</source>
+            <pubdate>2008</pubdate>
+            <volume>9</volume>
+            <fpage>1</fpage>
+            <lpage>10</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1007/s10561-007-9048-x</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17578684</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B37">
+            <title>
+               <p>Dissimilar differentiation of mesenchymal stem cells from bone marrow, umbilical cord blood, and adipose tissue</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Rebelatto</snm>
+                  <fnm>CK</fnm>
+               </au>
+               <au>
+                  <snm>Aguiar</snm>
+                  <fnm>AM</fnm>
+               </au>
+               <au>
+                  <snm>Moretao</snm>
+                  <fnm>MP</fnm>
+               </au>
+               <au>
+                  <snm>Senegaglia</snm>
+                  <fnm>AC</fnm>
+               </au>
+               <au>
+                  <snm>Hansen</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Barchiki</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Oliveira</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Martins</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Kuligovski</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Mansur</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Christofis</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Amaral</snm>
+                  <fnm>VF</fnm>
+               </au>
+               <au>
+                  <snm>Brofman</snm>
+                  <fnm>PS</fnm>
+               </au>
+               <au>
+                  <snm>Goldenberg</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Nakao</snm>
+                  <fnm>LS</fnm>
+               </au>
+               <au>
+                  <snm>Correa</snm>
+                  <fnm>A</fnm>
+               </au>
+            </aug>
+            <source>Exp Biol Med (Maywood)</source>
+            <pubdate>2008</pubdate>
+            <volume>233</volume>
+            <fpage>901</fpage>
+            <lpage>913</lpage>
+            <xrefbib>
+               <pubid idtype="doi">10.3181/0712-RM-356</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B38">
+            <title>
+               <p>The correlation between human adipose-derived stem cells differentiation and cell adhesion mechanism</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Park</snm>
+                  <fnm>IS</fnm>
+               </au>
+               <au>
+                  <snm>Han</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Rhie</snm>
+                  <fnm>JW</fnm>
+               </au>
+               <au>
+                  <snm>Kim</snm>
+                  <fnm>SH</fnm>
+               </au>
+               <au>
+                  <snm>Jung</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Kim</snm>
+                  <fnm>IH</fnm>
+               </au>
+               <au>
+                  <snm>Kim</snm>
+                  <fnm>SH</fnm>
+               </au>
+            </aug>
+            <source>Biomaterials</source>
+            <pubdate>2009</pubdate>
+            <volume>30</volume>
+            <fpage>6835</fpage>
+            <lpage>6843</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.biomaterials.2009.08.057</pubid>
+                  <pubid idtype="pmpid" link="fulltext">19781767</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B39">
+            <title>
+               <p>Adhesion and differentiation of adipose-derived stem cells on a substrate with immobilized fibroblast growth factor</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Kang</snm>
+                  <fnm>JM</fnm>
+               </au>
+               <au>
+                  <snm>Han</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Park</snm>
+                  <fnm>IS</fnm>
+               </au>
+               <au>
+                  <snm>Jung</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Kim</snm>
+                  <fnm>SH</fnm>
+               </au>
+               <au>
+                  <snm>Kim</snm>
+                  <fnm>SH</fnm>
+               </au>
+            </aug>
+            <source>Acta Biomater</source>
+            <pubdate>2012</pubdate>
+            <volume>8</volume>
+            <fpage>1759</fpage>
+            <lpage>1767</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.actbio.2012.01.005</pubid>
+                  <pubid idtype="pmpid" link="fulltext">22285427</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B40">
+            <title>
+               <p>Consistent osteoblastic differentiation of human mesenchymal stem cells with bone morphogenetic protein 4 and low serum</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Cordonnier</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Langonne</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Sohier</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Layrolle</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Rosset</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Sensebe</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Deschaseaux</snm>
+                  <fnm>F</fnm>
+               </au>
+            </aug>
+            <source>Tissue Eng Part C Methods</source>
+            <pubdate>2011</pubdate>
+            <volume>17</volume>
+            <fpage>249</fpage>
+            <lpage>259</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid" link="fulltext">20822481</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B41">
+            <title>
+               <p>The effect of bioactive glasses on bone marrow stromal cells differentiation</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Bosetti</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Cannas</snm>
+                  <fnm>M</fnm>
+               </au>
+            </aug>
+            <source>Biomaterials</source>
+            <pubdate>2005</pubdate>
+            <volume>26</volume>
+            <fpage>3873</fpage>
+            <lpage>3879</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.biomaterials.2004.09.059</pubid>
+                  <pubid idtype="pmpid" link="fulltext">15626435</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B42">
+            <title>
+               <p>Beta-tricalcium phosphate 3D scaffold promote alone osteogenic differentiation of human adipose stem cells: in vitro study</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Marino</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Rosso</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Cafiero</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Tortora</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Moraci</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Barbarisi</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Barbarisi</snm>
+                  <fnm>A</fnm>
+               </au>
+            </aug>
+            <source>J Mater Sci Mater Med</source>
+            <pubdate>2010</pubdate>
+            <volume>21</volume>
+            <fpage>353</fpage>
+            <lpage>363</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1007/s10856-009-3840-z</pubid>
+                  <pubid idtype="pmpid" link="fulltext">19655233</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B43">
+            <title>
+               <p>Multifunctional hybrid three-dimensionally woven scaffolds for cartilage tissue engineering</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Moutos</snm>
+                  <fnm>FT</fnm>
+               </au>
+               <au>
+                  <snm>Estes</snm>
+                  <fnm>BT</fnm>
+               </au>
+               <au>
+                  <snm>Guilak</snm>
+                  <fnm>F</fnm>
+               </au>
+            </aug>
+            <source>Macromol Biosci</source>
+            <pubdate>2010</pubdate>
+            <volume>10</volume>
+            <fpage>1355</fpage>
+            <lpage>1364</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1002/mabi.201000124</pubid>
+                  <pubid idtype="pmcid">3214627</pubid>
+                  <pubid idtype="pmpid" link="fulltext">20857388</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+      </refgrp>
+   </bm>
+</art>

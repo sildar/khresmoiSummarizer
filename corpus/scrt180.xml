@@ -1,0 +1,1657 @@
+<!DOCTYPE art SYSTEM "article.dtd">
+<art>
+   <ui>scrt180</ui>
+   <ji>1757-6512</ji>
+   <fm>
+      <dochead>Research</dochead>
+      <bibl>
+         <title>
+            <p>Prospective cohort study of the circadian rhythm pattern in allogeneic sibling donors undergoing standard granulocyte colony-stimulating factor mobilization</p>
+         </title>
+         <aug>
+            <au id="A1" ca="yes">
+               <snm>Shi</snm>
+               <mi>A</mi>
+               <fnm>Patricia</fnm>
+               <insr iid="I1"/>
+               <email>pshi@nybloodcenter.org</email>
+            </au>
+            <au id="A2">
+               <snm>Isola</snm>
+               <mi>M</mi>
+               <fnm>Luis</fnm>
+               <insr iid="I1"/>
+               <email>luis.isola@mssm.edu</email>
+            </au>
+            <au id="A3">
+               <snm>Gabrilove</snm>
+               <mi>L</mi>
+               <fnm>Janice</fnm>
+               <insr iid="I1"/>
+               <email>janice.gabrilove@mssm.edu</email>
+            </au>
+            <au id="A4">
+               <snm>Moshier</snm>
+               <mi>L</mi>
+               <fnm>Erin</fnm>
+               <insr iid="I2"/>
+               <email>erin.moshier@mssm.edu</email>
+            </au>
+            <au id="A5">
+               <snm>Godbold</snm>
+               <mi>H</mi>
+               <fnm>James</fnm>
+               <insr iid="I2"/>
+               <email>james.godbold@mssm.edu</email>
+            </au>
+            <au id="A6">
+               <snm>Miller</snm>
+               <mi>K</mi>
+               <fnm>Lorraine</fnm>
+               <insr iid="I1"/>
+               <email>lorraine.miller@mssm.edu</email>
+            </au>
+            <au id="A7">
+               <snm>Frenette</snm>
+               <mi>S</mi>
+               <fnm>Paul</fnm>
+               <insr iid="I3"/>
+               <email>paul.frenette@einstein.yu.edu</email>
+            </au>
+         </aug>
+         <insg>
+            <ins id="I1">
+               <p>Tisch Cancer Institute, Mount Sinai School of Medicine, 1190 5th Avenue, New York, NY, 10029, USA</p>
+            </ins>
+            <ins id="I2">
+               <p>Department of Preventive Medicine, Mount Sinai School of Medicine, 1 Gustave L. Levy Place, New York, NY, 10029, USA</p>
+            </ins>
+            <ins id="I3">
+               <p>Ruth L. and David S. Gottesman Institute for Stem Cell Biology and Regenerative Medicine, Albert Einstein College of Medicine, 1301 Morris Park Avenue, Bronx, NY, 10461, USA</p>
+            </ins>
+         </insg>
+         <source>Stem Cell Research &amp; Therapy</source>
+         <issn>1757-6512</issn>
+         <pubdate>2013</pubdate>
+         <volume>4</volume>
+         <issue>2</issue>
+         <fpage>30</fpage>
+         <url>http://stemcellres.com/content/4/2/30</url>
+         <xrefbib>
+            <pubidlist>
+               <pubid idtype="doi">10.1186/scrt180</pubid>
+               <pubid idtype="pmpid">23514984</pubid>
+            </pubidlist>
+         </xrefbib>
+      </bibl>
+      <history>
+         <rec>
+            <date>
+               <day>20</day>
+               <month>11</month>
+               <year>2012</year>
+            </date>
+         </rec>
+         <revrec>
+            <date>
+               <day>5</day>
+               <month>2</month>
+               <year>2013</year>
+            </date>
+         </revrec>
+         <acc>
+            <date>
+               <day>12</day>
+               <month>3</month>
+               <year>2013</year>
+            </date>
+         </acc>
+         <pub>
+            <date>
+               <day>20</day>
+               <month>3</month>
+               <year>2013</year>
+            </date>
+         </pub>
+      </history>
+      <cpyrt>
+         <year>2013</year>
+         <collab>Shi et al.; licensee BioMed Central Ltd.</collab>
+         <note>This is an Open Access article distributed under the terms of the Creative Commons Attribution License (<url>http://creativecommons.org/licenses/by/2.0</url>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</note>
+      </cpyrt>
+      <kwdg>
+         <kwd>Antigens</kwd>
+         <kwd>CD34</kwd>
+         <kwd>Antigens</kwd>
+         <kwd>CD38</kwd>
+         <kwd>Circadian rhythm</kwd>
+         <kwd>Granulocyte-colony stimulating factor</kwd>
+         <kwd>Hematopoietic progenitor cells</kwd>
+         <kwd>Hematopoietic stem cell mobilization</kwd>
+      </kwdg>
+      <abs>
+         <sec>
+            <st>
+               <p>Abstract</p>
+            </st>
+            <sec>
+               <st>
+                  <p>Introduction</p>
+               </st>
+               <p>Prior <it>in vivo</it> murine studies suggest circadian oscillations for hematopoietic stem cell release, which are maintained following administration of granulocyte colony-stimulating factor (G-CSF) or plerixafor. Furthermore, retrospective data analysis of healthy donors who underwent G-CSF-induced mobilization demonstrated significantly increased CD34<sup>+</sup> cell yields when collected in the afternoon compared with the morning.</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>Methods</p>
+               </st>
+               <p>A prospective study was conducted to directly examine the number of peripheral blood CD34<sup>+</sup> and CD34<sup>+</sup>CD38<sup>&#8211;</sup> progenitor/stem cells at baseline and then every 6 hours for 24 hours on days 4 to 5 of G-CSF (10 &#956;g/kg/day in the morning) mobilization in 11 allogeneic donors. Data were analyzed using mixed-model analysis of repeated measures.</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>Results</p>
+               </st>
+               <p>Whereas we observed a significant increase in CD34<sup>+</sup> cell counts toward the evening, counts were then sustained on the morning of day 5. The correlation between CD34<sup>+</sup>CD38<sup>&#8211;</sup> cell counts and the less defined CD34<sup>+</sup> populations was weak.</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>Conclusions</p>
+               </st>
+               <p>Our results suggest that the pharmacodynamic activity and timing of G-CSF may alter endogenous progenitor rhythms. Donor age, medical history, and medications may also impact circadian rhythm. Further studies should examine the circadian rhythm at the peak of G-CSF mobilization and should consider potential confounders such as the time of G-CSF administration and the age of the subjects.</p>
+            </sec>
+         </sec>
+      </abs>
+   </fm>
+   <bdy>
+      <sec>
+         <st>
+            <p>Introduction</p>
+         </st>
+         <p>Hematopoietic progenitor cell (HPC) mobilization using granulocyte colony-stimulating factor (G-CSF) is currently the most frequent method to obtain HPC for allogeneic transplantation. The optimal dose and schedule remains uncertain <abbrgrp><abbr bid="B1">1</abbr></abbrgrp>, but the National Marrow Donor Program uses a schedule of 10 &#956;g/kg for 5 days, with the fifth dose ~1 hour prior to the initiation of the first leukapheresis <abbrgrp><abbr bid="B2">2</abbr></abbrgrp>. CD34<sup>+</sup> cell doses >4.5 to 5&#215;10<sup>6</sup>/kg are associated with improved overall survival and reduced transplant-related mortality in the allogeneic setting <abbrgrp><abbr bid="B3">3</abbr><abbr bid="B4">4</abbr></abbrgrp>. Although obtaining this goal in a single apheresis is preferable for donor convenience and safety, only 68% of G-CSF mobilized allogeneic donors reach a CD34<sup>+</sup> cell dose &#8805;4&#215;10<sup>6</sup>/kg in a single apheresis, with a similar percentage for pegfilgrastim <abbrgrp><abbr bid="B5">5</abbr><abbr bid="B6">6</abbr></abbrgrp>, and about 70% of allogeneic donors actually undergo two leukaphereses <abbrgrp><abbr bid="B2">2</abbr></abbrgrp>. In addition, the timing of leukapheresis collection on days 5 and 6 is standardized based on staffing convenience rather than on kinetic data regarding the CD34<sup>+</sup> cell number.</p>
+         <p>Based on preclinical and clinical data showing circadian oscillations of hematopoietic progenitor and stem cell release that are maintained with G-CSF or plerixafor mobilization <abbrgrp><abbr bid="B7">7</abbr><abbr bid="B8">8</abbr><abbr bid="B9">9</abbr><abbr bid="B10">10</abbr></abbrgrp>, we conducted a single-center, prospective cohort study in allogeneic donors undergoing standard National Marrow Donor Program G-CSF mobilization (10 &#956;g/kg/day for 5 days, administered between 06:00 and 07:00 hours), with the hypothesis that evening CD34<sup>+</sup> concentrations are significantly higher than morning CD34<sup>+</sup> concentrations. This study is important because hematopoietic progenitor collections typically occur in the morning due to convenience. The National Marrow Donor Program regimen was chosen because it is the most frequently used G-CSF regimen for unrelated allogeneic donors in the United States.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Methods</p>
+         </st>
+         <p>This trial was a single-center, prospective cohort IRB-approved (Mount Sinai School of Medicine IRB, #08-0446) study in allogeneic sibling donors. Written and signed consent was obtained from both donors and recipients. All sibling donors for allogeneic transplants at Mount Sinai Medical Center from January 2009 to December 2011 were approached to participate. Baseline CD34<sup>+</sup> concentrations prior to starting G-CSF were assessed with two separately collected samples. Donors were admitted the evening of day 3 of G-CSF to the Clinical Research Center at Mount Sinai and stayed through two nights until the morning of day 5 of G-CSF mobilization, when they were discharged to the apheresis center to start leukapheresis. All donors reported normal sleep habits on specific review of symptoms and, except for one from Wisconsin, lived in the New York City area and had no history of travel within the past month outside their normal time zone.</p>
+         <p>Starting at 06:00 hours on day 4, prior to G-CSF, we measured the number of CD34<sup>+</sup> cells ([CD34<sup>+</sup>]) and CD34<sup>+</sup>CD38<sup>&#8211;</sup> cells ([CD34<sup>+</sup>CD38<sup>&#8211;</sup>]) in peripheral blood (PB) every 6 hours for 24 hours (Figure&#160;<figr fid="F1">1</figr>). Blood was drawn through a 20-gauge angiocath attached to a medlock placed upon admission, to avoid distress from multiple needlesticks. Samples were drawn after discard of 2 ml PB, and were run using a standard technique (Stem-Kit&#174;, CD38 Ab; Beckman Coulter, Brea, CA, USA) in the clinical flow cytometry laboratory. Approximately three blood volumes were processed on the first day of collection in all donors.</p>
+         <fig id="F1">
+            <title>
+               <p>Figure 1</p>
+            </title>
+            <caption>
+               <p>Clinical study design</p>
+            </caption>
+            <text>
+               <p><b>Clinical study design.</b> Blood samples for the number of CD34<sup>+</sup> cells ([CD34<sup>+</sup>]) / CD34<sup>+</sup>CD38<sup>&#8211;</sup> cells ([CD34<sup>+</sup>CD38<sup>&#8211;</sup>]) at 06:00 hours were drawn immediately prior to granulocyte colony-stimulating factor (G-CSF) administration on days 4 and 5. PB, peripheral blood.</p>
+            </text>
+            <graphic file="scrt180-1"/>
+         </fig>
+         <p>Statistical analysis was performed using the following software: Excel&#174; 2007 (Microsoft Corporation, Redmond, WA. USA), SPSS Statistics&#174; 18 (IBM Corporation, Armonk, NY, USA), and SAS version 9.2 (SAS Institute Corp., Cary, NY, USA).</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Results</p>
+         </st>
+         <p>Eleven healthy allogeneic sibling donors were recruited into this study (Table&#160;<tblr tid="T1">1</tblr>). All participants were over 45 years of age except for three donors (ages 20, 29, and 30) and were 10/10 HLA matched except for one donor, who was an 8/10 HLA match (mismatched at DRB1 and DQB1). Stem cell mobilization was successfully completed in all subjects, with all measurements completed except for one donor, in whom the 18:00 hours blood sample was drawn but misplaced. All recipients had a Karnofsky score of 90 or 100, received graft-versus-host-disease prophylaxis with tacrolimus/methotrexate or cyclosporine/mycophenolate mofetil, and have either died or been followed for at least 1 year (Table&#160;<tblr tid="T2">2</tblr>).</p>
+         <table id="T1">
+            <title>
+               <p>Table 1</p>
+            </title>
+            <caption>
+               <p><b>Summary of allogeneic sibling donor characteristics</b></p>
+            </caption>
+            <tgroup align="left" cols="3">
+               <colspec align="left" colname="c1" colnum="1" colwidth="1*"/>
+               <colspec align="left" colname="c2" colnum="2" colwidth="1*"/>
+               <colspec align="left" colname="c3" colnum="3" colwidth="1*"/>
+               <thead valign="top">
+                  <row rowsep="1">
+                     <entry colname="c1"><p><b>Gender</b></p></entry>
+                     <entry colname="c2"><p><b>Age (years)</b></p></entry>
+                     <entry colname="c3"><p><b>Medical diseases (number of patients)</b></p></entry>
+                  </row>
+               </thead>
+               <tbody valign="top">
+                  <row>
+                     <entry colname="c1"><p>6 females</p></entry>
+                     <entry colname="c2"><p>Average: 48</p></entry>
+                     <entry colname="c3"><p>Asthma: 1</p></entry>
+                  </row>
+                  <row>
+                     <entry colname="c1" morerows="3" rowsep="1" valign="top"><p>5 males</p></entry>
+                     <entry colname="c2"><p>Median: 52</p></entry>
+                     <entry colname="c3"><p>Coronary artery disease: 1</p></entry>
+                  </row>
+                  <row>
+                     <entry colname="c2" morerows="2" rowsep="1" valign="top"><p>Range: 20 to 63</p></entry>
+                     <entry colname="c3"><p>Diabetes mellitus type II: 2</p></entry>
+                  </row>
+                  <row>
+                     <entry colname="c3"><p>Hyperlipidemia: 3</p></entry>
+                  </row>
+                  <row rowsep="1">
+                     <entry colname="c3"><p>Hypertension: 3</p></entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+         <table id="T2">
+            <title>
+               <p>Table 2</p>
+            </title>
+            <caption>
+               <p><b>Summary of recipient characteristics</b></p>
+            </caption>
+            <tgroup align="left" cols="7">
+               <colspec align="left" colname="c1" colnum="1" colwidth="1*"/>
+               <colspec align="left" colname="c2" colnum="2" colwidth="1*"/>
+               <colspec align="left" colname="c3" colnum="3" colwidth="1*"/>
+               <colspec align="left" colname="c4" colnum="4" colwidth="1*"/>
+               <colspec align="left" colname="c5" colnum="5" colwidth="1*"/>
+               <colspec align="left" colname="c6" colnum="6" colwidth="1*"/>
+               <colspec align="left" colname="c7" colnum="7" colwidth="1*"/>
+               <thead valign="top">
+                  <row rowsep="1">
+                     <entry colname="c1"><p><b>Gender</b></p></entry>
+                     <entry colname="c2"><p><b>Age (years)</b></p></entry>
+                     <entry colname="c3"><p><b>Hematologic malignancy (number of patients)</b></p></entry>
+                     <entry colname="c4"><p><b>Conditioning regimen</b></p></entry>
+                     <entry colname="c5"><p><b>Acute GVHD</b></p></entry>
+                     <entry colname="c6"><p><b>Chronic GVHD</b></p></entry>
+                     <entry colname="c7"><p><b>CD34 dose</b><sup><b>a </b></sup><b>per recipient kg (</b><b>&#215;</b><b>10</b><sup><b>6</b></sup><b>)</b></p></entry>
+                  </row>
+               </thead>
+               <tfoot>
+                  <p>GVHD, graft-versus-host disease. <sup>a</sup>In seven patients, the infused amount was less than the amount collected from the donor (remainder frozen).</p>
+               </tfoot>
+               <tbody valign="top">
+                  <row>
+                     <entry colname="c1"><p>5 females</p></entry>
+                     <entry colname="c2"><p>Average: 46</p></entry>
+                     <entry colname="c3"><p>Acute lymphoblastic leukemia: 1</p></entry>
+                     <entry colname="c4"><p>Myeloablative: 2</p></entry>
+                     <entry colname="c5"><p>Grade I: 1</p></entry>
+                     <entry colname="c6"><p>Limited: 3</p></entry>
+                     <entry colname="c7"><p>Average: 8.1</p></entry>
+                  </row>
+                  <row>
+                     <entry colname="c1" morerows="4" rowsep="1" valign="top"><p>6 males</p></entry>
+                     <entry colname="c2"><p>Median: 56</p></entry>
+                     <entry colname="c3"><p>Acute myelogenous leukemia: 3</p></entry>
+                     <entry colname="c4"><p>Nonmyeloablative: 1</p></entry>
+                     <entry colname="c5"><p>Grade II: 4</p></entry>
+                     <entry colname="c6"><p>None: 8</p></entry>
+                     <entry colname="c7"><p>Median: 9.0</p></entry>
+                  </row>
+                  <row>
+                     <entry colname="c2" morerows="3" rowsep="1" valign="top"><p>Range: 23 to 60</p></entry>
+                     <entry colname="c3"><p>Hodgkin disease: 1</p></entry>
+                     <entry colname="c4"><p>Reduced intensity: 8</p></entry>
+                     <entry colname="c5"><p>Grade III: 2</p></entry>
+                     <entry colname="c6"/>
+                     <entry colname="c7"><p>Range: 3.6 to 10.0</p></entry>
+                  </row>
+                  <row>
+                     <entry colname="c3"><p>Myelodyplastic syndrome: 2</p></entry>
+                     <entry colname="c4" morerows="2" rowsep="1" valign="top"/>
+                     <entry colname="c5" morerows="2" rowsep="1" valign="top"><p>None: 4</p></entry>
+                     <entry colname="c6" morerows="2" rowsep="1" valign="top"/>
+                     <entry colname="c7" morerows="2" rowsep="1" valign="top"/>
+                  </row>
+                  <row>
+                     <entry colname="c3"><p>Non-Hodgkin lymphoma: 3</p></entry>
+                  </row>
+                  <row rowsep="1">
+                     <entry colname="c3"><p>Plasma cell leukemia: 1</p></entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+         <p>Average absolute baseline PB [CD34<sup>+</sup>] and [CD34<sup>+</sup>CD38<sup>&#8211;</sup>] were 3/&#956;l (range 2 to 7/&#956;l) and 0.6/&#956;l (range 0 to 2/&#956;l), respectively. Owing to the wide variation in the absolute number of HPCs mobilized in response to G-CSF among individual donors, each donor&#8217;s PB [CD34<sup>+</sup>] and [CD34<sup>+</sup>CD38<sup>&#8211;</sup>] was normalized as a percentage of that donor&#8217;s mean of day 4 through day 5 values <abbrgrp><abbr bid="B7">7</abbr></abbrgrp> (Figure&#160;<figr fid="F2">2</figr>A,B). There was a very significant rise over day 4 in the PB [CD34<sup>+</sup>] concentration (<it>P</it> &lt;0.0001), consistent with the maintenance of circadian oscillations. However, there was no significant difference in PB [CD34<sup>+</sup>] and [CD34<sup>+</sup>CD38<sup>&#8211;</sup>] comparing the day 4 evening (18:00 or 00:00 hours) with the day 5 morning (06:00 hours) value. Analyzing absolute concentrations, there were also no significant differences between day 4 evening and day 5 morning PB [CD34<sup>+</sup>] or [CD34<sup>+</sup>CD38] values (Figure&#160;<figr fid="F2">2</figr>C,D). The three younger donors aged &lt;45, however, had the highest [CD34<sup>+</sup>] mobilization curves and exhibited or maintained their peak [CD34<sup>+</sup>CD38<sup>&#8211;</sup>] at day 4 midnight.</p>
+         <fig id="F2">
+            <title>
+               <p>Figure 2</p>
+            </title>
+            <caption>
+               <p>Study outcome data</p>
+            </caption>
+            <text>
+               <p><b>Study outcome data.</b> (<b>A</b>) Normalized peripheral blood (PB) concentration of CD34<sup>+</sup> cells ([CD34<sup>+</sup>]). (<b>B</b>) Normalized PB concentration of CD34<sup>+</sup>CD38<sup>&#8211;</sup> cells ([CD34<sup>+</sup>CD38<sup>&#8211;</sup>]). (<b>C</b>) Absolute PB [CD34<sup>+</sup>]. (<b>D</b>) Absolute PB [CD34<sup>+</sup>CD38<sup>-</sup>]. <it>n</it> = 11 patients. Each donor is identified with the same color in all graphs. For (<b>A</b>) and (<b>B</b>), each dot represents an individual donor&#8217;s percentage change from their PB mean. A mixed model was used to estimate the quadratic trend in normalized values over time, assuming an autoregressive order 1 correlation structure. The three youngest donors have time point markers added to their lines. <it>P</it> values were obtained using paired <it>t</it> testing.</p>
+            </text>
+            <graphic file="scrt180-2"/>
+         </fig>
+         <p>The correlation between the 06:00 hours PB [CD34<sup>+</sup>] and [CD34<sup>+</sup>CD38<sup>&#8211;</sup>] was weaker than expected (Figure&#160;<figr fid="F3">3</figr>A) and the utility of using PB CD34<sup>+</sup>CD38<sup>&#8211;</sup> compared with CD34<sup>+</sup> alone to determine the optimal time for collection is worth exploring given the correlation between CD34<sup>+</sup>CD38<sup>&#8211;</sup> graft content and early engraftment in the allogeneic setting <abbrgrp><abbr bid="B11">11</abbr><abbr bid="B12">12</abbr></abbrgrp> and long-term neutrophil and platelet reconstitution in the autologous transplant setting <abbrgrp><abbr bid="B13">13</abbr><abbr bid="B14">14</abbr></abbrgrp>.</p>
+         <fig id="F3">
+            <title>
+               <p>Figure 3</p>
+            </title>
+            <caption>
+               <p>Hypothesis-generating data</p>
+            </caption>
+            <text>
+               <p><b>Hypothesis-generating data.</b> (<b>A</b>) Correlation between day 5 peripheral blood (PB) concentration of CD34<sup>+</sup> cells ([CD34<sup>+</sup>]) and concentration of CD34<sup>+</sup>CD38<sup>&#8211;</sup> cells ([CD34<sup>+</sup>CD38<sup>&#8211;</sup>]) (in cells/&#956;l). The <it>r</it> value was obtained using Pearson correlation. (<b>B</b>) Kaplan&#8211;Meier probability of relapse based on day 5 PB [CD34<sup>+</sup>CD38<sup>&#8211;</sup>] &lt;10/&#956;l or >10/&#956;l. Probabilities of relapse were estimated using the Kaplan&#8211;Meier product limit method with comparison between groups evaluated by the log-rank statistic.</p>
+            </text>
+            <graphic file="scrt180-3"/>
+         </fig>
+         <p><it>Post-hoc</it> Kaplan&#8211;Meier analysis (although hypothesis-forming only) showed a significant correlation (<it>P</it> = 0.02) between PB [CD34<sup>+</sup>CD38<sup>&#8211;</sup>] and relapse (Figure&#160;<figr fid="F3">3</figr>B), of interest since donor CD34<sup>+</sup>CD38<sup>&#8211;</sup> stem cells may compete against leukemic CD34<sup>+</sup>CD38<sup>&#8211;</sup> stem cells that influence relapse <abbrgrp><abbr bid="B15">15</abbr><abbr bid="B16">16</abbr></abbrgrp>. Although a product CD34<sup>+</sup>CD38<sup>&#8211;</sup> count was not performed, the correlation coefficient between product CD34<sup>+</sup> count/donor weight and 06:00 hours PB [CD34<sup>+</sup>] was 0.86.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Discussion</p>
+         </st>
+         <p>In previous human studies, there was an average >2-fold difference in baseline (nonmobilized) circadian variation in HPCs <abbrgrp><abbr bid="B7">7</abbr><abbr bid="B9">9</abbr><abbr bid="B10">10</abbr></abbrgrp>. In this prospective cohort study of 11 G-CSF mobilized allogeneic sibling donors, there was a highly significant rise in PB [CD34<sup>+</sup>] and [CD34<sup>+</sup>CD38<sup>&#8211;</sup>] throughout day 4 (<it>P</it> &lt;0.0001), but no reductions in the morning of day 5, as might be expected with a circadian rhythm pattern.</p>
+         <p>The expected trough on the morning of day 5 may be mitigated by the effect of G-CSF. Previous pharmacodynamic studies show that the peak of G-CSF-induced mobilization occurs on days 5 and 6 <abbrgrp><abbr bid="B17">17</abbr><abbr bid="B18">18</abbr></abbrgrp>. The significant difference in absolute mean 06:00 hours HPC concentrations (<it>P</it> = 0.004 for [CD34<sup>+</sup>], <it>P</it> = 0.037 for [CD34<sup>+</sup>CD38<sup>&#8211;</sup>], paired <it>t</it> tests) between day 4 and day 5 is consistent with a previous report <abbrgrp><abbr bid="B19">19</abbr></abbrgrp>.</p>
+         <p>On the contrary, with a G-CSF effect alone one might expect the day 5 06:00 hours [CD34<sup>+</sup>] / [CD34<sup>+</sup>CD38<sup>&#8211;</sup>] to be significantly higher than the day 4 evening values; thus the absence of this finding is consistent with a circadian rhythm. Ethical considerations precluded postponing leukapheresis to evaluate the day 5 to day 6 PB HPC concentrations, which might effectively address the conundrum of dissecting the circadian rhythm from the G-CSF pharmacodynamic effect, which plateaus during this time period <abbrgrp><abbr bid="B19">19</abbr></abbrgrp>.</p>
+         <p>The timing of G-CSF administration in the morning may have overridden endogenous evening peak HPC counts except in the youngest donors. In a study of serial administration of a 4-day G-CSF course at different hours of the day <abbrgrp><abbr bid="B20">20</abbr></abbrgrp>, the peak of the CD34<sup>+</sup> count on the fifth day occurred within several hours of the G-CSF administration time on the previous 4 days (Georg Bjarnason, personal communication). On day 5 of daily morning G-CSF administration, there was also a nonsignificant trend in 10 healthy volunteers towards a peak CD34<sup>+</sup> count 2 hours after the G-CSF dose <abbrgrp><abbr bid="B19">19</abbr></abbrgrp>. In the mouse model, where circadian rhythms were maintained with G-CSF mobilization <abbrgrp><abbr bid="B9">9</abbr></abbrgrp>, human G-CSF was injected subcutaneously at 125 &#956;g/kg every 12 hours for 4 days, and blood collection was always timed at 3 hours after the last dose of G-CSF. Perhaps the steadier serum levels of G-CSF obtained with every 12-hour dosing <abbrgrp><abbr bid="B21">21</abbr></abbrgrp> is important for maintenance of the circadian rhythm, given G-CSF pharmacokinetics of a maximum serum concentration after subcutaneous administration for 2 to 8 hours and a half-life of ~3.5 hours.</p>
+         <p>The circadian pattern of stem cell egress may be altered in older people, as it is notable that the three youngest donors had the highest [CD34<sup>+</sup>] mobilization, and reached or maintained their peak [CD34<sup>+</sup>CD38<sup>&#8211;</sup>] at day 4 midnight. Older patients do not mobilize hematopoietic progenitors as well as young subjects <abbrgrp><abbr bid="B22">22</abbr></abbrgrp> and previous studies finding an endogenous circadian rhythm used as their subjects young mice aged 7 to 8 weeks old <abbrgrp><abbr bid="B9">9</abbr></abbrgrp> or healthy volunteers with mostly an age range in their 20s and 30s <abbrgrp><abbr bid="B7">7</abbr><abbr bid="B8">8</abbr><abbr bid="B9">9</abbr><abbr bid="B10">10</abbr></abbrgrp>.</p>
+         <p>Donor ailments or medications may have affected their circadian rhythm, as stem cell mobilization may be affected by diabetes <abbrgrp><abbr bid="B23">23</abbr></abbrgrp> or by drugs affecting sympathetic tone <abbrgrp><abbr bid="B24">24</abbr><abbr bid="B25">25</abbr></abbrgrp>. The two diabetic patients had relatively low CD34<sup>+</sup> mobilization, while the asthmatic donor on the &#946;<sub>2</sub>-adrenergic agonist albuterol (and &#945;-adrenergic agonist pseudoephedrine) had the highest mobilization.</p>
+         <p>Finally, the circadian peak may have occurred between 18:00 and 00:00 hours and was thus missed. Previously reported ~2-fold differences in PB [CD34<sup>+</sup>] / [CD34<sup>+</sup>CD38<sup>&#8211;</sup>] were seen at 20:00 hours compared with 08:00 hours collection times <abbrgrp><abbr bid="B9">9</abbr></abbrgrp>. Previous mouse data suggest that the circadian HPC concentrations can fluctuate significantly over 4-hour intervals <abbrgrp><abbr bid="B8">8</abbr></abbrgrp>.</p>
+         <p>The relatively poor correlation of [CD34<sup>+</sup>CD38<sup>&#8211;</sup>] with [CD34<sup>+</sup>] and its possible prognostic importance suggest that [CD34<sup>+</sup>CD38<sup>&#8211;</sup>] might be further explored as a determinant of the optimal time for collection.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Conclusion</p>
+         </st>
+         <p>This is the first prospective cohort study based on preclinical mouse as well as retrospective clinical data to examine whether circadian oscillations to hematopoietic stem cell release are maintained with G-CSF (or plerixafor) mobilization. Such data are important because a simple change of collection time to coincide with the peak of circadian egress might theoretically optimize the number of HPC collected. Our data suggest that endogenous progenitor rhythms may be altered by pharmacodynamic effect and the timing of G-CSF, and also donor age, medical history, and medications. These findings have important implications for future study design using G-CSF or possibly other mobilizing agents to study HPC biology.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Abbreviations</p>
+         </st>
+         <p>G-CSF: granulocyte colony-stimulating factor; HPC: hematopoietic progenitor cell; PB: peripheral blood</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Competing interests</p>
+         </st>
+         <p>JLG (a study co-investigator) is a named inventor of G-CSF. This invention was patented by Memorial Sloan Kettering Cancer Center and licensed to Amgen. JLG receives a portion of the royalty payments that Memorial Sloan Kettering Cancer Center receives for this patent. G-CSF is US Food and Drug Administration approved and is used clinically as part of the standard of care for the normal mobilization and collection of stem cells in the context of peripheral blood stem cell transplants. There remaining authors declare they have no competing interests.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Authors&#8217; contributions</p>
+         </st>
+         <p>PAS conceived and designed the study, acquired and analyzed data, and wrote the manuscript. LMI helped design the study, acquired and analyzed data, and edited the manuscript. JLG edited the manuscript. ELM analyzed data. JHG analyzed data. LKM helped design the study and acquired data. PSF conceived and designed the study, and wrote the manuscript. All authors read and approved the final manuscript.</p>
+      </sec>
+   </bdy>
+   <bm>
+      <ack>
+         <sec>
+            <st>
+               <p>Acknowledgements</p>
+            </st>
+            <p>This study was funded by Grant Number #UL1RR029887 from the National Center for Research Resources (NCRR), a component of the National Institutes of Health (NIH). The study&#8217;s contents are solely the responsibility of the authors and NCRR/NIH had no role in study design or collection, analysis, and interpretation of data. The authors would like to thank the study subjects; Daniel Lucas for providing helpful manuscript review; and Erlinda Sacris, our research nurse for the study.</p>
+         </sec>
+      </ack>
+      <refgrp>
+         <bibl id="B1">
+            <title>
+               <p>Dose and schedule effect of G-GSF for stem cell mobilization in healthy donors for allogeneic transplantation</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Kroger</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Zander</snm>
+                  <fnm>AR</fnm>
+               </au>
+            </aug>
+            <source>Leuk Lymphoma</source>
+            <pubdate>2002</pubdate>
+            <volume>43</volume>
+            <fpage>1391</fpage>
+            <lpage>1394</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1080/10428190290033323</pubid>
+                  <pubid idtype="pmpid" link="fulltext">12389618</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B2">
+            <title>
+               <p>Adverse events among 2408 unrelated donors of peripheral blood stem cells: results of a prospective trial from the National Marrow Donor Program</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Pulsipher</snm>
+                  <fnm>MA</fnm>
+               </au>
+               <au>
+                  <snm>Chitphakdithai</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Miller</snm>
+                  <fnm>JP</fnm>
+               </au>
+               <au>
+                  <snm>Logan</snm>
+                  <fnm>BR</fnm>
+               </au>
+               <au>
+                  <snm>King</snm>
+                  <fnm>RJ</fnm>
+               </au>
+               <au>
+                  <snm>Rizzo</snm>
+                  <fnm>JD</fnm>
+               </au>
+               <au>
+                  <snm>Leitman</snm>
+                  <fnm>SF</fnm>
+               </au>
+               <au>
+                  <snm>Anderlini</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Haagenson</snm>
+                  <fnm>MD</fnm>
+               </au>
+               <au>
+                  <snm>Kurian</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Klein</snm>
+                  <fnm>JP</fnm>
+               </au>
+               <au>
+                  <snm>Horowitz</snm>
+                  <fnm>MM</fnm>
+               </au>
+               <au>
+                  <snm>Confer</snm>
+                  <fnm>DL</fnm>
+               </au>
+            </aug>
+            <source>Blood</source>
+            <pubdate>2009</pubdate>
+            <volume>113</volume>
+            <fpage>3604</fpage>
+            <lpage>3611</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1182/blood-2008-08-175323</pubid>
+                  <pubid idtype="pmcid">2668845</pubid>
+                  <pubid idtype="pmpid" link="fulltext">19190248</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B3">
+            <title>
+               <p>The effect of the composition of unrelated donor bone marrow and peripheral blood progenitor cell grafts on transplantation outcomes</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Collins</snm>
+                  <fnm>NH</fnm>
+               </au>
+               <au>
+                  <snm>Gee</snm>
+                  <fnm>AP</fnm>
+               </au>
+               <au>
+                  <snm>Durett</snm>
+                  <fnm>AG</fnm>
+               </au>
+               <au>
+                  <snm>Kan</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Zhang</snm>
+                  <fnm>MJ</fnm>
+               </au>
+               <au>
+                  <snm>Champlin</snm>
+                  <fnm>RE</fnm>
+               </au>
+               <au>
+                  <snm>Confer</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Eapen</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Howard</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>King</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Laughlin</snm>
+                  <fnm>MJ</fnm>
+               </au>
+               <au>
+                  <snm>Plante</snm>
+                  <fnm>RJ</fnm>
+               </au>
+               <au>
+                  <snm>Setterholm</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Spellman</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Keever-Taylor</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Wagner</snm>
+                  <fnm>JE</fnm>
+               </au>
+               <au>
+                  <snm>Weisdorf</snm>
+                  <fnm>DJ</fnm>
+               </au>
+            </aug>
+            <source>Biol Blood Marrow Transplant</source>
+            <pubdate>2010</pubdate>
+            <volume>16</volume>
+            <fpage>253</fpage>
+            <lpage>262</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.bbmt.2009.10.004</pubid>
+                  <pubid idtype="pmcid">2952392</pubid>
+                  <pubid idtype="pmpid" link="fulltext">19822219</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B4">
+            <title>
+               <p>Donor, recipient, and transplant characteristics as risk factors after unrelated donor PBSC transplantation: beneficial effects of higher CD34<sup>+</sup> cell dose</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Pulsipher</snm>
+                  <fnm>MA</fnm>
+               </au>
+               <au>
+                  <snm>Chitphakdithai</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Logan</snm>
+                  <fnm>BR</fnm>
+               </au>
+               <au>
+                  <snm>Leitman</snm>
+                  <fnm>SF</fnm>
+               </au>
+               <au>
+                  <snm>Anderlini</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Klein</snm>
+                  <fnm>JP</fnm>
+               </au>
+               <au>
+                  <snm>Horowitz</snm>
+                  <fnm>MM</fnm>
+               </au>
+               <au>
+                  <snm>Miller</snm>
+                  <fnm>JP</fnm>
+               </au>
+               <au>
+                  <snm>King</snm>
+                  <fnm>RJ</fnm>
+               </au>
+               <au>
+                  <snm>Confer</snm>
+                  <fnm>DL</fnm>
+               </au>
+            </aug>
+            <source>Blood</source>
+            <pubdate>2009</pubdate>
+            <volume>114</volume>
+            <fpage>2606</fpage>
+            <lpage>2616</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1182/blood-2009-03-208355</pubid>
+                  <pubid idtype="pmcid">2756121</pubid>
+                  <pubid idtype="pmpid" link="fulltext">19608747</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B5">
+            <title>
+               <p>Allogeneic blood progenitor cell collection in normal donors after mobilization with filgrastim: the M.D. Anderson Cancer Center experience</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Anderlini</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Donato</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Chan</snm>
+                  <fnm>KW</fnm>
+               </au>
+               <au>
+                  <snm>Huh</snm>
+                  <fnm>YO</fnm>
+               </au>
+               <au>
+                  <snm>Gee</snm>
+                  <fnm>AP</fnm>
+               </au>
+               <au>
+                  <snm>Lauppe</snm>
+                  <fnm>MJ</fnm>
+               </au>
+               <au>
+                  <snm>Champlin</snm>
+                  <fnm>RE</fnm>
+               </au>
+               <au>
+                  <snm>Korbling</snm>
+                  <fnm>M</fnm>
+               </au>
+            </aug>
+            <source>Transfusion</source>
+            <pubdate>1999</pubdate>
+            <volume>39</volume>
+            <fpage>555</fpage>
+            <lpage>560</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1046/j.1537-2995.1999.39060555.x</pubid>
+                  <pubid idtype="pmpid" link="fulltext">10378833</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B6">
+            <title>
+               <p>Single-dose pegfilgrastim for the mobilization of allogeneic CD34<sup>+</sup> peripheral blood progenitor cells in healthy family and unrelated donors</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Kroschinsky</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Holig</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Poppe-Thiede</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Zimmer</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Ordemann</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Blechschmidt</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Oelschlaegel</snm>
+                  <fnm>U</fnm>
+               </au>
+               <au>
+                  <snm>Bornhauser</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Rall</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Rutt</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Ehninger</snm>
+                  <fnm>G</fnm>
+               </au>
+            </aug>
+            <source>Haematologica</source>
+            <pubdate>2005</pubdate>
+            <volume>90</volume>
+            <fpage>1665</fpage>
+            <lpage>1671</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid" link="fulltext">16330441</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B7">
+            <title>
+               <p>Variation in cell yield and proliferative activity of positive selected human CD34<sup>+</sup> bone marrow cells along the circadian time scale</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Abrahamsen</snm>
+                  <fnm>JF</fnm>
+               </au>
+               <au>
+                  <snm>Smaaland</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Sothern</snm>
+                  <fnm>RB</fnm>
+               </au>
+               <au>
+                  <snm>Laerum</snm>
+                  <fnm>OD</fnm>
+               </au>
+            </aug>
+            <source>Eur J Haematol</source>
+            <pubdate>1998</pubdate>
+            <volume>60</volume>
+            <fpage>7</fpage>
+            <lpage>15</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid">9451422</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B8">
+            <title>
+               <p>Haematopoietic stem cell release is regulated by circadian oscillations</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Mendez-Ferrer</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Lucas</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Battista</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Frenette</snm>
+                  <fnm>PS</fnm>
+               </au>
+            </aug>
+            <source>Nature</source>
+            <pubdate>2008</pubdate>
+            <volume>452</volume>
+            <fpage>442</fpage>
+            <lpage>447</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/nature06685</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18256599</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B9">
+            <title>
+               <p>Mobilized hematopoietic stem cell yield depends on species-specific circadian timing</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Lucas</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Battista</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Shi</snm>
+                  <fnm>PA</fnm>
+               </au>
+               <au>
+                  <snm>Isola</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Frenette</snm>
+                  <fnm>PS</fnm>
+               </au>
+            </aug>
+            <source>Cell Stem Cell</source>
+            <pubdate>2008</pubdate>
+            <volume>3</volume>
+            <fpage>364</fpage>
+            <lpage>366</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.stem.2008.09.004</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18940728</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B10">
+            <title>
+               <p>Diurnal changes in circulating myeloid progenitor cells in man</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Verma</snm>
+                  <fnm>DS</fnm>
+               </au>
+               <au>
+                  <snm>Fisher</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Spitzer</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Zander</snm>
+                  <fnm>AR</fnm>
+               </au>
+               <au>
+                  <snm>McCredie</snm>
+                  <fnm>KB</fnm>
+               </au>
+               <au>
+                  <snm>Dicke</snm>
+                  <fnm>KA</fnm>
+               </au>
+            </aug>
+            <source>Am J Hematol</source>
+            <pubdate>1980</pubdate>
+            <volume>9</volume>
+            <fpage>185</fpage>
+            <lpage>192</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1002/ajh.2830090206</pubid>
+                  <pubid idtype="pmpid">7192051</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B11">
+            <title>
+               <p>Impact of CD34 subsets on engraftment kinetics in allogeneic peripheral blood stem cell transplantation</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Kamel</snm>
+                  <fnm>AM</fnm>
+               </au>
+               <au>
+                  <snm>El-Sharkawy</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Mahmoud</snm>
+                  <fnm>HK</fnm>
+               </au>
+               <au>
+                  <snm>Khalaf</snm>
+                  <fnm>MR</fnm>
+               </au>
+               <au>
+                  <snm>El Haddad</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Fahmy</snm>
+                  <fnm>O</fnm>
+               </au>
+               <au>
+                  <snm>El Fattah</snm>
+                  <fnm>RA</fnm>
+               </au>
+               <au>
+                  <snm>Sayed</snm>
+                  <fnm>D</fnm>
+               </au>
+            </aug>
+            <source>Bone Marrow Transplant</source>
+            <pubdate>2005</pubdate>
+            <volume>35</volume>
+            <fpage>129</fpage>
+            <lpage>136</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/sj.bmt.1704755</pubid>
+                  <pubid idtype="pmpid" link="fulltext">15568034</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B12">
+            <title>
+               <p>Subsets of CD34<sup>+</sup> and early engraftment kinetics in allogeneic peripheral SCT for AML</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Pastore</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Mestice</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Perrone</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Gaudio</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Delia</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Albano</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Russo Rossi</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Carluiccio</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Leo</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Liso</snm>
+                  <fnm>V</fnm>
+               </au>
+               <au>
+                  <snm>Specchia</snm>
+                  <fnm>G</fnm>
+               </au>
+            </aug>
+            <source>Bone Marrow Transplant</source>
+            <pubdate>2008</pubdate>
+            <volume>41</volume>
+            <fpage>977</fpage>
+            <lpage>981</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/bmt.2008.87</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18425147</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B13">
+            <title>
+               <p>Early and long-term engraftment after autologous peripheral stem cell transplantation in acute myeloid leukemia patients</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Specchia</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Pastore</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Mestice</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Liso</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Carluccio</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Leo</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Casanova</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Sibilla</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Giannoccaro</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Liso</snm>
+                  <fnm>V</fnm>
+               </au>
+            </aug>
+            <source>Acta Haematol</source>
+            <pubdate>2006</pubdate>
+            <volume>116</volume>
+            <fpage>229</fpage>
+            <lpage>237</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1159/000095872</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17119322</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B14">
+            <title>
+               <p>Primordial role of CD34<sup>+</sup> 38<sup>&#8211;</sup> cells in early and late trilineage haemopoietic engraftment after autologous blood cell transplantation</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Henon</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Sovalat</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Becker</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Arkam</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Ojeda-Uribe</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Raidot</snm>
+                  <fnm>JP</fnm>
+               </au>
+               <au>
+                  <snm>Husseini</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Wunder</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Bourderont</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Audhuy</snm>
+                  <fnm>B</fnm>
+               </au>
+            </aug>
+            <source>Br J Haematol</source>
+            <pubdate>1998</pubdate>
+            <volume>103</volume>
+            <fpage>568</fpage>
+            <lpage>581</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1046/j.1365-2141.1998.01066.x</pubid>
+                  <pubid idtype="pmpid" link="fulltext">9827938</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B15">
+            <title>
+               <p>A primitive hematopoietic cell is the target for the leukemic transformation in human philadelphia-positive acute lymphoblastic leukemia</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Cobaleda</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Gutierrez-Cianca</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Perez-Losada</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Flores</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Garcia-Sanz</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Gonzalez</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Sanchez-Garcia</snm>
+                  <fnm>I</fnm>
+               </au>
+            </aug>
+            <source>Blood</source>
+            <pubdate>2000</pubdate>
+            <volume>95</volume>
+            <fpage>1007</fpage>
+            <lpage>1013</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid" link="fulltext">10648416</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B16">
+            <title>
+               <p>A clinically relevant population of leukemic CD34(+)CD38(&#8722;) cells in acute myeloid leukemia</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Gerber</snm>
+                  <fnm>JM</fnm>
+               </au>
+               <au>
+                  <snm>Smith</snm>
+                  <fnm>BD</fnm>
+               </au>
+               <au>
+                  <snm>Ngwang</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Zhang</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Vala</snm>
+                  <fnm>MS</fnm>
+               </au>
+               <au>
+                  <snm>Morsberger</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Galkin</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Collector</snm>
+                  <fnm>MI</fnm>
+               </au>
+               <au>
+                  <snm>Perkins</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Levis</snm>
+                  <fnm>MJ</fnm>
+               </au>
+               <au>
+                  <snm>Griffin</snm>
+                  <fnm>CA</fnm>
+               </au>
+               <au>
+                  <snm>Sharkis</snm>
+                  <fnm>SJ</fnm>
+               </au>
+               <au>
+                  <snm>Borowitz</snm>
+                  <fnm>MJ</fnm>
+               </au>
+               <au>
+                  <snm>Karp</snm>
+                  <fnm>JE</fnm>
+               </au>
+               <au>
+                  <snm>Jones</snm>
+                  <fnm>RJ</fnm>
+               </au>
+            </aug>
+            <source>Blood</source>
+            <pubdate>2012</pubdate>
+            <volume>119</volume>
+            <fpage>3571</fpage>
+            <lpage>3577</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1182/blood-2011-06-364182</pubid>
+                  <pubid idtype="pmpid" link="fulltext">22262762</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B17">
+            <title>
+               <p>Treatment of normal individuals with granulocyte-colony-stimulating factor: donor experiences and the effects on peripheral blood CD34<sup>+</sup> cell counts and on the collection of peripheral blood stem cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Stroncek</snm>
+                  <fnm>DF</fnm>
+               </au>
+               <au>
+                  <snm>Clay</snm>
+                  <fnm>ME</fnm>
+               </au>
+               <au>
+                  <snm>Petzoldt</snm>
+                  <fnm>ML</fnm>
+               </au>
+               <au>
+                  <snm>Smith</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Jaszcz</snm>
+                  <fnm>W</fnm>
+               </au>
+               <au>
+                  <snm>Oldham</snm>
+                  <fnm>FB</fnm>
+               </au>
+               <au>
+                  <snm>McCullough</snm>
+                  <fnm>J</fnm>
+               </au>
+            </aug>
+            <source>Transfusion</source>
+            <pubdate>1996</pubdate>
+            <volume>36</volume>
+            <fpage>601</fpage>
+            <lpage>610</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1046/j.1537-2995.1996.36796323059.x</pubid>
+                  <pubid idtype="pmpid" link="fulltext">8701455</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B18">
+            <title>
+               <p>Duration of filgrastim mobilization and apheresis yield of CD34<sup>+</sup> progenitor cells and lymphoid subsets in normal donors for allogeneic transplantation</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Anderlini</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Przepiorka</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Huh</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Lauppe</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Miller</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Sundberg</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Seong</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Champlin</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Korbling</snm>
+                  <fnm>M</fnm>
+               </au>
+            </aug>
+            <source>Br J Haematol</source>
+            <pubdate>1996</pubdate>
+            <volume>93</volume>
+            <fpage>940</fpage>
+            <lpage>942</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1046/j.1365-2141.1996.d01-1747.x</pubid>
+                  <pubid idtype="pmpid">8703830</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B19">
+            <title>
+               <p>The kinetics of G-CSF mobilization of CD34<sup>+</sup> cells in healthy people</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Stroncek</snm>
+                  <fnm>DF</fnm>
+               </au>
+               <au>
+                  <snm>Clay</snm>
+                  <fnm>ME</fnm>
+               </au>
+               <au>
+                  <snm>Herr</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Smith</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Jaszcz</snm>
+                  <fnm>WB</fnm>
+               </au>
+               <au>
+                  <snm>Ilstrup</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>McCullough</snm>
+                  <fnm>J</fnm>
+               </au>
+            </aug>
+            <source>Transfus Med</source>
+            <pubdate>1997</pubdate>
+            <volume>7</volume>
+            <fpage>19</fpage>
+            <lpage>24</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1046/j.1365-3148.1997.d01-75.x</pubid>
+                  <pubid idtype="pmpid">9089980</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B20">
+            <title>
+               <p>Circadian variation in CD34<sup>+</sup> count and response to G-CSF therapy in healthy volunteers: implications for harvesting efficiacy</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Bjarnason</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Reis</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Robinson</snm>
+                  <fnm>JB</fnm>
+               </au>
+            </aug>
+            <source>Blood</source>
+            <pubdate>1996</pubdate>
+            <volume>10</volume>
+            <fpage>395a</fpage>
+         </bibl>
+         <bibl id="B21">
+            <title>
+               <p>Kinetics of G-CSF and CD34<sup>+</sup> cell mobilization after once or twice daily stimulation with rHu granulocyte-stimulating factor (lenograstim) in healthy volunteers: an intraindividual crossover study</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Kroger</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Sonnenberg</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Cortes-Dericks</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Freiberger</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Mollnau</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Zander</snm>
+                  <fnm>AR</fnm>
+               </au>
+            </aug>
+            <source>Transfusion</source>
+            <pubdate>2004</pubdate>
+            <volume>44</volume>
+            <fpage>104</fpage>
+            <lpage>110</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1111/j.0041-1132.2004.00618.x</pubid>
+                  <pubid idtype="pmpid" link="fulltext">14692975</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B22">
+            <title>
+               <p>Older age but not donor health impairs allogeneic granulocyte colony-stimulating factor (G-CSF) peripheral blood stem cell mobilization</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Richa</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Papari</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Allen</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Martinez</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Wickrema</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Anastasi</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Van Besien</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Artz</snm>
+                  <fnm>A</fnm>
+               </au>
+            </aug>
+            <source>Biol Blood Marrow Transplant</source>
+            <pubdate>2009</pubdate>
+            <volume>15</volume>
+            <fpage>1394</fpage>
+            <lpage>1399</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.bbmt.2009.07.005</pubid>
+                  <pubid idtype="pmpid" link="fulltext">19822298</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B23">
+            <title>
+               <p>Diabetes impairs hematopoietic stem cell mobilization by altering niche function</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Ferraro</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Lymperi</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Mendez-Ferrer</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Saez</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Spencer</snm>
+                  <fnm>JA</fnm>
+               </au>
+               <au>
+                  <snm>Yeap</snm>
+                  <fnm>BY</fnm>
+               </au>
+               <au>
+                  <snm>Masselli</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Graiani</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Prezioso</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Rizzini</snm>
+                  <fnm>EL</fnm>
+               </au>
+               <au>
+                  <snm>Mangoni</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Rizzoli</snm>
+                  <fnm>V</fnm>
+               </au>
+               <au>
+                  <snm>Sykes</snm>
+                  <fnm>SM</fnm>
+               </au>
+               <au>
+                  <snm>Lin</snm>
+                  <fnm>CP</fnm>
+               </au>
+               <au>
+                  <snm>Frenette</snm>
+                  <fnm>PS</fnm>
+               </au>
+               <au>
+                  <snm>Quaini</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Scadden</snm>
+                  <fnm>DT</fnm>
+               </au>
+            </aug>
+            <source>Sci Transl Med</source>
+            <pubdate>2011</pubdate>
+            <volume>3</volume>
+            <fpage>104ra101</fpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1126/scitranslmed.3002191</pubid>
+                  <pubid idtype="pmpid" link="fulltext">21998408</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B24">
+            <title>
+               <p>Cooperation of beta(2)- and beta(3)-adrenergic receptors in hematopoietic progenitor cell mobilization</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Mendez-Ferrer</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Battista</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Frenette</snm>
+                  <fnm>PS</fnm>
+               </au>
+            </aug>
+            <source>Ann N Y Acad Sci</source>
+            <pubdate>2010</pubdate>
+            <volume>1192</volume>
+            <fpage>139</fpage>
+            <lpage>144</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1111/j.1749-6632.2010.05390.x</pubid>
+                  <pubid idtype="pmpid" link="fulltext">20392229</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B25">
+            <title>
+               <p>Norepinephrine reuptake inhibition promotes mobilization in mice: potential impact to rescue low stem cell yields</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Lucas</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Bruns</snm>
+                  <fnm>I</fnm>
+               </au>
+               <au>
+                  <snm>Battista</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Mendez-Ferrer</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Magnon</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Kunisaki</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Frenette</snm>
+                  <fnm>PS</fnm>
+               </au>
+            </aug>
+            <source>Blood</source>
+            <pubdate>2012</pubdate>
+            <volume>119</volume>
+            <fpage>3962</fpage>
+            <lpage>3965</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1182/blood-2011-07-367102</pubid>
+                  <pubid idtype="pmpid" link="fulltext">22422821</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+      </refgrp>
+   </bm>
+</art>

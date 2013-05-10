@@ -1,0 +1,2549 @@
+<!DOCTYPE art SYSTEM "article.dtd">
+<art>
+   <ui>scrt160</ui>
+   <ji>1757-6512</ji>
+   <fm>
+      <dochead>Research</dochead>
+      <bibl>
+         <title>
+            <p>Reciprocal interactions of mouse bone marrow-derived mesenchymal stem cells and BV2 microglia after lipopolysaccharide stimulation</p>
+         </title>
+         <aug>
+            <au id="A1" ce="yes">
+               <snm>Rahmat</snm>
+               <fnm>Zul'atfi</fnm>
+               <insr iid="I1"/>
+               <email>zulatfirahmat@gmail.com</email>
+            </au>
+            <au id="A2" ce="yes">
+               <snm>Jose</snm>
+               <fnm>Shinsmon</fnm>
+               <insr iid="I1"/>
+               <email>shinsmon580@gmail.com</email>
+            </au>
+            <au id="A3">
+               <snm>Ramasamy</snm>
+               <fnm>Rajesh</fnm>
+               <insr iid="I2"/>
+               <email>r.rajesh@medic.upm.edu.my</email>
+            </au>
+            <au id="A4" ca="yes">
+               <snm>Vidyadaran</snm>
+               <fnm>Sharmili</fnm>
+               <insr iid="I1"/>
+               <email>sharmili@medic.upm.edu.my</email>
+            </au>
+         </aug>
+         <insg>
+            <ins id="I1">
+               <p>Neuroinflammation Group, Immunology Laboratory, Department of Pathology, Faculty of Medicine and Health Sciences, Universiti Putra Malaysia, 43400 Serdang, Malaysia</p>
+            </ins>
+            <ins id="I2">
+               <p>Stem Cells &amp; Immunity Group, Immunology Laboratory, Department of Pathology, Faculty of Medicine and Health Sciences, Universiti Putra Malaysia, 43400 Serdang, Malaysia</p>
+            </ins>
+         </insg>
+         <source>Stem Cell Research &amp; Therapy</source>
+         <issn>1757-6512</issn>
+         <pubdate>2013</pubdate>
+         <volume>4</volume>
+         <issue>1</issue>
+         <fpage>12</fpage>
+         <url>http://stemcellres.com/content/4/1/12</url>
+         <xrefbib>
+            <pubidlist>
+               <pubid idtype="doi">10.1186/scrt160</pubid>
+               <pubid idtype="pmpid">23356521</pubid>
+            </pubidlist>
+         </xrefbib>
+      </bibl>
+      <history>
+         <rec>
+            <date>
+               <day>27</day>
+               <month>9</month>
+               <year>2012</year>
+            </date>
+         </rec>
+         <revrec>
+            <date>
+               <day>31</day>
+               <month>12</month>
+               <year>2012</year>
+            </date>
+         </revrec>
+         <acc>
+            <date>
+               <day>21</day>
+               <month>1</month>
+               <year>2013</year>
+            </date>
+         </acc>
+         <pub>
+            <date>
+               <day>28</day>
+               <month>1</month>
+               <year>2013</year>
+            </date>
+         </pub>
+      </history>
+      <cpyrt>
+         <year>2013</year>
+         <collab>Rahmat et al.; licensee BioMed Central Ltd.</collab>
+         <note>This is an open access article distributed under the terms of the Creative Commons Attribution License (<url>http://creativecommons.org/licenses/by/2.0</url>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</note>
+      </cpyrt>
+      <abs>
+         <sec>
+            <st>
+               <p>Abstract</p>
+            </st>
+            <sec>
+               <st>
+                  <p>Introduction</p>
+               </st>
+               <p>Mesenchymal stem cells (MSCs) are immunosuppressive, but we lack an understanding of how these adult stem cells are in turn affected by immune cells and the surrounding tissue environment. As MSCs have stromal functions and exhibit great plasticity, the influence of an inflamed microenvironment on their responses is important to determine. MSCs downregulate microglial inflammatory responses, and here we describe the mutual effects of coculturing mouse bone marrow MSCs with BV2 microglia in a lipopolysaccharide (LPS) inflammatory paradigm.</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>Methods</p>
+               </st>
+               <p>Mouse MSCs were cultured from femoral and tibial bone marrow aspirates and characterized. MSCs were cocultured with BV2 microglia at four seeding-density ratios (1:0.2, 1:0.1, 1:0.02, and 1:0.01 (BV2/MSC)), and stimulated with 1 &#956;g/ml LPS. In certain assays, MSCs were separated from BV2 cells with a cell-culture insert to determine the influence of soluble factors on downstream responses. Inflammatory mediators including nitric oxide (NO), interleukin-6 (IL-6), tumor necrosis factor-alpha (TNF-&#945;), and chemokine (C-C motif) ligand 2 (CCL2) were measured in cocultures, and MSC and BV2 chemotactic ability determined by migration assays.</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>Results</p>
+               </st>
+               <p>We demonstrated MSCs to increase expression of NO and IL-6 and decrease TNF-&#945; in LPS-treated cocultures. These effects are differentially mediated by soluble factors and cell-to-cell contact. In response to an LPS stimulus, MSCs display distinct behaviors, including expressing IL-6 and very high levels of the chemokine CCL2. Microglia increase their migration almost fourfold in the presence of LPS, and interestingly, MSCs provide an equal impetus for microglia locomotion. MSCs do not migrate toward LPS but migrate toward microglia, with their chemotaxis increasing when microglia are activated. Similarly, MSCs do not produce NO when exposed to LPS, but secrete large amounts when exposed to soluble factors from activated microglia. This demonstrates that certain phenotypic changes of MSCs are governed by inflammatory microglia, and not by the inflammatory stimulus. Nonetheless, LPS appears to "prime" the NO-secretory effects of MSCs, as prior treatment with LPS triggers a bigger NO response from MSCs after exposure to microglial soluble factors.</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>Conclusions</p>
+               </st>
+               <p>These effects demonstrate the multifaceted and reciprocal interactions of MSCs and microglia within an inflammatory milieu.</p>
+            </sec>
+         </sec>
+      </abs>
+   </fm>
+   <bdy>
+      <sec>
+         <st>
+            <p>Introduction</p>
+         </st>
+         <p>Mesenchymal stem cells (MSCs) regulate a wide range of immune cells <abbrgrp><abbr bid="B1">1</abbr><abbr bid="B2">2</abbr></abbrgrp>. They limit proliferation of T and B lymphocytes <abbrgrp><abbr bid="B3">3</abbr><abbr bid="B4">4</abbr><abbr bid="B5">5</abbr></abbrgrp>, prevent differentiation of monocytes into dendritic cells <abbrgrp><abbr bid="B6">6</abbr><abbr bid="B7">7</abbr></abbrgrp>, and inhibit dendritic cell maturation <abbrgrp><abbr bid="B8">8</abbr></abbrgrp>. During tissue injury, inhibitory functions of MSCs appear to be elicited by inflammation, with the requirement of MSC "licensing" by inflammatory mediators shown to be necessary for their subsequent immunosuppressive activities <abbrgrp><abbr bid="B9">9</abbr><abbr bid="B10">10</abbr><abbr bid="B11">11</abbr></abbrgrp>.</p>
+         <p>A role for MSCs in ameliorating disease within the central nervous system (CNS) is being defined. In animal models of stroke <abbrgrp><abbr bid="B12">12</abbr></abbrgrp> and Alzheimer's disease <abbrgrp><abbr bid="B13">13</abbr></abbrgrp>, MSCs appear to improve disease by dampening localized inflammatory responses. Other therapeutic features of MSCs, such as their regenerative and (trans)differentiation abilities, seem to have less to do with alleviating the pathology of CNS diseases <abbrgrp><abbr bid="B14">14</abbr><abbr bid="B15">15</abbr></abbrgrp>. The resident inflammatory cells of the CNS are microglia <abbrgrp><abbr bid="B16">16</abbr></abbrgrp>. Derived from primitive myeloid progenitors that form a pool of resident microglia in the adult brain <abbrgrp><abbr bid="B17">17</abbr></abbrgrp>, these CNS-specific macrophages initiate and maintain inflammatory responses in the brain and spinal cord. In response to infection or injury, microglia assume a proinflammatory phenotype, secreting various mediators, including cytokines, reactive oxygen and nitrogen species, chemokines, and neurotrophic factors <abbrgrp><abbr bid="B16">16</abbr></abbrgrp>. Several lines of evidence attribute neuronal damage to the inflammatory responses of microglia, and not necessarily to a direct neurotoxic insult <abbrgrp><abbr bid="B18">18</abbr><abbr bid="B19">19</abbr><abbr bid="B20">20</abbr></abbrgrp>. Accordingly, reactive microglia are a common feature of numerous brain pathologies <abbrgrp><abbr bid="B21">21</abbr></abbrgrp>, and improvement of disease outcome with MSC transplantation is accompanied by modulation of microglia proliferation <abbrgrp><abbr bid="B13">13</abbr><abbr bid="B22">22</abbr></abbrgrp>, inflammatory mediators <abbrgrp><abbr bid="B23">23</abbr><abbr bid="B24">24</abbr></abbrgrp>, and phagocytosis <abbrgrp><abbr bid="B13">13</abbr><abbr bid="B15">15</abbr></abbrgrp>.</p>
+         <p>The inflammatory responses of the brain and spinal cord are unique, initially restricted to reactions of microglia and astrocytes, not circulating systemic leukocytes <abbrgrp><abbr bid="B25">25</abbr><abbr bid="B26">26</abbr></abbrgrp>. Unlike other tissue macrophages, microglia proliferate and appear to have limited antigen-presenting capability <abbrgrp><abbr bid="B16">16</abbr></abbrgrp>. These distinct properties of microglia, coupled with the fact that MSCs are highly responsive to their environment <abbrgrp><abbr bid="B27">27</abbr></abbrgrp>, warrant the need to determine their mutual interactions during neuroinflammation. To understand the mechanism of MSC-mediated downregulation of neuroinflammation, it is important to examine the influence of the inflamed environment on MSCs. As multipotent cells with trophic functions, MSCs are highly responsive to biologic cues within their locality. Understanding how neuroinflammation affects MSCs is crucial to gauge their long-term therapeutic efficacy. Reports describing an immune response against MSCs transplanted into the brain underscore the need to understand endogenous, organ-specific cellular reactions toward MSCs <abbrgrp><abbr bid="B28">28</abbr><abbr bid="B29">29</abbr></abbrgrp>. Here, we determined nitric oxide (NO) secretion, inflammatory cytokine expression, and chemotactic activity of both cell types in response to a lipopolysaccharide (LPS) stimulus. We now appreciate that great reciprocities exist between the two cells and that MSCs react to signals from both microglia and the inflammatory agent, with cues from both affecting MSCs in distinct ways.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Materials and methods</p>
+         </st>
+         <sec>
+            <st>
+               <p>Ethics statement</p>
+            </st>
+            <p>Use and care of animals were approved by the Animal Care and Use Committee (ACUC, Approval ID UPM/FPSK/PADS/BRUUH/00163), Faculty of Medicine and Health Sciences, Universiti Putra Malaysia.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Mouse bone marrow cell culture</p>
+            </st>
+            <p>MSCs were generated from bone marrow of the tibias and femurs of male BALB/c and ICR mice. Cells were cultured in Dulbecco modified Eagle medium (DMEM) with high glucose concentration, 10 n<it>M </it>GlutaMAX-I Supplement, 100 U/ml penicillin, 100 &#956;g/ml streptomycin, and 10 &#956;g/ml gentamycin (all from Invitrogen, CA, USA) and supplemented with 15% Mesenchymal Stem Cell Stimulatory Supplements (STEM-CELL Technologies, Canada). Culture of the cells was based on a modified protocol <abbrgrp><abbr bid="B30">30</abbr></abbrgrp>. In brief, 3 hours after culture, media was replaced, followed by subsequent media changes and 1&#215; PBS washes every 6 hours for 72 hours. Cells were harvested by treating with 0.25% trypsin containing 1 m<it>M </it>EDTA for 5 minutes at 37&#176;C. MSC cultures were characterized by positive expression for CD106, Sca-1, and CD44, and negative expression for CD45, CD11b, and MHC class II (all from BD Biosciences, San Jose, CA, USA). Differentiation assays were also performed by using the Millipore Mesenchymal Stem Cell Adipogenesis Kit (SCR020, Merck KGaA, Darmstadt, Germany) and Mesenchymal Stem Cell Osteogenesis Kit (SCR028, Merck KGaA, Darmstadt, Germany). Cells at passages eight through 14 were used for downstream experiments.</p>
+         </sec>
+      </sec>
+      <sec>
+         <st>
+            <p>BV2 microglia culture</p>
+         </st>
+         <p>BV2 cells were a generous gift from Dr. Thameem Dheen of the National University Singapore. BV2 is an immortalized microglia cell line infected with a v-<it>raf</it>/v-<it>myc </it>oncogene carrying retrovirus J2 <abbrgrp><abbr bid="B31">31</abbr></abbrgrp>. Cells were cultured in DMEM with 5% heat-inactivated fetal bovine serum (FBS), 100 U/ml penicillin, 100 &#956;g/ml streptomycin, 10 &#956;g/ml gentamycin (all from Invitrogen, CA, USA), 1&#215; nonessential amino acids, and 6.25 &#956;g/ml insulin (Sigma-Aldrich, St. Louis, MO, USA). Cells were harvested on reaching 80% to 90% confluence by treating with 0.25% trypsin containing 1 m<it>M </it>EDTA for 5 minutes at 37&#176;C.</p>
+         <sec>
+            <st>
+               <p>MSC/BV2 cocultures</p>
+            </st>
+            <p>MSC and BV2 cells were cocultured at four different ratios of BV2 cells to MSCs, 1:0.2, 1:0.1, 1:0.02, and 1:0.01, with the BV2 cell number kept constant. Cells were seeded simultaneously (except for proliferation assays) and incubated overnight at 37&#176;C in a 5% CO<sub>2 </sub>incubator to allow cells to adhere. Cocultures were then stimulated with 1 &#956;g/ml lipopolysaccharide (LPS; <it>Escherichia coli </it>serotype O26:B6; L2762 Sigma-Aldrich, St. Louis, MO, USA), and the time point of LPS addition considered as 0 hours for all experiments. Cell-culture inserts with a 1-&#956;m polyethylene terephthalate membrane pore size (BD Falcon; BD Biosciences, Belgium) were used for transwell experiments.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>BV2 proliferation</p>
+            </st>
+            <p>BV2 cell proliferation was determined by assessing tritiated thymidine (<sup>3</sup>H-TdR; Perkin Elmer Boston, USA) incorporation. In 96-well plates, MSCs were seeded in triplicate at densities corresponding to the coculture ratios mentioned earlier and allowed to adhere overnight. The following day, MSCs were treated with 10 &#956;g/ml mitomycin-C (Sigma-Aldrich, St. Louis, MO, USA) for 2 hours to halt their proliferation. Plates were then washed thoroughly with DMEM to remove any traces of the mitotic inhibitor, and BV2 cells were then seeded at 5 &#215; 10<sup>3 </sup>BV2 cells/well. Cocultures were activated with 1 &#956;g/ml LPS for 48 hours, and <sup>3</sup>H-TdR (0.037 MBq/well (0.5 &#956;Ci/well)) was added to wells at the final 6 hours of incubation. Plates were then exposed to a freeze/thaw cycle at -20&#176;C to ease cell harvesting. Cells were harvested onto a filter mat by using an automated cell harvester (Harvester Mach III M; TOMTEC, CT, USA). Thymidine incorporation was measured with liquid scintillation spectroscopy on a beta counter (MicroBeta<sup>&#174; </sup>TriLux; Perkin Elmer, USA) after the addition of scintillation fluid (OptiPhase SuperMix Cocktail; Perkin Elmer Boston, USA), and readouts were in counts per minute (cpm).</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Detection of NO and cytokines</p>
+            </st>
+            <p>In 12-well plates, BV2 cells (2 &#215; 10<sup>5 </sup>cells/well) were cocultured overnight with the varying MSC ratios, with and without transwell, and stimulated with 1 &#956;g/ml LPS the following day. NO was detected in the supernatant of cocultures by using the Griess assay. For this, 50 &#956;l of culture supernatant from each sample was transferred to a 96-well plate in triplicate and added with the same volume of Griess reagent (1% sulfanilamide/0.1% <it>N</it>-1-napthylethylenediamine dihydrochloride/2.5% phosphoric acid; all from Sigma-Aldrich, St. Louis, MO, USA). Absorbance was read at 530 nm (MRX II microplate reader, Dynex Technologies, VA, USA) after 10-minute incubation. Nitrite concentration was calculated with reference to a standard curve of freshly prepared sodium nitrite (0 to 100 &#956;<it>M</it>). For supernatant transfer studies, 2 &#215; 10<sup>5 </sup>BV2 cells/well were cultured in 12-well plates for 24 hours, with or without LPS, and the supernatants collected and analyzed for NO to determine basal NO levels. The supernatants were transferred to MSC cultures in 12-well plates (at the ratios described earlier), completely replacing MSC culture medium. NO levels were then analyzed at 48, 72, and 96 hours. The basal levels of NO<sub>2</sub><sup>- </sup>in resting and LPS-activated BV2 cells were subtracted from the absorbance reading from MSC cultures to estimate the contribution by MSCs. The results are displayed as micromolar concentration of NO<sub>2</sub>.</p>
+            <p>Coculture supernatants were assayed at 6, 24, and 48 hours for IL-6, IL-10, MCP-1 (CCL2), IFN-&#947;, TNF, and IL-12p70 by using a multiplex bead array kit (BD Cytometric Bead Array mouse inflammation kit; BD Biosciences, San Jose, CA, USA), according to the manufacturer's instructions. Samples were assayed on a FACS Fortessa flow cytometer (BD Biosciences, San Jose, CA, USA) and analyzed with FCAP array software (BD Biosciences, San Jose, CA, USA). Concentration of cytokines in samples was calculated by using individual standard curves and expressed as pictograms per milliliter and fold change.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Migration assay</p>
+            </st>
+            <p>BV2 (1 &#215; 10<sup>5 </sup>cells) or ICR-derived MSCs (2 &#215; 10<sup>4 </sup>cells) was seeded onto cell-culture inserts with a polyethylene terephthalate membrane pore size of 8 &#956;m (for BV2 cells) and 3 &#956;m (for MSCs) in 24-well plates. At 6 hours (for BV2 cells) and 24 hours (for MSCs), culture media in inserts were carefully removed, and the insert membrane gently wiped with a cotton swab to remove cells that did not migrate across the membrane. The inserts were then rinsed with PBS, cells fixed with 2% paraformaldehyde, permeabilized with 0.01% Triton X-100 (Sigma-Aldrich, St. Louis, MO, USA), and stained with crystal violet (Sigma-Aldrich, St. Louis, MO, USA). Nine fields at 20&#215; magnification were imaged by using phase-contrast microscopy, and the number of cells that migrated across the membrane were counted.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Statistical analysis</p>
+            </st>
+            <p>Significance was assessed by using one-way ANOVA followed by the Tukey <it>post hoc </it>test or Student <it>t </it>test by using GraphPad Prism version 6 (GraphPad Software, CA, USA).</p>
+         </sec>
+      </sec>
+      <sec>
+         <st>
+            <p>Results</p>
+         </st>
+         <sec>
+            <st>
+               <p>MSCs inhibit BV2 proliferation</p>
+            </st>
+            <p>MSCs derived from BALB/c mouse bone marrow were CD106<sup>+</sup>Sca-1<sup>+</sup>CD44<sup>high</sup>MHC I<sup>-</sup>CD45<sup>-</sup>CD11b<sup>-</sup>MHC II<sup>-</sup>. The cells demonstrated their multipotentiality by differentiating into adipocytes and osteocytes (see Additional file <supplr sid="S1">1</supplr>). MSCs derived from ICR mouse bone marrow were previously characterized by our group <abbrgrp><abbr bid="B32">32</abbr></abbrgrp>.</p>
+            <suppl id="S1">
+               <title>
+                  <p>Additional file 1</p>
+               </title>
+               <text>
+                  <p><b>Phenotype and differentiation capacity of mouse bone marrow-derived MSCs</b>. (A) BALB/c bone marrow cultures immunophenotyped for MSC markers. Values within quadrants indicate percentage positivity of markers for MSCs derived from BALB/c mouse bone marrow at passage 8. (B) MSCs differentiated into adipocytes and osteocytes by using the Millipore Mesenchymal Stem Cell Adipogenesis Kit and Osteogenesis Kit. To observe adipogenesis, cells were stained for triglycerides with Oil Red O. To observe osteogenesis, cells were stained for aggregated calcium deposits with Alizarin Red. MSC, mesenchymal stem cell.</p>
+               </text>
+               <file name="scrt160-S1.PDF">
+                  <p>Click here for file</p>
+               </file>
+            </suppl>
+            <p>LPS increased BV2 microglia proliferation by close to threefold (Figure <figr fid="F1">1</figr>). Coculturing BV2 with MSC decreased BV2 proliferation in a dose-dependent manner. At 0.2, 0.1, and 0.02 seeding-density ratios, inhibition of LPS-stimulated BV2 microglia proliferation by MSCs was significant (Figure <figr fid="F1">1</figr>). Inhibition was best at the highest coculture ratio of 1:0.2 (BV2: MSCs), reducing LPS-stimulated BV2 proliferation by 52% (<it>P </it>&lt; 0.001). It is unlikely that this decrease in proliferation is due to a lack of nutrients in coculture, as MSCs were mitotically arrested with mitomycin-C, and the culture media pH indicator remained pink/red. Seeding densities of cocultures were also optimized to ensure sufficient room for cell growth in culture plates. MSCs did not significantly inhibit proliferation of unstimulated microglia.</p>
+            <fig id="F1">
+               <title>
+                  <p>Figure 1</p>
+               </title>
+               <caption>
+                  <p>MSCs inhibit BV2 microglia proliferation</p>
+               </caption>
+               <text>
+                  <p><b>MSCs inhibit BV2 microglia proliferation</b>. MSCs and BV2 microglia were cocultured at ratios indicated below the graph, and BV2 proliferation was determined with <sup>3</sup>H-TdR incorporation 48 hours after stimulation with 1 &#956;g/ml LPS. Values are expressed as mean &#177; SD and from a representative of two independent experiments. *<it>P </it>&lt; 0.05; **<it>P </it>&lt; 0.01; ***<it>P </it>&lt; 0.001, compared with respective controls. cpm, counts per minute; <sup>3</sup>H-TdR, tritiated thymidine; LPS, lipopolysaccharide; MSCs, mesenchymal stem cells; SD, standard deviation.</p>
+               </text>
+               <graphic file="scrt160-1" hint_layout="single"/>
+            </fig>
+         </sec>
+         <sec>
+            <st>
+               <p>MSCs increase NO production in BV2 cocultures</p>
+            </st>
+            <p>Microglia are robust producers of nitric oxide (NO), and the Griess assay was performed to determine the effect of MSCs on NO production in MSC/BV2 cocultures. BV2 and MSCs were cocultured in 12-well plates at the varying ratios and stimulated with LPS. Inactivated BV2 cells produce negligible NO (see Additional file <supplr sid="S2">2</supplr>). MSCs do not express NO, regardless of LPS stimulation (Additional file <supplr sid="S2">2</supplr>). To determine whether the presence of MSCs alone affects NO production, BV2 cells were cocultured with MSCs at the highest ratio (1:0.2) without LPS. In these cocultures, NO levels were also insignificant (Additional file <supplr sid="S2">2</supplr>).</p>
+            <suppl id="S2">
+               <title>
+                  <p>Additional file 2</p>
+               </title>
+               <text>
+                  <p><b>Negligible nitric oxide (NO) expression in BV2, MSCs, LPS-treated MSCs, and MSC/BV2 cultures</b>. NO<sub>2</sub><sup>- </sup>was assayed at 18, 24, 48, 72, and 96 hours in 24-well plates with the Griess assay. MSC and BV2 seeding density represent the coculture ratio of 1:0.2. Values are expressed as mean &#177; SD of triplicate wells and from a representative of three independent experiments. NO, nitric oxide; MSC, mesenchymal stem cell; NO<sub>2</sub><sup>-</sup>, nitrite; SD, standard deviation.</p>
+               </text>
+               <file name="scrt160-S2.TIFF">
+                  <p>Click here for file</p>
+               </file>
+            </suppl>
+            <p>Activating BV2 cells with 1 &#956;g/ml LPS increased NO production up to 76.64 &#177; 3.76 &#956;<it>M </it>at 96 hours (Figure <figr fid="F2">2</figr>). Increased NO was detected when BV2 cells were cocultured with MSCs in the presence of LPS. The highest coculture ratio of 1:0.2 increased NO levels by 5.17 &#177; 1.19 &#956;<it>M </it>at 48 hours, 17.07 &#177; 1.71 &#956;<it>M </it>at 72 hours, and 23.21 &#177; 2.41 &#956;<it>M </it>at 96 hours (<it>P </it>&lt; 0.05) compared with LPS-stimulated BV2 alone. Cocultures of 1:0.1 ratio showed a moderate increase in NO production by 9.31 &#177; 3.41 &#956;<it>M </it>at 72 hours and 11.11 &#177; 1.92 &#956;<it>M </it>at 96 hours (<it>P </it>&lt; 0.05). Coculture ratio 1:0.02 showed no considerable difference in NO levels compared with control, whereas the 1:0.01 ratio showed a modest increase of 8.44 &#177; 3.17 &#956;<it>M </it>and 11.98 &#177; 2.88 &#956;<it>M </it>at 72 and 96 hours, respectively (<it>P </it>&lt; 0.05).</p>
+            <fig id="F2">
+               <title>
+                  <p>Figure 2</p>
+               </title>
+               <caption>
+                  <p>MSCs increase NO production in MSC/BV2 cocultures</p>
+               </caption>
+               <text>
+                  <p><b>MSCs increase NO production in MSC/BV2 cocultures</b>. MSCs and BV2 cells were seeded simultaneously into 24-well plates at ratios indicated below the graph. After overnight incubation, 1 &#956;g/ml LPS was added to cocultures, and NO<sub>2</sub><sup>- </sup>concentration was determined with the Griess assay at 18, 24, 48, 72, and 96 hours. Values are expressed as mean &#177; SD of triplicate wells and from a representative of two independent experiments. Control is BV2 cells treated with LPS. *<it>P </it>&lt; 0.05 compared with control for direct cocultures and compared with direct coculture for transwell cocultures. LPS, lipopolysaccharide; MSC, mesenchymal stem cell; NO, nitric oxide; NO<sub>2</sub><sup>-</sup>, nitrite; SD, standard deviation.</p>
+               </text>
+               <graphic file="scrt160-2" hint_layout="double"/>
+            </fig>
+         </sec>
+         <sec>
+            <st>
+               <p>Cell-to-cell contact is not crucial for NO increase in cocultures</p>
+            </st>
+            <p>To determine the role for cell-to-cell contact in the increase of NO production in MSC/BV2 cocultures, experiments were performed with MSCs separated from BV2 cells in culture wells by transwell inserts of 1-&#956;m pore size. As with direct cocultures, NO levels in transwell cocultures remained higher than control for all ratios (Figure <figr fid="F2">2</figr>). Compared with that in direct cocultures, NO expression in transwell cocultures was higher at 18 and 24 hours for all ratios (<it>P </it>&lt; 0.05). NO levels in the 1:0.2 ratio of direct cocultures at 96 hours was reduced in transwell cocultures (99.85 &#177; 1.39 &#956;<it>M </it>compared with 89.36 &#177; 0.75 &#956;<it>M</it>; <it>P </it>&lt; 0.05); however, it remained higher than control. For other MSC/BV2 ratios, NO was increased in transwell cocultures, by 9 to13 &#956;<it>M</it>, compared with direct cocultures (<it>P </it>&lt; 0.05).</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Soluble factors from activated microglia trigger MSCs to produce NO</p>
+            </st>
+            <p>The increased levels of NO in cocultures may be attributable to MSCs producing their own NO. Although LPS alone does not trigger MSCs to secrete NO (Additional file <supplr sid="S2">2</supplr>), it remains possible that in the presence of microglia, MSCs are able to generate NO. To investigate this, we assessed NO production by MSCs after addition of supernatant from BV2 cultures. For this, MSCs and BV2 were cultured separately, and after 24 hours, BV2 supernatant (with or without LPS activation) was transferred onto MSC cultures.</p>
+            <p>The production of NO by MSCs after addition of unstimulated BV2 supernatant was insignificant at all seeding ratios tested (Figure <figr fid="F3">3A</figr>). LPS-activated BV2 supernatant, however, stimulates MSCs to produce NO. At the highest coculture ratio of 1:0.2, MSCs produced up to 75.51 &#177; 3.27 &#956;<it>M </it>NO at 96 hours (<it>P </it>&lt; 0.05; Figure <figr fid="F3">3B</figr>). Even as MSC number was reduced to 2 &#215; 10<sup>3 </sup>(at the 1:0.01 seeding ratio), NO production remained high at 51.31 &#177; 1.19 &#956;<it>M </it>at 96 hours (<it>P </it>&lt; 0.05).</p>
+            <fig id="F3">
+               <title>
+                  <p>Figure 3</p>
+               </title>
+               <caption>
+                  <p>MSC production of NO is dependent on soluble factors from LPS-stimulated BV2 cells, and increases with LPS priming</p>
+               </caption>
+               <text>
+                  <p><b>MSC production of NO is dependent on soluble factors from LPS-stimulated BV2 cells, and increases with LPS priming</b>. Unprimed <b>(A, B) </b>and LPS-primed <b>(C, D) </b>MSCs were seeded at densities corresponding to coculture ratios and treated with supernatant (SN) from unstimulated (A, C) and LPS-stimulated (B, D) BV2 cultures. Values are expressed as mean &#177; SD of triplicate wells and from a representative of two independent experiments. *<it>P </it>&lt; 0.05 compared with respective MSC controls (for D, values were compared with corresponding values in C). <sup>#</sup><it>P </it>&lt; 0.05 compared with corresponding values from unprimed MSCs. LPS, lipopolysaccharide; MSC, mesenchymal stem cell; NO, nitric oxide; SD, standard deviation.</p>
+               </text>
+               <graphic file="scrt160-3" hint_layout="double"/>
+            </fig>
+         </sec>
+         <sec>
+            <st>
+               <p>Priming MSCs with LPS amplifies subsequent NO production</p>
+            </st>
+            <p>Experiments were also performed with MSCs treated with 1 &#956;g/ml LPS for 24 hours (termed primed MSCs hereafter) before addition of unstimulated or LPS-stimulated BV2 culture supernatant. This was to determine whether rendering MSCs into an inflammatory state primes them to behave differently when later exposed to soluble factors of BV2 microglia.</p>
+            <p>Priming MSCs with LPS did not stimulate NO production (Figure <figr fid="F3">3C</figr>; MSC + LPS). Interestingly, addition of unstimulated BV2 supernatant significantly increases NO secretion by primed MSCs (with MSC number corresponding to the 1:0.2 ratio) to 26.86 &#177; 2.37 &#956;<it>M </it>at 96 hours (<it>P </it>&lt; 0.05; Figure <figr fid="F3">3C</figr>). At the seeding-density ratio of 0.01, NO levels remained significantly higher than primed MSCs alone at 14.40 &#177; 1.22 &#956;<it>M </it>at 96 hours (<it>P </it>&lt; 0.05). Exposing primed MSCs to LPS-stimulated BV2 supernatant further increased NO production (Figure <figr fid="F3">3D</figr>). For instance, NO levels in the 1:0.2 ratio of primed MSCs exposed to LPS-activated BV2 supernatant surged to 103.41 &#177; 3.22 &#956;<it>M </it>at 96 hours, significantly higher compared with 75.51 &#177; 3.27 &#956;<it>M </it>NO produced by unprimed MSCs exposed to LPS-stimulated BV2 supernatant (<it>P </it>&lt; 0.05; Figure <figr fid="F3">3B</figr>).</p>
+         </sec>
+         <sec>
+            <st>
+               <p>MSCs increase IL-6 and decrease TNF-<it>&#945; </it>expression in cocultures</p>
+            </st>
+            <p>To determine the inflammatory cytokines possibly modulated by MSCs, we subjected the supernatant of cocultures to a cytokine protein array for IL-6, IL-10, CCL2, IFN-&#947;, TNF, and IL-12p70. Production of IL-10, IFN-&#947;, and IL-12p70 was unremarkable, whether for BV2 and MSCs alone or for cocultures (data not shown). Unremarkable expression of IL-10 and IL-12 cytokines indicates that the suppressive effects of MSCs we describe here are not attributable to these antiinflammatory cytokines.</p>
+            <p>BV2 and MSCs have no constitutive production of IL-6 (Figure <figr fid="F4">4A</figr>). However, exposing BV2 and MSCs to LPS induces IL-6 expression in both cells, with BV2 cells producing 1,098.18 pg/ml as early as 24 hours, and MSCs secreting 803.44 pg/ml at 48 hours (Figure <figr fid="F4">4A</figr>). The presence of MSCs increased IL-6 levels in LPS-treated cocultures in a dose-dependent manner. At the 1:0.2 coculture ratio, IL-6 levels increased to 3.80 &#177; 0.15-fold at 24 hours and 4.08 &#177; 0.96-fold at 48 hours (<it>P </it>&lt; 0.05; Figure <figr fid="F4">4B</figr>). The lower coculture ratios only showed a marginal increase of IL-6; 2.75 &#177; 0.65 at 24 hours and 2.65 &#177; 0.34-fold at 48 hours for the 1:0.1 coculture ratio. This increased expression is partially attributable to cell-to-cell contact, as transwell cocultures had reduced IL-6 levels compared with direct cultures, but were higher than control (Figure <figr fid="F4">4B</figr>).</p>
+            <fig id="F4">
+               <title>
+                  <p>Figure 4</p>
+               </title>
+               <caption>
+                  <p>IL-6 increases and TNF-&#945; decreases in MSC/BV2 cocultures</p>
+               </caption>
+               <text>
+                  <p><b>IL-6 increases and TNF-&#945; decreases in MSC/BV2 cocultures</b>. <b>A, C: </b>IL-6 and TNF-&#945; levels in culture supernatants of BV2 (resting and activated) and MSCs (unprimed and primed) were measured at 24 and 48 hours by using the BD Cytometric Bead Array. Values are expressed in concentration (pg/ml) and from a representative of three independent experiments. <b>B, D: </b>BV2 and MSCs were cocultured at ratios indicated below the graph, with or without transwell inserts. Lipopolysaccharide (LPS; 1 &#956;g/ml) was then added to cocultures, and supernatants assayed at 24 and 48 hours by using the BD Cytometric Bead Array. Controls are LPS-treated BV2 cells. Values are fold change compared with control, defined as 1 arbitrary unit and from three independent experiments. Error bars indicate SD. *<it>P </it>&lt; 0.05 compared with respective controls. MSC, mesenchymal stem cell; SD, standard deviation.</p>
+               </text>
+               <graphic file="scrt160-4" hint_layout="double"/>
+            </fig>
+            <p>Stimulating BV2 with LPS greatly increased TNF-&#945; expression (1,519.09 pg/ml at 48 hours; Figure <figr fid="F4">4C</figr>). MSCs do not express TNF-&#945;, regardless of LPS treatment (Figure <figr fid="F4">4C</figr>). Converse to IL-6, expression of TNF-&#945; was reduced by MSC dose-dependently in cocultures; to 0.61 &#177; 0.20 and 0.43 &#177; 0.20 at 24 and 48 hours for the 1:0.2 ratio (Figure <figr fid="F4">4D</figr>). Downregulation of TNF-&#945; was lost at the lowest 1:0.01 coculture ratio, with levels similar to those of control cultures. Interestingly, separating MSCs from BV2 cells in transwell cocultures appears to confer TNF-&#945; reduction for all coculture ratios, plateauing TNF-&#945; expression to approximately 0.4-0.7-fold of control (Figure <figr fid="F4">4D</figr>). This indicates that a cell-to-cell contact mechanism is responsible for the reduced suppression of TNF-&#945; at coculture ratios 1:0.1, 1:0.02, and 1:0.01, as soluble factors alone reduce TNF-&#945; for these coculture ratios.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>MSCs and microglia migrate reciprocally and express CCL2</p>
+            </st>
+            <p>Both microglia and MSCs are migratory cells; microglia accumulate around areas of injury in the CNS and MSCs home to sites of tissue injury. By exploring their migratory behaviors, we can determine whether MSCs also immonumodulate microglia responses by limiting their migration toward inflammatory stimuli. Alternatively, we can also establish whether MSCs preferentially move in near vicinity with microglia to exert their modulatory effects.</p>
+            <p>Unstimulated BV2 cells are migratory, and increase their migration 3.8-fold as early as 6 hours after LPS stimulation (<it>P </it>&lt; 0.01; Figure <figr fid="F5">5A</figr>). Interestingly, BV2 cells migrate equally well toward MSCs, and BV2 migration is not affected when cultured with both MSCs and LPS (Figure <figr fid="F5">5A</figr>; MSC + LPS). As BV2 is chemoattracted to MSCs within transwell cocultures, we next determined whether MSCs that are not in contact with microglia can affect microglia chemotaxis via secretion of soluble factors. For this, the supernatants of 24-hour MSC cultures were added to BV2 cultures, and the cells were examined for migration at 6 hours. Unlike coculture experiments, these MSCs do not receive signals from BV2 microglia. We found BV2 migration not significantly affected by soluble factors secreted by unprimed or LPS-primed MSCs (Figure <figr fid="F5">5B</figr>).</p>
+            <fig id="F5">
+               <title>
+                  <p>Figure 5</p>
+               </title>
+               <caption>
+                  <p>BV2 and MSCs are migratory toward each other</p>
+               </caption>
+               <text>
+                  <p><b>BV2 and MSCs are migratory toward each other</b>. Migration was assessed by counting the number of cells stained with crystal violet on the converse side of transwell culture inserts. <b>(A) </b>Migration for BV2 microglia was assessed at 6 hours. Values are expressed as mean cell number &#177; SD and from three independent experiments. **<it>P </it>&lt; 0.01, ***<it>P </it>&lt; 0.001 compared with control. <b>(B) </b>Supernatants from 24-hour unprimed and primed MSCs were transferred to BV2 cultures to assess BV2 migration at 6 hours. Values are expressed as mean cell number &#177; SD and from four independent experiments. <b>(C) </b>Migration for MSCs was assessed at 24 hours. Values are expressed as mean cell number &#177; SD and from three independent experiments. *<it>P </it>&lt; 0.05, ***<it>P </it>&lt; 0.001 compared with control. <b>(D) </b>CCL2 levels were assayed at 24 and 48 hours in culture supernatant with the BD Cytometric Bead Array. Values are expressed as mean and from a representative of three independent experiments. CCL2, chemokine (C-C motif) ligand 2; MSC, mesenchymal stem cell; SD, standard deviation.</p>
+               </text>
+               <graphic file="scrt160-5" hint_layout="double"/>
+            </fig>
+            <p>MSC, conversely, do not migrate significantly in the presence of LPS (Figure <figr fid="F5">5C</figr>). However, their migratory capacity increases significantly toward BV2 cells (<it>P </it>&lt; 0.001), more so if the cultures are exposed to LPS (<it>P </it>&lt; 0.001). Both cell types express large amounts of the chemokine CCL2 (MCP-1). For BV2 cells, CCL2 expression increased more than fivefold at 24 hours (to 14,827.30 pg/ml) and almost threefold at 48 hours (to 17,518.00 pg/ml) after LPS stimulation (Figure <figr fid="F5">5D</figr>). MSCs increased CCL2 expression by more than 18-fold at 24 hours (6,268.41 pg/ml) and 25-fold at 48 hours (16,240.90 pg/ml). Coculture of BV2 with MSCs in the presence of LPS did not noticeably affect CCL2 levels (see Additional file <supplr sid="S3">3</supplr>).</p>
+            <suppl id="S3">
+               <title>
+                  <p>Additional file 3</p>
+               </title>
+               <text>
+                  <p><b>MSC/BV2 cocultures do not alter CCL2 expression</b>. BV2 and MSCs were cocultured together or separated by a transwell cell-culture insert at ratios indicated below the graph. LPS (1 &#956;g/ml) was added to cultures, and supernatants assayed at 24 and 48 hours with the BD Cytometric Bead Array. Values are expressed in pg/ml and from a representative of three independent experiments. CCL2, chemokine (C-C motif) ligand 2; LPS, lipopolysaccharide; MSC, mesenchymal stem cell.</p>
+               </text>
+               <file name="scrt160-S3.TIFF">
+                  <p>Click here for file</p>
+               </file>
+            </suppl>
+         </sec>
+      </sec>
+      <sec>
+         <st>
+            <p>Discussion</p>
+         </st>
+         <p>MSCs are ideal cellular candidates for therapy. They expand well in culture, have relatively low tumorigenic and alloreactive risk, and preferentially home to areas of injury <abbrgrp><abbr bid="B1">1</abbr><abbr bid="B2">2</abbr></abbrgrp>. MSCs ameliorate disease in various animal models of neuroinflammation <abbrgrp><abbr bid="B12">12</abbr><abbr bid="B13">13</abbr><abbr bid="B24">24</abbr><abbr bid="B33">33</abbr><abbr bid="B34">34</abbr></abbrgrp>, and these outcomes are attributed mainly to the immunomodulatory properties of MSCs. To ensure their therapeutic efficacy, knowledge of the number of MSCs required to control inflammation, the need for MSCs to be in close vicinity to the site of tissue injury, and the effects of the inflammatory environment on MSCs should be deduced. We demonstrate here that interactions between MSCs and microglia are distinct dependent on cell number and their proximity, and that the inflammatory milieu dictates the modulatory properties of MSCs.</p>
+         <p>Bone marrow-derived MSCs inhibit proliferation of lipopolysaccharide (LPS)-activated BV2 microglia, signifying the suppressive effects of MSCs on microglia that have previously been reported <abbrgrp><abbr bid="B32">32</abbr><abbr bid="B35">35</abbr></abbrgrp>. LPS serves as a trigger for microglia activation to an inflammatory phenotype <abbrgrp><abbr bid="B23">23</abbr><abbr bid="B32">32</abbr><abbr bid="B36">36</abbr><abbr bid="B37">37</abbr></abbrgrp>, increasing their proliferation, upregulating expression of activation markers, and inducing production of inflammatory mediators. One of the mediators produced is nitric oxide (NO), generated by inducible NO synthase (iNOS). NO mediates inflammatory responses within the CNS <abbrgrp><abbr bid="B38">38</abbr><abbr bid="B39">39</abbr><abbr bid="B40">40</abbr></abbrgrp>, and excessive amounts can cause neurotoxicity <abbrgrp><abbr bid="B19">19</abbr><abbr bid="B39">39</abbr></abbrgrp>.</p>
+         <p>We demonstrated MSCs to increase NO levels in LPS-treated microglia cocultures. As these cells are grown within the same culture well, we are unable to tag the increase in NO levels in cocultures to BV2 microglia or MSCs; however, we have found both cell types capable of producing their own large amounts of NO. For MSCs, a direct inflammatory stimulus (LPS) does not induce NO production, nor do soluble factors from resting, inactivated microglia. Only when exposed to soluble factors from LPS-activated microglia did we observe MSCs producing substantial amounts of NO. Similarly, MSCs produce NO only when cocultured with stimulated, and not unstimulated, T lymphocytes <abbrgrp><abbr bid="B41">41</abbr></abbrgrp>. Ren and colleagues <abbrgrp><abbr bid="B10">10</abbr></abbrgrp> also showed mouse bone marrow MSCs to secrete high concentrations of NO in a specific paradigm; LPS stimulation fails to induce NO production in MSCs, but exposure to inflammatory cytokines IFN-&#947; and TNF-&#945; results in an NO surge. Therefore, the biologic cue for MSCs to produce NO seems not to be directly from an inflammatory agent, but rather from the ensuing cellular/tissue reaction. We do, however, show that a preexposure of MSCs to LPS augments NO production by MSCs cultured subsequently with microglial soluble factors. This demonstrates the priming effect of MSCs, appearing as if the inflamed microenvironment prepares and licenses subsequent MSC interactions with microglia within this paradigm. This is corroborated by the fact that both mouse and human MSCs can recognize LPS as they express TLR4 <abbrgrp><abbr bid="B42">42</abbr></abbrgrp>, the Toll-like receptor that binds LPS. The pleiotropic functions of NO make it difficult to deduce the implications of the increased NO in MSC/microglia cocultures. T-lymphocyte immunosuppression by MSCs is mediated by NO; MSCs secrete high levels of NO that suppress T-cell proliferation, and inhibition of iNOS restores proliferation of splenocytes in MSC cocultures <abbrgrp><abbr bid="B10">10</abbr></abbrgrp>. In the MSC/microglia model, reducing NO levels by 40% to 50% with an iNOS inhibitor did not affect microglia proliferation <abbrgrp><abbr bid="B32">32</abbr></abbrgrp>, and a role for NO in the MSC/microglia paradigm remains undefined.</p>
+         <p>We also showed distinct responses of MSCs and microglia in terms of inflammatory cytokine secretion. LPS triggers both BV2 microglia and MSCs to produce IL-6. Similarly, ligation of TLR4 has been shown to induce MSCs to secrete IL-6 <abbrgrp><abbr bid="B42">42</abbr><abbr bid="B43">43</abbr><abbr bid="B44">44</abbr></abbrgrp>. MSCs also secrete large amounts of IL-6 when exposed to macrophages <abbrgrp><abbr bid="B45">45</abbr><abbr bid="B46">46</abbr></abbrgrp> and astrocytes <abbrgrp><abbr bid="B47">47</abbr></abbrgrp>; however, the ensuing effects of IL-6 are unclear. In MSC/microglia cocultures, IL-6 increases in coculture, whereas TNF-&#945; levels decrease in a dose-dependent manner. For T-lymphocyte immunosuppression, IL-6-dependent production of prostaglandin E2 (PGE2) was shown to be important for antiproliferative effects of MSCs <abbrgrp><abbr bid="B48">48</abbr></abbrgrp>. Kim and Hematti <abbrgrp><abbr bid="B46">46</abbr></abbrgrp> suggested that an IL-10-high, IL-12-low, IL-6-high, and TNF-&#945;-low expression pattern defines a subtype of M2 macrophages that may have a role in tissue repair, but cytokine expression for such a tissue-repair subtype is undefined for microglia. The surge in IL-6 was augmented in the presence of both soluble factors and cell-to-cell contact, whereas soluble factors alone were sufficient to reduce TNF-&#945; levels in cocultures. Therefore, if the combinatory effects of an IL-6 surge and a TNF-&#945; reduction are essential to confer microglia modulation, MSCs may require being in the immediate vicinity of activated microglia. Although IFN-&#947; is strongly implicated in modulating T-cell inhibition by MSCs <abbrgrp><abbr bid="B10">10</abbr></abbrgrp>, its levels in MSC/microglia cocultures were negligible.</p>
+         <p>An interesting question to ask is whether MSCs are required to be in close vicinity to microglia to dampen microglia inflammatory responses. We have already discussed that the reduction in TNF-&#945; does not require cell-to-cell contact between MSCs and microglia. Increased NO in MSC/microglia cocultures also occurs without cell-to-cell contact. These effects appear to be conferred without MSCs having to be in direct contact with microglia. We showed that MSCs do not home toward LPS, but are attracted instead to resting and, more so, to activated BV2 microglia. Similarly, MSCs migrate toward human macrophages, with the authors identifying CCL2, CCL5, and IL-8 as chemotactic signals for MSCs <abbrgrp><abbr bid="B45">45</abbr></abbrgrp>. It is often shown that MSCs home toward areas of tissue damage <abbrgrp><abbr bid="B49">49</abbr><abbr bid="B50">50</abbr><abbr bid="B51">51</abbr><abbr bid="B52">52</abbr></abbrgrp>, and our results indicate that, within the brain, it is not the inflammatory agent that serves as a homing signal, but mediators secreted by microglia. It would be interesting to determine the chemotactic signals that microglia produce to attract MSCs. Although CCL2 is chemoattractant for MSCs <abbrgrp><abbr bid="B45">45</abbr><abbr bid="B53">53</abbr></abbrgrp>, we speculate that it does not have an autocrine effect on MSCs, as MSCs do not migrate significantly toward LPS, although it produces large amounts of CCL2.</p>
+         <p>Microglia themselves actively (and equally) migrate toward both an LPS inflammatory stimuli and MSCs, regardless of the primed status of the stem cells. This is different from that for T lymphocytes that only migrate toward MSCs that have been exposed to proinflammatory cytokines <abbrgrp><abbr bid="B10">10</abbr></abbrgrp>. It appears that microglia are compelled to be in close proximity to MSCs. Although LPS-primed MSCs produced high levels of CCL2, a macrophage chemokine, unprimed MSCs conversely do not secrete CCL2; therefore, the chemoattractant responsible for the pronounced migration of microglia toward unprimed MSCs must be other than CCL2. It is possible that MSCs may be diverting the migration of microglia toward them and away from an inflamed site. We showed that, even without interacting with microglia, MSCs produce soluble factors that increase microglia migration. Perhaps the chemotactic impetus from MSCs encourages microglia to form closer contact with MSCs within the inflamed area for subsequent immunosuppression. These are attractive possibilities, best answered with <it>in vivo </it>or <it>ex vivo </it>approaches. Interestingly when cultured with T lymphocytes, MSCs are inclined to produce large amounts of T cell-associated chemokines, such as CXCL9, CXCL10, and CXCL11 <abbrgrp><abbr bid="B10">10</abbr></abbrgrp>, indicating that MSCs may have distinct mechanisms for modulating different immune cells, and their effects are dictated by the cells with which they come in contact.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Conclusions</p>
+         </st>
+         <p>The findings here demonstrate the capacity of MSCs to modulate microglial responses. Mechanisms of MSC regulation of microglia responses appear multipronged, with some effects requiring cell contact, and others, not. MSCs are also very responsive to microglia, and an inflammatory stimulus primes these cells to behave in a distinct manner, revealing their remarkable ability to reform, based on their microenvironment. These features of MSCs are favorable for immunomodulatory therapy, as MSCs appear capable of adapting and regulating in a manner specific to the cellular environment in which they localize.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Abbreviations</p>
+         </st>
+         <p>LPS: lipopolysaccharide; MSC: mesenchymal stem cell; NO: nitric oxide.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Competing interests</p>
+         </st>
+         <p>The authors declare that they have no competing interests.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Authors' contributions</p>
+         </st>
+         <p>ZR performed nitric oxide and proliferation experiments; SJ carried out cytokine bead array and migration assays; RR supervised culture of mesenchymal stem cells; SV and RR conceived and designed the study; ZR, SJ, and SV analyzed the data; and SV wrote the manuscript. All authors read and approved the final manuscript.</p>
+      </sec>
+   </bdy>
+   <bm>
+      <ack>
+         <sec>
+            <st>
+               <p>Acknowledgements</p>
+            </st>
+            <p>We thank Dr. Yip Wai Kien for discussions and technical advice, Ms. Ooi Yin Yin and Ms. Tan Shi Wei for their assistance with cell cultures, and Ms. Marsitah Abdul Jalil for maintaining the flow cytometer facility. This study was funded by the Research University Grant Scheme (UPM) [04-02-10-0924RU and 04-02-11-1392RU] and Exploratory Research Grant Scheme (Ministry of Higher Education) [ERGS/1/2012/5527106].</p>
+         </sec>
+      </ack>
+      <refgrp>
+         <bibl id="B1">
+            <title>
+               <p>Mesenchymal stem cells as therapeutic agents of inflammatory and autoimmune diseases</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Delarosa</snm>
+                  <fnm>O</fnm>
+               </au>
+               <au>
+                  <snm>Dalemans</snm>
+                  <fnm>W</fnm>
+               </au>
+               <au>
+                  <snm>Lombardo</snm>
+                  <fnm>E</fnm>
+               </au>
+            </aug>
+            <source>Curr Opin Biotechnol</source>
+            <pubdate>2012</pubdate>
+            <volume>23</volume>
+            <fpage>1</fpage>
+            <lpage>6</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.copbio.2011.12.020</pubid>
+                  <pubid idtype="pmpid" link="fulltext">22244690</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B2">
+            <title>
+               <p>Mesenchymal stem cells in health and disease</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Uccelli</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Moretta</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Pistoia</snm>
+                  <fnm>V</fnm>
+               </au>
+            </aug>
+            <source>Nat Rev Immunol</source>
+            <pubdate>2008</pubdate>
+            <volume>8</volume>
+            <fpage>726</fpage>
+            <lpage>736</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/nri2395</pubid>
+                  <pubid idtype="pmpid" link="fulltext">19172693</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B3">
+            <title>
+               <p>Bone marrow mesenchymal stem cells inhibit the response of naive and memory antigen-specific T cells to their cognate peptide</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Krampera</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Glennie</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Dyson</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Scott</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Laylor</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Simpson</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Dazzi</snm>
+                  <fnm>F</fnm>
+               </au>
+            </aug>
+            <source>Blood</source>
+            <pubdate>2003</pubdate>
+            <volume>101</volume>
+            <fpage>3722</fpage>
+            <lpage>3729</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1182/blood-2002-07-2104</pubid>
+                  <pubid idtype="pmpid" link="fulltext">12506037</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B4">
+            <title>
+               <p>Human mesenchymal stem cells modulate B-cell functions</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Corcione</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Benvenuto</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Ferretti</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Giunti</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Cappiello</snm>
+                  <fnm>V</fnm>
+               </au>
+               <au>
+                  <snm>Cazzanti</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Risso</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Gualandi</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Mancardi</snm>
+                  <fnm>GL</fnm>
+               </au>
+               <au>
+                  <snm>Pistoia</snm>
+                  <fnm>V</fnm>
+               </au>
+               <au>
+                  <snm>Uccelli</snm>
+                  <fnm>A</fnm>
+               </au>
+            </aug>
+            <source>Blood</source>
+            <pubdate>2006</pubdate>
+            <volume>107</volume>
+            <fpage>367</fpage>
+            <lpage>372</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1182/blood-2005-07-2657</pubid>
+                  <pubid idtype="pmpid" link="fulltext">16141348</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B5">
+            <title>
+               <p>Bone marrow mesenchymal stem cells induce division arrest anergy of activated T cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Glennie</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Soeiro</snm>
+                  <fnm>I</fnm>
+               </au>
+               <au>
+                  <snm>Dyson</snm>
+                  <fnm>PJ</fnm>
+               </au>
+               <au>
+                  <snm>Lam</snm>
+                  <fnm>EW</fnm>
+               </au>
+               <au>
+                  <snm>Dazzi</snm>
+                  <fnm>F</fnm>
+               </au>
+            </aug>
+            <source>Blood</source>
+            <pubdate>2005</pubdate>
+            <volume>105</volume>
+            <fpage>2821</fpage>
+            <lpage>2827</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1182/blood-2004-09-3696</pubid>
+                  <pubid idtype="pmpid" link="fulltext">15591115</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B6">
+            <title>
+               <p>Human mesenchymal stem cells inhibit differentiation and function of monocyte-derived dendritic cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Jiang</snm>
+                  <fnm>XX</fnm>
+               </au>
+               <au>
+                  <snm>Zhang</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Liu</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Zhang</snm>
+                  <fnm>SX</fnm>
+               </au>
+               <au>
+                  <snm>Wu</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Yu</snm>
+                  <fnm>XD</fnm>
+               </au>
+               <au>
+                  <snm>Mao</snm>
+                  <fnm>N</fnm>
+               </au>
+            </aug>
+            <source>Blood</source>
+            <pubdate>2005</pubdate>
+            <volume>105</volume>
+            <fpage>4120</fpage>
+            <lpage>4126</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1182/blood-2004-02-0586</pubid>
+                  <pubid idtype="pmpid" link="fulltext">15692068</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B7">
+            <title>
+               <p>Mesenchymal stem cells inhibit dendritic cell differentiation and function by preventing entry into the cell cycle</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Ramasamy</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Fazekasova</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Lam</snm>
+                  <fnm>EW</fnm>
+               </au>
+               <au>
+                  <snm>Soeiro</snm>
+                  <fnm>I</fnm>
+               </au>
+               <au>
+                  <snm>Lombardi</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Dazzi</snm>
+                  <fnm>F</fnm>
+               </au>
+            </aug>
+            <source>Transplantation</source>
+            <pubdate>2007</pubdate>
+            <volume>83</volume>
+            <fpage>71</fpage>
+            <lpage>76</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1097/01.tp.0000244572.24780.54</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17220794</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B8">
+            <title>
+               <p>Murine mesenchymal stem cells suppress dendritic cell migration, maturation and antigen presentation</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>English</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Barry</snm>
+                  <fnm>FP</fnm>
+               </au>
+               <au>
+                  <snm>Mahon</snm>
+                  <fnm>BP</fnm>
+               </au>
+            </aug>
+            <source>Immunol Lett</source>
+            <pubdate>2008</pubdate>
+            <volume>115</volume>
+            <fpage>50</fpage>
+            <lpage>58</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.imlet.2007.10.002</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18022251</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B9">
+            <title>
+               <p>IFN-gamma and TNF-alpha differentially regulate immunomodulation by murine mesenchymal stem cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>English</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Barry</snm>
+                  <fnm>FP</fnm>
+               </au>
+               <au>
+                  <snm>Field-Corbett</snm>
+                  <fnm>CP</fnm>
+               </au>
+               <au>
+                  <snm>Mahon</snm>
+                  <fnm>BP</fnm>
+               </au>
+            </aug>
+            <source>Immunol Lett</source>
+            <pubdate>2007</pubdate>
+            <volume>110</volume>
+            <fpage>91</fpage>
+            <lpage>100</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.imlet.2007.04.001</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17507101</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B10">
+            <title>
+               <p>Mesenchymal stem cell-mediated immunosuppression occurs via concerted action of chemokines and nitric oxide</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Ren</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Zhang</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Zhao</snm>
+                  <fnm>X</fnm>
+               </au>
+               <au>
+                  <snm>Xu</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Zhang</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Roberts</snm>
+                  <fnm>AI</fnm>
+               </au>
+               <au>
+                  <snm>Zhao</snm>
+                  <fnm>RC</fnm>
+               </au>
+               <au>
+                  <snm>Shi</snm>
+                  <fnm>Y</fnm>
+               </au>
+            </aug>
+            <source>Cell Stem Cell</source>
+            <pubdate>2008</pubdate>
+            <volume>2</volume>
+            <fpage>141</fpage>
+            <lpage>150</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.stem.2007.11.014</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18371435</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B11">
+            <title>
+               <p>A critical role of IFNgamma in priming MSC-mediated suppression of T cell proliferation through up-regulation of B7-H1</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Sheng</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Wang</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Jin</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Zhang</snm>
+                  <fnm>Q</fnm>
+               </au>
+               <au>
+                  <snm>Zhang</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Wang</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Shen</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Yin</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Liu</snm>
+                  <fnm>W</fnm>
+               </au>
+               <au>
+                  <snm>Cui</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Li</snm>
+                  <fnm>N</fnm>
+               </au>
+            </aug>
+            <source>Cell Res</source>
+            <pubdate>2008</pubdate>
+            <volume>18</volume>
+            <fpage>846</fpage>
+            <lpage>857</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/cr.2008.80</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18607390</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B12">
+            <title>
+               <p>Mesenchymal stem cell transplantation modulates neuroinflammation in focal cerebral ischemia: contribution of fractalkine and IL-5</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Sheikh</snm>
+                  <fnm>AM</fnm>
+               </au>
+               <au>
+                  <snm>Nagai</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Wakabayashi</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Narantuya</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Kobayashi</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Yamaguchi</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Kim</snm>
+                  <fnm>SU</fnm>
+               </au>
+            </aug>
+            <source>Neurobiol Dis</source>
+            <pubdate>2011</pubdate>
+            <volume>41</volume>
+            <fpage>717</fpage>
+            <lpage>724</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.nbd.2010.12.009</pubid>
+                  <pubid idtype="pmpid" link="fulltext">21168500</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B13">
+            <title>
+               <p>Intracerebral transplantation of bone marrow-derived mesenchymal stem cells reduces amyloid-beta deposition and rescues memory deficits in Alzheimer's disease mice by modulation of immune responses</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Lee</snm>
+                  <fnm>JK</fnm>
+               </au>
+               <au>
+                  <snm>Jin</snm>
+                  <fnm>HK</fnm>
+               </au>
+               <au>
+                  <snm>Endo</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Schuchman</snm>
+                  <fnm>EH</fnm>
+               </au>
+               <au>
+                  <snm>Carter</snm>
+                  <fnm>JE</fnm>
+               </au>
+               <au>
+                  <snm>Bae</snm>
+                  <fnm>JS</fnm>
+               </au>
+            </aug>
+            <source>Stem Cells</source>
+            <pubdate>2010</pubdate>
+            <volume>28</volume>
+            <fpage>329</fpage>
+            <lpage>343</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid" link="fulltext">20014009</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B14">
+            <title>
+               <p>Neuroprotective features of mesenchymal stem cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Uccelli</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Benvenuto</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Laroni</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Giunti</snm>
+                  <fnm>D</fnm>
+               </au>
+            </aug>
+            <source>Best Pract Res Clin Haematol</source>
+            <pubdate>2011</pubdate>
+            <volume>24</volume>
+            <fpage>59</fpage>
+            <lpage>123</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.beha.2011.01.004</pubid>
+                  <pubid idtype="pmpid" link="fulltext">21396593</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B15">
+            <title>
+               <p>Immunomodulatory potential of mesenchymal stem cells on microglia</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Vidyadaran</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Ramasamy</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Seow</snm>
+                  <fnm>HF</fnm>
+               </au>
+            </aug>
+            <source>Stem Cells and Cancer Stem Cells</source>
+            <publisher>New York: Springer</publisher>
+            <editor>Hayat MA</editor>
+            <pubdate>2012</pubdate>
+            <volume>6</volume>
+            <fpage>261</fpage>
+            <lpage>272</lpage>
+         </bibl>
+         <bibl id="B16">
+            <title>
+               <p>The myeloid cells of the central nervous system parenchyma</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Ransohoff</snm>
+                  <fnm>RM</fnm>
+               </au>
+               <au>
+                  <snm>Cardona</snm>
+                  <fnm>AE</fnm>
+               </au>
+            </aug>
+            <source>Nature</source>
+            <pubdate>2010</pubdate>
+            <volume>468</volume>
+            <fpage>253</fpage>
+            <lpage>262</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/nature09615</pubid>
+                  <pubid idtype="pmpid" link="fulltext">21068834</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B17">
+            <title>
+               <p>Fate mapping analysis reveals that adult microglia derive from primitive macrophages</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Ginhoux</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Greter</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Leboeuf</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Nandi</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>See</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Gokhan</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Mehler</snm>
+                  <fnm>MF</fnm>
+               </au>
+               <au>
+                  <snm>Conway</snm>
+                  <fnm>SJ</fnm>
+               </au>
+               <au>
+                  <snm>Ng</snm>
+                  <fnm>LG</fnm>
+               </au>
+               <au>
+                  <snm>Stanley</snm>
+                  <fnm>ER</fnm>
+               </au>
+               <au>
+                  <snm>Samokhvalov</snm>
+                  <fnm>IM</fnm>
+               </au>
+               <au>
+                  <snm>Merad</snm>
+                  <fnm>M</fnm>
+               </au>
+            </aug>
+            <source>Science</source>
+            <pubdate>2010</pubdate>
+            <volume>330</volume>
+            <fpage>841</fpage>
+            <lpage>845</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1126/science.1194637</pubid>
+                  <pubid idtype="pmpid" link="fulltext">20966214</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B18">
+            <title>
+               <p>Caspase signalling controls microglia activation and neurotoxicity</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Burguillos</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Deierborg</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Kavanagh</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Persson</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Hajji</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Garcia-Quintanilla</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Cano</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Brundin</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Englund</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Venero</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Joseph</snm>
+                  <fnm>B</fnm>
+               </au>
+            </aug>
+            <source>Nature</source>
+            <pubdate>2011</pubdate>
+            <volume>472</volume>
+            <fpage>319</fpage>
+            <lpage>343</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/nature09788</pubid>
+                  <pubid idtype="pmpid" link="fulltext">21389984</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B19">
+            <title>
+               <p>Microglia induce neural cell death via a proximity-dependent mechanism involving nitric oxide</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Gibbons</snm>
+                  <fnm>HM</fnm>
+               </au>
+               <au>
+                  <snm>Dragunow</snm>
+                  <fnm>M</fnm>
+               </au>
+            </aug>
+            <source>Brain Res</source>
+            <pubdate>2006</pubdate>
+            <volume>1084</volume>
+            <fpage>1</fpage>
+            <lpage>15</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.brainres.2006.02.032</pubid>
+                  <pubid idtype="pmpid" link="fulltext">16564033</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B20">
+            <title>
+               <p>Blockade of microglial activation is neuroprotective in the 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine mouse model of Parkinson disease</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Wu</snm>
+                  <fnm>DC</fnm>
+               </au>
+               <au>
+                  <snm>Jackson-Lewis</snm>
+                  <fnm>V</fnm>
+               </au>
+               <au>
+                  <snm>Vila</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Tieu</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Teismann</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Vadseth</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Choi</snm>
+                  <fnm>DK</fnm>
+               </au>
+               <au>
+                  <snm>Ischiropoulos</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Przedborski</snm>
+                  <fnm>S</fnm>
+               </au>
+            </aug>
+            <source>J Neurosci</source>
+            <pubdate>2002</pubdate>
+            <volume>22</volume>
+            <fpage>1763</fpage>
+            <lpage>1771</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid" link="fulltext">11880505</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B21">
+            <title>
+               <p>Microglia: active sensor and versatile effector cells in the normal and pathologic brain</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Hanisch</snm>
+                  <fnm>UK</fnm>
+               </au>
+               <au>
+                  <snm>Kettenmann</snm>
+                  <fnm>H</fnm>
+               </au>
+            </aug>
+            <source>Nat Neurosci</source>
+            <pubdate>2007</pubdate>
+            <volume>10</volume>
+            <fpage>1387</fpage>
+            <lpage>1394</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/nn1997</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17965659</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B22">
+            <title>
+               <p>Mesenchymal stem cell treatment after neonatal hypoxic-ischemic brain injury improves behavioral outcome and induces neuronal and oligodendrocyte regeneration</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>van Velthoven</snm>
+                  <fnm>CT</fnm>
+               </au>
+               <au>
+                  <snm>Kavelaars</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>van Bel</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Heijnen</snm>
+                  <fnm>CJ</fnm>
+               </au>
+            </aug>
+            <source>Brain Behav Immun</source>
+            <pubdate>2010</pubdate>
+            <volume>24</volume>
+            <fpage>387</fpage>
+            <lpage>393</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.bbi.2009.10.017</pubid>
+                  <pubid idtype="pmpid" link="fulltext">19883750</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B23">
+            <title>
+               <p>Neuroprotective effects of human mesenchymal stem cells on dopaminergic neurons through anti-inflammatory action</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Kim</snm>
+                  <fnm>Y-J</fnm>
+               </au>
+               <au>
+                  <snm>Park</snm>
+                  <fnm>H-J</fnm>
+               </au>
+               <au>
+                  <snm>Lee</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Bang</snm>
+                  <fnm>O</fnm>
+               </au>
+               <au>
+                  <snm>Ahn</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Joe</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Kim</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Lee</snm>
+                  <fnm>P</fnm>
+               </au>
+            </aug>
+            <source>Glia</source>
+            <pubdate>2009</pubdate>
+            <volume>57</volume>
+            <fpage>13</fpage>
+            <lpage>36</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1002/glia.20731</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18661552</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B24">
+            <title>
+               <p>Human umbilical cord blood-derived mesenchymal stem cells improve neuropathology and cognitive impairment in an Alzheimer's disease mouse model through modulation of neuroinflammation</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Lee</snm>
+                  <fnm>HJ</fnm>
+               </au>
+               <au>
+                  <snm>Lee</snm>
+                  <fnm>JK</fnm>
+               </au>
+               <au>
+                  <snm>Lee</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Carter</snm>
+                  <fnm>JE</fnm>
+               </au>
+               <au>
+                  <snm>Chang</snm>
+                  <fnm>JW</fnm>
+               </au>
+               <au>
+                  <snm>Oh</snm>
+                  <fnm>W</fnm>
+               </au>
+               <au>
+                  <snm>Yang</snm>
+                  <fnm>YS</fnm>
+               </au>
+               <au>
+                  <snm>Suh</snm>
+                  <fnm>JG</fnm>
+               </au>
+               <au>
+                  <snm>Lee</snm>
+                  <fnm>BH</fnm>
+               </au>
+               <au>
+                  <snm>Jin</snm>
+                  <fnm>HK</fnm>
+               </au>
+               <au>
+                  <snm>Bae</snm>
+                  <fnm>JS</fnm>
+               </au>
+            </aug>
+            <source>Neurobiol Aging</source>
+            <pubdate>2012</pubdate>
+            <volume>33</volume>
+            <fpage>588</fpage>
+            <lpage>602</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.neurobiolaging.2010.03.024</pubid>
+                  <pubid idtype="pmpid" link="fulltext">20471717</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B25">
+            <title>
+               <p>Mechanisms underlying inflammation in neurodegeneration</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Glass</snm>
+                  <fnm>CK</fnm>
+               </au>
+               <au>
+                  <snm>Saijo</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Winner</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Marchetto</snm>
+                  <fnm>MC</fnm>
+               </au>
+               <au>
+                  <snm>Gage</snm>
+                  <fnm>FH</fnm>
+               </au>
+            </aug>
+            <source>Cell</source>
+            <pubdate>2010</pubdate>
+            <volume>140</volume>
+            <fpage>918</fpage>
+            <lpage>934</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.cell.2010.02.016</pubid>
+                  <pubid idtype="pmcid">2873093</pubid>
+                  <pubid idtype="pmpid" link="fulltext">20303880</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B26">
+            <title>
+               <p>Local self-renewal can sustain CNS microglia maintenance and function throughout adult life</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Ajami</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Bennett</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Krieger</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Tetzlaff</snm>
+                  <fnm>W</fnm>
+               </au>
+               <au>
+                  <snm>Rossi</snm>
+                  <fnm>F</fnm>
+               </au>
+            </aug>
+            <source>Nat Neurosci</source>
+            <pubdate>2007</pubdate>
+            <volume>10</volume>
+            <fpage>1538</fpage>
+            <lpage>1581</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/nn2014</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18026097</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B27">
+            <title>
+               <p>Pro-inflammatory cytokines, IFN-gamma and TNF-alpha, influence immune properties of human bone marrow and Wharton jelly mesenchymal stem cells differentially</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Prasanna</snm>
+                  <fnm>SJ</fnm>
+               </au>
+               <au>
+                  <snm>Gopalakrishnan</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Shankar</snm>
+                  <fnm>SR</fnm>
+               </au>
+               <au>
+                  <snm>Vasandan</snm>
+                  <fnm>AB</fnm>
+               </au>
+            </aug>
+            <source>PLoS One</source>
+            <pubdate>2010</pubdate>
+            <volume>5</volume>
+            <fpage>e9016</fpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1371/journal.pone.0009016</pubid>
+                  <pubid idtype="pmcid">2814860</pubid>
+                  <pubid idtype="pmpid" link="fulltext">20126406</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B28">
+            <title>
+               <p>Marrow stromal cells transplanted to the adult brain are rejected by an inflammatory response and transfer donor labels to host neurons and glia</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Coyne</snm>
+                  <fnm>TM</fnm>
+               </au>
+               <au>
+                  <snm>Marcus</snm>
+                  <fnm>AJ</fnm>
+               </au>
+               <au>
+                  <snm>Woodbury</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Black</snm>
+                  <fnm>IB</fnm>
+               </au>
+            </aug>
+            <source>Stem Cells</source>
+            <pubdate>2006</pubdate>
+            <volume>24</volume>
+            <fpage>2483</fpage>
+            <lpage>2492</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1634/stemcells.2006-0174</pubid>
+                  <pubid idtype="pmpid" link="fulltext">16873764</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B29">
+            <title>
+               <p>Cellular immune response to intrastriatally implanted allogeneic bone marrow stromal cells in a rat model of Parkinson's disease</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Camp</snm>
+                  <fnm>DM</fnm>
+               </au>
+               <au>
+                  <snm>Loeffler</snm>
+                  <fnm>DA</fnm>
+               </au>
+               <au>
+                  <snm>Farrah</snm>
+                  <fnm>DM</fnm>
+               </au>
+               <au>
+                  <snm>Borneman</snm>
+                  <fnm>JN</fnm>
+               </au>
+               <au>
+                  <snm>LeWitt</snm>
+                  <fnm>PA</fnm>
+               </au>
+            </aug>
+            <source>J Neuroinflam</source>
+            <pubdate>2009</pubdate>
+            <volume>6</volume>
+            <fpage>17</fpage>
+            <xrefbib>
+               <pubid idtype="doi">10.1186/1742-2094-6-17</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B30">
+            <title>
+               <p>A protocol for isolation and culture of mesenchymal stem cells from mouse bone marrow</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Soleimani</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Nadri</snm>
+                  <fnm>S</fnm>
+               </au>
+            </aug>
+            <source>Nat Protoc</source>
+            <pubdate>2009</pubdate>
+            <volume>4</volume>
+            <fpage>102</fpage>
+            <lpage>106</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/nprot.2008.221</pubid>
+                  <pubid idtype="pmpid" link="fulltext">19131962</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B31">
+            <title>
+               <p>Immortalization of murine microglial cells by a v-<it>raf</it>/v-<it>myc </it>carrying retrovirus</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Blasi</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Barluzzi</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Bocchini</snm>
+                  <fnm>V</fnm>
+               </au>
+               <au>
+                  <snm>Mazzolla</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Bistoni</snm>
+                  <fnm>F</fnm>
+               </au>
+            </aug>
+            <source>J Neuroimmunol</source>
+            <pubdate>1990</pubdate>
+            <volume>27</volume>
+            <fpage>229</fpage>
+            <lpage>237</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/0165-5728(90)90073-V</pubid>
+                  <pubid idtype="pmpid">2110186</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B32">
+            <title>
+               <p>Bone marrow-derived mesenchymal stem cells modulate BV2 microglia responses to lipopolysaccharide</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Ooi</snm>
+                  <fnm>YY</fnm>
+               </au>
+               <au>
+                  <snm>Ramasamy</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Rahmat</snm>
+                  <fnm>Z</fnm>
+               </au>
+               <au>
+                  <snm>Subramaiam</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Tan</snm>
+                  <fnm>SW</fnm>
+               </au>
+               <au>
+                  <snm>Abdullah</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Israf</snm>
+                  <fnm>DA</fnm>
+               </au>
+               <au>
+                  <snm>Vidyadaran</snm>
+                  <fnm>S</fnm>
+               </au>
+            </aug>
+            <source>Int Immunopharmacol</source>
+            <pubdate>2010</pubdate>
+            <volume>10</volume>
+            <fpage>1532</fpage>
+            <lpage>1540</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.intimp.2010.09.001</pubid>
+                  <pubid idtype="pmpid" link="fulltext">20850581</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B33">
+            <title>
+               <p>Bone marrow-derived mesenchymal stem cell therapy as a candidate disease-modifying strategy in Parkinson's disease and multiple system atrophy</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Lee</snm>
+                  <fnm>PH</fnm>
+               </au>
+               <au>
+                  <snm>Park</snm>
+                  <fnm>HJ</fnm>
+               </au>
+            </aug>
+            <source>J Clin Neurol</source>
+            <pubdate>2009</pubdate>
+            <volume>5</volume>
+            <fpage>1</fpage>
+            <lpage>10</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="pmcid">2686892</pubid>
+                  <pubid idtype="pmpid" link="fulltext">19513327</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B34">
+            <title>
+               <p>Mesenchymal stem cells ameliorate experimental autoimmune encephalomyelitis inducing T-cell anergy</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Zappia</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Casazza</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Pedemonte</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Benvenuto</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Bonanni</snm>
+                  <fnm>I</fnm>
+               </au>
+               <au>
+                  <snm>Gerdoni</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Giunti</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Ceravolo</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Cazzanti</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Frassoni</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Mancardi</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Uccelli</snm>
+                  <fnm>A</fnm>
+               </au>
+            </aug>
+            <source>Blood</source>
+            <pubdate>2005</pubdate>
+            <volume>106</volume>
+            <fpage>1755</fpage>
+            <lpage>1761</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1182/blood-2005-04-1496</pubid>
+                  <pubid idtype="pmpid" link="fulltext">15905186</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B35">
+            <title>
+               <p>Effects of human marrow stromal cells on activation of microglial cells and production of inflammatory factors induced by lipopolysaccharide</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Zhou</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Zhang</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Chi</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Xu</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Teng</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Wang</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Song</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Zhao</snm>
+                  <fnm>R</fnm>
+               </au>
+            </aug>
+            <source>Brain Res</source>
+            <pubdate>2009</pubdate>
+            <volume>1269</volume>
+            <fpage>23</fpage>
+            <lpage>30</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid" link="fulltext">19269277</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B36">
+            <title>
+               <p>Activation of microglia by aggregated beta-amyloid or lipopolysaccharide impairs MHC-II expression and renders them cytotoxic whereas IFN-gamma and IL-4 render them protective</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Butovsky</snm>
+                  <fnm>O</fnm>
+               </au>
+               <au>
+                  <snm>Talpalar</snm>
+                  <fnm>AE</fnm>
+               </au>
+               <au>
+                  <snm>Ben-Yaakov</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Schwartz</snm>
+                  <fnm>M</fnm>
+               </au>
+            </aug>
+            <source>Mol Cell Neurosci</source>
+            <pubdate>2005</pubdate>
+            <volume>29</volume>
+            <fpage>381</fpage>
+            <lpage>393</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.mcn.2005.03.005</pubid>
+                  <pubid idtype="pmpid" link="fulltext">15890528</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B37">
+            <title>
+               <p>In vitro neuronal and glial differentiation from embryonic or adult neural precursor cells are differently affected by chronic or acute activation of microglia</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Cacci</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Ajmone-Cat</snm>
+                  <fnm>MA</fnm>
+               </au>
+               <au>
+                  <snm>Anelli</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Biagioni</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Minghetti</snm>
+                  <fnm>L</fnm>
+               </au>
+            </aug>
+            <source>Glia</source>
+            <pubdate>2008</pubdate>
+            <volume>56</volume>
+            <fpage>412</fpage>
+            <lpage>425</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1002/glia.20616</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18186084</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B38">
+            <title>
+               <p>Nitric oxide (NO) protects against cellular damage by reactive oxygen species</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Wink</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Cook</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Pacelli</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Liebmann</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Krishna</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Mitchell</snm>
+                  <fnm>J</fnm>
+               </au>
+            </aug>
+            <source>Toxicol Lett</source>
+            <pubdate>1995</pubdate>
+            <volume>82-83</volume>
+            <fpage>221</fpage>
+            <lpage>227</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid" link="fulltext">8597056</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B39">
+            <title>
+               <p>Chemical biology of nitric oxide: insights into regulatory, cytotoxic, and cytoprotective mechanisms of nitric oxide</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Wink</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Mitchell</snm>
+                  <fnm>J</fnm>
+               </au>
+            </aug>
+            <source>Free Radic Biol Med</source>
+            <pubdate>1998</pubdate>
+            <volume>25</volume>
+            <fpage>434</fpage>
+            <lpage>490</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/S0891-5849(98)00092-6</pubid>
+                  <pubid idtype="pmpid">9741580</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B40">
+            <title>
+               <p>Nitric oxide signaling in brain function, dysfunction, and dementia</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Steinert</snm>
+                  <fnm>JR</fnm>
+               </au>
+               <au>
+                  <snm>Chernova</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Forsythe</snm>
+                  <fnm>ID</fnm>
+               </au>
+            </aug>
+            <source>Neuroscientist</source>
+            <pubdate>2010</pubdate>
+            <volume>16</volume>
+            <fpage>435</fpage>
+            <lpage>452</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1177/1073858410366481</pubid>
+                  <pubid idtype="pmpid" link="fulltext">20817920</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B41">
+            <title>
+               <p>Nitric oxide plays a critical role in suppression of T-cell proliferation by mesenchymal stem cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Sato</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Ozaki</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Oh</snm>
+                  <fnm>I</fnm>
+               </au>
+               <au>
+                  <snm>Meguro</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Hatanaka</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Nagai</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Muroi</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Ozawa</snm>
+                  <fnm>K</fnm>
+               </au>
+            </aug>
+            <source>Blood</source>
+            <pubdate>2007</pubdate>
+            <volume>109</volume>
+            <fpage>228</fpage>
+            <lpage>234</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1182/blood-2006-02-002246</pubid>
+                  <pubid idtype="pmpid" link="fulltext">16985180</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B42">
+            <title>
+               <p>Toll-like receptors and their ligands control mesenchymal stem cell functions</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Pevsner-Fischer</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Morad</snm>
+                  <fnm>V</fnm>
+               </au>
+               <au>
+                  <snm>Cohen-Sfady</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Rousso-Noori</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Zanin-Zhorov</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Cohen</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Cohen</snm>
+                  <fnm>I</fnm>
+               </au>
+               <au>
+                  <snm>Zipori</snm>
+                  <fnm>D</fnm>
+               </au>
+            </aug>
+            <source>Blood</source>
+            <pubdate>2007</pubdate>
+            <volume>109</volume>
+            <fpage>1422</fpage>
+            <lpage>1454</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1182/blood-2006-06-028704</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17038530</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B43">
+            <title>
+               <p>Toll-like receptors 3 and 4 are expressed by human bone marrow-derived mesenchymal stem cells and can inhibit their T-cell modulatory activity by impairing Notch signaling</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Liotta</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Angeli</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Cosmi</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Fil&#236;</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Manuelli</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Frosali</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Mazzinghi</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Maggi</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Pasini</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Lisi</snm>
+                  <fnm>V</fnm>
+               </au>
+               <au>
+                  <snm>Santarlasci</snm>
+                  <fnm>V</fnm>
+               </au>
+               <au>
+                  <snm>Consoloni</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Angelotti</snm>
+                  <fnm>ML</fnm>
+               </au>
+               <au>
+                  <snm>Romagnani</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Parronchi</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Krampera</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Maggi</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Romagnani</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Annunziato</snm>
+                  <fnm>F</fnm>
+               </au>
+            </aug>
+            <source>Stem Cells (Dayton, Ohio)</source>
+            <pubdate>2008</pubdate>
+            <volume>26</volume>
+            <fpage>279</fpage>
+            <lpage>368</lpage>
+            <xrefbib>
+               <pubid idtype="doi">10.1634/stemcells.2007-0454</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B44">
+            <title>
+               <p>A new mesenchymal stem cell (MSC) paradigm: polarization into a pro-inflammatory MSC1 or an immunosuppressive MSC2 phenotype</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Waterman</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Tomchuck</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Henkle</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Betancourt</snm>
+                  <fnm>A</fnm>
+               </au>
+            </aug>
+            <source>PLoS One</source>
+            <pubdate>2010</pubdate>
+            <volume>5</volume>
+            <fpage>e10088</fpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1371/journal.pone.0010088</pubid>
+                  <pubid idtype="pmcid">2859930</pubid>
+                  <pubid idtype="pmpid" link="fulltext">20436665</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B45">
+            <title>
+               <p>Macrophage-associated mesenchymal stem cells assume an activated, migratory, pro-inflammatory phenotype with increased IL-6 and CXCL10 secretion</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Anton</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Banerjee</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Glod</snm>
+                  <fnm>J</fnm>
+               </au>
+            </aug>
+            <source>PLoS One</source>
+            <pubdate>2012</pubdate>
+            <volume>7</volume>
+            <fpage>e35036</fpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1371/journal.pone.0035036</pubid>
+                  <pubid idtype="pmcid">3319627</pubid>
+                  <pubid idtype="pmpid" link="fulltext">22496888</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B46">
+            <title>
+               <p>Mesenchymal stem cell-educated macrophages: a novel type of alternatively activated macrophages</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Kim</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Hematti</snm>
+                  <fnm>P</fnm>
+               </au>
+            </aug>
+            <source>Exp Hematol</source>
+            <pubdate>2009</pubdate>
+            <volume>37</volume>
+            <fpage>1445</fpage>
+            <lpage>1453</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.exphem.2009.09.004</pubid>
+                  <pubid idtype="pmcid">2783735</pubid>
+                  <pubid idtype="pmpid" link="fulltext">19772890</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B47">
+            <title>
+               <p>Immunomodulatory influence of bone marrow-derived mesenchymal stem cells on neuroinflammation in astrocyte cultures</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Sch&#228;fer</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Calas</snm>
+                  <fnm>A-G</fnm>
+               </au>
+               <au>
+                  <snm>Vergouts</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Hermans</snm>
+                  <fnm>E</fnm>
+               </au>
+            </aug>
+            <source>J Neuroimmunol</source>
+            <pubdate>2012</pubdate>
+            <volume>249</volume>
+            <fpage>40</fpage>
+            <lpage>48</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.jneuroim.2012.04.018</pubid>
+                  <pubid idtype="pmpid" link="fulltext">22633273</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B48">
+            <title>
+               <p>IL-6-dependent PGE2 secretion by mesenchymal stem cells inhibits local inflammation in experimental arthritis</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Bouffi</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Bony</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Courties</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Jorgensen</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>No&#235;l</snm>
+                  <fnm>D</fnm>
+               </au>
+            </aug>
+            <source>PLoS One</source>
+            <pubdate>2010</pubdate>
+            <volume>5</volume>
+            <fpage>e14247</fpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1371/journal.pone.0014247</pubid>
+                  <pubid idtype="pmcid">2998425</pubid>
+                  <pubid idtype="pmpid" link="fulltext">21151872</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B49">
+            <title>
+               <p>Migration and fate of therapeutic stem cells in different brain disease models</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Carney</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Shah</snm>
+                  <fnm>K</fnm>
+               </au>
+            </aug>
+            <source>Neuroscience</source>
+            <pubdate>2011</pubdate>
+            <volume>197</volume>
+            <fpage>37</fpage>
+            <lpage>84</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid" link="fulltext">21946010</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B50">
+            <title>
+               <p>Multipotent stromal cells from human marrow home to and promote repair of pancreatic islets and renal glomeruli in diabetic NOD/scid mice</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Lee</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Seo</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Reger</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Spees</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Pulin</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Olson</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Prockop</snm>
+                  <fnm>D</fnm>
+               </au>
+            </aug>
+            <source>Proc Natl Acad Sci USA</source>
+            <pubdate>2006</pubdate>
+            <volume>103</volume>
+            <fpage>17438</fpage>
+            <lpage>17481</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1073/pnas.0608249103</pubid>
+                  <pubid idtype="pmcid">1634835</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17088535</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B51">
+            <title>
+               <p>Kinetics and function of mesenchymal stem cells in corneal injury</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Lan</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Kodati</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Lee</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Omoto</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Jin</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Chauhan</snm>
+                  <fnm>S</fnm>
+               </au>
+            </aug>
+            <source>Invest Ophthalmol Vis Sci</source>
+            <pubdate>2012</pubdate>
+            <volume>53</volume>
+            <fpage>3638</fpage>
+            <lpage>3682</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1167/iovs.11-9311</pubid>
+                  <pubid idtype="pmpid" link="fulltext">22562508</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B52">
+            <title>
+               <p>Administered mesenchymal stem cells protect against ischemic acute renal failure through differentiation-independent mechanisms</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>T&#246;gel</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Hu</snm>
+                  <fnm>Z</fnm>
+               </au>
+               <au>
+                  <snm>Weiss</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Isaac</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Lange</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Westenfelder</snm>
+                  <fnm>C</fnm>
+               </au>
+            </aug>
+            <source>Am J Physiol Renal Physiol</source>
+            <pubdate>2005</pubdate>
+            <volume>289</volume>
+            <fpage>F31</fpage>
+            <lpage>F42</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1152/ajprenal.00007.2005</pubid>
+                  <pubid idtype="pmpid" link="fulltext">15713913</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B53">
+            <title>
+               <p>Chemokines mediate mesenchymal stem cell migration toward gliomas in vitro</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Xu</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Shi</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Yu</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Ni</snm>
+                  <fnm>W</fnm>
+               </au>
+               <au>
+                  <snm>Wu</snm>
+                  <fnm>X</fnm>
+               </au>
+               <au>
+                  <snm>Gu</snm>
+                  <fnm>Z</fnm>
+               </au>
+            </aug>
+            <source>Oncol Rep</source>
+            <pubdate>2010</pubdate>
+            <volume>23</volume>
+            <fpage>1561</fpage>
+            <lpage>1568</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid" link="fulltext">20428810</pubid>
+            </xrefbib>
+         </bibl>
+      </refgrp>
+   </bm>
+</art>

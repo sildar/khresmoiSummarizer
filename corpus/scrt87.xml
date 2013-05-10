@@ -1,0 +1,2621 @@
+<!DOCTYPE art SYSTEM "article.dtd">
+<art>
+   <ui>scrt87</ui>
+   <ji>1757-6512</ji>
+   <fm>
+      <dochead>Research</dochead>
+      <bibl>
+         <title>
+            <p>Induced pluripotent stem cells from GMP-grade hematopoietic progenitor cells and mononuclear myeloid cells</p>
+         </title>
+         <aug>
+            <au id="A1">
+               <snm>Ohmine</snm>
+               <fnm>Seiga</fnm>
+               <insr iid="I1"/>
+               <email>ohmine.seiga@mayo.edu</email>
+            </au>
+            <au id="A2">
+               <snm>Dietz</snm>
+               <mi>B</mi>
+               <fnm>Allan</fnm>
+               <insr iid="I2"/>
+               <email>dietz.allan@mayo.edu</email>
+            </au>
+            <au id="A3">
+               <snm>Deeds</snm>
+               <mi>C</mi>
+               <fnm>Michael</fnm>
+               <insr iid="I2"/>
+               <email>deeds.michael@mayo.edu</email>
+            </au>
+            <au id="A4">
+               <snm>Hartjes</snm>
+               <mi>A</mi>
+               <fnm>Katherine</fnm>
+               <insr iid="I1"/>
+               <email>hartjes.katherine@mayo.edu</email>
+            </au>
+            <au id="A5">
+               <snm>Miller</snm>
+               <mi>R</mi>
+               <fnm>David</fnm>
+               <insr iid="I2"/>
+               <email>miller.david3@mayo.edu</email>
+            </au>
+            <au id="A6">
+               <snm>Thatava</snm>
+               <fnm>Tayaramma</fnm>
+               <insr iid="I1"/>
+               <email>thatava.tayaramma@mayo.edu</email>
+            </au>
+            <au id="A7">
+               <snm>Sakuma</snm>
+               <fnm>Toshie</fnm>
+               <insr iid="I1"/>
+               <email>sakuma.toshie@mayo.edu</email>
+            </au>
+            <au id="A8">
+               <snm>Kudva</snm>
+               <mi>C</mi>
+               <fnm>Yogish</fnm>
+               <insr iid="I2"/>
+               <insr iid="I3"/>
+               <email>kudva.yogish@mayo.edu</email>
+            </au>
+            <au ca="yes" id="A9">
+               <snm>Ikeda</snm>
+               <fnm>Yasuhiro</fnm>
+               <insr iid="I1"/>
+               <email>ikeda.yasuhiro@mayo.edu</email>
+            </au>
+         </aug>
+         <insg>
+            <ins id="I1">
+               <p>Department of Molecular Medicine, College of Medicine, Mayo Clinic, 200 First Street S.W., Rochester, MN 55905, USA</p>
+            </ins>
+            <ins id="I2">
+               <p>Human Cell Therapy, Department of Laboratory Medicine/Pathology, College of Medicine, Mayo Clinic, 200 First Street S.W., Rochester, MN 55905, USA</p>
+            </ins>
+            <ins id="I3">
+               <p>Division of Endocrinology, College of Medicine, Mayo Clinic, 200 First Street S.W., Rochester, MN 55905, USA</p>
+            </ins>
+         </insg>
+         <source>Stem Cell Research &amp; Therapy</source>
+         <issn>1757-6512</issn>
+         <pubdate>2011</pubdate>
+         <volume>2</volume>
+         <issue>6</issue>
+         <fpage>46</fpage>
+         <url>http://stemcellres.com/content/2/6/46</url>
+         <xrefbib>
+            <pubidlist>
+               <pubid idtype="doi">10.1186/scrt87</pubid>
+               <pubid idtype="pmpid">22088171</pubid>
+            </pubidlist>
+         </xrefbib>
+      </bibl>
+      <history>
+         <rec>
+            <date>
+               <day>21</day>
+               <month>7</month>
+               <year>2011</year>
+            </date>
+         </rec>
+         <revrec>
+            <date>
+               <day>27</day>
+               <month>10</month>
+               <year>2011</year>
+            </date>
+         </revrec>
+         <acc>
+            <date>
+               <day>16</day>
+               <month>11</month>
+               <year>2011</year>
+            </date>
+         </acc>
+         <pub>
+            <date>
+               <day>16</day>
+               <month>11</month>
+               <year>2011</year>
+            </date>
+         </pub>
+      </history>
+      <cpyrt>
+         <year>2011</year>
+         <collab>Ohmine et al.; licensee BioMed Central Ltd.</collab>
+         <note>This is an open access article distributed under the terms of the Creative Commons Attribution License (<url>http://creativecommons.org/licenses/by/2.0</url>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</note>
+      </cpyrt>
+      <abs>
+         <sec>
+            <st>
+               <p>Abstract</p>
+            </st>
+            <sec>
+               <st>
+                  <p>Introduction</p>
+               </st>
+               <p>The induced pluripotent stem cell (iPSC) technology allows generation of patient-specific pluripotent stem cells, thereby providing a novel cell-therapy platform for severe degenerative diseases. One of the key issues for clinical-grade iPSC derivation is the accessibility of donor cells used for reprogramming.</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>Methods</p>
+               </st>
+               <p>We examined the feasibility of reprogramming mobilized GMP-grade hematopoietic progenitor cells (HPCs) and peripheral blood mononuclear cells (PBMCs) and tested the pluripotency of derived iPS clones.</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>Results</p>
+               </st>
+               <p>Ectopic expression of OCT4, SOX2, KLF4, and c-MYC in HPCs and PBMCs resulted in rapid iPSC derivation. Long-term time-lapse imaging revealed efficient iPSC growth under serum- and feeder-free conditions with frequent mitotic events. HPC- and PBMC-derived iPS cells expressed pluripotency-associated markers, including SSEA-4, TRA-1-60, and NANOG. The global gene-expression profiles demonstrated the induction of endogenous pluripotent genes, such as <it>LIN28</it>, <it>TERT</it>, <it>DPPA4</it>, and <it>PODXL</it>, in derived iPSCs. iPSC clones from blood and other cell sources showed similar ultrastructural morphologies and genome-wide gene-expression profiles. On spontaneous and guided differentiation, HPC- and PBMC-derived iPSCs were differentiated into cells of three germ layers, including insulin-producing cells through endodermal lineage, verifying the pluripotency of the blood-derived iPSC clones.</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>Conclusions</p>
+               </st>
+               <p>Because the use of blood cells allows minimally invasive tissue procurement under GMP conditions and rapid cellular reprogramming, mobilized HPCs and unmobilized PBMCs would be ideal somatic cell sources for clinical-grade iPSC derivation, especially from diabetes patients complicated by slow-healing wounds.</p>
+            </sec>
+         </sec>
+      </abs>
+   </fm>
+   <bdy>
+      <sec>
+         <st>
+            <p>Introduction</p>
+         </st>
+         <p>Because embryonic stem (ES) cells can self-renew indefinitely and differentiate into any cell present in the adult organism, ES cells provide a unique platform for regenerative medicine approaches. In early 2009, the US Food and Drug Administration (FDA) approved the first clinical trial using ES cells in patients with spinal cord injuries. Although the FDA temporarily placed the trial on hold because of concerns over the risk of ES-derived cyst formation, the clinical hold was lifted, and the first patient for ES cell treatment was enrolled by Geron in late 2010 <abbrgrp><abbr bid="B1">1</abbr></abbrgrp>. The use of ES-derived, terminally differentiated retinal pigment epithelium cells for Stargardt macular dystrophy and dry age-related macular degeneration was also approved by the FDA, and Advanced Cell Technology is currently enrolling patients <abbrgrp><abbr bid="B2">2</abbr></abbrgrp>. Despite these advances in clinical applications, the use of ES cells is associated with ethical issues and immunologic mismatch, which could affect their widespread use in the clinic.</p>
+         <p>The induced pluripotent stem cell (iPSC) technology allows generation of autologous pluripotent stem cells without using an embryonic cell source. Expression of the transcription factors OCT3/4, SOX2, KLF4, and c-MYC <abbrgrp><abbr bid="B3">3</abbr><abbr bid="B4">4</abbr><abbr bid="B5">5</abbr><abbr bid="B6">6</abbr><abbr bid="B7">7</abbr></abbrgrp> or OCT-3/4, SOX2, NANOG, and LIN28 <abbrgrp><abbr bid="B8">8</abbr></abbrgrp> in somatic cells results in iPSCs, which have phenotypes very similar to those of ES cells, including the morphology, self-renewal, and pluripotent potentials, and expression of pluripotency-associated factors, including SSEA-4 and TRA-1-60. Global gene-expression analysis of human iPSCs has also revealed patterns similar to those of human ES cells, with notable upregulation of pluripotency-associated genes such as <it>OCT4</it>, <it>SOX2</it>, <it>NANOG</it>, <it>TERT</it>, and <it>DPPA4 </it><abbrgrp><abbr bid="B3">3</abbr><abbr bid="B4">4</abbr><abbr bid="B5">5</abbr><abbr bid="B8">8</abbr></abbrgrp>. Similar to ES cells, iPSCs can be differentiated into various cell types, such as insulin-producing cells <abbrgrp><abbr bid="B9">9</abbr><abbr bid="B10">10</abbr><abbr bid="B11">11</abbr></abbrgrp>, neurons <abbrgrp><abbr bid="B12">12</abbr></abbrgrp>, cardiomyocytes <abbrgrp><abbr bid="B13">13</abbr><abbr bid="B14">14</abbr><abbr bid="B15">15</abbr></abbrgrp>, and cells of hematopoietic lineages <abbrgrp><abbr bid="B13">13</abbr></abbrgrp>. Various types of somatic cells have been successfully reprogrammed, including fibroblasts, stomach and liver cell cultures <abbrgrp><abbr bid="B16">16</abbr></abbrgrp>, human keratinocytes (HKs) <abbrgrp><abbr bid="B17">17</abbr><abbr bid="B18">18</abbr></abbrgrp>, frozen human monocytes <abbrgrp><abbr bid="B19">19</abbr></abbrgrp>, cord blood cells <abbrgrp><abbr bid="B20">20</abbr><abbr bid="B21">21</abbr><abbr bid="B22">22</abbr></abbrgrp>, and blood cells <abbrgrp><abbr bid="B23">23</abbr><abbr bid="B24">24</abbr></abbrgrp>, including mature B <abbrgrp><abbr bid="B25">25</abbr><abbr bid="B26">26</abbr><abbr bid="B27">27</abbr><abbr bid="B28">28</abbr></abbrgrp> and T lymphocytes <abbrgrp><abbr bid="B29">29</abbr><abbr bid="B30">30</abbr><abbr bid="B31">31</abbr><abbr bid="B32">32</abbr></abbrgrp>. For clinical applications, it would be ideal if iPSCs could be generated from somatic cells through a minimally invasive tissue-procurement procedure under GMP-compliant process. In this regard, blood cells are one of the most promising cell sources for clinical-grade iPSC derivation.</p>
+         <p>Here we examined the feasibility of iPSC derivation from GMP-grade mobilized hematopoietic progenitor cells (HPCs) and unmobilized peripheral blood mononuclear cells (PBMCs), and characterized derived iPSCs for global gene-expression profiles and pluripotency.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Materials and methods</p>
+         </st>
+         <p>All studies were approved by the Institutional Review Board and Institutional Animal Care and Use Committee.</p>
+         <sec>
+            <st>
+               <p>Cells</p>
+            </st>
+            <p>GMP-grade HPCs were originally harvested from patients for stem cell therapy. Specifically, HPCs were harvested after mobilization by injection with granulocyte colony-stimulating factor for 5 days in the Human Cellular Therapy Laboratory at the Mayo Clinic. Those cell products are routinely discarded as clinical wastes when patients have died before the initiation of stem cell therapy. We received de-identified clinical-waste HPCs from the Human Cellular Therapy Laboratory for iPSC derivation. The use of clinical-waste HPCs for iPSC generation was approved by the Institutional Review Board, including the Biospecimens Subcommittee. For mononuclear myeloid cell derivation, 10 ml of whole blood was purchased and used to isolate PBMCs, as reported previously <abbrgrp><abbr bid="B33">33</abbr><abbr bid="B34">34</abbr></abbrgrp>.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Lentiviral vector production</p>
+            </st>
+            <p>Pluripotency-associated factor-expressing lentiviral vectors, pSIN-OCT4, pSIN-SOX2, pSIN-KLF4, and pSIN-cMYC were described previously <abbrgrp><abbr bid="B12">12</abbr></abbrgrp>. These vectors were produced by transient transfection of 293T cells. Vector titers were determined with immunostaining <abbrgrp><abbr bid="B12">12</abbr></abbrgrp>.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>iPSC derivation</p>
+            </st>
+            <p>HPCs and PBMCs were cultured overnight in StemSpan H3000 serum-free medium (StemCell Technologies, Vancouver, Canada), which contains only human-derived or recombinant human proteins, supplemented with StemSpan CC100 cytokine cocktail (StemCell Technologies). Cells (10<sup>5 </sup>cells/500 &#956;l of medium in each well) in uncoated wells of a 24-well plate were then transduced with four stemness factor-expressing lentiviral vectors overnight. One third of the culture supernatants were carefully removed and replaced daily with H3000 growth medium supplemented with CC100 cytokine cocktail. Three days after vector infection, cells in a well of a 24-well plate were transferred to a Matrigel (BD Biosciences, Bedford, MA)-coated well of a 6-well plate. Starting 5 days after vector infection, cells were maintained in HEScGRO medium (100 ml; Millipore, Billerica, MA) supplemented with mTeSR-1 maintenance media (25 ml; StemCell Technologies) <abbrgrp><abbr bid="B11">11</abbr></abbrgrp>. 7 to 10 days after vector infection, the reprogrammed cells began to form colonies with iPS morphology. At 2 to 3 weeks after vector infection, cultures were treated with Cell Dissociation Buffer (Invitrogen, Grand Island, NY) for 5 to 10 minutes to help lift clones, and individual iPSC-like clones were carefully picked up with a P200 pipette, and placed into Matrigel-coated wells in a 96-well plate. To prevent spontaneous differentiation, the iPSC culture medium was replaced daily, and differentiated cells in the cultures were manually removed with a pipette tip. As the clones grew, cultures were expanded into larger culture plates for further characterization. Clones were preserved by using Xeno-FREEze Human Embryonic Stem Cell Freezing Medium (Millipore). A verified iPSC clone, HCF1, from primary human fibroblast (HCF) cells, was described previously <abbrgrp><abbr bid="B11">11</abbr></abbrgrp>. Primary human keratinocytes and keratinocyte-derived iPSC clones were also used as controls <abbrgrp><abbr bid="B35">35</abbr></abbrgrp>.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Immunostaining and alkaline phosphatase staining</p>
+            </st>
+            <p>For immunostaining of iPSC, cells were fixed for 20 minutes at room temperature in 4% paraformaldehyde solution in PBS, washed several times in PBS, and blocked for 30 minutes in PBS with 5% fetal bovine serum. Cells were then stained with primary antibodies overnight at 4&#176;C, rinsed with PBS, and incubated with secondary antibodies for 1 hour at RT. For immunostaining of differentiated cells, cells at different stages of differentiation were fixed and stained with primary and secondary antibodies. Primary antibodies used for characterization of iPSC and iPSC-derived cells were SSEA-4 and TRA-1-60 (Millipore, #SCR001), OCT4 (Cell Signaling Technology, #2750, Danvers, MA), NANOG (Abcam, #ab21624, Cambridge, MA), mouse anti-SOX17 (R&amp;D Systems, #MAB1924, Minneapolis, MN), rabbit anti-HNF3 beta/FOXA2 (Millipore, #07-633), rabbit anti-PDX1 (Santa Cruz Biotechnology, #sc-25403, Santa Cruz, CA) and mouse anti-insulin (Sigma, #I2018, St. Louis, MO). Texas Red-conjugated donkey-anti-rabbit IgG (Jackson ImmunoResearch Laboratories, #711-075-152, West Grove, PA), Texas Red-conjugated donkey-anti-mouse IgG (Jackson ImmunoResearch Laboratories, #715-075-151), FITC-conjugated donkey-anti-rabbit IgG (Jackson ImmunoResearch Laboratories, #711-095-152), and FITC-conjugated donkey-anti-mouse IgG (Jackson ImmunoResearch Laboratories, #715-095-151) were used as secondary antibodies. DAPI was used for counterstaining. Stained cells were analyzed by using a confocal laser-scanning microscope (Zeiss, LSM 510 confocal scanning laser system).</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Spontaneous differentiation</p>
+            </st>
+            <p>For spontaneous differentiation, iPSC clones were dissociated by using collagenase IV for 30 minutes and plated on low-adhesion plates in basal HEScGRO medium without bFGF. Embryoid bodies (EBs) were cultured as a suspension for 7 to 10 days and adherent in DMEM with 20% FBS for additional 7 to 10 days. For immunofluorescence analysis, cells were fixed with 4% PFA for 20 minutes at RT. Immunostaining was performed as described earlier. Primary antibodies against FOXA2 for endoderm, beta-III tubulin (Abcam, #41489) for ectoderm, and CD31 (Santa Cruz Biotechnology, #SC1506) for mesoderm were used, whereas Texas Red-conjugated donkey anti-rabbit IgG (Jackson ImmunoResearch Laboratories, #711-075-152), and FITC-conjugated donkey anti-chicken IgG (Jackson ImmunoResearch Laboratories, #703-095-155) served as secondary antibodies.</p>
+         </sec>
+         <sec>
+            <st>
+               <p><it>In vivo </it>differentiation of derived iPS cells</p>
+            </st>
+            <p>SCID-beige mice were anesthetized, and the kidney was externalized for iPS transplantation under the kidney capsule. A small incision was made in the kidney capsule, and a blunt needle used to create a pocket under the kidney capsule. After iPSC injection into the pocket, the kidney was placed back into the abdomen, and the incision closed with a Vicryl suture. Mice were maintained for 4 weeks and killed for harvesting normal and iPS-transplanted kidneys. OTC-embedded frozen tissues were cryo-sectioned for H&amp;E staining.</p>
+            <p>Differentiation of derived iPS cells into insulin-producing cells iPSCs were differentiated into insulin-producing cells, as reported previously with minor modifications <abbrgrp><abbr bid="B11">11</abbr></abbrgrp>. At the first step of differentiation, human iPSC clones were treated with 25 ng/ml Wnt3a (R&amp;D Systems) and 100 ng/ml activin A (Peprotech, Rocky Hill, NJ) in advanced RPMI (Invitrogen) with Pen/Strep for 1 day, followed by treatment with 100 ng/ml activin A in advanced RPMI supplemented with 0.2% fetal calf serum (FBS) (Invitrogen) for 2 days. At step two, cells were cultured in high-glucose DMEM (Invitrogen), supplemented with 20% (vol/vol) advanced RPMI medium containing 50 ng/ml FGF10 (R&amp;D systems), 0.25 &#956;mol/L KAAD-cyclopamine (CYC), and 2% FBS for 2 days. Cells were then treated with 50 ng/ml FGF10, 0.25 &#956;mol/L CYC, and 2 &#956;mol/L all-<it>trans </it>retinoic acid (RA) (Sigma) in high-glucose DMEM (Invitrogen) supplemented with 20% advanced RPMI, Pen/Strep, 1 &#215; B27 supplement (Invitrogen) for 4 days at step three. Cells were then cultured in the presence of 50 ng/mL FGF10, 300 nmol/L ILV (Axxora, San Diego, CA), and 55 nmol/L GLP-1 (Sigma) in DMEM (high glucose) supplemented with 20% advanced RPMI and 1 &#215; B27 for 4 days at step four. In step five, differentiation medium included 10 &#956;mol/L DAPT (Sigma) and 55 nmol/L GLP-1 in DMEM (high glucose) with 20% advanced RPMI and 1 &#215; B27, and the culture lasted for 6 days.</p>
+            <p>Finally, in step six, cells were cultured in the presence of 50 ng/ml hepatocyte growth factor (HGF) (R&amp;D systems), 50 ng/ml insulin-like growth factor 1 (IGF-1) (R&amp;D Systems), and 55 nmol/L GLP-1 in CMRL-1066 medium (Invitrogen) with 1 &#215; B27 for 8 days. All differentiation experiments were performed in triplicate, and repeated at least twice.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Microarray</p>
+            </st>
+            <p>Total RNA was isolated by using TRIzol (Invitrogen) and further purified by using RNeasy Plus spin columns (QIAGEN, Valencia, CA). Turbo DNA-free DNase (Ambion, Austin, TX) was used to digest all genomic DNA that could lead to false-positive gene-expression results. The RNA quantity and purity was measured with a Nanodrop spectrophotometer (Thermo Scientific, Wilmington, DE), and the RNA integrity was determined by using the Agilent 2100 Bioanalyzer (Agilent Technologies, Santa Clara, CA). Microarray analysis was performed by using the Affymetrix HG-U133 Plus2 GeneChip Array platform (Affymetrix, Santa Clara, CA). Data were preprocessed by using standard in-house MicroArray Pre-Processing workflow, and hierarchical clustering was performed by Pearson Dissimilarity. To compare the transcriptome of blood-derived iPSCs, the data set of epidermal keratinocytes (HK, SW3, SW4, and SW8), two keratinocyte-derived iPSC clones (SW3 b and SW4 N1) and human fibroblast (FB)-derived iPSC clone HCF1 <abbrgrp><abbr bid="B11">11</abbr></abbrgrp> were used. A <it>t </it>test was performed to analyze the significance of the changes (<it>P </it>&lt; 0.05) in the normalized gene-expression levels between HK and iPSC clones, or between blood-derived iPSC clones and HK- and FB-derived iPSC clones. Heatmap Builder software (kindly provided by Dr. Euan Ashley, Stanford School of Medicine) was used to generate the heatmap for the transcriptome data set. The registered GEO transcriptome database (GSM551202, human ES H9 cells; GSM452255, freshly isolated PBMC; GSM178554, mobilized HPCs) was used to analyze the similarities between blood-derived iPSCs and human ES cells or non-reprogrammed PBMCs and HPCs. Microarray data have been deposited in the NCBI Gene Expression Omnibus (GEO) and are accessible through GEO Series accession number GSE33536 (<url>http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE33536</url>).</p>
+         </sec>
+      </sec>
+      <sec>
+         <st>
+            <p>Results and discussion</p>
+         </st>
+         <sec>
+            <st>
+               <p>Cellular reprogramming of HPCs and PBMCs into iPSCs</p>
+            </st>
+            <p>HPCs and PBMCs were cultured overnight in a serum-free medium with CC100 cytokine cocktail (recombinant Flt-3, SCF, IL-3, and IL-6), and transduced with four stemness factor-expressing lentiviral vectors at a multiplicity of infection (MOI) of 5 each. When transduced, cells were transferred to Matrigel-coated culture plates 3 days after infection, a subset of cells attached to the plate. At 1 to 2 weeks after vector transduction, small, reprogrammed colonies, characterized by the morphology of sharp-edged, flat, and tightly packed cells, were observed (Figure <figr fid="F1">1a</figr>). No iPSC-like colony formation was observed in untransduced cells (Figure <figr fid="F1">1a</figr>). From transduced HPCs and PBMCs, we picked up 24 individual iPSC-like colonies per each sample based on their size and morphology at 2 to 3 weeks after viral transduction. Among 24 colonies, three to six colonies were expandable without spontaneous differentiation under feeder-free conditions. The reprogramming efficiency was between two to 10 expandable clones per 10<sup>5 </sup>transduced cells (Figure <figr fid="F1">1b</figr>). HPC- and PBMC-derived iPS clones could be cultured for 5 months after the initial vector infection (up to passage 50) without showing signs of replicative crisis. Immunocytochemistry revealed the expression of SSEA-4, TRA-1-60, OCT4, and NANOG in the blood-derived iPSC clones (Figure <figr fid="F1">1b</figr>). Long-term time-lapse imaging demonstrated efficient iPSC expansion under feeder-free and serum-free conditions. The colonies had a 23.7-hour average cell doubling time (Figure <figr fid="F2">2a</figr>). Frequent mitotic events were observed in derived iPSC colonies (Figure <figr fid="F2">2b</figr>), and the duration of mitotic events (from prophase to telophase) was approximately 60 minutes (Figure <figr fid="F2">2b</figr> and <figr fid="F2">2c</figr>). Similar results were observed with other two iPSC clones.</p>
+            <fig id="F1">
+               <title>
+                  <p>Figure 1</p>
+               </title>
+               <caption>
+                  <p>Reprogramming of human hematopoietic progenitor and peripheral blood mononuclear cells</p>
+               </caption>
+               <text>
+                  <p><b>Reprogramming of human hematopoietic progenitor and peripheral blood mononuclear cells</b>. <b>(a) </b>HPCs and PBMCs were cultured in a serum-free medium and transduced with lentiviral vectors expressing four stemness factors at an MOI of 5. Representative phase-contrast images of HPCs before transduction (left panel) and 7 days after infection (left panel) are shown. Representative HPC-derived (left panel) and PBMC-derived (right panel) colonies with characteristic morphologies of reprogrammed cells are shown. <b>(b) </b>HPC and PBMC-derived iPSC clones were further characterized through immunocytochemistry analysis by using a panel of antibodies against pluripotency-associated markers. All clones stained positive for the markers, including SSEA-4, TRA-1-60, OCT4, and NANOG.</p>
+               </text>
+               <graphic file="scrt87-1" hint_layout="double"/>
+            </fig>
+            <fig id="F2">
+               <title>
+                  <p>Figure 2</p>
+               </title>
+               <caption>
+                  <p>Efficient expansion of HPC/PBMC-derived iPSC clones under feeder- and serum-free conditions</p>
+               </caption>
+               <text>
+                  <p><b>Efficient expansion of HPC/PBMC-derived iPSC clones under feeder- and serum-free conditions</b>. <b>(a) </b>Long-term time-lapse images of an iPSC HPC-A1 colony were obtained by using Nikon BioStation IMQ. Time is shown in hours in the upper right corner, and cell count is shown in the bottom right corner of each panel. <b>(b) </b>Frequent mitotic events were observed during time-lapse imaging. Dividing cells and daughter cells are indicated by yellow and green arrows. Time is shown in minutes in the upper right corner of each panel. <b>(c) </b>High-magnification images of a dividing cell at different stages of mitosis (prophase, prometaphase, metaphase, anaphase, and telophase) are indicated in green arrows. Time is shown in minutes in the upper right corner of each panel.</p>
+               </text>
+               <graphic file="scrt87-2" hint_layout="double"/>
+            </fig>
+         </sec>
+         <sec>
+            <st>
+               <p>Ultrastructural studies of blood-derived iPS cells</p>
+            </st>
+            <p>High-resolution electron microscope analysis was performed to determine the morphologic differences between blood-derived iPSCs and verified fibroblast-derived iPSCs (HCF1) <abbrgrp><abbr bid="B11">11</abbr></abbrgrp>. Blood-derived iPSCs showed scant cytoplasm and globular-shaped immature mitochondria with unorganized cristae, which resembled those of fibroblast-derived iPS cells (Figure <figr fid="F3">3a</figr>). In contrast, non-reprogrammed fibroblasts showed the cytoplasm densely packed with membrane-bound organelles (Figure <figr fid="F3">3a</figr>, upper left panel), including mature mitochondria with well-developed cristae (Figure <figr fid="F3">3a</figr>, upper right panel). In accordance with our cinemicrography analysis, frequent mitotic events were observed in blood-derived iPSCs cells (Figure <figr fid="F3">3b</figr>). One pair of centrioles--mother (arrowhead) and daughter (arrow) centrioles--were seen in a dividing cell at anaphase (Figure <figr fid="F3">3b</figr>, lower right panel).</p>
+            <fig id="F3">
+               <title>
+                  <p>Figure 3</p>
+               </title>
+               <caption>
+                  <p>Transmission electron microscopic images of blood-derived iPS cells</p>
+               </caption>
+               <text>
+                  <p><b>Transmission electron microscopic images of blood-derived iPS cells</b>. <b>(a) </b>Representative high-resolution electron micrographs of primary human fibroblasts (HCF fibroblast), HCF-derived (HCF1 iPS), and HPC-derived (HPC-A1) iPSCs are shown. Mitochondria (MT) and nucleus (N) structures are denoted in the micrographs. <b>(b) </b>Frequent mitotic events were observed in the blood-derived iPSCs. Mother and daughter centrioles are represented by the arrowhead and arrow symbols, respectively. Scale bars are represented in micrometers.</p>
+               </text>
+               <graphic file="scrt87-3" hint_layout="double"/>
+            </fig>
+         </sec>
+         <sec>
+            <st>
+               <p>Genome-wide transcriptome analysis of blood-derived iPS clones</p>
+            </st>
+            <p>With a microarray representing the genome-wide transcriptome, we determined the global gene-expression patterns in HPC- and PBMC-derived iPSC clones, which were then compared with those of fibroblast (FB)- and epidermal keratinocytes (HK)-derived iPSCs. Transcriptome data from non-reprogrammed HK cells were also used as somatic cell controls. The dendrogram of unsupervised one-way hierarchic clustering analysis demonstrated that blood-derived iPSCs clustered closely with other iPSCs from different cell sources and were distinct from non-reprogrammed HK cells (Figure <figr fid="F4">4a</figr>). In accordance with this observation, the global gene-expression patterns of blood-derived iPSCs were more similar to those in human ES H9 cells and HK-derived iPSCs, rather than to non-reprogrammed HPCs or PBMCs (Figure <figr fid="F4">4b</figr>). We also noted that the transcriptome of blood-derived iPSCs was more closely related to that of HK-derived iPSCs than of ES H9 cells. This subtle difference may be due to the fact that the blood- and HK-derived iPSCs were cultured under the same feeder- and serum-free conditions in our laboratory, whereas the ES H9 transcriptome data were obtained through the GSM database. Similar to HK- and FB-derived iPSC clones, expression of pluripotency-associated genes, such as <it>OCT4</it>, <it>SOX2</it>, <it>NANOG</it>, <it>LIN28</it>, and <it>TERT</it>, was markedly upregulated in HPC- and PBMC-derived iPSC clones (Figure <figr fid="F4">4c</figr>). When the top 100 differentially expressed genes between blood-derived iPSC clones and non-reprogrammed HK cells were analyzed and used to generate heatmaps, including FB- and HK-derived iPS cells, the gene-expression patterns of blood-derived iPSCs were nearly identical to those of iPSCs derived from FB and HK cells. Among the 200 differentially expressed genes (100 highest and 100 lowest), notable differences in gene-expression profiles were found only in <it>XIST </it>(with three probes, Figure <figr fid="F4">4d</figr>, upper panel), <it>USP9Y</it>, <it>EIF1AY</it>, <it>DDX3Y</it>, and <it>RPS4Y1 </it>(Figure <figr fid="F4">4d</figr>, lower panel) in two HK-derived iPSC clones (SW3 b and SW3 NI). <it>XIST </it>is on the &#215; chromosome, and <it>XIST </it>RNA plays a major role in silencing one of the pair of &#215; chromosomes in female cells <abbrgrp><abbr bid="B36">36</abbr></abbrgrp>, whereas <it>USP9Y</it>, <it>EIF1AY</it>, <it>DDX3Y</it>, and <it>RPS4Y1 </it>are Y-linked genes. Because HK and HK-derived iPSC clones were from female patients, whereas HCF1, HPC-A1, PBMC-S1, and PBMC-S2 were from male patients, the observed variations in X- and Y-linked genes between blood- and non-blood-derived iPSC clones are likely due to the difference in gender of these iPSC clones.</p>
+            <fig id="F4">
+               <title>
+                  <p>Figure 4</p>
+               </title>
+               <caption>
+                  <p>Global gene-expression profiles of blood-derived iPSCs</p>
+               </caption>
+               <text>
+                  <p><b>Global gene-expression profiles of blood-derived iPSCs</b>. <b>(a) </b>Dendrogram describing the unsupervised hierarchal clustering of primary keratinocytes (SW3 HK and SW3 HK), and keratinocyte (HK)-, fibroblast (FB)-, and HPC- and PBMC-derived iPSCs. <b>(b) </b>Genome-wide gene-expression patterns of HPC- and PBMC-derived iPSC clones were compared with those of HPCs (GSM178554), PBMCs (GSM452255), verified epidermal keratinocyte-derived iPSCs (SW4#N1, upper panels), or embryonic stem cells (H9 cells, GSM190779). <b>(c) </b>Heatmap demonstrating the relative expression levels (high, red; low, green) of pluripotency-associated genes in primary keratinocytes (HK) and iPS cells from HK, FB, or blood cell sources. The changes in gene-expression levels in blood-derived iPSCs, relative to those in HK cells, were calculated by using the microarray data from three primary HK cells and three blood-derived iPSCs, and shown as fold-increase in iPSCs. Statistically significant changes are indicated by asterisks (<it>P </it>&lt; 0.05). <b>(d) </b>Heatmap showing the top 100 differentially expressed genes between non-reprogrammed HK and blood-derived iPSC clones. Highly expressed in non-reprogrammed cells and blood-derived iPSCs are shown in upper and lower panels, respectively. Genes with notable differences in gene-expression patterns between HK/FB-derived and blood-derived iPSCs are indicated by the gene symbols on the right.</p>
+               </text>
+               <graphic file="scrt87-4" hint_layout="double"/>
+            </fig>
+         </sec>
+         <sec>
+            <st>
+               <p>Pluripotency of blood-derived iPS clones verified through <it>in vitro </it>differentiation</p>
+            </st>
+            <p>HPC- and PBMC-derived iPSC clones were assayed for the ability to spontaneously differentiate <it>in vitro </it>into cells of three embryonic germ layers through embryoid body (EB) formation. All the iPSC clones assayed formed EBs. After 7 to 10 days in suspension, EBs were transferred to a Matrigel-coated plate, and spontaneously differentiated cells were expanded under adherent conditions. Immunostaining for lineage-specific markers showed that blood-derived iPSCs differentiated into cells of three germ layers, including &#946;-III tubulin-positive ectoderm, FOXA2-positive endoderm, and CD31-positive mesoderm cells (Figure <figr fid="F5">5a</figr>).</p>
+            <fig id="F5">
+               <title>
+                  <p>Figure 5</p>
+               </title>
+               <caption>
+                  <p>Differentiation of blood-derived iPSCs <it>in vitro </it>and <it>in vivo</it></p>
+               </caption>
+               <text>
+                  <p><b>Differentiation of blood-derived iPSCs <it>in vitro </it>and <it>in vivo</it></b>. <b>(a) </b>Blood-derived iPSC clones were spontaneously differentiated through embryoid body formation, and analyzed via immunocytochemistry for lineage markers for three embryonic germ layers (endoderm FOXA2, mesoderm CD31, and ectoderm &#946;-III-tubulin). <b>(b) </b>Transplantation of iPSCs into renal capsule of SCID-beige mice resulted in teratoma formation. Tissue histology of teratomas demonstrated the cells of three germ layers including glandular, muscular, and neural rosette-like tissues. <b>(c) </b>Schematic diagram describing the stepwise-guided differentiation protocol for iPSC differentiation into islet-like cells. ActA, Activin A; CYC, cyclopamine; DE, definitive endoderm; FGF10, fibroblast growth factor 10; GLP-1, glucagon-like peptide-1; HGF1, hepatocyte growth factor-1; IGF, insulin-like growth factor-1; ILV, indolactam V; ISL, islet-like cells; PE, pancreatic endoderm; PG, primitive gut; RA, all-<it>trans </it>retinoic acid; Wnt, Wnt3a. <b>(d) </b>Through the guided differentiation protocol, HPC- or PBMC-derived iPSC clones were induced to definitive endoderm (day 5), pancreatic endoderm (day 10), and insulin-producing islet-like cells (day 24). Immunostaining demonstrated the expression of stage-specific markers in iPSC progeny at day 5 (FOXA2 and SOX17), day 10 (NKX6.1 and PDX1), and day 24 (INS). Scale bars indicate 50 &#956;m.</p>
+               </text>
+               <graphic file="scrt87-5" hint_layout="double"/>
+            </fig>
+         </sec>
+         <sec>
+            <st>
+               <p><it>In vivo </it>multilineage differentiation of blood-derived iPSCs</p>
+            </st>
+            <p>To assess the multilineage differentiation capacity of iPSCs <it>in vivo</it>, blood-derived iPSCs were transplanted under the kidney capsule of SCID-beige mice. After transplantation of 1 million cells, iPSCs formed cystic tumors within 4 weeks (Figure <figr fid="F3">3b</figr>). On gross inspection, iPSC-derived tumors demonstrated a complex cellular architecture with prominent vascularization and nonvascularized solid tissues. Histologic analysis revealed iPSC differentiation into endoderm lineages composed of glandular-like tissue, mesoderm lineages indicated by muscle-like tissue, and ectoderm lineages denoted by neural rosette-like structures (Figure <figr fid="F5">5b</figr>), which verified the multilineage differentiation capability of blood-derived iPSCs.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Generation of insulin-producing cells from iPSCs through guided differentiation</p>
+            </st>
+            <p>Next we examined the pancreatic differentiation potentials of blood-derived iPSCs. We used our guided iPSC differentiation protocol with indolactam V (ILV) and GLP-1 <abbrgrp><abbr bid="B11">11</abbr></abbrgrp>, with minor modifications in medium compositions, which are described in Materials and Methods. Blood-derived iPSC clones were first stimulated with activin A and Wnt3a to form definitive endoderm cells. Immunostaining revealed the efficient induction of definitive endoderm markers SOX17 and FOXA2 in iPSC-derived cells at day 5 of differentiation (Figure <figr fid="F3">3c</figr>). Derived definitive endoderm cells were further differentiated in DMEM/advanced RPMI medium containing FGF10, CYC, and 2% FBS (vol/vol) for 2 days, and maintained in high-glucose DMEM/advanced RPMI medium supplemented with FGF10, CYC, RA, and 1 &#215; B27 for an additional 4 days. Cells were then cultured in the presence of FGF10, ILV, GLP-1, and 1 &#215; B27 in DMEM/advanced RPMI medium for 4 days. After this step, derived cells expressed pancreatic endoderm markers, PDX1 and NKX6.1 (Figure <figr fid="F5">5d</figr>). Further differentiation of iPSC-derived pancreatic endoderm cells was performed in DMEM/advanced RPMI medium supplemented with DAPT, GLP-1, and 1x B27 for 6 days, followed by the final maturation step in the CMRL-1066 medium containing HGF, IGF-1, GLP-1, and 1 &#215; B27 for an additional 8 days. Insulin-positive iPSC progeny were sporadically detected (Figure <figr fid="F5">5d</figr>). High levels of intracellular C-peptide (230~320 pmol/L), a byproduct of proinsulin processing during insulin secretion, were also detected in the final differentiation-stage iPSC progeny with C-peptide ELISA (data not shown). Our results demonstrate successful differentiation of blood-derived iPSCs into insulin-expressing cells <it>in vitro</it>.</p>
+            <p>The iPSC technology opened the exciting possibility of generating patient-specific pluripotent stem cells without using an embryonic source, which could pave the way for personalized pluripotent stem cell therapy approaches. However, because of the complexity of the iPSC technology, which typically involves <it>ex vivo </it>gene delivery and pluripotent stem cell manipulation, multiple issues must be addressed before autologous iPSCs can contribute to novel individualized cell therapy. One of the major issues is to develop a GMP-compliant process for clinical-grade iPSC generation. For this end, we need simple, robust, and time-effective strategies for both iPSC derivation and differentiation. Currently, skin biopsy samples are typically used for iPSC derivation. However, it takes at least several days (often weeks) to process and expand skin cells. Here, we demonstrate the feasibility of iPSC derivation from GMP-grade mobilized HPCs and unmobilized PBMCs. Although our current HPC/PBMC iPSC derivation efficiencies (two to five clones per 10<sup>5 </sup>transduced cells) were similar to those of previous reports <abbrgrp><abbr bid="B27">27</abbr><abbr bid="B29">29</abbr><abbr bid="B31">31</abbr><abbr bid="B32">32</abbr></abbrgrp>, generation of iPSCs from GMP-grade, blood-derived cells represents an important step toward clinical applications of iPSCs and iPSC progeny cells. The use of HPCs and PBMCs enabled time-effective iPSC derivation, as the cells did not require long-term expansion before reprogramming. Moreover, apart from minor differences in global gene-expression profiles (Figure <figr fid="F4">4</figr>), blood-derived iPSCs were basically indistinguishable from iPSCs from other cell sources. Considering that many institutes/hospitals already have an FDA-approved GMP facility for autologous HPC processing, HPCs and PBMCs would be ideal somatic cell sources for clinical-grade iPSC derivation.</p>
+            <p>We and others have reprogrammed blood cells through genome-integrating viral vectors <abbrgrp><abbr bid="B37">37</abbr><abbr bid="B38">38</abbr></abbrgrp>. In our lentiviral vectors, the transgenes are driven by a retroviral promoter. Because retroviral promoter is strongly suppressed in pluripotent stem cells, we speculate that the expression of transgene-derived pluripotency factors is silenced in the blood-derived iPSCs. Nevertheless, the use of integrating vectors is associated with the risk of insertional mutagenesis and sustained/reactivated expression of reprogramming factors, including a protooncogene <it>c-MYC</it>. Indeed, stable c-Myc vector integration in iPSCs has been linked to increased tumorigenicity <it>in vivo </it><abbrgrp><abbr bid="B39">39</abbr></abbrgrp>. Reprogramming blood cells through non-integrating vectors or introduction of reprogramming proteins, RNAs, or miRNAs <abbrgrp><abbr bid="B32">32</abbr><abbr bid="B40">40</abbr><abbr bid="B41">41</abbr><abbr bid="B42">42</abbr><abbr bid="B43">43</abbr><abbr bid="B44">44</abbr><abbr bid="B45">45</abbr></abbrgrp> would avoid/minimize these safety concerns. We are currently testing these non-integrating reprogramming strategies for patient-specific iPSC derivation.</p>
+            <p>Although islet transplantation has shown some promising results for type 1 diabetes therapy, the shortage of matched islet replacement tissues has prevented the widespread use of this therapy in the clinic. One possible solution to overcome this shortage is to regenerate transplantable insulin-secreting cells from patient-derived iPSCs <abbrgrp><abbr bid="B9">9</abbr></abbrgrp>. We previously reported that ILV and GLP-1 facilitate differentiation of iPSCs into insulin-producing cells through a guided differentiation protocol <abbrgrp><abbr bid="B11">11</abbr></abbrgrp>. Here we demonstrate the feasibility of generating insulin-producing cells from blood-derived iPSCs. To our knowledge, this is the first report showing the generation of insulin-producing islet-like cells from blood-derived iPSCs. In contrast to skin biopsies, which involve an invasive procedure, the use of blood cells allows minimally invasive tissue procurement for iPSC derivation. Because diabetes patients often experience poor wound healing, the minimally invasive iPSC derivation from blood cell sources would be particularly advantageous for the generation of clinical-grade iPSCs from diabetes patients.</p>
+         </sec>
+      </sec>
+      <sec>
+         <st>
+            <p>Conclusions</p>
+         </st>
+         <p>Because the use of blood cells allows minimally invasive tissue procurement under GMP conditions and rapid cellular reprogramming, mobilized HPCs and unmobilized PBMCs would be ideal somatic cell sources for clinical-grade iPSC derivation, especially from diabetes patients complicated by a slow-healing wound.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Abbreviations</p>
+         </st>
+         <p>CYC: cyclopamine; EB: embryoid body; ES: embryonic stem; FB: fibroblast; FBS: fetal bovine serum; FDA: Food and Drug Administration; HCF: human cardiac fibroblast; HGF: hepatocyte growth factor; HK: human keratinocyte; HPCs: hematopoietic progenitor cells; IGF-1: insulin-like growth factor 1; ILV: indolactam V; iPSC: induced pluripotent stem cell; PBMCs: peripheral blood mononuclear cells; RA: retinoic acid.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Competing interests</p>
+         </st>
+         <p>TT, YK, and YI are currently preparing a patent application with the Mayo Clinic. The other authors have no competing interests.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Authors' contributions</p>
+         </st>
+         <p>SO, YK, and YI designed the study, carried out the time-lapse imaging, electron microscopy, and molecular genetic studies, and drafted the manuscript. ABD and DRM provided and verified the GMP-grade cells. MCD carried out the teratoma-formation assay. KAH reprogrammed blood cells and helped to draft the manuscript. TT established the guided differentiation protocol for insulin-producing cells. TS generated reprogramming vectors. All authors critically read, revised, and approved the final manuscript.</p>
+      </sec>
+   </bdy>
+   <bm>
+      <ack>
+         <sec>
+            <st>
+               <p>Acknowledgements</p>
+            </st>
+            <p>We thank Ms. Ying Li and Mr. Christopher P. Kolbert (Mayo Advanced Genomics Technology Center) and Mr. Scott I. Gamb (Mayo Electron Microscopy Core Facility) for excellent technical support for transcriptome analysis and electron microscopy. This work was supported by Mayo Foundation, Eisenberg Stem Cell Trust, Minnesota Partnership Grant, Marriott Individualized Medicine Award, Bernard and Edith Waterman Pilot Grants (to YI), Marriott Specialized Workforce Development Award in Individualized Medicine (TT), and NIH Grant DK 085516 (YK).</p>
+         </sec>
+      </ack>
+      <refgrp>
+         <bibl id="B1">
+            <title>
+               <p>Embryonic stem cells: are useful in clinic treatments?</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Aznar</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Sanchez</snm>
+                  <fnm>JL</fnm>
+               </au>
+            </aug>
+            <source>J Physiol Biochem</source>
+            <pubdate>2011</pubdate>
+            <volume>67</volume>
+            <fpage>141</fpage>
+            <lpage>144</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1007/s13105-010-0064-0</pubid>
+                  <pubid idtype="pmpid" link="fulltext">21246421</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B2">
+            <pubdate>2011</pubdate>
+            <note><url>clinicaltrials.gov</url>: <url>http://clinicaltrials.gov/ct2/show/NCT01345006</url><b>and </b><url>http://clinicaltrials.gov/ct2/show/NCT01344993.</url></note>
+         </bibl>
+         <bibl id="B3">
+            <title>
+               <p>Induction of pluripotent stem cells from adult human fibroblasts by defined factors</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Takahashi</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Tanabe</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Ohnuki</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Narita</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Ichisaka</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Tomoda</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Yamanaka</snm>
+                  <fnm>S</fnm>
+               </au>
+            </aug>
+            <source>Cell</source>
+            <pubdate>2007</pubdate>
+            <volume>131</volume>
+            <fpage>861</fpage>
+            <lpage>872</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.cell.2007.11.019</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18035408</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B4">
+            <title>
+               <p>Induction of pluripotent stem cells from mouse embryonic and adult fibroblast cultures by defined factors</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Takahashi</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Yamanaka</snm>
+                  <fnm>S</fnm>
+               </au>
+            </aug>
+            <source>Cell</source>
+            <pubdate>2006</pubdate>
+            <volume>126</volume>
+            <fpage>663</fpage>
+            <lpage>676</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.cell.2006.07.024</pubid>
+                  <pubid idtype="pmpid" link="fulltext">16904174</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B5">
+            <title>
+               <p>Reprogramming of human somatic cells to pluripotency with defined factors</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Park</snm>
+                  <fnm>IH</fnm>
+               </au>
+               <au>
+                  <snm>Zhao</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>West</snm>
+                  <fnm>JA</fnm>
+               </au>
+               <au>
+                  <snm>Yabuuchi</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Huo</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Ince</snm>
+                  <fnm>TA</fnm>
+               </au>
+               <au>
+                  <snm>Lerou</snm>
+                  <fnm>PH</fnm>
+               </au>
+               <au>
+                  <snm>Lensch</snm>
+                  <fnm>MW</fnm>
+               </au>
+               <au>
+                  <snm>Daley</snm>
+                  <fnm>GQ</fnm>
+               </au>
+            </aug>
+            <source>Nature</source>
+            <pubdate>2008</pubdate>
+            <volume>451</volume>
+            <fpage>141</fpage>
+            <lpage>146</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/nature06534</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18157115</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B6">
+            <title>
+               <p>Generation of human induced pluripotent stem cells from dermal fibroblasts</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Lowry</snm>
+                  <fnm>WE</fnm>
+               </au>
+               <au>
+                  <snm>Richter</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Yachechko</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Pyle</snm>
+                  <fnm>AD</fnm>
+               </au>
+               <au>
+                  <snm>Tchieu</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Sridharan</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Clark</snm>
+                  <fnm>AT</fnm>
+               </au>
+               <au>
+                  <snm>Plath</snm>
+                  <fnm>K</fnm>
+               </au>
+            </aug>
+            <source>Proc Natl Acad Sci USA</source>
+            <pubdate>2008</pubdate>
+            <volume>105</volume>
+            <fpage>2883</fpage>
+            <lpage>2888</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1073/pnas.0711983105</pubid>
+                  <pubid idtype="pmcid">2268554</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18287077</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B7">
+            <title>
+               <p>In vitro reprogramming of fibroblasts into a pluripotent ES-cell-like state</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Wernig</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Meissner</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Foreman</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Brambrink</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Ku</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Hochedlinger</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Bernstein</snm>
+                  <fnm>BE</fnm>
+               </au>
+               <au>
+                  <snm>Jaenisch</snm>
+                  <fnm>R</fnm>
+               </au>
+            </aug>
+            <source>Nature</source>
+            <pubdate>2007</pubdate>
+            <volume>448</volume>
+            <fpage>318</fpage>
+            <lpage>324</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/nature05944</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17554336</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B8">
+            <title>
+               <p>Induced pluripotent stem cell lines derived from human somatic cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Yu</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Vodyanik</snm>
+                  <fnm>MA</fnm>
+               </au>
+               <au>
+                  <snm>Smuga-Otto</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Antosiewicz-Bourget</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Frane</snm>
+                  <fnm>JL</fnm>
+               </au>
+               <au>
+                  <snm>Tian</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Nie</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Jonsdottir</snm>
+                  <fnm>GA</fnm>
+               </au>
+               <au>
+                  <snm>Ruotti</snm>
+                  <fnm>V</fnm>
+               </au>
+               <au>
+                  <snm>Stewart</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Slukvin</snm>
+                  <fnm>II</fnm>
+               </au>
+               <au>
+                  <snm>Thomson</snm>
+                  <fnm>JA</fnm>
+               </au>
+            </aug>
+            <source>Science</source>
+            <pubdate>2007</pubdate>
+            <volume>318</volume>
+            <fpage>1917</fpage>
+            <lpage>1920</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1126/science.1151526</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18029452</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B9">
+            <title>
+               <p>Generation of pluripotent stem cells from patients with type 1 diabetes</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Maehr</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Chen</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Snitow</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Ludwig</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Yagasaki</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Goland</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Leibel</snm>
+                  <fnm>RL</fnm>
+               </au>
+               <au>
+                  <snm>Melton</snm>
+                  <fnm>DA</fnm>
+               </au>
+            </aug>
+            <source>Proc Natl Acad Sci USA</source>
+            <pubdate>2009</pubdate>
+            <volume>106</volume>
+            <fpage>15768</fpage>
+            <lpage>15773</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1073/pnas.0906894106</pubid>
+                  <pubid idtype="pmcid">2735559</pubid>
+                  <pubid idtype="pmpid" link="fulltext">19720998</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B10">
+            <title>
+               <p>Generation of insulin-secreting islet-like clusters from human skin fibroblasts</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Tateishi</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>He</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Taranova</snm>
+                  <fnm>O</fnm>
+               </au>
+               <au>
+                  <snm>Liang</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>D'Alessio</snm>
+                  <fnm>AC</fnm>
+               </au>
+               <au>
+                  <snm>Zhang</snm>
+                  <fnm>Y</fnm>
+               </au>
+            </aug>
+            <source>J Biol Chem</source>
+            <pubdate>2008</pubdate>
+            <volume>283</volume>
+            <fpage>31601</fpage>
+            <lpage>31607</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1074/jbc.M806597200</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18782754</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B11">
+            <title>
+               <p>Indolactam V/GLP-1-mediated differentiation of human iPS cells into glucose-responsive insulin-secreting progeny</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Thatava</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Nelson</snm>
+                  <fnm>TJ</fnm>
+               </au>
+               <au>
+                  <snm>Edukulla</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Sakuma</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Ohmine</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Tonne</snm>
+                  <fnm>JM</fnm>
+               </au>
+               <au>
+                  <snm>Yamada</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Kudva</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Terzic</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Ikeda</snm>
+                  <fnm>Y</fnm>
+               </au>
+            </aug>
+            <source>Gene Ther</source>
+            <pubdate>2011</pubdate>
+            <volume>18</volume>
+            <fpage>283</fpage>
+            <lpage>293</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/gt.2010.145</pubid>
+                  <pubid idtype="pmcid">3060028</pubid>
+                  <pubid idtype="pmpid" link="fulltext">21048796</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B12">
+            <title>
+               <p>Induced pluripotent reprogramming from promiscuous human stemness related factors</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Nelson</snm>
+                  <fnm>TJ</fnm>
+               </au>
+               <au>
+                  <snm>Martinez-Fernandez</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Yamada</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Mael</snm>
+                  <fnm>AA</fnm>
+               </au>
+               <au>
+                  <snm>Terzic</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Ikeda</snm>
+                  <fnm>Y</fnm>
+               </au>
+            </aug>
+            <source>Clin Transl Sci</source>
+            <pubdate>2009</pubdate>
+            <volume>2</volume>
+            <fpage>118</fpage>
+            <lpage>126</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1111/j.1752-8062.2009.00091.x</pubid>
+                  <pubid idtype="pmcid">2745150</pubid>
+                  <pubid idtype="pmpid" link="fulltext">20161095</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B13">
+            <title>
+               <p>Reprogrammed mouse fibroblasts differentiate into cells of the cardiovascular and hematopoietic lineages</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Schenke-Layland</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Rhodes</snm>
+                  <fnm>KE</fnm>
+               </au>
+               <au>
+                  <snm>Angelis</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Butylkova</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Heydarkhan-Hagvall</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Gekas</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Zhang</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Goldhaber</snm>
+                  <fnm>JI</fnm>
+               </au>
+               <au>
+                  <snm>Mikkola</snm>
+                  <fnm>HK</fnm>
+               </au>
+               <au>
+                  <snm>Plath</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Maclellan</snm>
+                  <fnm>WR</fnm>
+               </au>
+            </aug>
+            <source>Stem Cells</source>
+            <pubdate>2008</pubdate>
+            <volume>26</volume>
+            <fpage>1537</fpage>
+            <lpage>1546</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1634/stemcells.2008-0033</pubid>
+                  <pubid idtype="pmcid">2873147</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18450826</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B14">
+            <title>
+               <p>Repair of acute myocardial infarction by human stemness factors induced pluripotent stem cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Nelson</snm>
+                  <fnm>TJ</fnm>
+               </au>
+               <au>
+                  <snm>Martinez-Fernandez</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Yamada</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Perez-Terzic</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Ikeda</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Terzic</snm>
+                  <fnm>A</fnm>
+               </au>
+            </aug>
+            <source>Circulation</source>
+            <pubdate>2009</pubdate>
+            <volume>120</volume>
+            <fpage>408</fpage>
+            <lpage>416</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1161/CIRCULATIONAHA.109.865154</pubid>
+                  <pubid idtype="pmcid">2768575</pubid>
+                  <pubid idtype="pmpid" link="fulltext">19620500</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B15">
+            <title>
+               <p>iPS programmed without c-MYC yield proficient cardiogenesis for functional heart chimerism</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Martinez-Fernandez</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Nelson</snm>
+                  <fnm>TJ</fnm>
+               </au>
+               <au>
+                  <snm>Yamada</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Reyes</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Alekseev</snm>
+                  <fnm>AE</fnm>
+               </au>
+               <au>
+                  <snm>Perez-Terzic</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Ikeda</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Terzic</snm>
+                  <fnm>A</fnm>
+               </au>
+            </aug>
+            <source>Circ Res</source>
+            <pubdate>2009</pubdate>
+            <volume>105</volume>
+            <fpage>648</fpage>
+            <lpage>656</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1161/CIRCRESAHA.109.203109</pubid>
+                  <pubid idtype="pmcid">2785796</pubid>
+                  <pubid idtype="pmpid" link="fulltext">19696409</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B16">
+            <title>
+               <p>Generation of pluripotent stem cells from adult mouse liver and stomach cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Aoi</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Yae</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Nakagawa</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Ichisaka</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Okita</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Takahashi</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Chiba</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Yamanaka</snm>
+                  <fnm>S</fnm>
+               </au>
+            </aug>
+            <source>Science</source>
+            <pubdate>2008</pubdate>
+            <volume>321</volume>
+            <fpage>699</fpage>
+            <lpage>702</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1126/science.1154884</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18276851</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B17">
+            <title>
+               <p>Isolation and cultivation of human keratinocytes from skin or plucked hair for the generation of induced pluripotent stem cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Aasen</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Belmonte</snm>
+                  <fnm>JC</fnm>
+               </au>
+            </aug>
+            <source>Nat Protoc</source>
+            <pubdate>2010</pubdate>
+            <volume>5</volume>
+            <fpage>371</fpage>
+            <lpage>382</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/nprot.2009.241</pubid>
+                  <pubid idtype="pmpid" link="fulltext">20134422</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B18">
+            <title>
+               <p>Efficient and rapid generation of induced pluripotent stem cells from human keratinocytes</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Aasen</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Raya</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Barrero</snm>
+                  <fnm>MJ</fnm>
+               </au>
+               <au>
+                  <snm>Garreta</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Consiglio</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Gonzalez</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Vassena</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Bili&#263;</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Pekarik</snm>
+                  <fnm>V</fnm>
+               </au>
+               <au>
+                  <snm>Tiscornia</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Edel</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Bou&#233;</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Izpis&#250;a Belmonte</snm>
+                  <fnm>JC</fnm>
+               </au>
+            </aug>
+            <source>Nat Biotechnol</source>
+            <pubdate>2008</pubdate>
+            <volume>26</volume>
+            <fpage>1276</fpage>
+            <lpage>1284</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/nbt.1503</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18931654</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B19">
+            <title>
+               <p>Reprogramming of human peripheral blood cells to induced pluripotent stem cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Staerk</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Dawlaty</snm>
+                  <fnm>MM</fnm>
+               </au>
+               <au>
+                  <snm>Gao</snm>
+                  <fnm>Q</fnm>
+               </au>
+               <au>
+                  <snm>Maetzel</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Hanna</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Sommer</snm>
+                  <fnm>CA</fnm>
+               </au>
+               <au>
+                  <snm>Mostoslavsky</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Jaenisch</snm>
+                  <fnm>R</fnm>
+               </au>
+            </aug>
+            <source>Cell Stem Cell</source>
+            <pubdate>2010</pubdate>
+            <volume>7</volume>
+            <fpage>20</fpage>
+            <lpage>24</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.stem.2010.06.002</pubid>
+                  <pubid idtype="pmcid">2917234</pubid>
+                  <pubid idtype="pmpid" link="fulltext">20621045</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B20">
+            <title>
+               <p>Efficient generation of transgene-free induced pluripotent stem cells from normal and neoplastic bone marrow and cord blood mononuclear cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Hu</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Yu</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Suknuntha</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Tian</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Montgomery</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Choi</snm>
+                  <fnm>KD</fnm>
+               </au>
+               <au>
+                  <snm>Stewart</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Thomson</snm>
+                  <fnm>JA</fnm>
+               </au>
+               <au>
+                  <snm>Slukvin</snm>
+                  <fnm/>
+                  <suf>II</suf>
+               </au>
+            </aug>
+            <source>Blood</source>
+            <pubdate>2011</pubdate>
+            <volume>117</volume>
+            <fpage>e109</fpage>
+            <lpage>e119</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1182/blood-2010-07-298331</pubid>
+                  <pubid idtype="pmpid" link="fulltext">21296996</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B21">
+            <title>
+               <p>Generation of induced pluripotent stem cells from human cord blood</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Haase</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Olmer</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Schwanke</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Wunderlich</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Merkert</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Hess</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Zweigerdt</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Gruh</snm>
+                  <fnm>I</fnm>
+               </au>
+               <au>
+                  <snm>Meyer</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Wagner</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Maier</snm>
+                  <fnm>LS</fnm>
+               </au>
+               <au>
+                  <snm>Han</snm>
+                  <fnm>DW</fnm>
+               </au>
+               <au>
+                  <snm>Glage</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Miller</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Fischer</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Sch&#246;ler</snm>
+                  <fnm>HR</fnm>
+               </au>
+               <au>
+                  <snm>Martin</snm>
+                  <fnm>U</fnm>
+               </au>
+            </aug>
+            <source>Cell Stem Cell</source>
+            <pubdate>2009</pubdate>
+            <volume>5</volume>
+            <fpage>434</fpage>
+            <lpage>441</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.stem.2009.08.021</pubid>
+                  <pubid idtype="pmpid" link="fulltext">19796623</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B22">
+            <title>
+               <p>Effective generation of iPS cells from CD34+ cord blood cells by inhibition of p53</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Takenaka</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Nishishita</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Takada</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Jakt</snm>
+                  <fnm>LM</fnm>
+               </au>
+               <au>
+                  <snm>Kawamata</snm>
+                  <fnm>S</fnm>
+               </au>
+            </aug>
+            <source>Exp Hematol</source>
+            <pubdate>2010</pubdate>
+            <volume>38</volume>
+            <fpage>154</fpage>
+            <lpage>162</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.exphem.2009.11.003</pubid>
+                  <pubid idtype="pmpid" link="fulltext">19922768</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B23">
+            <title>
+               <p>Direct generation of induced pluripotent stem cells from human nonmobilized blood</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Kunisato</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Wakatsuki</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Shinba</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Ota</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Ishida</snm>
+                  <fnm>I</fnm>
+               </au>
+               <au>
+                  <snm>Nagao</snm>
+                  <fnm>K</fnm>
+               </au>
+            </aug>
+            <source>Stem Cells Dev</source>
+            <pubdate>2011</pubdate>
+            <volume>20</volume>
+            <fpage>159</fpage>
+            <lpage>168</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1089/scd.2010.0063</pubid>
+                  <pubid idtype="pmpid" link="fulltext">20497033</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B24">
+            <title>
+               <p>Efficient human iPS cell derivation by a non-integrating plasmid from blood cells with unique epigenetic and gene expression signatures</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Chou</snm>
+                  <fnm>BK</fnm>
+               </au>
+               <au>
+                  <snm>Mali</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Huang</snm>
+                  <fnm>X</fnm>
+               </au>
+               <au>
+                  <snm>Ye</snm>
+                  <fnm>Z</fnm>
+               </au>
+               <au>
+                  <snm>Dowey</snm>
+                  <fnm>SN</fnm>
+               </au>
+               <au>
+                  <snm>Resar</snm>
+                  <fnm>LM</fnm>
+               </au>
+               <au>
+                  <snm>Zou</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Zhang</snm>
+                  <fnm>YA</fnm>
+               </au>
+               <au>
+                  <snm>Tong</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Cheng</snm>
+                  <fnm>L</fnm>
+               </au>
+            </aug>
+            <source>Cell Res</source>
+            <pubdate>2011</pubdate>
+            <volume>21</volume>
+            <fpage>518</fpage>
+            <lpage>529</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/cr.2011.12</pubid>
+                  <pubid idtype="pmpid" link="fulltext">21243013</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B25">
+            <title>
+               <p>Successful differentiation to T cells, but unsuccessful B-cell generation, from B-cell-derived induced pluripotent stem cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Wada</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Kojo</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Kusama</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Okamoto</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Sato</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Ishizuka</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Seino</snm>
+                  <fnm>K</fnm>
+               </au>
+            </aug>
+            <source>Int Immunol</source>
+            <pubdate>2011</pubdate>
+            <volume>23</volume>
+            <fpage>65</fpage>
+            <lpage>74</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1093/intimm/dxq458</pubid>
+                  <pubid idtype="pmpid" link="fulltext">21135032</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B26">
+            <title>
+               <p>Reprogramming of EBV-immortalized B-lymphocyte cell lines into induced pluripotent stem cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Choi</snm>
+                  <fnm>SM</fnm>
+               </au>
+               <au>
+                  <snm>Liu</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Chaudhari</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Kim</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Cheng</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Feng</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Sharkis</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Ye</snm>
+                  <fnm>Z</fnm>
+               </au>
+               <au>
+                  <snm>Jang</snm>
+                  <fnm>YY</fnm>
+               </au>
+            </aug>
+            <source>Blood</source>
+            <pubdate>2011</pubdate>
+            <volume>118</volume>
+            <fpage>1801</fpage>
+            <lpage>1805</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1182/blood-2011-03-340620</pubid>
+                  <pubid idtype="pmpid" link="fulltext">21628406</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B27">
+            <title>
+               <p>Direct reprogramming of terminally differentiated mature B lymphocytes to pluripotency</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Hanna</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Markoulaki</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Schorderet</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Carey</snm>
+                  <fnm>BW</fnm>
+               </au>
+               <au>
+                  <snm>Beard</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Wernig</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Creyghton</snm>
+                  <fnm>MP</fnm>
+               </au>
+               <au>
+                  <snm>Steine</snm>
+                  <fnm>EJ</fnm>
+               </au>
+               <au>
+                  <snm>Cassady</snm>
+                  <fnm>JP</fnm>
+               </au>
+               <au>
+                  <snm>Foreman</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Lengner</snm>
+                  <fnm>CJ</fnm>
+               </au>
+               <au>
+                  <snm>Dausman</snm>
+                  <fnm>JA</fnm>
+               </au>
+               <au>
+                  <snm>Jaenisch</snm>
+                  <fnm>R</fnm>
+               </au>
+            </aug>
+            <source>Cell</source>
+            <pubdate>2008</pubdate>
+            <volume>133</volume>
+            <fpage>250</fpage>
+            <lpage>264</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.cell.2008.03.028</pubid>
+                  <pubid idtype="pmcid">2615249</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18423197</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B28">
+            <title>
+               <p>Human lymphoblastoid B-cell lines reprogrammed to EBV-free induced pluripotent stem cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Rajesh</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Dickerson</snm>
+                  <fnm>SJ</fnm>
+               </au>
+               <au>
+                  <snm>Yu</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Brown</snm>
+                  <fnm>ME</fnm>
+               </au>
+               <au>
+                  <snm>Thomson</snm>
+                  <fnm>JA</fnm>
+               </au>
+               <au>
+                  <snm>Seay</snm>
+                  <fnm>NJ</fnm>
+               </au>
+            </aug>
+            <source>Blood</source>
+            <pubdate>2011</pubdate>
+            <volume>118</volume>
+            <fpage>1797</fpage>
+            <lpage>1800</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1182/blood-2011-01-332064</pubid>
+                  <pubid idtype="pmpid" link="fulltext">21708888</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B29">
+            <title>
+               <p>Derivation of induced pluripotent stem cells from human peripheral blood T lymphocytes</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Brown</snm>
+                  <fnm>ME</fnm>
+               </au>
+               <au>
+                  <snm>Rondon</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Rajesh</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Mack</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Lewis</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Feng</snm>
+                  <fnm>X</fnm>
+               </au>
+               <au>
+                  <snm>Zitur</snm>
+                  <fnm>LJ</fnm>
+               </au>
+               <au>
+                  <snm>Learish</snm>
+                  <fnm>RD</fnm>
+               </au>
+               <au>
+                  <snm>Nuwaysir</snm>
+                  <fnm>EF</fnm>
+               </au>
+            </aug>
+            <source>PLoS One</source>
+            <pubdate>2010</pubdate>
+            <volume>5</volume>
+            <fpage>e11373</fpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1371/journal.pone.0011373</pubid>
+                  <pubid idtype="pmcid">2894062</pubid>
+                  <pubid idtype="pmpid" link="fulltext">20617191</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B30">
+            <title>
+               <p>Generation of induced pluripotent stem cells from human blood</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Loh</snm>
+                  <fnm>YH</fnm>
+               </au>
+               <au>
+                  <snm>Agarwal</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Park</snm>
+                  <fnm>IH</fnm>
+               </au>
+               <au>
+                  <snm>Urbach</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Huo</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Heffner</snm>
+                  <fnm>GC</fnm>
+               </au>
+               <au>
+                  <snm>Kim</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Miller</snm>
+                  <fnm>JD</fnm>
+               </au>
+               <au>
+                  <snm>Ng</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Daley</snm>
+                  <fnm>GQ</fnm>
+               </au>
+            </aug>
+            <source>Blood</source>
+            <pubdate>2009</pubdate>
+            <volume>113</volume>
+            <fpage>5476</fpage>
+            <lpage>5479</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1182/blood-2009-02-204800</pubid>
+                  <pubid idtype="pmcid">2689048</pubid>
+                  <pubid idtype="pmpid" link="fulltext">19299331</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B31">
+            <title>
+               <p>Reprogramming of T cells from human peripheral blood</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Loh</snm>
+                  <fnm>YH</fnm>
+               </au>
+               <au>
+                  <snm>Hartung</snm>
+                  <fnm>O</fnm>
+               </au>
+               <au>
+                  <snm>Li</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Guo</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Sahalie</snm>
+                  <fnm>JM</fnm>
+               </au>
+               <au>
+                  <snm>Manos</snm>
+                  <fnm>PD</fnm>
+               </au>
+               <au>
+                  <snm>Urbach</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Heffner</snm>
+                  <fnm>GC</fnm>
+               </au>
+               <au>
+                  <snm>Grskovic</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Vigneault</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Lensch</snm>
+                  <fnm>MW</fnm>
+               </au>
+               <au>
+                  <snm>Park</snm>
+                  <fnm>IH</fnm>
+               </au>
+               <au>
+                  <snm>Agarwal</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Church</snm>
+                  <fnm>GM</fnm>
+               </au>
+               <au>
+                  <snm>Collins</snm>
+                  <fnm>JJ</fnm>
+               </au>
+               <au>
+                  <snm>Irion</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Daley</snm>
+                  <fnm>GQ</fnm>
+               </au>
+            </aug>
+            <source>Cell Stem Cell</source>
+            <pubdate>2010</pubdate>
+            <volume>7</volume>
+            <fpage>15</fpage>
+            <lpage>19</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.stem.2010.06.004</pubid>
+                  <pubid idtype="pmcid">2913590</pubid>
+                  <pubid idtype="pmpid" link="fulltext">20621044</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B32">
+            <title>
+               <p>Generation of induced pluripotent stem cells from human terminally differentiated circulating T cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Seki</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Yuasa</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Oda</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Egashira</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Yae</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Kusumoto</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Nakata</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Tohyama</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Hashimoto</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Kodaira</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Okada</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Seimiya</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Fusaki</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Hasegawa</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Fukuda</snm>
+                  <fnm>K</fnm>
+               </au>
+            </aug>
+            <source>Cell Stem Cell</source>
+            <pubdate>2010</pubdate>
+            <volume>7</volume>
+            <fpage>11</fpage>
+            <lpage>14</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.stem.2010.06.003</pubid>
+                  <pubid idtype="pmpid" link="fulltext">20621043</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B33">
+            <title>
+               <p>Cyclosporine increases human immunodeficiency virus type 1 vector transduction of primary mouse cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Noser</snm>
+                  <fnm>JA</fnm>
+               </au>
+               <au>
+                  <snm>Towers</snm>
+                  <fnm>GJ</fnm>
+               </au>
+               <au>
+                  <snm>Sakuma</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Dumont</snm>
+                  <fnm>JM</fnm>
+               </au>
+               <au>
+                  <snm>Collins</snm>
+                  <fnm>MK</fnm>
+               </au>
+               <au>
+                  <snm>Ikeda</snm>
+                  <fnm>Y</fnm>
+               </au>
+            </aug>
+            <source>J Virol</source>
+            <pubdate>2006</pubdate>
+            <volume>80</volume>
+            <fpage>7769</fpage>
+            <lpage>7774</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1128/JVI.02427-05</pubid>
+                  <pubid idtype="pmcid">1563702</pubid>
+                  <pubid idtype="pmpid" link="fulltext">16840358</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B34">
+            <title>
+               <p>Postentry restriction to human immunodeficiency virus-based vector transduction in human monocytes</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Neil</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Martin</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Ikeda</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Collins</snm>
+                  <fnm>M</fnm>
+               </au>
+            </aug>
+            <source>J Virol</source>
+            <pubdate>2001</pubdate>
+            <volume>75</volume>
+            <fpage>5448</fpage>
+            <lpage>5456</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1128/JVI.75.12.5448-5456.2001</pubid>
+                  <pubid idtype="pmcid">114256</pubid>
+                  <pubid idtype="pmpid" link="fulltext">11356951</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B35">
+            <title>
+               <p>Reprogrammed keratinocytes from elderly type 2 diabetes patients suppress senescence genes to acquire induced pluripotency</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Ohmine</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Squillace</snm>
+                  <fnm>KA</fnm>
+               </au>
+               <au>
+                  <snm>Hartjes</snm>
+                  <fnm>KA</fnm>
+               </au>
+               <au>
+                  <snm>Deeds</snm>
+                  <fnm>MC</fnm>
+               </au>
+               <au>
+                  <snm>Armstrong</snm>
+                  <fnm>AS</fnm>
+               </au>
+               <au>
+                  <snm>Thatava</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Sakuma</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Terzic</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Kudva</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Ikeda</snm>
+                  <fnm>Y</fnm>
+               </au>
+            </aug>
+            <source>submitted for publication</source>
+         </bibl>
+         <bibl id="B36">
+            <title>
+               <p>No-nonsense functions for long noncoding RNAs</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Nagano</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Fraser</snm>
+                  <fnm>P</fnm>
+               </au>
+            </aug>
+            <source>Cell</source>
+            <pubdate>2011</pubdate>
+            <volume>145</volume>
+            <fpage>178</fpage>
+            <lpage>181</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.cell.2011.03.014</pubid>
+                  <pubid idtype="pmpid" link="fulltext">21496640</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B37">
+            <title>
+               <p>Generation of induced pluripotent stem cells from human cord blood using OCT4 and SOX2</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Giorgetti</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Montserrat</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Aasen</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Gonzalez</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Rodr&#237;guez-Piz&#224;</snm>
+                  <fnm>I</fnm>
+               </au>
+               <au>
+                  <snm>Vassena</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Raya</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Bou&#233;</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Barrero</snm>
+                  <fnm>MJ</fnm>
+               </au>
+               <au>
+                  <snm>Corbella</snm>
+                  <fnm>BA</fnm>
+               </au>
+               <au>
+                  <snm>Torrabadella</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Veiga</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Izpisua Belmonte</snm>
+                  <fnm>JC</fnm>
+               </au>
+            </aug>
+            <source>Cell Stem Cell</source>
+            <pubdate>2009</pubdate>
+            <volume>5</volume>
+            <fpage>353</fpage>
+            <lpage>357</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.stem.2009.09.008</pubid>
+                  <pubid idtype="pmcid">2779776</pubid>
+                  <pubid idtype="pmpid" link="fulltext">19796614</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B38">
+            <title>
+               <p>Human-induced pluripotent stem cells from blood cells of healthy donors and patients with acquired blood disorders</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Ye</snm>
+                  <fnm>Z</fnm>
+               </au>
+               <au>
+                  <snm>Zhan</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Mali</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Dowey</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Williams</snm>
+                  <fnm>DM</fnm>
+               </au>
+               <au>
+                  <snm>Jang</snm>
+                  <fnm>YY</fnm>
+               </au>
+               <au>
+                  <snm>Dang</snm>
+                  <fnm>CV</fnm>
+               </au>
+               <au>
+                  <snm>Spivak</snm>
+                  <fnm>JL</fnm>
+               </au>
+               <au>
+                  <snm>Moliterno</snm>
+                  <fnm>AR</fnm>
+               </au>
+               <au>
+                  <snm>Cheng</snm>
+                  <fnm>L</fnm>
+               </au>
+            </aug>
+            <source>Blood</source>
+            <pubdate>2009</pubdate>
+            <volume>114</volume>
+            <fpage>5473</fpage>
+            <lpage>5480</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1182/blood-2009-04-217406</pubid>
+                  <pubid idtype="pmcid">2798863</pubid>
+                  <pubid idtype="pmpid" link="fulltext">19797525</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B39">
+            <title>
+               <p>Generation of germline-competent induced pluripotent stem cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Okita</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Ichisaka</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Yamanaka</snm>
+                  <fnm>S</fnm>
+               </au>
+            </aug>
+            <source>Nature</source>
+            <pubdate>2007</pubdate>
+            <volume>448</volume>
+            <fpage>313</fpage>
+            <lpage>317</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/nature05934</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17554338</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B40">
+            <title>
+               <p>Virus-free induction of pluripotency and subsequent excision of reprogramming factors</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Kaji</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Norrby</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Paca</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Mileikovsky</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Mohseni</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Woltjen</snm>
+                  <fnm>K</fnm>
+               </au>
+            </aug>
+            <source>Nature</source>
+            <pubdate>2009</pubdate>
+            <volume>458</volume>
+            <fpage>771</fpage>
+            <lpage>775</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/nature07864</pubid>
+                  <pubid idtype="pmcid">2667910</pubid>
+                  <pubid idtype="pmpid" link="fulltext">19252477</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B41">
+            <title>
+               <p>Human induced pluripotent stem cells free of vector and transgene sequences</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Yu</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Hu</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Smuga-Otto</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Tian</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Stewart</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Slukvin</snm>
+                  <fnm>II</fnm>
+               </au>
+               <au>
+                  <snm>Thomson</snm>
+                  <fnm>JA</fnm>
+               </au>
+            </aug>
+            <source>Science</source>
+            <pubdate>2009</pubdate>
+            <volume>324</volume>
+            <fpage>797</fpage>
+            <lpage>801</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1126/science.1172482</pubid>
+                  <pubid idtype="pmcid">2758053</pubid>
+                  <pubid idtype="pmpid" link="fulltext">19325077</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B42">
+            <title>
+               <p>Emerging potential of transposons for gene therapy and generation of induced pluripotent stem cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>VandenDriessche</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Ivics</snm>
+                  <fnm>Z</fnm>
+               </au>
+               <au>
+                  <snm>Izsvak</snm>
+                  <fnm>Z</fnm>
+               </au>
+               <au>
+                  <snm>Chuah</snm>
+                  <fnm>MK</fnm>
+               </au>
+            </aug>
+            <source>Blood</source>
+            <pubdate>2009</pubdate>
+            <volume>114</volume>
+            <fpage>1461</fpage>
+            <lpage>1468</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1182/blood-2009-04-210427</pubid>
+                  <pubid idtype="pmpid" link="fulltext">19471016</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B43">
+            <title>
+               <p>piggyBac transposition reprograms fibroblasts to induced pluripotent stem cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Woltjen</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Michael</snm>
+                  <fnm>IP</fnm>
+               </au>
+               <au>
+                  <snm>Mohseni</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Desai</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Mileikovsky</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>H&#228;m&#228;l&#228;inen</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Cowling</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Wang</snm>
+                  <fnm>W</fnm>
+               </au>
+               <au>
+                  <snm>Liu</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Gertsenstein</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Kaji</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Sung</snm>
+                  <fnm>HK</fnm>
+               </au>
+               <au>
+                  <snm>Nagy</snm>
+                  <fnm>A</fnm>
+               </au>
+            </aug>
+            <source>Nature</source>
+            <pubdate>2009</pubdate>
+            <volume>458</volume>
+            <fpage>766</fpage>
+            <lpage>770</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/nature07863</pubid>
+                  <pubid idtype="pmpid" link="fulltext">19252478</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B44">
+            <title>
+               <p>Multiple targets of miR-302 and miR-372 promote reprogramming of human fibroblasts to induced pluripotent stem cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Subramanyam</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Lamouille</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Judson</snm>
+                  <fnm>RL</fnm>
+               </au>
+               <au>
+                  <snm>Liu</snm>
+                  <fnm>JY</fnm>
+               </au>
+               <au>
+                  <snm>Bucay</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Derynck</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Blelloch</snm>
+                  <fnm>R</fnm>
+               </au>
+            </aug>
+            <source>Nat Biotechnol</source>
+            <pubdate>2011</pubdate>
+            <volume>29</volume>
+            <fpage>443</fpage>
+            <lpage>448</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/nbt.1862</pubid>
+                  <pubid idtype="pmpid" link="fulltext">21490602</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B45">
+            <title>
+               <p>Highly efficient miRNA-mediated reprogramming of mouse and human somatic cells to pluripotency</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Anokye-Danso</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Trivedi</snm>
+                  <fnm>CM</fnm>
+               </au>
+               <au>
+                  <snm>Juhr</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Gupta</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Cui</snm>
+                  <fnm>Z</fnm>
+               </au>
+               <au>
+                  <snm>Tian</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Zhang</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Yang</snm>
+                  <fnm>W</fnm>
+               </au>
+               <au>
+                  <snm>Gruber</snm>
+                  <fnm>PJ</fnm>
+               </au>
+               <au>
+                  <snm>Epstein</snm>
+                  <fnm>JA</fnm>
+               </au>
+               <au>
+                  <snm>Morrisey</snm>
+                  <fnm>EE</fnm>
+               </au>
+            </aug>
+            <source>Cell Stem Cell</source>
+            <pubdate>2011</pubdate>
+            <volume>8</volume>
+            <fpage>376</fpage>
+            <lpage>388</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.stem.2011.03.001</pubid>
+                  <pubid idtype="pmpid" link="fulltext">21474102</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+      </refgrp>
+   </bm>
+</art>

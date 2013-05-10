@@ -1,0 +1,2519 @@
+<!DOCTYPE art SYSTEM "article.dtd">
+<art>
+   <ui>scrt57</ui>
+   <ji>1757-6512</ji>
+   <fm>
+      <dochead>Research</dochead>
+      <bibl>
+         <title>
+            <p>Stimulation of Activin A/Nodal signaling is insufficient to induce definitive endoderm formation of cord blood-derived unrestricted somatic stem cells</p>
+         </title>
+         <aug>
+            <au ca="yes" id="A1">
+               <snm>Filby</snm>
+               <mi>E</mi>
+               <fnm>Caitlin</fnm>
+               <insr iid="I1"/>
+               <insr iid="I2"/>
+               <insr iid="I3"/>
+               <email>filby@wehi.EDU.AU</email>
+            </au>
+            <au id="A2">
+               <snm>Williamson</snm>
+               <fnm>Robert</fnm>
+               <insr iid="I1"/>
+               <insr iid="I2"/>
+               <email>r.williamson@unimelb.edu.au</email>
+            </au>
+            <au id="A3">
+               <snm>van Kooy</snm>
+               <fnm>Peter</fnm>
+               <insr iid="I4"/>
+               <email>pvankooy@gmail.com</email>
+            </au>
+            <au id="A4">
+               <snm>P&#233;bay</snm>
+               <fnm>Alice</fnm>
+               <insr iid="I5"/>
+               <email>apebay@unimelb.edu.au</email>
+            </au>
+            <au id="A5">
+               <snm>Dottori</snm>
+               <fnm>Mirella</fnm>
+               <insr iid="I5"/>
+               <email>mdottori@unimelb.edu.au</email>
+            </au>
+            <au id="A6">
+               <snm>Elwood</snm>
+               <mi>J</mi>
+               <fnm>Ngaire</fnm>
+               <insr iid="I1"/>
+               <insr iid="I2"/>
+               <email>ngaire.elwood@mcri.edu.au</email>
+            </au>
+            <au id="A7">
+               <snm>Zaibak</snm>
+               <fnm>Faten</fnm>
+               <insr iid="I1"/>
+               <insr iid="I2"/>
+               <email>fzaibak@unimelb.edu.au</email>
+            </au>
+         </aug>
+         <insg>
+            <ins id="I1">
+               <p>Early Development and Disease, Murdoch Childrens' Research Institute, Royal Children's Hospital, Flemington Rd, Parkville, VIC 3052, Australia</p>
+            </ins>
+            <ins id="I2">
+               <p>Department of Paediatrics, University of Melbourne, Grattan Street, Parkville, VIC 3052, Australia</p>
+            </ins>
+            <ins id="I3">
+               <p>Stem Cells and Cancer Division, Walter and Eliza Hall Institute of Medical Research, 1G Royal Parade, Parkville, VIC 3052, Australia</p>
+            </ins>
+            <ins id="I4">
+               <p>Department of Pathology, University of Melbourne, Grattan Street, Parkville, VIC 3052, Australia</p>
+            </ins>
+            <ins id="I5">
+               <p>Centre for Neuroscience and Department of Pharmacology, University of Melbourne, Grattan Street, Parkville, VIC 3052, Australia</p>
+            </ins>
+         </insg>
+         <source>Stem Cell Research &amp; Therapy</source>
+         <issn>1757-6512</issn>
+         <pubdate>2011</pubdate>
+         <volume>2</volume>
+         <issue>2</issue>
+         <fpage>16</fpage>
+         <url>http://stemcellres.com/content/2/2/16</url>
+         <xrefbib>
+            <pubidlist>
+               <pubid idtype="doi">10.1186/scrt57</pubid>
+               <pubid idtype="pmpid">21463501</pubid>
+            </pubidlist>
+         </xrefbib>
+      </bibl>
+      <history>
+         <rec>
+            <date>
+               <day>15</day>
+               <month>4</month>
+               <year>2010</year>
+            </date>
+         </rec>
+         <acc>
+            <date>
+               <day>4</day>
+               <month>4</month>
+               <year>2011</year>
+            </date>
+         </acc>
+         <pub>
+            <date>
+               <day>4</day>
+               <month>4</month>
+               <year>2011</year>
+            </date>
+         </pub>
+      </history>
+      <cpyrt>
+         <year>2011</year>
+         <collab>Filby et al.; licensee BioMed Central Ltd.</collab>
+         <note>This is an open access article distributed under the terms of the Creative Commons Attribution License (<url>http://creativecommons.org/licenses/by/2.0</url>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</note>
+      </cpyrt>
+      <abs>
+         <sec>
+            <st>
+               <p>Abstract</p>
+            </st>
+            <sec>
+               <st>
+                  <p>Introduction</p>
+               </st>
+               <p>Unrestricted somatic stem cells (USSC) derived from umbilical cord blood are an attractive alternative to human embryonic stem cells (hESC) for cellular therapy. USSC are capable of forming cells representative of all three germ line layers. The aim of this study was to determine the potential of USSC to form definitive endoderm following induction with Activin A, a protein known to specify definitive endoderm formation of hESC.</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>Methods</p>
+               </st>
+               <p>USSC were cultured for (1) three days with or without 100 ng/ml Activin A in either serum-free, low-serum or serum-containing media, (2) three days with or without 100 ng/ml Activin A in combination with 10 ng/ml FGF4 in pre-induction medium, or (3) four days with or without small molecules Induce Definitive Endoderm (IDE1, 100 nM; IDE2, 200 nM) in serum-free media. Formation of definitive endoderm was assessed using RT-PCR for gene markers of endoderm (Sox17, FOXA2 and TTF1) and lung epithelium (surfactant protein C; SPC) and cystic fibrosis transmembrane conductance regulator; CFTR). The differentiation capacity of Activin A treated USSC was also assessed.</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>Results</p>
+               </st>
+               <p>Activin A or IDE1/2 induced formation of Sox17+ definitive endoderm from hESC but not from USSC. Activin A treated USSC retained their capacity to form cells of the ectoderm (nerve), mesoderm (bone) and endoderm (lung). Activin A in combination with FGF4 did not induce formation of Sox17+ definitive endoderm from USSC. USSC express both Activin A receptor subunits at the mRNA and protein level, indicating that these cells are capable of binding Activin A.</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>Conclusions</p>
+               </st>
+               <p>Stimulation of the Nodal signaling pathway with Activin A or IDE1/2 is insufficient to induce definitive endoderm formation from USSC, indicating that USSC differ in their stem cell potential from hESC.</p>
+            </sec>
+         </sec>
+      </abs>
+   </fm>
+   <bdy>
+      <sec>
+         <st>
+            <p>Introduction</p>
+         </st>
+         <p>Unrestricted somatic stem cells (USSC) are a population of stem cells that can be isolated from umbilical cord blood at birth. USSC have been shown to form the following cell types: nerve (ectoderm); heart, cartilage, bone, fat and blood (mesoderm); and liver and lung (endoderm) <abbrgrp><abbr bid="B1">1</abbr><abbr bid="B2">2</abbr></abbrgrp>. Although USSC have been shown to form cells representative of all three germ line layers <abbrgrp><abbr bid="B1">1</abbr><abbr bid="B3">3</abbr><abbr bid="B4">4</abbr></abbrgrp>, it is unclear whether USSC have an identical or a restricted capacity when compared to human embryonic stem cells (hESC).</p>
+         <p>Cord blood-derived USSC are an attractive source of cells for therapy, as unlike hESC, they can be obtained noninvasively at the time of birth, and have been shown not to form teratomas in animal models <abbrgrp><abbr bid="B1">1</abbr><abbr bid="B5">5</abbr></abbrgrp>. Specific factors or culture conditions cause USSC to be differentiated into progenitors of many cell types. Our research group is investigating the potential of USSC to form endodermal stem cells that may be useful for the treatment of cystic fibrosis and other diseases that affect the lung, liver, pancreas, thyroid and gut.</p>
+         <p>The developing endoderm gives rise to the lung, pancreas, liver, thyroid and gastrointestinal tract. Although the precise mechanisms are yet to be elucidated, it is apparent that the Nodal signaling pathway is involved in normal endoderm specification during embryonic development <abbrgrp><abbr bid="B6">6</abbr><abbr bid="B7">7</abbr></abbrgrp> as well as in the <it>in vitro </it>differentiation of stem cells into endoderm progenitors. Activin A is a protein known to stimulate the Nodal signaling pathway. Human ESCs <abbrgrp><abbr bid="B8">8</abbr><abbr bid="B9">9</abbr><abbr bid="B10">10</abbr></abbrgrp> and induced pluripotent stem cells (iPSC) <abbrgrp><abbr bid="B11">11</abbr></abbrgrp>, as well as mouse ESCs <abbrgrp><abbr bid="B12">12</abbr></abbrgrp>, respond to high levels (100 ng/ml) of Activin A by commitment to Sox17+ definitive endoderm (DE). On the other hand, low levels of Activin A permits maintenance of pluripotency in stem cells <abbrgrp><abbr bid="B12">12</abbr><abbr bid="B13">13</abbr></abbrgrp>. In addition, stimulation of the Nodal signaling pathway in hESC using small molecules such as the Induce Definitive Endoderm molecules (IDE1 and IDE2) has also been shown to specify DE formation <abbrgrp><abbr bid="B14">14</abbr></abbrgrp>. IDE1/2 induce phosphorylation of Smad2, a key component of the Nodal signaling pathway <abbrgrp><abbr bid="B14">14</abbr></abbrgrp>. In the current study, we tested whether high levels of Activin A (alone or in combination with Fibroblast Growth Factor 4; FGF4), or IDE1/2 in a low serum or serum-free media causes USSC to form DE. We show that unlike ESCs, USSC do not respond to Activin A or IDE1/2 induction.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Materials and methods</p>
+         </st>
+         <sec>
+            <st>
+               <p>Isolation and culture of USSC</p>
+            </st>
+            <p>Cord blood was collected with informed consent and USSC lines were successfully generated and the phenotype of the lines characterized as described previously, following a protocol approved by the University of Melbourne and the Royal Women's Hospital Human Ethics Review Committees (HREC No. 050886) <abbrgrp><abbr bid="B1">1</abbr><abbr bid="B4">4</abbr><abbr bid="B15">15</abbr></abbrgrp>. The USSC lines used in this study were negative for CD34, CD24, CD31, CD45 and MHCII, and positive for CD44, CD71 and MHCI. The multilineage capacity of the lines was confirmed by differentiation into cells representative of the three germ line layers.</p>
+            <p>Cryopreserved USSC were thawed rapidly at 37&#176;C and added to stem cell proliferation medium (SCPM), consisting of low-glucose Dulbecco's modified Eagle Medium (DMEM: Lonza, Walkersville, MD, USA) supplemented with 30% fetal calf serum (FCS; Hyclone, Logan, UT, USA), 0.1 mg/ml penicillin, 100 U/ml streptomycin (Invitrogen, Chadsworth, CA, USA) and 2 mM ultra glutamine (Lonza). Cells were centrifuged (five minutes, 1,500 rpm), the supernatant discarded and the cell pellet resuspended in 10 ml of SCPM; this was repeated once. Resuspended cells (approximately 10<sup>6</sup>) were transferred to 75 cm<sup>2 </sup>flasks and cultured at 37&#176;C in 5% CO<sub>2</sub>. The medium was changed the day after thawing, and then every four to five days. Cells were passaged once they reached 80% confluence; medium was removed, cells were washed with phosphate-buffered saline (PBS), and then dissociated by incubation with 4 ml of 0.25% v/v trypsin/0.02% v/v EDTA at 37&#176;C for 5 to 10 minutes. Trypsin was neutralised by the addition of 2 ml 4% human serum albumin (Albumex<sup>&#174; </sup>20, CSL Limited, Parkville, VIC, Australia) in PBS. Cell numbers were determined using the Countess (Invitrogen), by analysing 10 &#956;l of a 50% cell suspension in trypan blue. Dissociated cells were centrifuged (five minutes, 1,500 rpm), the supernatant discarded and the pellet resuspended in SCPM to obtain 10<sup>6 </sup>cells/10 ml which were plated in 75 cm<sup>2 </sup>flasks (unless otherwise indicated). USSC used in this study were seeded for testing at passage five to passage nine.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Determination of USSC survival in low-serum media</p>
+            </st>
+            <p>To avoid problems due to variation in biologicals such as fetal calf serum (FCS) or Matrigel, Activin A induction was performed in low serum or serum-free SCPM. To determine if USSC survive these culture conditions, three USSC cell lines were seeded in duplicate in SCPM containing varying concentrations of FCS: 0% (serum-free SCPM), 1%, 2% and 30%. Cells (0.4 &#215; 10<sup>6 </sup>total, 4.1 &#215; 10<sup>4 </sup>cells/cm<sup>2</sup>) were seeded near confluency in six-well plates in 2.5 ml of media/well. Cells were observed and after seven days were dissociated, counted and cell pellets snap frozen on dry ice for later determination of Activin A receptor mRNA levels. Cell counts were calculated and expressed as a percentage of the number of cells originally seeded.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Activin A induction of USSC</p>
+            </st>
+            <p>Lyophilized carrier-free recombinant human Activin A (Catalogue No. 338-AC/CF, R&amp;D Systems Inc., Minneapolis, MN, USA) was reconstituted in sterile PBS to a stock concentration of 100 &#956;g/ml. To ensure consistency in induction, all vials of Activin A that were used were from one of two batches. The same batch was used across experiments that were directly compared to one another. At least three USSC lines and two hESC lines consisting of five colonies were tested for their response to Activin A.</p>
+            <p>USSC at passage five were seeded into one of three different treatment groups: SCPM containing 30% FCS (<it>Normal serum control</it>); SCPM containing 0 (Day 1), 0.2% (Day 2) and 2% (Day 3) FCS (<it>Low serum control</it>); SCPM containing 100 ng/ml Activin A and 0% (Day 1), 0.2% (Day 2) and 2% (Day 3) FCS (<it>Activin A</it>) (Additional File <supplr sid="S1">1</supplr>) as previously described <abbrgrp><abbr bid="B8">8</abbr></abbrgrp>.</p>
+            <suppl id="S1">
+               <title>
+                  <p>Additional file 1</p>
+               </title>
+               <text>
+                  <p><b>Activin A induction strategy</b>. Cells were divided into one of three treatment groups; <it>Normal serum control</it>, <it>Low serum control </it>and <it>Activin A</it>. <it>Normal serum control </it>cells were seeded in SCPM containing 30% FCS and then cultured in SCPM containing 30% FCS for three days. For all treatment groups, the media was changed daily. <it>Low serum control </it>and <it>Activin A </it>cells were seeded in serum-free SCPM. Media was replaced with the following; serum-free SCPM on Day 1, SCPM containing 0.2% FCS on Day 2 and SCPM containing 2% FCS on Day 3; the media for <it>Activin A </it>cells on Days 1 to 3 was supplemented with 100 ng/ml Activin A.</p>
+               </text>
+               <file name="scrt57-S1.PDF">
+                  <p>Click here for file</p>
+               </file>
+            </suppl>
+            <p>Cells were initially seeded in the appropriate media (either SCPM containing 30% or 0% FCS), depending on the treatment group to which each was assigned. The number of cells seeded depended on the treatment group, as culturing USSC in serum-free SCPM results in a 50% loss in cell number. Hence, cells were seeded in 145 cm<sup>2 </sup>dishes containing 25 ml media at a density of 3.3 &#215; 10<sup>4 </sup>cells/cm<sup>2 </sup>when cultured in serum-free SCPM or 2.0 &#215; 10<sup>4 </sup>cells/cm<sup>2 </sup>when cultured in standard SCPM. After 24 hr, the seeding media was replaced with the appropriate treatment media and cells were incubated for 72 hr.</p>
+            <p>Following the induction period, USSC were dissociated, counted and a proportion of the cells (5 &#215; 10<sup>5 </sup>cells per treatment) were centrifuged and the cell pellets frozen for RNA extraction. The remaining cells from each treatment group were seeded in triplicate. Each culture was divided into two, one of which was tested using each of the three differentiation assays (described below) to allow undifferentiated and differentiated samples of each triplicate to be compared. For RNA extraction, cells were seeded at 5 &#215; 10<sup>5 </sup>cells in six-well plates. For immunohistochemistry, cells were seeded at 4.2 &#215; 10<sup>4 </sup>cells in chamberslides. For Alizarin Red staining, cells were seeded at 2 &#215; 10<sup>4 </sup>cells in 12-well plates.</p>
+            <p>Several other variations of this Activin A induction strategy were attempted, including culturing the USSC for the entire induction period in either serum-free SCPM or SCPM containing 2% FCS supplemented with 100 ng/ml Activin A.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>USSC differentiation assays</p>
+            </st>
+            <p>The following differentiation assays were performed on Activin A treated USSC to determine whether Activin A treatment affected USSC multipotency. To induce mesoderm differentiation, cells were cultured for 10 days in proliferation medium containing DAG (10<sup>-7 </sup>M dexamethasone, 50 &#956;g/ml ascorbic acid and 10 mM glycerol-2-phosphate disodium salt (all from Sigma-Aldrich Castle Hill, NSW, Australia) as described by Jaiswal <it>et al. </it><abbrgrp><abbr bid="B16">16</abbr></abbrgrp>). Differentiated cells were pelleted for RNA extraction and PCR analysis (details below) or were stained with Alizarin Red to detect calcium deposits from bone cells, indicating successful mineralization. For Alizarin Red staining, cells were fixed in 70% ice-cold ethanol (4&#176;C, 10 minutes) and stained with 1% Alizarin Red S (Sigma-Aldrich) in distilled water, pH 4.2 (room temperature, 10 minutes). Cells were washed in distilled water, layered with PBS (calcium and magnesium free) and images were captured using a using Leica DMIRB inverted microscope and AxioVision 4.2 software (Carl Zeiss AG, Oberkochen, Germany).</p>
+            <p>To demonstrate neuronal differentiation capacity, USSC were cultured with a modified differentiation protocol for 12 days <abbrgrp><abbr bid="B15">15</abbr></abbrgrp>. Briefly, cells were seeded in fibronectin-coated wells (10 &#956;g/ml poly-D-lysine, Sigma-Aldrich; 10 &#956;g/ml fibronectin, Becton Dickinson, Franklin Lakes, NJ, USA) and cultured in neural basal medium (NBM) consisting of Neurobasal A with 2% B-27, 1% insulin-transferrin-selenium-A, 1% N2, 2 mM L-glutamine, 100 U/ml penicillin and 0.1 mg/ml streptomycin (all sourced from Invitrogen), supplemented with basic fibroblast growth factor epidermal growth factor (both 20 ng/ml, R&amp;D Systems). Media were changed every two days. At the end of the differentiation protocol, cells were collected for PCR analysis. Successful differentiation was determined by RT-PCR for expression of Nestin and Pax6.</p>
+            <p>To test for epithelial differentiation, cells were grown in small airway growth medium (SAGM; Lonza) as described by Berger <it>et al. </it><abbrgrp><abbr bid="B17">17</abbr></abbrgrp>. USSC were seeded at 5 &#215; 10<sup>5 </sup>cells per well in a six-well plate and then cultured in SAGM for eight days. Medium was changed every two days. Successful differentiation was determined by RT-PCR for expression of surfactant protein C (SPC).</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Combined Activin A and FGF4 induction of USSC</p>
+            </st>
+            <p>USSC (USSC1 at passage 6, USSC2 at passage 9) were seeded at 5 &#215; 10<sup>3 </sup>cells/cm<sup>2 </sup>in six-well plates in 3.5 ml of SCPM and were cultured for 72 hr to reach 80% confluency. For both USSC lines, the following treatments were performed in triplicate: SCPM containing 30% FCS (<it>SCPM control</it>); Pre-induction media (PIM; DMEM low glucose:Hams F12 Salts containing Glutamax, Penicillin/streptomycin, 15 mM Hepes Buffer, 1 mM Sodium Pyruvate, 1 g/L BSA, 5 mM nicotinamide,1.5 &#956;g/ml ethanolamine as described in Waclawczyk <it>et al. </it><abbrgrp><abbr bid="B18">18</abbr></abbrgrp>) containing 0% (Day 1), 0.5% (Days 2 to 3) FCS (<it>PIM control</it>); PIM containing 100 ng/ml Activin A and 0% FCS (Day 1), with the addition of 10 ng/ml FGF4 (Catalogue No. 235-F4/CF, R&amp;D Systems Inc.) and 0.5% (Days 2 to 3) (<it>Activin A + FGF4</it>) as previously described <abbrgrp><abbr bid="B18">18</abbr></abbrgrp>.</p>
+            <p>Following the induction period, USSC were dissociated, centrifuged and cell pellets frozen for RNA extraction.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Controls for Activin A or FGF4 induction</p>
+            </st>
+            <p>To confirm Activin A activity, hESC (Envy or H9; approved by the University of Melbourne Human Research Ethics Committee, HREC No. 0605017.5) were used as a positive control for Sox17 induction. hESC (five colonies per replicate; two replicates) were cultured in Roswell Park Memorial Institute medium (RPMI) containing 100 ng/ml Activin A for 72 hr as described previously <abbrgrp><abbr bid="B8">8</abbr></abbrgrp>.</p>
+            <p>To confirm FGF4 activity, NIH 3T3 fibroblasts were used as a positive control; FGF4 has a mitogenic effect on fibroblasts <abbrgrp><abbr bid="B19">19</abbr></abbrgrp>. NIH 3T3 fibroblasts were seeded at 3 &#215; 10<sup>3 </sup>cells/cm<sup>2 </sup>in six-well plates in DMEM high glucose (Catalogue No. 12100046, Invitrogen) containing 10% heat-inactivated serum and 3.4 g/L HCO<sub>3</sub>. After 24 hr, the media was replaced with fresh media with/without FGF4 (0, 5, 10, 20 or 40 ng/ml; in triplicate). Following 48 hr of FGF4 induction, cells were dissociated and enumerated to determine the effect of FGF4 on total cell numbers.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>IDE1 or IDE2 induction of USSC and hESC</p>
+            </st>
+            <p>A small sample of IDE1 and IDE2 (10 nM in DMSO) were kindly supplied by Professor Stuart Schreiber. USSC were seeded at high density (10<sup>5 </sup>cells/cm<sup>2</sup>) in SCPM in 48-well plates to ensure cell numbers high enough to detect mRNA levels and to minimize media volumes given the limiting amount of IDE1/2. Colonies (one to two) of hESC (Envy, passage 94) were seeded into wells of an eight-well chamberslide, on a feeder layer of mouse embryonic fibroblasts, as previously described <abbrgrp><abbr bid="B20">20</abbr></abbrgrp>. Induction of USSC and hESC occurred simultaneously with the same batch of IDE1/2. Two replicates were assigned to each treatment group for each cell type, except cells treated with IDE2, as insufficient sample permitted only one replicate per cell type. USSC were treated for four days with (1) Normal USSC media (SCPM), (2) Control media (RPMI) (3) RPMI containing 100 nM IDE1, or (4) RPMI containing 200 nM IDE2. hESC were treated with (1) Normal hESC media with serum, as previously described <abbrgrp><abbr bid="B20">20</abbr></abbrgrp>, (2) Control media (RPMI) (3) RPMI containing 100 nM IDE1, or (4) RPMI containing 200 nM IDE2.</p>
+            <p>Cell morphology was observed and representative photographs taken. After four days, USSC and hESC were dissociated and the cell pellets frozen for RNA extraction. Immunohistochemistry and differentiation assays were not performed as the small sample of IDE1/2 necessitated that only very small numbers of cells could be treated.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>RNA Extraction and PCR</p>
+            </st>
+            <p>Total RNA was extracted using the RNeasy Plus Mini Kit (Activin A and low serum study; Qiagen, Germantown, MD, USA) or RNeasy Plus Micro Kit (IDE study; Qiagen) according the manufacturer's protocol. RNA was quantified using a NanoDrop 1000 Spectrophotometer. cDNA was synthesized from 250 ng RNA using random hexamers according to the manufacturer's protocol (Superscript III kit, Invitrogen). Real-time PCR reactions (25 &#956;l) contained ABI 2 &#215; SYBR Green PCR Master Mix (Applied Biosystems, Mulgrave, VIC, Australia, containing SYBR Green I Dye, AmpliTaq Gold DNA Polymerase, dNTPS with dUTP, passive reference and optimized buffer components), 0.4 &#956;M primers and cDNA template. Amplification conditions for real-time PCR reactions were: one cycle at 95&#176;C for 10 minutes; 40 cycles at 95&#176;C for 30 sec, 60&#176;C for 30 sec and 72&#176;C for 1 minute; followed by melt curve analysis (50 to 90&#176;C, rising 1&#176;C per 5 sec). Standard and nested PCR reactions (25 &#956;l) contained 10 &#215; PCR buffer, 5 &#215; Q solution, 200 nM dNTPs, 400 nM of each primer and 0.625 U Taq polymerase (Taq Core Kit, Qiagen, Germantown, MD, USA). Amplification conditions for standard and nested PCR reactions were: one cycle at 94&#176;C for 2 to 3 minutes; 30 (nested) to 35 (standard) cycles at 94&#176;C for 30 sec, 54 to 60&#176;C for 30 sec and 72&#176;C for 1 minute; followed by extension at 72&#176;C for 2 to 10 minutes. Primer sequences and annealing temperatures are detailed in Table <tblr tid="T1">1</tblr>. Positive controls were either spontaneously differentiated hESC or human bronchial epithelial cells. Gene expression was analyzed for the following genes: Sox17, FOXA2, TTF1, surfactant protein C (SPC), cystic fibrosis transmembrane conductance regulator (CFTR) (endoderm/lung markers), Nestin, Pax6 (ectoderm markers), Mixl1 and Brachyury (mesoderm markers).</p>
+            <tbl hint_layout="double" id="T1">
+               <title>
+                  <p>Table 1</p>
+               </title>
+               <caption>
+                  <p>Primers used for PCR in this study</p>
+               </caption>
+               <tblbdy cols="7">
+                  <r>
+                     <c ca="left">
+                        <p><b>Gene</b></p>
+                     </c>
+                     <c cspan="2" ca="left">
+                        <p><b>Primer sequences 5'-3'</b></p>
+                     </c>
+                     <c ca="left">
+                        <p><b>PCR type</b></p>
+                     </c>
+                     <c ca="left">
+                        <p><b>Annealing temp. (&#176;C)</b></p>
+                     </c>
+                     <c ca="left">
+                        <p><b>Cycle number</b></p>
+                     </c>
+                     <c ca="left">
+                        <p><b>Amplicon size (bp)</b></p>
+                     </c>
+                  </r>
+                  <r>
+                     <c cspan="7">
+                        <hr/>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p><b><it>ACVR1a</it></b></p>
+                     </c>
+                     <c ca="left">
+                        <p>ACVR1a-F</p>
+                     </c>
+                     <c ca="left">
+                        <p>TAA GCG TCA CAC TGC CAA AG</p>
+                     </c>
+                     <c ca="left">
+                        <p>Real-time</p>
+                     </c>
+                     <c ca="left">
+                        <p>60</p>
+                     </c>
+                     <c ca="left">
+                        <p>40</p>
+                     </c>
+                     <c ca="left">
+                        <p>89</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c>
+                        <p/>
+                     </c>
+                     <c ca="left">
+                        <p>ACVR1a-R</p>
+                     </c>
+                     <c ca="left">
+                        <p>GTC ACT GGG GTA CTC GGA GA</p>
+                     </c>
+                     <c>
+                        <p/>
+                     </c>
+                     <c>
+                        <p/>
+                     </c>
+                     <c>
+                        <p/>
+                     </c>
+                     <c>
+                        <p/>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p><b><it>ACVR1b</it></b></p>
+                     </c>
+                     <c ca="left">
+                        <p>ACVR1b-F</p>
+                     </c>
+                     <c ca="left">
+                        <p>TGC AAC AGG ATC GAC TTG AG</p>
+                     </c>
+                     <c ca="left">
+                        <p>Real-time</p>
+                     </c>
+                     <c ca="left">
+                        <p>60</p>
+                     </c>
+                     <c ca="left">
+                        <p>40</p>
+                     </c>
+                     <c ca="left">
+                        <p>121</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c>
+                        <p/>
+                     </c>
+                     <c ca="left">
+                        <p>ACVR1b-R</p>
+                     </c>
+                     <c ca="left">
+                        <p>TGA GGA CAG GAG GAA CAC C</p>
+                     </c>
+                     <c>
+                        <p/>
+                     </c>
+                     <c>
+                        <p/>
+                     </c>
+                     <c>
+                        <p/>
+                     </c>
+                     <c>
+                        <p/>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p><b><it>ACVR1c</it></b></p>
+                     </c>
+                     <c ca="left">
+                        <p>ACVR1c-F</p>
+                     </c>
+                     <c ca="left">
+                        <p>TGG TCT GGC ACA CCT TCA TA</p>
+                     </c>
+                     <c ca="left">
+                        <p>Real-time</p>
+                     </c>
+                     <c ca="left">
+                        <p>60</p>
+                     </c>
+                     <c ca="left">
+                        <p>40</p>
+                     </c>
+                     <c ca="left">
+                        <p>137</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c>
+                        <p/>
+                     </c>
+                     <c ca="left">
+                        <p>ACVR1c-R</p>
+                     </c>
+                     <c ca="left">
+                        <p>TCA CAG CCA ACC CTA AGT CC</p>
+                     </c>
+                     <c>
+                        <p/>
+                     </c>
+                     <c>
+                        <p/>
+                     </c>
+                     <c>
+                        <p/>
+                     </c>
+                     <c>
+                        <p/>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p><b><it>ACVR2a</it></b></p>
+                     </c>
+                     <c ca="left">
+                        <p>ACVR2a-F</p>
+                     </c>
+                     <c ca="left">
+                        <p>GCG TTT GCC GTC TTT CTT AT</p>
+                     </c>
+                     <c ca="left">
+                        <p>Real-time</p>
+                     </c>
+                     <c ca="left">
+                        <p>60</p>
+                     </c>
+                     <c ca="left">
+                        <p>40</p>
+                     </c>
+                     <c ca="left">
+                        <p>138</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c>
+                        <p/>
+                     </c>
+                     <c ca="left">
+                        <p>ACVR2a-R</p>
+                     </c>
+                     <c ca="left">
+                        <p>TGT CAC CAT AAC ACG GTT CAA</p>
+                     </c>
+                     <c>
+                        <p/>
+                     </c>
+                     <c>
+                        <p/>
+                     </c>
+                     <c>
+                        <p/>
+                     </c>
+                     <c>
+                        <p/>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p><b><it>ACVR2b</it></b></p>
+                     </c>
+                     <c ca="left">
+                        <p>ACVR2b-F</p>
+                     </c>
+                     <c ca="left">
+                        <p>CTC CTC TGG GGA TCG CTG T</p>
+                     </c>
+                     <c ca="left">
+                        <p>Real-time</p>
+                     </c>
+                     <c ca="left">
+                        <p>60</p>
+                     </c>
+                     <c ca="left">
+                        <p>40</p>
+                     </c>
+                     <c ca="left">
+                        <p>137</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c>
+                        <p/>
+                     </c>
+                     <c ca="left">
+                        <p>ACVR2b-R</p>
+                     </c>
+                     <c ca="left">
+                        <p>CTT GTC CTG CTC GCC TTC</p>
+                     </c>
+                     <c>
+                        <p/>
+                     </c>
+                     <c>
+                        <p/>
+                     </c>
+                     <c>
+                        <p/>
+                     </c>
+                     <c>
+                        <p/>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p><b><it>Brachyury</it></b></p>
+                     </c>
+                     <c ca="left">
+                        <p>Brachyury-F</p>
+                     </c>
+                     <c ca="left">
+                        <p>GAA CCA GCA CCC TGT GTC CAC</p>
+                     </c>
+                     <c ca="left">
+                        <p>Standard</p>
+                     </c>
+                     <c ca="left">
+                        <p>55</p>
+                     </c>
+                     <c ca="left">
+                        <p>38</p>
+                     </c>
+                     <c ca="left">
+                        <p>608</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c>
+                        <p/>
+                     </c>
+                     <c ca="left">
+                        <p>Brachyury-R</p>
+                     </c>
+                     <c ca="left">
+                        <p>GCC ACG ACA AAA AGT CAC TGC</p>
+                     </c>
+                     <c>
+                        <p/>
+                     </c>
+                     <c>
+                        <p/>
+                     </c>
+                     <c>
+                        <p/>
+                     </c>
+                     <c>
+                        <p/>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p><b><it>CFTR</it></b></p>
+                     </c>
+                     <c ca="left">
+                        <p>CFTR-F</p>
+                     </c>
+                     <c ca="left">
+                        <p>ACT TTA AAG CTG TCA AGC CGT G</p>
+                     </c>
+                     <c ca="left">
+                        <p>Standard</p>
+                     </c>
+                     <c ca="left">
+                        <p>35</p>
+                     </c>
+                     <c ca="left">
+                        <p>30</p>
+                     </c>
+                     <c ca="left">
+                        <p>1051</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c>
+                        <p/>
+                     </c>
+                     <c ca="left">
+                        <p>CFTR-R</p>
+                     </c>
+                     <c ca="left">
+                        <p>CAT CAT AGG AAA CAC CAA A</p>
+                     </c>
+                     <c>
+                        <p/>
+                     </c>
+                     <c>
+                        <p/>
+                     </c>
+                     <c>
+                        <p/>
+                     </c>
+                     <c>
+                        <p/>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p><b><it>CFTR (nested)</it></b></p>
+                     </c>
+                     <c ca="left">
+                        <p>CFTR-NF</p>
+                     </c>
+                     <c ca="left">
+                        <p>AGC TGT CAA GCC GTG TTC TAG ATA</p>
+                     </c>
+                     <c ca="left">
+                        <p>Nested</p>
+                     </c>
+                     <c ca="left">
+                        <p>45</p>
+                     </c>
+                     <c ca="left">
+                        <p>30</p>
+                     </c>
+                     <c ca="left">
+                        <p>140</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c>
+                        <p/>
+                     </c>
+                     <c ca="left">
+                        <p>CFTR-NR</p>
+                     </c>
+                     <c ca="left">
+                        <p>ATG AGG AGT GCC ACT TGC AAA</p>
+                     </c>
+                     <c>
+                        <p/>
+                     </c>
+                     <c>
+                        <p/>
+                     </c>
+                     <c>
+                        <p/>
+                     </c>
+                     <c>
+                        <p/>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p><b><it>FOXA2</it></b></p>
+                     </c>
+                     <c ca="left">
+                        <p>FOXA2-F</p>
+                     </c>
+                     <c ca="left">
+                        <p>GGG AGC GGT GAA GAT GGA</p>
+                     </c>
+                     <c ca="left">
+                        <p>Standard</p>
+                     </c>
+                     <c ca="left">
+                        <p>55</p>
+                     </c>
+                     <c ca="left">
+                        <p>35</p>
+                     </c>
+                     <c ca="left">
+                        <p>89</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c>
+                        <p/>
+                     </c>
+                     <c ca="left">
+                        <p>FOXA2-R</p>
+                     </c>
+                     <c ca="left">
+                        <p>TCA TGT TGC TCA CGG AGG AGT A</p>
+                     </c>
+                     <c>
+                        <p/>
+                     </c>
+                     <c>
+                        <p/>
+                     </c>
+                     <c>
+                        <p/>
+                     </c>
+                     <c>
+                        <p/>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p><b><it>GAPDH</it></b></p>
+                     </c>
+                     <c ca="left">
+                        <p>GAPDH-F</p>
+                     </c>
+                     <c ca="left">
+                        <p>ATG GAG AAG GCT GGG GCT C</p>
+                     </c>
+                     <c ca="left">
+                        <p>Real-time and standard</p>
+                     </c>
+                     <c ca="left">
+                        <p>60</p>
+                     </c>
+                     <c ca="left">
+                        <p>40</p>
+                     </c>
+                     <c ca="left">
+                        <p>196</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c>
+                        <p/>
+                     </c>
+                     <c ca="left">
+                        <p>GAPDH-R</p>
+                     </c>
+                     <c ca="left">
+                        <p>AAG TTG TCA TGG ATG ACC TTG</p>
+                     </c>
+                     <c>
+                        <p/>
+                     </c>
+                     <c>
+                        <p/>
+                     </c>
+                     <c>
+                        <p/>
+                     </c>
+                     <c>
+                        <p/>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p><b><it>MixL1</it></b></p>
+                     </c>
+                     <c ca="left">
+                        <p>MixL1-F</p>
+                     </c>
+                     <c ca="left">
+                        <p>CCG AGT CCA GGA TCC AGG TA</p>
+                     </c>
+                     <c ca="left">
+                        <p>Standard</p>
+                     </c>
+                     <c ca="left">
+                        <p>55</p>
+                     </c>
+                     <c ca="left">
+                        <p>35</p>
+                     </c>
+                     <c ca="left">
+                        <p>58</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c>
+                        <p/>
+                     </c>
+                     <c ca="left">
+                        <p>MixL1-R</p>
+                     </c>
+                     <c ca="left">
+                        <p>CTC TGA CGC CGA GAC TTG G</p>
+                     </c>
+                     <c>
+                        <p/>
+                     </c>
+                     <c>
+                        <p/>
+                     </c>
+                     <c>
+                        <p/>
+                     </c>
+                     <c>
+                        <p/>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p><b><it>Nestin</it></b></p>
+                     </c>
+                     <c ca="left">
+                        <p>Nestin-F</p>
+                     </c>
+                     <c ca="left">
+                        <p>CAG CTG GCG CAC CTC AAG ATG</p>
+                     </c>
+                     <c ca="left">
+                        <p>Standard</p>
+                     </c>
+                     <c ca="left">
+                        <p>55</p>
+                     </c>
+                     <c ca="left">
+                        <p>35</p>
+                     </c>
+                     <c ca="left">
+                        <p>209</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c>
+                        <p/>
+                     </c>
+                     <c ca="left">
+                        <p>Nestin-R</p>
+                     </c>
+                     <c ca="left">
+                        <p>AGG GAA GTT GGG CTC AGG ACT GG</p>
+                     </c>
+                     <c>
+                        <p/>
+                     </c>
+                     <c>
+                        <p/>
+                     </c>
+                     <c>
+                        <p/>
+                     </c>
+                     <c>
+                        <p/>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p><b><it>SPC</it></b></p>
+                     </c>
+                     <c ca="left">
+                        <p>SPC-F</p>
+                     </c>
+                     <c ca="left">
+                        <p>AGC CAG AAA CAC ACG GAG AT</p>
+                     </c>
+                     <c ca="left">
+                        <p>Standard</p>
+                     </c>
+                     <c ca="left">
+                        <p>57</p>
+                     </c>
+                     <c ca="left">
+                        <p>30</p>
+                     </c>
+                     <c ca="left">
+                        <p>456</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c>
+                        <p/>
+                     </c>
+                     <c ca="left">
+                        <p>SPC-R</p>
+                     </c>
+                     <c ca="left">
+                        <p>AGT GGA GCC GAT GGA GAA G</p>
+                     </c>
+                     <c>
+                        <p/>
+                     </c>
+                     <c>
+                        <p/>
+                     </c>
+                     <c>
+                        <p/>
+                     </c>
+                     <c>
+                        <p/>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p><b><it>SPC (nested)</it></b></p>
+                     </c>
+                     <c ca="left">
+                        <p>SPC-NF</p>
+                     </c>
+                     <c ca="left">
+                        <p>AAC GCC TTC TTA TCG TGG TG</p>
+                     </c>
+                     <c ca="left">
+                        <p>Nested</p>
+                     </c>
+                     <c ca="left">
+                        <p>57</p>
+                     </c>
+                     <c ca="left">
+                        <p>30</p>
+                     </c>
+                     <c ca="left">
+                        <p>313</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c>
+                        <p/>
+                     </c>
+                     <c ca="left">
+                        <p>SPC-NR</p>
+                     </c>
+                     <c ca="left">
+                        <p>GTG AGA GCC TCA AGA CTG G</p>
+                     </c>
+                     <c>
+                        <p/>
+                     </c>
+                     <c>
+                        <p/>
+                     </c>
+                     <c>
+                        <p/>
+                     </c>
+                     <c>
+                        <p/>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p><b><it>Sox17</it></b></p>
+                     </c>
+                     <c ca="left">
+                        <p>Sox17-F</p>
+                     </c>
+                     <c ca="left">
+                        <p>GGC GCA GCA GAA TCC AGA</p>
+                     </c>
+                     <c ca="left">
+                        <p>Real-time</p>
+                     </c>
+                     <c ca="left">
+                        <p>60</p>
+                     </c>
+                     <c ca="left">
+                        <p>40</p>
+                     </c>
+                     <c ca="left">
+                        <p>61</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c>
+                        <p/>
+                     </c>
+                     <c ca="left">
+                        <p>Sox17-R</p>
+                     </c>
+                     <c ca="left">
+                        <p>CCA CGA CTT GCC CAG CAT</p>
+                     </c>
+                     <c>
+                        <p/>
+                     </c>
+                     <c>
+                        <p/>
+                     </c>
+                     <c>
+                        <p/>
+                     </c>
+                     <c>
+                        <p/>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p><b><it>TTF1</it></b></p>
+                     </c>
+                     <c ca="left">
+                        <p>TTF1-F</p>
+                     </c>
+                     <c ca="left">
+                        <p>ACC AGG ACA CCA TGA GGA AC</p>
+                     </c>
+                     <c ca="left">
+                        <p>Standard</p>
+                     </c>
+                     <c ca="left">
+                        <p>50</p>
+                     </c>
+                     <c ca="left">
+                        <p>38</p>
+                     </c>
+                     <c ca="left">
+                        <p>116</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c>
+                        <p/>
+                     </c>
+                     <c ca="left">
+                        <p>TTF1-R</p>
+                     </c>
+                     <c ca="left">
+                        <p>GCT CAT GTT CAT GCC GCT</p>
+                     </c>
+                     <c>
+                        <p/>
+                     </c>
+                     <c>
+                        <p/>
+                     </c>
+                     <c>
+                        <p/>
+                     </c>
+                     <c>
+                        <p/>
+                     </c>
+                  </r>
+               </tblbdy>
+            </tbl>
+            <p>Efficiency correlations confirmed that the efficiency of Sox17 was similar to that of GAPDH. The &#916;&#916;CT method was then used to determine the gene expression levels, corrected for GAPDH.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>ACVR Immunohistochemistry</p>
+            </st>
+            <p>USSC1 and USSC2 were seeded in duplicate in eight-well chamberslides (Permanox slides, Cat # 177445, Labtek, Brendale, QLD, Australia) in SCPM containing 30% FCS (2.0 &#215; 10<sup>4 </sup>cells/cm<sup>2</sup>) or in SCPM containing 0% FCS (3.3 &#215; 10<sup>4 </sup>cells/cm<sup>2</sup>). Cells were fixed by removing the media, performing two times five-minute washes in PBS, then incubating the cells in 4% paraformaldehyde/PBS at 4&#176;C for five minutes. The paraformaldehyde was removed and cells washed in PBS and stored at 4&#176;C in PBS+ until commencing immunohistochemistry.</p>
+            <p>Cells were permeabilised in 0.1% Triton-x in tris-buffered saline (TBS) for 10 minutes, washed in dH<sub>2</sub>O before endogenous peroxidases were quenched in 3% H<sub>2</sub>O<sub>2 </sub>for 5 minutes. Cells were washed in dH<sub>2</sub>O and TBS before the cells were blocked with 0.5% BSA/TBS for 30 minutes. Cells were then incubated with primary antibody (all goat polyclonal IgG; 1:50; ACVR1b Cat. # sc-5665; ACVR2a Cat. # sc-5667; ACVR2b Cat. # sc-11984, Santa Cruz Biotechnology, Santa Cruz, CA, USA) or rabbit IgG (Cat. # sc-2027; 1:1000, Santa Cruz Biotechnology, Santa Cruz, CA, USA) in 0.5% BSA/TBS at 4&#176;C overnight.</p>
+            <p>Cells were washed in TBS before incubation with the secondary antibody (DAKO polyclonal rabbit anti-goat Ig Biotinylated Cat. # E0466) for 1 hr. Cells were washed in TBS before being incubated with Avidin-Biotinylated enzyme Complex (Vectastain, Vector Laboratories, Burlingame, CA, USA) for 30 minutes. Cells were washed in TBS and 3,3'-diaminobenzidine (DAB) containing 10 &#956;l/ml 6% H<sub>2</sub>O<sub>2 </sub>was added to the sections to induce formation of a specific signal. Cells were washed in dH2O, stained with Harris' Haematoxylin and mounted (Invitrogen Prolong Gold Aqueous mountant). TCam2 seminoma cells were used as a positive control.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Statistical analyses</p>
+            </st>
+            <p>The following differences were determined by a two-way unpaired t-test (assuming equal variances): 1) differences in cell proliferation indices between USSC cultured in 0%, 1%, 2% or 30% FCS and, 2) differences in Sox17 or Brachyury mRNA levels between untreated, Activin A treated and spontaneously differentiated hESC and normal serum, low serum and Activin A treated USSC. Results were considered statistically significant at <it>P </it>&lt; 0.05.</p>
+         </sec>
+      </sec>
+      <sec>
+         <st>
+            <p>Results</p>
+         </st>
+         <sec>
+            <st>
+               <p>Determination of USSC survival in serum-free culture media</p>
+            </st>
+            <p>Prior to inducing USSC with Activin A, the survival potential of USSC in a low serum or serum-free environment was assessed. USSC seeded at confluence (4.2 &#215; 10<sup>4 </sup>cells/cm<sup>2</sup>) and grown in SCPM containing 0%, 1% and 2% retained 51.2%, 63.0% and 87.8% of the initial seeding density of cells after seven days while cells grown in 30% FCS increased (149.5%) (Additional File <supplr sid="S2">2</supplr>), indicating that USSC can survive in low serum or serum-free environments for a short period of time. When seeded at 1.3 &#215; 10<sup>4 </sup>cells/cm<sup>2 </sup>the number of viable USSC is normally approximately 300% of initial seeding density after five days of growth in SCPM containing 30% FCS. In the current experiment, USSC were seeded in media containing 30% FCS at confluence; therefore, only a slight increase in the initial seeding density was obtained.</p>
+            <suppl id="S2">
+               <title>
+                  <p>Additional file 2</p>
+               </title>
+               <text>
+                  <p><b>Cell proliferation index</b>. The number of cells counted when USSC grown in SCPM containing 0%, 1%, 2% or 30% FCS for seven days are expressed as a percentage of the number of cells seeded. &lt;100% initial seeding density indicates cell death has occurred, while >100% initial seeding density indicates cell proliferation has occurred. Different letters denote statistical significance (<it>P </it>&lt; 0.05).</p>
+               </text>
+               <file name="scrt57-S2.PDF">
+                  <p>Click here for file</p>
+               </file>
+            </suppl>
+         </sec>
+         <sec>
+            <st>
+               <p>Activin A treatment of USSC does not induce DE formation</p>
+            </st>
+            <p>The three USSC lines tested did not express mRNA for the DE marker Sox17 either before or after treatment with 100 ng/ml Activin A using a step-wise increase in FCS over three days (Figure <figr fid="F1">1</figr>), indicating that Activin A treatment of USSC does not induce the production of Sox17+ DE. On the other hand, Sox17 mRNA levels are very low in undifferentiated Envy hESC, increase 4-fold in spontaneously differentiated Envy hESC and are up-regulated 16-fold in Envy hESC treated with the same Activin A induction strategy. Activin A treatment of USSC using media containing either 0% or 2% FCS was also assessed; however, neither of these strategies resulted in up-regulation of Sox17 expression (data not shown).</p>
+            <fig id="F1">
+               <title>
+                  <p>Figure 1</p>
+               </title>
+               <caption>
+                  <p>Sox17 mRNA levels following Activin A induction</p>
+               </caption>
+               <text>
+                  <p><b>Sox17 mRNA levels following Activin A induction</b>. Sox17 mRNA levels for untreated and Activin A treated USSC lines and untreated, spontaneously differentiated and Activin A treated hESC. Sox17 mRNA levels were very low in untreated and Activin A treated USSC lines (0.001-fold of untreated hESC). Sox17 mRNA levels were low in untreated hESC, moderately low in spontaneously differentiated hESC and significantly up-regulated in Activin A treated hESC.</p>
+               </text>
+               <graphic file="scrt57-1" hint_layout="double"/>
+            </fig>
+         </sec>
+         <sec>
+            <st>
+               <p>USSC retain the capacity for multipotency following Activin A induction</p>
+            </st>
+            <p>The mRNA levels of markers of endoderm, ectoderm and mesoderm were not different between untreated and Activin A-treated USSC either before or following directed differentiation (Figure <figr fid="F2">2</figr>), indicating that USSC retain their capacity for multipotency following Activin A induction. Specifically, mRNA for Sox17, FOXA2, TTF-1 and CFTR were not detected in untreated or Activin A treated USSC either prior to or following endodermal differentiation with SAGM. The level of SPC mRNA was similar in both untreated and Activin A treated USSC following endodermal differentiation with SAGM. mRNA for Nestin was detected in both untreated and Activin A treated USSC, and was upregulated after ectodermal differentiation. On the other hand, Pax6 mRNA was not detected in USSC regardless of Activin A treatment or ectodermal differentiation. Similarly, MixL1 mRNA was detected in USSC regardless of Activin A treatment or mesodermal differentiation, while Brachyury was only detected in some of the USSC lines studied and only following mesodermal differentiation. USSC retained the capacity to form cells capable of mineralization, as determined by the detection of calcium deposits using Alizarin red staining (Figure <figr fid="F3">3</figr>).</p>
+            <fig id="F2">
+               <title>
+                  <p>Figure 2</p>
+               </title>
+               <caption>
+                  <p>Markers of endoderm, ectoderm and mesoderm differentiation in Activin A treated USSC following directed differentiation</p>
+               </caption>
+               <text>
+                  <p><b>Markers of endoderm, ectoderm and mesoderm differentiation in Activin A treated USSC following directed differentiation</b>. Representative gels depicting mRNA levels of the housekeeping gene GAPDH, endoderm markers Sox17, FOXA2, TTF-1, SPC and CFTR, ectoderm markers Nestin and Pax6 and mesoderm markers MixL1 and Brachyury. mRNA levels were determined in Activin-A treated USSC, low serum control USSC and serum-free controls before (Figure 2a) and following (Figure 2b) differentiation into cells representative of each of the three germline layers. Spontaneously differentiated hESC and human bronchial epithelial cells were used as positive controls and undifferentiated USSC were used as negative controls. + depicts RT positive cDNA, - depicts RT negative controls.</p>
+               </text>
+               <graphic file="scrt57-2" hint_layout="double"/>
+            </fig>
+            <fig id="F3">
+               <title>
+                  <p>Figure 3</p>
+               </title>
+               <caption>
+                  <p>Alizarin red staining of USSC</p>
+               </caption>
+               <text>
+                  <p><b>Alizarin red staining of USSC</b>. Representative light micrographs depicting calcium deposits detected by Alizarin red staining in <it>Normal serum control</it>, <it>Low serum control </it>and <it>Activin A </it>treated USSC (100&#215;) before and after mesoderm differentiation.</p>
+               </text>
+               <graphic file="scrt57-3" hint_layout="double"/>
+            </fig>
+         </sec>
+         <sec>
+            <st>
+               <p>Combined treatment of USSC with Activin A and FGF4 does not induce DE formation</p>
+            </st>
+            <p>The two USSC lines tested did not express Sox17 before or after treatment with 100 ng/ml Activin A and 10 ng/ml FGF4 indicating that Activin A in combination with FGF4 does not induce the production of Sox17+ DE from USSC (Figure <figr fid="F4">4</figr>). Activin A was shown to induce Sox17 expression in H9 hESC, indicating that the Activin A was active. Similarly, FGF4 was shown to have a mitogenic effect on NIH 3T3 cells, resulting in a dose-dependent increase in cell numbers following 48 hr of FGF4 treatment (Figure <figr fid="F5">5</figr>), indicating that the FGF4 was active.</p>
+            <fig id="F4">
+               <title>
+                  <p>Figure 4</p>
+               </title>
+               <caption>
+                  <p>Sox17 mRNA levels following combined Activin A and FGF4 induction</p>
+               </caption>
+               <text>
+                  <p><b>Sox17 mRNA levels following combined Activin A and FGF4 induction</b>. Sox17 mRNA levels for untreated and Activin A and Fibroblast Factor 4 treated USSC lines and untreated, spontaneously differentiated and Activin A treated hESC. Sox17 mRNA levels were very low in untreated USSC cultured in SCPM or PIM and in USSC lines treated with Activin A and Fibroblast Factor 4. Sox17 mRNA levels were low in untreated hESC, and significantly up-regulated in Activin A treated hESC and in spontaneously differentiated hESC.</p>
+               </text>
+               <graphic file="scrt57-4" hint_layout="double"/>
+            </fig>
+            <fig id="F5">
+               <title>
+                  <p>Figure 5</p>
+               </title>
+               <caption>
+                  <p>Fibroblast Growth Factor 4 is active</p>
+               </caption>
+               <text>
+                  <p><b>Fibroblast Growth Factor 4 is active</b>. Fold change in NIH 3T3 cell numbers following treatment with Fibroblast Growth Factor 4. A dose-dependent increase in NIH 3T3 cell numbers was observed with an increase in Fibroblast Growth Factor 4 concentration, indicating that the growth factor is active.</p>
+               </text>
+               <graphic file="scrt57-5" hint_layout="double"/>
+            </fig>
+         </sec>
+         <sec>
+            <st>
+               <p>IDE1/2 treatment of USSC does not induce DE formation</p>
+            </st>
+            <p>Following induction with IDE1/2, a proportion of USSC developed a more rounded morphology (Figure <figr fid="F6">6</figr>). Neither Sox17 nor Brachyury could be detected in untreated or IDE1- or IDE2-treated USSC (Figure <figr fid="F7">7</figr>), indicating that IDE1/2 do not induce DE or mesendoderm formation of USSC. On the other hand, the level of Sox17 mRNA in Envy hESC is moderate in undifferentiated Envy hESC, elevated in spontaneously differentiated Envy hESC, and significantly increased following treatment with IDE1 or IDE2. Brachyury was also moderately expressed in Envy hESC and highly expressed in spontaneously differentiated Envy hESC. IDE2 but not IDE1 up-regulated the level of Brachyury mRNA in Envy hESC.</p>
+            <fig id="F6">
+               <title>
+                  <p>Figure 6</p>
+               </title>
+               <caption>
+                  <p>Representative micrographs of IDE1/2-treated USSC</p>
+               </caption>
+               <text>
+                  <p><b>Representative micrographs of IDE1/2-treated USSC</b>. USSC grown in SCPM (<b>A, B</b>), RPMI (<b>C, D</b>), or RPMI containing 100 nM IDE1 (<b>E, F</b>) or 200 nM IDE2 (<b>G</b>) (100&#215;). A proportion of USSC treated with IDE1/2 developed a rounded morphology (E, F, G).</p>
+               </text>
+               <graphic file="scrt57-6" hint_layout="double"/>
+            </fig>
+            <fig id="F7">
+               <title>
+                  <p>Figure 7</p>
+               </title>
+               <caption>
+                  <p>{Sox17 and Brachyury levels following IDE1/2 induction</p>
+               </caption>
+               <text>
+                  <p><b>{Sox17 and Brachyury levels following IDE1/2 induction</b>. Sox17 (black bars) and Brachyury (white bars) mRNA levels for untreated and IDE1/2 treated USSC lines and untreated, spontaneously differentiated and IDE1/2 treated hESC. Sox17 and Brachyury mRNA levels were very low in untreated and IDE1/2 treated USSC lines. Sox17 and Brachyury mRNA levels were low in untreated hESC. Sox17 mRNA was significantly up-regulated in IDE1/2 treated hESC. Brachyury expression was significantly up-regulated in IDE2 treated hESC and spontaneously differentiated hESC. Data represent the mean &#177; SD of three PCR replicates from two cell culture replicates for each experimental treatment (*<it>P </it>&lt; 0.05).</p>
+               </text>
+               <graphic file="scrt57-7" hint_layout="double"/>
+            </fig>
+         </sec>
+         <sec>
+            <st>
+               <p>USSC express Activin A receptors (ACVR)</p>
+            </st>
+            <p>USSC express mRNA for ACVR1a, ACVR1b, ACVR1c, ACVR2a and ACVR2b when cultured in SCPM containing 30% FCS as determined by RT-PCR. When cultured in SCPM containing 0% FCS, the mRNA levels for ACVR1a, ACVR1b, ACVR1c, ACVR2a and ACVR2b increases approximately four-fold (Figure <figr fid="F8">8</figr>; <it>P </it>&lt; 0.05). Immunohistochemistry analysis revealed that USSC also express ACVR1b, ACVR2a and ACV2b protein when cultured in SCPM containing 30% FCS (Figure <figr fid="F9">9</figr>). USSC continue to express ACVR1b, ACVR2a and ACVR2b protein when cultured in serum free conditions (SCPM containing 0% FCS; Additional File <supplr sid="S3">3</supplr>).</p>
+            <fig id="F8">
+               <title>
+                  <p>Figure 8</p>
+               </title>
+               <caption>
+                  <p>Activin receptor (ACVR) mRNA levels</p>
+               </caption>
+               <text>
+                  <p><b>Activin receptor (ACVR) mRNA levels</b>. ACVR mRNA levels for USSC cultured in SCPM containing 0% FCS, expressed as fold change from mRNA levels in USSC cultured in control (SCPM containing 30% FCS). All ACVR mRNA levels are significantly increased in USSC cultured in 0% FCS, compared to USSC cultured in SCPM containing 30% FCS (*<it>P </it>&lt; 0.05). Data represent the mean &#177; SD of three PCR replicates from four cell lines for each experimental treatment.</p>
+               </text>
+               <graphic file="scrt57-8" hint_layout="double"/>
+            </fig>
+            <fig id="F9">
+               <title>
+                  <p>Figure 9</p>
+               </title>
+               <caption>
+                  <p>Activin receptor (ACVR) protein levels</p>
+               </caption>
+               <text>
+                  <p><b>Activin receptor (ACVR) protein levels</b>. Representative light micrographs (400&#215;) depicting the localization of ACVR (brown staining) in USSC grown in SCPM. Nuclei are counterstained blue with Haematoxylin. USSC 1 (left column) and USSC 2 (right column) expressed ACVR1b (<b>A, B</b>), ACVR2a (<b>C, D</b>) and ACVR2b (<b>E, F</b>). No staining was detected in the IgG controls (<b>G, H</b>).</p>
+               </text>
+               <graphic file="scrt57-9" hint_layout="double"/>
+            </fig>
+            <suppl id="S3">
+               <title>
+                  <p>Additional file 3</p>
+               </title>
+               <text>
+                  <p><b>Activin receptor (ACVR) protein levels in USSC grown in serum free conditions</b>. Representative light micrographs depicting the localization of ACVR (brown staining) in USSC grown in serum free conditions (SCPM containing 0% FCS; 400&#215;). Nuclei are counterstained blue with Haematoxylin. USSC 1 (left column) and USSC 2 (right column) expressed ACVR1b (<b>A, B</b>), ACVR2a (<b>C, D</b>) and ACVR2b (<b>E, F</b>). No staining was detected in the IgG controls (<b>G, H</b>).</p>
+               </text>
+               <file name="scrt57-S3.PDF">
+                  <p>Click here for file</p>
+               </file>
+            </suppl>
+         </sec>
+      </sec>
+      <sec>
+         <st>
+            <p>Discussion</p>
+         </st>
+         <p>The results of this study demonstrate that Activin A/Nodal signaling alone is insufficient to induce formation of Sox17+ endoderm from USSC. Activin A induction (100 ng/ml, 72 hrs) was tested in three independent experiments in triplicate, using media that was serum-free, contained low serum (2%) or which had an incremental increase in serum (0, 0.2 and 2%). Activin A treated USSC showed no change in their capacity to form nerve-like (ectoderm), bone-like (mesoderm) or lung-like (endoderm) cells, indicating that Activin A treatment alone does not direct differentiation of USSC. Small molecule induction of the Nodal signaling pathway using IDE1/2, which are highly efficient in inducing DE formation of hESC <abbrgrp><abbr bid="B14">14</abbr></abbrgrp>, also does not result in DE formation of USSC. Furthermore, we report that induction with Activin A in combination with FGF4 does not induce Sox17+ DE formation of USSC. Finally, we show that USSC express the ACVR and are therefore capable of responding to Activin A signals.</p>
+         <p>Unlike USSC, Activin A induction of hESC line Envy with an incremental increase in serum was sufficient to cause a 16-fold increase in Sox17 mRNA levels, a level of up-regulation that is similar to previous reports of Activin A-induced hESC endoderm formation <abbrgrp><abbr bid="B8">8</abbr></abbrgrp>. Similarly, the H9 hESC line also showed increased Sox17 mRNA levels in response to Activin A induction. H9 showed a similar trend to Envy, although the magnitude was somewhat smaller. Hence, although there are differences between hESC lines, well characterized hESC lines such as Envy and H9 respond to growth factor stimulation in a relatively robust, repeatable manner with a similar trend in terms of expression of key markers of differentiation. Similarly, IDE1/2 induction resulted in up-regulation of Sox17 in hESC, confirming earlier reports that IDE1/2 induce formation of DE from hESC <abbrgrp><abbr bid="B14">14</abbr></abbrgrp>. Although Brachyury mRNA was detected in untreated hESC, there was no discernible increase in Brachyury expression following IDE1/2 induction. This may indicate that if hESC pass through a mesendoderm intermediate that they may have already done so after four days of IDE1/2 induction.</p>
+         <p>Unlike hESC, USSC appear to be a heterogeneous population <abbrgrp><abbr bid="B21">21</abbr></abbrgrp> (and our own observations), one that still requires further characterization. Indeed, here we report that USSC1 and USSC2 do not form Sox17+ cells when treated with Activin A in combination with FGF4. We report that the growth factors Activin A and FGF4 used in this study are active (as indicated by their effect on hESC and NIH 3T3 cells respectively) but do not induce Sox17 expression in USSC1 (derived in our laboratory) and USSC2 (derived in Gesine Kogler's laboratory). Our results disagree with those of Waclawczyk and Kogler <it>et al. </it><abbrgrp><abbr bid="B18">18</abbr></abbrgrp> who found that the same induction strategy induced formation of hepatocytes; those USSC expressed Sox17 mRNA at Day 3 of directed differentiation and cytoplasmic Sox17 protein at Day 5. The significance of the cytoplasmic localization of the transcription factor Sox17 in that study is unclear; it may indicate that although Sox17 was present it was not active. The results of the current study indicate that the combination of Activin A and FGF4 is not a robust induction protocol for inducing Sox17 expression in USSC.</p>
+         <p>There are a number of possibilities why USSC do not respond to Activin A signaling alone. Indeed, other authors have shown that Activin A-induced DE formation in hESC (1) can be enhanced by the addition of Wnt3a <abbrgrp><abbr bid="B10">10</abbr></abbrgrp>, sodium butyrate <abbrgrp><abbr bid="B22">22</abbr></abbrgrp> or insulin transferrin-selenium (ITS) <abbrgrp><abbr bid="B9">9</abbr></abbrgrp>, or (2) can be achieved only by ensuring phosphoinositide 3-kinases (PI3K) are suppressed <abbrgrp><abbr bid="B23">23</abbr></abbrgrp>. This study did not test these modified Activin A induction strategies, so none of these possibilities can be excluded. However, numerous studies (including the current study) show that Activin A alone is sufficient for endoderm formation from ESCs <abbrgrp><abbr bid="B8">8</abbr><abbr bid="B12">12</abbr><abbr bid="B24">24</abbr><abbr bid="B25">25</abbr></abbrgrp>. This study can only conclude that unlike in hESC, in USSC Activin A/Nodal signaling alone is insufficient to induce DE formation.</p>
+         <p>We show that USSC express the necessary receptors to respond to Activin A signaling. All USSC lines expressed all five ACVRs at the mRNA level and express ACVR1b, ACVR2a and ACVR2b at the protein level; the combination of these receptors is sufficient for functional Activin A signaling <abbrgrp><abbr bid="B26">26</abbr></abbrgrp>. USSC may lack other functional components of the signaling cascade; further studies that may elucidate this issue include those that determine 1) receptor functionality using an Activin A fluorokine assay, 2) nuclear localization of Smad2 or 3) the baseline of Activin A signaling by addition of Activin A inhibitors such as Follistatin or Inhibin in USSC. Alternatively, interrogation of this signaling pathway may in fact reveal that USSC have all the required Activin A signaling components, but may have passed the developmental window in which they will respond to Activin A by forming DE.</p>
+         <p>Although Activin A induction in combination with other growth factors may be sufficient for specifying committed cell types such as hepatocytes <abbrgrp><abbr bid="B18">18</abbr></abbrgrp>, growth factors alone are unlikely to be sufficient for USSC-Sox17+ DE formation. We speculate that this may reflect that USSC, although capable of forming cells representative of all three germline layers, have a restricted differentiation potential compared to hESC. Indeed, USSC do not express Oct4 <abbrgrp><abbr bid="B4">4</abbr></abbrgrp> but do express Klf4 and c-Myc <abbrgrp><abbr bid="B27">27</abbr></abbrgrp>, while hESC express all of the pluripotency markers. Furthermore Kluth <it>et al. </it><abbrgrp><abbr bid="B21">21</abbr></abbrgrp> propose that USSC may be derived from the fetal liver, hence USSC may have a greater propensity to form hepatocytes and may require stronger signals to revert back to less committed cell types such as DE progenitors. Hence, USSC may have a more restricted pluripotent capacity than initially thought and may require partial reprogramming to form endodermal progenitors.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Conclusions</p>
+         </st>
+         <p>In conclusion, although cord blood-derived USSC have the potential to form cells derived from the endoderm, this study demonstrates that they do not form Sox17+ DE when treated with Activin A or IDE1/2; conditions that specify hESC endoderm differentiation. This indicates that USSC respond differently to hESC when induced with Activin A and that there is a fundamental difference in the multipotent capacity of these two types of stem cells. Clearly, further characterization of USSC is required in order to fully understand and realize the potential of USSC, and allow us to understand their position in the hierarchy of lineage of human stem cells.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Abbreviations</p>
+         </st>
+         <p>ACVR: Activin A receptor; CFTR: cystic fibrosis transmembrane conductance regulator; DAB: 3,3'-diaminobenzidine; DE: definitive endoderm; FCS: fetal calf serum; FGF4: fibroblast growth factor 4; hESC: human embryonic stem cell(s); IDE: induce definitive endoderm; iPSC: induced pluripotent stem cell(s); ITS: insulin transferrin-selenium; PBS: phosphate-buffered saline; PIM: pre-induction media; SCPM: stem cell proliferation medium; USSC: unrestricted somatic stem cell(s)</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Competing interests</p>
+         </st>
+         <p>The authors declare that they have no competing interests.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Authors' contributions</p>
+         </st>
+         <p>CF designed parts of the study, carried out the study, and wrote and edited the manuscript. PVK carried out initial experiments. RW and NE edited the manuscript and provided intellectual input into the study. AP and MD performed the ESC experiments. FZ devised the initial study, performed initial experiments and provided editorial input into the manuscript.</p>
+      </sec>
+   </bdy>
+   <bm>
+      <ack>
+         <sec>
+            <st>
+               <p>Acknowledgements</p>
+            </st>
+            <p>We wish to thank Professor Stuart Schreiber for the kind gift of the IDE1/2 molecules, Jessie Leung for assistance with hESC cultures and Kate Loveland, Julia Young and Jessica Van Gent for the kind gift of the ACVR antibodies and assistance with ACVR immunohistochemistry. We would also like to acknowledge the Justin Lowndes Cystic Fibrosis Research Bequest, the Australian Cystic Fibrosis Research Trust and the CASS (Contributing to Australian Scholarship and Science) Foundation for their support.</p>
+         </sec>
+      </ack>
+      <refgrp>
+         <bibl id="B1">
+            <title>
+               <p>A new human somatic stem cell from placental cord blood with intrinsic pluripotent differentiation potential</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>K&#246;gler</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Sensken</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Airey</snm>
+                  <fnm>JA</fnm>
+               </au>
+               <au>
+                  <snm>Trapp</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Muschen</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Feldhahn</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Liedtke</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Sorg</snm>
+                  <fnm>RV</fnm>
+               </au>
+               <au>
+                  <snm>Fischer</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Rosenbaum</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Greschat</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Knipper</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Bender</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Degistirici</snm>
+                  <fnm>O</fnm>
+               </au>
+               <au>
+                  <snm>Gao</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Caplan</snm>
+                  <fnm>AI</fnm>
+               </au>
+               <au>
+                  <snm>Colletti</snm>
+                  <fnm>EJ</fnm>
+               </au>
+               <au>
+                  <snm>Almeida-Porada</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Muller</snm>
+                  <fnm>HW</fnm>
+               </au>
+               <au>
+                  <snm>Zanjani</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Wernet</snm>
+                  <fnm>P</fnm>
+               </au>
+            </aug>
+            <source>J Exp Med</source>
+            <pubdate>2004</pubdate>
+            <volume>200</volume>
+            <fpage>123</fpage>
+            <lpage>135</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="pmcid">2212008</pubid>
+                  <pubid idtype="pmpid">15263023</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B2">
+            <title>
+               <p>Derivation of lung epithelium from human cord blood-derived mesenchymal stem cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Sueblinvong</snm>
+                  <fnm>V</fnm>
+               </au>
+               <au>
+                  <snm>Loi</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Eisenhauer</snm>
+                  <fnm>PL</fnm>
+               </au>
+               <au>
+                  <snm>Bernstein</snm>
+                  <fnm>IM</fnm>
+               </au>
+               <au>
+                  <snm>Suratt</snm>
+                  <fnm>BT</fnm>
+               </au>
+               <au>
+                  <snm>Spees</snm>
+                  <fnm>JL</fnm>
+               </au>
+               <au>
+                  <snm>Weiss</snm>
+                  <fnm>DJ</fnm>
+               </au>
+            </aug>
+            <source>Am J Respir Crit Care Med</source>
+            <pubdate>2008</pubdate>
+            <volume>177</volume>
+            <fpage>701</fpage>
+            <lpage>711</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1164/rccm.200706-859OC</pubid>
+                  <pubid idtype="pmcid">2277209</pubid>
+                  <pubid idtype="pmpid">18063840</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B3">
+            <title>
+               <p>Future of cord blood for non-oncology uses</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>K&#246;gler</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Critser</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Trapp</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Yoder</snm>
+                  <fnm>M</fnm>
+               </au>
+            </aug>
+            <source>Bone Marrow Transplant</source>
+            <pubdate>2009</pubdate>
+            <volume>44</volume>
+            <fpage>683</fpage>
+            <lpage>697</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid" link="fulltext">19802027</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B4">
+            <title>
+               <p>Unrestricted somatic stem cells from human umbilical cord blood grow in serum-free medium as spheres</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Zaibak</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Bello</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Kozlovski</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Crombie</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Ang</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Dottori</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Williamson</snm>
+                  <fnm>R</fnm>
+               </au>
+            </aug>
+            <source>BMC Biotechnol</source>
+            <pubdate>2009</pubdate>
+            <volume>9</volume>
+            <fpage>101</fpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1186/1472-6750-9-101</pubid>
+                  <pubid idtype="pmcid">2805630</pubid>
+                  <pubid idtype="pmpid">20003538</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B5">
+            <title>
+               <p>Comparative generation and characterization of pluripotent unrestricted somatic stem cells with mesenchymal stem cells from human cord blood</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>K&#246;gler</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Sensken</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Wernet</snm>
+                  <fnm>P</fnm>
+               </au>
+            </aug>
+            <source>Exp Hematol</source>
+            <pubdate>2006</pubdate>
+            <volume>34</volume>
+            <fpage>1589</fpage>
+            <lpage>1595</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid" link="fulltext">17046580</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B6">
+            <title>
+               <p>Genetic dissection of nodal function in patterning the mouse embryo</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Lowe</snm>
+                  <fnm>LA</fnm>
+               </au>
+               <au>
+                  <snm>Yamada</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Kuehn</snm>
+                  <fnm>MR</fnm>
+               </au>
+            </aug>
+            <source>Development</source>
+            <pubdate>2001</pubdate>
+            <volume>128</volume>
+            <fpage>1831</fpage>
+            <lpage>1843</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid" link="fulltext">11311163</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B7">
+            <title>
+               <p>Nodal signaling in vertebrate development</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Schier</snm>
+                  <fnm>AF</fnm>
+               </au>
+            </aug>
+            <source>Annu Rev Cell Dev Biol</source>
+            <pubdate>2003</pubdate>
+            <volume>19</volume>
+            <fpage>589</fpage>
+            <lpage>621</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1146/annurev.cellbio.19.041603.094522</pubid>
+                  <pubid idtype="pmpid" link="fulltext">14570583</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B8">
+            <title>
+               <p>Efficient differentiation of human embryonic stem cells to definitive endoderm</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>D'Amour</snm>
+                  <fnm>KA</fnm>
+               </au>
+               <au>
+                  <snm>Agulnick</snm>
+                  <fnm>AD</fnm>
+               </au>
+               <au>
+                  <snm>Eliazer</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Kelly</snm>
+                  <fnm>OG</fnm>
+               </au>
+               <au>
+                  <snm>Kroon</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Baetge</snm>
+                  <fnm>EE</fnm>
+               </au>
+            </aug>
+            <source>Nat Biotechnol</source>
+            <pubdate>2005</pubdate>
+            <volume>23</volume>
+            <fpage>1534</fpage>
+            <lpage>1541</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid" link="fulltext">16258519</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B9">
+            <title>
+               <p>Directed differentiation of human embryonic stem cells into functional hepatic cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Cai</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Zhao</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Liu</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Ye</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Song</snm>
+                  <fnm>Z</fnm>
+               </au>
+               <au>
+                  <snm>Qin</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Meng</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Chen</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Zhou</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Song</snm>
+                  <fnm>X</fnm>
+               </au>
+               <au>
+                  <snm>Guo</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Ding</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Deng</snm>
+                  <fnm>H</fnm>
+               </au>
+            </aug>
+            <source>Hepatology</source>
+            <pubdate>2007</pubdate>
+            <volume>45</volume>
+            <fpage>1229</fpage>
+            <lpage>1239</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1002/hep.21582</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17464996</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B10">
+            <title>
+               <p>Production of pancreatic hormone-expressing endocrine cells from human embryonic stem cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>D'Amour</snm>
+                  <fnm>KA</fnm>
+               </au>
+               <au>
+                  <snm>Bang</snm>
+                  <fnm>AG</fnm>
+               </au>
+               <au>
+                  <snm>Eliazer</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Kelly</snm>
+                  <fnm>OG</fnm>
+               </au>
+               <au>
+                  <snm>Agulnick</snm>
+                  <fnm>AD</fnm>
+               </au>
+               <au>
+                  <snm>Smart</snm>
+                  <fnm>NG</fnm>
+               </au>
+               <au>
+                  <snm>Moorman</snm>
+                  <fnm>MA</fnm>
+               </au>
+               <au>
+                  <snm>Kroon</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Carpenter</snm>
+                  <fnm>MK</fnm>
+               </au>
+               <au>
+                  <snm>Baetge</snm>
+                  <fnm>EE</fnm>
+               </au>
+            </aug>
+            <source>Nat Biotechnol</source>
+            <pubdate>2006</pubdate>
+            <volume>24</volume>
+            <fpage>1392</fpage>
+            <lpage>1401</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid" link="fulltext">17053790</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B11">
+            <title>
+               <p>Signaling pathways controlling pluripotency and early cell fate decisions of human induced pluripotent stem cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Vallier</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Touboul</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Brown</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Cho</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Bilican</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Alexander</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Cedervall</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Chandran</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Ahrlund-Richter</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Weber</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Pedersen</snm>
+                  <fnm>RA</fnm>
+               </au>
+            </aug>
+            <source>Stem Cells</source>
+            <pubdate>2009</pubdate>
+            <volume>27</volume>
+            <fpage>2655</fpage>
+            <lpage>2666</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1002/stem.199</pubid>
+                  <pubid idtype="pmpid" link="fulltext">19688839</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B12">
+            <title>
+               <p>Development of definitive endoderm from embryonic stem cells in culture</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Kubo</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Shinozaki</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Shannon</snm>
+                  <fnm>JM</fnm>
+               </au>
+               <au>
+                  <snm>Kouskoff</snm>
+                  <fnm>V</fnm>
+               </au>
+               <au>
+                  <snm>Kennedy</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Woo</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Fehling</snm>
+                  <fnm>HJ</fnm>
+               </au>
+               <au>
+                  <snm>Keller</snm>
+                  <fnm>G</fnm>
+               </au>
+            </aug>
+            <source>Development</source>
+            <pubdate>2004</pubdate>
+            <volume>131</volume>
+            <fpage>1651</fpage>
+            <lpage>1662</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1242/dev.01044</pubid>
+                  <pubid idtype="pmpid" link="fulltext">14998924</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B13">
+            <title>
+               <p>Activin/Nodal and FGF pathways cooperate to maintain pluripotency of human embryonic stem cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Vallier</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Alexander</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Pedersen</snm>
+                  <fnm>RA</fnm>
+               </au>
+            </aug>
+            <source>J Cell Sci</source>
+            <pubdate>2005</pubdate>
+            <volume>118</volume>
+            <fpage>4495</fpage>
+            <lpage>4509</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1242/jcs.02553</pubid>
+                  <pubid idtype="pmpid" link="fulltext">16179608</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B14">
+            <title>
+               <p>Small molecules efficiently direct endodermal differentiation of mouse and human embryonic stem cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Borowiak</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Maehr</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Chen</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Chen</snm>
+                  <fnm>AE</fnm>
+               </au>
+               <au>
+                  <snm>Tang</snm>
+                  <fnm>W</fnm>
+               </au>
+               <au>
+                  <snm>Fox</snm>
+                  <fnm>JL</fnm>
+               </au>
+               <au>
+                  <snm>Schreiber</snm>
+                  <fnm>SL</fnm>
+               </au>
+               <au>
+                  <snm>Melton</snm>
+                  <fnm>DA</fnm>
+               </au>
+            </aug>
+            <source>Cell Stem Cell</source>
+            <pubdate>2009</pubdate>
+            <volume>4</volume>
+            <fpage>348</fpage>
+            <lpage>358</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.stem.2009.01.014</pubid>
+                  <pubid idtype="pmpid" link="fulltext">19341624</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B15">
+            <title>
+               <p>Integration of functional bacterial artificial chromosomes into human cord blood-derived multipotent stem cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Zaibak</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Kozlovski</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Vadolas</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Sarsero</snm>
+                  <fnm>JP</fnm>
+               </au>
+               <au>
+                  <snm>Williamson</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Howden</snm>
+                  <fnm>SE</fnm>
+               </au>
+            </aug>
+            <source>Gene Therapy</source>
+            <pubdate>2009</pubdate>
+            <volume>16</volume>
+            <fpage>404</fpage>
+            <lpage>414</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/gt.2008.187</pubid>
+                  <pubid idtype="pmpid" link="fulltext">19177134</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B16">
+            <title>
+               <p>Osteogenic differentiation of purified, culture-expanded human mesenchymal stem cells <it>in vitro</it></p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Jaiswal</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Haynesworth</snm>
+                  <fnm>SE</fnm>
+               </au>
+               <au>
+                  <snm>Caplan</snm>
+                  <fnm>AI</fnm>
+               </au>
+               <au>
+                  <snm>Bruder</snm>
+                  <fnm>SP</fnm>
+               </au>
+            </aug>
+            <source>J Cell Biochem</source>
+            <pubdate>1997</pubdate>
+            <volume>64</volume>
+            <fpage>295</fpage>
+            <lpage>312</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1002/(SICI)1097-4644(199702)64:2&lt;295::AID-JCB12>3.0.CO;2-I</pubid>
+                  <pubid idtype="pmpid" link="fulltext">9027589</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B17">
+            <title>
+               <p>Differentiation of umbilical cord blood-derived multilineage progenitor cells into respiratory epithelial cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Berger</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Adams</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Tigges</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Sprague</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Wang</snm>
+                  <fnm>XJ</fnm>
+               </au>
+               <au>
+                  <snm>Collins</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>McKenna</snm>
+                  <fnm>D</fnm>
+               </au>
+            </aug>
+            <source>Cytotherapy</source>
+            <pubdate>2006</pubdate>
+            <volume>8</volume>
+            <fpage>480</fpage>
+            <lpage>487</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1080/14653240600941549</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17050253</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B18">
+            <title>
+               <p><it>In vitro </it>differentiation of unrestricted somatic stem cells into functional hepatic-like cells displaying a hepatocyte-like glucose metabolism</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Waclawczyk</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Buchheiser</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Flogel</snm>
+                  <fnm>U</fnm>
+               </au>
+               <au>
+                  <snm>Radke</snm>
+                  <fnm>TF</fnm>
+               </au>
+               <au>
+                  <snm>Kogler</snm>
+                  <fnm>G</fnm>
+               </au>
+            </aug>
+            <source>J Cell Physiol</source>
+            <pubdate>2010</pubdate>
+            <volume>225</volume>
+            <fpage>545</fpage>
+            <lpage>554</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1002/jcp.22237</pubid>
+                  <pubid idtype="pmpid" link="fulltext">20458755</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B19">
+            <title>
+               <p>Purification of human platelet-derived growth factor</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Raines</snm>
+                  <fnm>EW</fnm>
+               </au>
+               <au>
+                  <snm>Ross</snm>
+                  <fnm>R</fnm>
+               </au>
+            </aug>
+            <source>Methods Enzymol</source>
+            <pubdate>1985</pubdate>
+            <volume>109</volume>
+            <fpage>749</fpage>
+            <lpage>773</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">full_text</pubid>
+                  <pubid idtype="pmpid">3990574</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B20">
+            <title>
+               <p>Embryonic stem cell lines from human blastocysts: somatic differentiation <it>in vitro</it></p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Reubinoff</snm>
+                  <fnm>BE</fnm>
+               </au>
+               <au>
+                  <snm>Pera</snm>
+                  <fnm>MF</fnm>
+               </au>
+               <au>
+                  <snm>Fong</snm>
+                  <fnm>CY</fnm>
+               </au>
+               <au>
+                  <snm>Trounson</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Bongso</snm>
+                  <fnm>A</fnm>
+               </au>
+            </aug>
+            <source>Nat Biotechnol</source>
+            <pubdate>2000</pubdate>
+            <volume>18</volume>
+            <fpage>399</fpage>
+            <lpage>404</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/74447</pubid>
+                  <pubid idtype="pmpid" link="fulltext">10748519</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B21">
+            <title>
+               <p>DLK-1 as a marker to distinguish unrestricted somatic stem cells and mesenchymal stromal cells in cord blood</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Kluth</snm>
+                  <fnm>SM</fnm>
+               </au>
+               <au>
+                  <snm>Buchheiser</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Houben</snm>
+                  <fnm>AP</fnm>
+               </au>
+               <au>
+                  <snm>Geyh</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Krenz</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Radke</snm>
+                  <fnm>TF</fnm>
+               </au>
+               <au>
+                  <snm>Wiek</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Hanenberg</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Reinecke</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Wernet</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Kogler</snm>
+                  <fnm>G</fnm>
+               </au>
+            </aug>
+            <source>Stem Cells Dev</source>
+            <pubdate>2010</pubdate>
+            <volume>19</volume>
+            <fpage>1471</fpage>
+            <lpage>1483</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1089/scd.2010.0070</pubid>
+                  <pubid idtype="pmpid" link="fulltext">20331358</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B22">
+            <title>
+               <p>Generation of insulin-producing islet-like clusters from human embryonic stem cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Jiang</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Au</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Lu</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Eshpeter</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Korbutt</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Fisk</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Majumdar</snm>
+                  <fnm>AS</fnm>
+               </au>
+            </aug>
+            <source>Stem Cells</source>
+            <pubdate>2007</pubdate>
+            <volume>25</volume>
+            <fpage>1940</fpage>
+            <lpage>1953</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1634/stemcells.2006-0761</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17510217</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B23">
+            <title>
+               <p>Activin a efficiently specifies definitive endoderm from human embryonic stem cells only when phosphatidylinositol 3-kinase signaling is suppressed</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>McLean</snm>
+                  <fnm>AB</fnm>
+               </au>
+               <au>
+                  <snm>D'Amour</snm>
+                  <fnm>KA</fnm>
+               </au>
+               <au>
+                  <snm>Jones</snm>
+                  <fnm>KL</fnm>
+               </au>
+               <au>
+                  <snm>Krishnamoorthy</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Kulik</snm>
+                  <fnm>MJ</fnm>
+               </au>
+               <au>
+                  <snm>Reynolds</snm>
+                  <fnm>DM</fnm>
+               </au>
+               <au>
+                  <snm>Sheppard</snm>
+                  <fnm>AM</fnm>
+               </au>
+               <au>
+                  <snm>Liu</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Xu</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Baetge</snm>
+                  <fnm>EE</fnm>
+               </au>
+               <au>
+                  <snm>Dalton</snm>
+                  <fnm>S</fnm>
+               </au>
+            </aug>
+            <source>Stem Cells</source>
+            <pubdate>2007</pubdate>
+            <volume>25</volume>
+            <fpage>29</fpage>
+            <lpage>38</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1634/stemcells.2006-0219</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17204604</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B24">
+            <title>
+               <p><it>In vitro </it>derivation of functional insulin-producing cells from human embryonic stem cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Jiang</snm>
+                  <fnm>W</fnm>
+               </au>
+               <au>
+                  <snm>Shi</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Zhao</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Chen</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Yong</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Zhang</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Qing</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Sun</snm>
+                  <fnm>X</fnm>
+               </au>
+               <au>
+                  <snm>Zhang</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Ding</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Li</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Deng</snm>
+                  <fnm>H</fnm>
+               </au>
+            </aug>
+            <source>Cell Res</source>
+            <pubdate>2007</pubdate>
+            <volume>17</volume>
+            <fpage>333</fpage>
+            <lpage>344</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/cr.2007.28</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17426693</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B25">
+            <title>
+               <p>Derivation of distal lung epithelial progenitors from murine embryonic stem cells using a novel 3-step differentiation protocol</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Rippon</snm>
+                  <fnm>HJ</fnm>
+               </au>
+               <au>
+                  <snm>Polak</snm>
+                  <fnm>JM</fnm>
+               </au>
+               <au>
+                  <snm>Qin</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Bishop</snm>
+                  <fnm>AE</fnm>
+               </au>
+            </aug>
+            <source>Stem Cells</source>
+            <pubdate>2006</pubdate>
+            <xrefbib>
+               <pubid idtype="pmpid" link="fulltext">16456134</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B26">
+            <title>
+               <p>The biology of activin: recent advances in structure, regulation and function</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Xia</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Schneyer</snm>
+                  <fnm>AL</fnm>
+               </au>
+            </aug>
+            <source>J Endocrinol</source>
+            <pubdate>2009</pubdate>
+            <volume>202</volume>
+            <fpage>1</fpage>
+            <lpage>12</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1677/JOE-08-0549</pubid>
+                  <pubid idtype="pmcid">2704481</pubid>
+                  <pubid idtype="pmpid">19273500</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B27">
+            <title>
+               <p>Induction of pluripotency in human cord blood unrestricted somatic stem cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Zaehres</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Kogler</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Arauzo-Bravo</snm>
+                  <fnm>MJ</fnm>
+               </au>
+               <au>
+                  <snm>Bleidissel</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Santourlidis</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Weinhold</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Greber</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Kim</snm>
+                  <fnm>JB</fnm>
+               </au>
+               <au>
+                  <snm>Buchheiser</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Liedtke</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Eilken</snm>
+                  <fnm>HM</fnm>
+               </au>
+               <au>
+                  <snm>Graffmann</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Zhao</snm>
+                  <fnm>X</fnm>
+               </au>
+               <au>
+                  <snm>Meyer</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Reinhardt</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Burr</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Waclawczyk</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Ortmeier</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Uhrberg</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Scholer</snm>
+                  <fnm>HR</fnm>
+               </au>
+               <au>
+                  <snm>Cantz</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Wernet</snm>
+                  <fnm>P</fnm>
+               </au>
+            </aug>
+            <source>Exp Hematol</source>
+            <volume>38</volume>
+            <fpage>809</fpage>
+            <lpage>818</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.exphem.2010.05.009</pubid>
+                  <pubid idtype="pmpid" link="fulltext">20541586</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+      </refgrp>
+   </bm>
+</art>

@@ -1,6 +1,7 @@
 package ie.dcu.cngl.summarizer.feature;
 
 import ie.dcu.cngl.summarizer.SummarizerUtils;
+import ie.dcu.cngl.tokenizer.Sentence;
 import ie.dcu.cngl.tokenizer.TokenInfo;
 import ie.dcu.cngl.tokenizer.Tokenizer;
 
@@ -54,6 +55,13 @@ public class SummaryAnalyzer extends Analyzer {
                                         new MyTokenStream(iter))))), stopset));
     }
 
+    public TokenStream tokenStream(String fieldName, Sentence sentence) {
+        Iterator<TokenInfo> iter = sentence.iterator();
+
+        return new PorterStemFilter(new StopFilter(Version.LUCENE_36, new StandardFilter(Version.LUCENE_36,
+                        new NumericTokenFilter(new PunctuationTokenFilter(new LowerCaseFilter(Version.LUCENE_36,
+                                        new MyTokenStream(iter))))), stopset));
+    }
 
     /**
      * Dynamically reads text from reader.

@@ -1,0 +1,2213 @@
+<!DOCTYPE art SYSTEM "article.dtd">
+<art>
+   <ui>scrt79</ui>
+   <ji>1757-6512</ji>
+   <fm>
+      <dochead>Research</dochead>
+      <bibl>
+         <title>
+            <p>Therapeutic effects of human umbilical cord blood-derived mesenchymal stem cells after intrathecal administration by lumbar puncture in a rat model of cerebral ischemia</p>
+         </title>
+         <aug>
+            <au id="A1" ce="yes">
+               <snm>Lim</snm>
+               <mnm>Yeon</mnm>
+               <fnm>Jung</fnm>
+               <insr iid="I1"/>
+               <email>splash-jy@hanmail.net</email>
+            </au>
+            <au id="A2" ce="yes">
+               <snm>Jeong</snm>
+               <mnm>Hyun</mnm>
+               <fnm>Chang</fnm>
+               <insr iid="I1"/>
+               <email>mole3644@catholic.ac.kr</email>
+            </au>
+            <au id="A3">
+               <snm>Jun</snm>
+               <mnm>Ae</mnm>
+               <fnm>Jin</fnm>
+               <insr iid="I1"/>
+               <email>junjinae@hanmail.net</email>
+            </au>
+            <au id="A4">
+               <snm>Kim</snm>
+               <mnm>Muk</mnm>
+               <fnm>Seong</fnm>
+               <insr iid="I1"/>
+               <email>smkim0114@catholic.ac.kr</email>
+            </au>
+            <au id="A5">
+               <snm>Ryu</snm>
+               <mnm>Heon</mnm>
+               <fnm>Chung</fnm>
+               <insr iid="I1"/>
+               <email>tcell24@hanmail.net</email>
+            </au>
+            <au id="A6">
+               <snm>Hou</snm>
+               <fnm>Yun</fnm>
+               <insr iid="I1"/>
+               <email>houtuntower@catholic.ac.kr</email>
+            </au>
+            <au id="A7">
+               <snm>Oh</snm>
+               <fnm>Wonil</fnm>
+               <insr iid="I3"/>
+               <email>wioh@medi-post.co.kr</email>
+            </au>
+            <au id="A8">
+               <snm>Chang</snm>
+               <mnm>Wook</mnm>
+               <fnm>Jong</fnm>
+               <insr iid="I3"/>
+               <email>jwc@medi-post.co.kr</email>
+            </au>
+            <au id="A9" ca="yes">
+               <snm>Jeun</snm>
+               <fnm>Sin-Soo</fnm>
+               <insr iid="I1"/>
+               <insr iid="I2"/>
+               <email>ssjeun@catholic.ac.kr</email>
+            </au>
+         </aug>
+         <insg>
+            <ins id="I1">
+               <p>Department of Biomedical Science, College of Medicine, The Catholic University of Korea, Seoul, 137-701, Korea</p>
+            </ins>
+            <ins id="I2">
+               <p>Department of Neurosurgery, Seoul St. Mary's Hospital, The Catholic University of Korea, Seoul, 137-701, Korea</p>
+            </ins>
+            <ins id="I3">
+               <p>Medipost Biomedical Research Institute, MEDIPOST Co., Ltd., Seoul, 137-073, Korea</p>
+            </ins>
+         </insg>
+         <source>Stem Cell Research &amp; Therapy</source>
+         <issn>1757-6512</issn>
+         <pubdate>2011</pubdate>
+         <volume>2</volume>
+         <issue>5</issue>
+         <fpage>38</fpage>
+         <url>http://stemcellres.com/content/2/5/38</url>
+         <xrefbib>
+            <pubidlist>
+               <pubid idtype="doi">10.1186/scrt79</pubid>
+               <pubid idtype="pmpid">21939558</pubid>
+            </pubidlist>
+         </xrefbib>
+      </bibl>
+      <history>
+         <rec>
+            <date>
+               <day>8</day>
+               <month>4</month>
+               <year>2011</year>
+            </date>
+         </rec>
+         <acc>
+            <date>
+               <day>22</day>
+               <month>9</month>
+               <year>2011</year>
+            </date>
+         </acc>
+         <pub>
+            <date>
+               <day>22</day>
+               <month>9</month>
+               <year>2011</year>
+            </date>
+         </pub>
+      </history>
+      <cpyrt>
+         <year>2011</year>
+         <collab>Lim et al.; licensee BioMed Central Ltd.</collab>
+         <note>This is an open access article distributed under the terms of the Creative Commons Attribution License (<url>http://creativecommons.org/licenses/by/2.0</url>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</note>
+      </cpyrt>
+      <abs>
+         <sec>
+            <st>
+               <p>Abstract</p>
+            </st>
+            <sec>
+               <st>
+                  <p>Introduction</p>
+               </st>
+               <p>Stem cell transplantation is a promising therapeutic strategy for the treatment of stroke. Mesenchymal stem cells (MSCs) are a potential cell source for clinical application because they can be easily obtained and cultivated with a high proliferative capacity. The safety and efficacy of cell therapy depends on the mode of cell administration. To determine the therapeutic potential of intrathecal administration of MSCs by lumbar puncture (LP), we administrated human umbilical cord blood-derived MSCs (hUCB-MSCs) intrathecally into the lumbar spinal cord or intravenously into the tail vein in a rat model of stroke, and then investigated whether hUCB-MSCs could enter the brain, survive, and improve post-stroke neurological functional recovery.</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>Methods</p>
+               </st>
+               <p>hUCB-MSCs (1.0 &#215; 10<sup>6</sup>) were administrated three days after stroke induced by occlusion of the middle cerebral artery. The presence of hUCB-MSCs and their survival and differentiation in the brain tissue of the rats was examined by immunohistochemistry. Recovery of coordination of movement after administration of hUCB-MSCs was examined using a Rotarod test and adhesive-removal test on the 7<sup>th</sup>, 14<sup>th</sup>, 21<sup>st</sup>, and 28<sup>th </sup>days after ischemia. The volume of ischemic lesions seven days after the experimental procedure was evaluated using 2-3-5-triphenyltetrazolium (TTC) staining.</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>Results</p>
+               </st>
+               <p>Rats receiving hUCB-MSCs intrathecally by LP had a significantly higher number of migrated cells within the ischemic area when compared with animals receiving cells intravenously. In addition, many of the cells administered intrathecally survived and a subset of them expressed mature neural-lineage markers, including the mature neuron marker NeuN and glial fibrillary acidic protein, typical of astrocytes. Animals that received hUCB-MSCs had significantly improved motor function and reduced ischemic damage when compared with untreated control animals. Regardless of the administration route, the group treated with 1 &#215; 10<sup>6 </sup>hUCB-MSCs showed better neurological recovery, without significant differences between the two treatment groups. Importantly, intrathecal administration of 5 &#215; 10<sup>5 </sup>hUCB-MSCs significantly reduced ischemic damage, but not in the intravenously treated group. Furthermore, the cells administered intrathecally survived and migrated into the ischemic area more extensively, and differentiated significantly into neurons and astrocytes.</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>Conclusions</p>
+               </st>
+               <p>Together, these results indicate that intrathecal administration of MSCs by LP may be useful and feasible for MSCs treatment of brain injuries, such as stroke, or neurodegenerative disorders.</p>
+            </sec>
+         </sec>
+      </abs>
+   </fm>
+   <bdy>
+      <sec>
+         <st>
+            <p>Introduction</p>
+         </st>
+         <p>Major human brain and spinal cord injury remain serious problems that currently have no effective treatment. Stem cells have the potential to induce neurorestorative processes, including neurogenesis, angiogenesis, and synaptic plasticity that are essential for facilitating recovery of neurological function <abbrgrp><abbr bid="B1">1</abbr></abbrgrp>. Therefore, transplantation of stem cells is a promising therapeutic strategy for the treatment of many neurological disorders.</p>
+         <p>Mesenchymal stem cells (MSCs) are highly attractive candidates for the application of tissue engineering to regenerate damaged tissue, because they self-renew with a high proliferative capacity and have the ability to differentiate into multiple lineages <abbrgrp><abbr bid="B2">2</abbr><abbr bid="B3">3</abbr><abbr bid="B4">4</abbr><abbr bid="B5">5</abbr><abbr bid="B6">6</abbr><abbr bid="B7">7</abbr></abbrgrp> and migrate into injured organs <abbrgrp><abbr bid="B8">8</abbr><abbr bid="B9">9</abbr></abbrgrp>. Moreover, MSCs are not immunogenic, and so they do not elicit the proliferative response of allogeneic lymphocytes <it>in vitro </it><abbrgrp><abbr bid="B10">10</abbr></abbrgrp>.</p>
+         <p>Different routes of MSC administration have been used to treat damaged ischemic brain tissue. In many studies to date, MSCs have been injected directly into pathological regions <abbrgrp><abbr bid="B11">11</abbr><abbr bid="B12">12</abbr><abbr bid="B13">13</abbr></abbrgrp>. When transplanted into the striatum of rats with ischemia from middle cerebral artery occlusion (MCAO), MSCs are well engrafted and migrate to the ischemic cortex. In addition, MSCs differentiate into cells that stain positive for neural markers and significantly improve motor recovery <abbrgrp><abbr bid="B8">8</abbr><abbr bid="B14">14</abbr></abbrgrp>. However, this technique raises the possibility of additional trauma resulting from transplantation surgery, leading to a reduced survival of grafted cells. Moreover, this surgical procedure is often impractical for patients whose condition is clinically severe <abbrgrp><abbr bid="B15">15</abbr></abbrgrp>. Furthermore, direct parenchymal cell transplantation does not allow delivery of multiple doses of therapeutic cells.</p>
+         <p>Intravenous infusion of cells is comparatively the least invasive approach and the intravenous route is well tolerated <abbrgrp><abbr bid="B16">16</abbr></abbrgrp>. Because there is long-term functional improvement following intravenous MSC injection in animal models of stroke, MSCs are now widely administered via this route <abbrgrp><abbr bid="B8">8</abbr><abbr bid="B17">17</abbr></abbrgrp>. The intravenous infusion of MSCs might be a feasible and safe mode for MSC treatment of stroke patients. However, many cells are distributed widely throughout the body, such as in the liver, the spleen, and the kidneys <abbrgrp><abbr bid="B18">18</abbr><abbr bid="B19">19</abbr></abbrgrp>. These concerns were addressed in a study that involved intravenous cell transplantation <abbrgrp><abbr bid="B20">20</abbr></abbrgrp>. The authors injected MSCs intravenously following experimental traumatic brain injury, but could only demonstrate the presence of a few cells at the injury site.</p>
+         <p>The development of a safe and effective strategy for cell transplantation has been a major clinical challenge in cell therapy. Therefore, we have been investigating alternative, effective, and clinically applicable strategies for MSC delivery in a rat model of cerebral infarction. Some studies have shown that intrathecal delivery by lumbar puncture (LP) is an extremely attractive means of delivery of chemicals into the cerebrospinal fluid (CSF) and that this route is well tolerated <abbrgrp><abbr bid="B16">16</abbr></abbrgrp>. However, little data are available regarding the delivery of cells intrathecally by LP.</p>
+         <p>To determine the possibility of delivering human umbilical cord blood-derived MSCs (hUCB-MSCs) intrathecally by LP in an MCAO model of stroke in the rat, the present study investigated the therapeutic effects and grafts of intrathecally delivered hUCB-MSCs when compared with intravenously delivered hUCB-MSCs.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Materials and methods</p>
+         </st>
+         <sec>
+            <st>
+               <p>Culture of hUCB-MSCs</p>
+            </st>
+            <p>Human UCB samples were collected from the umbilical vein of deliveries with informed maternal consent. The 16-gauge needle of a UCB collection bag containing 44.8 ml of CPDA-1 anticoagulant (Greencross, Yongin, Korea) was inserted into the umbilical vein and UCBs were collected by gravity. Isolation and expansion of UCB-MSCs was conducted as previously reported <abbrgrp><abbr bid="B21">21</abbr></abbrgrp>. In brief, mononuclear cells were isolated by centrifugation in a Ficoll-Hypaque gradient (density 1.077 g/cm3, Sigma, St Louis, MO, USA). The separated mononuclear cells were washed, suspended in a-minimum essential medium (a-MEM; Gibco BRL, Carlsbad, CA, USA), supplemented with 10% fetal bovine serum (FBS; HyClone, Logan, UT, USA), and seeded at a concentration of 5 &#215; 10<sup>6 </sup>cells/cm<sup>2</sup>. Cultures were maintained at 37&#176;C in a humidified atmosphere containing 5% CO<sub>2 </sub>with a change of culture medium twice a week. UCB-derived mononuclear cells were set in culture, and the onset of fibroblast-like adherent cells was observed. One to three weeks later, when the monolayer of MSC colonies reached 80% confluence, cells were trypsinized (0.25% trypsin, HyClone), washed, resuspended in culture medium (a-MEM supplemented with 10% FBS) and subcultured at a concentration of 5 &#215; 10<sup>4 </sup>cells/cm<sup>2</sup>. MSCs of each UCB harvest were expanded <it>ex vivo </it>by successive subcultivation under the same condition. The fifth to eighth passage cells of UCB harvests with more than 1,000-fold expanding capacity were used for the experimental work. Ethical approval for the use of hUCB-MSCs was obtained from the Institutional Review Board of Catholic University Medical Center.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Ischemic animal model and experimental groups</p>
+            </st>
+            <p>All animal protocols were approved by the Institutional Animal Care and Use Committee of the Catholic University Medical School. Anesthesia of adult male Sprague Dawley rats weighing 250 to 270 g was induced with 5% isoflurane in 70% nitrous oxide and 30% oxygen using an induction chamber, and anesthesia was maintained by supplying 1.5% isoflurane using a face mask. Rectal temperature was maintained at 37&#176;C throughout the surgical procedure, as monitored by an electronic temperature controller linked to a heating pad (FHC, Bowdoinham, ME, USA). Transient MCAO was induced as previously described by <abbrgrp><abbr bid="B22">22</abbr></abbrgrp>, with a slight modification. Briefly, the right common carotid artery (CCA), external carotid artery (ECA), and internal carotid artery (ICA) were exposed through a ventral midline incision. A 4-0 nylon monofilament suture with a rounded tip was introduced into the CCA lumen and gently advanced into the ICA until it blocked the bifurcating origin of the MCA. Two hours after occlusion, animals were reanesthetized and reperfused by withdrawing the suture until its tip cleared the lumen of the CCA.</p>
+            <p>All experiments were randomized. Seventy-four rats that underwent a transient MCAO were directly used to obtain the final data shown in this study: intrathecal injection of phosphate buffered saline (PBS) into CSF by LP (<it>n </it>= 12), intravenous injection of PBS into tail vein (<it>n </it>= 12), intrathecal injection of hUCB-MSCs (<it>n </it>= 25), and intravenous injection of hUCB-MSCs (<it>n </it>= 25).</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Cell transplantation</p>
+            </st>
+            <p>hUCB-MSCs were injected intrathecally or intravenously at three days after MCAO. For intrathecal injection, LP was performed after establishment of isoflurane (inhalation) anesthesia. Briefly, each rat was anesthetized and placed on an operating surface that flexed the animal's back. A small (1 cm) longitudinal incision was made over the L3 to L5 spinous processes and the skin was retracted. A human neonatal lumbar puncture needle (25 gauge; Becton Dickinson, Franklin Lakes, NJ, USA) was advanced into the spinal canal at the L3 to L4 or L4 to L5 level. Proper placement of the needle in the lumbar subdural space was indicated by three signs: loss of resistance at the time of entry (tentative sign), tail flick (more definitive sign), and presence of CSF in the needle hub (most definitive sign). Once correct needle placement was confirmed, the CSF present in the needle hub was aspirated using a micropipette, and hUCB-MSCs (1 &#215; 10<sup>6</sup>) diluted in 20 &#956;l PBS were injected into the CSF over 30 s. The skin was closed by stapling and the animal was returned to its cage. The entire procedure took three to five minutes. For intravenous injection, hUCB-MSCs (1 &#215; 10<sup>6</sup>) diluted in 700 &#956;l PBS were injected slowly for five minutes via an intravenous cannula situated in the tail vein.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Immunohistochemistry and quantification</p>
+            </st>
+            <p>Rat brains were perfused with PBS followed by 4% paraformaldehyde under deep anesthesia at a specific time point after lumbar injection of hUCB-MSCs. The excised brains were post-fixed overnight and then equilibrated in PBS containing 30% sucrose for two days. Fixed brains were embedded, snap-frozen in liquid nitrogen, and stored at -70&#176;C until use. Tissues were cryosectioned at 14 &#956;m in the coronal plane and then stained with primary antibodies for neuronal nuclei (NeuN) (Chemicon, Temecula, CA, USA), human nuclei (Chemicon), and glial acidic fibrillar protein (GFAP; Dako, Glostrup, Denmark) at 4&#176;C overnight. The sections were incubated with Alexa Fluor 488 or 546-conjugated anti-IgG secondary antibodies (Molecular Probes, Eugene, OR) and counterstained with 4',6-diamidino-2-phenylindole (DAPI; Sigma-Aldrich, St. Louis, MO). To detect apoptotic activity, tissues were stained using a terminal deoxyribonucleotidyl transferase-mediated dUTP nick end labeling (TUNEL) assay kit (Roche, Basel, Switzerland) developed with Cy3-conjugated streptavidin (Jackson ImmunoResearch Laboratories, Bar Harbor, ME, USA). Fluorescent images were acquired using a Zeiss LSM510 confocal microscope (Carl Zeiss, Jena, Germany).</p>
+            <p>To determine graft survival semiquantitatively, every fifth coronal section (15 &#956;m) per animal was prepared and counting was performed on three randomly selected non-overlapping per section. For each section under analysis, the region of interest (ROI) was selected within the ischemic territory, and the measurement was made in a predefined field (300 &#956;m &#215; 300 &#956;m). Total numbers of positive cells for the ischemic hemisphere were then obtained by multiplying by three. All images were made using an excitation filter under reflected light fluorescence microscopy (&#215; 200 oil objective) and transferred to a computer equipped with MetaMorph software version 7.5 (Molecular Devices, Downingtown, PA, USA).</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Motor function evaluation</p>
+            </st>
+            <p>Animals were pretrained for one week prior to a motor test using a Rotarod cylinder (IITC Life Science, Woodland Hills, CA, USA). The cylinder was accelerated from 4 to 40 rpm within 5 minutes, and the cutoff time was 300 s. For adhesive removal tests, square dots of adhesive-backed paper (12&#8709;) were used as bilateral tactile stimuli occupying the distal-radial region on the wrist of each forelimb. Animals were given three trials with a cutoff time of 180 s. The data are presented as the mean time to remove the left dot.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Staining and quantitative analysis of infarct volume</p>
+            </st>
+            <p>Seven days after the administration of cells, all rats (<it>n </it>= 5 for each group) were deeply anesthetized with isoflurane. Transcardiac perfusion was performed with saline. The brain of each rat was immediately removed and sectioned into four equally spaced (2 mm) coronal blocks using a rodent brain matrix. These sections were stained with 2% 2,3,5-triphenylterazolium (TTC) with normal saline for 30 minutes at 37&#176;C. The unstained area was considered to be the infarcted area <abbrgrp><abbr bid="B23">23</abbr></abbrgrp>. The total infarct volume for each slice was calculated by summation of infarcted areas of all brain slices, using MetaMorph software (Molecular Devices).</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Statistical analysis</p>
+            </st>
+            <p>All data are expressed as mean &#177; standard error of the mean. The significance of differences between test conditions was assessed using Student's <it>t</it>-test. Probability values less than .05 were considered as significant. Behavior results were analyzed using repeated measures analysis of variance with independent variables of treatment groups and days of testing, followed by Tukey's <it>post hoc </it>test for multiple comparisons at each treatment group.</p>
+         </sec>
+      </sec>
+      <sec>
+         <st>
+            <p>Results</p>
+         </st>
+         <sec>
+            <st>
+               <p>Homing of transplanted hUCB-MSCs toward the ischemic brain</p>
+            </st>
+            <p>To examine the feasibility of intrathecal administration by LP for transplanting hUCB-MSCs in rats with cerebral ischemia, we tested whether intrathecally introduced hUCB-MSCs by LP would migrate and engraft into ischemic brain. Flow cytometric analysis of hUCB-MSCs indicated this cell surface phenotype (Additional file <supplr sid="S1">1</supplr>, Figure S1). A characteristic feature of MSCs was a CD45<sup>-</sup>, CD44<sup>+</sup>, C90<sup>+</sup>, SH2<sup>+ </sup>(CD105), and SH3<sup>+ </sup>(CD73) cell surface phenotype.</p>
+            <suppl id="S1">
+               <title>
+                  <p>Additional file 1</p>
+               </title>
+               <text>
+                  <p><b>Figure S1. Surface antigen characteristic of hUCB-MSCs</b>. Immunophenotyping of hUCB-MSCs. Cells at passage 6 were labeled with antibodies against the indicated antigens and then analyzed by flow cytometry. The results are representative of at least three independent experiments.</p>
+               </text>
+               <file name="scrt79-S1.TIFF">
+                  <p>Click here for file</p>
+               </file>
+            </suppl>
+            <p>After inducing ischemic stroke, 1 &#215; 10<sup>6 </sup>hUCB-MSCs were injected intrathecally or intravenously and then migration of these cells was observed at 7 and 28 days in the ischemic brain (Figure <figr fid="F1">1</figr>). We identified hUCB-MSCs with anti-human nuclei antibody (hNA). A significant number of cells were found in the peri-infarct zone of the ischemic hemisphere in animals after intrathecal administration compared with animals after intravenous administration. However, administered hUCB-MSCs were not observed in the intact contralateral hemisphere after either intrathecal or intravenous delivery (data not shown).</p>
+            <fig id="F1">
+               <title>
+                  <p>Figure 1</p>
+               </title>
+               <caption>
+                  <p>Migration of administered hUCB-MSCs into the ischemic brain</p>
+               </caption>
+               <text>
+                  <p><b>Migration of administered hUCB-MSCs into the ischemic brain</b>. (<b>a</b>) Representative hematoxylin and eosin staining of coronal sections from ischemic brain. (<b>b</b>) At 7 days and (<b>c</b>) 28 days after 1 &#215; 10<sup>6 </sup>hUCB-MSC administration, hUCB-MSCs were identified by the staining with human nuclei antibody (hNA, <it>green</it>) and the numbers of hNA-positive cells in the ischemic boundary zone (IBZ) of Ipsi hemisphere are illustrated (<it>n </it>= 4 per treatment group). (<b>d</b>) Data are presented as mean numbers of hNA-positive cells &#177; SD. Note that the numbers of hNA-positive cells were decreased in animals after intravenous administration compared with animals after intrathecal administration. Intrathecally treated groups showed significant differences from the intravenously treated groups in the IBZ (analysis of variance; *<it>P </it>&lt; 0.05). Nuclei were counterstained with DAPI (<it>blue</it>). Scale bar = 20 &#956;m.</p>
+               </text>
+               <graphic file="scrt79-1" hint_layout="double"/>
+            </fig>
+         </sec>
+         <sec>
+            <st>
+               <p>Survival of transplanted hUCB-MSCs <it>in vivo </it></p>
+            </st>
+            <p>Insufficient graft survival and efficacy is a major obstacle in the use of MSCs for therapy. When transplanted into the striatum or tail vein after MCAO, MSCs survived and migrated to the ischemic site, but only a few of the transplanted cells survived and retained their competency <abbrgrp><abbr bid="B11">11</abbr><abbr bid="B12">12</abbr><abbr bid="B24">24</abbr><abbr bid="B25">25</abbr><abbr bid="B26">26</abbr></abbrgrp>.</p>
+            <p>To assess whether hUCB-MSCs delivered intrathecally by LP would survive, a TUNEL assay was used to evaluate apoptosis of grafted cells in ischemic animals. One week after cell administration, 28% &#177; 4.4% of hNA-positive cells were stained for TUNEL (in the penumbra regions such as the ischemic boundary zone in animals administered hUCB-MSCs intrathecally (Figure <figr fid="F2">2a</figr>)). However, 39% &#177; 5.1% of hNA-positive cells were stained in animals in which they were administered intravenously (Figure <figr fid="F2">2b</figr>), which indicates that intrathecal administration of hUCB-MSCs is valuable for efficient cell delivery into the ischemic animals.</p>
+            <fig id="F2">
+               <title>
+                  <p>Figure 2</p>
+               </title>
+               <caption>
+                  <p>hUCB-MSCs undergoing apoptotic cell death in the ischemic brain</p>
+               </caption>
+               <text>
+                  <p><b>hUCB-MSCs undergoing apoptotic cell death in the ischemic brain</b>. (<b>a</b>) At seven days after 1 &#215; 10<sup>6 </sup>hUCB-MSC administration, hUCB-MSCs undergoing apoptotic cell death were measured by TUNEL staining (<it>n </it>= 5 per treatment group). hUCB-MSCs were identified by the staining with human nuclei antibody (hNA, <it>green</it>). The numbers of hNA-TUNEL double-positive cells in the ipsilateral ischemic boundary zone (IBZ) are illustrated. (<b>b</b>) Quantitative analysis of hNA-TUNEL double-positive cells in the ipsilateral IBZ. Data from five animals are presented as mean values &#177; SD. There were significantly more hNA-TUNEL double-positive cells in animals after intravenous administration (analysis of variance; *<it>P </it>&lt; 0.05). Nuclei were counterstained with DAPI (<it>blue</it>). Scale bar = 20 &#956;m.</p>
+               </text>
+               <graphic file="scrt79-2" hint_layout="double"/>
+            </fig>
+         </sec>
+         <sec>
+            <st>
+               <p>Phenotype of transplanted hUCB-MSCs <it>in vivo </it></p>
+            </st>
+            <p>Transdifferentiation of MSCs into cells of neural lineage has been reported <abbrgrp><abbr bid="B5">5</abbr><abbr bid="B6">6</abbr><abbr bid="B7">7</abbr></abbrgrp>. To test the <it>in vivo </it>transdifferentiation of hUCB-MSCs administered intrathecally or intravenously, the neuronal marker NeuN and the astrocyte marker GFAP were evaluated at four weeks in the peri-infarct tissue of treated animals (Figure <figr fid="F3">3</figr>). hUCB-MSCs survived for at least four weeks and a subset of the grafted cells expressed NeuN and GFAP in the ipsilateral ischemic boundary zone in animals in which cells were administered intrathecally. Furthermore, a small subset of the grafted cells was immunopositive for CD73 and CD105, which are markers of MSCs for the state of non-differentiated cells (Additional file <supplr sid="S2">2</supplr>, Figure S2).</p>
+            <fig id="F3">
+               <title>
+                  <p>Figure 3</p>
+               </title>
+               <caption>
+                  <p><it>In vivo </it>differentiation of hUCB-MSCs in the ischemic brain</p>
+               </caption>
+               <text>
+                  <p><b><it>In vivo </it>differentiation of hUCB-MSCs in the ischemic brain</b>. Confocal images of the cells at four weeks after 1 &#215; 10<sup>6 </sup>hUCB-MSC administration in the ischemic animal models. hUCB-MSCs were identified by the staining with human nuclei antibody (hNA, <it>green</it>). hUCB-MSCs survived for at least four weeks and a subset of the grafted cells expressed (<b>a</b>) NeuN and (<b>b</b>) GFAP in the ipsilateral ischemic boundary zone (IBZ). These markers were immunolabeled with red fluorescence. Quantitative analysis of (<b>c</b>) hNA-NeuN and (<b>d</b>) hNA-GFAP double-positive cells in the ipsilateral IBZ. Data are presented as mean values &#177; SD. Nuclei were counterstained with DAPI (<it>blue</it>). Scale bar, 20 &#956;m.</p>
+               </text>
+               <graphic file="scrt79-3" hint_layout="double"/>
+            </fig>
+            <suppl id="S2">
+               <title>
+                  <p>Additional file 2</p>
+               </title>
+               <text>
+                  <p><b>Figure S2. Phenotype of transplanted hUCB-MSCs <it>in vivo</it></b>. Confocal images of the cells at four weeks after 1 &#215; 10<sup>6 </sup>hUCB-MSC administration in the ischemic animal models. hUCB-MSCs were identified by the staining with human nuclei antibody (hNA, <it>green</it>). A small subset of the grafted cells expressed (upper panel) CD73 and (bottom panel) CD105 in the ipsilateral ischemic boundary zone. These markers were immunolabeled with red fluorescence. Nuclei were counterstained with DAPI (<it>blue</it>). Scale bar: 20 &#956;m.</p>
+               </text>
+               <file name="scrt79-S2.TIFF">
+                  <p>Click here for file</p>
+               </file>
+            </suppl>
+         </sec>
+         <sec>
+            <st>
+               <p>Therapeutic effects of transplanted hUCB-MSCs</p>
+            </st>
+            <p>We tested whether hUCB-MSCs administered intrathecally or intravenously enhanced neurological dysfunction. After treatment with 1 &#215; 10<sup>6 </sup>cells, motor function was analyzed using a Rotarod apparatus and an adhesive removal test in each group. One day after MCAO, but prior to intrathecal or intravenous administration of hUCB-MSCs, there was no difference in neurological functional assessment between the two ischemic groups. PBS-injected animals spontaneously recovered to a limited degree over 21 days. Animals that received hUCB-MSCs intrathecally or intravenously exhibited higher recoveries over 21 days than PBS treated animals and continued to recover for up to 28 days. At 28 days after injection, there were significant differences (<it>P </it>&lt; 0.05) between hUCB-MSCs (90.35% &#177; 4.48%) and PBS (78.83% &#177; 3.22%) administered groups intrathecally in the Rotarod test and adhesive removal test scores (23.6 &#177; 10.57 vs. 49.77 &#177; 10.1, <it>P </it>&lt; 0.05). There were also significant differences between hUCB-MSCs and PBS administered groups intravenously in the Rotarod test (87.76% &#177; 4.5% vs. 75.89% &#177; 0.3%, <it>P </it>&lt; 0.05) and adhesive removal test scores (25.58 &#177; 7.6 vs. 51.65 &#177; 9.1, <it>P </it>&lt; 0.05) (Figure <figr fid="F4">4a, b</figr>). However, there were no significant differences between the intrathecal and intravenous injection groups. Animals that received hUCB-MSCs showed good neurological recovery independently of the administration route, intrathecal or intravenous, without significant differences in neurological score.</p>
+            <fig id="F4">
+               <title>
+                  <p>Figure 4</p>
+               </title>
+               <caption>
+                  <p>Therapeutic effects of hUCB-MSC administration on recovery in the ischemic animal model</p>
+               </caption>
+               <text>
+                  <p><b>Therapeutic effects of hUCB-MSC administration on recovery in the ischemic animal model</b>. Performance in the (<b>a</b>) Rotarod and (<b>b</b>) adhesive removal tests from 1 to 28 days after ischemia. The data were collected from seven animals per group and are presented as mean values &#177; SD. (<b>c</b>) Brain slices were stained with TTC at seven days after PBS or 1 &#215; 10<sup>6 </sup>hUCB-MSC administration to visualize lesions. (<b>d</b>) The data were collected from five animals per group and are presented as mean relative infarct volume &#177; SD. Statistically significant differences between the groups were determined by analysis of variance (*<it>P </it>&lt; 0.05 compared with the PBS injected group intrathecally; #<it>P </it>&lt; 0.05 compared with the PBS injected group intravenously).</p>
+               </text>
+               <graphic file="scrt79-4" hint_layout="double"/>
+            </fig>
+            <p>The volume of ischemic lesions at seven days after the experimental procedure was evaluated using TTC staining. Administration of 1 &#215; 10<sup>6 </sup>hUCB-MSCs intrathecally (21.93% &#177; 2.85% vs. 51.68% &#177; 2.43%) or intravenously (23.22% &#177; 5.67% vs. 50.26% &#177; 4.18%) significantly reduced (<it>P </it>&lt; 0.05) the infarction volume when compared with the PBS controls. There was no significant difference between the intravenous or intrathecal hUCB-MSCs treatment (Figure <figr fid="F4">4c</figr>).</p>
+            <p>Importantly, intrathecal administration of 5 &#215; 10<sup>5 </sup>hUCB-MSCs significantly the infarction volume when compared with the PBS controls (27.35% &#177; 3.17% vs. 51.68% &#177; 2.43%, <it>P </it>&lt; 0.05). In addition, there were no significant differences in infarction volume between intrathecal injection of 5 &#215; 10<sup>5 </sup>and 1 &#215; 10<sup>6 </sup>hUCB-MSCs. However, intravenous administration of 5 &#215; 10<sup>5 </sup>hUCB-MSCs showed no effect on the infarction volume when compared with the PBS controls (50.52% &#177; 1.92% vs. 50.26% &#177; 4.18%). No effect on the infarction volume was seen with 1 &#215; 10<sup>5 </sup>hUCB-MSCs in either treatment group (intrathecal, 51.84% &#177; 4.15%; intravenous, 52.58% &#177; 5.8%) (Figure <figr fid="F5">5</figr>).</p>
+            <fig id="F5">
+               <title>
+                  <p>Figure 5</p>
+               </title>
+               <caption>
+                  <p>Therapeutic effects of low-dose hUCB-MSC administration on infarction volume in the ischemic animal model</p>
+               </caption>
+               <text>
+                  <p><b>Therapeutic effects of low-dose hUCB-MSC administration on infarction volume in the ischemic animal model</b>. (<b>a</b>) Brain slices were stained with TTC at seven days after 5 &#215; 10<sup>5 </sup>hUCB-MSC administration. The images show the lesion volume in hUCB-MSCs treated groups. (<b>b</b>) The data were collected from five animals per group and are presented as mean relative infarct volume &#177; SD. Statistically significant differences between the groups were determined by analysis of variance (*<it>P </it>&lt; 0.05 compared with the PBS injected group intrathecally; #<it>P </it>&lt; 0.05 compared with the hUCB-MSCs injected group intravenously).</p>
+               </text>
+               <graphic file="scrt79-5" hint_layout="double"/>
+            </fig>
+         </sec>
+         <sec>
+            <st>
+               <p>Homing and survival of low-dose hUCB-MSCs in the ischemic brain</p>
+            </st>
+            <p>After administration of 5 &#215; 10<sup>5 </sup>hUCB-MSCs intrathecally or intravenously, migrated cells were observed at 7 and 28 days in the ischemic brain (Figure <figr fid="F6">6a-c</figr>). Many of the cells were found at seven days in the peri-infarct zone of the ischemic hemisphere in animals after intrathecal administration. However, a small number of cells were detected within the ischemic brain after intravenous administration.</p>
+            <fig id="F6">
+               <title>
+                  <p>Figure 6</p>
+               </title>
+               <caption>
+                  <p>Migration and survival of low-dose hUCB-MSCs in the ischemic brain</p>
+               </caption>
+               <text>
+                  <p><b>Migration and survival of low-dose hUCB-MSCs in the ischemic brain</b>. (<b>a</b>) At 7 days and (<b>b</b>) 28 days after 5 &#215; 10<sup>5 </sup>hUCB-MSC administration, hUCB-MSCs were identified by the staining with human nuclei antibody (hNA, <it>green</it>) and the numbers of hNA-positive cells in the ischemic boundary zone (IBZ) of Ipsi hemisphere are illustrated (<it>n </it>= 5 per treatment group). (<b>c</b>) Data are presented as mean numbers of hNA-positive cells &#177; SD. Note that the numbers of hNA-positive cells were decreased in animals after intravenous administration compared with animals after intrathecal administration. Intrathecally treated groups showed significant differences from the intravenously treated groups in the IBZ. (<b>d</b>) At seven days after 5 &#215; 10<sup>5 </sup>hUCB-MSC administration, hUCB-MSCs undergoing apoptotic cell death were measured by TUNEL staining. The numbers of hNA-TUNEL double-positive cells in the ipsilateral IBZ are illustrated. (<b>e</b>) Quantitative analysis of hNA-TUNEL double-positive cells in the ipsilateral IBZ. Data from five animals are presented as mean values &#177; SD. There were significantly more hNA-TUNEL double-positive cells in animals after intravenous administration (analysis of variance; *<it>P </it>&lt; 0.05). Nuclei were counterstained with DAPI (<it>blue</it>). Scale bar = 20 &#956;m.</p>
+               </text>
+               <graphic file="scrt79-6" hint_layout="double"/>
+            </fig>
+            <p>To assess the survival of transplanted cells, a TUNEL assay was used to evaluate apoptosis of grafted cells in ischemic animals. One week after cell administration, 21% &#177; 6.2% of hNA-positive cells were stained for TUNEL (in the penumbra regions such as the ischemic boundary zone in animals administered hUCB-MSCs intrathecally (Figure <figr fid="F6">6d</figr>)). However, 44% &#177; 5.1% of hNA-positive cells were stained in animals in which they were administered intravenously (Figure <figr fid="F6">6e</figr>).</p>
+         </sec>
+         <sec>
+            <st>
+               <p><it>In vivo </it>differentiation of low-dose hUCB-MSCs in the ischemic brain</p>
+            </st>
+            <p>Immunolabeling showed that some of the grafted cells were positive for staining with the anti-Neun and GFAP antibodies in the ipsilateral ischemic boundary zone after intrathecal administration of hUCB-MSCs (Figure <figr fid="F7">7</figr>). Compared with intrathecal administration, a small subset of grafted cells expressed NeuN and GFAP.</p>
+            <fig id="F7">
+               <title>
+                  <p>Figure 7</p>
+               </title>
+               <caption>
+                  <p><it>In vivo </it>differentiation of low-dose hUCB-MSCs in the ischemic brain</p>
+               </caption>
+               <text>
+                  <p><b><it>In vivo </it>differentiation of low-dose hUCB-MSCs in the ischemic brain</b>. Confocal images of the cells at four weeks after 5 &#215; 10<sup>5 </sup>hUCB-MSC administration in the ischemic animal models. hUCB-MSCs were identified by the staining with human nuclei antibody (hNA, <it>green</it>). A subset of the grafted cells expressed (<b>a</b>) NeuN and (<b>b</b>) GFAP in the ipsilateral ischemic boundary zone. These markers were immunolabeled with red fluorescence. Quantitative analysis of (<b>c</b>) hNA-NeuN and (<b>d</b>) hNA-GFAP double-positive cells in the ipsilateral IBZ. Data are presented as mean values &#177; SD. There were significantly more double-positive cells in animals after intrathecal administration (analysis of variance; *<it>P </it>&lt; 0.05). Nuclei were counterstained with DAPI (<it>blue</it>). Scale bar = 20 &#956;m.</p>
+               </text>
+               <graphic file="scrt79-7" hint_layout="double"/>
+            </fig>
+         </sec>
+      </sec>
+      <sec>
+         <st>
+            <p>Discussion</p>
+         </st>
+         <p>Cell-based strategies are of particular interest in neurological conditions because mature brains have limited capacity for self-repair. MSCs have great potential as therapeutic agents for stroke treatment, because they are easily obtained and can be expanded rapidly <it>ex vivo </it>for transplantation <abbrgrp><abbr bid="B2">2</abbr><abbr bid="B27">27</abbr></abbrgrp>. MSCs transplanted into an ischemic region of the rat brain are capable of differentiation into neural cells and promote functional improvement <abbrgrp><abbr bid="B11">11</abbr><abbr bid="B24">24</abbr><abbr bid="B28">28</abbr></abbrgrp>. Furthermore, MSCs can improve neurological dysfunctions in stroke patients <abbrgrp><abbr bid="B29">29</abbr></abbrgrp>. However, it is often argued that stem cells might be used to replace lost neurons and restore functions <abbrgrp><abbr bid="B30">30</abbr></abbrgrp>.</p>
+         <p>hUCB-MSCs have proven to be more advantageous than bone marrow-derived MSCs in terms of cell procurement, storage, and transplantation <abbrgrp><abbr bid="B31">31</abbr></abbrgrp>. Moreover, the number and differentiation ability of bone marrow-derived MSCs significantly decrease with age <abbrgrp><abbr bid="B32">32</abbr></abbrgrp>. These characteristics make hUCB-MSCs potent candidates for the clinical application of allogenic MSC-based therapies.</p>
+         <p>The route of cell administration is a key point in stem cell transplantation. The need for development of effective cell delivery methods to enhance the therapeutic efficacy of stem cells is pressing because the safety and efficacy of cell therapy depend on the mode of cell administration. Several studies reported functional recovery in animal stroke models and in humans using different modes of delivery <abbrgrp><abbr bid="B33">33</abbr><abbr bid="B34">34</abbr><abbr bid="B35">35</abbr></abbrgrp>. However, the optimal delivery route for cell transplantation after stroke is not yet well defined.</p>
+         <p>The present results demonstrate that administration of allogenic hUCB-MSCs intrathecally by LP is a valuable transplantation method for efficient cell delivery and therapy in a rat stroke model. Intravenous administration of 1 &#215; 10<sup>6 </sup>hUCB-MSCs is equally effective for improving neurological recovery and decreasing cerebral damage in ischemic stroke (Figure <figr fid="F4">4</figr>). A most important finding of the present study is that 5 &#215; 10<sup>5 </sup>hUCB-MSCs administered intrathecally are significantly effective for decreasing ischemic infarction volume, but not in the intravenous administration group (Figure <figr fid="F5">5</figr>). A relationship between cell dose and therapeutic effect has been identified by Chen and colleagues <abbrgrp><abbr bid="B12">12</abbr></abbrgrp>. Rats intravenously infused with 3 &#215; 10<sup>6 </sup>MSCs after MCAO showed better neurological recovery than animals infused with 1 &#215; 10<sup>6 </sup>MSCs. Rats intravenously infused with 1 &#215; 10<sup>6 </sup>MSCs after MCAO showed improved neurological recovery, but rats administered 3 &#215; 10<sup>6 </sup>MSCs demonstrated better neurological recovery than animals infused with 1 &#215; 10<sup>6 </sup>MSCs. Although 1 or 3 &#215; 10<sup>6 </sup>cells in animal experiments are acceptable for therapeutic effect, extrapolation of these doses to humans may be difficult because of the large number of cells needed. This difficulty in converting the amount into a human dose will limit clinical trials. MSCs therapy for stroke patients has been performed using 1 &#215; 10<sup>8 </sup>cells <abbrgrp><abbr bid="B29">29</abbr><abbr bid="B36">36</abbr></abbrgrp>. A potential therapeutic effect at an acceptable cell dose is important in human therapy.</p>
+         <p>Homing is the process by which cells migrate to, and engraft in, the tissue in which they will exert functional effects <abbrgrp><abbr bid="B37">37</abbr><abbr bid="B38">38</abbr></abbrgrp>. Capacity for migration towards an injured region is an important characteristic of MSCs. When transplanted into the striatum or tail vein after MCAO, MSCs survived and migrated to the ischemic site, where they restored damaged neural cells in adult rodents <abbrgrp><abbr bid="B11">11</abbr><abbr bid="B12">12</abbr><abbr bid="B24">24</abbr></abbrgrp>. The present study indicates that both administration routes were equally effective in neurological deficit recovery, but the intravenous administration did not produce MSC migration to the lesion zone (Figure <figr fid="F1">1</figr>). In addition, many more grafted cells survived in animals after intrathecal administration when compared with animals after intravenous administration (Figure <figr fid="F2">2</figr>). Our outcome suggests that it may not be necessary for the stem cells to successfully migrate and graft onto the lesion site to obtain good functional results.</p>
+         <p>Several factors are probably influential in achieving the benefits of MSCs in the ischemic brain, and a possible mechanism that could explain the improvement in functional recovery of models is believed to be associated with the differentiation of transplanted MSCs into a neural cell lineage. Numerous studies have reported that transplanted MSCs in animals with ischemic stroke expressed the neural cell lineage markers, such as the neuronal-specific protein NeuN, microtubule-associated protein 2 (MAP-2), and the astrocytic marker GFAP <abbrgrp><abbr bid="B11">11</abbr><abbr bid="B24">24</abbr><abbr bid="B28">28</abbr></abbrgrp>. The neural differentiation capacity of MSCs <it>in vitro </it>and <it>in vivo </it>has been intensively explored; previous studies in our laboratory have also demonstrated that MSCs differentiate into neurons or glial cells <it>in vitro </it>under special experimental conditions <abbrgrp><abbr bid="B39">39</abbr><abbr bid="B40">40</abbr></abbrgrp>. In the present study, hUCB-MSCs delivered by LP grafted efficiently and differentiated into neurons and glial cells (Figures <figr fid="F3">3</figr> and <figr fid="F7">7</figr>), supporting the hypothesis that transdifferentiation of transplanted MSCs is influential in achieving the benefits of MSCs in the ischemic brain.</p>
+         <p>On the basis of these results, both intrathecal and intravenous routes of administration of 1 &#215; 10<sup>6 </sup>cells have demonstrated similar effectiveness for promoting neurological recovery in ischemic stroke regardless of migration and grafting differences within the ischemic brain. However, intrathecal administration was significantly more effective for the 5 &#215; 10<sup>5 </sup>cell dose in reducing the ischemic damage. Our study indicates that intrathecal delivery of hUCB-MSCs by LP is an attractive and potentially successful method by which to treat stroke damage and may be a clinically feasible means of providing less invasive and repeatable transplantation therapy.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Conclusions</p>
+         </st>
+         <p>Therapy with hUCB-MSCs is a potential treatment for ischemic stroke. Intrathecal administration of 1 &#215; 10<sup>6 </sup>hUCB-MSCs (high dose) and 5 &#215; 10<sup>5 </sup>cells (low dose) by LP demonstrated significant effects on recovery of ischemic damage. Therefore, intrathecal delivery of MSCs by LP may be a useful and feasible mode of administration for clinical treatment of brain injuries, such as stroke, or neurodegenerative disorders with MSCs.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Abbreviations</p>
+         </st>
+         <p>CCA: common carotid artery; CSF: cerebrospinal fluid; ECA: exterior carotid artery; GFAP: glial acidic fibrillar protein; IBZ: ischemic boundary zone; LP: lumbar puncture; MCAO: middle cerebral artery occlusion; Neun: neuronal nuclei; PBS: phosphate buffered saline; ROI: region of interest; TTC: 2-3-5-triphenyltetrazolium; UCB-MSCs: umbilical cord blood-derived mesenchymal stem cells.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Competing interests</p>
+         </st>
+         <p>The authors declare that they have no competing interests.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Authors' contributions</p>
+         </st>
+         <p>CHJ and JAJ performed experiments and collected data. JWC and WIO prepared hUCB-MSCs. YH carried out the threshold image analysis of ischemic brain. SMK and CHR drafted the manuscript. JYL and SSJ contributed to conception and design of the study, interpretation of data and editing of the manuscript. All authors approved the final manuscript.</p>
+      </sec>
+   </bdy>
+   <bm>
+      <ack>
+         <sec>
+            <st>
+               <p>Acknowledgements</p>
+            </st>
+            <p>The authors are grateful to Sang In Park (College of Medicine, The Catholic University of Korea) for helpful discussions and technical assistance in histological examinations.</p>
+            <p>This study was supported by a grant of the Korea Healthcare technology R&amp;D Project, Ministry for Health, Welfare &amp; Family Affairs, Republic of Korea (A092258) and by the Basic Science Research program through the National Research Foundation of Korea (NRF) funded by the Ministry of Education, Science and Technology (2010-0022845), Republic of Korea, and by a grant (10172KFDA993) from Korea Food and Drug Administration in 2011.</p>
+         </sec>
+      </ack>
+      <refgrp>
+         <bibl id="B1">
+            <title>
+               <p>Neurorestorative treatment of stroke: cell and pharmacological approaches</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Chen</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Chopp</snm>
+                  <fnm>M</fnm>
+               </au>
+            </aug>
+            <source>NeuroRx</source>
+            <pubdate>2006</pubdate>
+            <volume>3</volume>
+            <fpage>466</fpage>
+            <lpage>473</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.nurx.2006.07.007</pubid>
+                  <pubid idtype="pmcid">2790719</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17012060</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B2">
+            <title>
+               <p>Mesenchymal stem cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Caplan</snm>
+                  <fnm>AI</fnm>
+               </au>
+            </aug>
+            <source>J Orthop Res</source>
+            <pubdate>1991</pubdate>
+            <volume>9</volume>
+            <fpage>641</fpage>
+            <lpage>650</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1002/jor.1100090504</pubid>
+                  <pubid idtype="pmpid">1870029</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B3">
+            <title>
+               <p>Multilineage differentiation activity by cells isolated from umbilical cord blood: expression of bone, fat, and neural markers</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Goodwin</snm>
+                  <fnm>HS</fnm>
+               </au>
+               <au>
+                  <snm>Bicknese</snm>
+                  <fnm>AR</fnm>
+               </au>
+               <au>
+                  <snm>Chien</snm>
+                  <fnm>SN</fnm>
+               </au>
+               <au>
+                  <snm>Boqucki</snm>
+                  <fnm>BD</fnm>
+               </au>
+               <au>
+                  <snm>Quinn</snm>
+                  <fnm>CO</fnm>
+               </au>
+               <au>
+                  <snm>Wall</snm>
+                  <fnm>DA</fnm>
+               </au>
+            </aug>
+            <source>Biol Blood Marrow Transplant</source>
+            <pubdate>2001</pubdate>
+            <volume>7</volume>
+            <fpage>581</fpage>
+            <lpage>588</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1053/bbmt.2001.v7.pm11760145</pubid>
+                  <pubid idtype="pmpid" link="fulltext">11760145</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B4">
+            <title>
+               <p>Multilineage potential of adult human mesenchymal stem cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Pittenger</snm>
+                  <fnm>MF</fnm>
+               </au>
+               <au>
+                  <snm>Mackay</snm>
+                  <fnm>AM</fnm>
+               </au>
+               <au>
+                  <snm>Beck</snm>
+                  <fnm>SC</fnm>
+               </au>
+               <au>
+                  <snm>Jaiswal</snm>
+                  <fnm>PK</fnm>
+               </au>
+               <au>
+                  <snm>Douglas</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Mosca</snm>
+                  <fnm>JD</fnm>
+               </au>
+               <au>
+                  <snm>Moorman</snm>
+                  <fnm>MA</fnm>
+               </au>
+               <au>
+                  <snm>Simonetti</snm>
+                  <fnm>DW</fnm>
+               </au>
+               <au>
+                  <snm>Craig</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Marshak</snm>
+                  <fnm>DR</fnm>
+               </au>
+            </aug>
+            <source>Science</source>
+            <pubdate>1999</pubdate>
+            <volume>284</volume>
+            <fpage>143</fpage>
+            <lpage>147</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1126/science.284.5411.143</pubid>
+                  <pubid idtype="pmpid">10102814</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B5">
+            <title>
+               <p><it>In vitro </it>differentiation of human marrow stromal cells into early progenitors of neural cells by conditions that increase intracellular cyclic AMP</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Deng</snm>
+                  <fnm>W</fnm>
+               </au>
+               <au>
+                  <snm>Obrocka</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Fischer</snm>
+                  <fnm>I</fnm>
+               </au>
+               <au>
+                  <snm>Prockop</snm>
+                  <fnm>DJ</fnm>
+               </au>
+            </aug>
+            <source>Biochem Biophys Res Commun</source>
+            <pubdate>2001</pubdate>
+            <volume>282</volume>
+            <fpage>148</fpage>
+            <lpage>152</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1006/bbrc.2001.4570</pubid>
+                  <pubid idtype="pmpid" link="fulltext">11263984</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B6">
+            <title>
+               <p>Adult bone marrow stromal cells differentiate into neural cells <it>in vitro</it></p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Sanchez-Ramos</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Song</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Cardozo-Pelaez</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Hazzi</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Stedeford</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Willing</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Freeman</snm>
+                  <fnm>TB</fnm>
+               </au>
+               <au>
+                  <snm>Saporta</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Janssen</snm>
+                  <fnm>W</fnm>
+               </au>
+               <au>
+                  <snm>Patel</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Cooper</snm>
+                  <fnm>DR</fnm>
+               </au>
+               <au>
+                  <snm>Sanberg</snm>
+                  <fnm>PR</fnm>
+               </au>
+            </aug>
+            <source>Exp Neurol</source>
+            <pubdate>2000</pubdate>
+            <volume>164</volume>
+            <fpage>247</fpage>
+            <lpage>256</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1006/exnr.2000.7389</pubid>
+                  <pubid idtype="pmpid" link="fulltext">10915564</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B7">
+            <title>
+               <p>Adult rat and human bone marrow stromal cells differentiate into neurons</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Woodbury</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Schwarz</snm>
+                  <fnm>EJ</fnm>
+               </au>
+               <au>
+                  <snm>Prockop</snm>
+                  <fnm>DJ</fnm>
+               </au>
+               <au>
+                  <snm>Black</snm>
+                  <fnm>IB</fnm>
+               </au>
+            </aug>
+            <source>J Neurosci Res</source>
+            <pubdate>2000</pubdate>
+            <volume>61</volume>
+            <fpage>364</fpage>
+            <lpage>370</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1002/1097-4547(20000815)61:4&lt;364::AID-JNR2>3.0.CO;2-C</pubid>
+                  <pubid idtype="pmpid" link="fulltext">10931522</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B8">
+            <title>
+               <p>Human marrow stromal cell therapy for stroke in rat: neurotrophins and functional recovery</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Li</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Chen</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Chen</snm>
+                  <fnm>XG</fnm>
+               </au>
+               <au>
+                  <snm>Wang</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Gautam</snm>
+                  <fnm>SC</fnm>
+               </au>
+               <au>
+                  <snm>Xu</snm>
+                  <fnm>YX</fnm>
+               </au>
+               <au>
+                  <snm>Katakowski</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Zhang</snm>
+                  <fnm>LJ</fnm>
+               </au>
+               <au>
+                  <snm>Lu</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Janakiraman</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Chopp</snm>
+                  <fnm>M</fnm>
+               </au>
+            </aug>
+            <source>Neurology</source>
+            <pubdate>2002</pubdate>
+            <volume>59</volume>
+            <fpage>514</fpage>
+            <lpage>523</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid" link="fulltext">12196642</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B9">
+            <title>
+               <p>Bone marrow-derived mesenchymal stromal cells for the repair of central nervous system injury</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Parr</snm>
+                  <fnm>AM</fnm>
+               </au>
+               <au>
+                  <snm>Tator</snm>
+                  <fnm>CH</fnm>
+               </au>
+               <au>
+                  <snm>Keating</snm>
+                  <fnm>A</fnm>
+               </au>
+            </aug>
+            <source>Bone Marrow Transplant</source>
+            <pubdate>2007</pubdate>
+            <volume>40</volume>
+            <fpage>609</fpage>
+            <lpage>619</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/sj.bmt.1705757</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17603514</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B10">
+            <title>
+               <p>Mesenchymal stem cells inhibit and stimulate mixed lymphocyte cultures and mitogenic responses independently of the major histocompatibility complex</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Le Blanc</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Tammik</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Sundberg</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Haynesworth</snm>
+                  <fnm>SE</fnm>
+               </au>
+               <au>
+                  <snm>Ringd&#233;n</snm>
+                  <fnm>O</fnm>
+               </au>
+            </aug>
+            <source>Scand J Immunol</source>
+            <pubdate>2003</pubdate>
+            <volume>57</volume>
+            <fpage>11</fpage>
+            <lpage>20</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1046/j.1365-3083.2003.01176.x</pubid>
+                  <pubid idtype="pmpid" link="fulltext">12542793</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B11">
+            <title>
+               <p>Intrastriatal transplantation of bone marrow nonhematopoietic cells improves functional recovery after stroke in adult mice</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Li</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Chopp</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Chen</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Wang</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Gautam</snm>
+                  <fnm>SC</fnm>
+               </au>
+               <au>
+                  <snm>Xu</snm>
+                  <fnm>YX</fnm>
+               </au>
+               <au>
+                  <snm>Zhang</snm>
+                  <fnm>Z</fnm>
+               </au>
+            </aug>
+            <source>J Cereb Blood Flow Metab</source>
+            <pubdate>2000</pubdate>
+            <volume>20</volume>
+            <fpage>1311</fpage>
+            <lpage>1319</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1097/00004647-200009000-00006</pubid>
+                  <pubid idtype="pmpid" link="fulltext">10994853</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B12">
+            <title>
+               <p>Therapeutic benefit of intracerebral transplantation of bone marrow stromal cells after cerebral ischemia in rats</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Chen</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Li</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Wang</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Lu</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Zhang</snm>
+                  <fnm>X</fnm>
+               </au>
+               <au>
+                  <snm>Chopp</snm>
+                  <fnm>M</fnm>
+               </au>
+            </aug>
+            <source>J Neurol Sci</source>
+            <pubdate>2001</pubdate>
+            <volume>189</volume>
+            <fpage>49</fpage>
+            <lpage>57</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/S0022-510X(01)00557-3</pubid>
+                  <pubid idtype="pmpid" link="fulltext">11535233</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B13">
+            <title>
+               <p>Spinal cord injury in rat: treatment with bone marrow stromal cell transplantation</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Chopp</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Zhang</snm>
+                  <fnm>XH</fnm>
+               </au>
+               <au>
+                  <snm>Li</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Wang</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Chen</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Lu</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Lu</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Rosenblum</snm>
+                  <fnm>M</fnm>
+               </au>
+            </aug>
+            <source>Neuroreport</source>
+            <pubdate>2000</pubdate>
+            <volume>11</volume>
+            <fpage>3001</fpage>
+            <lpage>3005</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1097/00001756-200009110-00035</pubid>
+                  <pubid idtype="pmpid" link="fulltext">11006983</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B14">
+            <title>
+               <p>Human bone marrow stem cells exhibit neural phenotypes and ameliorate neurological deficits after grafting into the ischemic brain of rats</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Zhao</snm>
+                  <fnm>LR</fnm>
+               </au>
+               <au>
+                  <snm>Duan</snm>
+                  <fnm>WM</fnm>
+               </au>
+               <au>
+                  <snm>Reyes</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Keene</snm>
+                  <fnm>CD</fnm>
+               </au>
+               <au>
+                  <snm>Verfaillie</snm>
+                  <fnm>CM</fnm>
+               </au>
+               <au>
+                  <snm>Low</snm>
+                  <fnm>WC</fnm>
+               </au>
+            </aug>
+            <source>Exp Neurol</source>
+            <pubdate>2002</pubdate>
+            <volume>174</volume>
+            <fpage>11</fpage>
+            <lpage>20</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1006/exnr.2001.7853</pubid>
+                  <pubid idtype="pmpid" link="fulltext">11869029</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B15">
+            <title>
+               <p>Lumbar puncture delivery of bone marrow stromal cells in spinal cord contusion: a novel method for minimally invasive cell transplantation</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Bakshi</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Barshinger</snm>
+                  <fnm>AL</fnm>
+               </au>
+               <au>
+                  <snm>Swanger</snm>
+                  <fnm>SA</fnm>
+               </au>
+               <au>
+                  <snm>Madnvani</snm>
+                  <fnm>V</fnm>
+               </au>
+               <au>
+                  <snm>Shumsky</snm>
+                  <fnm>JS</fnm>
+               </au>
+               <au>
+                  <snm>Neuhuber</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Fischer</snm>
+                  <fnm>I</fnm>
+               </au>
+            </aug>
+            <source>J Neurotrauma</source>
+            <pubdate>2006</pubdate>
+            <volume>23</volume>
+            <fpage>55</fpage>
+            <lpage>65</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1089/neu.2006.23.55</pubid>
+                  <pubid idtype="pmpid" link="fulltext">16430372</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B16">
+            <title>
+               <p>Safety evaluation of allogeneic umbilical cord blood mononuclear cell therapy for degenerative conditions</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Yang</snm>
+                  <fnm>WZ</fnm>
+               </au>
+               <au>
+                  <snm>Zhang</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Wu</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Min</snm>
+                  <fnm>WP</fnm>
+               </au>
+               <au>
+                  <snm>Minev</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Zhang</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Luo</snm>
+                  <fnm>XL</fnm>
+               </au>
+               <au>
+                  <snm>Ramos</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Ichim</snm>
+                  <fnm>TE</fnm>
+               </au>
+               <au>
+                  <snm>Riordan</snm>
+                  <fnm>NH</fnm>
+               </au>
+               <au>
+                  <snm>Hu</snm>
+                  <fnm>X</fnm>
+               </au>
+            </aug>
+            <source>J Transl Med</source>
+            <pubdate>2010</pubdate>
+            <volume>75</volume>
+            <fpage>1</fpage>
+            <lpage>6</lpage>
+            <xrefbib>
+               <pubid idtype="pubmed" link="fulltext">    20682053</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B17">
+            <title>
+               <p>Intravenous administration of human bone marrow stromal cells induces angiogenesis in the ischemic boundary zone after stroke in rats</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Chen</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Zhang</snm>
+                  <fnm>ZG</fnm>
+               </au>
+               <au>
+                  <snm>Li</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Wang</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Xu</snm>
+                  <fnm>YX</fnm>
+               </au>
+               <au>
+                  <snm>Gautam</snm>
+                  <fnm>SC</fnm>
+               </au>
+               <au>
+                  <snm>Lu</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Zhu</snm>
+                  <fnm>Z</fnm>
+               </au>
+               <au>
+                  <snm>Chopp</snm>
+                  <fnm>M</fnm>
+               </au>
+            </aug>
+            <source>Circ Res</source>
+            <pubdate>2003</pubdate>
+            <volume>92</volume>
+            <fpage>692</fpage>
+            <lpage>699</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1161/01.RES.0000063425.51108.8D</pubid>
+                  <pubid idtype="pmpid" link="fulltext">12609969</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B18">
+            <title>
+               <p>Adult bone marrow stromal cells administered intravenously to rats after traumatic brain injury migrate into brain and improve neurological outcome</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Lu</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Mahmood</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Wang</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Li</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Lu</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Chopp</snm>
+                  <fnm>M</fnm>
+               </au>
+            </aug>
+            <source>Neuroreport</source>
+            <pubdate>2001</pubdate>
+            <volume>12</volume>
+            <fpage>559</fpage>
+            <lpage>563</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1097/00001756-200103050-00025</pubid>
+                  <pubid idtype="pmpid" link="fulltext">11234763</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B19">
+            <title>
+               <p>Treatment of traumatic brain injury in female rats with intravenous administration of bone marrow stromal cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Mahmood</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Lu</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Wang</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Li</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Lu</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Chopp</snm>
+                  <fnm>M</fnm>
+               </au>
+            </aug>
+            <source>Neurosurg</source>
+            <pubdate>2001</pubdate>
+            <volume>49</volume>
+            <fpage>1196</fpage>
+            <lpage>1203</lpage>
+         </bibl>
+         <bibl id="B20">
+            <title>
+               <p>Treatment of traumatic brain injury in adult rats with intravenous administration of human bone marrow stromal cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Mahmood</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Lu</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Lu</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Chopp</snm>
+                  <fnm>M</fnm>
+               </au>
+            </aug>
+            <source>Neurosurg</source>
+            <pubdate>2003</pubdate>
+            <volume>53</volume>
+            <fpage>693</fpage>
+            <lpage>702</lpage>
+            <xrefbib>
+               <pubid idtype="pubmed" link="fulltext">    12943585</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B21">
+            <title>
+               <p>Mesenchymal stem/progenitor cells developed in cultures from UC blood</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Yang</snm>
+                  <fnm>SE</fnm>
+               </au>
+               <au>
+                  <snm>Ha</snm>
+                  <fnm>CW</fnm>
+               </au>
+               <au>
+                  <snm>Jung</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Jin</snm>
+                  <fnm>HJ</fnm>
+               </au>
+               <au>
+                  <snm>Lee</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Song</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Choi</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Oh</snm>
+                  <fnm>W</fnm>
+               </au>
+               <au>
+                  <snm>Yang</snm>
+                  <fnm>YS</fnm>
+               </au>
+            </aug>
+            <source>Cytotherapy</source>
+            <pubdate>2004</pubdate>
+            <volume>6</volume>
+            <fpage>476</fpage>
+            <lpage>486</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1080/14653240410005041</pubid>
+                  <pubid idtype="pmpid" link="fulltext">15512914</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B22">
+            <title>
+               <p>Reversible middle cerebral artery occlusion without craniectomy in rats</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Longa</snm>
+                  <fnm>EZ</fnm>
+               </au>
+               <au>
+                  <snm>Weinstein</snm>
+                  <fnm>PR</fnm>
+               </au>
+               <au>
+                  <snm>Carlson</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Cummins</snm>
+                  <fnm>R</fnm>
+               </au>
+            </aug>
+            <source>Stroke</source>
+            <pubdate>1989</pubdate>
+            <volume>20</volume>
+            <fpage>84</fpage>
+            <lpage>91</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1161/01.STR.20.1.84</pubid>
+                  <pubid idtype="pmpid" link="fulltext">2643202</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B23">
+            <title>
+               <p>Evaluation of 2,3,5-triphenyltetrazolium chloride as a stain for detection and quantification of experimental cerebral infarction in rats</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Bederson</snm>
+                  <fnm>JB</fnm>
+               </au>
+               <au>
+                  <snm>Pitts</snm>
+                  <fnm>LH</fnm>
+               </au>
+               <au>
+                  <snm>Germano</snm>
+                  <fnm>SM</fnm>
+               </au>
+               <au>
+                  <snm>Nishimura</snm>
+                  <fnm>MC</fnm>
+               </au>
+               <au>
+                  <snm>Davis</snm>
+                  <fnm>RL</fnm>
+               </au>
+               <au>
+                  <snm>Bartkowski</snm>
+                  <fnm>HM</fnm>
+               </au>
+            </aug>
+            <source>Stroke</source>
+            <pubdate>1986</pubdate>
+            <volume>17</volume>
+            <fpage>1304</fpage>
+            <lpage>1308</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1161/01.STR.17.6.1304</pubid>
+                  <pubid idtype="pmpid" link="fulltext">2433817</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B24">
+            <title>
+               <p>Migration and differentiation of nuclear fluorescence-labeled bone marrow stromal cells after transplantation into cerebral infarct and spinal cord injury in mice</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Lee</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Kuroda</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Shichinohe</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Ikeda</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Seki</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Hida</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Tada</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Sawada</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Iwasaki</snm>
+                  <fnm>Y</fnm>
+               </au>
+            </aug>
+            <source>Neuropathology</source>
+            <pubdate>2003</pubdate>
+            <volume>23</volume>
+            <fpage>169</fpage>
+            <lpage>180</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1046/j.1440-1789.2003.00496.x</pubid>
+                  <pubid idtype="pmpid" link="fulltext">14570283</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B25">
+            <title>
+               <p>From marrow to brain: expression of neuronal phenotypes in adult mice</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Brazelton</snm>
+                  <fnm>TR</fnm>
+               </au>
+               <au>
+                  <snm>Rossi</snm>
+                  <fnm>FM</fnm>
+               </au>
+               <au>
+                  <snm>Keshet</snm>
+                  <fnm>GI</fnm>
+               </au>
+               <au>
+                  <snm>Blau</snm>
+                  <fnm>HM</fnm>
+               </au>
+            </aug>
+            <source>Science</source>
+            <pubdate>2000</pubdate>
+            <volume>290</volume>
+            <fpage>1775</fpage>
+            <lpage>1779</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid">11099418</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B26">
+            <title>
+               <p>Mesenchymal stem cells modified with Akt prevent remodeling and restore performance of infarcted hearts</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Mangi</snm>
+                  <fnm>AA</fnm>
+               </au>
+               <au>
+                  <snm>Noiseux</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Kong</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>He</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Rezvani</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Ingwall</snm>
+                  <fnm>JS</fnm>
+               </au>
+               <au>
+                  <snm>Dzau</snm>
+                  <fnm>VJ</fnm>
+               </au>
+            </aug>
+            <source>Nat Med</source>
+            <pubdate>2003</pubdate>
+            <volume>9</volume>
+            <fpage>1195</fpage>
+            <lpage>1201</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/nm912</pubid>
+                  <pubid idtype="pmpid" link="fulltext">12910262</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B27">
+            <title>
+               <p>Mesenchymal stromal cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Keating</snm>
+                  <fnm>A</fnm>
+               </au>
+            </aug>
+            <source>Curr Opin Hematol</source>
+            <pubdate>2006</pubdate>
+            <volume>13</volume>
+            <fpage>419</fpage>
+            <lpage>425</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1097/01.moh.0000245697.54887.6f</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17053453</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B28">
+            <title>
+               <p>Improved expression of gamma-aminobutyric acid receptor in mice with cerebral infarct and transplanted bone marrow stromal cells: an autoradiographic and histologic analysis</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Shichinohe</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Kuroda</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Yano</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Ohnishi</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Tamagami</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Hida</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Iwasaki</snm>
+                  <fnm>Y</fnm>
+               </au>
+            </aug>
+            <source>J Nucl Med</source>
+            <pubdate>2006</pubdate>
+            <volume>47</volume>
+            <fpage>486</fpage>
+            <lpage>491</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid" link="fulltext">16513618</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B29">
+            <title>
+               <p>Autologous mesenchmal stem cell transplantation in stroke patients</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Bang</snm>
+                  <fnm>OY</fnm>
+               </au>
+               <au>
+                  <snm>Lee</snm>
+                  <fnm>JS</fnm>
+               </au>
+               <au>
+                  <snm>Lee</snm>
+                  <fnm>PH</fnm>
+               </au>
+               <au>
+                  <snm>LEE</snm>
+                  <fnm>G</fnm>
+               </au>
+            </aug>
+            <source>Ann Neurol</source>
+            <pubdate>2005</pubdate>
+            <volume>57</volume>
+            <fpage>874</fpage>
+            <lpage>882</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1002/ana.20501</pubid>
+                  <pubid idtype="pmpid" link="fulltext">15929052</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B30">
+            <title>
+               <p>Stem cell therapy for human neurodegenerative disorders-how to make it work</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Lindvall</snm>
+                  <fnm>O</fnm>
+               </au>
+               <au>
+                  <snm>Kokaia</snm>
+                  <fnm>Z</fnm>
+               </au>
+               <au>
+                  <snm>Martinez-Serrano</snm>
+                  <fnm>A</fnm>
+               </au>
+            </aug>
+            <source>Nat Med</source>
+            <pubdate>2004</pubdate>
+            <volume>10</volume>
+            <fpage>42</fpage>
+            <lpage>50</lpage>
+            <xrefbib>
+               <pubid idtype="doi">10.1038/nm1064</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B31">
+            <title>
+               <p>Therapeutic benefit of intravenous administration of bone marrow stromal cells after cerebral ischemia in rats</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Chen</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Li</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Wang</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Lu</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Zhang</snm>
+                  <fnm>X</fnm>
+               </au>
+               <au>
+                  <snm>Chopp</snm>
+                  <fnm>M</fnm>
+               </au>
+            </aug>
+            <source>Stroke</source>
+            <pubdate>2001</pubdate>
+            <volume>32</volume>
+            <fpage>1005</fpage>
+            <lpage>1011</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1161/01.STR.32.4.1005</pubid>
+                  <pubid idtype="pmpid" link="fulltext">11283404</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B32">
+            <title>
+               <p>Differential gene expression profiling of human umbilical cord blood derived mesenchymal stem cells by DNA microarray</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Jeong</snm>
+                  <fnm>JA</fnm>
+               </au>
+               <au>
+                  <snm>Hong</snm>
+                  <fnm>SH</fnm>
+               </au>
+               <au>
+                  <snm>Gang</snm>
+                  <fnm>EJ</fnm>
+               </au>
+               <au>
+                  <snm>Ahn</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Hwang</snm>
+                  <fnm>SH</fnm>
+               </au>
+               <au>
+                  <snm>Yang</snm>
+                  <fnm>IH</fnm>
+               </au>
+               <au>
+                  <snm>Han</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Kim</snm>
+                  <fnm>H</fnm>
+               </au>
+            </aug>
+            <source>Stem Cells</source>
+            <pubdate>2005</pubdate>
+            <volume>23</volume>
+            <fpage>584</fpage>
+            <lpage>593</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1634/stemcells.2004-0304</pubid>
+                  <pubid idtype="pmpid" link="fulltext">15790779</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B33">
+            <title>
+               <p>Age-related decline in the osteogenic potential of human bone marrow cells cultured in three-dimensional collagen sponges</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Mueller</snm>
+                  <fnm>SM</fnm>
+               </au>
+               <au>
+                  <snm>Glowacki</snm>
+                  <fnm>J</fnm>
+               </au>
+            </aug>
+            <source>J Cell Biochem</source>
+            <pubdate>2001</pubdate>
+            <volume>82</volume>
+            <fpage>583</fpage>
+            <lpage>590</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1002/jcb.1174</pubid>
+                  <pubid idtype="pmpid" link="fulltext">11500936</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B34">
+            <title>
+               <p>Administration of CD34+ cells after stroke enhances neurogenesis via angiogenesis in a mouse model</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Taguchi</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Soma</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Tanaka</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Kanda</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Nishimura</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Yoshikawa</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Tsukamoto</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Iso</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Fujimori</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Stern</snm>
+                  <fnm>DM</fnm>
+               </au>
+               <au>
+                  <snm>Naritomi</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Matsuyama</snm>
+                  <fnm>T</fnm>
+               </au>
+            </aug>
+            <source>J Clin Invest</source>
+            <pubdate>2004</pubdate>
+            <volume>114</volume>
+            <fpage>330</fpage>
+            <lpage>338</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="pmcid">484977</pubid>
+                  <pubid idtype="pmpid" link="fulltext">15286799</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B35">
+            <title>
+               <p>Neurosphere-derived cells exert a neuroprotective action by changing the ischemic microenvironment</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Capone</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Frigerio</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Fumagalli</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Gelati</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Principato</snm>
+                  <fnm>MC</fnm>
+               </au>
+               <au>
+                  <snm>Storini</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Montinaro</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Kraftsik</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>De Curtis</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Parati</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>De Simoni</snm>
+                  <fnm>MG</fnm>
+               </au>
+            </aug>
+            <source>Plos One</source>
+            <pubdate>2007</pubdate>
+            <volume>4</volume>
+            <fpage>1</fpage>
+            <lpage>11</lpage>
+         </bibl>
+         <bibl id="B36">
+            <title>
+               <p>Neurotransplantation for patients with subcortical motor stroke: a phase 2 randomized trial</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Kondziolka</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Steinberg</snm>
+                  <fnm>GK</fnm>
+               </au>
+               <au>
+                  <snm>Wechsler</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Meltzer</snm>
+                  <fnm>CC</fnm>
+               </au>
+               <au>
+                  <snm>Elder</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Gebel</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>De Cesare</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Jovin</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Zafonte</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Lebowitz</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Flickinger</snm>
+                  <fnm>JC</fnm>
+               </au>
+               <au>
+                  <snm>Tong</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Marks</snm>
+                  <fnm>MP</fnm>
+               </au>
+               <au>
+                  <snm>Jamieson</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Luu</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Bell-Stephens</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Teraoka</snm>
+                  <fnm>J</fnm>
+               </au>
+            </aug>
+            <source>J Neurosurg</source>
+            <pubdate>2005</pubdate>
+            <volume>103</volume>
+            <fpage>38</fpage>
+            <lpage>45</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.3171/jns.2005.103.1.0038</pubid>
+                  <pubid idtype="pmpid" link="fulltext">16121971</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B37">
+            <title>
+               <p>Autologous mesenchymal stem cell transplantation in stroke patients</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Lee</snm>
+                  <fnm>JS</fnm>
+               </au>
+               <au>
+                  <snm>Hong</snm>
+                  <fnm>JM</fnm>
+               </au>
+               <au>
+                  <snm>Moon</snm>
+                  <fnm>GJ</fnm>
+               </au>
+               <au>
+                  <snm>Lee</snm>
+                  <fnm>PH</fnm>
+               </au>
+               <au>
+                  <snm>Ahn</snm>
+                  <fnm>YH</fnm>
+               </au>
+               <au>
+                  <snm>Bang</snm>
+                  <fnm>OY</fnm>
+               </au>
+            </aug>
+            <source>Stem Cells</source>
+            <pubdate>2010</pubdate>
+            <volume>28</volume>
+            <fpage>1099</fpage>
+            <lpage>1106</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1002/stem.430</pubid>
+                  <pubid idtype="pmpid" link="fulltext">20506226</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B38">
+            <title>
+               <p>Therapeutic applications of mesenchymal stromal cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Brooke</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Cook</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Blair</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Han</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Heazlewood</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Jones</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Kambouris</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Kollar</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>McTaggart</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Pelekanos</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Rice</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Rossetti</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Atkinson</snm>
+                  <fnm>K</fnm>
+               </au>
+            </aug>
+            <source>Semin Cell Dev Biol</source>
+            <pubdate>2007</pubdate>
+            <volume>18</volume>
+            <fpage>846</fpage>
+            <lpage>858</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.semcdb.2007.09.012</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18024097</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B39">
+            <title>
+               <p>Multiple stem cell traits of expanded rat bone marrow stromal cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Lim</snm>
+                  <fnm>JY</fnm>
+               </au>
+               <au>
+                  <snm>Jeun</snm>
+                  <fnm>SS</fnm>
+               </au>
+               <au>
+                  <snm>Lee</snm>
+                  <fnm>KJ</fnm>
+               </au>
+               <au>
+                  <snm>Oh</snm>
+                  <fnm>JH</fnm>
+               </au>
+               <au>
+                  <snm>Kim</snm>
+                  <fnm>SM</fnm>
+               </au>
+               <au>
+                  <snm>Park</snm>
+                  <fnm>SI</fnm>
+               </au>
+               <au>
+                  <snm>Jeong</snm>
+                  <fnm>CH</fnm>
+               </au>
+               <au>
+                  <snm>Kang</snm>
+                  <fnm>SG</fnm>
+               </au>
+            </aug>
+            <source>Exp Neurol</source>
+            <pubdate>2006</pubdate>
+            <volume>199</volume>
+            <fpage>416</fpage>
+            <lpage>426</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.expneurol.2006.01.015</pubid>
+                  <pubid idtype="pmpid" link="fulltext">16643901</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B40">
+            <title>
+               <p>Brain-derived neurotrophic factor stimulates the neural differentiation of human umbilical cord blood-derived mesenchymal stem cells and survival</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Lim</snm>
+                  <fnm>JY</fnm>
+               </au>
+               <au>
+                  <snm>Park</snm>
+                  <fnm>SI</fnm>
+               </au>
+               <au>
+                  <snm>Kim</snm>
+                  <fnm>SM</fnm>
+               </au>
+               <au>
+                  <snm>Oh</snm>
+                  <fnm>JH</fnm>
+               </au>
+               <au>
+                  <snm>Jeong</snm>
+                  <fnm>CH</fnm>
+               </au>
+               <au>
+                  <snm>Jun</snm>
+                  <fnm>JA</fnm>
+               </au>
+               <au>
+                  <snm>Lee</snm>
+                  <fnm>KS</fnm>
+               </au>
+               <au>
+                  <snm>Oh</snm>
+                  <fnm>W</fnm>
+               </au>
+               <au>
+                  <snm>Lee</snm>
+                  <fnm>JK</fnm>
+               </au>
+               <au>
+                  <snm>Jeun</snm>
+                  <fnm>SS</fnm>
+               </au>
+            </aug>
+            <source>J Neurosci Res</source>
+            <pubdate>2008</pubdate>
+            <volume>86</volume>
+            <fpage>2168</fpage>
+            <lpage>2178</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1002/jnr.21669</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18438930</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+      </refgrp>
+   </bm>
+</art>

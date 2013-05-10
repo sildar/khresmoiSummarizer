@@ -1,0 +1,2247 @@
+<!DOCTYPE art SYSTEM "article.dtd">
+<art>
+   <ui>scrt68</ui>
+   <ji>1757-6512</ji>
+   <fm>
+      <dochead>Research</dochead>
+      <bibl>
+         <title>
+            <p>Human multipotent stromal cells attenuate lipopolysaccharide-induced acute lung injury in mice via secretion of tumor necrosis factor-&#945;-induced protein 6</p>
+         </title>
+         <aug>
+            <au id="A1">
+               <snm>Danchuk</snm>
+               <fnm>Svitlana</fnm>
+               <insr iid="I1"/>
+               <insr iid="I2"/>
+               <email>sdanchu@tulane.edu</email>
+            </au>
+            <au id="A2">
+               <snm>Ylostalo</snm>
+               <mi>H</mi>
+               <fnm>Joni</fnm>
+               <insr iid="I3"/>
+               <email>Ylostalo@medicine.tamhsc.edu</email>
+            </au>
+            <au id="A3">
+               <snm>Hossain</snm>
+               <fnm>Fokhrul</fnm>
+               <insr iid="I4"/>
+               <email>fhossa@lsuhsc.edu</email>
+            </au>
+            <au id="A4">
+               <snm>Sorge</snm>
+               <fnm>Randy</fnm>
+               <insr iid="I1"/>
+               <insr iid="I2"/>
+               <email>rsorge@lsuhsc.edu</email>
+            </au>
+            <au id="A5">
+               <snm>Ramsey</snm>
+               <fnm>Austin</fnm>
+               <insr iid="I1"/>
+               <insr iid="I2"/>
+               <email>adamsramsey@gmail.com</email>
+            </au>
+            <au id="A6">
+               <snm>Bonvillain</snm>
+               <mi>W</mi>
+               <fnm>Ryan</fnm>
+               <insr iid="I2"/>
+               <email>rbonvill@tulane.ed</email>
+            </au>
+            <au id="A7">
+               <snm>Lasky</snm>
+               <mi>A</mi>
+               <fnm>Joseph</fnm>
+               <insr iid="I1"/>
+               <email>jlasky@tulane.edu</email>
+            </au>
+            <au id="A8">
+               <snm>Bunnell</snm>
+               <mi>A</mi>
+               <fnm>Bruce</fnm>
+               <insr iid="I2"/>
+               <email>bbunnell@tulane.edu</email>
+            </au>
+            <au id="A9">
+               <snm>Welsh</snm>
+               <mi>A</mi>
+               <fnm>David</fnm>
+               <insr iid="I4"/>
+               <email>DWelsh@lsuhsc.edu</email>
+            </au>
+            <au id="A10">
+               <snm>Prockop</snm>
+               <mi>J</mi>
+               <fnm>Darwin</fnm>
+               <insr iid="I3"/>
+               <email>Prockop@medicine.tamhsc.edu</email>
+            </au>
+            <au ca="yes" id="A11">
+               <snm>Sullivan</snm>
+               <mi>E</mi>
+               <fnm>Deborah</fnm>
+               <insr iid="I2"/>
+               <insr iid="I5"/>
+               <email>dsulliva@tulane.edu</email>
+            </au>
+         </aug>
+         <insg>
+            <ins id="I1">
+               <p>Department of Medicine, Section of Pulmonary Diseases, Critical Care and Environmental Medicine, Tulane University School of Medicine, 1430 Tulane Avenue, New Orleans, LA 70112, USA</p>
+            </ins>
+            <ins id="I2">
+               <p>Center for Stem Cell Research and Regenerative Medicine, Tulane University School of Medicine, 1430 Tulane Avenue, New Orleans, LA 70112, USA</p>
+            </ins>
+            <ins id="I3">
+               <p>Texas A&amp;M Health Science Center, College of Medicine, Institute for Regenerative Medicine at Scott &amp; White, 5701 Airport Road, Module C, Temple, TX 76502, USA</p>
+            </ins>
+            <ins id="I4">
+               <p>Department of Medicine, Section of Pulmonary/Critical Care Medicine, LSU Health Sciences Center, 1901 Perdido Street, Suite 3205, New Orleans, LA 70112, USA</p>
+            </ins>
+            <ins id="I5">
+               <p>Department of Microbiology and Immunology, Tulane University School of Medicine, 1430 Tulane Avenue, New Orleans, LA 70112, USA</p>
+            </ins>
+         </insg>
+         <source>Stem Cell Research &amp; Therapy</source>
+         <issn>1757-6512</issn>
+         <pubdate>2011</pubdate>
+         <volume>2</volume>
+         <issue>3</issue>
+         <fpage>27</fpage>
+         <url>http://stemcellres.com/content/2/3/27</url>
+         <xrefbib>
+            <pubidlist>
+               <pubid idtype="doi">10.1186/scrt68</pubid>
+               <pubid idtype="pmpid">21569482</pubid>
+            </pubidlist>
+         </xrefbib>
+      </bibl>
+      <history>
+         <rec>
+            <date>
+               <day>21</day>
+               <month>12</month>
+               <year>2010</year>
+            </date>
+         </rec>
+         <acc>
+            <date>
+               <day>13</day>
+               <month>5</month>
+               <year>2011</year>
+            </date>
+         </acc>
+         <pub>
+            <date>
+               <day>13</day>
+               <month>5</month>
+               <year>2011</year>
+            </date>
+         </pub>
+      </history>
+      <cpyrt>
+         <year>2011</year>
+         <collab>Danchuk et al.; licensee BioMed Central Ltd.</collab>
+         <note>This is an open access article distributed under the terms of the Creative Commons Attribution License (<url>http://creativecommons.org/licenses/by/2.0</url>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</note>
+      </cpyrt>
+      <abs>
+         <sec>
+            <st>
+               <p>Abstract</p>
+            </st>
+            <sec>
+               <st>
+                  <p>Introduction</p>
+               </st>
+               <p>Multipotent stromal cells (MSCs) are currently in clinical trials for a number of inflammatory diseases. Recent studies have demonstrated the ability of MSCs to attenuate inflammation in rodent models of acute lung injury (ALI) suggesting that MSCs may also be beneficial in treating ALI.</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>Methods</p>
+               </st>
+               <p>To better understand how human MSCs (hMSCs) may act in ALI, the lungs of immunocompetent mice were exposed to lipopolysaccharide (LPS) and four hours later bone marrow derived hMSCs were delivered by oropharyngeal aspiration (OA). The effect of hMSCs on lung injury was assessed by measuring the lung wet/dry weight ratio and total protein in bronchoalveolar lavage (BAL) fluid 24 or 48 h after LPS. BAL fluid was also analyzed for the presence of inflammatory cells and cytokine expression by multiplex immunoassay. Microarray analysis of total RNA isolated from treated and untreated lungs was performed to elucidate the mechanism(s) involved in hMSC modulation of lung inflammation.</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>Results</p>
+               </st>
+               <p>Administration of hMSCs significantly reduced the expression of pro-inflammatory cytokines, neutrophil counts and total protein in bronchoalveolar lavage. There was a concomitant reduction in pulmonary edema. The anti-inflammatory effects of hMSCs were not dependent on localization to the lung, as intraperitoneal administration of hMSCs also attenuated LPS-induced inflammation in the lung. Microarray analysis revealed significant induction of tumor necrosis factor (<it>TNF</it>)-&#945;-induced protein 6 (<it>TNFAIP6/</it>TSG-6) expression by hMSCs 12 h after OA delivery to LPS-exposed lungs. Knockdown of TSG-6 expression in hMSCs by RNA interference abrogated most of their anti-inflammatory effects. In addition, intra-pulmonary delivery of recombinant human TSG-6 reduced LPS-induced inflammation in the lung.</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>Conclusions</p>
+               </st>
+               <p>These results show that hMSCs recapitulate the observed beneficial effects of rodent MSCs in animal models of ALI and suggest that the anti-inflammatory properties of hMSCs in the lung are explained, at least in part, by activation of hMSCs to secrete TSG-6.</p>
+            </sec>
+         </sec>
+      </abs>
+   </fm>
+   <bdy>
+      <sec>
+         <st>
+            <p>Introduction</p>
+         </st>
+         <p>Acute lung injury (ALI) and its more severe manifestation, acute respiratory distress syndrome (ARDS), are major complications in critically ill patients. ALI is a syndrome of widespread lung inflammation and increased pulmonary vascular permeability resulting in pulmonary edema, hypoxia and may contribute to multiple organ failure and death. ALI/ARDS is most commonly caused by sepsis, pneumonia, trauma or aspiration of gastric contents. Despite improvements in critical care and mechanical ventilation protocols, the mortality rate for patients with ALI is still 30% to 40% <abbrgrp><abbr bid="B1">1</abbr><abbr bid="B2">2</abbr><abbr bid="B3">3</abbr></abbrgrp>. Multipotent stromal cells (MSCs), also known as mesenchymal stem cells, have been proposed as a cellular therapy for ALI.</p>
+         <p>MSCs are fibroblast-like cells characterized by their ability to self-renew and undergo differentiation into mesenchymal lineage cell types including bone, cartilage, adipose tissue, muscle and tendon <abbrgrp><abbr bid="B4">4</abbr></abbrgrp>. MSCs have been isolated from the bone marrow and the connective tissue of almost all organs including adipose, periosteum, synovial fluid, muscle, hair follicles, root of deciduous teeth, articular cartilage, placenta, dermis, umbilical cord, Wharton's jelly, lung, liver and spleen <abbrgrp><abbr bid="B4">4</abbr><abbr bid="B5">5</abbr><abbr bid="B6">6</abbr></abbrgrp>. The interest in MSCs as cellular therapy arises from numerous <it>in vivo </it>studies showing that MSCs avoid allorecognition, home to sites of injury, and suppress inflammation as well as immune responses. In addition, MSCs can be rapidly expanded <it>in vitro </it>while maintaining their multipotent properties <abbrgrp><abbr bid="B7">7</abbr></abbrgrp>. MSCs are currently in clinical trials for treatment of a number of human diseases including osteogenesis imperfecta, osteoarthritis, graft-versus-host disease, multiple sclerosis, types 1 and 2 diabetes, Crohn's disease, acute kidney injury, acute myocardial infarction, ischemic heart failure, and chronic obstructive pulmonary disease <abbrgrp><abbr bid="B8">8</abbr></abbrgrp>.</p>
+         <p>Intravenous or intra-alveolar administration of MSCs modulates both the inflammatory process and tissue remodeling in experimental models of ALI despite minimal, if any, engraftment (reviewed in <abbrgrp><abbr bid="B9">9</abbr></abbrgrp>). The mechanisms involved are poorly understood; however, increasing data suggest that the protective effects of MSCs are largely mediated through production of paracrine mediators <abbrgrp><abbr bid="B7">7</abbr><abbr bid="B10">10</abbr></abbrgrp>. Most of what is known about the therapeutic function of MSCs comes from studies that employed rodent MSCs. It has been suggested that the mechanisms of MSC-meditated immunosuppression may be different between rodent MSCs and human MSCs (hMSCs) in some models <abbrgrp><abbr bid="B11">11</abbr></abbrgrp> but not in others, including the experimental allergic encephalomyelitis model for multiple sclerosis <abbrgrp><abbr bid="B12">12</abbr><abbr bid="B13">13</abbr></abbrgrp>. Before proceeding to clinical trials, it is critical to understand the mechanisms integral to the beneficial effects of hMSCs in ALI so that the human physiological response can be accurately predicted.</p>
+         <p>To elucidate the mechanisms involved in human MSC modulation of inflammation in the lung, we used intra-pulmonary delivery of <it>E. coli </it>endotoxin to immunocompetent mice, a well-characterized model of ALI. Here we demonstrated that xenographic transplantation of hMSCs suppress inflammation and lung injury. Taking advantage of the cross-species nature of our experiments, we employed human-specific gene arrays to identify potential anti-inflammatory factors expressed by hMSCs in the injured lung. TNF-&#945;-induced protein 6 (<it>TNAIP6/</it>TSG-6) was shown to be highly induced in hMSCS in response to lung injury. Using RNA interference, we demonstrated that the anti-inflammatory properties of hMSCs in the lung are explained, at least in part, by activation of hMSCs to secrete TSG-6.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Materials and methods</p>
+         </st>
+         <sec>
+            <st>
+               <p>Cell culture</p>
+            </st>
+            <p>Adult hMSCs from bone marrow were obtained from the Center for the Preparation and Distribution of Adult Stem Cells <abbrgrp><abbr bid="B14">14</abbr></abbrgrp>. The center has supplied standardized preparations of MSCs enriched for early progenitor cells to over 350 laboratories under the auspices of a National Institutes of Health/National Center for Research Resources (NIH/NCRR) grant (P40 RR17447). Vials of about 0.5 &#215; 10<sup>6 </sup>cells (passage 1 or 2) were thawed, plated on two-stack culture chambers (Corning, Lowell, MA, USA) in 100 ml/stack of complete culture medium (CCM) at 150 cells/cm<sup>2 </sup>density, and incubated at 37&#176;C in 5% CO<sub>2 </sub>for six to seven days until 70% confluent. The CCM consisted of &#945;-MEM (Invitrogen, Gaithersburg, MD, USA) containing 17% FBS (lot-selected for rapid growth of hMSCs; Atlanta Biologicals, Lawrenceville, GA, USA); 100 units/ml of penicillin; 100 &#956;g/ml of streptomycin; and 2 mM L-glutamine (Invitrogen). One day before cells were to be administered, medium was changed to antibiotic-free CCM. hMSCs were harvested with 0.25% trypsin/1 mM EDTA (Invitrogen) for 3 minutes at 37&#176;C, washed with PBS (without Ca<sup>2+ </sup>and Mg<sup>2+</sup>) by centrifugation at 480 &#215; g for 10 minutes at room temperature, resuspended in PBS and administered to mice. IMR-90 human lung fibroblasts (HLFs) were obtained from the American Type Culture Collection (ATCC, Rockville, MD, USA) and cultured according to manufacturer's instructions. HLFs were used at passages 14 to 15 for all experiments.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Animal model of ALI</p>
+            </st>
+            <p>Animal care and all animal procedures were approved by the Institutional Animal Care and Use Committee of Tulane University. Eight- to-ten-week-old female BALB/C mice (National Cancer Institute-Frederick, Frederick, MD, USA) were treated with either 1 mg/kg lipopolysaccharide (LPS, Sigma-Aldrich, St. Louis, MO, USA) from <it>Escherichia coli </it>(serotype 0111:B4) in 100 &#956;l PBS or an equal volume of PBS, as vehicle control, by oropharyngeal aspiration (OA) as previously described <abbrgrp><abbr bid="B15">15</abbr></abbrgrp>. Briefly, mice were anesthetized with 2% isoflurane vapor (VetOne, Meridian, ID, USA) in oxygen and suspended on a string by the cranial incisors. A droplet was placed in the back of the throat while simultaneously holding the tongue to block the swallow reflex and pinching the nose, forcing the mouse to breathe through its mouth and in the process aspirate the liquid. Four hours after LPS exposure, hMSCs or HLFs (2.5 &#215; 10<sup>5</sup>/100 &#956;l PBS) were given by OA and 30 minutes later a second dose of equal concentration was administered, for a total of 5 &#215; 10<sup>5 </sup>cells. As the control, 200 &#956;l PBS was delivered as described above. Recombinant human TSG-6 protein (rhTSG-6, R&amp;D Systems, Minneapolis, MN, USA) was administered at 50 &#956;g/200 &#956;l PBS by OA in two equal doses, 30 minutes apart, 1 h and 10 h after LPS delivery to the lung. Mice were anesthetized with 80 mg/kg ketamine plus 8 mg/kg xylazine and euthanized by exsanguination 24 or 48 h after LPS treatment. The right lung was processed for bronchoalveolar lavage (BAL) and the left lung was used for RNA isolation or histology. Dry/wet weight measurements were performed on whole lungs from a separate set of animals.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Histology</p>
+            </st>
+            <p>Lungs were perfused with 10% buffered formalin (Sigma-Aldrich) at a pressure of 25 cm H<sub>2</sub>O for 15 to 20 minutes, removed from the animal and placed in fresh 10% neutral buffered formalin for 16 to 20 h at 4&#176;C prior to processing and embedding. Sections (4 &#956;M) from each sample were stained with hematoxylin and eosin (H&amp;E) for histopathological evaluation by two independent experts blinded to the treatment. Whole H&amp;E-stained sections were digitally imaged using an Aperio ScanScope (Aperio Technologies, Vista, CA, USA). TIFF Images of whole lung sections were acquired using the ImageScope program from Aperio. Threshold analysis of whole lung sections, excluding non-parenchymal structures (for example, large blood vessels, airway structural elements, connective structures, and so on), was performed using the NIH ImageJ program. Briefly, RGB color images were split into individual color channels (RGB stack), and analyses were performed using the green channel. The threshold was then adjusted to the highest point that would highlight all areas of the parenchyma while excluding background. The threshold area of total parenchyma was measured and recorded. Then, the threshold was reset to highlight only areas of high pixel density which correlated with lung damage (damage threshold) as determined by microscopic regional image analysis (Supplemental Figure S1 in Additional file <supplr sid="S1">1</supplr>). Equal threshold values were applied across groups to all images analyzed. Lung injury index was calculated as the ratio of damaged area relative to total parenchyma area and reported as fold increase over control lung (PBS + PBS).</p>
+            <suppl id="S1">
+               <title>
+                  <p>Additional file 1</p>
+               </title>
+               <text>
+                  <p><b>Supplemental Figure S1</b>. Threshold image analysis of LPS-induced lung injury treated with hMSCs. Damage fraction was determined as the ratio of damaged area relative to total parenchyma area. Injured areas determined by microscopic analysis appeared as darkly staining areas macroscopically. Threshold analysis was performed to measure total parenchyma area and injured area. A lung injury index was determined as the percent damaged area relative to total parenchyma area. (<b>a, b, c</b>) RGB images of whole H&amp;E-stained sections. Large blood vessels, airway elements, and connective structures have been cleared and appear as background. (<b>d, e, f</b>) Threshold digital highlighting of damaged areas. (<b>g</b>) Microscopic view of damaged area. The scale bar represents 50 &#956;m. The inset shows the whole section, and the red box marks an area of lung injury and the blue box marks an area with undetectable injury.</p>
+               </text>
+               <file name="scrt68-S1.PDF">
+                  <p>Click here for file</p>
+               </file>
+            </suppl>
+         </sec>
+         <sec>
+            <st>
+               <p>Bronchoalveolar lavage (BAL) and differential cell counts</p>
+            </st>
+            <p>Lung lavage was performed immediately after euthanasia with five aliquots consisting of 600 &#956;l of sterile PBS supplemented with 0.4 mM EDTA and protease inhibitor cocktail (Roche, Indianapolis, IN, USA). Aliquots were centrifuged at 1,500 &#215; <it>g </it>for five minutes at 4&#176;C to separate cells from supernatant. Supernatant from the first aliquot was stored at -70&#176;C for biochemical analysis and cells from all aliquots were combined and counted using a grid hemocytometer. Differential cell counts were performed after cytocentrifugation and staining with a modified Wright stain (Diff-Quik, Fisher Scientific, Pittsburgh, PA, USA) by counting 300 cells in each of three different viewing fields.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Lung wet/dry weight ratio</p>
+            </st>
+            <p>Lungs were dissected immediately after euthanasia and the wet weight was recorded. Lungs were then placed in an incubator at 65&#176;C for 72 h, and the dry weight was determined.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Cytokine and protein measurements</p>
+            </st>
+            <p>Measurement of cytokines and chemokines in BAL fluid was performed by multiplex immunoassay using Milliplex mouse cytokine/chemokine 22-plex kit (Millipore, Billerica, MA, USA) following the manufacturer's instructions. MIP-2 and MCP-1 levels were measured with mouse specific Quantikine CXCL2/MIP-2 and CCL2/JE/MCP-1 immunoassays, respectively (R&amp;D Systems). The quantification of mouse IL-6 was performed with mouse IL-6 ELISA MAX&#8482; Deluxe Set from BioLegend (San Diego, CA, USA) according to the manufacturer's instruction. Protein concentration was quantified using the Micro BCA protein assay kit (Pierce, Rockford, IL, USA).</p>
+         </sec>
+         <sec>
+            <st>
+               <p>RNA isolation and RT-PCR</p>
+            </st>
+            <p>Total RNA was obtained from lung tissue homogenized in TriPure Isolation Reagent (Roche) and was purified with the RNeasy mini kit (Qiagen, Valencia, CA, USA). Total RNA concentration was measured using NanoDrop spectrophotometer (Thermo Scientific Nanodrop, Nanodrop Technologies, Wilmington, DE, USA) and quality assessed by the 260/280 and 230/260 ratios. Reverse transcription was carried out with 1 &#956;g of total RNA using a First Strand cDNA Synthesis kit (Bio-Rad, Hercules, CA, USA) following the instructions provided by the manufacturer. Quantitative real-time PCR (qRT-PCR) was performed using a 40-cycle two-step PCR (95&#176;C for 15 sec followed by 60&#176;C for 1 minute) with sequence-specific primer pairs using the iCycler IQ real-time detection System (Bio-Rad). qRT-PCR for human TSG-6 and GAPDH mRNA was performed using human-specific TSG-6 primers/probe <abbrgrp><abbr bid="B15">15</abbr></abbrgrp> or human GAPDH Taq-Man Gene Expression Assay (Hs00266705_g1, Applied Biosystems, Foster City, CA, USA) and Taqman Universal PCR Master Mix (Applied Biosystems) with 200 ng of cDNA. The number of viable hMSCs in mouse lung at the time of euthanasia was evaluated as a percentage of administered hMSCs based on qRT-PCR results for human GAPDH mRNA as previously described <abbrgrp><abbr bid="B16">16</abbr></abbrgrp>. Human keratinocyte growth factor (KGF) and interleukin 1 receptor antagonist (IL1RN) mRNA levels were assayed using Taq-Man Gene Expression Assays Hs00384281_m1 and Hs00893625_m1, respectively (Applied Biosystems). The species specificity of each primer set was confirmed by analyzing RNA isolated from mouse lung and hMSCs in each reaction.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Microarray analysis</p>
+            </st>
+            <p>RNA was isolated from whole lungs of LPS- (LPS + hMSC) or PBS-exposed (PBS + hMSC) mice 12 h after OA administration of 5 &#215; 10<sup>5 </sup>hMSCs. Control RNA was isolated from LPS-exposed lung treated with PBS (LPS + PBS). To establish baseline levels of gene expression in hMSCs prior to delivery to the lung, 5 &#215; 10<sup>5 </sup>hMSCs were added to LPS- (LPS + hMSCs <it>in vitro </it>mix) or PBS- (PBS + hMSCs <it>in vitro </it>mix) exposed mouse lung immediately prior to homogenization. RNA extracts from samples containing hMSCs were analyzed for human GAPDH mRNA by qRT-PCR to estimate the amount of human RNA in each sample. To allow comparisons between samples containing both human and mouse RNA, RNA extracts were diluted to contain equal levels of human RNA. The adjusted RNA samples (approximately 3 &#956;g of total RNA) were assayed on a human (HG-U133 Plus 2.0) microarray (Affymetrix, Santa Clara, CA, USA). An aliquot of total RNA extracted from LPS-exposed lung treated with PBS, equal in concentration to the adjusted RNA sample from LPS-exposed lung treated with hMSCs, was also included to detect cross-hybridization of mouse RNA to the human chip. The data were analyzed using Partek Genomics Suite 6.5 (Partek Inc., St. Louis, MO, USA) and filtered for cross-hybridization (CV >0.5 and call >33%) as previously described <abbrgrp><abbr bid="B16">16</abbr></abbrgrp>. Values were expressed as fold changes relative to the signal intensities of controls. For a human gene to be considered significantly up-regulated in the LPS + hMSC sample the expression in the human array had to be at least two-fold higher than in the 1) LPS + PBS sample, 2) PBS + hMSC sample, 3) LPS + hMSC <it>in vitro </it>mix sample, and 4) PBS + hMSC <it>in vitro </it>mix sample.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>siRNA transfection</p>
+            </st>
+            <p>Target hMSCs for transfection were cultured in antibiotic-free CCM and harvested as described above. About 1 &#215; 10<sup>6 </sup>hMSCs were resuspended in 100 &#956;l resuspension buffer R (Neon Transfection System, Invitrogen, Carlsbad, CA, USA) with 1 &#956;M siRNA for TSG-6 (sc-39819; Santa Cruz Biotechnology, Santa Cruz, CA, USA) or control non-silencing siRNA (sc-37007; Santa Cruz Biotechnology) and transfected in 100 &#956;l Neon tip with Neon transfection system (Invitrogen) using two pulses (1,400 V input pulse voltage/20 ms input pulse width). Transfected hMSCs were plated on 10 cm<sup>2 </sup>tissue culture dishes in 7.5 ml antibiotic-free CCM for 24 h.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Myeloperoxidase (MPO) activity</p>
+            </st>
+            <p>MPO activity in BAL fluid was measured by continually monitoring the change in absorbance of MPO reactions at 460 nm for a period of five minutes using the Synergy HT multi-detection microplate reader (Bio-Tek Instruments, Winooski, VT, USA). Assays were conducted at 25&#176;C in a final volume of 100 &#956;l. The reaction buffer contained 50 mM potassium phosphate (pH 6.0), 0.0005% (volume/volume) H<sub>2</sub>O<sub>2 </sub>and 0.167 mg/ml o-dianisidine dihydrochloride (Sigma-Aldrich, St. Louis, MO, USA). MPO activity in BAL fluid was expressed in units/min/ml using a standard curve with 0 to 0.625 units/ml human leukocyte myeloperoxidase (Sigma-Aldrich).</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Statistical analyses</p>
+            </st>
+            <p>Data are shown as mean &#177; SEM. Comparisons between the two groups were made using unpaired, two-tailed Student's <it>t </it>tests. <it>P </it>&lt; 0.05 was considered statistically significant. To assess the likely contribution of Type 1 error due to multiple analyses performed in the multiplex immunoassays, we calculated <it>P-</it>values for the null hypothesis based on the exact confidence intervals for samples from the binomial distribution <abbrgrp><abbr bid="B17">17</abbr><abbr bid="B18">18</abbr></abbrgrp>.</p>
+         </sec>
+      </sec>
+      <sec>
+         <st>
+            <p>Results</p>
+         </st>
+         <p>To elucidate the role of hMSCs in ALI, the lungs of immunocompetent mice were exposed to LPS and 4 h later 5 &#215; 10<sup>5 </sup>hMSCs, or HLFs as control, were delivered by OA. At 24 and 48 h after LPS, animals were euthanized by exanguination and lungs processed either for BAL, RNA extraction, histology or lung wet/dry weight measurements to assess inflammation and lung injury. All experiments were repeated at least two times with six animals per group, except where indicated.</p>
+         <sec>
+            <st>
+               <p>Effect of hMSCs on LPS-induced pulmonary edema and microvascular permeability</p>
+            </st>
+            <p>Histological examination of LPS-exposed lungs at 48 h showed widespread septal thickening and interstitial neutrophil infiltration, as well as significant air-space cellularity and exudation; all of which were decreased in lungs treated with hMSCs (Figure <figr fid="F1">1a</figr>). The alveolitis induced by LPS is patchy; therefore, we employed threshold analysis of H&amp;E stained lung sections to quantify lung injury (Supplemental Figure S1 in Additional file <supplr sid="S1">1</supplr>). Lungs from mice exposed to LPS had a lung injury index of 5.6, whereas lungs from mice treated with hMSCs after LPS-exposure had a significantly lower lung injury index of 3.6 (<it>P </it>&lt; 0.05) (Figure <figr fid="F1">1b</figr>).</p>
+            <fig id="F1">
+               <title>
+                  <p>Figure 1</p>
+               </title>
+               <caption>
+                  <p>hMSCs decrease LPS-induced lung injury in immunocompetent mice</p>
+               </caption>
+               <text>
+                  <p><b>hMSCs decrease LPS-induced lung injury in immunocompetent mice</b>. BALB/C mice were treated with LPS or PBS via oropharyngeal aspiration (OA) and four hours later 5 &#215; 10<sup>5 </sup>hMSCs and HLFs or PBS as controls, were delivered by OA. Lung injury was assessed 24 and 48 h later. (<b>a</b>) Representative images of hematoxylin and eosin staining of lung sections demonstrate reduced exudation and cellularity in hMSC treated lungs 48 h after LPS. (<b>b</b>) A lung injury index was quantified by threshold image analysis of whole lung sections and reported as fold change over control (PBS + PBS). (<b>c</b>) Pulmonary edema as measured by lung wet/dry weight ratio was significantly reduced in hMSC treated groups (<it>n = </it>7 to 8 per group). (<b>d</b>) Total protein in BALF was also reduced in the hMSC treated groups (<it>n = </it>4 to 6 per group). Data are presented as mean &#177; SEM. *<it>P </it>&lt; 0.05 compared with LPS + PBS treated mice; &#8224; <it>P </it>&lt; 0.05 compared with LPS + HLF treated group, and &#8225; <it>P </it>&lt; 0.0007 versus mice treated with PBS + PBS.</p>
+               </text>
+               <graphic file="scrt68-1" hint_layout="double"/>
+            </fig>
+            <p>Pulmonary edema and total protein in BAL fluid were assessed 24 h and 48 h after LPS as measures of lung injury and vascular leak. LPS-exposed mice displayed substantial pulmonary edema as indicated by an increased lung wet/dry weight ratio (<it>P </it>&lt; 0.0007). Treatment with hMSCs significantly decreased the pulmonary edema at both 24 and 48 h (<it>P </it>&lt; 0.05) (Figure <figr fid="F1">1c</figr>). A similar pattern was seen in the total protein concentrations in BAL fluid (Figure <figr fid="F1">1d</figr>) consistent with a decrease in microvascular permeability. Administration of control HLFs had no effect on lung wet/dry weight ratio or BAL fluid protein concentration (Figure <figr fid="F1">1c, d</figr>).</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Effects of hMSCs on inflammation</p>
+            </st>
+            <p>The total cell number in the BAL fluid was increased approximately 10-fold 24 h after LPS exposure (Figure <figr fid="F2">2a</figr>). This increase was largely due to infiltration of neutrophils, which comprised more than 90% of cells in the BAL fluid (Figure <figr fid="F2">2b</figr>). Administration of hMSCs significantly reduced the total number of neutrophils in the BAL fluid from approximately 2.6 &#215; 10<sup>6 </sup>to 1.5 &#215; 10<sup>6</sup>. In contrast, delivery of an equal number of HLFs resulted in a slight increase in total cells and neutrophils in BAL fluid. Consistent with these findings, MPO, an enzyme marker of neutrophilic infiltration, was significantly lower (<it>P </it>&lt; 0.0001) in BAL fluid from mice treated with hMSCs and unchanged in BAL fluid from mice treated with HLFs (Figure <figr fid="F2">2c</figr>). Since neutrophil counts in BAL fluid were not significantly different from total cell counts, we used total cell counts for subsequent analyses.</p>
+            <fig id="F2">
+               <title>
+                  <p>Figure 2</p>
+               </title>
+               <caption>
+                  <p>hMSCs attenuate LPS-induced lung inflammation in immunocompetent mice</p>
+               </caption>
+               <text>
+                  <p><b>hMSCs attenuate LPS-induced lung inflammation in immunocompetent mice</b>. BALB/C mice were treated with LPS or PBS via oropharyngeal aspiration (OA) and four hours later 5 &#215; 10<sup>5 </sup>hMSCs and HLFs or PBS as controls, were delivered by OA. Differential cell counts, myeloperoxidase (MPO) enzyme activity assay and ELISA for MIP-2 were performed on BAL fluid samples collected 24 h after LPS exposure. Total cells (<b>a</b>), neutrophils (<b>b</b>), myeloperoxidase (MPO) activity (<b>c</b>) and MIP-2 levels (<b>d</b>) were all significantly reduced in LPS-exposed lungs after treatment with hMSCs. HLFs had no effect on any of these measures. Data are expressed as mean &#177; SEM (n <it>= </it>6 per group). *<it>P </it>&lt; 0.05 compared with LPS + PBS treated mice; &#8224; <it>P </it>&lt; 0.05 compared with LPS + HLF treated mice, and &#8225; <it>P </it>&lt; 0.01 versus mice treated with PBS + PBS.</p>
+               </text>
+               <graphic file="scrt68-2" hint_layout="double"/>
+            </fig>
+            <p>Macrophage inflammatory protein (MIP-2) is a potent chemoattractant for neutrophils. A previous study showed that MIP-2 was increased after exposure of lungs to LPS and mouse MSCs (mMSCs) decreased its expression <abbrgrp><abbr bid="B19">19</abbr></abbrgrp>. To determine if hMSCs decrease expression of MIP-2, BAL fluid was analyzed by ELISA. MIP-2 was undetectable in PBS-treated control mice and increased to approximately 600 mg/ml in response to LPS. Treatment with hMSCs, but not HLFs, resulted in a significant decrease (<it>P </it>&lt; 0.05) in MIP-2 levels (Figure <figr fid="F2">2d</figr>). To further characterize the effect of hMSCs on the inflammatory response to LPS, the BAL fluid was assayed for 22 additional cytokines/chemokines using a Milliplex mouse cytokine/chemokine panel. Nineteen of the 22 cytokines/chemokines were detectable in LPS-exposed lungs and 12 were decreased by OA hMSCs (Supplemental Table S1 in Additional file <supplr sid="S2">2</supplr>). Treatment with hMSCs significantly decreased (<it>P </it>&lt; 0.05) expression of the proinflammatory cytokines IL-1&#945;, IL-1&#946;, IL-6, IL-17 and the proinflammatory chemokines IP-10, MCP-1, MIP-1&#945; and RANTES (Figure <figr fid="F3">3</figr>). G-CSF, a cytokine that recruits and activates neutrophils, was also significantly reduced by hMSC administration. TNF-&#945; levels were not affected by hMSC administration. Levels of IL-10, an anti-inflammatory cytokine, were very low in the lungs of LPS-exposed mice and were slightly increased in response to hMSC administration. The calculated probability that the significant results we observed are due only to Type I error is <it>P </it>&lt; 0.0001. Moreover, independent ELISAs for IL-6 and MCP-1 confirmed the accuracy of the multiplex immunoassay and further showed that HLFs had no effect on the levels of these cytokines (Supplemental Figure S2 in Additional file <supplr sid="S3">3</supplr>).</p>
+            <suppl id="S2">
+               <title>
+                  <p>Additional file 2</p>
+               </title>
+               <text>
+                  <p><b>Supplemental Table S1</b>. Levels of mouse cytokine/chemokine (pg/ml) in the BAL fluid of LPS-exposed lungs (24 h after exposure) treated with hMSCs or PBS.</p>
+               </text>
+               <file name="scrt68-S2.DOCX">
+                  <p>Click here for file</p>
+               </file>
+            </suppl>
+            <fig id="F3">
+               <title>
+                  <p>Figure 3</p>
+               </title>
+               <caption>
+                  <p>Proinflammatory cytokine and chemokine expression is decreased by hMSC administration</p>
+               </caption>
+               <text>
+                  <p><b>Proinflammatory cytokine and chemokine expression is decreased by hMSC administration</b>. Twenty-four hours after LPS exposure, IL-1&#946;, IL-6, IL-17, IP-10, MCP-1, MIP-1&#945; and RANTES levels were measured by multiplex immunoassay in BAL fluid. Data are expressed as mean &#177; SEM (n <it>= </it>6 per group). *<it>P </it>&lt; 0.05</p>
+               </text>
+               <graphic file="scrt68-3" hint_layout="double"/>
+            </fig>
+            <suppl id="S3">
+               <title>
+                  <p>Additional file 3</p>
+               </title>
+               <text>
+                  <p><b>Supplemental Figure S2</b>. IL-6 and MCP-1 ELISA analysis. BAL fluid from mice treated with PBS + PBS, LPS + PBS, LPS + HLFs, LSP + hMSCs (same animals as in Figure 2) was analyzed by individual ELISAs specific for (<b>a</b>) murine IL-6 or (<b>b</b>) murine MCP-1. The levels of cytokines measured by the multiplex immunoassay and the ELISAs were very similar. HLFs had no effect on the levels of either cytokine. Data are expressed as mean &#177; SEM (n <it>= </it>6 per group). *<it>P </it>&lt; 0.05 compared with LPS + PBS treated mice; &#8224; <it>P </it>&lt; 0.05 compared with LPS + HLF treated mice, and &#8225; <it>P </it>&lt; 0.01 versus mice treated with PBS + PBS.</p>
+               </text>
+               <file name="scrt68-S3.PDF">
+                  <p>Click here for file</p>
+               </file>
+            </suppl>
+            <p>To determine if the anti-inflammatory function of hMSCs required direct contact with lung epithelium, 5 &#215; 10<sup>5 </sup>hMSCs were delivered intravenously via the jugular vein (IV), intraperitoneally (IP), or by OA four hours after LPS exposure. IV and OA administration resulted in approximately equal numbers of hMSCs in the lung one hour after delivery as evaluated by real-time RT-PCR assays for live human cells (Figure <figr fid="F4">4a</figr>). In contrast, no hMSCs could be detected in the lung after IP administration. Twenty-four hours after LPS exposure, animals were euthanized and BAL carried out. Total cells in BAL fluid were measured as an index of lung inflammation. Surprisingly, hMSCs significantly suppressed inflammatory cell accumulation in the lung regardless of the route of administration (Figure <figr fid="F4">4b</figr>). Total protein in BAL fluid was significantly decreased by hMSCs delivered via OA or IV (Figure <figr fid="F4">4c</figr>). Although there was a trend toward lower protein concentrations in BAL fluid from animals receiving hMSCs IP, the differences were not statistically significant. These findings support the hypothesis that the anti-inflammatory properties of hMSCs are mediated by paracrine factors.</p>
+            <fig id="F4">
+               <title>
+                  <p>Figure 4</p>
+               </title>
+               <caption>
+                  <p>hMSCs suppress lung inflammation regardless of route of administration</p>
+               </caption>
+               <text>
+                  <p><b>hMSCs suppress lung inflammation regardless of route of administration</b>. A total of 5 &#215; 10<sup>5 </sup>hMSCs were administered OA, IV or IP four hours after LPS exposure. (<b>a</b>) The percentage of delivered hMSCs in the lung after one hour was measured by qRT-PCR of human GAPDH mRNA. (<b>b</b>) Total cell counts in BAL fluid were significantly decreased by hMSC administration via all three routes. (<b>c</b>) Total protein in BAL fluid was slightly decreased by IP delivered MSCs and significantly decreased by both OA and IV delivered MSCs. Data are expressed as mean &#177; SEM (n <it>= </it>5 to 6 per group), *<it>P </it>&lt; 0.05 compared with LPS + PBS.</p>
+               </text>
+               <graphic file="scrt68-4" hint_layout="single"/>
+            </fig>
+         </sec>
+         <sec>
+            <st>
+               <p>hMSC upregulate expression of anti-inflammatory genes in response to inflammation</p>
+            </st>
+            <p>To elucidate the mechanism(s) involved in hMSC modulation of lung inflammation, we performed microarray analysis taking advantage of the cross-species nature of our experiments. Human MSCs (5 &#215; 10<sup>5</sup>) were delivered by OA to the lungs of mice four hours after treatment with LPS or PBS. Total RNA was isolated from lungs 12 h later, a time at which assays for human GAPDH mRNA indicated there were adequate amounts of human mRNA for assays. To account for any differences in the number of human cells among samples, the amount of RNA analyzed from each sample was adjusted to provide equivalent amounts of human GAPDH mRNA as previously described <abbrgrp><abbr bid="B14">14</abbr></abbrgrp>. The adjusted RNA samples were analyzed on a human microarray. After filtering for cross-hybridization with mouse mRNA isolated from LPS + PBS lung, the data indicated that 53 human genes were significantly upregulated in the LPS-exposed lung compared to LPS + hMSCs <it>in vitro </it>mix (Table <tblr tid="T1">1</tblr>, and Supplemental Figure S3 in Additional file <supplr sid="S4">4</supplr>). Microarray data have been deposited in Gene Expression Omnibus (accession number [GEO:GSE26567]).</p>
+            <tbl hint_layout="double" id="T1">
+               <title>
+                  <p>Table 1</p>
+               </title>
+               <caption>
+                  <p>The top 10 transcripts of hMSCs, up-regulated in lung after OA delivery to LPS exposed mice</p>
+               </caption>
+               <tblbdy cols="5">
+                  <r>
+                     <c ca="left">
+                        <p><b>Gene name</b></p>
+                     </c>
+                     <c ca="center">
+                        <p><b>Gene symbol</b></p>
+                     </c>
+                     <c ca="center">
+                        <p><b>LPS + hMSCs vs LPS + hMSCs <it>in vitro </it>mix</b></p>
+                     </c>
+                     <c ca="center">
+                        <p><b>LPS + hMSCs vs PBS + hMSCs</b></p>
+                     </c>
+                     <c ca="center">
+                        <p><b>LPS + hMSCs vs LPS + PBS</b></p>
+                     </c>
+                  </r>
+                  <r>
+                     <c cspan="5">
+                        <hr/>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>Interferon-induced protein with tetratricopeptide repeats 3</p>
+                     </c>
+                     <c ca="center">
+                        <p><it>IFIT3</it></p>
+                     </c>
+                     <c ca="center">
+                        <p>29</p>
+                     </c>
+                     <c ca="center">
+                        <p>29</p>
+                     </c>
+                     <c ca="center">
+                        <p>31</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p><b>Tumor necrosis factor, alpha-induced protein 6</b></p>
+                     </c>
+                     <c ca="center">
+                        <p><b><it>TNFAIP6</it></b></p>
+                     </c>
+                     <c ca="center">
+                        <p><b>25</b></p>
+                     </c>
+                     <c ca="center">
+                        <p><b>3</b></p>
+                     </c>
+                     <c ca="center">
+                        <p><b>24</b></p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>Interleukin 8</p>
+                     </c>
+                     <c ca="center">
+                        <p><it>IL8</it></p>
+                     </c>
+                     <c ca="center">
+                        <p>19</p>
+                     </c>
+                     <c ca="center">
+                        <p>10</p>
+                     </c>
+                     <c ca="center">
+                        <p>23</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>Chemokine (C-X-C motif) ligand 6</p>
+                     </c>
+                     <c ca="center">
+                        <p><it>CXCL6</it></p>
+                     </c>
+                     <c ca="center">
+                        <p>18</p>
+                     </c>
+                     <c ca="center">
+                        <p>18</p>
+                     </c>
+                     <c ca="center">
+                        <p>17</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>Superoxide dismutase 2, mitochondrial</p>
+                     </c>
+                     <c ca="center">
+                        <p><it>SOD2</it></p>
+                     </c>
+                     <c ca="center">
+                        <p>16</p>
+                     </c>
+                     <c ca="center">
+                        <p>12</p>
+                     </c>
+                     <c ca="center">
+                        <p>19</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>Chemokine (C-X-C motif) ligand 5</p>
+                     </c>
+                     <c ca="center">
+                        <p><it>CXCL5</it></p>
+                     </c>
+                     <c ca="center">
+                        <p>11</p>
+                     </c>
+                     <c ca="center">
+                        <p>9</p>
+                     </c>
+                     <c ca="center">
+                        <p>8</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>Spermidine/spermine N1-acetyltransferase 1</p>
+                     </c>
+                     <c ca="center">
+                        <p><it>SAT1</it></p>
+                     </c>
+                     <c ca="center">
+                        <p>10</p>
+                     </c>
+                     <c ca="center">
+                        <p>7</p>
+                     </c>
+                     <c ca="center">
+                        <p>14</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>Integrin-binding sialoprotein</p>
+                     </c>
+                     <c ca="center">
+                        <p><it>IBSP</it></p>
+                     </c>
+                     <c ca="center">
+                        <p>7</p>
+                     </c>
+                     <c ca="center">
+                        <p>6</p>
+                     </c>
+                     <c ca="center">
+                        <p>6</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>Pregnancy-associated plasma protein A, pappalysin 1</p>
+                     </c>
+                     <c ca="center">
+                        <p><it>PAPPA</it></p>
+                     </c>
+                     <c ca="center">
+                        <p>6</p>
+                     </c>
+                     <c ca="center">
+                        <p>8</p>
+                     </c>
+                     <c ca="center">
+                        <p>6</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p>ATP-binding cassette, sub-family A, member 1</p>
+                     </c>
+                     <c ca="center">
+                        <p><it>ABCA1</it></p>
+                     </c>
+                     <c ca="center">
+                        <p>6</p>
+                     </c>
+                     <c ca="center">
+                        <p>3</p>
+                     </c>
+                     <c ca="center">
+                        <p>5</p>
+                     </c>
+                  </r>
+               </tblbdy>
+               <tblfn>
+                  <p>Shown are fold changes in mRNA levels assayed by microarray (Supplemental Figure S1 in Additional file <supplr sid="S1">1</supplr>). LPS + hMSCs is RNA extracted from LPS-exposed lung 12 h after treatment with hMSCs; LPS + hMSCs <it>in vitro </it>mix is hMSCs added to lung tissue from LPS-exposed mouse immediately prior to RNA isolation; PBS + hMSCs is RNA extracted from PBS-exposed lung 12 h after treatment with hMSCs; LPS + PBS is RNA extracted from LPS-exposed lung 12 h after treatment with PBS. hMSCs, human multipotent stromal cells; LPS, lipopolysaccharide; OA, oropharyngeal aspiration; PBS, phosphate buffered saline.</p>
+               </tblfn>
+            </tbl>
+            <suppl id="S4">
+               <title>
+                  <p>Additional File 4</p>
+               </title>
+               <text>
+                  <p><b>Supplemental Figure S3</b>. Heat map of human microarray assays of mouse lungs. RNA was isolated from whole lungs of LPS- (LPS + hMSC) or PBS-exposed (PBS + hMSC) mice 12 h after OA administration of 5 &#215; 10<sup>5 </sup>hMSCs. RNA samples (approximately 3 &#956;g of total RNA) were assayed on a human (HG-U133 Plus 2.0) microarray (Affymetrix, Santa Clara, CA, USA). An aliquot of total RNA extracted from LPS-exposed lung treated with PBS was also included to detect cross-hybridization of mouse RNA to the human chip.</p>
+               </text>
+               <file name="scrt68-S4.TIFF">
+                  <p>Click here for file</p>
+               </file>
+            </suppl>
+            <p>One of the most highly upregulated human genes identified in LPS-exposed lung encodes TNF-&#945;-induced protein 6 (TSG-6). TSG-6 is a potent anti-inflammatory factor that was previously shown to play a role in intravenous hMSC improvement of myocardial infarction <abbrgrp><abbr bid="B20">20</abbr><abbr bid="B21">21</abbr></abbrgrp>. Quantitative real-time RT-PCR (qRT-PCR) analysis of the same RNA samples used for microarray analysis demonstrated that hMSCs delivered to a PBS-exposed lung upregulated their expression of TSG-6 mRNA approximately 100-fold over that in hMSCs prior to delivery to the lung (PBS + hMSCs <it>in vitro </it>mix). hMSCs delivered to LPS exposed lungs had even higher levels (approximately 900-fold) of TSG-6 mRNA expression (Figure <figr fid="F5">5a</figr>).</p>
+            <fig id="F5">
+               <title>
+                  <p>Figure 5</p>
+               </title>
+               <caption>
+                  <p>hMSCs upregulate expression of anti-inflammatory genes in response to LPS-treated lung</p>
+               </caption>
+               <text>
+                  <p><b>hMSCs upregulate expression of anti-inflammatory genes in response to LPS-treated lung</b>. Twelve hours after delivery of 5 &#215; 10<sup>5 </sup>hMSCs to LPS- or PBS-exposed lungs, total RNA was isolated from lungs and analyzed by quantitative RT-PCR for mRNA expression of (<b>a</b>) human <it>TNFAIP6</it>, (<b>b</b>) human <it>KGF</it>, or (<b>c</b>) human <it>IL1RN</it>. Values represent fold increase over values obtained for LPS + hMSCs <it>in vitro </it>mix. Data are shown as the mean &#177; SEM (n <it>= </it>3 per group). * <it>P </it>&lt; 0.01 versus PBS + hMSCs; &#8224; <it>P </it>&lt; 0.05 compared with PBS + PBS; and &#8225; <it>P </it>&lt; 0.05 compared with LPS + PBS.</p>
+               </text>
+               <graphic file="scrt68-5" hint_layout="single"/>
+            </fig>
+            <p>MSC expression of keratinocyte growth factor (<it>KGF</it>) was previously shown to be essential for the therapeutic effects of hMSCs in an <it>ex vivo </it>perfused lung model of ALI <abbrgrp><abbr bid="B22">22</abbr></abbrgrp>. No change in expression of <it>KGF </it>was detected by the microarray analysis performed here. However, qRT-PCR analysis of the RNA samples used for the microarrays demonstrated an approximately 11-fold induction in <it>KGF </it>expression in LPS + hMSCs exposed lung. hMSCs delivered to a PBS-exposed lung did not upregulate expression of <it>KGF </it>(Figure <figr fid="F5">5b</figr>).</p>
+            <p>Interleukin 1 receptor antagonist (IL-1RN), has been implicated in the anti-inflammatory function of MSCs <abbrgrp><abbr bid="B23">23</abbr></abbrgrp>. IL-1RN mRNA levels were not detectable by qRT-PCR in hMSCs prior to delivery to the lung (PBS + hMSCs <it>in vitro </it>mix). However, hMSCs in the PBS-exposed lungs expressed low levels of IL-1RN mRNA (C<sub>T</sub>'s of 35 to 37) and hMSCs in LPS-exposed lungs expressed approximately five-fold higher levels of IL-1RN mRNA (Figure <figr fid="F5">5c</figr>).</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Effect of TSG-6 on lung inflammation</p>
+            </st>
+            <p>To determine if TSG-6 mediates the therapeutic benefits of hMSCs, cells were transiently transfected with TSG-6 siRNA by electroporation. TSG-6 siRNA significantly knocked down basal levels of TSG-6 mRNA (Supplemental Figure S4 in Additional file <supplr sid="S5">5</supplr>) in hMSCs. Mock transfection (No siRNA) or transfection with a non-silencing (NS) siRNA resulted in slightly higher expression of TSG-6 mRNA compared to hMSCs that were not transfected (Supplemental Figure S4 in Additional file <supplr sid="S5">5</supplr>), suggesting that the electroporation procedure itself induces expression of <it>TNFAIP6 </it>in hMSCs. Equal amounts (5 &#215; 10<sup>5</sup>) of hMSCs transfected with TSG-6 siRNA, NS siRNA or mock transfected were administered to mice four hours after LPS exposure. Lungs were either lavaged or processed for RNA extraction 24 h after LPS exposure. qRT-PCR analysis showed that lungs receiving either untransfected, mock transfected or NS siRNA transfected hMSCs had significantly higher levels of human TSG-6 mRNA compared to lungs that received hMSCs transfected with TSG-6 siRNA (Figure <figr fid="F6">6a</figr>). Importantly, LPS induced increases in MIP-2 expression (Figure <figr fid="F6">6b</figr>), total cell number (Figure <figr fid="F6">6c</figr>), MPO activity (Figure <figr fid="F6">6d</figr>) and total protein (Figure <figr fid="F6">6e</figr>) in BAL fluid were all significantly decreased by delivery of mock transfected or NS-siRNA transfected hMSCs, but not TSG-6 siRNA transfected hMSCs despite similar numbers of the different transfected hMSCs in the lung 24 h after LPS exposure (Figure <figr fid="F6">6f</figr>).</p>
+            <suppl id="S5">
+               <title>
+                  <p>Additional File 5</p>
+               </title>
+               <text>
+                  <p><b>Supplemental Figure S4</b>. Efficient knockdown of human TSG-6 mRNA by RNA interference. hMSCs were transfected with TSG-6 siRNA (hMSCs/TSG-6 siRNA), control non-silencing siRNA (hMSCs/NS siRNA), or mock transfected (hMSCs/No siRNA). Twenty-four hours after transfection human TSG-6 mRNA was analyzed by qRT-PCR. Data are presented as means &#177; SEM (n = 3). &#8224; <it>P </it>&lt; 0.05 compared with mice treated with hMSCs/No siRNA, and &#8225; <it>P </it>&lt; 0.05 versus mice treated with hMSCs/NS siRNA.</p>
+               </text>
+               <file name="scrt68-S5.PDF">
+                  <p>Click here for file</p>
+               </file>
+            </suppl>
+            <fig id="F6">
+               <title>
+                  <p>Figure 6</p>
+               </title>
+               <caption>
+                  <p>Knockdown of TSG-6 mRNA in hMSCs reduces their anti-inflammatory effects</p>
+               </caption>
+               <text>
+                  <p><b>Knockdown of TSG-6 mRNA in hMSCs reduces their anti-inflammatory effects</b>. Mice were treated with LPS and four hours later 5 &#215; 10<sup>5 </sup>hMSCs that were mock transfected (hMSCs/No siRNA), transfected with non-silencing siRNA (hMSCs/NS siRNA), or transfected with TSG-6 siRNA (hMSCs/TSG-6 siRNA) were delivered by OA. Human TSG-6 mRNA levels in the lung, as well as markers of inflammation and injury in BAL fluid were assessed 24 hours later. (<b>a</b>) qRT-PCR analyses demonstrated significantly reduced levels of human TSG-6 mRNA in lungs of mice treated with hMSCs/TSG-6 siRNA compared to those treated with hMSCs/No siRNA or hMSCs/NS siRNA. (<b>b</b>) MIP-2 concentrations (<b>c</b>) total cell counts, and (<b>d</b>) MPO activity and (<b>e</b>) total protein concentration in the BAL fluid was attenuated in animals treated with hMSCs/No siRNA or hMSCs/NS siRNA but not hMSCs/TSG-6 siRNA. (<b>f</b>) The percentage of delivered hMSCs in the lung at the time of human TSG-6 mRNA analysis was determined by measuring human GAPDH mRNA levels and calculating the number of cells from a standard curve as previously described <abbrgrp><abbr bid="B16">16</abbr></abbrgrp>. Data are presented as means &#177; SEM (n = 6 per group). *<it>P </it>&lt; 0.05 compared with LPS + PBS exposed mice; &#8224; <it>P </it>&lt; 0.05 compared with mice treated with hMSCs/No siRNA, and &#8225; <it>P </it>&lt; 0.05 versus mice treated with hMSCs/NS siRNA.</p>
+               </text>
+               <graphic file="scrt68-6" hint_layout="double"/>
+            </fig>
+            <p>Analysis of BAL fluid from these mice using a Milliplex mouse cytokine/chemokine panel further revealed that TSG-6 mRNA knockdown abrogated most, but not all, of the anti-inflammatory effects of hMSCs in the LPS-exposed lung (Supplemental Table S2 in Additional file <supplr sid="S6">6</supplr>). For example, TSG-6 siRNA had no effect on hMSC-mediated suppression of IL-1&#945;, IL-1&#946; IL-7 and IL-13. Consistent with these results, delivery of recombinant human TSG-6 significantly decreased total cell numbers (Figure <figr fid="F7">7a</figr>), and MPO activity (Figure <figr fid="F7">7b</figr>) in the BAL fluid of LPS-exposed mice. These results suggest that TSG-6 mediates, in part, the immunosuppressive function of hMSCs.</p>
+            <suppl id="S6">
+               <title>
+                  <p>Additional File 6</p>
+               </title>
+               <text>
+                  <p><b>Supplemental Table S2</b>. Levels of mouse cytokine/chemokine (pg/ml) in the BAL fluid of LPS-exposed lungs (24 h after exposure) treated with hMSCs transfected with TSG-6 siRNA (hMSCs/TSG-6 siRNA), transfected with control non-silencing siRNA (hMSCs/NS siRNA), or mock transfected (hMSCs/No siRNA).</p>
+               </text>
+               <file name="scrt68-S6.DOC">
+                  <p>Click here for file</p>
+               </file>
+            </suppl>
+            <fig id="F7">
+               <title>
+                  <p>Figure 7</p>
+               </title>
+               <caption>
+                  <p>Recombinant human TSG-6 protein (rhTSG-6) attenuates LPS induced lung inflammation</p>
+               </caption>
+               <text>
+                  <p><b>Recombinant human TSG-6 protein (rhTSG-6) attenuates LPS induced lung inflammation</b>. A total of 25 &#956;g of rhTSG-6 protein was administered by OA 1 h and again 10 h after LPS-induced lung injury. Total cell counts (<b>a</b>) and MPO activity (<b>b</b>) in BAL fluid are significantly lower in rhTSG-6 treated mouse lung. Data are shown as mean &#177; SEM (n <it>= </it>5, LPS + PBS or n <it>= </it>8 LPS + rhTSG-6). * <it>P </it>&lt; 0.05 compared with LPS + PBS.</p>
+               </text>
+               <graphic file="scrt68-7" hint_layout="double"/>
+            </fig>
+         </sec>
+      </sec>
+      <sec>
+         <st>
+            <p>Discussion</p>
+         </st>
+         <p>Human MSCs attenuated LPS-induced lung inflammation and injury in immunocompetent mice. In response to the pro-inflammatory environment in the LPS exposed lung, hMSCs upregulated expression of a number of genes. Some of these genes encode secreted factors with known anti-inflammatory properties. One of the most highly upregulated genes was <it>TNFAIP6 </it>that encodes TSG-6. Knockdown of TSG-6 mRNA expression in hMSCs abrogated most of their anti-inflammatory effects. In addition, intra-pulmonary delivery of rhTSG-6 reduced LPS-induced inflammation in the lung. These results suggest that hMSCs in the lung upregulated expression of <it>TNFAIP6 </it>and the secreted TSG-6 decreased neutrophil accumulation and lung injury.</p>
+         <p>Previous studies have demonstrated the ability of murine MSCs to attenuate inflammation and lung injury in rodent models of ALI <abbrgrp><abbr bid="B19">19</abbr><abbr bid="B24">24</abbr><abbr bid="B25">25</abbr></abbrgrp>. Recently, the ability of human MSCs to restore alveolar epithelial fluid transport and lung fluid balance was demonstrated in a study employing an <it>ex vivo </it>perfused human lung preparation injured by <it>E. coli </it>endotoxin <abbrgrp><abbr bid="B22">22</abbr></abbrgrp>. These studies have ignited much interest in hMSCs as cellular therapy for ALI. However, little is known about the mechanisms by which MSCs modulate lung inflammation and repair. The anti-inflammatory effects of mouse MSCs in the lung have been associated with MSC secretion of interleukin 1 receptor antagonist (IL1RN) <abbrgrp><abbr bid="B23">23</abbr></abbrgrp> and TGF-&#946;<sub>1 </sub><abbrgrp><abbr bid="B26">26</abbr></abbrgrp>. It is not clear how closely mMSCs resemble hMSCs. Certainly these two populations of cells share many features; however, there is some evidence that mMSCs and hMSCs differ in their response to inflammatory cytokines. For example, Ren <it>et al. </it>showed <it>in vitro </it>that inflammatory cytokines induce the expression of indoleamine 2,3-dioxygenase (<it>IDO</it>), but not inducible nitric oxide synthase (<it>iNOS</it>), in human MSCs, whereas in mouse MSCs the opposite is true <abbrgrp><abbr bid="B11">11</abbr></abbrgrp>. The goal of our study was to investigate the mechanism(s) by which human MSCs modulate inflammation in the lung.</p>
+         <p>For these studies we delivered human MSCs to immunocompetent mice after intrapulmonary delivery of LPS, a well-characterized mouse model of direct lung injury that recapitulates many of the features of human ALI including patchy intra-alveolar neutrophil infiltrates and changes in epithelial permeability. A similar cross-species strategy was used to elucidate the mechanism(s) by which hMSCs improve heart function after myocardial infarction <abbrgrp><abbr bid="B16">16</abbr></abbrgrp>. In that study, hMSCs were delivered to immunodeficient mice where they provided numerous endogenous markers for the cells and caused no obvious cross-species artifacts.</p>
+         <p>Our results demonstrated that hMSCs improved lung histology and reduced pulmonary edema in immunocompetent mice (Figure <figr fid="F1">1</figr>) similar to what has been reported for syngeneic mMSCs in this model <abbrgrp><abbr bid="B19">19</abbr><abbr bid="B24">24</abbr></abbrgrp>. The improvement in lung injury was associated with a decrease in proinflammatory cytokines and chemokines, including some (IL-1&#945;, IL-1&#946;, MIP-1&#945; and MIP-2) that function as chemoattractants and activators of neutrophils (Figures <figr fid="F2">2d</figr> and <figr fid="F3">3</figr>). Consistent with these results, hMSC treated lungs had significantly fewer neutrophils, the major mediator of lung injury in this model (Figure <figr fid="F2">2b</figr>). TNF-&#945; levels in BAL fluid were not changed with hMSC treatment and although there was a trend toward increased IL-10 in BAL fluid the levels of IL-10 were very low (Supplemental Table S1 in Additional file <supplr sid="S2">2</supplr>). Administration of HLFs had no beneficial effects (Figure <figr fid="F2">2</figr> and Supplemental Figure S2 in Additional file <supplr sid="S3">3</supplr>). These results suggest that hMSCs protected the lung primarily by preventing recruitment and/or activation of neutrophils. In a study similar to ours, mouse MSCs given four hours after LPS attenuated lung injury and reduced the levels of TNF-&#945; and MIP-2 in BAL fluid. However, neutrophil influx or activation was not ameliorated <abbrgrp><abbr bid="B19">19</abbr></abbrgrp>. The differences in the MSC effects on neutrophil influx may be explained by intrinsic differences in MSCs from humans versus mice, but could also be explained by differences in experimental conditions between the studies, including strain of mice used, dose of LPS and method of intra-pulmonary delivery.</p>
+         <p>The ability of human MSCs to attenuate lung inflammation and injury in an immunocompetent mouse suggests that the anti-inflammatory action of hMSCs in the lung is non-major histocompatibility complex (MHC)-restricted and further, that hMSCs are to some degree immune privileged due to their immune modulatory effects, as others have suggested <abbrgrp><abbr bid="B6">6</abbr></abbrgrp>. These results support the use of allogeneic hMSCs in patients.</p>
+         <p>Our finding that hMSCs attenuated lung inflammation when administered intravenously (Figure <figr fid="F4">4</figr>) was not surprising since most of the injected cells are initially trapped in the lung <abbrgrp><abbr bid="B16">16</abbr></abbrgrp>. However, this is the first report that MSCs delivered intraperitoneally attenuate inflammation in the lung (Figure <figr fid="F4">4b, c</figr>). The hMSCs did not travel to the lung after IP injection as indicated by the absence of human GAPDH mRNA in the lung one hour (Figure <figr fid="F4">4a</figr>) or six hours (data not shown) after injection. The fate of the cells is currently under investigation. The IP route of delivery was not as effective as OA and IV routes in reducing LPS-induced lung injury. For these experiments, we used a dose of hMSCs (5 &#215; 10<sup>5</sup>) that we determined to be optimal for OA delivery. It is possible that increasing the number of hMSCs administered IP would provide better protection. Alternatively, our results may suggest that the factor or factors responsible for hMSC suppression of inflammation can function systemically, whereas factors that enhance lung repair may work best when delivered locally. Regardless, these results strongly suggest that the beneficial properties of hMSCs are predominantly mediated through secretion of factors that act in paracrine fashion.</p>
+         <p>The upregulation of <it>TNFAIP6 </it>by hMSCs in response to the inflammatory milieu of the LPS-exposed lung (Table <tblr tid="T1">1</tblr>) was of special interest because TSG-6 has previously been shown to play a role in the beneficial effects of hMSCs <abbrgrp><abbr bid="B16">16</abbr></abbrgrp>. TSG-6 is a 35 kDa, secreted protein produced by many cell types in response to TNF-&#945; and IL-1&#946; <abbrgrp><abbr bid="B20">20</abbr><abbr bid="B21">21</abbr></abbrgrp>. hMSCs in the LPS-exposed lung upregulated their TSG-6 mRNA expression more than 900-fold (Figure <figr fid="F5">5a</figr>). TSG-6 is composed mainly of contiguous Link and CUB modules that interact with a broad spectrum of glycosaminoglycans and proteins, including HA, chondroitin 4-sulphate, dermatan sulfate, heparan sulfate, heparin, inter-&#945;-inhibitor, versican, aggrecan, thrombospondin-1, and PTX3 <abbrgrp><abbr bid="B20">20</abbr></abbrgrp>. The anti-inflammatory properties of TSG-6 are well documented and the mechanisms are beginning to be elucidated. TSG-6 inhibits the inflammatory network of proteases by increasing the inhibitory activity of inter-&#945;-inhibitor and bikunin <abbrgrp><abbr bid="B27">27</abbr></abbrgrp>. TSG-6 also specifically binds and sequesters hyaluronan fragments and has been shown to be a potent inhibitor of neutrophil activation and migration, as well as tissue remodeling <abbrgrp><abbr bid="B28">28</abbr></abbrgrp>, through up-regulation of Cox-2 and prostaglandin D2 expression <abbrgrp><abbr bid="B28">28</abbr><abbr bid="B29">29</abbr></abbrgrp>. The precise mechanism(s) by which TSG-6 protects the lung from acute inflammation remains to be determined.</p>
+         <p>Knockdown of TSG-6 mRNA expression in hMSCs did not completely abrogate their anti-inflammatory effects (Figure <figr fid="F6">6</figr>) suggesting that additional factors expressed by hMSCs play a role in protecting the lung from LPS-induced inflammation and injury. The hMSCs used in our studies expressed high levels of KGF in the lung (Figure <figr fid="F5">5b</figr>). Lee <it>et al. </it>showed in an isolated, perfused human lung model challenged with endotoxin, that secretion of KGF was essential for the beneficial effect of hMSCs on alveolar epithelial fluid transport <abbrgrp><abbr bid="B22">22</abbr></abbrgrp>. In another study, Aguilar <it>et al. </it><abbrgrp><abbr bid="B30">30</abbr></abbrgrp> showed that MSCs transfected with a tetracycline-inducible <it>KGF </it>construct partially protected mice from bleomycin-induced pulmonary fibrosis. The mechanisms underlying KGF's protective effect in the lung are not completely understood. KGF has plieotropic effects on alveolar epithelial cells including; mitogenic acitivity, increased surfactant production <abbrgrp><abbr bid="B31">31</abbr></abbrgrp>, inhibition of apoptosis <abbrgrp><abbr bid="B32">32</abbr></abbrgrp>, and increased transcription and/or translation of the major sodium and chloride transport proteins <abbrgrp><abbr bid="B33">33</abbr></abbrgrp>. However, KGF is not known to have direct anti-inflammatory activity. We postulate that TSG-6 and KGF secreted by hMSCs cooperate to attenuate lung injury by suppressing inflammation and promoting lung repair respectively. MSCs secrete other bioactive molecules such as IL1RN (Figure <figr fid="F5">5c</figr>), HGF, EGF, TGF-&#946;<sub>1</sub>, sTNFR1, Ang1 and STC-1 that may also contribute to their immunomodulatory functions and repair of injured lung <abbrgrp><abbr bid="B19">19</abbr><abbr bid="B26">26</abbr><abbr bid="B34">34</abbr><abbr bid="B35">35</abbr><abbr bid="B36">36</abbr><abbr bid="B37">37</abbr><abbr bid="B38">38</abbr></abbrgrp>. Additional experiments are required to determine the relative contribution of each of these factors to the beneficial effects of hMSCs in the lung.</p>
+         <p>It is tempting to speculate that strategies to enhance hMSC expression of TSG-6 and other beneficial factors such as KGF may improve their lung protective properties. One such strategy is to culture hMSCs as 3D aggregates or as spheroids <abbrgrp><abbr bid="B39">39</abbr><abbr bid="B40">40</abbr><abbr bid="B41">41</abbr></abbrgrp>. Recently it was shown that hMSCs cultured in hanging drops formed spheroids and expressed significantly higher levels of TSG-6 and STC-1 compared to hMSCs cultured as monolayers. Moreover, hMSCs from dissociated spheroids were more effective at suppressing inflammation in a mouse model of peritonitis than were hMSCs cultured as adherent monolayers <abbrgrp><abbr bid="B42">42</abbr></abbrgrp>. Using a similar strategy we showed that culture of hMSCs in spheroids increased their expression of TSG-6, STC-1 and KGF (unpublished data). Our finding that hMSCs delivered IP have beneficial effects in the lung suggests the possibility of transplantation of the intact spheroids. We are currently comparing the therapeutic potential of traditionally cultured hMSCs to that of spheroid hMSCs in our animal model of ALI.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Conclusions</p>
+         </st>
+         <p>This study demonstrates that xenographic transplantation of human MSCs, by multiple routes, attenuates inflammation and lung injury in an <it>in vivo </it>model of acute lung injury. Identification of TSG-6 as a major mediator of the beneficial effects of hMSCs in the lung furthers our understanding of how hMSCs work and supports the concept that the protective effects of MSCs are largely mediated through production of paracrine factors. It is unlikely that a single factor mediates the beneficial effects of hMSCs. MSCs respond to their environment by secreting a variety of factors referred to as the secretome. Elucidation of the hMSC secretome will likely provide strategies to improve the therapeutic potential of hMSCs for treatment of lung injury.</p>
+         <p>In conclusion, our study provides important preclinical data for potential clinical trials using allogeneic hMSCs for treatment of ALI, a significant source of morbidity and mortality in critically ill patients.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Abbreviations</p>
+         </st>
+         <p>ALI: acute lung injury; ARDS: acute respiratory distress syndrome; BAL: bronchoalveolar lavage; HLFs: human lung fibroblasts; IL-1RN: interleukin 1 receptor antagonist; KGF: keratinocyte growth factor; LPS: lipopolysaccharide; MPO: myeloperoxidase; MSCs: multipotent stromal cells; OA: oropharyngeal aspiration; <it>TNAIP6</it>/TSG-6: TNF-&#945;-induced protein 6; TNF-&#945;: tumor necrosis factor-&#945;.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Competing interests</p>
+         </st>
+         <p>DJP is a co-founder of Temple Therapeutics LLC and has pending provisional patent applications filed for therapeutic uses of MSCs and TSG-6. The other authors declare no competing interests.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Authors' contributions</p>
+         </st>
+         <p>SD, FH, RS and AR performed experiments and collected data. JHY carried out the microarray analysis. RWB carried out the threshold image analysis of lung injury. SD and DES drafted the manuscript. JAL, BAB, DAW, DJP and DES contributed to conception and design of the study, interpretation of data and editing of the manuscript. All authors approved the final manuscript.</p>
+      </sec>
+   </bdy>
+   <bm>
+      <ack>
+         <sec>
+            <st>
+               <p>Acknowledgements</p>
+            </st>
+            <p>The authors are grateful to Ryang Hwa Lee and Hosoon Choi (Institute for Regenerative Medicine, Texas A&amp;M Health Science Center College of Medicine at Scott &amp; White) and Roxanne Reger (Tulane School of Medicine) for helpful discussions and technical assistance in assaying human MSCs by qRT-PCR and to Krysztof Moroz and Justin Choi (Tulane School of Medicine) for assistance in histological examinations. We are also grateful to Dr. William Wimley for advice on statistical analyses.</p>
+            <sec>
+               <st>
+                  <p>Funding</p>
+               </st>
+               <p>This work was supported by the National Institutes of Health Grants P01HL075161 (to BB, DJP, DAW, JAL and DES) and P40RR17447 (DJP). RWB is supported by T32HL007973.</p>
+            </sec>
+         </sec>
+      </ack>
+      <refgrp>
+         <bibl id="B1">
+            <title>
+               <p>Recent trends in acute lung injury mortality: 1996-2005</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Erickson</snm>
+                  <fnm>SE</fnm>
+               </au>
+               <au>
+                  <snm>Martin</snm>
+                  <fnm>GS</fnm>
+               </au>
+               <au>
+                  <snm>Davis</snm>
+                  <fnm>JL</fnm>
+               </au>
+               <au>
+                  <snm>Matthay</snm>
+                  <fnm>MA</fnm>
+               </au>
+               <au>
+                  <snm>Eisner</snm>
+                  <fnm>MD</fnm>
+               </au>
+            </aug>
+            <source>Crit Care Med</source>
+            <pubdate>2009</pubdate>
+            <volume>37</volume>
+            <fpage>1574</fpage>
+            <lpage>1579</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1097/CCM.0b013e31819fefdf</pubid>
+                  <pubid idtype="pmcid">2696257</pubid>
+                  <pubid idtype="pmpid" link="fulltext">19325464</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B2">
+            <title>
+               <p>Epidemiology and outcomes of acute lung injury</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Rubenfeld</snm>
+                  <fnm>GD</fnm>
+               </au>
+               <au>
+                  <snm>Herridge</snm>
+                  <fnm>MS</fnm>
+               </au>
+            </aug>
+            <source>Chest</source>
+            <pubdate>2007</pubdate>
+            <volume>131</volume>
+            <fpage>554</fpage>
+            <lpage>562</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1378/chest.06-1976</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17296661</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B3">
+            <title>
+               <p>Mortality rates for patients with acute lung injury/ARDS have decreased over time</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Zambon</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Vincent</snm>
+                  <fnm>JL</fnm>
+               </au>
+            </aug>
+            <source>Chest</source>
+            <pubdate>2008</pubdate>
+            <volume>133</volume>
+            <fpage>1120</fpage>
+            <lpage>1127</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1378/chest.07-2134</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18263687</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B4">
+            <title>
+               <p>Marrow stromal cells as stem cells for nonhematopoietic tissues</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Prockop</snm>
+                  <fnm>DJ</fnm>
+               </au>
+            </aug>
+            <source>Science</source>
+            <pubdate>1997</pubdate>
+            <volume>276</volume>
+            <fpage>71</fpage>
+            <lpage>74</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1126/science.276.5309.71</pubid>
+                  <pubid idtype="pmpid" link="fulltext">9082988</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B5">
+            <title>
+               <p>Mesenchymal stem cells: revisiting history, concepts, and assays</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Bianco</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Robey</snm>
+                  <fnm>PG</fnm>
+               </au>
+               <au>
+                  <snm>Simmons</snm>
+                  <fnm>PJ</fnm>
+               </au>
+            </aug>
+            <source>Cell Stem Cell</source>
+            <pubdate>2008</pubdate>
+            <volume>2</volume>
+            <fpage>313</fpage>
+            <lpage>319</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.stem.2008.03.002</pubid>
+                  <pubid idtype="pmcid">2613570</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18397751</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B6">
+            <title>
+               <p>Mesenchymal stem cells in health and disease</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Uccelli</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Moretta</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Pistoia</snm>
+                  <fnm>V</fnm>
+               </au>
+            </aug>
+            <source>Nat Rev Immunol</source>
+            <pubdate>2008</pubdate>
+            <volume>8</volume>
+            <fpage>726</fpage>
+            <lpage>736</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/nri2395</pubid>
+                  <pubid idtype="pmpid" link="fulltext">19172693</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B7">
+            <title>
+               <p>Evolving paradigms for repair of tissues by adult stem/progenitor cells (MSCs)</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Prockop</snm>
+                  <fnm>DJ</fnm>
+               </au>
+               <au>
+                  <snm>Kota</snm>
+                  <fnm>DJ</fnm>
+               </au>
+               <au>
+                  <snm>Bazhanov</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Reger</snm>
+                  <fnm>RL</fnm>
+               </au>
+            </aug>
+            <source>J Cell Mol Med</source>
+            <pubdate>2010</pubdate>
+            <volume>14</volume>
+            <fpage>2190</fpage>
+            <lpage>2199</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1111/j.1582-4934.2010.01151.x</pubid>
+                  <pubid idtype="pmpid" link="fulltext">20716123</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B8">
+            <title>
+               <p>ClinicalTrials.gov</p>
+            </title>
+            <url>http://clinicaltrials.gov</url>
+         </bibl>
+         <bibl id="B9">
+            <title>
+               <p>Stem cells and cell therapy approaches in lung biology and diseases</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Sueblinvong</snm>
+                  <fnm>V</fnm>
+               </au>
+               <au>
+                  <snm>Weiss</snm>
+                  <fnm>DJ</fnm>
+               </au>
+            </aug>
+            <source>Transl Res</source>
+            <pubdate>2010</pubdate>
+            <volume>156</volume>
+            <fpage>188</fpage>
+            <lpage>205</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.trsl.2010.06.007</pubid>
+                  <pubid idtype="pmpid" link="fulltext">20801416</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B10">
+            <title>
+               <p>Mesenchymal stem cells as trophic mediators</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Caplan</snm>
+                  <fnm>AI</fnm>
+               </au>
+               <au>
+                  <snm>Dennis</snm>
+                  <fnm>JE</fnm>
+               </au>
+            </aug>
+            <source>J Cell Biochem</source>
+            <pubdate>2006</pubdate>
+            <volume>98</volume>
+            <fpage>1076</fpage>
+            <lpage>1084</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1002/jcb.20886</pubid>
+                  <pubid idtype="pmpid" link="fulltext">16619257</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B11">
+            <title>
+               <p>Species variation in the mechanisms of mesenchymal stem cell-mediated immunosuppression</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Ren</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Su</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Zhang</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Zhao</snm>
+                  <fnm>X</fnm>
+               </au>
+               <au>
+                  <snm>Ling</snm>
+                  <fnm>W</fnm>
+               </au>
+               <au>
+                  <snm>L'Huillie</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Zhang</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Lu</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Roberts</snm>
+                  <fnm>AI</fnm>
+               </au>
+               <au>
+                  <snm>Ji</snm>
+                  <fnm>W</fnm>
+               </au>
+               <au>
+                  <snm>Zhang</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Rabson</snm>
+                  <fnm>AB</fnm>
+               </au>
+               <au>
+                  <snm>Shi</snm>
+                  <fnm>Y</fnm>
+               </au>
+            </aug>
+            <source>Stem Cells</source>
+            <pubdate>2009</pubdate>
+            <volume>27</volume>
+            <fpage>1954</fpage>
+            <lpage>1962</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1002/stem.118</pubid>
+                  <pubid idtype="pmpid" link="fulltext">19544427</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B12">
+            <title>
+               <p>Human bone marrow-derived mesenchymal stem cells induce Th2-polarized immune response and promote endogenous repair in animal models of multiple sclerosis</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Bai</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Lennon</snm>
+                  <fnm>DP</fnm>
+               </au>
+               <au>
+                  <snm>Eaton</snm>
+                  <fnm>V</fnm>
+               </au>
+               <au>
+                  <snm>Maier</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Caplan</snm>
+                  <fnm>AI</fnm>
+               </au>
+               <au>
+                  <snm>Miller</snm>
+                  <fnm>SD</fnm>
+               </au>
+               <au>
+                  <snm>Miller</snm>
+                  <fnm>RH</fnm>
+               </au>
+            </aug>
+            <source>Glia</source>
+            <pubdate>2009</pubdate>
+            <volume>57</volume>
+            <fpage>1192</fpage>
+            <lpage>1203</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1002/glia.20841</pubid>
+                  <pubid idtype="pmcid">2706928</pubid>
+                  <pubid idtype="pmpid" link="fulltext">19191336</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B13">
+            <title>
+               <p>Human mesenchymal stem cells abrogate experimental allergic encephalomyelitis after intraperitoneal injection, and with sparse CNS infiltration</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Gordon</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Pavlovska</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Glover</snm>
+                  <fnm>CP</fnm>
+               </au>
+               <au>
+                  <snm>Uney</snm>
+                  <fnm>JB</fnm>
+               </au>
+               <au>
+                  <snm>Wraith</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Scolding</snm>
+                  <fnm>NJ</fnm>
+               </au>
+            </aug>
+            <source>Neurosci Lett</source>
+            <pubdate>2008</pubdate>
+            <volume>448</volume>
+            <fpage>71</fpage>
+            <lpage>73</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.neulet.2008.10.040</pubid>
+                  <pubid idtype="pmcid">2629538</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18950680</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B14">
+            <aug>
+               <au>
+                  <cnm>Institute for Regenerative Medicine, Texas A&amp;M Health Sciences Center</cnm>
+               </au>
+            </aug>
+            <url>http://medicine.tamhsc.edu/irm/msc-distribution.html</url>
+         </bibl>
+         <bibl id="B15">
+            <title>
+               <p>Oropharyngeal aspiration of a silica suspension produces a superior model of silicosis in the mouse when compared to intratracheal instillation</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Lakatos</snm>
+                  <fnm>HF</fnm>
+               </au>
+               <au>
+                  <snm>Burgess</snm>
+                  <fnm>HA</fnm>
+               </au>
+               <au>
+                  <snm>Thatcher</snm>
+                  <fnm>TH</fnm>
+               </au>
+               <au>
+                  <snm>Redonnet</snm>
+                  <fnm>MR</fnm>
+               </au>
+               <au>
+                  <snm>Hernady</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Williams</snm>
+                  <fnm>JP</fnm>
+               </au>
+               <au>
+                  <snm>Sime</snm>
+                  <fnm>PJ</fnm>
+               </au>
+            </aug>
+            <source>Exp Lung Res</source>
+            <pubdate>2006</pubdate>
+            <volume>32</volume>
+            <fpage>181</fpage>
+            <lpage>199</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1080/01902140600817465</pubid>
+                  <pubid idtype="pmpid" link="fulltext">16908446</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B16">
+            <title>
+               <p>Intravenous hMSCs improve myocardial infarction in mice because cells embolized in lung are activated to secrete the anti-inflammatory protein TSG-6</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Lee</snm>
+                  <fnm>RH</fnm>
+               </au>
+               <au>
+                  <snm>Pulin</snm>
+                  <fnm>AA</fnm>
+               </au>
+               <au>
+                  <snm>Seo</snm>
+                  <fnm>MJ</fnm>
+               </au>
+               <au>
+                  <snm>Kota</snm>
+                  <fnm>DJ</fnm>
+               </au>
+               <au>
+                  <snm>Ylostalo</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Larson</snm>
+                  <fnm>BL</fnm>
+               </au>
+               <au>
+                  <snm>Semprun-Prieto</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Delafontaine</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Prockop</snm>
+                  <fnm>DJ</fnm>
+               </au>
+            </aug>
+            <source>Cell Stem Cell</source>
+            <pubdate>2009</pubdate>
+            <volume>5</volume>
+            <fpage>54</fpage>
+            <lpage>63</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.stem.2009.05.003</pubid>
+                  <pubid idtype="pmpid" link="fulltext">19570514</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B17">
+            <title>
+               <p>The use of confidence or fiducial limits illustrated in the case of the binomial</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Clopper</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Pearson</snm>
+                  <fnm>E</fnm>
+               </au>
+            </aug>
+            <source>Biometrika</source>
+            <pubdate>1934</pubdate>
+            <volume>26</volume>
+            <fpage>404</fpage>
+            <lpage>413</lpage>
+            <xrefbib>
+               <pubid idtype="doi">10.1093/biomet/26.4.404</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B18">
+            <title>
+               <p>Exact Binomial and Poisson Confidence Intervals</p>
+            </title>
+            <aug>
+               <au>
+                  <cnm>JavaStat</cnm>
+               </au>
+            </aug>
+            <url>http://statpages.org/confint.html</url>
+         </bibl>
+         <bibl id="B19">
+            <title>
+               <p>Intrapulmonary delivery of bone marrow-derived mesenchymal stem cells improves survival and attenuates endotoxin-induced acute lung injury in mice</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Gupta</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Su</snm>
+                  <fnm>X</fnm>
+               </au>
+               <au>
+                  <snm>Popov</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Lee</snm>
+                  <fnm>JW</fnm>
+               </au>
+               <au>
+                  <snm>Serikov</snm>
+                  <fnm>V</fnm>
+               </au>
+               <au>
+                  <snm>Matthay</snm>
+                  <fnm>MA</fnm>
+               </au>
+            </aug>
+            <source>J Immunol</source>
+            <pubdate>2007</pubdate>
+            <volume>179</volume>
+            <fpage>1855</fpage>
+            <lpage>1863</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid" link="fulltext">17641052</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B20">
+            <title>
+               <p>TSG-6: a pluripotent inflammatory mediator?</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Milner</snm>
+                  <fnm>CM</fnm>
+               </au>
+               <au>
+                  <snm>Higman</snm>
+                  <fnm>VA</fnm>
+               </au>
+               <au>
+                  <snm>Day</snm>
+                  <fnm>AJ</fnm>
+               </au>
+            </aug>
+            <source>Biochem Soc Trans</source>
+            <pubdate>2006</pubdate>
+            <volume>34</volume>
+            <fpage>446</fpage>
+            <lpage>450</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1042/BST0340446</pubid>
+                  <pubid idtype="pmpid" link="fulltext">16709183</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B21">
+            <title>
+               <p>Cytokine-induced gene expression at the crossroads of innate immunity, inflammation and fertility: TSG-6 and PTX3/TSG-14</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Wisniewski</snm>
+                  <fnm>HG</fnm>
+               </au>
+               <au>
+                  <snm>Vilcek</snm>
+                  <fnm>J</fnm>
+               </au>
+            </aug>
+            <source>Cytokine Growth Factor Rev</source>
+            <pubdate>2004</pubdate>
+            <volume>15</volume>
+            <fpage>129</fpage>
+            <lpage>146</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.cytogfr.2004.01.005</pubid>
+                  <pubid idtype="pmpid" link="fulltext">15110797</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B22">
+            <title>
+               <p>Allogeneic human mesenchymal stem cells for treatment of E. coli endotoxin-induced acute lung injury in the <it>ex vivo </it>perfused human lung</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Lee</snm>
+                  <fnm>JW</fnm>
+               </au>
+               <au>
+                  <snm>Fang</snm>
+                  <fnm>X</fnm>
+               </au>
+               <au>
+                  <snm>Gupta</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Serikov</snm>
+                  <fnm>V</fnm>
+               </au>
+               <au>
+                  <snm>Matthay</snm>
+                  <fnm>MA</fnm>
+               </au>
+            </aug>
+            <source>Proc Natl Acad Sci USA</source>
+            <pubdate>2009</pubdate>
+            <volume>106</volume>
+            <fpage>16357</fpage>
+            <lpage>16362</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1073/pnas.0907996106</pubid>
+                  <pubid idtype="pmcid">2735560</pubid>
+                  <pubid idtype="pmpid" link="fulltext">19721001</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B23">
+            <title>
+               <p>Interleukin 1 receptor antagonist mediates the antiinflammatory and antifibrotic effect of mesenchymal stem cells during lung injury</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Ortiz</snm>
+                  <fnm>LA</fnm>
+               </au>
+               <au>
+                  <snm>Dutreil</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Fattman</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Pandey</snm>
+                  <fnm>AC</fnm>
+               </au>
+               <au>
+                  <snm>Torres</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Go</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Phinney</snm>
+                  <fnm>DG</fnm>
+               </au>
+            </aug>
+            <source>Proc Natl Acad Sci USA</source>
+            <pubdate>2007</pubdate>
+            <volume>104</volume>
+            <fpage>11002</fpage>
+            <lpage>11007</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1073/pnas.0704421104</pubid>
+                  <pubid idtype="pmcid">1891813</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17569781</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B24">
+            <title>
+               <p>Prevention of LPS-induced acute lung injury in mice by mesenchymal stem cells overexpressing angiopoietin 1</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Mei</snm>
+                  <fnm>SH</fnm>
+               </au>
+               <au>
+                  <snm>McCarter</snm>
+                  <fnm>SD</fnm>
+               </au>
+               <au>
+                  <snm>Deng</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Parker</snm>
+                  <fnm>CH</fnm>
+               </au>
+               <au>
+                  <snm>Liles</snm>
+                  <fnm>WC</fnm>
+               </au>
+               <au>
+                  <snm>Stewart</snm>
+                  <fnm>DJ</fnm>
+               </au>
+            </aug>
+            <source>PLoS Med</source>
+            <pubdate>2007</pubdate>
+            <volume>4</volume>
+            <fpage>e269</fpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1371/journal.pmed.0040269</pubid>
+                  <pubid idtype="pmcid">1961632</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17803352</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B25">
+            <title>
+               <p>Prevention of endotoxin-induced systemic response by bone marrow-derived mesenchymal stem cells in mice</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Xu</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Woods</snm>
+                  <fnm>CR</fnm>
+               </au>
+               <au>
+                  <snm>Mora</snm>
+                  <fnm>AL</fnm>
+               </au>
+               <au>
+                  <snm>Joodi</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Brigham</snm>
+                  <fnm>KL</fnm>
+               </au>
+               <au>
+                  <snm>Iyer</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Rojas</snm>
+                  <fnm>M</fnm>
+               </au>
+            </aug>
+            <source>Am J Physiol Lung Cell Mol Physiol</source>
+            <pubdate>2007</pubdate>
+            <volume>293</volume>
+            <fpage>L131</fpage>
+            <lpage>141</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1152/ajplung.00431.2006</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17416739</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B26">
+            <title>
+               <p>Bone marrow stromal cells use TGF-beta to suppress allergic responses in a mouse model of ragweed-induced asthma</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Nemeth</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Keane-Myers</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Brown</snm>
+                  <fnm>JM</fnm>
+               </au>
+               <au>
+                  <snm>Metcalfe</snm>
+                  <fnm>DD</fnm>
+               </au>
+               <au>
+                  <snm>Gorham</snm>
+                  <fnm>JD</fnm>
+               </au>
+               <au>
+                  <snm>Bundoc</snm>
+                  <fnm>VG</fnm>
+               </au>
+               <au>
+                  <snm>Hodges</snm>
+                  <fnm>MG</fnm>
+               </au>
+               <au>
+                  <snm>Jelinek</snm>
+                  <fnm>I</fnm>
+               </au>
+               <au>
+                  <snm>Madala</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Karpati</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Mezey</snm>
+                  <fnm>E</fnm>
+               </au>
+            </aug>
+            <source>Proc Natl Acad Sci USA</source>
+            <pubdate>2010</pubdate>
+            <volume>107</volume>
+            <fpage>5652</fpage>
+            <lpage>5657</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1073/pnas.0910720107</pubid>
+                  <pubid idtype="pmcid">2851758</pubid>
+                  <pubid idtype="pmpid" link="fulltext">20231466</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B27">
+            <title>
+               <p>TSG-6 potentiates the antitissue kallikrein activity of inter-alpha-inhibitor through bikunin release</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Forteza</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Casalino-Matsuda</snm>
+                  <fnm>SM</fnm>
+               </au>
+               <au>
+                  <snm>Monzon</snm>
+                  <fnm>ME</fnm>
+               </au>
+               <au>
+                  <snm>Fries</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Rugg</snm>
+                  <fnm>MS</fnm>
+               </au>
+               <au>
+                  <snm>Milner</snm>
+                  <fnm>CM</fnm>
+               </au>
+               <au>
+                  <snm>Day</snm>
+                  <fnm>AJ</fnm>
+               </au>
+            </aug>
+            <source>Am J Respir Cell Mol Biol</source>
+            <pubdate>2007</pubdate>
+            <volume>36</volume>
+            <fpage>20</fpage>
+            <lpage>31</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="pmcid">1899306</pubid>
+                  <pubid idtype="pmpid" link="fulltext">16873769</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B28">
+            <title>
+               <p>TSG-6: a multifunctional protein associated with inflammation</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Milner</snm>
+                  <fnm>CM</fnm>
+               </au>
+               <au>
+                  <snm>Day</snm>
+                  <fnm>AJ</fnm>
+               </au>
+            </aug>
+            <source>J Cell Sci</source>
+            <pubdate>2003</pubdate>
+            <volume>116</volume>
+            <fpage>1863</fpage>
+            <lpage>1873</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1242/jcs.00407</pubid>
+                  <pubid idtype="pmpid" link="fulltext">12692188</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B29">
+            <title>
+               <p>Up-regulation of cyclooxygenase-2 expression by TSG-6 protein in macrophage cell line</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Mindrescu</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Le</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Wisniewski</snm>
+                  <fnm>HG</fnm>
+               </au>
+               <au>
+                  <snm>Vilcek</snm>
+                  <fnm>J</fnm>
+               </au>
+            </aug>
+            <source>Biochem Biophys Res Commun</source>
+            <pubdate>2005</pubdate>
+            <volume>330</volume>
+            <fpage>737</fpage>
+            <lpage>745</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.bbrc.2005.03.040</pubid>
+                  <pubid idtype="pmpid" link="fulltext">15809059</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B30">
+            <title>
+               <p>Bone marrow stem cells expressing keratinocyte growth factor via an inducible lentivirus protects against bleomycin-induced pulmonary fibrosis</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Aguilar</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Scotton</snm>
+                  <fnm>CJ</fnm>
+               </au>
+               <au>
+                  <snm>McNulty</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Nye</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Stamp</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Laurent</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Bonnet</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Janes</snm>
+                  <fnm>SM</fnm>
+               </au>
+            </aug>
+            <source>PLoS One</source>
+            <pubdate>2009</pubdate>
+            <volume>4</volume>
+            <fpage>e8013</fpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1371/journal.pone.0008013</pubid>
+                  <pubid idtype="pmcid">2779453</pubid>
+                  <pubid idtype="pmpid" link="fulltext">19956603</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B31">
+            <title>
+               <p>KGF regulates pulmonary epithelial proliferation and surfactant protein gene expression in adult rat lung</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Yano</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Mason</snm>
+                  <fnm>RJ</fnm>
+               </au>
+               <au>
+                  <snm>Pan</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Deterding</snm>
+                  <fnm>RR</fnm>
+               </au>
+               <au>
+                  <snm>Nielsen</snm>
+                  <fnm>LD</fnm>
+               </au>
+               <au>
+                  <snm>Shannon</snm>
+                  <fnm>JM</fnm>
+               </au>
+            </aug>
+            <source>Am J Physiol Lung Cell Mol Physiol</source>
+            <pubdate>2000</pubdate>
+            <volume>279</volume>
+            <fpage>L1146</fpage>
+            <lpage>1158</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid" link="fulltext">11076805</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B32">
+            <title>
+               <p>Keratinocyte and hepatocyte growth factors in the lung: roles in lung development, inflammation, and repair</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Ware</snm>
+                  <fnm>LB</fnm>
+               </au>
+               <au>
+                  <snm>Matthay</snm>
+                  <fnm>MA</fnm>
+               </au>
+            </aug>
+            <source>Am J Physiol Lung Cell Mol Physiol</source>
+            <pubdate>2002</pubdate>
+            <volume>282</volume>
+            <fpage>L924</fpage>
+            <lpage>940</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid" link="fulltext">11943656</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B33">
+            <title>
+               <p>Alveolar epithelial fluid transport can be simultaneously upregulated by both KGF and beta-agonist therapy</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Wang</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Folkesson</snm>
+                  <fnm>HG</fnm>
+               </au>
+               <au>
+                  <snm>Jayr</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Ware</snm>
+                  <fnm>LB</fnm>
+               </au>
+               <au>
+                  <snm>Matthay</snm>
+                  <fnm>MA</fnm>
+               </au>
+            </aug>
+            <source>J Appl Physiol</source>
+            <pubdate>1999</pubdate>
+            <volume>87</volume>
+            <fpage>1852</fpage>
+            <lpage>1860</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid" link="fulltext">10562630</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B34">
+            <title>
+               <p>Multipotent stromal cells are activated to reduce apoptosis in part by upregulation and secretion of stanniocalcin-1</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Block</snm>
+                  <fnm>GJ</fnm>
+               </au>
+               <au>
+                  <snm>Ohkouchi</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Fung</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Frenkel</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Gregory</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Pochampally</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>DiMattia</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Sullivan</snm>
+                  <fnm>DE</fnm>
+               </au>
+               <au>
+                  <snm>Prockop</snm>
+                  <fnm>DJ</fnm>
+               </au>
+            </aug>
+            <source>Stem Cells</source>
+            <pubdate>2009</pubdate>
+            <volume>27</volume>
+            <fpage>670</fpage>
+            <lpage>681</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid" link="fulltext">19267325</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B35">
+            <title>
+               <p>Allogeneic human mesenchymal stem cells restore epithelial protein permeability in cultured human alveolar type II cells by secretion of angiopoietin-1</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Fang</snm>
+                  <fnm>X</fnm>
+               </au>
+               <au>
+                  <snm>Neyrinck</snm>
+                  <fnm>AP</fnm>
+               </au>
+               <au>
+                  <snm>Matthay</snm>
+                  <fnm>MA</fnm>
+               </au>
+               <au>
+                  <snm>Lee</snm>
+                  <fnm>JW</fnm>
+               </au>
+            </aug>
+            <source>J Biol Chem</source>
+            <pubdate>2010</pubdate>
+            <volume>285</volume>
+            <fpage>26211</fpage>
+            <lpage>26222</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1074/jbc.M110.119917</pubid>
+                  <pubid idtype="pmcid">2924032</pubid>
+                  <pubid idtype="pmpid" link="fulltext">20554518</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B36">
+            <title>
+               <p>Evidence supporting paracrine hypothesis for Akt-modified mesenchymal stem cell-mediated cardiac protection and functional improvement</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Gnecchi</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>He</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Noiseux</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Liang</snm>
+                  <fnm>OD</fnm>
+               </au>
+               <au>
+                  <snm>Zhang</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Morello</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Mu</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Melo</snm>
+                  <fnm>LG</fnm>
+               </au>
+               <au>
+                  <snm>Pratt</snm>
+                  <fnm>RE</fnm>
+               </au>
+               <au>
+                  <snm>Ingwall</snm>
+                  <fnm>JS</fnm>
+               </au>
+               <au>
+                  <snm>Dzau</snm>
+                  <fnm>VJ</fnm>
+               </au>
+            </aug>
+            <source>FASEB J</source>
+            <pubdate>2006</pubdate>
+            <volume>20</volume>
+            <fpage>661</fpage>
+            <lpage>669</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1096/fj.05-5211com</pubid>
+                  <pubid idtype="pmpid" link="fulltext">16581974</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B37">
+            <title>
+               <p>Paracrine factors of multipotent stromal cells ameliorate lung injury in an elastase-induced emphysema model</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Katsha</snm>
+                  <fnm>AM</fnm>
+               </au>
+               <au>
+                  <snm>Ohkouchi</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Xin</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Kanehira</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Sun</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Nukiwa</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Saijo</snm>
+                  <fnm>Y</fnm>
+               </au>
+            </aug>
+            <source>Mol Ther</source>
+            <pubdate>2010</pubdate>
+            <volume>19</volume>
+            <fpage>196</fpage>
+            <lpage>203</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid" link="fulltext">20842104</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B38">
+            <title>
+               <p>Bone marrow mesenchymal stromal cells attenuate organ injury induced by LPS and burn</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Yagi</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Soto-Gutierrez</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Kitagawa</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Tilles</snm>
+                  <fnm>AW</fnm>
+               </au>
+               <au>
+                  <snm>Tompkins</snm>
+                  <fnm>RG</fnm>
+               </au>
+               <au>
+                  <snm>Yarmush</snm>
+                  <fnm>ML</fnm>
+               </au>
+            </aug>
+            <source>Cell Transplant</source>
+            <pubdate>2010</pubdate>
+            <volume>19</volume>
+            <fpage>823</fpage>
+            <lpage>830</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.3727/096368910X508942</pubid>
+                  <pubid idtype="pmcid">2957544</pubid>
+                  <pubid idtype="pmpid">20573305</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B39">
+            <title>
+               <p>Dynamic three-dimensional culture methods enhance mesenchymal stem cell properties and increase therapeutic potential</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Frith</snm>
+                  <fnm>JE</fnm>
+               </au>
+               <au>
+                  <snm>Thomson</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Genever</snm>
+                  <fnm>PG</fnm>
+               </au>
+            </aug>
+            <source>Tissue Eng Part C Methods</source>
+            <pubdate>2009</pubdate>
+            <volume>16</volume>
+            <fpage>735</fpage>
+            <lpage>749</lpage>
+         </bibl>
+         <bibl id="B40">
+            <title>
+               <p>Culturing of human mesenchymal stem cells as three-dimensional aggregates induces functional expression of CXCR4 that regulates adhesion to endothelial cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Potapova</snm>
+                  <fnm>IA</fnm>
+               </au>
+               <au>
+                  <snm>Brink</snm>
+                  <fnm>PR</fnm>
+               </au>
+               <au>
+                  <snm>Cohen</snm>
+                  <fnm>IS</fnm>
+               </au>
+               <au>
+                  <snm>Doronin</snm>
+                  <fnm>SV</fnm>
+               </au>
+            </aug>
+            <source>J Biol Chem</source>
+            <pubdate>2008</pubdate>
+            <volume>283</volume>
+            <fpage>13100</fpage>
+            <lpage>13107</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1074/jbc.M800184200</pubid>
+                  <pubid idtype="pmcid">2442325</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18334485</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B41">
+            <title>
+               <p>Spheroid formation and differentiation into hepatocyte-like cells of rat mesenchymal stem cell induced by co-culture with liver cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Qihao</snm>
+                  <fnm>Z</fnm>
+               </au>
+               <au>
+                  <snm>Xigu</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Guanghui</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Weiwei</snm>
+                  <fnm>Z</fnm>
+               </au>
+            </aug>
+            <source>DNA Cell Biol</source>
+            <pubdate>2007</pubdate>
+            <volume>26</volume>
+            <fpage>497</fpage>
+            <lpage>503</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1089/dna.2006.0562</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17630854</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B42">
+            <title>
+               <p>Aggregation of human mesenchymal stromal cells (MSCs) into 3D spheroids enhances their antiinflammatory properties</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Bartosh</snm>
+                  <fnm>TJ</fnm>
+               </au>
+               <au>
+                  <snm>Ylostalo</snm>
+                  <fnm>JH</fnm>
+               </au>
+               <au>
+                  <snm>Mohammadipoor</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Bazhanov</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Coble</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Claypool</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Lee</snm>
+                  <fnm>RH</fnm>
+               </au>
+               <au>
+                  <snm>Choi</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Prockop</snm>
+                  <fnm>DJ</fnm>
+               </au>
+            </aug>
+            <source>Proc Natl Acad Sci USA</source>
+            <pubdate>2010</pubdate>
+            <volume>107</volume>
+            <fpage>13724</fpage>
+            <lpage>13729</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1073/pnas.1008117107</pubid>
+                  <pubid idtype="pmcid">2922230</pubid>
+                  <pubid idtype="pmpid" link="fulltext">20643923</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+      </refgrp>
+   </bm>
+</art>

@@ -45,7 +45,6 @@ public class Weighter implements IWeighter {
 
 
     public void calculateWeights(ArrayList<Double[]> weights) {
-        addFeatures();
         for (Feature feature : features) {
             if (feature.getMultiplier() != 0) {
                 feature.setStructure(structure);
@@ -59,7 +58,8 @@ public class Weighter implements IWeighter {
         features.add(feature);
     }
 
-    private void addFeatures() {
+    public void addAllFeatures() {
+    	
         try {
             SkimmingFeature skimFeat = new SkimmingFeature();
             features.add(skimFeat);
@@ -81,6 +81,7 @@ public class Weighter implements IWeighter {
             System.err.println("Named entity feature failed.");
             e.printStackTrace();
         }
+        
 
         if (title != null) {
             try {
@@ -113,14 +114,14 @@ public class Weighter implements IWeighter {
                 e.printStackTrace();
             }
         }
-
+/*
         try {
             features.add(new GlobalBushyFeature());
         } catch (Exception e) {
             System.err.println("Global busy feature failed.");
             e.printStackTrace();
         }
-
+*/
         try {
             features.add(new PunctuationFeature());
         } catch (Exception e) {
@@ -155,14 +156,14 @@ public class Weighter implements IWeighter {
             System.err.println("Important terms feature failed.");
             e.printStackTrace();
         }
-
+/*
         try {
             features.add(new ClusterKeywordFeature());
         } catch (Exception e) {
             System.err.println("Cluster keyword feature failed.");
             e.printStackTrace();
         }
-
+*/
         /*
          * try { features.add(new AmbiguationFeature()); } catch (Exception e) {
          * System.err.println("Synset count feature failed.");

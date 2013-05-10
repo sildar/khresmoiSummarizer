@@ -1,0 +1,2351 @@
+<!DOCTYPE art SYSTEM "article.dtd">
+<art>
+   <ui>scrt134</ui>
+   <ji>1757-6512</ji>
+   <fm>
+      <dochead>Research</dochead>
+      <bibl>
+         <title>
+            <p>Establishment of transgene-free induced pluripotent stem cells reprogrammed from human stem cells of apical papilla for neural differentiation</p>
+         </title>
+         <aug>
+            <au id="A1">
+               <snm>Zou</snm>
+               <fnm>Xiao-Ying</fnm>
+               <insr iid="I1"/>
+               <insr iid="I2"/>
+               <email>zouxiaoying1125@163.com</email>
+            </au>
+            <au id="A2">
+               <snm>Yang</snm>
+               <fnm>Hsiao-Ying</fnm>
+               <insr iid="I1"/>
+               <email>hyyang@bu.edu</email>
+            </au>
+            <au id="A3">
+               <snm>Yu</snm>
+               <fnm>Zongdong</fnm>
+               <insr iid="I3"/>
+               <email>zyu4@uthsc.edu</email>
+            </au>
+            <au id="A4">
+               <snm>Tan</snm>
+               <fnm>Xiao-Bing</fnm>
+               <insr iid="I1"/>
+               <insr iid="I4"/>
+               <email>txb942005@hotmail.com</email>
+            </au>
+            <au id="A5">
+               <snm>Yan</snm>
+               <fnm>Xing</fnm>
+               <insr iid="I1"/>
+               <insr iid="I5"/>
+               <email>happytooth@yeah.net</email>
+            </au>
+            <au id="A6" ca="yes">
+               <snm>Huang</snm>
+               <mi>T-J</mi>
+               <fnm>George</fnm>
+               <insr iid="I1"/>
+               <insr iid="I3"/>
+               <email>gtjhuang@uthsc.edu</email>
+            </au>
+         </aug>
+         <insg>
+            <ins id="I1">
+               <p>Department of Endodontics, Boston University Henry M. Goldman School of Dental Medicine, Boston, MA 02118, USA</p>
+            </ins>
+            <ins id="I2">
+               <p>Department of Cariology, Endodontology and Operative Dentistry, School and Hospital of Stomatology, Peking University, Beijing, 100081, P. R. China</p>
+            </ins>
+            <ins id="I3">
+               <p>Department of Bioscience Research, College of Dentistry, University of Tennessee Health Science Center. Memphis, TN, USA</p>
+            </ins>
+            <ins id="I4">
+               <p>Department of Stomatology, 1st People's Hospital of Yunnan Province, Kunming, Yunnan, 650032, P. R. China</p>
+            </ins>
+            <ins id="I5">
+               <p>Department of Stomatology, Beijing Friendship Hospital (Second Clinical School), Capital Medical University, Beijing 100050, P.R. China</p>
+            </ins>
+         </insg>
+         <source>Stem Cell Research &amp; Therapy</source>
+         <issn>1757-6512</issn>
+         <pubdate>2012</pubdate>
+         <volume>3</volume>
+         <issue>5</issue>
+         <fpage>43</fpage>
+         <url>http://stemcellres.com/content/3/5/43</url>
+         <xrefbib>
+            <pubidlist>
+               <pubid idtype="doi">10.1186/scrt134</pubid>
+               <pubid idtype="pmpid">23095454</pubid>
+            </pubidlist>
+         </xrefbib>
+      </bibl>
+      <history>
+         <rec>
+            <date>
+               <day>1</day>
+               <month>8</month>
+               <year>2012</year>
+            </date>
+         </rec>
+         <revrec>
+            <date>
+               <day>2</day>
+               <month>10</month>
+               <year>2012</year>
+            </date>
+         </revrec>
+         <acc>
+            <date>
+               <day>18</day>
+               <month>10</month>
+               <year>2012</year>
+            </date>
+         </acc>
+         <pub>
+            <date>
+               <day>24</day>
+               <month>10</month>
+               <year>2012</year>
+            </date>
+         </pub>
+      </history>
+      <cpyrt>
+         <year>2012</year>
+         <collab>Zou et al.; licensee BioMed Central Ltd.</collab>
+         <note>This is an open access article distributed under the terms of the Creative Commons Attribution License (<url>http://creativecommons.org/licenses/by/2.0</url>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</note>
+      </cpyrt>
+      <abs>
+         <sec>
+            <st>
+               <p>Abstract</p>
+            </st>
+            <sec>
+               <st>
+                  <p>Introduction</p>
+               </st>
+               <p>Induced pluripotent stem cells (iPSCs) are a potent cell source for neurogenesis. Previously we have generated iPSCs from human dental stem cells carrying transgene vectors. These exogenous transgenes may affect iPSC behaviors and limit their clinical applications. The purpose of this study was to establish transgene-free iPSCs (TF-iPSCs) reprogrammed from human stem cells of apical papilla (SCAP) and determine their neurogenic potential.</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>Methods</p>
+               </st>
+               <p>A single lentiviral 'stem cell cassette' flanked by the loxP site (hSTEMCCA-loxP), encoding four human reprogramming factors, <it>OCT4, SOX2, KLF4</it>, and <it>c-MYC</it>, was used to reprogram human SCAP into iPSCs. Generated iPSCs were transfected with plasmid pHAGE2-EF1&#945;-Cre-IRES-PuroR and selected with puromycin for the TF-iPSC subclones. PCR was performed to confirm the excision of hSTEMCCA. TF-iPSC clones did not resist to puromycin treatment indicating no pHAGE2-EF1&#945;-Cre-IRES-PuroR integration into the genome. <it>In vitro </it>and <it>in vivo </it>analyses of their pluripotency were performed. Embryoid body-mediated neural differentiation was undertaken to verify their neurogenic potential.</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>Results</p>
+               </st>
+               <p>TF-SCAP iPSCs were generated <it>via </it>a hSTEMCCA-loxP/Cre system. PCR of genomic DNA confirmed transgene excision and puromycin treatment verified the lack of pHAGE2-EF1&#945;-Cre-IRES-PuroR integration. Transplantation of the TF-iPSCs into immunodeficient mice gave rise to teratomas containing tissues representing the three germ layers -- ectoderm (neural rosettes), mesoderm (cartilage and bone tissues) and endoderm (glandular epithelial tissues). Embryonic stem cell-associated markers TRA-1-60, TRA-2-49 and OCT4 remained positive after transgene excision. After neurogenic differentiation, cells showed neural-like morphology expressing neural markers <it>nestin, &#946;III-tubulin, NFM, NSE, NeuN, GRM1, NR1 </it>and <it>CNPase</it>.</p>
+            </sec>
+            <sec>
+               <st>
+                  <p>Conclusions</p>
+               </st>
+               <p>TF-SCAP iPSCs reprogrammed from SCAP can be generated and they may be a good cell source for neurogenesis.</p>
+            </sec>
+         </sec>
+      </abs>
+   </fm>
+   <bdy>
+      <sec>
+         <st>
+            <p>Introduction</p>
+         </st>
+         <p>Stem cells from apical papilla (SCAP) are derived from the developing tissue at the apex of a tooth root termed apical papilla <abbrgrp><abbr bid="B1">1</abbr><abbr bid="B2">2</abbr></abbrgrp>. These cells exhibit mesenchymal stem cell (MSC) properties with multi-lineage differentiation potential and they express several neural markers when grown in neurogenic cell culture, including &#946;III-tubulin, glutamic acid decarboxylase (GAD), NeuN, nestin, neurofilament medium chain (NFM), neuron-specific enolase (NSE), and 2', 3'-cyclic nucleotide-3'-phosphodiesterase (CNPase) <abbrgrp><abbr bid="B2">2</abbr><abbr bid="B3">3</abbr></abbrgrp>. SCAP are considered a type of cell source for odontoblasts responsible for root development and they are capable of regenerating pulp and dentin tissues <it>in vivo </it><abbrgrp><abbr bid="B4">4</abbr></abbrgrp>. SCAP are highly robust in terms of relatively high population doubling and telomerase activities <abbrgrp><abbr bid="B1">1</abbr><abbr bid="B2">2</abbr></abbrgrp>. We have previously shown that three types of dental stem cells, SCAP, DPSCs (dental pulp stem cells) and SHED (stem cells from human exfoliated deciduous teeth) can be easily reprogrammed into induced pluripotent stem cells (iPSCs) at a higher reprogramming rate than dermal fibroblasts using Thomson's four factors, <it>LIN28, NANOG, OCT4 </it>and <it>SOX2 </it>and their vector system <abbrgrp><abbr bid="B5">5</abbr></abbrgrp>.</p>
+         <p>iPSCs have tremendous medical applications and are very similar to embryonic stem cells (ESCs) <abbrgrp><abbr bid="B6">6</abbr><abbr bid="B7">7</abbr></abbrgrp>. However, it was realized that iPSCs generated by viral vector transduction either using Yamanaka's four factors, <it>c-MYC, KLF4, OCT4, SOX2 </it><abbrgrp><abbr bid="B8">8</abbr><abbr bid="B9">9</abbr></abbrgrp> or Thomson's four factors prevent iPSCs from being more similar to ESCs because the transgene-carrying iPSCs have a different profile at global gene expression and epigenetic levels, and have altered differentiation into functional cell types <abbrgrp><abbr bid="B10">10</abbr><abbr bid="B11">11</abbr><abbr bid="B12">12</abbr></abbrgrp>. Furthermore, it is obvious that carrying oncogenes such as <it>c-MYC </it>raises a safety concern for their clinical use <abbrgrp><abbr bid="B13">13</abbr><abbr bid="B14">14</abbr><abbr bid="B15">15</abbr><abbr bid="B16">16</abbr></abbrgrp>.</p>
+         <p>Tremendous efforts have been made to deliver the reprogramming factors without viral vector integration. The approaches include transient expression using adenoviral or nonviral vectors <abbrgrp><abbr bid="B17">17</abbr><abbr bid="B18">18</abbr></abbrgrp>, removing the integrated vectors using piggyBac transposition <abbrgrp><abbr bid="B19">19</abbr><abbr bid="B20">20</abbr></abbrgrp>, minicircle DNA <abbrgrp><abbr bid="B21">21</abbr></abbrgrp>, and non-integrating episomal vectors <abbrgrp><abbr bid="B15">15</abbr><abbr bid="B22">22</abbr><abbr bid="B23">23</abbr></abbrgrp>. However, the reprogramming efficiencies both in human or mouse systems were very low ranging from 0.00005% to 0.039% and most cases were at the lower end. The approach of non-integrating episomal vectors reported by Yu <it>et al. </it><abbrgrp><abbr bid="B22">22</abbr></abbrgrp> required three individual plasmids carrying a total of seven factors, including the oncogene <it>SV40</it>, and has not been shown to reprogram cells successfully from adult donors. Using recombinant protein-based four factors <abbrgrp><abbr bid="B24">24</abbr><abbr bid="B25">25</abbr></abbrgrp>, synthesized mRNA <abbrgrp><abbr bid="B26">26</abbr></abbrgrp>, and Sendai virus <abbrgrp><abbr bid="B27">27</abbr></abbrgrp> to generate iPSCs has also been reported. Unfortunately, the protein transduction method is extremely difficult, labor-intensive and time-consuming at present, and modifying Sendai virus vectors or preparing synthesized RNA is technically demanding.</p>
+         <p>Recently, a single lentiviral 'stem cell cassette' (STEMCCA) carrying all four Yamanaka's factors was developed for the efficient generation of iPSCs from mouse postnatal fibroblasts <abbrgrp><abbr bid="B28">28</abbr></abbrgrp>. Subsequently, the STEMCCA was modified into an excisable single polycistronic vector containing loxP sites. Most importantly, the excision of the vector system after reprogramming improved the iPSC differentiation potential <abbrgrp><abbr bid="B29">29</abbr></abbrgrp>. The STEMCCA-loxP was then humanized to carry four human reprogramming factors, <it>OCT4, SOX2, KLF4</it>, and <it>c-MYC </it>(designated as hSTEMCCA-loxP) and has been shown to reprogram human fibroblasts successfully <abbrgrp><abbr bid="B30">30</abbr></abbrgrp>. This excisable single polycistronic vector system provides a high efficiency in reprogramming fibroblasts into iPSCs (mouse: 0.5%; human: 0.1% to 1.5%). To utilize iPSCs for clinical applications or to understand the biology of these cells, removal of exogenously introduced genes in these cells is a critical step, given the premise that iPSCs are independent of exogenous reprogramming transgene expression and retain their pluripotency following factor withdrawal. Using the single vector STEMCCA and Cre/loxP system, transgene-free (TF) iPSCs can be generated which possess pluripotent characteristics <abbrgrp><abbr bid="B29">29</abbr><abbr bid="B30">30</abbr></abbrgrp>. In the present study, we applied this system and technology to generate TF iPSCs from SCAP and examined their neurogenic potential as the first step toward generating and characterizing TF iPSCs from other oral cells/stem cells.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Methods</p>
+         </st>
+         <sec>
+            <st>
+               <p>Cell culture</p>
+            </st>
+            <p>Human SCAP primary cultures were established as previously described <abbrgrp><abbr bid="B2">2</abbr></abbrgrp>. In brief, freshly extracted teeth were collected from healthy donors (16- to 24-years old) in the Oral Surgery Clinics at Boston University based on an exempt protocol approved by the Boston University Medical Institutional Review Board (#H-28882). Apical papilla from immature permanent teeth were minced and digested in a solution of 3 mg/mL collagenase type I and 4 mg/mL dispase (Sigma-Aldrich, St. Louis, MO, USA) for 30 to 60 minutes at 37&#176;C. The digested mixtures were passed through a 70-&#956;m cell strainer (Falcon, BD Labware, Franklin Lakes, NJ, USA) to obtain single cell suspensions. Cells were seeded into six-well plates and cultured with &#945;-minimum essential medium (&#945;-MEM; Life Technologies/Invitrogen, Grand Island, NY, USA) supplemented with 15% fetal bovine serum (FBS; Gemini Bio-Products, Inc., Woodland, CA, USA), 2 mM L-glutamine, 100 &#956;M L-ascorbic acid-2-phosphate, 100 U/mL penicillin-G, 100 mg/mL streptomycin, and 0.25 mg/mL fungizone (Gemini Bio-Products, Inc., West Sacramento, CA, USA) and maintained in 5% CO<sub>2 </sub>at 37&#176;C. Colony formation units of fibroblastic cells (CFU-F) were normally observed within 1 to 2 weeks after cell seeding and were passaged at a 1:3 ratio when they reached approximately 70% confluence. Heterogeneous populations of SCAP were frozen and stored in liquid nitrogen at passages 0 to 2 (p0 to p2). Cells were thawed and expanded for experimentation. These heterogeneous populations of adherent, clonogenic dental stem/progenitor cells were routinely tested for their cell surface marker expression with flow cytometry and they were positive for STRO-1, CD146, CD73, CD90, and CD105 and negative for CD14, CD34, and CD45, which are typical features of MSCs <abbrgrp><abbr bid="B3">3</abbr></abbrgrp>. Mouse embryonic fibroblasts (MEFs) were used as the feeder cells isolated from E13.5 embryos of CF1 pregnant mice according to the NIH standard protocol <abbrgrp><abbr bid="B31">31</abbr></abbrgrp> and cultured in (D)MEM supplemented with 10% FBS. All animal procedures followed a protocol approved by the Institutional Animal Care and Use Committee (IACUC) at Boston University (protocol# AN15026).</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Transduction and reprogramming of SCAP</p>
+            </st>
+            <p>Lentiviruses were produced in 293T packaging cells with five plasmid cotransfection, concentrated by ultracentrifugation and titered as previously described <abbrgrp><abbr bid="B29">29</abbr><abbr bid="B30">30</abbr></abbrgrp>. Viral titers of approximately 1 &#215; 10<sup>8 </sup>TU (transducing unit)/ml were employed for reprogramming experiments. Heterogeneous primary human SCAP at p3 were transduced with lentiviral vectors hSTEMCCA-loxP (a polycistronic single vector carrying all four human reprogramming factors, <it>c-MYC, KLF4, OCT4 and SOX2</it>) in the presence of polybrene (5 &#956;g/mL). Within six days, 4 &#215; 10<sup>4 </sup>transduced SCAP were trypsinized and seeded onto mitomycin C-inactivated MEFs on a 10-cm gelatin-coated culture dish. The next day, the medium was changed to human embryonic stem cell (hESC) medium (80% (D)MEM/F12, 20% knock-out serum replacement, 1x non-essential amino acid, 1 mM L-glutamine, 0.1 &#956;M &#946;-mercaptoethanol) containing 4 ng/mL basic fibroblast growth factor (bFGF). Within two weeks, a few cell colonies resembling ESC colonies began to emerge (they were considered as p0 prospective iPSCs). Emerged colonies were manually isolated/passaged 28 days post-viral vector transduction and expanded on MEF feeders in hESC medium. Each colony was manually subcloned and grown/expanded separately into wells of 12-well plates. The expanded SCAP iPSCs at p2 were used for further Cre-mediated excision of hSTEMCCA.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Excision of hSTEMCCA</p>
+            </st>
+            <p>The transfection of SCAP-iPSC colonies for the excision of the transgene/vector was performed using the Hela Monster transfection reagent (Mirus, Madison, WI, USA) according to the manufacturer's instructions. Briefly, 60% to 70% confluent p2 SCAP iPSCs were cultured on puromycin resistant MEFs (DR4 MEF, GlobalStem, Rockville, MD, USA) in six-well plates. The cells were then exposed to 2.5 mL/well hESC medium containing 4 ng/mL bFGF, 2.5 &#956;g pHAGE2-Cre-IRES-PuroR plasmid DNA, 7.5 &#956;l Trans IT Hela reagent and 5 &#956;l MONSTER reagent. After 24 hours, the medium was changed to hESC medium and the cultures incubated for about an additional 6 hours, after which selection of the transfected SCAP iPSCs with puromycin (1.2 &#956;g/mL) began and lasted for 48 hours. The medium containing puromycin was changed every 24 hours. Fresh hESC medium was used after puromycin treatment and changed daily. New SCAP iPSC colonies re-emerged in two to four days. On days 11 to 14, five newly emerged colonies from each well were picked and transferred into new MEFs plates and grown/expanded individually. Genomic DNA from each subclone was extracted and PCR performed to verify for the excision of the hSTEMCCA. The primers used and the PCR conditions are as follows: <it>c-MYC </it>(forward primer): 5' -GGA ACT CTT GTG CGT AAG TCG ATA G-3'; <it>WPRE </it>(reverse primer) 5'-GGA GGC GGC CCA AAG GGA GGA GAT CCG-3'; 95&#176;C for 3 minutes; followed by 33 cycles of 94&#176;C for 30 seconds, 60&#176;C for 30 seconds and 72&#176;C for 5 minutes. The PCR products were examined by electrophoresis on an agarose gel. Verified transgene free clones were named TF-SCAP iPSCs.</p>
+            <p>To verify that there was no integration of pHAGE2-Cre-IRES-PuroR plasmid DNA into the genome of TF-SCAP iPSCs, these cells were grown on DR4 MEFs in the presence of puromycin (1.2 &#956;g/mL). Total cell death indicated the lack of plasmid integration.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Immunocytofluorescence</p>
+            </st>
+            <p>iPSC colonies grown on MEFs in 12-well plates were fixed in 100% ice cold methanol, incubated in blocking buffer (32.5 mM NaCl, 3.3 mM Na<sub>2</sub>HPO<sub>4</sub>, 0.76 mM KH<sub>2</sub>PO<sub>4</sub>, 1.9 mM NaN3, 0.1% (w/v) BSA, 0.2% (v/v) Triton X-100, 0.05% (v/v) Tween 20, and 5% goat serum) for 30 minutes followed by the addition of the following antibodies for 1 hour at room temperature: mouse anti-human TRA-1-60, TRA-2-49 (both from Chemicon/Millipore, Temecula, CA, USA) and OCT4 (Santa Cruz Biotech., Santa Cruz, CA, USA). After washing, cultures were incubated with anti-mouse antibodies Alexa Fluor 594 (Invitrogen) for 1 hour at room temperature and the cell nuclei stained with 4',6-diamidino-2-phenylindole (DAPI, Invitrogen). Images were analyzed under a fluorescence microscope.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Teratomas formation</p>
+            </st>
+            <p>SCAP iPSCs and TF-SCAP iPSCs at approximately 70% confluence in a six-well plate were harvested by collagenase IV treatment, collected into tubes, centrifuged, and the pellets resuspended in the (D)MEM/F12 and Matrigel (3:1) solution. The resuspended cells were injected intramuscularly into the right and/or left hind legs of a SCID mouse (SCID, NOD.CB17-Prkdc-scid/J; Jackson Laboratory, Bar Harbor, ME, USA). Seven to nine weeks after injection, tumors were resected, fixed with PBS containing 4% paraformaldehyde and processed. Paraffin-embedded tissue was sectioned and stained with H &amp; E for histologic analysis.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Neurogenic differentiation <it>in vitro </it>of TF- SCAP iPSCs</p>
+            </st>
+            <p>TF-SCAP iPSC colonies were grown on Matrigel with TESR2 medium (Stemcell Technology, Vancouver, BC, Canada). Subsequently, iPSC colonies were treated with dispase (1 mg/mL) for seven minutes, resuspended in (D)MEM/F12 supplemented with 20% FBS and 2 mM glutamine. The colonies were collected and plated into Ultra Low six-well plates to form embryoid bodies (EBs) for four days. EBs were collected and plated into Matrigel-coated wells of six-well plates. After cell attachment, the medium was changed to neurogenic differentiation medium ((D)MEM supplemented with B27 and 20 ng/mL bFGF). The cells were incubated in the differentiation medium for eight days and subsequently stained for the neural markers &#946;III-tubulin (TUJ1; Sigma-Aldrich), nestin (Millipore) and neurofilament medium chain (NFM; Invitrogen). Cells were fixed in 100% ice cold methanol for 20 minutes and washed with PBS 3 times. Triton X-100 (0.1%) was applied to permeabilize the cells for 15 minutes followed by washing with PBS 3 times. Fixed cells were blocked with 5% goat serum for 1 hour. Primary mouse monoclonal antibodies to human &#946;III-tubulin, nestin and NFM (all at1:200) were applied and incubated at 4&#176;C overnight. After washing with PBS 3 times, secondary goat anti-mouse Alexa Fluor 594 antibodies (Invitrogen) were added and incubated at room temperature for 1 hour, and cell nuclei were stained with DAPI (1:10,000) (Invitrogen) <abbrgrp><abbr bid="B5">5</abbr></abbrgrp>. Staining was examined under a fluorescence microscope. RT-PCR analysis of neurogenic gene expression was performed. Total RNA was isolated using RNeasy Mini Kit (Qiagen, Vaenicia, CA, USA) from TF-SCAP iPSCs grown on Matrigel with TESR2 medium and neural-like cells after neurogenesis. cDNA was synthesized with a SuperScript III RT-PCR kit (Invitrogen) followed by PCR using Taq DNA Polymerase (Invitrogen) to detect the human neural gene expression listed in Table <tblr tid="T1">1</tblr>.</p>
+            <tbl id="T1" hint_layout="double">
+               <title>
+                  <p>Table 1</p>
+               </title>
+               <caption>
+                  <p>Primers for RT-PCR.</p>
+               </caption>
+               <tblbdy cols="4">
+                  <r>
+                     <c ca="left">
+                        <p><b>Gene</b></p>
+                     </c>
+                     <c ca="left">
+                        <p><b>GenBank Accession </b></p>
+                     </c>
+                     <c ca="left">
+                        <p><b>Primer (5'--- 3')</b></p>
+                     </c>
+                     <c ca="left">
+                        <p><b>Product size (bp)</b></p>
+                     </c>
+                  </r>
+                  <r>
+                     <c>
+                        <p/>
+                     </c>
+                     <c>
+                        <p/>
+                     </c>
+                     <c ca="left">
+                        <p><b>Forward</b></p>
+                     </c>
+                     <c>
+                        <p/>
+                     </c>
+                  </r>
+                  <r>
+                     <c>
+                        <p/>
+                     </c>
+                     <c>
+                        <p/>
+                     </c>
+                     <c ca="left">
+                        <p><b>Reverse</b></p>
+                     </c>
+                     <c>
+                        <p/>
+                     </c>
+                  </r>
+                  <r>
+                     <c cspan="4">
+                        <hr/>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p><it>Nestin</it></p>
+                     </c>
+                     <c ca="left">
+                        <p><ext-link ext-link-type="gen" ext-link-id="NM_006617">NM_006617</ext-link></p>
+                     </c>
+                     <c ca="left">
+                        <p>AAC AGC GAC GGA GGT CTC TA</p>
+                        <p>TTC TCT TGT CCC GCA GAC TT</p>
+                     </c>
+                     <c ca="left">
+                        <p>220</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p><it>&#946;III-tubulin</it></p>
+                     </c>
+                     <c ca="left">
+                        <p><ext-link ext-link-type="gen" ext-link-id="NM_001197181">NM_001197181</ext-link></p>
+                     </c>
+                     <c ca="left">
+                        <p>CAG ATG TTC GAT GCC AAG AA</p>
+                        <p>GGG ATC CAC TCC ACG AAG TA</p>
+                     </c>
+                     <c ca="left">
+                        <p>164</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p><it>NFM</it></p>
+                     </c>
+                     <c ca="left">
+                        <p><ext-link ext-link-type="gen" ext-link-id="NM_005382">NM_005382</ext-link></p>
+                     </c>
+                     <c ca="left">
+                        <p>CGA CCT CAG CAG CTA CCA GGA CAC</p>
+                        <p>CAG TGA TGC TTC CTG CAA ATG TGC T</p>
+                     </c>
+                     <c ca="left">
+                        <p>200</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p><it>NSE</it></p>
+                     </c>
+                     <c ca="left">
+                        <p><ext-link ext-link-type="gen" ext-link-id="NM_001975">NM_001975</ext-link></p>
+                     </c>
+                     <c ca="left">
+                        <p>GTC CCA CGT GTC TTC CAC TT</p>
+                        <p>TGG GAT CTA CAG CCA CAT GA</p>
+                     </c>
+                     <c ca="left">
+                        <p>236</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p><it>NeuN</it></p>
+                     </c>
+                     <c ca="left">
+                        <p><ext-link ext-link-type="gen" ext-link-id="NM_001082575">NM_001082575</ext-link></p>
+                     </c>
+                     <c ca="left">
+                        <p>CTT ACG GAG CGG TCG TGT AT</p>
+                        <p>AGA AGG AAA CGG TGG AAG GT</p>
+                     </c>
+                     <c ca="left">
+                        <p>215</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p><it>GRM1</it></p>
+                     </c>
+                     <c ca="left">
+                        <p><ext-link ext-link-type="gen" ext-link-id="NM_000838">NM_000838</ext-link></p>
+                     </c>
+                     <c ca="left">
+                        <p>TGA GGG TTG TCC CTT CTG AC</p>
+                        <p>GGA AGC CTC TCT CGG AGT TT</p>
+                     </c>
+                     <c ca="left">
+                        <p>241</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p><it>NR1-1</it></p>
+                     </c>
+                     <c ca="left">
+                        <p><ext-link ext-link-type="gen" ext-link-id="NM_000832">NM_000832</ext-link></p>
+                     </c>
+                     <c ca="left">
+                        <p>AAG CCT CGA GGG TAC CAG AT</p>
+                        <p>AGC TTG ATG AGC AGG TCG AT</p>
+                     </c>
+                     <c ca="left">
+                        <p>236</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p><it>CNPase</it></p>
+                     </c>
+                     <c ca="left">
+                        <p><ext-link ext-link-type="gen" ext-link-id="NM_033133">NM_033133</ext-link></p>
+                     </c>
+                     <c ca="left">
+                        <p>GTG GAG CAC AAA AGC CTC TC</p>
+                        <p>AAG TTT CCC ATG TGG CTG AC</p>
+                     </c>
+                     <c ca="left">
+                        <p>232</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p><it>GFAP</it></p>
+                     </c>
+                     <c ca="left">
+                        <p><ext-link ext-link-type="gen" ext-link-id="NM_001131019">NM_001131019</ext-link></p>
+                     </c>
+                     <c ca="left">
+                        <p>GCA GAT TCG AGG GGG CAA AA</p>
+                        <p>GAA CTC AGG GGG ATT GGG AG</p>
+                     </c>
+                     <c ca="left">
+                        <p>221</p>
+                     </c>
+                  </r>
+                  <r>
+                     <c ca="left">
+                        <p><it>GAPDH</it></p>
+                     </c>
+                     <c ca="left">
+                        <p><ext-link ext-link-type="gen" ext-link-id="NM_002046">NM_002046</ext-link></p>
+                     </c>
+                     <c ca="left">
+                        <p>CAA GGC TGA GAA CGG GAA GC</p>
+                        <p>AGG GGG CAG AGA TGA TGA CC</p>
+                     </c>
+                     <c ca="left">
+                        <p>194</p>
+                     </c>
+                  </r>
+               </tblbdy>
+            </tbl>
+         </sec>
+      </sec>
+      <sec>
+         <st>
+            <p>Results</p>
+         </st>
+         <sec>
+            <st>
+               <p>Generation of transgene-free SCAP iPSCs</p>
+            </st>
+            <p>Primary human SCAP showing typical fibroblast morphology were transduced with lentiviral vectors hSTEMCCA (Figure <figr fid="F1">1A</figr>) and seeded onto MEFs. Within one to two weeks after transduction, ESC-like colonies emerged on MEFs (Figure <figr fid="F1">1B</figr>). The rate of formation of ESC-like clones was 0.11% &#177; 0.01 (% number of ESC-like colonies/number of seeded transduced cells) based on four independent experiments using SCAP from two different donors.</p>
+            <fig id="F1">
+               <title>
+                  <p>Figure 1</p>
+               </title>
+               <caption>
+                  <p>Generation of transgene-free SCAP iPSCs</p>
+               </caption>
+               <text>
+                  <p><b>Generation of transgene-free SCAP iPSCs</b>. (<b>A</b>) Schematic representation of the hSTEMCCA-loxP lentiviral vector integrated into the human cell genome (h-genome) after transduction of SCAP. A loxP site was introduced within the U3 region of the 3' LTR. Following the exposure of pHAGE2-Cre-IRES-PuroR plasmid, the entire cassette was excised. (<b>B</b>) Emergence of SCAP iPSCs during reprogramming. (B-a) SCAP at passage (p) 0 before transduction. (B-b) SCAP at p3 were transduced with hSTEMCCA-loxP lentiviral vector and seeded onto MEF. A small ESC-like colony emerged on day nine post transduction. (B-c) A SCAP ESC-like colony on day 28 post transduction on MEFs. The ESC-like colony is considered at p0. (scale bar: 500 &#956;m). (<b>C</b>) Excision of hSTEMCCA. (C-a) Established SCAP iPSC colonies at p2 before transgene excision. (C-b) After pHAGE2-Cre-IRES-PuroR plasmid transfection and 48 hours of pluromycin treatment, most SCAP iPSC colonies died out leaving behind an empty space (arrow). (C-c) New colonies (arrow) emerged on day 1 after Cre-excision and puromycin selection. (C-d) Expanded SCAP iPSC colonies passaged twice after Cre-excision. (scale bar: 500 &#956;m). (<b>D</b>) Excision of hSTEMCCA was verified by RT-PCR. Clones after cre-excision showed no detectable hSTEMCCA. <it>GAPDH </it>served as a control. (<b>E</b>) A clone of TF-SCAP iPSCs grown on DR4 MEFs was treated with puromycin (1.2 &#956;g/mL) for up to a week. (Ea) Before the addition of puromycin. (Eb) On day 2 after the addition of puromycin. (Ec) On day 4 after puromycin treatment. (scale bar: 250 &#956;m). ESC, embryonic stem cells; iPSCs, induced pluripotent stem cells; MEF, mouse embryonic fibroblasts; SCAP, stem cells from apical papilla.</p>
+               </text>
+               <graphic file="scrt134-1" hint_layout="double"/>
+            </fig>
+            <p>Before transfection of Cre-IRES-PuroR plasmids, SCAP iPSCs showed typical hESC morphologies. After transfection and 48 hours of puromycin treatment, most of the colonies underwent cell death. Within two to four days of recovery, newly emerging colonies were observed around the margin of the original colonies, as indicated in Figure <figr fid="F1">1C</figr>. The PCR results demonstrated the deletion of hSTEMCCA vector. In three repeated experiments, using SCAP iPSCs from different clones, 100% deletion of hSTEMCCA vector was found in these newly emerged subclones (Figure <figr fid="F1">1D</figr>).</p>
+            <p>To determine whether there was integration of pHAGE2-Cre-IRES-PuroR plasmid DNA into the genome of TF-SCAP iPSCs, these cells were grown on DR4 MEFs in the presence of puromycin (1.2 &#956;g/mL) for up to a week. On day two after the addition of puromycin, TF-SCAP iPSCs underwent cell death leaving behind an empty space in the DR4 MEF cultures (Figure <figr fid="F1">1E</figr>). No new iPSC colonies emerged after seven days of observation, indicating that TF-SCAP iPSCs contained no pHAGE2-Cre-IRES-PuroR plasmid DNA in their genome.</p>
+         </sec>
+         <sec>
+            <st>
+               <p>Protein expression of hESC associated gene markers</p>
+            </st>
+            <p>Following Cre-mediated transgene excision, we assessed the expression of hESC-associated genes. Immunocytofluorescence analysis indicated that SCAP iPSCs expressed TRA-1-60, TRA-2-49, and OCT4 before and after excision of hSTEMCCA, as shown in Figure <figr fid="F2">2</figr>.</p>
+            <fig id="F2">
+               <title>
+                  <p>Figure 2</p>
+               </title>
+               <caption>
+                  <p>Expression pluripotency markers by SCAP iPSCs <it>in vitro</it></p>
+               </caption>
+               <text>
+                  <p><b>Expression pluripotency markers by SCAP iPSCs <it>in vitro</it></b>. Embryonic stem cell-associated genes TRA-1-60, TRA-2-49 and OCT4 expressed by SCAP iPSCs before and after Cre-excision. Before Cre: SCAP iPSC clone 1 at passage (p)15. After Cre: SCAP iPSC-Cre clone1 at p12. Expressed genes stained in red; DAPI, nuclear stain. (scale bar: 100 &#956;m for all staining images). DAPI, 4',6-diamidino-2-phenylindole; iPSCs, induced pluripotent stem cells; SCAP, stem cells from apical papilla.</p>
+               </text>
+               <graphic file="scrt134-2" hint_layout="double"/>
+            </fig>
+         </sec>
+         <sec>
+            <st>
+               <p>Teratoma formation</p>
+            </st>
+            <p>To test the pluripotency of TF-SCAP iPSCs <it>in vivo</it>, teratoma formation analysis was performed. As demonstrated in Figure <figr fid="F3">3</figr>, both SCAP iPSCs before and after hSTEMCCA excision formed teratomas in SCID mice. They developed into primitive tissues representing all three germ layers including neural tissues (ectoderm), cartilage and bone (mesoderm), and glandular or respiratory epithelial-like layers (endoderm). There were numerous ectodermal neuroepithelial-like tissues including pigmented retinal epithelium-like tissues as well as glandular structures. These teratoma histologic images presented in Figure <figr fid="F3">3</figr> are typical primitive tissues representing the three germ layers. Immunohistochemical staining to target specific germ layer markers is presented in Additional file <supplr sid="S1">1</supplr> describing the Materials and Methods and Additional file <supplr sid="S2">2</supplr>, Figure S1, showing the expression of the ectoderm marker &#946;III-tubulin, mesoderm marker &#945;-smooth muscle actin (&#945;SMA) and endoderm marker AFP in teratomas formed by our previously generated SHED iPSCs that carried Thomson's four factors <abbrgrp><abbr bid="B5">5</abbr></abbrgrp>. The immune-stained tissues shown in the Supplemental Figure <figr fid="F1">1</figr> in Additional file <supplr sid="S2">2</supplr>, especially those that represent endodermal (glandular) and ectodermal (neural) tissues, indicate that the teratoma tissues presented in Figure <figr fid="F3">3</figr> are typical tissues of the three germ layers.</p>
+            <fig id="F3">
+               <title>
+                  <p>Figure 3</p>
+               </title>
+               <caption>
+                  <p>Histological analysis of teratomas</p>
+               </caption>
+               <text>
+                  <p><b>Histological analysis of teratomas</b>. Images of removed teratomas from mice are shown on the left of the image panels. (<b>A</b>) Multi-differentiated tissues derived from SCAP iPSCs (passage (p)11) before Cre-excision. (<b>B</b>) Teratomas from SCAP iPSCs (p10) after Cre-excision. (A &amp; B) (a,b) mainly neural tissues, neural rosettes (ectoderm); (c) mainly cartilage (mesoderm); (d) bone tissue (mesoderm); (e,f) mainly glandular epithelium and endodermal tissues. (scale bar: 100 &#956;m for all histologic images. Except Bf, all histologic images use the scale bar in Ba). iPSCs, induced pluripotent stem cells; SCAP, stem cells from apical papilla.</p>
+               </text>
+               <graphic file="scrt134-3" hint_layout="double"/>
+            </fig>
+            <suppl id="S1">
+               <title>
+                  <p>Additional file 1</p>
+               </title>
+               <text>
+                  <p><b>Supplemental document: supplemental M&amp;M figure legend</b>.</p>
+               </text>
+               <file name="scrt134-S1.DOCX">
+                  <p>Click here for file</p>
+               </file>
+            </suppl>
+            <suppl id="S2">
+               <title>
+                  <p>Additional file 2</p>
+               </title>
+               <text>
+                  <p><b>Figure S1</b>. Supplemental figure: Supplemental figure flat rev.</p>
+               </text>
+               <file name="scrt134-S2.TIFF">
+                  <p>Click here for file</p>
+               </file>
+            </suppl>
+         </sec>
+         <sec>
+            <st>
+               <p><it>In vitro </it>neural differentiation</p>
+            </st>
+            <p>The TF-SCAP iPSCs were tested for their neurogenic potential using an EB-mediated protocol. Under the stimulation of a neurogenic medium, cells from the EBs developed into neural rosette morphology. These neural rosettes formed in cultures highly resembling those neural tissues formed in teratomas. Neural tube-like structures consisting of columnar cells aligned as palisades, that also frequently appeared in teratomas (Figure <figr fid="F3">3B</figr>-a,b; Figure <figr fid="F4">4A</figr>-b,c), were observed. At a higher magnification, individual cells with elongated cellular processes similar to axon structures could be identified (Figure <figr fid="F4">4A</figr>-d). To determine whether these cells that morphologically resembled neuronal cells expressed neuronal genes, cells were stained with the neural stem cell marker nestin, early stage neuronal marker &#946;III-tubulin and mature stage neuronal marker NFM. As shown in Figure <figr fid="F4">4B</figr>, the neural rosettes or some cell aggregates were positive for nestin or NFM, and the elongated cytoplasmic processes were positive for &#946;III-tubulin, indicating the neurogenic potential of TF-SCAP iPSCs.</p>
+            <fig id="F4">
+               <title>
+                  <p>Figure 4</p>
+               </title>
+               <caption>
+                  <p>EB-mediated neural differentiation of TF-SCAP iPSCs <it>in vitro</it></p>
+               </caption>
+               <text>
+                  <p><b>EB-mediated neural differentiation of TF-SCAP iPSCs <it>in vitro</it></b>. (<b>A</b>-a to Ad) Four-day-old EBs were plated into Matrigel-coated wells of six-well plates. On day 8 after neurogenic stimulus, differentiated iPSCs developed into neural rosette morphology. Some cells extended elongated cell cytoplasmic processes resembling axons. (scale bar: 100 &#956;m for all images in A) (<b>B</b>) Immunofluorescence analysis of differentiated neural-like cells showing positive staining of neuronal marker &#946;III-tubulin (TUJ1). Cells forming a neural rosette or spherical morphology were also positive for nestin and NFM. Expressed genes stained in red; DAPI, nuclear stain. (scale bar: 100 &#956;m). DAPI, 4',6-diamidino-2-phenylindole; EB, embryoid body; iPSCs, induced pluripotent stem cells; SCAP, stem cells from apical papilla; TF, transgene free.</p>
+               </text>
+               <graphic file="scrt134-4" hint_layout="double"/>
+            </fig>
+            <p>We determined a number of neural markers with RT-PCR. We first passaged iPSCs into MEF-free Matrigel plates before undergoing EB formation to avoid MEF contamination. We tested the RT-PCR using MEF RNA and found that some human neural gene primers can amplify mouse genes. Using MEF-free cultures eliminated/reduced such possibilities. The results presented in Figure <figr fid="F5">5</figr> show that several neuron associated genes, <it>&#946;III-tubulin, NFM and NSE </it>were already expressed in SCAP without neurogenic induction. After reprogramming into iPSCs, these genes remain expressed and their levels did not appear to have a noticeable increase. <it>NeuN </it>was not detected in SCAP while it dramatically increased after becoming iPSCs with or without neurogenic induction. <it>Nestin </it>was barely detectable in SCAP while its expression increased after becoming iPSCs and remained detectable after neurogenic induction. Glutamate receptors glutamate receptor, metabotropic 1 (<it>GRM1</it>) and glutamate receptor, ionotropic, N-methyl D-aspartate 1 (<it>NR1-1</it>) could not be detected in SCAP but were detectable after becoming iPSCs. <it>GRM1 </it>was expressed in iPSCs with or without neurogenic induction and <it>NR1-1 </it>was only detectable after induction. The glia cell marker genes <it>CNPase </it>and glial fibrillary acidic protein <it>(GFAP) </it>are regulated differently in SCAP and SCAP iPSCs. <it>CNPase</it>, as the oligodendrocyte marker, was slightly expressed in SCAP and the level became elevated when turning into iPSCs. The expression level appeared to further increase slightly after neurogenic induction. <it>GFAP</it>, the astrocyte marker, on the other hand, was not detected in SCAP and SCAP iPSCs (with or without induction).</p>
+            <fig id="F5">
+               <title>
+                  <p>Figure 5</p>
+               </title>
+               <caption>
+                  <p>RT-PCR analysis of the expression of neural markers</p>
+               </caption>
+               <text>
+                  <p><b>RT-PCR analysis of the expression of neural markers</b>. The neurogenic induction followed the same method as that for samples shown in Figure 4. The SCAP are the original cells from which TF-SCAP iPSCs were derived. <it>GAPDH </it>was used to ensure equal loading of the samples. (+), presence of neurogenic induction medium; (-), regular culture medium without neurogenic induction. iPSCs, induced pluripotent stem cells; SCAP, stem cells from apical papilla; TF, transgene free.</p>
+               </text>
+               <graphic file="scrt134-5" hint_layout="double"/>
+            </fig>
+         </sec>
+      </sec>
+      <sec>
+         <st>
+            <p>Discussion</p>
+         </st>
+         <p>The present study demonstrated a successful generation of TF-SCAP iPSCs characteristic of typical iPSCs capable of teratoma formation and neurogenic differentiation. Using the polycistronic hSTEMCCA-loxP vector carrying all four reprogramming genes, we were able to consistently reprogram SCAP into iPSCs and remove the transgene/vector with a Cre-mediated approach.</p>
+         <p>We previously generated iPSCs from dental stem cells including SCAP using either the Thomson's four reprogramming factors (human) with the viral vector system pSin-EF2-gene-Pur each carrying one of the four factors <it>LIN28, NANOG, OCT4, and SOX2; </it>or the Yamanaka's four factors (human) <it>c-MYC, KLF4, OCT4 </it>and <it>SOX2 </it>each into the vector pMXs <abbrgrp><abbr bid="B5">5</abbr></abbrgrp>. While these dental iPSCs demonstrated typical iPSC characteristics including teratoma formation, they have unfavorable features when being guided into certain differentiation pathways. These transgene-carrying iPSCs (pSin-EF2-gene-Pur vector system) underwent massive cell death (data not shown) after differentiation toward MSC lineages using a reported protocol established for deriving MSCs from hESCs <abbrgrp><abbr bid="B32">32</abbr></abbrgrp>. We used the same protocol to guide hESCs (H1 and H9) and were successful in generating MSC-like cells without witnessing any cell death phenomenon. Furthermore, the survival rate of these transgene-carrying dental iPSCs was extremely low after freezing and thawing. Most of the frozen-down dental iPSCs generated using the pSin-EF2-gene-Pur vector system did not survive after thawing. In contrast, TF-SCAP iPSCs were able to recover better after freezing/thawing and they were able to differentiate into MSC lineages without cell death (data not shown). Earlier when we attempted reprogramming dental stem cells using the pLenti6.2/C-Lumio/V5-DEST vector system containing a CMV promoter <abbrgrp><abbr bid="B5">5</abbr></abbrgrp>, we also observed cell death phenomenon. As we reported, this vector system never succeeded in generating iPSCs. Instead, it caused some cell death at the very beginning, and those cells that survived turned into iPSC-like cells and then underwent cell death also <abbrgrp><abbr bid="B6">6</abbr></abbrgrp>. It is possible that the hSTEMCCA-loxP vector is a good match for dental stem cell reprogramming.</p>
+         <p>The reprogramming rate using hSTEMCCA-loxP is higher than our previous attempts using pSin-EF2-gene-Pur vectors. Using hSTEMCCA-loxP, we also reprogrammed human foreskin fibroblasts (ATCC) and human gingival fibroblasts (from one donor) and the reprogramming rates were 0.016% and 0.07%, respectively, based on one experiment. Reprogramming human DPSCs in two independent experiments yielded us reprogramming rates of 0.6% and 0.083%. In our experimental settings either using pSin-EF2-gene-Pur vectors previously or hSTEMCCA-loxP in the present studies, dental stem cells have shown a higher reprogramming rate than fibroblasts. One condition that favors the reprogramming efficiency is the division rate of the cells being reprogrammed <abbrgrp><abbr bid="B33">33</abbr></abbrgrp>. The high proliferation rate of dental stem cells including SCAP and the polycistronic gene cassette hSTEMCCA-loxP vector offer a high reprogramming efficiency over existing multi-vector approaches for skin fibroblasts <abbrgrp><abbr bid="B33">33</abbr></abbrgrp>. It likely derives in part from favorable stoichiometry of the four reprogramming transcription factors when expressed in this particular order by a polycistronic system <abbrgrp><abbr bid="B15">15</abbr></abbrgrp>.</p>
+         <p>Following the generation of SCAP iPSCs <it>via </it>hSTEMCCA-loxP, we applied a plasmid expressing Cre to excise the reprogramming transgenes. Deletion of the hSTEMCCA was found in 100% of these clones, indicating that Cre-mediated excision was very effective. Additional transfection of plasmids carrying Cre does not lead to integration of the plasmid into the genome, verified by the observation that puromycin treatment of the TF iPSC clones led to total cell death. It should be noted, however, that an inactive fragment of the viral long terminal repeat (LTR) remains in the host genome after Cre-excision. Although highly unlikely, there may theoretically be a risk of insertional mutagenesis. This could be reduced by targeting the hSTEMCCA into a safe genomic locus <abbrgrp><abbr bid="B30">30</abbr></abbrgrp>. Further investigation would be needed to find approaches which would obtain not only transgene-free and completely vector-free iPSCs, but also maintain a high reprogramming rate in order to utilize iPSCs for clinical applications.</p>
+         <p>The SCAP iPSCs maintained their pluripotency after Cre-excision as indicated by the <it>in vitro </it>expression of ESC-associated gene markers and the teratoma formation which is consistent with previous studies <abbrgrp><abbr bid="B30">30</abbr></abbrgrp>. TF-SCAP iPSCs have been in continuous culture for six months after the initial transduction and maintain a morphology that is similar to hESCs. The iPSCs from different cell types may be different in their abilities to undergo guided differentiation directions <abbrgrp><abbr bid="B34">34</abbr></abbrgrp>, and iPSCs were reported to retain a transcriptional memory of their tissue of origin <abbrgrp><abbr bid="B35">35</abbr></abbrgrp>. In addition, in our present study along with our reported work <abbrgrp><abbr bid="B5">5</abbr></abbrgrp>, there were numerous neuroepithelial-like tissues in teratomas derived from both TF-SCAP iPSCs and SCAP iPSCs, suggesting that iPSCs from SCAP may have robust potential to differentiate into neural tissues. Our <it>in vitro </it>neural differentiation studies indicated that TF-SCAP iPSCs can be guided to form neural-like cells and express neural genes. It is interesting to find that the expression of <it>&#946;III-tubulin, NFM, NSE and NeuN </it>was already detectable at considerable levels at the pluripotent state before neurogenic stimulus and there was no noticeable increase after stimulation (at best, <it>NFM </it>had a slight increase). The oligodendrocyte marker <it>CNPase </it>was also detected in uninduced SCAP and its expression was increased in SCAP iPSCs and further elevated after induction. Dental stem cells including DPSCs and SCAP express neural markers such as nestin and &#946;III-tubulin in cultures without neurogenic stimulus <abbrgrp><abbr bid="B36">36</abbr><abbr bid="B37">37</abbr></abbrgrp>. It may be that this gene expressing signature is retained after being reprogrammed into iPSCs; however, it will be a major undertaking to verify such a possibility. Although the two glutamate receptors <it>GRM1 </it>and <it>NR1-1 </it>that function at synapses to transmit neural signals were not expressed in SCAP, they can be detected after being reprogrammed into iPSCs or after neurogenic induction. Taken together, our establishment of TF-SCAP iPSCs and the initial confirmation of their neurogenic potential using a simple neurogenic induction protocol warrant further exploration of their abilities in neurogenesis as well as neural tissue regeneration <it>in vivo</it>.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Conclusions</p>
+         </st>
+         <p>TF-iPSCs SCAP can be effectively and consistently generated using the hSTEMCCA-loxP vector system followed by Cre-mediated excision. These TF iPSCs maintain ESC characteristics and can differentiate into neural-like cells expressing neural marker genes <it>in vitro</it>. Further investigation will test whether they are a good cell source for <it>in </it><it>vivo </it>neural tissue regeneration.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Abbreviations</p>
+         </st>
+         <p>bFGF: basic fibroblast growth factor; BSA: bovine serum albumin; CFU-F: colony formation units of fibroblastic cells; CNPase: 2', 3'-cyclic nucleotide-3'-phosphodiesterase; (D)MEM: (Dulbecco's) modified Eagle's medium; DPSCs: dental pulp stem cells; EBs: embryoid bodies; ESCs: embryonic stem cells; FBS: fetal bovine serum; GAD: glutamic acid decarboxylase; GFAP: glial fibrillary acidic protein; GRM1: glutamate receptor: metabotropic 1; H &amp; E: hematoxylin and eosin; hESC: human embryonic stem cell; hSTEMCCA-loxP: (human) a single lentiviral 'stem cell cassette' flanked by loxP site; iPSCs: induced pluripotent stem cells; LTR: long terminal repeat; MEFs: mouse embryonic fibroblasts; MSC: mesenchymal stem cell; NeuN: neuronal nuclei; NFM: neurofilament medium chain; NR1-1: glutamate receptor, ionotropic, N-methyl D-aspartate 1; NSE: neuron-specific enolase; RT-PCR: reverse transcriptase - polymerase chain reaction; SCAP: stem cells of apical papilla; SHED: stem cells from human exfoliated deciduous teeth; TF-iPSCs: transgene-free iPSCs; TU: transducing unit.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Competing interests</p>
+         </st>
+         <p>The authors declare that they have no competing interests.</p>
+      </sec>
+      <sec>
+         <st>
+            <p>Authors' contributions</p>
+         </st>
+         <p>XYZ designed and performed the experimental work, acquired and assembled the data, and prepared the manuscript. HYY, ZY, XY and XBT performed the experimental work and assembled data. GTJH conceived, designed and supervised the overall project, analyzed and interpreted the data and finalized the manuscript. All authors have read and approved the manuscript for publication.</p>
+      </sec>
+   </bdy>
+   <bm>
+      <ack>
+         <sec>
+            <st>
+               <p>Acknowledgements</p>
+            </st>
+            <p>The authors wish to thank Dr. Darrell N. Kotton and his associate Dr. Jyh-Chang Jean (Pulmonary Center and Department of Medicine, Boston University, Boston, MA) for their assistance with reprogramming methods. This work was supported in part by a grant from the National Institutes of Health R01 DE019156 (G.T.-J.H.) and a research fund from Boston University School of Dental Medicine (G.T.-J.H.).</p>
+         </sec>
+      </ack>
+      <refgrp>
+         <bibl id="B1">
+            <title>
+               <p>Mesenchymal stem cell-mediated functional tooth regeneration in swine</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Sonoyama</snm>
+                  <fnm>W</fnm>
+               </au>
+               <au>
+                  <snm>Liu</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Fang</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Yamaza</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Seo</snm>
+                  <fnm>BM</fnm>
+               </au>
+               <au>
+                  <snm>Zhang</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Liu</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Gronthos</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Wang</snm>
+                  <fnm>CY</fnm>
+               </au>
+               <au>
+                  <snm>Wang</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Shi</snm>
+                  <fnm>S</fnm>
+               </au>
+            </aug>
+            <source>PLoS One</source>
+            <pubdate>2006</pubdate>
+            <volume>1</volume>
+            <fpage>e79</fpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1371/journal.pone.0000079</pubid>
+                  <pubid idtype="pmcid">1762318</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17183711</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B2">
+            <title>
+               <p>Characterization of the apical papilla and its residing stem cells from human immature permanent teeth: a pilot study</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Sonoyama</snm>
+                  <fnm>W</fnm>
+               </au>
+               <au>
+                  <snm>Liu</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Yamaza</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Tuan</snm>
+                  <fnm>RS</fnm>
+               </au>
+               <au>
+                  <snm>Wang</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Shi</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Huang</snm>
+                  <fnm>GT</fnm>
+               </au>
+            </aug>
+            <source>J Endod</source>
+            <pubdate>2008</pubdate>
+            <volume>34</volume>
+            <fpage>166</fpage>
+            <lpage>171</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.joen.2007.11.021</pubid>
+                  <pubid idtype="pmcid">2714367</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18215674</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B3">
+            <title>
+               <p>Mesenchymal stem cells derived from dental tissues vs. those from other sources: their biology and role in regenerative medicine</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Huang</snm>
+                  <fnm>GT</fnm>
+               </au>
+               <au>
+                  <snm>Gronthos</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Shi</snm>
+                  <fnm>S</fnm>
+               </au>
+            </aug>
+            <source>J Dent Res</source>
+            <pubdate>2009</pubdate>
+            <volume>88</volume>
+            <fpage>792</fpage>
+            <lpage>806</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1177/0022034509340867</pubid>
+                  <pubid idtype="pmcid">2830488,2830488</pubid>
+                  <pubid idtype="pmpid" link="fulltext">19767575</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B4">
+            <title>
+               <p>Stem/progenitor cell-mediated de novo regeneration of dental pulp with newly deposited continuous layer of dentin in an in vivo model</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Huang</snm>
+                  <fnm>GT</fnm>
+               </au>
+               <au>
+                  <snm>Yamaza</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Shea</snm>
+                  <fnm>LD</fnm>
+               </au>
+               <au>
+                  <snm>Djouad</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Kuhn</snm>
+                  <fnm>NZ</fnm>
+               </au>
+               <au>
+                  <snm>Tuan</snm>
+                  <fnm>RS</fnm>
+               </au>
+               <au>
+                  <snm>Shi</snm>
+                  <fnm>S</fnm>
+               </au>
+            </aug>
+            <source>Tissue Eng Part A</source>
+            <pubdate>2010</pubdate>
+            <volume>16</volume>
+            <fpage>605</fpage>
+            <lpage>615</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1089/ten.tea.2009.0518</pubid>
+                  <pubid idtype="pmcid">2813150</pubid>
+                  <pubid idtype="pmpid" link="fulltext">19737072</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B5">
+            <title>
+               <p>iPS cells reprogrammed from human mesenchymal-like stem/progenitor cells of dental tissue origin</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Yan</snm>
+                  <fnm>X</fnm>
+               </au>
+               <au>
+                  <snm>Qin</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Qu</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Tuan</snm>
+                  <fnm>RS</fnm>
+               </au>
+               <au>
+                  <snm>Shi</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Huang</snm>
+                  <fnm>GT</fnm>
+               </au>
+            </aug>
+            <source>Stem Cells Dev</source>
+            <pubdate>2010</pubdate>
+            <volume>19</volume>
+            <fpage>469</fpage>
+            <lpage>480</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1089/scd.2009.0314</pubid>
+                  <pubid idtype="pmcid">2851830,2851830</pubid>
+                  <pubid idtype="pmpid" link="fulltext">19795982</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B6">
+            <title>
+               <p>Induced pluripotent stem cells-a new foundation in medicine</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Huang</snm>
+                  <fnm>GT</fnm>
+               </au>
+            </aug>
+            <source>J Exp Clin Med</source>
+            <pubdate>2010</pubdate>
+            <volume>2</volume>
+            <fpage>202</fpage>
+            <lpage>217</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/S1878-3317(10)60033-2</pubid>
+                  <pubid idtype="pmcid">3298413</pubid>
+                  <pubid idtype="pmpid">22408700</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B7">
+            <title>
+               <p>The promise of human induced pluripotent stem cells for research and therapy</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Nishikawa</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Goldstein</snm>
+                  <fnm>RA</fnm>
+               </au>
+               <au>
+                  <snm>Nierras</snm>
+                  <fnm>CR</fnm>
+               </au>
+            </aug>
+            <source>Nat Rev Mol Cell Biol</source>
+            <pubdate>2008</pubdate>
+            <volume>9</volume>
+            <fpage>725</fpage>
+            <lpage>729</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/nrm2466</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18698329</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B8">
+            <title>
+               <p>Induction of pluripotent stem cells from mouse embryonic and adult fibroblast cultures by defined factors</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Takahashi</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Yamanaka</snm>
+                  <fnm>S</fnm>
+               </au>
+            </aug>
+            <source>Cell</source>
+            <pubdate>2006</pubdate>
+            <volume>126</volume>
+            <fpage>663</fpage>
+            <lpage>676</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.cell.2006.07.024</pubid>
+                  <pubid idtype="pmpid" link="fulltext">16904174</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B9">
+            <title>
+               <p>Induction of pluripotent stem cells from adult human fibroblasts by defined factors</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Takahashi</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Tanabe</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Ohnuki</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Narita</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Ichisaka</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Tomoda</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Yamanaka</snm>
+                  <fnm>S</fnm>
+               </au>
+            </aug>
+            <source>Cell</source>
+            <pubdate>2007</pubdate>
+            <volume>131</volume>
+            <fpage>861</fpage>
+            <lpage>872</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.cell.2007.11.019</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18035408</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B10">
+            <title>
+               <p>Parkinson's disease patient-derived induced pluripotent stem cells free of viral reprogramming factors</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Soldner</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Hockemeyer</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Beard</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Gao</snm>
+                  <fnm>Q</fnm>
+               </au>
+               <au>
+                  <snm>Bell</snm>
+                  <fnm>GW</fnm>
+               </au>
+               <au>
+                  <snm>Cook</snm>
+                  <fnm>EG</fnm>
+               </au>
+               <au>
+                  <snm>Hargus</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Blak</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Cooper</snm>
+                  <fnm>O</fnm>
+               </au>
+               <au>
+                  <snm>Mitalipova</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Isacson</snm>
+                  <fnm>O</fnm>
+               </au>
+               <au>
+                  <snm>Jaenisch</snm>
+                  <fnm>R</fnm>
+               </au>
+            </aug>
+            <source>Cell</source>
+            <pubdate>2009</pubdate>
+            <volume>136</volume>
+            <fpage>964</fpage>
+            <lpage>977</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.cell.2009.02.013</pubid>
+                  <pubid idtype="pmcid">2787236</pubid>
+                  <pubid idtype="pmpid" link="fulltext">19269371</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B11">
+            <title>
+               <p>Hotspots of aberrant epigenomic reprogramming in human induced pluripotent stem cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Lister</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Pelizzola</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Kida</snm>
+                  <fnm>YS</fnm>
+               </au>
+               <au>
+                  <snm>Hawkins</snm>
+                  <fnm>RD</fnm>
+               </au>
+               <au>
+                  <snm>Nery</snm>
+                  <fnm>JR</fnm>
+               </au>
+               <au>
+                  <snm>Hon</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Antosiewicz-Bourget</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>O'Malley</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Castanon</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Klugman</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Downes</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Yu</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Stewart</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Ren</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>Thomson</snm>
+                  <fnm>JA</fnm>
+               </au>
+               <au>
+                  <snm>Evans</snm>
+                  <fnm>RM</fnm>
+               </au>
+               <au>
+                  <snm>Ecker</snm>
+                  <fnm>JR</fnm>
+               </au>
+            </aug>
+            <source>Nature</source>
+            <pubdate>2011</pubdate>
+            <volume>471</volume>
+            <fpage>68</fpage>
+            <lpage>73</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/nature09798</pubid>
+                  <pubid idtype="pmcid">3100360</pubid>
+                  <pubid idtype="pmpid" link="fulltext">21289626</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B12">
+            <title>
+               <p>Induced pluripotent stem cell lines derived from human somatic cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Yu</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Vodyanik</snm>
+                  <fnm>MA</fnm>
+               </au>
+               <au>
+                  <snm>Smuga-Otto</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Antosiewicz-Bourget</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Frane</snm>
+                  <fnm>JL</fnm>
+               </au>
+               <au>
+                  <snm>Tian</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Nie</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Jonsdottir</snm>
+                  <fnm>GA</fnm>
+               </au>
+               <au>
+                  <snm>Ruotti</snm>
+                  <fnm>V</fnm>
+               </au>
+               <au>
+                  <snm>Stewart</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Thomson</snm>
+                  <fnm>JA</fnm>
+               </au>
+            </aug>
+            <source>Science</source>
+            <pubdate>2007</pubdate>
+            <volume>318</volume>
+            <fpage>1917</fpage>
+            <lpage>1920</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1126/science.1151526</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18029452</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B13">
+            <title>
+               <p>The tumorigenicity of human embryonic and induced pluripotent stem cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Ben-David</snm>
+                  <fnm>U</fnm>
+               </au>
+               <au>
+                  <snm>Benvenisty</snm>
+                  <fnm>N</fnm>
+               </au>
+            </aug>
+            <source>Nat Rev Cancer</source>
+            <pubdate>2011</pubdate>
+            <volume>11</volume>
+            <fpage>268</fpage>
+            <lpage>277</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/nrc3034</pubid>
+                  <pubid idtype="pmpid" link="fulltext">21390058</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B14">
+            <title>
+               <p>Generation of germline-competent induced pluripotent stem cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Okita</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Ichisaka</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Yamanaka</snm>
+                  <fnm>S</fnm>
+               </au>
+            </aug>
+            <source>Nature</source>
+            <pubdate>2007</pubdate>
+            <volume>448</volume>
+            <fpage>313</fpage>
+            <lpage>317</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/nature05934</pubid>
+                  <pubid idtype="pmpid" link="fulltext">17554338</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B15">
+            <title>
+               <p>Generation of mouse induced pluripotent stem cells without viral vectors</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Okita</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Nakagawa</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Hyenjong</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Ichisaka</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Yamanaka</snm>
+                  <fnm>S</fnm>
+               </au>
+            </aug>
+            <source>Science</source>
+            <pubdate>2008</pubdate>
+            <volume>322</volume>
+            <fpage>949</fpage>
+            <lpage>953</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1126/science.1164270</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18845712</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B16">
+            <title>
+               <p>Ectopic expression of Oct-4 blocks progenitor-cell differentiation and causes dysplasia in epithelial tissues</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Hochedlinger</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Yamada</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Beard</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Jaenisch</snm>
+                  <fnm>R</fnm>
+               </au>
+            </aug>
+            <source>Cell</source>
+            <pubdate>2005</pubdate>
+            <volume>121</volume>
+            <fpage>465</fpage>
+            <lpage>477</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.cell.2005.02.018</pubid>
+                  <pubid idtype="pmpid" link="fulltext">15882627</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B17">
+            <title>
+               <p>Induced pluripotent stem cells generated without viral integration</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Stadtfeld</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Nagaya</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Utikal</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Weir</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Hochedlinger</snm>
+                  <fnm>K</fnm>
+               </au>
+            </aug>
+            <source>Science</source>
+            <pubdate>2008</pubdate>
+            <volume>322</volume>
+            <fpage>945</fpage>
+            <lpage>949</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1126/science.1162494</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18818365</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B18">
+            <title>
+               <p>Generation of mouse-induced pluripotent stem cells by transient expression of a single nonviral polycistronic vector</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Gonzalez</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Barragan Monasterio</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Tiscornia</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Montserrat Pulido</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Vassena</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Batlle Morera</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Rodriguez Piza</snm>
+                  <fnm>I</fnm>
+               </au>
+               <au>
+                  <snm>Izpisua Belmonte</snm>
+                  <fnm>JC</fnm>
+               </au>
+            </aug>
+            <source>Proc Natl Acad Sci USA</source>
+            <pubdate>2009</pubdate>
+            <volume>106</volume>
+            <fpage>8918</fpage>
+            <lpage>8922</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1073/pnas.0901471106</pubid>
+                  <pubid idtype="pmcid">2690033</pubid>
+                  <pubid idtype="pmpid" link="fulltext">19458047</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B19">
+            <title>
+               <p>Transgene-free production of pluripotent stem cells using piggyBac transposons</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Woltjen</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Hamalainen</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Kibschull</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Mileikovsky</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Nagy</snm>
+                  <fnm>A</fnm>
+               </au>
+            </aug>
+            <source>Methods Mol Biol</source>
+            <pubdate>2011</pubdate>
+            <volume>767</volume>
+            <fpage>87</fpage>
+            <lpage>103</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1007/978-1-61779-201-4_7</pubid>
+                  <pubid idtype="pmpid" link="fulltext">21822869</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B20">
+            <title>
+               <p>piggyBac transposition reprograms fibroblasts to induced pluripotent stem cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Woltjen</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Michael</snm>
+                  <fnm>IP</fnm>
+               </au>
+               <au>
+                  <snm>Mohseni</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Desai</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Mileikovsky</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Hamalainen</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Cowling</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Wang</snm>
+                  <fnm>W</fnm>
+               </au>
+               <au>
+                  <snm>Liu</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Gertsenstein</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Kaji</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Sung</snm>
+                  <fnm>HK</fnm>
+               </au>
+               <au>
+                  <snm>Nagy</snm>
+                  <fnm>A</fnm>
+               </au>
+            </aug>
+            <source>Nature</source>
+            <pubdate>2009</pubdate>
+            <volume>458</volume>
+            <fpage>766</fpage>
+            <lpage>770</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/nature07863</pubid>
+                  <pubid idtype="pmpid" link="fulltext">19252478</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B21">
+            <title>
+               <p>A nonviral minicircle vector for deriving human iPS cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Jia</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Wilson</snm>
+                  <fnm>KD</fnm>
+               </au>
+               <au>
+                  <snm>Sun</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Gupta</snm>
+                  <fnm>DM</fnm>
+               </au>
+               <au>
+                  <snm>Huang</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Li</snm>
+                  <fnm>Z</fnm>
+               </au>
+               <au>
+                  <snm>Panetta</snm>
+                  <fnm>NJ</fnm>
+               </au>
+               <au>
+                  <snm>Chen</snm>
+                  <fnm>ZY</fnm>
+               </au>
+               <au>
+                  <snm>Robbins</snm>
+                  <fnm>RC</fnm>
+               </au>
+               <au>
+                  <snm>Kay</snm>
+                  <fnm>MA</fnm>
+               </au>
+               <au>
+                  <snm>Longaker</snm>
+                  <fnm>MT</fnm>
+               </au>
+               <au>
+                  <snm>Wu</snm>
+                  <fnm>JC</fnm>
+               </au>
+            </aug>
+            <source>Nat Methods</source>
+            <pubdate>2010</pubdate>
+            <volume>7</volume>
+            <fpage>197</fpage>
+            <lpage>199</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/nmeth.1426</pubid>
+                  <pubid idtype="pmcid">2892897</pubid>
+                  <pubid idtype="pmpid" link="fulltext">20139967</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B22">
+            <title>
+               <p>Human induced pluripotent stem cells free of vector and transgene sequences</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Yu</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Hu</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Smuga-Otto</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Tian</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Stewart</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Thomson</snm>
+                  <fnm>JA</fnm>
+               </au>
+            </aug>
+            <source>Science</source>
+            <pubdate>2009</pubdate>
+            <volume>324</volume>
+            <fpage>797</fpage>
+            <lpage>801</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1126/science.1172482</pubid>
+                  <pubid idtype="pmcid">2758053</pubid>
+                  <pubid idtype="pmpid" link="fulltext">19325077</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B23">
+            <title>
+               <p>A more efficient method to generate integration-free human iPS cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Okita</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Matsumura</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Sato</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Okada</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Morizane</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Okamoto</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Hong</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Nakagawa</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Tanabe</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Tezuka</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Shibata</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Kunisada</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Takahashi</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Takahashi</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Saji</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Yamanaka</snm>
+                  <fnm>S</fnm>
+               </au>
+            </aug>
+            <source>Nat Methods</source>
+            <pubdate>2011</pubdate>
+            <volume>8</volume>
+            <fpage>409</fpage>
+            <lpage>412</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/nmeth.1591</pubid>
+                  <pubid idtype="pmpid" link="fulltext">21460823</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B24">
+            <title>
+               <p>Generation of induced pluripotent stem cells using recombinant proteins</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Zhou</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Wu</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Joo</snm>
+                  <fnm>JY</fnm>
+               </au>
+               <au>
+                  <snm>Zhu</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Han</snm>
+                  <fnm>DW</fnm>
+               </au>
+               <au>
+                  <snm>Lin</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Trauger</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Bien</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Yao</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Zhu</snm>
+                  <fnm>Y</fnm>
+               </au>
+               <au>
+                  <snm>Siuzdak</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Scholer</snm>
+                  <fnm>HR</fnm>
+               </au>
+               <au>
+                  <snm>Duan</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Ding</snm>
+                  <fnm>S</fnm>
+               </au>
+            </aug>
+            <source>Cell Stem Cell</source>
+            <pubdate>2009</pubdate>
+            <volume>4</volume>
+            <fpage>381</fpage>
+            <lpage>384</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.stem.2009.04.005</pubid>
+                  <pubid idtype="pmpid" link="fulltext">19398399</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B25">
+            <title>
+               <p>Generation of human induced pluripotent stem cells by direct delivery of reprogramming proteins</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Kim</snm>
+                  <fnm>D</fnm>
+               </au>
+               <au>
+                  <snm>Kim</snm>
+                  <fnm>CH</fnm>
+               </au>
+               <au>
+                  <snm>Moon</snm>
+                  <fnm>JI</fnm>
+               </au>
+               <au>
+                  <snm>Chung</snm>
+                  <fnm>YG</fnm>
+               </au>
+               <au>
+                  <snm>Chang</snm>
+                  <fnm>MY</fnm>
+               </au>
+               <au>
+                  <snm>Han</snm>
+                  <fnm>BS</fnm>
+               </au>
+               <au>
+                  <snm>Ko</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Yang</snm>
+                  <fnm>E</fnm>
+               </au>
+               <au>
+                  <snm>Cha</snm>
+                  <fnm>KY</fnm>
+               </au>
+               <au>
+                  <snm>Lanza</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Kim</snm>
+                  <fnm>KS</fnm>
+               </au>
+            </aug>
+            <source>Cell Stem Cell</source>
+            <pubdate>2009</pubdate>
+            <volume>4</volume>
+            <fpage>472</fpage>
+            <lpage>476</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.stem.2009.05.005</pubid>
+                  <pubid idtype="pmcid">2705327</pubid>
+                  <pubid idtype="pmpid" link="fulltext">19481515</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B26">
+            <title>
+               <p>Highly efficient reprogramming to pluripotency and directed differentiation of human cells with synthetic modified mRNA</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Warren</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Manos</snm>
+                  <fnm>PD</fnm>
+               </au>
+               <au>
+                  <snm>Ahfeldt</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Loh</snm>
+                  <fnm>YH</fnm>
+               </au>
+               <au>
+                  <snm>Li</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Lau</snm>
+                  <fnm>F</fnm>
+               </au>
+               <au>
+                  <snm>Ebina</snm>
+                  <fnm>W</fnm>
+               </au>
+               <au>
+                  <snm>Mandal</snm>
+                  <fnm>PK</fnm>
+               </au>
+               <au>
+                  <snm>Smith</snm>
+                  <fnm>ZD</fnm>
+               </au>
+               <au>
+                  <snm>Meissner</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Daley</snm>
+                  <fnm>GQ</fnm>
+               </au>
+               <au>
+                  <snm>Brack</snm>
+                  <fnm>AS</fnm>
+               </au>
+               <au>
+                  <snm>Collins</snm>
+                  <fnm>JJ</fnm>
+               </au>
+               <au>
+                  <snm>Cowan</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Schlaeger</snm>
+                  <fnm>TM</fnm>
+               </au>
+               <au>
+                  <snm>Rossi</snm>
+                  <fnm>DJ</fnm>
+               </au>
+            </aug>
+            <source>Cell Stem Cell</source>
+            <pubdate>2010</pubdate>
+            <volume>7</volume>
+            <fpage>618</fpage>
+            <lpage>630</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.stem.2010.08.012</pubid>
+                  <pubid idtype="pmpid" link="fulltext">20888316</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B27">
+            <title>
+               <p>Efficient generation of transgene-free human induced pluripotent stem cells (iPSCs) by temperature-sensitive Sendai virus vectors</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Ban</snm>
+                  <fnm>H</fnm>
+               </au>
+               <au>
+                  <snm>Nishishita</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Fusaki</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Tabata</snm>
+                  <fnm>T</fnm>
+               </au>
+               <au>
+                  <snm>Saeki</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Shikamura</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Takada</snm>
+                  <fnm>N</fnm>
+               </au>
+               <au>
+                  <snm>Inoue</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Hasegawa</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Kawamata</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Nishikawa</snm>
+                  <fnm>S</fnm>
+               </au>
+            </aug>
+            <source>Proc Natl Acad Sci USA</source>
+            <pubdate>2011</pubdate>
+            <volume>108</volume>
+            <fpage>14234</fpage>
+            <lpage>14239</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1073/pnas.1103509108</pubid>
+                  <pubid idtype="pmcid">3161531</pubid>
+                  <pubid idtype="pmpid" link="fulltext">21821793</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B28">
+            <title>
+               <p>Induced pluripotent stem cell generation using a single lentiviral stem cell cassette</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Sommer</snm>
+                  <fnm>CA</fnm>
+               </au>
+               <au>
+                  <snm>Stadtfeld</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Murphy</snm>
+                  <fnm>GJ</fnm>
+               </au>
+               <au>
+                  <snm>Hochedlinger</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Kotton</snm>
+                  <fnm>DN</fnm>
+               </au>
+               <au>
+                  <snm>Mostoslavsky</snm>
+                  <fnm>G</fnm>
+               </au>
+            </aug>
+            <source>Stem Cells</source>
+            <pubdate>2009</pubdate>
+            <volume>27</volume>
+            <fpage>543</fpage>
+            <lpage>549</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1634/stemcells.2008-1075</pubid>
+                  <pubid idtype="pmpid" link="fulltext">19096035</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B29">
+            <title>
+               <p>Excision of reprogramming transgenes improves the differentiation potential of iPS cells generated with a single excisable vector</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Sommer</snm>
+                  <fnm>CA</fnm>
+               </au>
+               <au>
+                  <snm>Sommer</snm>
+                  <fnm>AG</fnm>
+               </au>
+               <au>
+                  <snm>Longmire</snm>
+                  <fnm>TA</fnm>
+               </au>
+               <au>
+                  <snm>Christodoulou</snm>
+                  <fnm>C</fnm>
+               </au>
+               <au>
+                  <snm>Thomas</snm>
+                  <fnm>DD</fnm>
+               </au>
+               <au>
+                  <snm>Gostissa</snm>
+                  <fnm>M</fnm>
+               </au>
+               <au>
+                  <snm>Alt</snm>
+                  <fnm>FW</fnm>
+               </au>
+               <au>
+                  <snm>Murphy</snm>
+                  <fnm>GJ</fnm>
+               </au>
+               <au>
+                  <snm>Kotton</snm>
+                  <fnm>DN</fnm>
+               </au>
+               <au>
+                  <snm>Mostoslavsky</snm>
+                  <fnm>G</fnm>
+               </au>
+            </aug>
+            <source>Stem Cells</source>
+            <pubdate>2010</pubdate>
+            <volume>28</volume>
+            <fpage>64</fpage>
+            <lpage>74</lpage>
+            <xrefbib>
+               <pubid idtype="pmpid" link="fulltext">19904830</pubid>
+            </xrefbib>
+         </bibl>
+         <bibl id="B30">
+            <title>
+               <p>Generation of transgene-free lung disease-specific human induced pluripotent stem cells using a single excisable lentiviral stem cell cassette</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Somers</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Jean</snm>
+                  <fnm>JC</fnm>
+               </au>
+               <au>
+                  <snm>Sommer</snm>
+                  <fnm>CA</fnm>
+               </au>
+               <au>
+                  <snm>Omari</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Ford</snm>
+                  <fnm>CC</fnm>
+               </au>
+               <au>
+                  <snm>Mills</snm>
+                  <fnm>JA</fnm>
+               </au>
+               <au>
+                  <snm>Ying</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Sommer</snm>
+                  <fnm>AG</fnm>
+               </au>
+               <au>
+                  <snm>Jean</snm>
+                  <fnm>JM</fnm>
+               </au>
+               <au>
+                  <snm>Smith</snm>
+                  <fnm>BW</fnm>
+               </au>
+               <au>
+                  <snm>Lafyatis</snm>
+                  <fnm>R</fnm>
+               </au>
+               <au>
+                  <snm>Demierre</snm>
+                  <fnm>MF</fnm>
+               </au>
+               <au>
+                  <snm>Weiss</snm>
+                  <fnm>DJ</fnm>
+               </au>
+               <au>
+                  <snm>French</snm>
+                  <fnm>DL</fnm>
+               </au>
+               <au>
+                  <snm>Gadue</snm>
+                  <fnm>P</fnm>
+               </au>
+               <au>
+                  <snm>Murphy</snm>
+                  <fnm>GJ</fnm>
+               </au>
+               <au>
+                  <snm>Mostoslavsky</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Kotton</snm>
+                  <fnm>DN</fnm>
+               </au>
+            </aug>
+            <source>Stem Cells</source>
+            <pubdate>2010</pubdate>
+            <volume>28</volume>
+            <fpage>1728</fpage>
+            <lpage>1740</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1002/stem.495</pubid>
+                  <pubid idtype="pmcid">3422663</pubid>
+                  <pubid idtype="pmpid" link="fulltext">20715179</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B31">
+            <title>
+               <p>NIH standard protocol</p>
+            </title>
+            <url>http://stemcells.nih.gov/research/nihresearch/scunit/culture.asp</url>
+         </bibl>
+         <bibl id="B32">
+            <title>
+               <p>In vivo commitment and functional tissue regeneration using human embryonic stem cell-derived mesenchymal cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Hwang</snm>
+                  <fnm>NS</fnm>
+               </au>
+               <au>
+                  <snm>Varghese</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Lee</snm>
+                  <fnm>HJ</fnm>
+               </au>
+               <au>
+                  <snm>Zhang</snm>
+                  <fnm>Z</fnm>
+               </au>
+               <au>
+                  <snm>Ye</snm>
+                  <fnm>Z</fnm>
+               </au>
+               <au>
+                  <snm>Bae</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Cheng</snm>
+                  <fnm>L</fnm>
+               </au>
+               <au>
+                  <snm>Elisseeff</snm>
+                  <fnm>J</fnm>
+               </au>
+            </aug>
+            <source>Proc Natl Acad Sci USA</source>
+            <pubdate>2008</pubdate>
+            <volume>105</volume>
+            <fpage>20641</fpage>
+            <lpage>20646</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1073/pnas.0809680106</pubid>
+                  <pubid idtype="pmcid">2634917</pubid>
+                  <pubid idtype="pmpid" link="fulltext">19095799</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B33">
+            <title>
+               <p>Direct cell reprogramming is a stochastic process amenable to acceleration</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Hanna</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Saha</snm>
+                  <fnm>K</fnm>
+               </au>
+               <au>
+                  <snm>Pando</snm>
+                  <fnm>B</fnm>
+               </au>
+               <au>
+                  <snm>van Zon</snm>
+                  <fnm>J</fnm>
+               </au>
+               <au>
+                  <snm>Lengner</snm>
+                  <fnm>CJ</fnm>
+               </au>
+               <au>
+                  <snm>Creyghton</snm>
+                  <fnm>MP</fnm>
+               </au>
+               <au>
+                  <snm>van Oudenaarden</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Jaenisch</snm>
+                  <fnm>R</fnm>
+               </au>
+            </aug>
+            <source>Nature</source>
+            <pubdate>2009</pubdate>
+            <volume>462</volume>
+            <fpage>595</fpage>
+            <lpage>601</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/nature08592</pubid>
+                  <pubid idtype="pmcid">2789972</pubid>
+                  <pubid idtype="pmpid" link="fulltext">19898493</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B34">
+            <title>
+               <p>A fresh look at iPS cells</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Yamanaka</snm>
+                  <fnm>S</fnm>
+               </au>
+            </aug>
+            <source>Cell</source>
+            <pubdate>2009</pubdate>
+            <volume>137</volume>
+            <fpage>13</fpage>
+            <lpage>17</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1016/j.cell.2009.03.034</pubid>
+                  <pubid idtype="pmpid" link="fulltext">19345179</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B35">
+            <title>
+               <p>iPS cells forgive but do not forget</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Barrero</snm>
+                  <fnm>MJ</fnm>
+               </au>
+               <au>
+                  <snm>Izpisua Belmonte</snm>
+                  <fnm>JC</fnm>
+               </au>
+            </aug>
+            <source>Nat Cell Biol</source>
+            <pubdate>2011</pubdate>
+            <volume>13</volume>
+            <fpage>523</fpage>
+            <lpage>525</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1038/ncb0511-523</pubid>
+                  <pubid idtype="pmpid" link="fulltext">21540851</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B36">
+            <title>
+               <p>Adult human dental pulp stem cells differentiate toward functionally active neurons under appropriate environmental cues</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Arthur</snm>
+                  <fnm>A</fnm>
+               </au>
+               <au>
+                  <snm>Rychkov</snm>
+                  <fnm>G</fnm>
+               </au>
+               <au>
+                  <snm>Shi</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Koblar</snm>
+                  <fnm>SA</fnm>
+               </au>
+               <au>
+                  <snm>Gronthos</snm>
+                  <fnm>S</fnm>
+               </au>
+            </aug>
+            <source>Stem Cells</source>
+            <pubdate>2008</pubdate>
+            <volume>26</volume>
+            <fpage>1787</fpage>
+            <lpage>1795</lpage>
+            <xrefbib>
+               <pubidlist>
+                  <pubid idtype="doi">10.1634/stemcells.2007-0979</pubid>
+                  <pubid idtype="pmpid" link="fulltext">18499892</pubid>
+               </pubidlist>
+            </xrefbib>
+         </bibl>
+         <bibl id="B37">
+            <title>
+               <p>Multilineage cells from apical pulp of human tooth with immature apex</p>
+            </title>
+            <aug>
+               <au>
+                  <snm>Abe</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>Yamaguchi</snm>
+                  <fnm>S</fnm>
+               </au>
+               <au>
+                  <snm>and Amagasa</snm>
+                  <fnm>T</fnm>
+               </au>
+            </aug>
+            <source>Oral Sci Internatl</source>
+            <pubdate>2007</pubdate>
+            <volume>4</volume>
+            <fpage>45</fpage>
+            <lpage>48</lpage>
+            <xrefbib>
+               <pubid idtype="doi">10.1016/S1348-8643(07)80011-5</pubid>
+            </xrefbib>
+         </bibl>
+      </refgrp>
+   </bm>
+</art>

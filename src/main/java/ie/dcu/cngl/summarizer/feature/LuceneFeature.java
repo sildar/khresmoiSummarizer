@@ -217,6 +217,8 @@ public abstract class LuceneFeature extends Feature {
 		for (ScoreDoc scoreDoc : topDocs.scoreDocs) {
 			Document doc = searcher.doc(scoreDoc.doc);
 			String sentence = StringUtils.chomp(doc.get("text"));
+			System.out.println(sentence);
+			System.out.println(sentenceMap.size());
 			weights[sentenceMap.get(sentence)] = (double)scoreDoc.score;
 		}
 
