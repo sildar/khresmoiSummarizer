@@ -43,7 +43,7 @@ public class Test {
 			String currentText = "";
 
 			for (int j = 0; j < textnodes.getLength(); j++){
-				currentText += textnodes.item(j).getTextContent() + "\n";
+				currentText += textnodes.item(j).getTextContent() + "\n\n";
 			}
 			texts.add(i, currentText);
 			i++;

@@ -37,7 +37,7 @@ public class Paragrapher implements IParagrapher {
     	String newline = "\\r?\\n";
     	//a paragraph is set as two consecutive newlines
     	//which could be separated by any number of whitespaces
-    	paragraphs = new ArrayList<String>(Arrays.asList(s.split(newline+"\\s+"+newline)));
+    	paragraphs = new ArrayList<String>(Arrays.asList(s.split(newline+"\\s*"+newline)));
     	
     	return paragraphs;
     }
