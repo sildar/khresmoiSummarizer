@@ -28,7 +28,7 @@ public class Test {
 		ArrayList<String> texts = new ArrayList<String>();
 
 		for (final File fileEntry : folder.listFiles()) {
-			if (fileEntry.getName().compareToIgnoreCase("article.dtd") != 0){
+			if (fileEntry.getName().compareToIgnoreCase("article.dtd") != 0 && fileEntry.isFile()){
 				fileList.add(fileEntry.getAbsolutePath());
 			}
 		}

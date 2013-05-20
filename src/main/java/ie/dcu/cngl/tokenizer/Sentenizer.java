@@ -1,13 +1,12 @@
 package ie.dcu.cngl.tokenizer;
 
-import java.io.FileInputStream;
+import java.io.BufferedReader;
+import java.io.FileReader;
 import java.io.IOException;
-import java.io.InputStream;
 import java.util.ArrayList;
-import java.util.Arrays;
+import java.util.HashSet;
 
-import opennlp.tools.sentdetect.SentenceDetectorME;
-import opennlp.tools.sentdetect.SentenceModel;
+import org.apache.commons.lang.StringUtils;
 
 /**
  * Separates the tokenized content into sentences.
@@ -15,56 +14,170 @@ import opennlp.tools.sentdetect.SentenceModel;
  *
  */
 public class Sentenizer implements ISentenizer {
-	
+
 	private static Sentenizer instance;
-    private Tokenizer tokenizer = null;
-    private SentenceDetectorME sentenceDetector;
-    
-    private Sentenizer(Tokenizer tokenizer) {
-    	try{
-    	this.tokenizer = tokenizer;
-    	InputStream modelIn = new FileInputStream(this.getClass().getResource(TokenizerUtils.sentenceModelFile).getFile());
-    	SentenceModel model = new SentenceModel(modelIn);
-    	sentenceDetector = new SentenceDetectorME(model);
 
+	private HashSet<String> bss, pse, bse;
+	private Tokenizer tokenizer = null;
 
-    	}
-    	catch(IOException e){
-    		System.err.println("Impossible to read the model");
-    		e.printStackTrace();
-    	}
-    }
+	private Sentenizer(Tokenizer tokenizer) {
+		this.tokenizer = tokenizer;
+		String line;
+		bss = new HashSet<String>();
+		try {
+			BufferedReader reader = new BufferedReader(new FileReader(this.getClass().getResource(TokenizerUtils.badSentenceStart).getFile()));
+			while ((line = reader.readLine()) != null) {
+				if (line.equals(StringUtils.EMPTY) || line.startsWith(TokenizerUtils.COMMENT)) {
+					;
+				} else if (line.length() < 3) {
+					System.out.println("ERR: invalid line " + line);
+				} else {
+					// remove quotes
+					line = line.substring(1, line.length()-1);
+					bss.add(line.toLowerCase());
+				}
+			}
+			reader.close();
+		} catch (IOException e) {
+			System.out.println("ERROR: " + e);
+		}
 
-    /**
-     * Initializing a sentenizer is computationally expensive, so it exists as a singleton.
-     * @return Sentenizer singleton.
-     */
-    public static Sentenizer getInstance() {
-    	if(instance == null) {
-    		synchronized(Sentenizer.class) {
-	    		Tokenizer tokenizer = Tokenizer.getInstance();
-	    		instance = new Sentenizer(tokenizer);
-    		}
-    	}
-    	return instance;
-    }
+		pse = new HashSet<String>();
+		try {
+			BufferedReader reader = new BufferedReader(new FileReader(this.getClass().getResource(TokenizerUtils.possibleSentenceEnd).getFile()));
+			while (null != (line = reader.readLine())) {
+				if (line.equals(StringUtils.EMPTY) || line.startsWith(TokenizerUtils.COMMENT)) {
+					;
+				} else if (line.length() < 3) {
+					System.out.println("ERR: invalid line " + line);
+				} else {
+					// remove quotes
+					line = line.substring(1, line.length()-1);
+					pse.add(line.toLowerCase());
+				}
+			}
+			reader.close();
+		} catch (IOException e) {
+			System.out.println("ERROR: " + e);
+		}
 
+		bse = new HashSet<String>();
+		try {
+			BufferedReader reader = new BufferedReader(new FileReader(this.getClass().getResource(TokenizerUtils.badSentenceEnd).getFile()));
+			while (null != (line = reader.readLine())) {
+				if (line.equals(StringUtils.EMPTY) || line.startsWith(TokenizerUtils.COMMENT)) {
+					;
+				} else if (line.length() < 3) {
+					System.out.println("ERR: invalid line " + line);
+					;
+				} else {
+					// remove quotes
+					line = line.substring(1, line.length()-1);
+					bse.add(line.toLowerCase());
+				}
+			}
+			reader.close();
+		} catch (IOException e) {
+			System.out.println("ERROR: " + e);
+		}
+	}
 
-    /**
-     * Tokenize the content, and divide the tokens by sentence.
-     * @return A 2-dimensional array of each sentence and its tokens.
-     */  
-    public Paragraph sentenize(String s) {
-    	
-    	ArrayList<String> sentences = new ArrayList<String>(Arrays.asList(sentenceDetector.sentDetect(s)));
-    	Paragraph result = new Paragraph();
-    	
-    	for (String sentence : sentences){
-    		result.add(tokenizer.tokenize(sentence));
-    	}
-    	
-    	return result;
-    }
+	/**
+	 * Initializing a sentenizer is computationally expensive, so it exists as a singleton.
+	 * @return Sentenizer singleton.
+	 */
+	public static Sentenizer getInstance() {
+		if(instance == null) {
+			synchronized(Sentenizer.class) {
+				Tokenizer tokenizer = Tokenizer.getInstance();
+				instance = new Sentenizer(tokenizer);
+			}
+		}
+		return instance;
+	}
+
+	private boolean isBadSentenceStart(String s) {
+		return bss.contains(s);
+	}
+
+	private boolean isPossibleSentenceEnd(String s) {
+		return pse.contains(s);
+	}
+
+	private boolean isBadSentenceEnd(String s) {
+		return bse.contains(s);
+	}
+
+	/**
+	 * Tokenize the content, and divide the tokens by sentence.
+	 * @return A 2-dimensional array of each sentence and its tokens.
+	 */
+	public synchronized Paragraph sentenize(String s) {
+		ArrayList<TokenInfo> tokens = tokenizer.tokenize(s);
+		if (tokens == null)
+			return null;
+
+		int numTokens = tokens.size();
+		int tokenIndex = 0;
+		Sentence sentence = new Sentence();
+		Paragraph sentences = new Paragraph();
+		TokenInfo prevTokInfo = null, currentTokInfo = null, nextTokInfo = null;
+		String previousToken = StringUtils.EMPTY, currentToken = StringUtils.EMPTY, nextToken = StringUtils.EMPTY;
+		boolean inQuotes = false, isSentence = false;
+		while (tokenIndex < numTokens) {
+			//Update all token info
+			prevTokInfo = currentTokInfo;
+			currentTokInfo = nextTokInfo;
+			nextTokInfo = tokens.get(tokenIndex);
+
+			//Update token str values
+			previousToken = currentToken;
+			currentToken = nextToken;
+			nextToken = nextTokInfo.getValue();
+
+			if(currentTokInfo != null)
+				sentence.add(currentTokInfo);
+
+			if(numTokens == 1)
+				sentence.add(nextTokInfo);
+
+			if(currentTokInfo != null && currentTokInfo.getLineNum() < nextTokInfo.getLineNum() && nextTokInfo.getStart()-(currentTokInfo.getStart()+currentTokInfo.getLength()) > 1) {
+				isSentence = true;	//New line
+			} else if(currentToken.equals("\"")) {	//Opening quotes
+				//Starting quotes must follow a space. ([he said "hi there"] is allowed, [5'6"] is not)
+				if(inQuotes || prevTokInfo == null || (currentTokInfo != null && currentTokInfo.getStart() - (prevTokInfo.getStart() + prevTokInfo.getLength()) > 1)) {
+					inQuotes = !inQuotes;	//Switches between true and false
+				}
+				isSentence = false;
+			} else if(currentTokInfo != null && !isPossibleSentenceEnd(currentToken)) {
+				isSentence = false; // do not break if end token is not recognized
+			} else if(prevTokInfo != null && isBadSentenceEnd(previousToken)) {
+				isSentence = false; // do not break if last token would be bad sentence end
+			} else if(nextTokInfo != null && isBadSentenceStart(nextToken)) {
+				isSentence = false; // do not break if next token is bad sentence start
+			} else if(currentTokInfo != null && nextTokInfo != null && (currentTokInfo.getStart() + currentTokInfo.getLength() > nextTokInfo.getStart()-1)) {
+				isSentence = false; // only break after whitespace
+			} else if(currentTokInfo != null && Character.isLowerCase(nextToken.charAt(0))) {
+				isSentence = false; // don't break before lower cased next token
+			} else {
+				isSentence = true;
+			}
+
+			if(sentence.size() > 0 && currentToken != null && isSentence) {
+				if(!inQuotes) {
+					sentences.add(sentence);
+					sentence = new Sentence();
+				}
+			}
+			tokenIndex++;
+		}
+
+		if (sentence.size() > 0 && currentToken != null) {
+			sentence.add(nextTokInfo);
+			sentences.add(sentence);
+		}
+
+		return sentences;
+	}
 
 }
-

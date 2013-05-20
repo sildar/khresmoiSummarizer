@@ -43,7 +43,6 @@ public class PunctuationFeature extends Feature {
 		
 		for(TokenInfo token : tokens) {
 			if(token.getValue().matches("\\p{P}+")){
-				System.out.println(token.getValue());
 				numPunctuationTokens++;
 			}
 		}

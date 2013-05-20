@@ -9,7 +9,6 @@ public class Paragraph extends ArrayList<Sentence>{
 	}
 
 	public Paragraph() {
-		// TODO Auto-generated constructor stub
 	}
 
 	/**

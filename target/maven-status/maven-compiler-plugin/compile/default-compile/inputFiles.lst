@@ -2,8 +2,8 @@
 /home/sildar/programmation/interships/dcuSummarization/mySummarizer/src/main/java/ie/dcu/cngl/summarizer/feature/NamedEntityFeature.java
 /home/sildar/programmation/interships/dcuSummarization/mySummarizer/src/main/java/ie/dcu/cngl/summarizer/main/SerializingWeights.java
 /home/sildar/programmation/interships/dcuSummarization/mySummarizer/src/main/java/ie/dcu/cngl/tokenizer/PageStructure.java
-/home/sildar/programmation/interships/dcuSummarization/mySummarizer/src/main/java/ie/dcu/cngl/summarizer/feature/ClusterKeywordFeature.java
 /home/sildar/programmation/interships/dcuSummarization/mySummarizer/src/main/java/ie/dcu/cngl/summarizer/feature/BasicWordsFeature.java
+/home/sildar/programmation/interships/dcuSummarization/mySummarizer/src/main/java/ie/dcu/cngl/summarizer/feature/ClusterKeywordFeature.java
 /home/sildar/programmation/interships/dcuSummarization/mySummarizer/src/main/java/ie/dcu/cngl/tokenizer/Sentence.java
 /home/sildar/programmation/interships/dcuSummarization/mySummarizer/src/main/java/ie/dcu/cngl/summarizer/feature/ConceptHierarchyFeature.java
 /home/sildar/programmation/interships/dcuSummarization/mySummarizer/src/main/java/ie/dcu/cngl/tokenizer/Tokenizer.java
@@ -35,8 +35,8 @@
 /home/sildar/programmation/interships/dcuSummarization/mySummarizer/src/main/java/ie/dcu/cngl/tokenizer/UnitInfo.java
 /home/sildar/programmation/interships/dcuSummarization/mySummarizer/src/main/java/ie/dcu/cngl/tokenizer/Paragrapher.java
 /home/sildar/programmation/interships/dcuSummarization/mySummarizer/src/main/java/ie/dcu/cngl/summarizer/main/DeserializingWeights.java
-/home/sildar/programmation/interships/dcuSummarization/mySummarizer/src/main/java/ie/dcu/cngl/summarizer/feature/PunctuationFeature.java
 /home/sildar/programmation/interships/dcuSummarization/mySummarizer/src/main/java/ie/dcu/cngl/tokenizer/ISentenizer.java
+/home/sildar/programmation/interships/dcuSummarization/mySummarizer/src/main/java/ie/dcu/cngl/summarizer/feature/PunctuationFeature.java
 /home/sildar/programmation/interships/dcuSummarization/mySummarizer/src/main/java/ie/dcu/cngl/summarizer/Aggregator.java
 /home/sildar/programmation/interships/dcuSummarization/mySummarizer/src/main/java/ie/dcu/cngl/summarizer/feature/TitleTermFeature.java
 /home/sildar/programmation/interships/dcuSummarization/mySummarizer/src/main/java/ie/dcu/cngl/tokenizer/TokenInfo.java
@@ -48,7 +48,7 @@
 /home/sildar/programmation/interships/dcuSummarization/mySummarizer/src/main/java/ie/dcu/cngl/summarizer/feature/TFISFFeature.java
 /home/sildar/programmation/interships/dcuSummarization/mySummarizer/src/main/java/ie/dcu/cngl/WordNetUtils/ICFinder.java
 /home/sildar/programmation/interships/dcuSummarization/mySummarizer/src/main/java/ie/dcu/cngl/summarizer/SentenceScore.java
-/home/sildar/programmation/interships/dcuSummarization/mySummarizer/src/main/java/ie/dcu/cngl/summarizer/IWeighter.java
 /home/sildar/programmation/interships/dcuSummarization/mySummarizer/src/main/java/ie/dcu/cngl/summarizer/SummarizerUtils.java
+/home/sildar/programmation/interships/dcuSummarization/mySummarizer/src/main/java/ie/dcu/cngl/summarizer/IWeighter.java
 /home/sildar/programmation/interships/dcuSummarization/mySummarizer/src/main/java/ie/dcu/cngl/WordNetUtils/DepthFinder.java
 /home/sildar/programmation/interships/dcuSummarization/mySummarizer/src/main/java/ie/dcu/cngl/summarizer/Summarizer.java
