@@ -77,6 +77,15 @@ public class Summarizer {
 		weighter.setStructure(structure);
 		weighter.setTitle(structure.getSentenceTokens(0));
 		
+		/*
+		int total =0;
+		for (int i =0; i< structure.getNumSentences(); i++){
+			if (structure.getSentenceTokens(i).size() < 5)
+				System.out.println(structure.getSentenceTokens(i));
+		}
+		System.out.println(total*100/structure.getNumSentences() + "%");
+		*/
+		
 		//weighter.setTitle(StringUtils.isNotEmpty(title) ? tokenizer.tokenize(title) : null);
 		weighter.setQuery(StringUtils.isNotEmpty(query) ? tokenizer.tokenize(query) : null);
 		aggregator.setSentences(structure.getSentences());

@@ -107,7 +107,7 @@ public abstract class LuceneFeature extends Feature {
 	protected void buildIndex() throws Exception {
 		IndexWriterConfig config = new IndexWriterConfig(Version.LUCENE_36, analyzer);
 		IndexWriter writer = new IndexWriter(ramdir, config);
-		//!!carefull here, I added this line. Seems to resolve the bug
+		//!!carefull here, I added this line. Seems to resolve the bug (the index was never emptied)
 		writer.deleteAll();
 		writer.commit();
 

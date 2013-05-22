@@ -66,7 +66,7 @@ public class Test {
 
 			String summary = summarizer.summarize(text);
 			System.out.println("****** Print summary after ******");
-			System.out.println(summary);
+			//System.out.println(summary);
 			
 		}
 		long endTime = System.nanoTime();

@@ -73,15 +73,17 @@
 # Directional Abbrevs
 "NE"
 "N.E"
-"NW"
-"N.W"
+"NO"
+"N.O"
 "SE"
 "S.E"
-"SW"
-"S.W"
+"SO"
+"S.O"
 
 
 # Personal Honorifics
+"Mme"
+"Mlle"
 "Mr"
 "Mrs"
 "Ms"

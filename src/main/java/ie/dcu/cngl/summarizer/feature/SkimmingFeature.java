@@ -13,6 +13,7 @@ public class SkimmingFeature extends LuceneFeature {
 	// these two values are used to implement a simple linear deboost. If 
 	// a different algorithm is desired, these variables are likely to be
 	// no longer required.
+	//!! sentenceDeboost is never initialized. Default value of floats = 0
 	private float sentenceDeboost;
 	private float sentenceDeboostBase = 0.5F;
 
@@ -60,7 +61,7 @@ public class SkimmingFeature extends LuceneFeature {
 		if (paragraphNumber > 0) {
 			if (sentenceNumber > 0) {
 				float deboost = 1.0F - (sentenceNumber * sentenceDeboost);
-				deboost = (deboost < sentenceDeboostBase) ? sentenceDeboostBase : deboost; 
+				deboost = (deboost < sentenceDeboostBase) ? sentenceDeboostBase : deboost;
 				return deboost;
 			}
 		}

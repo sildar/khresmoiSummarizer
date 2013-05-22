@@ -16,6 +16,7 @@ public class SentenceScore implements Comparable<SentenceScore> {
 	}
 
 	@Override
+	//!!seems wrong at first sight + add string comparison if scores are equal ?
 	public int compareTo(SentenceScore other) {
 		if(this.score > other.getScore()) return -1;
 		if(this.score < other.getScore()) return 1;

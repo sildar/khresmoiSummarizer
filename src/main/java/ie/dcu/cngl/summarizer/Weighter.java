@@ -178,12 +178,16 @@ public class Weighter implements IWeighter {
         }
          *
          */
+         
+         /*
+        //!!Buggy/Useless? (rare, currently counts May as a month (as in : "it may not be a good idea"))
         try {
             features.add(new DatetimeTermFeature());
         } catch (Exception e) {
             System.err.println("Datetime term  feature failed.");
             e.printStackTrace();
         }
+        */
          
     }
 

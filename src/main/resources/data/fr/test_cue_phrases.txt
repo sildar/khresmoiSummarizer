@@ -1,16 +1,14 @@
 #Bonus words
-significant,4
+significatif,4
 impossible,3
-hardly,3
-in summary,5
-in conclusion,5
-the best,3
-the most important,3
-this article,4
-this paper,4
-this document,4
-we conclude,4
-we report,4
-we present,4
+en résumé,5
+en conclusion,5
+le meilleur,3
+le plus important,3
+cet article,4
+ce papier,4
+ce document,4
+nous concluons,4
+nous présentons,4
 
 #Stigma words
