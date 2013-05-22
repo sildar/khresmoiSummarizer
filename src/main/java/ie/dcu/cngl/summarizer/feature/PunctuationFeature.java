@@ -24,7 +24,7 @@ public class PunctuationFeature extends Feature {
 	}
 	
 	@Override
-	public Double[] getWeights() {
+	public FeatureScore getWeights() {
 		final int numSentences = structure.getNumSentences();
 		Double[] weights = new Double[numSentences];
 		
@@ -35,7 +35,7 @@ public class PunctuationFeature extends Feature {
 			weights[i] = punctuationRatio > maxPunctuationRatio ? -1.0 : 0.0;
 		}
 		
-		return weights;
+		return new FeatureScore(this.getClass().getName(), weights);
 	}
 
 	private double numPunctuationTokens(ArrayList<TokenInfo> tokens) {

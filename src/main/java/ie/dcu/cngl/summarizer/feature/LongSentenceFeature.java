@@ -36,7 +36,7 @@ public class LongSentenceFeature extends Feature {
 	}
 
 	@Override
-	public Double[] getWeights() {
+	public FeatureScore getWeights() {
 		final int numSentences = structure.getNumSentences();
 		Double[] weights = new Double[numSentences];
 		
@@ -47,7 +47,7 @@ public class LongSentenceFeature extends Feature {
 			weights[i] = tokens.size() > this.maxSentenceTerms ? -1.0 : 0.0;
 		}
 		
-		return weights;
+		return new FeatureScore(this.getClass().getName(), weights);
 	}
 
 	private ArrayList<TokenInfo> filterPunctuation(ArrayList<TokenInfo> tokens) {

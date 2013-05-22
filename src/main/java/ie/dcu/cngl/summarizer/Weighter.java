@@ -5,8 +5,8 @@ import ie.dcu.cngl.summarizer.feature.AmbiguationFeature;
 import ie.dcu.cngl.summarizer.feature.BasicWordsFeature;
 import ie.dcu.cngl.summarizer.feature.ClusterKeywordFeature;
 import ie.dcu.cngl.summarizer.feature.CuePhraseFeature;
-import ie.dcu.cngl.summarizer.feature.DatetimeTermFeature;
 import ie.dcu.cngl.summarizer.feature.Feature;
+import ie.dcu.cngl.summarizer.feature.FeatureScore;
 import ie.dcu.cngl.summarizer.feature.GlobalBushyFeature;
 import ie.dcu.cngl.summarizer.feature.ImportantTermsFeature;
 import ie.dcu.cngl.summarizer.feature.NamedEntityFeature;
@@ -23,6 +23,7 @@ import ie.dcu.cngl.tokenizer.TokenInfo;
 
 import java.io.IOException;
 import java.util.ArrayList;
+import java.util.HashMap;
 
 /**
  * A Weighter executes all summarization features chosen. Several
@@ -45,11 +46,12 @@ public class Weighter implements IWeighter {
     }
 
 
-    public void calculateWeights(ArrayList<Double[]> weights) {
+    public void calculateWeights(HashMap<String,Double[]> weights) {
         for (Feature feature : features) {
             if (feature.getMultiplier() != 0) {
                 feature.setStructure(structure);
-                weights.add(feature.getWeights());
+                FeatureScore score = feature.getWeights();
+                weights.put(score.getFeatureName(), score.getScores());
             }
         }
     }

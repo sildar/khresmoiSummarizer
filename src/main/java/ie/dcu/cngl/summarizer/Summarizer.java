@@ -1,12 +1,13 @@
 package ie.dcu.cngl.summarizer;
 
-import java.util.ArrayList;
-
-import org.apache.commons.lang.StringUtils;
-
 import ie.dcu.cngl.tokenizer.IStructurer;
 import ie.dcu.cngl.tokenizer.PageStructure;
 import ie.dcu.cngl.tokenizer.Tokenizer;
+
+import java.util.ArrayList;
+import java.util.HashMap;
+
+import org.apache.commons.lang.StringUtils;
 
 /**
  * Provides a sentence extracted summary of provided content.
@@ -38,7 +39,7 @@ public class Summarizer {
 	private String title;
 	private String query;
 
-	private ArrayList<Double[]> weights;
+	private HashMap<String, Double[]> weights;
 
 	/**
 	 * Creates new summarizer with provided components.
@@ -52,7 +53,7 @@ public class Summarizer {
 		this.aggregator = aggregator;
 		this.structurer = structurer;
 		this.numSentences = 2;	//Default number of sentences
-		this.weights = new ArrayList<Double[]>();
+		this.weights = new HashMap<String, Double[]>();
 	}
 
 	/**
@@ -100,6 +101,17 @@ public class Summarizer {
 		*/
 		weights.clear();
 		weighter.calculateWeights(weights);
+		
+		
+		for (String featureName : weights.keySet()){
+			System.out.println(featureName);
+			int i = 0;
+			for (Double d : weights.get(featureName)){
+				if (d != 0.0F)
+					System.out.println("\t" + d + "\t" + structure.getSentenceTokens(i));
+				i++;
+			}
+		}
 
 		ArrayList<SentenceScore> scores = aggregator.aggregate(weights);
 
@@ -145,7 +157,7 @@ public class Summarizer {
 	 * weights calculated on new run.
 	 * @param weights Pre-calculated weights
 	 */
-	public void setWeights(ArrayList<Double[]> weights) {	
+	public void setWeights(HashMap<String, Double[]> weights) {	
 		this.weights = weights;
 	}
 

@@ -4,6 +4,7 @@ import ie.dcu.cngl.tokenizer.SectionInfo;
 
 import java.util.ArrayList;
 import java.util.Collections;
+import java.util.HashMap;
 
 /**
  * Combines scores from 2 dimensional array into one and ranks sentences accordingly.
@@ -21,7 +22,7 @@ public class Aggregator implements IAggregator {
 	 * @param allWeights 2-dimensional array of all weights computed for each sentence
 	 * @return Array of sentences with their ranking.
 	 */
-	public ArrayList<SentenceScore> aggregate(ArrayList<Double[]> allWeights) {
+	public ArrayList<SentenceScore> aggregate(HashMap<String, Double[]> allWeights) {
 		final int numSentences = sentences.size();
 		double[] totalWeights = new double[numSentences];
 		ArrayList<SentenceScore> scores = new ArrayList<SentenceScore>();
@@ -41,7 +42,9 @@ public class Aggregator implements IAggregator {
 			}
 		}
 		*/
-		for(Double[] featureWeights : allWeights) {
+		for (String feature : allWeights.keySet())
+		{
+			Double[] featureWeights = allWeights.get(feature); 
 			for(int i = 0; i < featureWeights.length; i++) {
 
 				if(featureWeights[i] >= 0) {

@@ -52,7 +52,7 @@ public abstract class Feature {
 	 * Calculates sentence weights, normalises scores and applies multiplier.
 	 * @return sentence scores
 	 */
-	public Double[] getWeights() {
+	public FeatureScore getWeights() {
 		Double[] weights = new Double[structure.getNumSentences()];
 		for (int i = 0; i < weights.length; i++) {
 			weights[i] = 0.0;
@@ -60,7 +60,7 @@ public abstract class Feature {
 		weights = calculateRawWeights(weights);
 		normalise(weights);
 		applyMultiplier(weights);
-		return weights;
+		return new FeatureScore(this.getClass().getName(), weights);
 	}
 
 	/**
@@ -81,7 +81,7 @@ public abstract class Feature {
 	 */
 	protected int getCrossoverCount(HashMap<String, ArrayList<ArrayList<TokenInfo>>> searchTerms, ArrayList<TokenInfo> longerStr) {
 		int numOccurences = 0, tokenIndex = 0;
-		
+
 
 		for (TokenInfo token : longerStr) {
 			ArrayList<ArrayList<TokenInfo>> possibleMatches = searchTerms.get(token.getValue().toLowerCase());
@@ -102,16 +102,16 @@ public abstract class Feature {
 			}
 			tokenIndex++;
 		}
-		
-//		for (TokenInfo token : longerStr) {
-//			for (HashSet<TokenInfo> terms : searchTerms.values()){
-//				if (terms.contains(token)){
-//					numOccurences++;
-//					break;
-//				}
-//			}
-//			
-//		}
+
+		//		for (TokenInfo token : longerStr) {
+		//			for (HashSet<TokenInfo> terms : searchTerms.values()){
+		//				if (terms.contains(token)){
+		//					numOccurences++;
+		//					break;
+		//				}
+		//			}
+		//			
+		//		}
 
 		return numOccurences;
 	}
@@ -196,4 +196,7 @@ public abstract class Feature {
 		}
 		return max;
 	}
+
 }
+
+

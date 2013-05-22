@@ -6,6 +6,7 @@ import ie.dcu.cngl.tokenizer.Sentence;
 import ie.dcu.cngl.tokenizer.TokenInfo;
 
 import java.util.ArrayList;
+import java.util.HashMap;
 
 /**
  * Provides interface for weighting sentences being considered for inclusion in end summary.
@@ -18,7 +19,7 @@ public interface IWeighter {
 	 * Adds the weights returned by each feature to the provided weights list.
 	 * @param weights Target location for calculated weights (may contain pre-calculated weights)
 	 */
-	public void calculateWeights(ArrayList<Double[]> weights);
+	public void calculateWeights(HashMap<String,Double[]> weights);
 	
 	/**
 	 * Adds feature to feature list
