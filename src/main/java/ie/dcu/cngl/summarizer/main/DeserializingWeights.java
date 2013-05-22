@@ -9,17 +9,17 @@ import java.io.File;
 import java.io.FileInputStream;
 import java.io.IOException;
 import java.io.ObjectInputStream;
-import java.util.ArrayList;
+import java.util.HashMap;
 
 import org.apache.commons.io.FileUtils;
 
 public class DeserializingWeights {
 	public static void main(String[] args) throws IOException {
-		ArrayList<Double[]> weights = new ArrayList<Double[]>();
+		HashMap<String, Double[]> weights = new HashMap<String, Double[]>();
 		try {
 			FileInputStream fileIn = new FileInputStream(new File("test"));
 			ObjectInputStream in = new ObjectInputStream(fileIn);
-			weights = (ArrayList<Double[]>) in.readObject();
+			weights = (HashMap<String, Double[]>) in.readObject();
 
                         System.out.println("weights loaded ok! " + weights.size() );
 			in.close();

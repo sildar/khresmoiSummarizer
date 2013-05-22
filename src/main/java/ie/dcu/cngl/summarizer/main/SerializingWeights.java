@@ -1,16 +1,16 @@
 package ie.dcu.cngl.summarizer.main;
 
+import ie.dcu.cngl.summarizer.Weighter;
+import ie.dcu.cngl.tokenizer.PageStructure;
+import ie.dcu.cngl.tokenizer.Structurer;
+
 import java.io.File;
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.ObjectOutputStream;
-import java.util.ArrayList;
+import java.util.HashMap;
 
 import org.apache.commons.io.FileUtils;
-
-import ie.dcu.cngl.summarizer.Weighter;
-import ie.dcu.cngl.tokenizer.PageStructure;
-import ie.dcu.cngl.tokenizer.Structurer;
 
 public class SerializingWeights {
 
@@ -24,7 +24,7 @@ public class SerializingWeights {
 		PageStructure structure = structurer.getStructure(text);	
 		
 		Weighter weighter = new Weighter();
-		ArrayList<Double[]> weights = new ArrayList<Double[]>();
+		HashMap<String, Double[]> weights = new HashMap<String, Double[]>();
 		weighter.setStructure(structure);
 		weighter.addAllFeatures();
 		weighter.calculateWeights(weights);
