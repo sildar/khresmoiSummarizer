@@ -17,20 +17,20 @@ import java.util.HashMap;
  *
  */
 public class BasicWordsFeature extends TermCheckingFeature {
-	
+
 	private HashMap<String, ArrayList<ArrayList<TokenInfo>>> basicWords;
 
 	public BasicWordsFeature() throws IOException {
 		ArrayList<ArrayList<TokenInfo>> wordsList = new ArrayList<ArrayList<TokenInfo>>();
 		for(String line : terms) {
-		    line = line.toLowerCase().trim();
-		    ArrayList<TokenInfo> tokenLine = new ArrayList<TokenInfo>();
-		    tokenLine.add(new TokenInfo(line));
-		    wordsList.add(tokenLine);
-        }
-        this.basicWords = generateMultiMap(wordsList);
-        // System.out.println(basicWords.size());
-        // System.out.println("Basic words feature loaded sucessfully!");
+			line = line.toLowerCase().trim();
+			ArrayList<TokenInfo> tokenLine = new ArrayList<TokenInfo>();
+			tokenLine.add(new TokenInfo(line));
+			wordsList.add(tokenLine);
+		}
+		this.basicWords = generateMultiMap(wordsList);
+		// System.out.println(basicWords.size());
+		// System.out.println("Basic words feature loaded sucessfully!");
 	}
 
 	@Override
@@ -39,13 +39,21 @@ public class BasicWordsFeature extends TermCheckingFeature {
 		for(Paragraph paragraph : structure.getStructure()) {
 			for(Sentence sentence : paragraph) {
 				double numOccurences = 0, numTerms = numberOfTerms(sentence);
-				numOccurences+=getCrossoverCount(basicWords, sentence);
-				weights[sentenceNumber++] = numOccurences/numTerms;
+				//If the sentence only has stopwords/punctuation in it
+				if (numTerms == 0)
+				{
+					weights[sentenceNumber++] = -1.0;
+				}
+				else
+				{
+					numOccurences+=getCrossoverCount(basicWords, sentence);
+					weights[sentenceNumber++] = numOccurences/numTerms;
+				}
 			}
 		}
 		return weights;
 	}
-	
+
 	@Override
 	public double getMultiplier() {
 		return SummarizerUtils.basicWordsMultiplier;

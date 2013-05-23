@@ -65,12 +65,20 @@ public class AffixPresenceFeature extends TermCheckingFeature {
 		for(Paragraph paragraph : structure.getStructure()) {
 			for(Sentence sentence : paragraph) {
 				double numOccurences = 0, numTerms = numberOfTerms(sentence);
-				for(Affix affix : affixes) {
-					if(affix.getAffix().length() > 2) {
-						numOccurences+=getNumAffixOccurences(affix, sentence);
-					}
+				//If the sentence only has stopwords/punctuation in it
+				if (numTerms == 0)
+				{
+					weights[sentenceNum++] = -1.0;
 				}
-				weights[sentenceNum++] = numOccurences/numTerms;
+				else
+				{
+					for(Affix affix : affixes) {
+						if(affix.getAffix().length() > 2) {
+							numOccurences+=getNumAffixOccurences(affix, sentence);
+						}
+					}
+					weights[sentenceNum++] = numOccurences/numTerms;
+				}
 			}
 		}
 		return weights;
