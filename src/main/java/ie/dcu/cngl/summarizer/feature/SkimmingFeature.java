@@ -58,6 +58,7 @@ public class SkimmingFeature extends LuceneFeature {
 	
 	@Override
 	protected float computeBoost(int paragraphNumber, int sentenceNumber) {
+		//!!Always returns 1
 		if (paragraphNumber > 0) {
 			if (sentenceNumber > 0) {
 				float deboost = 1.0F - (sentenceNumber * sentenceDeboost);
