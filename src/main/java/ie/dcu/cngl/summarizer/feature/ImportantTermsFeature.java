@@ -34,7 +34,7 @@ public class ImportantTermsFeature extends TermCheckingFeature {
 	@Override
 	public Double[] calculateRawWeights(Double[] weights) {
 		int sentenceNumber = 0;
-		for(Paragraph paragraph : structure.getStructure()) {
+		for(Paragraph paragraph : structure) {
 			for(Sentence sentence : paragraph) {
 				weights[sentenceNumber++]+=getCrossoverCount(importantTerms, sentence);
 			}

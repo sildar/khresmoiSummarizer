@@ -27,7 +27,7 @@ public class QueryBiasFeature extends Feature {
         final double numQueryTerms = numberOfTerms(query);
         int sentenceNumber = 0;
         Sentence tokenHolder;
-        for (Paragraph paragraph : structure.getStructure()) {
+        for (Paragraph paragraph : structure) {
             for (Sentence sentence : paragraph) {
                 double numOccurences = 0;
                 for (TokenInfo queryToken : query) {

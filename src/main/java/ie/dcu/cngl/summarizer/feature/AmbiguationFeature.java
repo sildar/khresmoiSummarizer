@@ -30,13 +30,13 @@ public class AmbiguationFeature extends Feature {
         int sentenceNumber = 0;
         numberTermsOfDocument = 0;
         
-        for (Paragraph p : structure.getStructure()){
+        for (Paragraph p : structure){
         	for (Sentence sentence : p){
         		numberTermsOfDocument += numberOfTerms(sentence);
         	}
         }
         
-        for (Paragraph paragraph : structure.getStructure()) {
+        for (Paragraph paragraph : structure) {
             for (Sentence sentence : paragraph) {
                 int numSynset = 0;
                 for (int i = 0; i < sentence.size(); i++) {

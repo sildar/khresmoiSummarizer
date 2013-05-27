@@ -48,7 +48,7 @@ public class DatetimeTermFeature extends TermCheckingFeature {
 	public Double[] calculateRawWeights(Double[] weights) {
 
 		int sentenceNumber = 0;
-		for (Paragraph paragraph : structure.getStructure()) {
+		for (Paragraph paragraph : structure) {
 			for (Sentence sentence : paragraph) {
 				double numOccurences = 0;
 				numOccurences += getCrossoverCount(datetimeTerm, sentence);

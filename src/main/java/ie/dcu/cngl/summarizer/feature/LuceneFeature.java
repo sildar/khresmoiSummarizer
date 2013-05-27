@@ -112,7 +112,7 @@ public abstract class LuceneFeature extends Feature {
 		writer.commit();
 
 		int pno = 0;
-		for(Paragraph paragraph : structure.getStructure()) {
+		for(Paragraph paragraph : structure) {
 			ArrayList<String> strSentences = paragraph.getSentences();
 			int sno = 0;
 			for(String sentence : strSentences) {

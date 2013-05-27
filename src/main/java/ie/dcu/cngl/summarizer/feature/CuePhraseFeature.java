@@ -34,7 +34,7 @@ public class CuePhraseFeature extends TermCheckingFeature {
 	@Override
 	public Double[] calculateRawWeights(Double[] weights) {
 		int sentenceNumber = 0;
-		for(Paragraph paragraph : structure.getStructure()) {
+		for(Paragraph paragraph : structure) {
 			for(Sentence sentence : paragraph) {
 				for(Sentence cuePhrase : cuePhrases.keySet()) {
 					weights[sentenceNumber]+=(getNumOccurrences(cuePhrase, sentence)*cuePhrases.get(cuePhrase));

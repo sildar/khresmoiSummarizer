@@ -55,7 +55,7 @@ public class ConceptHierarchyFeature extends Feature {
     public Double[] calculateRawWeights(Double[] weights) {
     	//!!Useless
         int sentenceNumber = 0;
-        for (Paragraph paragraph : structure.getStructure()) {
+        for (Paragraph paragraph : structure) {
             for (Sentence sentence : paragraph) {
                 double heirarchy_depth = 0;
                 double numTerms = numberOfTerms(sentence);

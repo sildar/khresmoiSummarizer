@@ -42,14 +42,14 @@ public class SectionImportanceFeature extends TermCheckingFeature {
 	@Override
 	public Double[] calculateRawWeights(Double[] weights) {
 		int paragraphNumber = 0, sentenceNumber = 0;
-		for(Paragraph paragraph : structure.getStructure()) {
+		for(Paragraph paragraph : structure) {
 			for(SentenceScore section : sections) {
 				if(TokenizerUtils.recombineTokens1d(paragraph.get(0)).equalsIgnoreCase(section.getSentence())) {
 					//Give weight to any sentences (except the first) that are in the same paragraph
 					//And to those that are in the next paragraph (because section title should be one paragraph by itself
 					int paragraphEnd = sentenceNumber + paragraph.size();
 
-					int numSentencesInNextParagraph = structure.getStructure().get(paragraphNumber+1).size();
+					int numSentencesInNextParagraph = structure.get(paragraphNumber+1).size();
 					for(int i = sentenceNumber+1; i < paragraphEnd+numSentencesInNextParagraph; i++) {
 
 						weights[i] = section.getScore();

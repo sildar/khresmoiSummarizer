@@ -86,14 +86,6 @@ public class PageStructure extends ArrayList<Paragraph>{
 	}
 	
 	/**
-	 * Get the raw 3-demensional page structure.
-	 * @return The 3-dimensional page structure.
-	 */
-	public PageStructure getStructure() {
-		return this;
-	}
-	
-	/**
 	 * Get the content sentences.
 	 * @return An array of the content sentences with their absolute positions.
 	 */

@@ -62,7 +62,7 @@ public class AffixPresenceFeature extends TermCheckingFeature {
 	@Override
 	public Double[] calculateRawWeights(Double[] weights) {
 		int sentenceNum = 0;
-		for(Paragraph paragraph : structure.getStructure()) {
+		for(Paragraph paragraph : structure) {
 			for(Sentence sentence : paragraph) {
 				double numOccurences = 0, numTerms = numberOfTerms(sentence);
 				//If the sentence only has stopwords/punctuation in it

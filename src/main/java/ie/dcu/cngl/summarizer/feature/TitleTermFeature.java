@@ -27,7 +27,7 @@ public class TitleTermFeature extends Feature {
 		final double numTitleTerms = numberOfTerms(titleTokens);
 		int sentenceNumber = 0;
 		Sentence tokenHolder;
-		for(Paragraph paragraph : structure.getStructure()) {
+		for(Paragraph paragraph : structure) {
 			for(Sentence sentence : paragraph) {
 				double numOccurences = 0;
 				for(TokenInfo titleToken : titleTokens) {

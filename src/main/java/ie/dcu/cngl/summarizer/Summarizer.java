@@ -1,9 +1,15 @@
 package ie.dcu.cngl.summarizer;
 
+import ie.dcu.cngl.summarizer.feature.TitleTermFeature;
 import ie.dcu.cngl.tokenizer.IStructurer;
 import ie.dcu.cngl.tokenizer.PageStructure;
 import ie.dcu.cngl.tokenizer.Tokenizer;
 
+import java.io.File;
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.io.PrintWriter;
 import java.util.ArrayList;
 import java.util.HashMap;
 
@@ -41,6 +47,8 @@ public class Summarizer {
 
 	private HashMap<String, Double[]> weights;
 
+	private PrintWriter pw;
+
 	/**
 	 * Creates new summarizer with provided components.
 	 * @param structurer Extracts content structure
@@ -54,6 +62,11 @@ public class Summarizer {
 		this.structurer = structurer;
 		this.numSentences = 2;	//Default number of sentences
 		this.weights = new HashMap<String, Double[]>();
+		try{
+			pw = new PrintWriter(new File("./results.txt"));
+		}catch (IOException e){
+			System.out.println();
+		}
 	}
 
 	/**
@@ -77,7 +90,7 @@ public class Summarizer {
 		PageStructure structure = structurer.getStructure(content);	
 		weighter.setStructure(structure);
 		weighter.setTitle(structure.getSentenceTokens(0));
-		
+
 		/*
 		int total =0;
 		for (int i =0; i< structure.getNumSentences(); i++){
@@ -85,8 +98,8 @@ public class Summarizer {
 				System.out.println(structure.getSentenceTokens(i));
 		}
 		System.out.println(total*100/structure.getNumSentences() + "%");
-		*/
-		
+		 */
+
 		//weighter.setTitle(StringUtils.isNotEmpty(title) ? tokenizer.tokenize(title) : null);
 		weighter.setQuery(StringUtils.isNotEmpty(query) ? tokenizer.tokenize(query) : null);
 		aggregator.setSentences(structure.getSentences());
@@ -98,26 +111,38 @@ public class Summarizer {
 				System.out.println(featureWeight.length + " == " +structure.getNumSentences());
 			}
 		}
-		*/
+		 */
 		weights.clear();
-		weighter.calculateWeights(weights);
-		
-		
-		for (String featureName : weights.keySet()){
-			System.out.println(featureName);
-			int i = 0;
-			for (Double d : weights.get(featureName)){
-				if (d != 0.0F)
-					System.out.println("\t" + d + "\t" + structure.getSentenceTokens(i));
-				i++;
-			}
+		try{
+		weighter.addFeature(new TitleTermFeature(structure.getSentenceTokens(0)));
+		}catch(IOException e){
+			System.err.println("No title found");
 		}
+		weighter.calculateWeights(weights);
+
+
+
+		pw.append(structure.getSentenceTokens(0).getTokens() + "\n");
+
+		for (int i = 0; i<structure.getNumSentences(); i++){
+
+			pw.append(structure.getSentenceTokens(i).getTokens() + "\n");
+			double total = 0;
+
+			for (String featureName : weights.keySet()){
+				double score = weights.get(featureName)[i];
+				total += score;
+				pw.append("\t" + featureName + "\t" + score + "\n");
+			}
+			pw.append("\t Total \t" + total + "\n\n");
+		}
+
 
 		ArrayList<SentenceScore> scores = aggregator.aggregate(weights);
 
 		String summary = StringUtils.EMPTY;
 		for(int i = 0; i < numSentences; i++) {
-				summary+=(scores.get(i).getSentence() + "\n");
+			summary+=(scores.get(i).getSentence() + "\n");
 		}
 
 		summary = beautifulString(summary);
