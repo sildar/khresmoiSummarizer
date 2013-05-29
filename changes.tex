@@ -1,0 +1,248 @@
+\documentclass[a4paper,10pt]{article}
+%\usepackage{libertine}
+\usepackage[utf8]{inputenc}
+
+\usepackage[english]{babel}
+\usepackage[autolanguage]{numprint}
+\usepackage{amsmath}
+\usepackage{xcolor}
+\usepackage{graphicx}
+\usepackage{hyperref}
+\graphicspath{{./img/}}
+\DeclareGraphicsExtensions{.png}
+\renewcommand*\thesection{\arabic{section}}
+\hypersetup{
+    colorlinks,
+    citecolor=blue,
+    filecolor=blue,
+    linkcolor=blue,
+    urlcolor=blue
+}
+
+\usepackage{geometry}
+\geometry{scale=0.82, nohead}
+\usepackage{listings}
+\lstset{keywordstyle=\color{blue}}
+\lstset{stringstyle=\color{brown}}
+\lstset{showspaces=false}
+\lstset{showtabs=false}
+\lstset{extendedchars=true}
+\lstset{columns=flexible}
+\lstset{keepspaces=true}
+\lstset{numbers=left, numberstyle=\tiny, stepnumber=1, numbersep=5pt}
+
+\title{Modifications on the CNGL Summarizer}
+\author{ Rémi \textsc{Bois}}
+
+
+\begin{document}
+
+\maketitle
+
+%\tableofcontents
+
+\section{Changes made}
+\label{sec:changes}
+
+\begin{description}
+\item [Improvement of the readme] : \hfill
+  7f27ab05503934785304beb6e1e3963b55dc7465 \\
+  Added commands to use the two libraries that are not available via
+  the pom.xml (jaws and jwi). \\
+  Added the instructions to run the main class.
+
+\item[Resources added] : \hfill
+  8587c35e3ef7c5d194993ccc471cd63c7fe399e7 \\
+  Added a structure to have multiple languages available (one folder
+  for each language). Modified the XML settings to consider the
+  language that is set.
+
+\item[Paragrapher Changes] : \hfill
+  15e3ee93811e139c96aeb9e9ef9d0ed32296b715 \\
+  Readability/Code Logic : The paragrapher is supposed to split a
+  String into paragraphs. Previous behavior was that the paragrapher
+  also tokenized the the text. The paragrapher now returns an
+  $ArrayList<String>$ which can be tokenized via the tokenizer.
+
+\item[Aggregator changes] : \hfill
+  15e3ee93811e139c96aeb9e9ef9d0ed32296b715 \\
+  Replaced the $SentenceScore[]$ by an $ArrayList$
+  ($ArrayList<SentenceScore>$)\\
+  Readability : put the score of a sentence to $-\infty$ if it has
+  been discarded by a feature.\\
+  Simplification : changed the custom list sorting by the
+  Collections.sort() native method.\\
+  See : b58407f3c86f42e84696a60f1d3253bff2b14786 too
+
+\item[TokenUtils changes] : \hfill
+  15e3ee93811e139c96aeb9e9ef9d0ed32296b715 \\
+  The method recombineTokens1d was supposed to transform an arraylist
+  of tokens to a String. The previous behavior relied on uninitialized
+  variables and was replaced by the StringUtils.join() methods which
+  has the same goal and is more efficient.
+
+\item[Sentence and Paragraph] : \hfill
+  46e5d275a825a44243602a24fbb2674bce06e4af \\
+  Replaced the $ArrayList<TokenInfo>$ by a class Sentence.\\
+  Replaced the $ArrayList<ArrayList<TokenInfo>>$ by a class Paragraph
+  which is an $ArrayList<Sentence>$.\\
+  Replaced the PageStructure by an $ArrayList<Paragraph>$ (instead of
+  an $ArrayList<ArrayList<ArrayList<TokenInfo>>>$.\\
+  See : 3f00b835b15ab1045a552916e8224ccc3f4a76e2 too.
+
+\item[PageStructure] : \hfill 5bb5def7e2017cbfe6696c401f67f7635d5e12e8
+  \\
+  Replaced the PageStructure by an $ArrayList<Paragraph>$ (instead of
+  an $ArrayList<ArrayList<ArrayList<TokenInfo>>>$.\\
+  Removed the getStructure method since it now is the PageStructure
+  instance itself that can be used.\\
+  See : 46e5d275a825a44243602a24fbb2674bce06e4af too.
+
+\item [Efficiency] : \hfill 229adb5260ac1e2bfb0de164be4909d61d647b57
+  \\
+  The program had to reinitialize every feature when it processed
+  several documents in a row. This has been modified and geatly
+  increased the performance (from 10s per document to 0.2s per
+  document).
+
+\item[Readability / Debug] : \hfill
+  0fdde226e600f786276e53ad94691e5cb2d268f1 \\
+  Replaced the $ArrayList<Double[]>$ given as a result for the scores
+  of all features by a HashMap containing the name of the feature that
+  gave the score. This allows to have a file with all the scores for
+  each sentence and each feature and helps for debug/feature impact.
+
+\item[Punctuation Feature] : \hfill
+  216d7972fbcf4904e7c3cceba9a7c16b9b2d57b3 \\
+  Use of the Java Punctuation class ($\backslash p\{P\}$) to recognize
+  punctuation. This affected the recognized tokens : before, any
+  punctuation mark in a token counted the token as a punctuation. Now,
+  only the tokens composed only of punctuation are considered
+  punctuation. We may want to increase the ratio (currently 30\%) used
+  to discard a sentence.
+
+\item[Section Importance] : \hfill \\
+  Added : Abbreviations as a section title, with a negative
+  score. Medical papers often include a list of abbreviations that are
+  used in the paper. This should not appear in the summary.
+
+\item[Affix and basic words] : \hfill
+  d17b91e8546b3abdf60c7c84426c0828d05133ef \\
+  Bug fix : these features returned NaN when the sentence was only
+  composed of stopwords or punctuations. Since the NaN discarded the
+  sentences, -1 has been chosen as a replacement when fixing the
+  bug. We may want to choose 0 as score instead, in order to not
+  discard them.
+
+\item[Lucene Features] : \hfill
+  348bc8d46c292c2435ef5d35b4b93b9263c3669d\\
+  Bug Fix : the system wasn't set to handle multiple documents
+  processing in a row. The Lucene index was never emptied, leading to
+  incoherent results and exceptions. The index is now emptied before
+  each time it is built.
+
+\end{description}
+
+\section{Resources used for french}
+\label{sec:res4french}
+
+This section gives the location of the resources that have been used.
+
+\begin{description}
+\item[Medical terms] : \hfill \\
+  \url{http://users.ugent.be/~rvdstich/eugloss/welcome.html}\\
+  List of 1840 (once processed) medical terms, available in 8
+  languages, including french and english. This is a work from the
+  European Union. It may be outdated (2000) depending on the frequence
+  of appearance of new medical terms.
+  I wrote a script to extract and normalize the terms of a language.
+\item[Stopwords] : \hfill \\
+  \url{http://www.ranks.nl/stopwords/french.html}\\
+  List of 126 french stopwords. It may be too short and be extended by
+  \url{http://snowball.tartarus.org/algorithms/french/stop.txt}.
+\item[Cue phrases] : \hfill \\
+  Simple manual translation.
+\item[Spache Word List] : \hfill \\
+  An automatic translation by a dictionnary could be enough since
+  these are simple words. We could also use a wikitionnaire article :
+  \url{http://fr.wiktionary.org/wiki/Wiktionnaire:Liste_de_1750_mots_fran%C3%A7ais_les_plus_courants}.
+
+\item[Abbreviations] : \hfill \\
+  Simple translation of the dates. The military ranks, list of states
+  weren't changed but don't seem very useful for the medical
+  domain. Added Mme and Mlle to the person names section.
+\item[Sections] : \hfill \\
+  Simple manual translation.
+  
+    
+
+
+\end{description}
+
+
+\section{Changes to make}
+\label{sec:todo}
+
+These are propositions on things to improve.
+
+\begin{description}
+\item[Cue Phrases] : \hfill \\
+  Add : ``In this study'' \\
+  Add : ``We'' (as in ``We proved that'', ``We demonstrate that'',
+  ...)\\
+\item[DateTime] : \hfill \\
+  The presence of dates is very limited in the tests I ran on english
+  medical papers. This feature only checks the presence of days and
+  months. Maybe it shouldn't be used. If used, we have to remove the
+  month of May.
+
+\item[Skimming Feature] : \hfill \\
+  Seems buggy. The boosting seems to only return 1 for each
+  sentence. We may want to use it out of Lucene.
+
+\item[Section Depth] : New Feature \hfill \\
+  Maybe the text inside the sections is more important than the text
+  on subsubsections. It is similar to the skimming feature.
+
+\item[Citation Presence] : \hfill \\
+  To discuss : The absence of citation in a sentence tends to indicate
+  original work. On the contrary, citation presence often indicates
+  the subject that is discussed in the paper.
+\item[Long sentences] : \hfill \\
+  We already have a feature discarding sentences if they are too
+  short (often discards figures titles, section names, ...). We could
+  discard the sentences that are too long and which mainly consist in
+  :
+  \begin{itemize}
+  \item Citations
+  \item Experimental protocols
+  \item lists (abbreviation lists, authors and lab lists, ...)
+  \end{itemize}
+
+\item[Lucene Features] : \hfill \\
+  The Skimming feature, the TS-ISF (TF-ISF), and the Named Entities
+  feature use Lucene. They compute a boost for some terms (eg
+  capitalized words for the named entities), and then run a query via
+  Lucene with some extra-work (like stopwords removal and
+  normalization). This seems confusing. In the Named Entities feature
+  for example, the boost for a sentence is $NamedEntities^2 /
+  numberOfTerms$ where the $numberOfTerms$ excludes stopwords,
+  punctuation, and other terms. We need to go through every sentence,
+  boost the sentences, then build a Lucene index, get the score from
+  Lucene when a single sentence analysis could be enough (eg, number
+  of capitalized words for the named entities feature).
+
+  The TS-ISF is implemented as a basic Lucene Feature without any
+  boosting.
+
+\end{description}
+
+
+\section{Features Impact}
+\label{sec:impact}
+
+To do.
+
+
+
+\end{document}
