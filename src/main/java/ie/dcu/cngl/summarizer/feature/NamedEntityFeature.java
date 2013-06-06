@@ -1,6 +1,7 @@
 package ie.dcu.cngl.summarizer.feature;
 
 import ie.dcu.cngl.summarizer.SummarizerUtils;
+import ie.dcu.cngl.tokenizer.Paragraph;
 import ie.dcu.cngl.tokenizer.Sentence;
 import ie.dcu.cngl.tokenizer.TokenInfo;
 
@@ -15,18 +16,10 @@ import java.util.ArrayList;
  * @author Shane
  *
  */
-public class NamedEntityFeature extends LuceneFeature {
+public class NamedEntityFeature extends Feature {
 
 	public NamedEntityFeature() throws IOException {
 		super();
-	}
-
-	@Override
-	protected float computeBoost(int paragraphNumber, int sentenceNumber) {
-		Sentence sentence = structure.getSentenceFromParagraphTokens(sentenceNumber, paragraphNumber);
-		int numNamedEntities = calculateNumNamedEntities(sentence);
-		float boost = (float) (Math.pow(numNamedEntities, 2)/numberOfTerms(sentence));
-		return boost;
 	}
 
 	private int calculateNumNamedEntities(Sentence sentence) {
@@ -43,6 +36,27 @@ public class NamedEntityFeature extends LuceneFeature {
 	@Override
 	public double getMultiplier() {
 		return SummarizerUtils.namedEntityMultiplier;
+	}
+
+	@Override
+	protected Double[] calculateRawWeights(Double[] weights) {
+		//this is used to fill the result structure (keeping track of where we are in the text)
+		int sentenceInText = 0;
+		
+		for(Paragraph paragraph : structure) {
+			for (Sentence sentence : paragraph){
+				//default value if there is no namedEntites OR if there is 0 nonEmptyWords in the sentence
+				double namedEntitiesRatio = 0;
+				
+				int nonEmptyWords = numberOfTerms(sentence);
+				if (nonEmptyWords != 0)
+					namedEntitiesRatio = calculateNumNamedEntities(sentence)/nonEmptyWords;
+
+				weights[sentenceInText] = namedEntitiesRatio ;
+				sentenceInText++;						
+			}
+		}
+		return weights;
 	}
 
 }
