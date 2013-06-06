@@ -1,7 +1,9 @@
 package ie.dcu.cngl.summarizer.feature;
 
 import ie.dcu.cngl.summarizer.SummarizerUtils;
+import ie.dcu.cngl.tokenizer.Sentence;
 import ie.dcu.cngl.tokenizer.TokenInfo;
+
 import java.io.IOException;
 import java.util.ArrayList;
 
@@ -28,20 +30,20 @@ public class PunctuationFeature extends Feature {
 		final int numSentences = structure.getNumSentences();
 		Double[] weights = new Double[numSentences];
 		
-		ArrayList<TokenInfo> tokens;
+		Sentence sentence;
 		for(int i = 0; i < numSentences; i++) {
-			tokens = structure.getSentenceTokens(i);
-			double punctuationRatio = numPunctuationTokens(tokens)/tokens.size();
+			sentence = structure.getSentenceTokens(i);
+			double punctuationRatio = numPunctuationTokens(sentence)/sentence.size();
 			weights[i] = punctuationRatio > maxPunctuationRatio ? -1.0 : 0.0;
 		}
 		
 		return new FeatureScore(this.getClass().getName(), weights);
 	}
 
-	private double numPunctuationTokens(ArrayList<TokenInfo> tokens) {
+	private double numPunctuationTokens(Sentence sentence) {
 		double numPunctuationTokens = 0;
 		
-		for(TokenInfo token : tokens) {
+		for(TokenInfo token : sentence) {
 			if(token.getValue().matches("\\p{P}+")){
 				numPunctuationTokens++;
 			}
