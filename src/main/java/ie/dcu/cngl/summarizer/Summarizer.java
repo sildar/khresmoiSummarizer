@@ -3,11 +3,11 @@ package ie.dcu.cngl.summarizer;
 import ie.dcu.cngl.summarizer.feature.TitleTermFeature;
 import ie.dcu.cngl.tokenizer.IStructurer;
 import ie.dcu.cngl.tokenizer.PageStructure;
+import ie.dcu.cngl.tokenizer.Paragraph;
+import ie.dcu.cngl.tokenizer.Sentence;
 import ie.dcu.cngl.tokenizer.Tokenizer;
 
 import java.io.File;
-import java.io.FileInputStream;
-import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.PrintWriter;
 import java.util.ArrayList;
@@ -123,7 +123,7 @@ public class Summarizer {
 
 
 		pw.append(structure.getSentenceTokens(0).getTokens() + "\n");
-
+		
 		for (int i = 0; i<structure.getNumSentences(); i++){
 
 			pw.append(structure.getSentenceTokens(i).getTokens() + "\n");
@@ -137,7 +137,6 @@ public class Summarizer {
 			pw.append("\t Total \t" + total + "\n\n");
 		}
 
-
 		ArrayList<SentenceScore> scores = aggregator.aggregate(weights);
 
 		String summary = StringUtils.EMPTY;
@@ -146,7 +145,7 @@ public class Summarizer {
 		}
 
 		summary = beautifulString(summary);
-
+		
 		return summary;
 	}
 

@@ -11,6 +11,9 @@ import java.util.ArrayList;
 import javax.xml.parsers.DocumentBuilder;
 import javax.xml.parsers.DocumentBuilderFactory;
 
+import opennlp.tools.util.StringUtil;
+
+import org.apache.commons.io.FileUtils;
 import org.w3c.dom.Document;
 import org.w3c.dom.NodeList;
 
@@ -18,8 +21,8 @@ import org.w3c.dom.NodeList;
 public class Test {
 	public static void main(String [] args) throws Exception {
 
-		//String text = FileUtils.readFileToString(new File(Test.class.getResource("/data/en/textExample.txt").getFile()), "UTF-8");
-
+		String text = FileUtils.readFileToString(new File("./test_fr"));
+		/*
 		DocumentBuilderFactory dbFactory = DocumentBuilderFactory.newInstance();
 		DocumentBuilder dBuilder = dbFactory.newDocumentBuilder();
 
@@ -48,6 +51,7 @@ public class Test {
 			texts.add(i, currentText);
 			i++;
 		}
+		*/
 
 		System.out.println("Starting summarization");
 
@@ -59,16 +63,16 @@ public class Test {
 		Aggregator aggregator = new Aggregator();
 
 
-		for (String text : texts){
+		//for (String text : texts){
 
 			Summarizer summarizer = new Summarizer(structurer, weighter, aggregator);
 			summarizer.setNumSentences(5);
 
 			String summary = summarizer.summarize(text);
 			System.out.println("****** Print summary after ******");
-			//System.out.println(summary);
+			System.out.println(summary);
 			
-		}
+		//}
 		long endTime = System.nanoTime();
 
 		long duration = endTime - startTime;
