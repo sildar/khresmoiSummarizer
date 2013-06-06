@@ -45,14 +45,14 @@ public class NamedEntityFeature extends Feature {
 		
 		for(Paragraph paragraph : structure) {
 			for (Sentence sentence : paragraph){
-				//default value if there is no namedEntites OR if there is 0 nonEmptyWords in the sentence
+				//default value if there is no namedEntites OR if there is 0 significantWords in the sentence
 				double namedEntitiesRatio = 0;
 				
-				int nonEmptyWords = numberOfTerms(sentence);
-				if (nonEmptyWords != 0)
-					namedEntitiesRatio = calculateNumNamedEntities(sentence)/nonEmptyWords;
+				int significantWords = numberOfTerms(sentence);
+				if (significantWords != 0)
+					namedEntitiesRatio = calculateNumNamedEntities(sentence)/significantWords;
 
-				weights[sentenceInText] = namedEntitiesRatio ;
+				weights[sentenceInText] = namedEntitiesRatio;
 				sentenceInText++;						
 			}
 		}
