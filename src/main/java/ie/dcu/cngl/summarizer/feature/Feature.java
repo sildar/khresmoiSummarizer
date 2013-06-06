@@ -156,8 +156,8 @@ public abstract class Feature {
 	 * @param query
 	 * @return
 	 */
-	protected double numberOfTerms(ArrayList<TokenInfo> query) {
-		double numTerms = 0;
+	protected int numberOfTerms(ArrayList<TokenInfo> query) {
+		int numTerms = 0;
 		Sentence queryAsSentence = new Sentence(query);
 		TokenStream tokenStream = analyzer.tokenStream(null, queryAsSentence);
 
