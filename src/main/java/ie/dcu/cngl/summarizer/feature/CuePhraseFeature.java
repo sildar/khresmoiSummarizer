@@ -3,11 +3,9 @@ package ie.dcu.cngl.summarizer.feature;
 import ie.dcu.cngl.summarizer.SummarizerUtils;
 import ie.dcu.cngl.tokenizer.Paragraph;
 import ie.dcu.cngl.tokenizer.Sentence;
-import ie.dcu.cngl.tokenizer.TokenInfo;
 import ie.dcu.cngl.tokenizer.Tokenizer;
 
 import java.io.IOException;
-import java.util.ArrayList;
 import java.util.HashMap;
 
 /**

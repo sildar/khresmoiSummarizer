@@ -6,7 +6,6 @@ import ie.dcu.cngl.tokenizer.Paragraph;
 import ie.dcu.cngl.tokenizer.Sentence;
 import ie.dcu.cngl.tokenizer.TokenInfo;
 
-import java.util.ArrayList;
 import java.util.HashSet;
 
 /**

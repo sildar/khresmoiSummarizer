@@ -5,7 +5,6 @@ import ie.dcu.cngl.tokenizer.Sentence;
 import ie.dcu.cngl.tokenizer.TokenInfo;
 
 import java.io.IOException;
-import java.util.ArrayList;
 
 /**
  * Calculates what proportion of the sentence contains punctuation. If this is above
