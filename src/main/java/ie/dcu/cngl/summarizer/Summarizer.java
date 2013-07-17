@@ -12,6 +12,7 @@ import java.io.IOException;
 import java.io.PrintWriter;
 import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.Random;
 
 import org.apache.commons.lang.StringUtils;
 
@@ -91,27 +92,10 @@ public class Summarizer {
 		weighter.setStructure(structure);
 		weighter.setTitle(structure.getSentenceTokens(0));
 
-		/*
-		int total =0;
-		for (int i =0; i< structure.getNumSentences(); i++){
-			if (structure.getSentenceTokens(i).size() < 5)
-				System.out.println(structure.getSentenceTokens(i));
-		}
-		System.out.println(total*100/structure.getNumSentences() + "%");
-		 */
-
 		//weighter.setTitle(StringUtils.isNotEmpty(title) ? tokenizer.tokenize(title) : null);
 		weighter.setQuery(StringUtils.isNotEmpty(query) ? tokenizer.tokenize(query) : null);
 		aggregator.setSentences(structure.getSentences());
 
-		/*
-		if(weights.isEmpty()){ //If weights is Empty, re-calculate weights else weights loaded to aggregate
-			weighter.calculateWeights(weights);
-			for(Double [] featureWeight : weights) {	//Correct internal state?
-				System.out.println(featureWeight.length + " == " +structure.getNumSentences());
-			}
-		}
-		 */
 		weights.clear();
 		try{
 		weighter.addFeature(new TitleTermFeature(structure.getSentenceTokens(0)));
@@ -140,10 +124,49 @@ public class Summarizer {
 		ArrayList<SentenceScore> scores = aggregator.aggregate(weights);
 
 		String summary = StringUtils.EMPTY;
+		//best ranked extraction
+		
 		for(int i = 0; i < numSentences; i++) {
 			summary+=(scores.get(i).getSentence() + "\n");
 		}
-
+		
+		
+		
+		//random extraction
+		/*
+		int maxi = scores.size();
+		Random rand = new Random();
+		
+		for (int i = 0; i< numSentences; i++) {
+			int randomi = rand.nextInt(maxi);
+			
+			while (scores.get(randomi).getScore() <= 0){
+				randomi = rand.nextInt(maxi);
+			}
+			
+			summary+= (scores.get(randomi).getSentence() + "\n");
+		}
+		*/
+		
+		//intro extraction
+		/*
+		int total = 0;
+		int numParag = 0;
+		int numSent = 0;
+		while (total < numSentences){
+			//go to next paragraph is there's no more sentence in the previous one
+			if (numSent >= structure.get(numParag).getSentences().size()){
+				numParag++;
+				numSent = 0;
+			}
+			//take a sentence only if
+			if (structure.get(numParag).getSentences().get(numSent).length() > 30){
+				summary += structure.get(numParag).getSentences().get(numSent) + "\n";
+				total++;
+			}
+			numSent++;			
+		}
+*/
 		summary = beautifulString(summary);
 		
 		return summary;

@@ -145,14 +145,14 @@ public class Weighter implements IWeighter {
             System.err.println("Basic words feature failed.");
             e.printStackTrace();
         }
-
+/*
         try {
             features.add(new SectionImportanceFeature());
         } catch (Exception e) {
             System.err.println("Section importance feature failed.");
             e.printStackTrace();
         }
-
+*/
         try {
             features.add(new ImportantTermsFeature());
         } catch (Exception e) {
