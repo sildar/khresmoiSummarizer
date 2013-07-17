@@ -1,0 +1,245 @@
+\documentclass[a4paper,10pt]{article}
+%\usepackage{libertine}
+\usepackage[utf8]{inputenc}
+
+\usepackage[english]{babel}
+\usepackage[autolanguage]{numprint}
+\usepackage{amsmath}
+\usepackage{xcolor}
+\usepackage{graphicx}
+\usepackage{hyperref}
+\usepackage{float}
+\graphicspath{{./img/}}
+\DeclareGraphicsExtensions{.png}
+\renewcommand*\thesection{\arabic{section}}
+\hypersetup{
+    colorlinks,
+    citecolor=blue,
+    filecolor=blue,
+    linkcolor=blue,
+    urlcolor=blue
+}
+
+\usepackage{geometry}
+%\geometry{scale=0.82, nohead}
+\usepackage{listings}
+\lstset{keywordstyle=\color{blue}}
+\lstset{stringstyle=\color{brown}}
+\lstset{showspaces=false}
+\lstset{showtabs=false}
+\lstset{extendedchars=true}
+\lstset{columns=flexible}
+\lstset{keepspaces=true}
+\lstset{numbers=left, numberstyle=\tiny, stepnumber=1, numbersep=5pt}
+
+\title{CNGL Summarizer adaptation to another language}
+\author{ Rémi \textsc{Bois}}
+
+
+\begin{document}
+
+\maketitle
+
+\tableofcontents
+
+\newpage
+
+\section{Introduction}
+\label{sec:intro}
+
+The CNGL Summarizer\footnote{\url{https://github.com/sildar/kreshmoiSummarizer}} is an automated summarizer for medical documents
+developped by the CNGL. It is based on sentence extraction and
+feature-scoring. It assigns a score to each sentence of a text and
+selects the top rated to create a summary. It has been tested on
+medical research articles. The original CNGL Summarizer has been
+created to summarize English documents. It relies upon English
+datasets (list of keywords) to process the document (sentence
+recognition, tokenizer, ...) and to score the sentences (eg using the
+number of medical terms in the sentence).
+
+This document gives the methods that have been used to adapt this
+system to French. It gives not only the French resources that have
+been used but also the way they were gathered. Another document has
+been created to describe how we created a corpus to test the
+summarizer on French documents.
+
+First, we'll describe the English resources used by the
+Summarizer. Then we'll explain what have been modified to adapt the
+document processing (Tokenization, sentence recognition) to
+French. Finally, we'll talk about the resources used to score the
+sentences and the way they were gathered.
+
+\section{The English (original) version}
+\label{sec:english}
+
+The resources used by the summarizer can be divided into 2 different
+categories. First, the document processing resources and second, the
+scoring resources. Figure \ref{fig:enresources} gives a list of the
+files and the category they belong to.
+
+\begin{figure}[H]
+  \centering
+  \begin{tabular}[h]{|l|l|c|}
+    \hline
+    Filename & Use & Category \\
+    \hline
+    poss\_sent\_end & Indicates which tokens can end a sentence & 1\\
+    bad\_sent\_start & Indicates an impossible beginning for a
+    sentence & 1\\
+    bad\_sent\_end & Indicates an impossible end for a sentence & 1\\
+    abbreviations & List of common abbreviations & 1\\
+    \hline
+    datetime\_terms & Keywords indicating a date or time & 2\\
+    sections & Potential title of sections in a paper & 2\\
+    cue\_phrases & Keywords indicating that a sentence may be
+    important & 2\\
+    medical\_dict & Affixes indicating a medical term (eg patho-,
+    -trophy) & 2\\
+    medical\_terms & List of medical terms & 2\\
+    SpacheWordList & List of most common words & 2\\
+    stopwords & List of stopwords & 2\\
+    \hline
+    
+  \end{tabular}
+  \caption{Resources for the Summarizer}
+  \label{fig:enresources}
+\end{figure}
+
+The first category includes keywords that help decide where to split
+a paragraph into sentences or into words (tokens). Most of these
+resources include generic vocabulary and/or punctuation marks. They
+are mainly language dependant (as long as we consider languages based
+on the Latin alphabet). They can be automatically translated from one
+language to another.
+The second category is used to score the sentences. Some features
+consist in checking if a perticular word is in the processed sentence
+(eg is ``In conclusion'' included in the sentence ?). The terms in
+these resources are mainly language dependant and often need more that
+an automatic translation to give comparable results.
+
+
+\section{Document processing adaptation}
+\label{sec:docproc}
+
+This category includes all resources allowing the Summarizer to split
+the paragraphs into sentences and the sentences into words. Theses
+resources are language independant and need at most a simple
+translation. Some of these files didn't need any modification and the
+others had been automatically translated. The figure
+\ref{fig:frdocproc} shows how these files where modified for French.
+
+\begin{figure}[H]
+  \centering
+  \begin{tabular}[h]{|l|l|c|}
+    \hline
+    Filename & Content & Modification\\
+    \hline
+    poss\_sent\_end & Punctuation + abbreviations (eg army ranks) &
+    None\\
+    bad\_sent\_start & Punctuation only & None\\
+    bad\_sent\_end & Punctuation only & None\\
+    abbreviations & Common abbreviations (eg army ranks) & day and
+    titles translation\\
+    \hline
+  \end{tabular}
+  \caption{Resources adaptation for document processing}
+  \label{fig:frdocproc}
+\end{figure}
+
+The abbreviations list may be adapted or completed with abbreviations
+from the medical domain.
+
+
+
+\section{Sentence scoring adaptation}
+\label{sec:sentscor}
+
+This category includes resources used to score the sentences of a
+medical paper in order to choose which ones should be kept as
+summary. Most of them couldn't be automatically translated due to the
+presence of specialized vocabulary or specific linguistic features
+(medical terms, cue phrases). Figure \ref{fig:frsentscor} shows what
+modifications have been made on the resources to adapt them to
+French. The use of external resources is described section
+\ref{sec:extres} page \pageref{sec:extres}.
+
+\begin{figure}[H]
+  \centering
+  \begin{tabular}[h]{|l|l|c|}
+    \hline
+    Filename & Content & Modifications \\
+    \hline
+    datetime\_terms & Keywords indicating a date or time & Automatic
+    translation\\
+    sections & Potential title of sections in a paper & Manual
+    translation\\
+    cue\_phrases & Keywords indicating an important sentence & Manual
+    translation\\
+    medical\_dict & Affixes indicating a medical term (eg patho-) &
+    None\\
+    medical\_terms & List of medical terms & External resource\\
+    SpacheWordList & List of most common words & External resource\\
+    stopwords & List of stopwords & External resource\\
+    \hline
+    
+  \end{tabular}
+  \caption{Resources adaptation for sentence scoring}
+  \label{fig:frsentscor}
+\end{figure}
+
+\section{External resources}
+\label{sec:extres}
+
+Three resources we used couldn't be automatically translated due to
+the need of a particular vocabulary (either simple vocabulary for the
+spache words list or a specialized vocabulary for medical terms). We
+tried to find multilanguage resources in order to ease the process of
+adaptation to another language. Figure \ref{fig:extres} show wich
+resources have been used.
+
+\begin{figure}[H]
+  \centering
+  \begin{description}
+  \item[Medical terms] : \hfill \\
+    \url{http://users.ugent.be/~rvdstich/eugloss/welcome.html}\\
+    List of 1840 (once processed) medical terms, available in 8
+    languages, including French and English. This is a work from the
+    European Union. It may be outdated (2000) depending on the
+    frequence of appearance of new medical terms.\\
+    One needs to write a script to extract and normalize the terms of a
+    language (get the html pages, then extract the terms for the
+    pages).
+  \item[Stopwords] : \hfill \\
+    \url{http://www.ranks.nl/resources/stopwords.html}\\
+    \url{http://snowball.tartarus.org/algorithms/}\\
+    Depending on the need of a short or long stopword list, these two
+    websites can be used. The first one offers a short list for
+    almost 20 languages and the second one offers a long list for a
+    dozen languages.
+  \item[Spache Word List] : \hfill \\
+    An automatic translation may be insufficient due to the probability
+    of obtaining specialized words instead of generic easy words. One
+    solution is to find a list of words a child should know at a given
+    age. For French, we used a list of 1750 words a 4 years old child
+    shoud know.\\
+    \url{http://fr.wiktionary.org/wiki/Wiktionnaire:Liste_de_1750_mots_fran%C3%A7ais_les_plus_courants}.
+      
+  \end{description}
+  
+  \caption{External resources}
+  \label{fig:extres}
+\end{figure}
+
+\section{Conclusion}
+\label{sec:conclusion}
+
+The changes that have been made to adapt the CNGL Summarizer to French
+could be easily used to adapt it to other European roman
+languages. When an automatic translation wasn't sufficient,
+multilingual resources had been used to ease the process. Some manual
+translations were needed (in particular the cue phrases translations)
+but these are only a few sentences long.
+
+
+
+\end{document}
