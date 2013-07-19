@@ -1,5 +1,6 @@
 import codecs
 import os
+from sys import argv
 
 sent = 0
 maxsent = 0
@@ -9,13 +10,15 @@ maxword = 0
 minword = 99999
 nbfiles = 0
 
-
-cwd = os.getcwd()
+if len(argv) == 2:
+    cwd = argv[1]
+else:
+    cwd = os.getcwd()
 
 for root, dir, files in os.walk(cwd):
     for name in files:
         nbfiles += 1
-        with codecs.open(name, "r", "utf-8") as currentfile:
+        with codecs.open(cwd+name, "r", "utf-8") as currentfile:
             content = currentfile.readlines()
             nbsentinfile = 0
             nbwordinfile = 0
@@ -30,7 +33,7 @@ for root, dir, files in os.walk(cwd):
             sent += nbsentinfile
             word += nbwordinfile
 
-print "Results :\n"
+print "Results for", cwd, ":\n"
 print "Sents : ", sent
 print "Sents mean : ", sent/nbfiles
 print "Sents max : ", maxsent
