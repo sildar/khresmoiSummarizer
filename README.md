@@ -18,3 +18,5 @@ If you have errors, you may want to try :
 To execute the Test class (runs summarization on the corpus, using all implemented features) :
 
 	$ mvn exec:java -Dexec.mainClass="ie.dcu.cngl.summarizer.main.Test"
+
+The License is somewhat restrictive. Read it and contact the CNGL in Dublin if you want more information.
