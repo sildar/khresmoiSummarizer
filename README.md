@@ -1,6 +1,16 @@
 kreshmoiSummarizer
 ==================
 
+Introduction
+------------
+
+This is a summarizer for the medical domain that I ported to the French Language during my internship at the CNGL, Dublin.
+You can see my reports in the "reports" folder. They explain the process I followed to port and evaluate the summarizer.
+
+
+Install
+-------
+
 After cloning the repository, you'll need to install locally the two libraries (jaws and jwi), from the root of the repo :
 
 	$ mvn install:install-file -Dfile=./libs/jaws-bin.jar -DgroupId=jaws-bin -DartifactId=jaws-bin -Dversion=1.0 -Dpackaging=jar
@@ -15,8 +25,13 @@ If you have errors, you may want to try :
 
 	$ mvn resources:resources
 
-To execute the Test class (runs summarization on the corpus, using all implemented features) :
+To execute the Test class (runs summarization on the corpus, using all implemented features. Unfortunately,
+the corpus can not be distributed yet, but you can create one and adapt the Test class to it) :
 
 	$ mvn exec:java -Dexec.mainClass="ie.dcu.cngl.summarizer.main.Test"
+
+
+Licence
+-------
 
 The License is somewhat restrictive. Read it and contact the CNGL in Dublin if you want more information.
