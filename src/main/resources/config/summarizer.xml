@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <config>
     <languages>
-        <language>eng</language>
+        <language>en</language>
+	<language>fr</language>
     </languages>
+    <usedlanguage>fr</usedlanguage>
 	<files>
 		<stopwords>stopwords.txt</stopwords>
 		<cuephrases>test_cue_phrases.txt</cuephrases>
