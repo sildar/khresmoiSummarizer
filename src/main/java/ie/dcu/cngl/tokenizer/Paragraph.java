@@ -2,6 +2,11 @@ package ie.dcu.cngl.tokenizer;
 
 import java.util.ArrayList;
 
+/**
+ * Represents a paragraph
+ * @author Rémi Bois
+ *
+ */
 public class Paragraph extends ArrayList<Sentence>{
 
 	public Paragraph(ArrayList<Sentence> sentences) {
