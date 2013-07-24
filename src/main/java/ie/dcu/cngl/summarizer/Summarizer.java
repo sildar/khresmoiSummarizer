@@ -90,8 +90,9 @@ public class Summarizer {
 
 		PageStructure structure = structurer.getStructure(content);	
 		weighter.setStructure(structure);
-		weighter.setTitle(structure.getSentenceTokens(0));
-
+		Sentence titleSentence = tokenizer.tokenize(title);
+		weighter.setTitle(titleSentence);
+		
 		//weighter.setTitle(StringUtils.isNotEmpty(title) ? tokenizer.tokenize(title) : null);
 		weighter.setQuery(StringUtils.isNotEmpty(query) ? tokenizer.tokenize(query) : null);
 		aggregator.setSentences(structure.getSentences());
@@ -160,13 +161,13 @@ public class Summarizer {
 				numSent = 0;
 			}
 			//take a sentence only if
-			if (structure.get(numParag).getSentences().get(numSent).length() > 30){
+			if (structure.get(numParag).getSentences().get(numSent).length() > 15){
 				summary += structure.get(numParag).getSentences().get(numSent) + "\n";
 				total++;
 			}
 			numSent++;			
 		}
-*/
+	*/
 		summary = beautifulString(summary);
 		
 		return summary;
@@ -178,8 +179,8 @@ public class Summarizer {
 	 * @return the processed string, without spaces before punctuation mark
 	 */
 	private String beautifulString(String summary) {
-		String result = summary.replaceAll("\\s([,?.;)])", "$1");
-		result = result.replaceAll("([(])\\s", "$1");
+		String result = summary.replaceAll("\\s([,?.;)’-])", "$1");
+		result = result.replaceAll("([(’-])\\s", "$1");
 		return result;
 	}
 

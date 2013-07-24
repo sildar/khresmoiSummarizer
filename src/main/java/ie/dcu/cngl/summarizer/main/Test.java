@@ -2,6 +2,7 @@ package ie.dcu.cngl.summarizer.main;
 
 import ie.dcu.cngl.summarizer.Aggregator;
 import ie.dcu.cngl.summarizer.Summarizer;
+import ie.dcu.cngl.summarizer.SummarizerUtils;
 import ie.dcu.cngl.summarizer.Weighter;
 import ie.dcu.cngl.tokenizer.Structurer;
 
@@ -11,21 +12,37 @@ import java.io.FileReader;
 import java.io.PrintWriter;
 import java.util.ArrayList;
 
+import org.apache.commons.io.FileUtils;
+
 
 public class Test {
 	public static void main(String [] args) throws Exception {
 
-		final File folder = new File("./corpus/endo/");
 		ArrayList<String> fileList = new ArrayList<String>();
 		ArrayList<String> texts = new ArrayList<String>();
 		ArrayList<String> titles = new ArrayList<String>();
 		ArrayList<String> abstracts = new ArrayList<String>();
+		/*
+		File folder = new File("./expData/en/4training/");
+		for (File fileEntry : folder.listFiles()){
+			fileList.add(fileEntry.getName());
+		}
+		
+		for (String filename : fileList){
+			texts.add(FileUtils.readFileToString(new File("./expData/en/4training/" + filename)));
+			titles.add(FileUtils.readFileToString(new File("./expData/en/titles/" + filename)));
+			abstracts.add(FileUtils.readFileToString(new File("./expData/en/abs/" + filename)));
+		}
+		*/
+		
+		final File folder = new File("./corpus/endook/");
 
 		for (final File fileEntry : folder.listFiles()) {
 			if (fileEntry.getName().contains("ok") && fileEntry.isFile()){
 				fileList.add(fileEntry.getAbsolutePath());
 			}
 		}
+		
 
 		System.out.println(fileList.size() + " files to process");
 
@@ -45,7 +62,7 @@ public class Test {
 			texts.add(sb.toString());
 			br.close();
 		}
-
+	
 		System.out.println("Starting summarization");
 
 		long startTime = System.nanoTime();

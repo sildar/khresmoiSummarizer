@@ -63,7 +63,7 @@ public class SummarizerUtils {
 			langISO3 = supportedLanguages.contains(langISO3) ? langISO3 : "en";
 			
 			//!!temporary
-			langISO3 = "fr";
+			langISO3 = "en";
 			
 			stopwords = "/data/" + langISO3 + "/" + config.getString("files.stopwords");
 			cuePhrasesFile = "/data/" + langISO3 + "/" + config.getString("files.cuephrases");

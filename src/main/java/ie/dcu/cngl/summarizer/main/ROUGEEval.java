@@ -29,7 +29,7 @@ public class ROUGEEval {
 
         Double precisionSum = 0.0;
         Double recalSum = 0.0;
-        //r1.setStopwordFile("rouge.stopwordfr");
+        r1.setStopwordFile("rouge.stopwordfr");
         int numOfFiles = 0;
          
         try {
@@ -49,6 +49,9 @@ public class ROUGEEval {
                 precisionSum += r1.getPrecision();
                 recalSum += r1.getRecall();
                 
+                if (r1.getRecall() < 0.02){
+                	//System.out.println("File number " + i + " is an outlier with " + r1.getRecall());
+                }
 
                 if (i % 100 == 0) {
                     System.out.println("Processed: " + (i + 1) + " files");
