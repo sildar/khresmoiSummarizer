@@ -20,28 +20,13 @@ public class Aggregator implements IAggregator {
 	/**
 	 * Combines provided weights.
 	 * @param allWeights 2-dimensional array of all weights computed for each sentence
-	 * @return Array of sentences with their ranking.
+	 * @return Array of sentences with their ranking. Sentences are ordered by score.
 	 */
 	public ArrayList<SentenceScore> aggregate(HashMap<String, Double[]> allWeights) {
 		final int numSentences = sentences.size();
 		double[] totalWeights = new double[numSentences];
 		ArrayList<SentenceScore> scores = new ArrayList<SentenceScore>();
 		
-		/*//!!BAD puts all sentences to 0 after a bad sentence
-		//Calculating all weights
-		for(Double[] featureWeights : allWeights) {
-			boolean flaggedAsBad=false;
-			for(int i = 0; i < featureWeights.length; i++) {
-
-				if(featureWeights[i] >= 0 && !flaggedAsBad) {
-					totalWeights[i]+=featureWeights[i];
-				} else {
-					flaggedAsBad = true;
-					totalWeights[i] = 0;
-				}
-			}
-		}
-		*/
 		for (String feature : allWeights.keySet())
 		{
 			Double[] featureWeights = allWeights.get(feature); 
@@ -54,7 +39,6 @@ public class Aggregator implements IAggregator {
 				}
 			}
 		}
-		
 
 		//Pairing weights with sentences for ranking
 		for(int i = 0; i < numSentences; i++) {
