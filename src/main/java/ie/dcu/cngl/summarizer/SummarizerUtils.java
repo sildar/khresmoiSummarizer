@@ -1,7 +1,6 @@
 package ie.dcu.cngl.summarizer;
 
 import java.util.List;
-import java.util.Locale;
 
 import org.apache.commons.configuration.ConfigurationException;
 import org.apache.commons.configuration.XMLConfiguration;
@@ -58,12 +57,9 @@ public class SummarizerUtils {
             
             List<Object> supportedLanguages = config.getList("languages.language");
             
-			String langISO3 = Locale.getDefault().getLanguage();
+			String langISO3 = config.getString("usedlanguage");
 			//set to english if the language is not supported
 			langISO3 = supportedLanguages.contains(langISO3) ? langISO3 : "en";
-			
-			//!!temporary
-			langISO3 = "en";
 			
 			stopwords = "/data/" + langISO3 + "/" + config.getString("files.stopwords");
 			cuePhrasesFile = "/data/" + langISO3 + "/" + config.getString("files.cuephrases");

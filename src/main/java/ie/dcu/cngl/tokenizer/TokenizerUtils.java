@@ -4,7 +4,6 @@ import ie.dcu.cngl.summarizer.SummarizerUtils;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Locale;
 
 import org.apache.commons.configuration.ConfigurationException;
 import org.apache.commons.configuration.XMLConfiguration;
@@ -30,16 +29,14 @@ public class TokenizerUtils {
 	static{
 		try{
 			XMLConfiguration config = new XMLConfiguration(SummarizerUtils.class.getResource("/config/tokeniser.xml"));
+			XMLConfiguration configSummariser = new XMLConfiguration(SummarizerUtils.class.getResource("/config/summarizer.xml"));
 
 
-			List<Object> supportedLanguages = config.getList("languages.language");
-			String langISO3 = Locale.getDefault().getLanguage(); //this is ISO 639-1 with two letters code
-
+			List<Object> supportedLanguages = configSummariser.getList("languages.language");
+			String langISO3 = config.getString("usedlanguage");
+			
 			//set to english if the language is not supported
 			langISO3 = supportedLanguages.contains(langISO3) ? langISO3 : "en";
-
-			tokenModelFile = "/data/" + langISO3 + "/" + config.getString("models.token");
-			sentenceModelFile = "/data/" + langISO3 + "/" + config.getString("models.sentence");
 			
 			abbreviations = "/data/" + langISO3 + "/" + config.getString("word.abbreviations");
 			badSentenceStart = "/data/" + langISO3 + "/" + config.getString("sentence.badStart");
