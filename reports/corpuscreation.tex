@@ -47,5 +47,145 @@
 \section{Introduction}
 \label{sec:intro}
 
+This document describes the list of processes to follow to create a
+medical corpus. It is illustrated by the creation of a French corpus
+that have been completed during my internship in the CNGL of
+Dublin\footnote{\url{http://www.cngl.ie/}} as part of the porting of a
+summariser for the medical domain to French. This internship has been
+conducted as part of the
+Khresmoi\footnote{\url{http://www.khresmoi.eu/}} project.
+
+Every step, from downloading pdf files to storing the corpus will be
+explored. Given the fact that the characteristics of the data
+processed depends heavily on the source from where it is extracted,
+this document will give a ``generic'' approach. It will nevertheless
+provide links where you can find  medical papers in different
+languages, scripts that can be adapted to process the files and, most
+of all, the method to follow.
+
+Some alternatives will be given, even if they have not been
+tested. They might either save time, be easier to use or more adapted to
+a specific corpus.
+
+\section{Finding medical papers}
+\label{sec:findingpapers}
+
+The first issue in creating a specialized corpus is to find and get
+the resources. This section explores some locations where you can find
+data and describes the kind of resources you should be looking
+for. Finally, basic scripts for downloading a list of pdf files will
+be provided.
+
+\subsection{Some locations}
+\label{sec:locations}
+
+Finding free medical papers can be a real challenge. Nevertheless,
+some websites do aggregate available free papers. While free doesn't
+mean that you can distribute them, you can still use them to evaluate
+your system.
+
+The website that have been used for the French porting of the
+summariser is \url{http://www.freemedicaljournals.com/}. Here, you can
+search for papers in a specific language. You'll obtain links to the
+journals' websites or their publisher.
+
+\subsection{What kind of papers ?}
+\label{sec:kindofpaper}
+
+One of the main issues that you'll face creating a corpus composed of
+research articles, is that the articles will likely have different
+sections and format. Some will have a list of figures, some will have
+multilingual abstracts etc... Since you will have to clean the corpus
+in order to make it homogeneous, you want to find papers that follow
+the same rules of formatting. This can be achieved by selecting
+articles issued from the same journal. By getting articles from a
+journal that has been publishing for years, you'll likely have the
+same strucure for most of the papers.
+
+Depending on the size of the corpus you are trying to create, you may
+have to use different journals. The chances are that you will have to
+build custom scripts for cleaning each of the journals, adding a lot
+of work for the corpus creation.
+
+Some journals have a ``printable'' version. Those journals are likely
+to be composed of only one big pdf file. While attracting at first
+sight, remember that you will have to separate the articles if some
+happen to be on the same page. This is non-trivial and will not be
+explored in this document. The easiest is to find a journal giving a
+list of the articles that are published and giving links to download
+the pdf files separately.
+
+\subsection{Downloading papers}
+\label{sec:download}
+
+Most of the time, the website from which you can download the articles
+will be composed of many links, to follow in the right order.
+
+\begin{enumerate}
+\item The year of publication
+\item The month of publication
+\item The articles published in the issue
+\end{enumerate}
+
+From there, it is easy to write a script that will explore exery year
+in the available range, and to get the html pages containing the list
+of articles for each issue.
+
+Once you have those HTML pages, you can download every pdf link that
+you find. You may need to use a regular expression (regexp) to only
+download articles papers and discard supplements.
+
+On a UNIX system, you will likely use \emph{wget} for downloading
+(html pages or pdfs) and \emph{sed} to extract pdf links. You may face
+encoding issues which can be resolved thanks to \emph{iconv}.
+
+The script \emph{getpdfs.sh} shows an example with the website
+\url{http://www.revuemedecinetropicale.com/html/}. Please note that
+this script is very specific and here only to give you an idea of how
+to proceed.
+
+\section{From pdf to text}
+\label{sec:pdftotext}
+
+\subsection{Apache's pdf to text}
+\label{sec:apachepdf}
+
+\subsection{Pdftotext + LApdftext}
+\label{sec:lapdf}
+
+
+
+\section{Cleaning text}
+\label{sec:cleaning}
+
+\subsection{Checking encoding}
+\label{sec:encoding}
+
+\subsection{Removing incoherent files}
+\label{sec:incoherent}
+
+
+
+\subsection{Removing useless sections}
+\label{sec:removesec}
+
+
+
+\section{Formatting the data for storage}
+\label{sec:format}
+
+\subsection{Give a structure to the text}
+\label{sec:textstructure}
+
+\subsection{XML vs plain text}
+\label{sec:xml}
+
+\section{Conclusion}
+\label{sec:conclusion}
+
+
+
+
+
 
 \end{document}
