@@ -3,16 +3,12 @@ package ie.dcu.cngl.summarizer;
 import ie.dcu.cngl.summarizer.feature.TitleTermFeature;
 import ie.dcu.cngl.tokenizer.IStructurer;
 import ie.dcu.cngl.tokenizer.PageStructure;
-import ie.dcu.cngl.tokenizer.Paragraph;
 import ie.dcu.cngl.tokenizer.Sentence;
 import ie.dcu.cngl.tokenizer.Tokenizer;
 
-import java.io.File;
 import java.io.IOException;
-import java.io.PrintWriter;
 import java.util.ArrayList;
 import java.util.HashMap;
-import java.util.Random;
 
 import org.apache.commons.lang.StringUtils;
 
@@ -48,8 +44,6 @@ public class Summarizer {
 
 	private HashMap<String, Double[]> weights;
 
-	private PrintWriter pw;
-
 	/**
 	 * Creates new summarizer with provided components.
 	 * @param structurer Extracts content structure
@@ -63,11 +57,6 @@ public class Summarizer {
 		this.structurer = structurer;
 		this.numSentences = 2;	//Default number of sentences
 		this.weights = new HashMap<String, Double[]>();
-		try{
-			pw = new PrintWriter(new File("./results.txt"));
-		}catch (IOException e){
-			System.out.println();
-		}
 	}
 
 	/**
@@ -93,7 +82,6 @@ public class Summarizer {
 		Sentence titleSentence = tokenizer.tokenize(title);
 		weighter.setTitle(titleSentence);
 		
-		//weighter.setTitle(StringUtils.isNotEmpty(title) ? tokenizer.tokenize(title) : null);
 		weighter.setQuery(StringUtils.isNotEmpty(query) ? tokenizer.tokenize(query) : null);
 		aggregator.setSentences(structure.getSentences());
 
@@ -105,76 +93,22 @@ public class Summarizer {
 		}
 		weighter.calculateWeights(weights);
 
-
-
-		pw.append(structure.getSentenceTokens(0).getTokens() + "\n");
-		
-		for (int i = 0; i<structure.getNumSentences(); i++){
-
-			pw.append(structure.getSentenceTokens(i).getTokens() + "\n");
-			double total = 0;
-
-			for (String featureName : weights.keySet()){
-				double score = weights.get(featureName)[i];
-				total += score;
-				pw.append("\t" + featureName + "\t" + score + "\n");
-			}
-			pw.append("\t Total \t" + total + "\n\n");
-		}
-
 		ArrayList<SentenceScore> scores = aggregator.aggregate(weights);
 
 		String summary = StringUtils.EMPTY;
-		//best ranked extraction
 		
+		//best ranked extraction
 		for(int i = 0; i < numSentences; i++) {
 			summary+=(scores.get(i).getSentence() + "\n");
 		}
-		
-		
-		
-		//random extraction
-		/*
-		int maxi = scores.size();
-		Random rand = new Random();
-		
-		for (int i = 0; i< numSentences; i++) {
-			int randomi = rand.nextInt(maxi);
-			
-			while (scores.get(randomi).getScore() <= 0){
-				randomi = rand.nextInt(maxi);
-			}
-			
-			summary+= (scores.get(randomi).getSentence() + "\n");
-		}
-		*/
-		
-		//intro extraction
-		/*
-		int total = 0;
-		int numParag = 0;
-		int numSent = 0;
-		while (total < numSentences){
-			//go to next paragraph is there's no more sentence in the previous one
-			if (numSent >= structure.get(numParag).getSentences().size()){
-				numParag++;
-				numSent = 0;
-			}
-			//take a sentence only if
-			if (structure.get(numParag).getSentences().get(numSent).length() > 15){
-				summary += structure.get(numParag).getSentences().get(numSent) + "\n";
-				total++;
-			}
-			numSent++;			
-		}
-	*/
+
 		summary = beautifulString(summary);
 		
 		return summary;
 	}
 
 	/**
-	 * Delete the whitespace before some punctuation marks (,?.)
+	 * Delete the whitespace before some punctuation marks (,?.')
 	 * @param summary the string to process
 	 * @return the processed string, without spaces before punctuation mark
 	 */
