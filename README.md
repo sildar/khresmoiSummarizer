@@ -17,6 +17,8 @@ After cloning the repository, you'll need to install locally the two libraries (
 
 	$ mvn install:install-file -Dfile=./libs/edu.mit.jwi_2.2.3.jar -DgroupId=jwi -DartifactId=jwi -Dversion=2.2.3 -Dpackaging=jar
 
+	$ mvn install:install-file -Dfile=./libs/dragontool.jar -DgroupId=dragon -DartifactId=dragon -Dversion=1.3.3 -Dpackaging=jar
+
 Then
 
 	$ mvn compile
