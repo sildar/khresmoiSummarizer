@@ -1,6 +1,12 @@
 #!/bin/bash
 
-#Fixes encoding of all files in the folders of the cwd
+#By Rémi Bois
+#Very simple script converting a folder filled with broken text files
+#(bad encoding) to a new folder (with prefix UTF-8). Uses ftfy which
+#has to be installed
+#https://github.com/LuminosoInsight/python-ftfy. This script is ment
+#to be used in a folder containing folders of texts to fix.
+
 
 for folder in `ls`
 do

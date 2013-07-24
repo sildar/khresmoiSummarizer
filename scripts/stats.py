@@ -19,7 +19,7 @@ def usage(num):
         print "This script prints some statistics about text files in a folder."
         print "It doesn't compute exact statistics, but allows to compare different folders."
         print "It needs only one argument : the folder to consider"
-        print "Ex : python stats.py ./corpus/"
+        print "Eg : python stats.py ./corpus/"
     elif num == 2:
         print "The argument must be a path to the folder to analyse. You seem to have given an incorrect path"
     exit(1)

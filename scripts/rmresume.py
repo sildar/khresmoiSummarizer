@@ -1,22 +1,44 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
+
+#arg[1] folder
+#arg[2] keyword
+#arg[3] linenumber
+
 import codecs
 import os
+from sys import argv
+
+def usage(num):
+    pass
+
+if len(argv) !=  4:
+    print usage(1)
+else:
+    if os.exists(argv[1]):
+        cwd = argv[1]
+    else:
+        usage(2)
+    keyword = argv[2]
+    try:
+        linenumber = int(argv[3])
+    except ValueError:
+        usage(4)
 
 
-for root, dir, files in os.walk(os.getcwd()):
-    for name in files:
-        with codecs.open(name,"r","utf-8") as currentfile:
-            basename = name[0:name.find('.')]
+for filename in os.path.listdir(cwd):
+    if os.path.isfile(filename):
+        with codecs.open(filename,"r","utf-8") as currentfile:
+            basename = filename[0:filename.find('.')]
             content = currentfile.readlines()
             out = ""
             for num,line in enumerate(content):
-                if num == 1 and u"Mots clés" in line:
-                    out += line[8:line.find(u"Mots clés")]
+                if num == 1 and keyword in line:
+                    out += line[8:line.find(keyword)]
                 else:
                     out += line
-            outfile = codecs.open(basename + "kk.txt", "w", "utf-8")
-            outfile.write(out)
+            with codecs.open(basename + "_clean.txt", "w", "utf-8") as outfile:
+                outfile.write(out)
 
 
 
