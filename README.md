@@ -31,6 +31,13 @@ To execute the Test class (runs summarization on the corpus, using all implement
 the corpus can not be distributed yet, but you can create one and adapt the Test class to it) :
 
 	$ mvn exec:java -Dexec.mainClass="ie.dcu.cngl.summarizer.main.Test"
+	
+The results are put in an expData/abstract and expData/summaries folders. You may need to create them if they don't exist.
+Then, you can evaluate the result :
+
+	$ mvn exec:java -Dexec.mainClass="ie.dcu.cngl.summarizer.main.ROUGEEval"
+	
+The results will be output on the Console/Terminal.
 
 
 Licence
