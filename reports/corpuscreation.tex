@@ -147,45 +147,182 @@ to proceed.
 \section{From pdf to text}
 \label{sec:pdftotext}
 
-\subsection{Apache's pdf to text}
+Transforming pdf files into text files is almost always a difficult
+process. We offer two possibilities here. Depending on the type of
+articles you are working with, one may work better than the other.
+
+This step aims at getting all interesting text, without (as much as
+possible) getting the footers and headers. Are considered as
+non-relevant text :
+
+\begin{itemize}
+\item Page numbers
+\item Footnotes
+\item Journal name and other information that are repeated each page
+\end{itemize}
+
+Some information can also be considered as non-important depending on
+the experiments you want to run. In this project, we considered as
+non-important :
+
+\begin{itemize}
+\item The authors' names and their university
+\item The references
+\item The figures (including their titles)
+\item The table of figures / table of contents
+\end{itemize}
+
+\subsection{Apache's PDFBox}
 \label{sec:apachepdf}
+
+While this tool has not been used in this project, it may definitely
+be useful for converting pdf files to text. The
+API\footnote{\url{http://pdfbox.apache.org/}} offers to extract the
+text page by page. By doing that, you can easily :
+
+\begin{enumerate}
+\item Remove footers and headers between each page
+\item Join the pages when the text has been split
+\item Remove first page information and last pages references
+\end{enumerate}
+
+This process should be generic for any given journal.
+
+We do not know if PDFbox handles correctly the multicolumns
+articles. If not, this tool will not be usable on most journals.
+
 
 \subsection{Pdftotext + LApdftext}
 \label{sec:lapdf}
 
+This approach has been used in this project. We combined 2 extraction
+tools that behave differently to obtain the full text.
+
+LApdftext\footnote{\url{https://github.com/BMKEG/lapdftextProject}} is
+a tool allowing to extract text from pdfs based on the characteristics
+of the text segments. By writing rules, you can for example decide to
+keep all text segments of size 26 but not those which are bold. The
+lack of documentation makes this tool hard to use but the default
+parameters can give you decent results (that's how we proceeded in
+this project). It is still being developped and future versions may be
+easier to use.
+
+Pdftotext\footnote{\url{http://linux.die.net/man/1/pdftotext}} is a
+unix tool allowing to automatically extract text from a pdf. While
+very useful, it does not offer the same amount of personalization as
+LApdftext.
+
+In our project, we used pdftotext to extract the title and the
+abstract while we used LApdftext for the other text
+segments. LApdftext allowed us to not keep the footers and headers and
+simplified a lot the cleaning that necessarily comes later. LApdftext
+also handles correctly multicolumns, which is very common in research
+papers.
+
+The script \emph{combine.py} shows how, from the pdftotext files and
+the LApdftext files, we managed to obtain the title, abstract and main
+content. The script is not well documented and here only to give you
+an idea of how to combine the files. It is not generic (ie, you should
+write different scripts for each journal you want to process).
+
+You may want to apply some cleaning before combining the files (eg
+solving encoding issues can be mandatory before combining).
 
 
 \section{Cleaning text}
 \label{sec:cleaning}
 
+At the end of this section, the goal is to have clean texts, meaning
+that they can be used as a corpus.
+
 \subsection{Checking encoding}
 \label{sec:encoding}
+
+The first issue to fix is the encoding. This step can be done as soon
+as you have plain text. For doing this, you may need two tools. In
+some cases, this step is not necessary.
+
+We insist on the fact that using the UTF-8 standard will allow you to
+use your corpus in most environnements while choosing an old or local
+encoding (eg latin-1, ascii) will limit you.
+
+The first tool you can use is
+iconv\footnote{\url{http://www.gnu.org/savannah-checkouts/gnu/libiconv/documentation/libiconv-1.13/iconv.1.html}},
+which can convert from an encoding to another one.
+
+The second tool that may be useful is Fixing Text For
+You\footnote{\url{https://www.github.com/LuminosoInsight/python-ftfy}}
+(ftfy). This tool has been made to fix encoding issues (like
+characters that have been poorly encoded).
 
 \subsection{Removing incoherent files}
 \label{sec:incoherent}
 
+Most of the time, some pages of a journal will not be useful. For
+example, it is quite common to have an introduction to the journal,
+presenting its goal or the company running it. At this step, you
+should remove these files.  Most of the time they are easy to detect
+automatically (they will not have any abstracts for example). Here are
+some of the indicators showing incoherent files.
+
+\begin{itemize}
+\item Some common part is missing (abstract, author, title)
+\item The title has only one word or contains specific words
+\item The main content is too short
+\end{itemize}
+
+\subsection{Reconstructing split lines}
+\label{sec:splittedlines}
+
+Two columns articles may lead to a lot of words split. You may want to
+only have full words and so, remove the hyphens. You have to do this
+carefully though because some words naturally contain hyphens (eg
+X-ray). The easiest way to solve this problem is to use a
+dictionnary. If you find a word containing an hyphen, check if that
+word without the hyphen is in the dictionnary. If it is, remove the
+hyphen, else, do not touch the word. The larger the dictionnary, the
+better the result.
+
+The \emph{rehyphenize.py} script does this. You can feed it with the
+dictionnary of your choice, it can work for any roman language. It is
+fully documented and we encourage you to use it.
 
 
 \subsection{Removing useless sections}
 \label{sec:removesec}
 
+Due to an imperfect text extraction or simply to some text you want to
+strip, you may have to write scripts to remove the useless
+sections. This was the case in our project for the abstracts. We
+wanted to remove some keywords (eg ``Introduction :'', ``Results :'')
+that made the comparison with summaries complicated.
+
+The script \emph{rmsections.py} has been used. It is fully documented
+and you can apply it to a custom list of keywords to remove from a
+specific line.
 
 
 \section{Formatting the data for storage}
 \label{sec:format}
 
-\subsection{Give a structure to the text}
-\label{sec:textstructure}
+Once you have plain text files, you have to choose the format you will
+use to distribute it. Two major approches exist : plain text or XML.
 
 \subsection{XML vs plain text}
 \label{sec:xml}
 
-\section{Conclusion}
-\label{sec:conclusion}
+XML is a widely used format, allowing to type the information and to
+modify it easily. If you can, thanks to the previous processing, to
+obtain the authors' names, the date of publication, you may consider
+formatting your corpus with XML. It will then be easy to add new
+informations like the number of citations for each paper or the
+name of the conference where is has been presented. These kind of
+informations can lead to new use of your corpus.
 
-
-
-
-
+On the other hand, if you do not plan on using your corpus again, you
+may keep it in plain text, as long as the structure is ``simple and
+obvious''. This means that specific sections (title, abstract, ...)
+should always be on the same line. You may want to add a readme to
+explain the structure.
 
 \end{document}
